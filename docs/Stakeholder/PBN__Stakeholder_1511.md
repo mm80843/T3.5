@@ -2,10 +2,9 @@
 
 # __visitors of ugs__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Lack of maintenance and upkeep of UGS](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2258.md)
-* [Increased risk of contagion in crowded UGS](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2255.md)
+* [Foreign nationals residing in or visiting various destinations for tourism, with a focus on travelers during the pandemic and the industries reliant on tourism, such as hotels, tourism operators, and tourism boards.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_380.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [visitors to public places](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_767.md)
 * [tourists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_72.md)
 * [resident and visitor](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2528.md)
+
+## Risk affecting this stakeholder
+
+* [Lack of maintenance and upkeep of UGS](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2258.md)
+* [Increased risk of contagion in crowded UGS](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2255.md)
 

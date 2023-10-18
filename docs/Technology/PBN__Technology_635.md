@@ -2,9 +2,9 @@
 
 # __contingency planning__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q2340208](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2340208.md)
+* [Maximizing economic efficiency while promoting financial stability through innovative strategies, investments, and partnerships at various levels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_195.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_922.md)
 * [regional planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4210.md)
 * [planners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_384.md)
+
+## This Technology is identified by the following QID
+
+* [Q2340208](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2340208.md)
 

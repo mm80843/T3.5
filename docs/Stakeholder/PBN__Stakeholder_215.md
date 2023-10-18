@@ -11,6 +11,10 @@
 * [Reduction in surface contamination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_722.md)
 * [Reduction in faecal contamination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_960.md)
 
+## Category to which it belongs
+
+* [Those involved in the provision and management of healthcare services, including workers, professionals, facilities, and users.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_355.md)
+
 ## Closest similar item
 
 * [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)

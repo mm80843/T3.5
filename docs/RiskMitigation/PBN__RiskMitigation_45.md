@@ -2,13 +2,9 @@
 
 # __Viewing high-quality surgical videos in a group study format__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Decreased in-person exposure to surgical education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_32.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced learning and discussion opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_53.md)
+* [Enrich education through digital tools, virtual experiences, remote learning, and alternative forms of exercise and interaction.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_3.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Virtual reality patient education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1127.md)
 * [Develop rapid response services to deliver relevant and high-quality evidence in a timely manner, leverage multiple dissemination channels tailored to different audiences, and expand the search for evidence beyond conventional sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1858.md)
 * [Trainees involve attending surgeon in final patient counseling to ensure comprehensive care and rapport.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1745.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced learning and discussion opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_53.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Decreased in-person exposure to surgical education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_32.md)
 

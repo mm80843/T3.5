@@ -2,10 +2,9 @@
 
 # __Anti-SARS-CoV-2 coating__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [polyurethane](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3101.md)
-* [cu2o](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3100.md)
+* [Enhanced disease investigation and prevention methods, including biomarkers, antimicrobial coatings, and AI-driven tools, advance public health.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_155.md)
 
 ## Closest similar item
 
@@ -20,14 +19,19 @@
 * [Antimicrobial materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1855.md)
 * [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_246.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Inactivates the virus quickly, can be coated on many solids, and retains virucidal potency during consumer use
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [A Surface Coating that Rapidly Inactivates SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_199.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [polyurethane](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3101.md)
+* [cu2o](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3100.md)
 

@@ -2,9 +2,9 @@
 
 # __Lack of access to green spaces during COVID-19 lockdown__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Spending time in domestic gardens](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1184.md)
+* [The far-reaching consequences of COVID-19 include its transmission through various settings, impact on urban areas, and scarcity of resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of access to green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1040.md)
 * [Decreased visitation to urban green spaces during COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_347.md)
 * [No access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1543.md)
+
+## Mitigations of this risk
+
+* [Spending time in domestic gardens](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1184.md)
 

@@ -2,9 +2,9 @@
 
 # __--------------------------__
 
-## Risks linked to this technology
+## Category to which it belongs
 
-* [------------------------](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2286.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [gotomeeting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3220.md)
 * [plain language](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3344.md)
 * [screens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4292.md)
+
+## Risks linked to this technology
+
+* [------------------------](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2286.md)
 

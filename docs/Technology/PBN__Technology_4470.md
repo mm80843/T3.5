@@ -2,9 +2,9 @@
 
 # __comparative analysis of genome sequences__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Phylogenetic analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2396.md)
+* [Advancements in biotechnology, clinical research, and innovative therapies contribute to the development of medical solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Phylogenetic analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2792.md)
 * [bioinformatics tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_713.md)
 * [Bioinformatics tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2127.md)
+
+## This Technology enables the following mitigations
+
+* [Phylogenetic analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2396.md)
 

@@ -2,9 +2,9 @@
 
 # __Disruption in the supply chain__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Increased investment in disease prevention infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_677.md)
+* [Supply chain disruptions and logistical challenges have caused global supply chains to be heavily impacted.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_99.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Disrupted supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2336.md)
 * [Disruption of global supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2265.md)
 * [Global supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_456.md)
+
+## Mitigations of this risk
+
+* [Increased investment in disease prevention infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_677.md)
 

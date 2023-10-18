@@ -2,13 +2,13 @@
 
 # __society as a whole__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q2111379](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2111379.md)
+* [Members of the public, including social media users, organizations promoting gender equality, and individuals in various social settings and groups.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_385.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
+* [Ethical concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2130.md)
 
 ## Closest similar item
 
@@ -23,15 +23,19 @@
 * [the general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_955.md)
 * [civil society organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_232.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder can get these Benefits from mitigation measures
 
-* [Ethical concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2130.md)
+* [Improved infrastructure and increased connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1100.md)
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Society](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_128.md)
 
-## This Stakeholder can get these Benefits from mitigation measures
+## This Stakeholder is identified by the following QID
 
-* [Improved infrastructure and increased connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1100.md)
+* [Q2111379](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2111379.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
 

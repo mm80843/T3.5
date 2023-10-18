@@ -2,9 +2,9 @@
 
 # __education and training programs__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q2023606](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2023606.md)
+* [Government programs and initiatives provide support, training, and financial assistance for education, healthcare, employment, and overall well-being.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_210.md)
 
 ## Risks linked to this technology
 
@@ -23,4 +23,8 @@
 * [occupant education and training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_657.md)
 * [public education programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1547.md)
 * [Public education programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2149.md)
+
+## This Technology is identified by the following QID
+
+* [Q2023606](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2023606.md)
 

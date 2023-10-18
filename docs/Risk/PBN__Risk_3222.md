@@ -2,9 +2,9 @@
 
 # __Sedentary lifestyle__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Active Design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1692.md)
+* [Limited physical/social distancing, thermal discomfort, poor lighting, and inadequate air quality negatively impact personal comfort.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_130.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of physical activity opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_130.md)
 * [Lack of physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1960.md)
 * [Social inequality and lifestyle](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2051.md)
+
+## Mitigations of this risk
+
+* [Active Design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1692.md)
 

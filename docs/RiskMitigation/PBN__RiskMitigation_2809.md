@@ -2,9 +2,9 @@
 
 # __Increase decontamination efforts, assign individual patrol cars__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Contamination of shared spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2147.md)
+* [Promote environmentally-friendly waste management, sanitation, and maintenance practices, including rodent control, decontamination, and segregation of waste.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_340.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Increase production and distribution of PPE, stockpiling for emergencies, and implementing reuse and decontamination strategies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2775.md)
 * [Improve cleanliness and maintenance of urban green spaces, implement social distancing measures and capacity limits, provide clear communication on safety measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2409.md)
 * [Occupancy control (eg separating at/risk contaminated population)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3122.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Contamination of shared spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2147.md)
 

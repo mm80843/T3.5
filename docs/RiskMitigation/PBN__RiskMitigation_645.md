@@ -2,13 +2,9 @@
 
 # __Identifying dependencies and interdependencies__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Cascading disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_455.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved risk management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_648.md)
+* [Advancements in bioinformatics, divestment, automated sample collection, and artificial intelligence are facilitating early disease detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_336.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Collaborative approach](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_524.md)
 * [Monitor data sources to ensure they provide consistent and accurate information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3069.md)
 * [Collaborative projects](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1121.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved risk management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_648.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Cascading disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_455.md)
 

@@ -2,15 +2,9 @@
 
 # __Age Defined Individuals__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [children](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_62.md)
-* [child](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2299.md)
-* [Particularly children](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2132.md)
-* [Older person](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2125.md)
-* [Older adult](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2118.md)
-* [elderly individual](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2136.md)
-* [child of immigrant](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2172.md)
+* [Demographic characteristics that categorize individuals based on their age and gender, along with related concerns.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_243.md)
 
 ## Closest similar item
 
@@ -24,4 +18,14 @@
 * [Individuals in Specific Settings](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_87.md)
 * [General Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_88.md)
 * [Individuals with Specific Conditions](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_86.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [children](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_62.md)
+* [child](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2299.md)
+* [Particularly children](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2132.md)
+* [Older person](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2125.md)
+* [Older adult](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2118.md)
+* [elderly individual](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2136.md)
+* [child of immigrant](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2172.md)
 

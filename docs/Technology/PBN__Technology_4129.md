@@ -2,9 +2,9 @@
 
 # __ip surveillance cameras__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Smart city solutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1907.md)
+* [Enhanced monitoring and surveillance technologies enable real-time tracking, video conferencing, and improved detection methods.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_214.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Improved surveillance infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2359.md)
 * [surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_0.md)
 * [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2434.md)
+
+## This Technology enables the following mitigations
+
+* [Smart city solutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1907.md)
 

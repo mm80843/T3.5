@@ -2,10 +2,9 @@
 
 # __information and communication technology__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Education and Training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_810.md)
-* [Digital change](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_32.md)
+* [Technological advancements encompass a wide range of innovations, such as blockchain, touchless, renewable energy, and communication technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [communication technologies (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4386.md)
 * [digital technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2920.md)
 * [telecommunication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3060.md)
+
+## This Technology enables the following mitigations
+
+* [Education and Training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_810.md)
+* [Digital change](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_32.md)
 

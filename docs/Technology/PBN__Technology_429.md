@@ -2,9 +2,9 @@
 
 # __financial aid apps__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q70471322](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q70471322.md)
+* [Government programs and initiatives provide support, training, and financial assistance for education, healthcare, employment, and overall well-being.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_210.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [financial assistance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3976.md)
 * [digital platforms for financial assistance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_217.md)
 * [Digital platforms for financial assistance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2624.md)
+
+## This Technology is identified by the following QID
+
+* [Q70471322](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q70471322.md)
 

@@ -2,24 +2,9 @@
 
 # __Disruption of global settlement system__
 
-## Property: has_RiskHealth
+## Category to which it belongs
 
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Description of the risk
-
-Potential disruption of the interconnected global settlement system due to the pandemic
-
-## Property: has_RiskType
-
-* [political](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_1.md)
-
-## Articles mentionning the risk
-
-* [The Impact of COVID-19 on Public Space: A Review of the Emerging Questions](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_261.md)
+* [Supply chain disruptions and logistical challenges have caused global supply chains to be heavily impacted.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_99.md)
 
 ## Closest similar item
 
@@ -34,33 +19,52 @@ Potential disruption of the interconnected global settlement system due to the p
 * [Global containment strategy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_333.md)
 * [Disruption in material supply](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3210.md)
 
-## People affected by this risk
+## Description of the risk
 
-* [global migrants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_950.md)
-* [refugees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_951.md)
+Potential disruption of the interconnected global settlement system due to the pandemic
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Property: has_RiskHealth
+
 
 ## Property: has_RiskISO_Impact
 
 * [Community infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_9.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Mitigations of this risk
+
+* [Develop global regulations and policies to address the movement of individuals across cities and regions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1985.md)
+
+## Name of the risk
+
+Changes in global migration patterns and movement restrictions
 
 ## Stakeholders who can mitigate this risk
 
 * [national governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_51.md)
 * [international organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_242.md)
 
-## Name of the risk
+## Articles mentionning the risk
 
-Changes in global migration patterns and movement restrictions
+* [The Impact of COVID-19 on Public Space: A Review of the Emerging Questions](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_261.md)
 
-## Mitigations of this risk
+## People affected by this risk
 
-* [Develop global regulations and policies to address the movement of individuals across cities and regions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1985.md)
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+* [global migrants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_950.md)
+* [refugees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_951.md)
 
 ## Technologies linked to the risk
 
 * [transnational governance mechanisms and cooperative agreements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_736.md)
+
+## Property: has_RiskType
+
+* [political](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_1.md)
 

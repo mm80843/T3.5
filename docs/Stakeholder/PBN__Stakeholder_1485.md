@@ -2,9 +2,9 @@
 
 # __physicians__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Increased clinical load](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2187.md)
+* [Various individuals in the healthcare industry, including epidemiologists, medical personnel, clinicians, surgeons, and patients in need of medical care.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_360.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [health professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_595.md)
 * [clinicians](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_274.md)
 * [practitioners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_228.md)
+
+## Risk affecting this stakeholder
+
+* [Increased clinical load](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2187.md)
 

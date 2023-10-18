@@ -2,9 +2,9 @@
 
 # __Continuously improve location tracking algorithms, ensure reliable Bluetooth connectivity, conduct regular testing and updates__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Inaccurate tracking and notifications](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1962.md)
+* [Enhanced surveillance, monitoring, and real-time tracking for improved control and response to various situations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_312.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement crowd control measures, promote physical distancing, limit occupancy in congested areas.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2182.md)
 * [Enforce strict physical distancing measures and educate people on the importance of maintaining distance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2928.md)
 * [Continuously monitor and adjust policies based on the situation.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3015.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inaccurate tracking and notifications](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1962.md)
 

@@ -2,9 +2,9 @@
 
 # __Airborne__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_170.md)
+* [Insufficient ventilation and indoor air pollution pose a risk to air quality and respiratory health, exacerbated by inadequate airflow control, limited natural ventilation, and air recirculation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_128.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Airborne and direct transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3040.md)
 * [Airborne pathogen](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_845.md)
 * [Airborne transmission via aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_799.md)
+
+## Mitigations of this risk
+
+* [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_170.md)
 

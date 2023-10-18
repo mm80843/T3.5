@@ -2,13 +2,9 @@
 
 # __AI for outbreak prediction__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Insufficient preparedness for outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_468.md)
-
-## Property: has_MitigationBenefit
-
-* [Early outbreak prediction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_665.md)
+* [Implement comprehensive strategies to control virus transmission, improve surveillance, develop antiviral coatings, and enhance infection control measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_309.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [AI for diagnosis and screening](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_651.md)
 * [AI for drug discovery](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_656.md)
 * [Improve data collection and analysis, enhance understanding of the virus and its transmission, validate models with real-world data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2013.md)
+
+## Property: has_MitigationBenefit
+
+* [Early outbreak prediction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_665.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Insufficient preparedness for outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_468.md)
 

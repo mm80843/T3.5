@@ -2,9 +2,9 @@
 
 # __Improve indoor air quality, ensure proper humidity levels, address issues of poor lighting and acoustics.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Poor indoor environmental quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_965.md)
+* [Optimize indoor environments, regulate temperature and humidity, control air quality, and extend HVAC system operations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_341.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Improve indoor ventilation systems, increase air exchange rates, and use of air purifiers or filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2259.md)
 * [Improve indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_452.md)
 * [Improve ventilation systems in buildings, increase air flow, open windows if possible, and use air purifiers.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1922.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Poor indoor environmental quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_965.md)
 

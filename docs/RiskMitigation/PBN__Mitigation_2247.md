@@ -2,10 +2,9 @@
 
 # __Effective quarantine__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [smartphone apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4368.md)
-* [internet of things](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2919.md)
+* [Enforcing strict regulations to separate and monitor individuals, ensuring public safety during a period of isolation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_152.md)
 
 ## Closest similar item
 
@@ -20,14 +19,19 @@
 * [Quarantine/isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_249.md)
 * [Quarantine facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_768.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Enforcing and monitoring compliance with quarantine measures to prevent transmission
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Emerging Technologies to Combat the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_116.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [smartphone apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4368.md)
+* [internet of things](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2919.md)
 

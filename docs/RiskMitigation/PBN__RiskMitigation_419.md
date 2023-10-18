@@ -2,13 +2,9 @@
 
 # __Worker health monitoring__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_133.md)
-
-## Property: has_MitigationBenefit
-
-* [Early detection and prevention](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_415.md)
+* [Enhanced surveillance, monitoring, and real-time tracking for improved control and response to various situations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_312.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [New ways of remote and digital health working](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_475.md)
 * [Determine which workers with comorbidities can work from home, provide necessary accommodations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2795.md)
 * [Develop industry-specific working procedures, enforce safety protocols, promote worker mental health.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1794.md)
+
+## Property: has_MitigationBenefit
+
+* [Early detection and prevention](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_415.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_133.md)
 

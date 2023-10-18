@@ -2,9 +2,9 @@
 
 # __separation systems__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Wastewater management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2150.md)
+* [These resources aim to enhance security, convenience, and efficiency in managing access, spaces, and systems within various environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_206.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [separate room](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3706.md)
 * [sound isolation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4297.md)
 * [segregation boxes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4288.md)
+
+## This Technology enables the following mitigations
+
+* [Wastewater management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2150.md)
 

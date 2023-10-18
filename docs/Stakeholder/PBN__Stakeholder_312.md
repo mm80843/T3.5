@@ -6,6 +6,10 @@
 
 * [Wildlife support](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_757.md)
 
+## Category to which it belongs
+
+* [Entities and individuals who interact with or are affected by a system, organization, or public facility.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_1.md)
+
 ## Closest similar item
 
 * [animals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_18.md)

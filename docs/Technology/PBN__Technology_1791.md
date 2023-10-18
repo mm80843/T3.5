@@ -2,9 +2,9 @@
 
 # __business continuity management systems and tools__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q831801](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q831801.md)
+* [Advanced analytics, fact-checking, project management, reliable sources, knowledge extraction, and collaboration ensure accurate information dissemination and effective decision-making.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_192.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Supply chain management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2388.md)
 * [supply chain management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_110.md)
 * [Supply chain management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2345.md)
+
+## This Technology is identified by the following QID
+
+* [Q831801](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q831801.md)
 

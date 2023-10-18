@@ -2,9 +2,9 @@
 
 # __temperature monitoring systems__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Compulsory body temperature check](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1856.md)
+* [Various technologies and devices are used to measure and regulate temperature, including cameras, scanners, sensors, and thermostats.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_220.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4050.md)
 * [smart temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4279.md)
 * [temperature screening technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_744.md)
+
+## This Technology enables the following mitigations
+
+* [Compulsory body temperature check](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1856.md)
 

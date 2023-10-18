@@ -2,11 +2,9 @@
 
 # __occupants of residential buildings in kuwait__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Lack of occupant interest in energy conservation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1063.md)
-* [High energy consumption in residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_908.md)
-* [Unconscious occupant behavior](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1062.md)
+* [Individuals residing or working within various types of buildings, including residential, commercial, and healthcare facilities, as well as those in inadequately designed or poorly ventilated spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_391.md)
 
 ## Closest similar item
 
@@ -20,4 +18,10 @@
 * [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2566.md)
 * [building occupants in all types of buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_654.md)
 * [people in residential and commercial buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1536.md)
+
+## Risk affecting this stakeholder
+
+* [Lack of occupant interest in energy conservation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1063.md)
+* [High energy consumption in residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_908.md)
+* [Unconscious occupant behavior](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1062.md)
 

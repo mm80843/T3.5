@@ -2,9 +2,9 @@
 
 # __Improve testing capacity and accuracy, enhance reporting systems__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Under-reporting of cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_544.md)
+* [Promote comprehensive testing and tracing, prioritize vulnerable populations, reduce diagnosis-to-surgery time, recognize stress symptoms, and improve testing accuracy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_347.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Increase testing capacity; develop and deploy widespread testing strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1890.md)
 * [Implement comprehensive testing and reporting strategies, improve data collection and analysis systems, and strengthen communication channels between healthcare providers and public health authorities.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1864.md)
 * [Improve surveillance and reporting systems; faster testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1891.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Under-reporting of cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_544.md)
 

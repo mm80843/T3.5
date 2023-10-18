@@ -2,13 +2,9 @@
 
 # __Protocols for managing confirmed COVID-19 cases__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [COVID-19 exposure in offshore workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_376.md)
-
-## Property: has_MitigationBenefit
-
-* [Proper handling and isolation of infected workers](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_499.md)
+* [Implement comprehensive strategies to control virus transmission, improve surveillance, develop antiviral coatings, and enhance infection control measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_309.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [WBE for monitoring Covid-19](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1024.md)
 * [Developing a COVID-19 dashboard](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_813.md)
 * [Establish protocols for monitoring confirmed cases and close contacts, ensure compliance with quarantine and isolation measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2800.md)
+
+## Property: has_MitigationBenefit
+
+* [Proper handling and isolation of infected workers](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_499.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [COVID-19 exposure in offshore workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_376.md)
 

@@ -2,9 +2,9 @@
 
 # __Technical skills and training__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Smart learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_373.md)
+* [The challenges of implementing a digital culture include lack of interoperability, missing information, emerging technologies, and technological limitations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_112.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Expertise](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1100.md)
 * [Limited resources and expertise](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3389.md)
 * [Lack of proper training](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2089.md)
+
+## Mitigations of this risk
+
+* [Smart learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_373.md)
 

@@ -2,9 +2,9 @@
 
 # __multiplexed measurements__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Multimodal and Multiplexed Measurements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_165.md)
+* [Measures promoting accountability, media control, real-time updates, and virtual experiences for physical distancing and education.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [biomarker measurements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3080.md)
 * [smart meters and sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1313.md)
 * [Smart meters and sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2364.md)
+
+## This Technology enables the following mitigations
+
+* [Multimodal and Multiplexed Measurements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_165.md)
 

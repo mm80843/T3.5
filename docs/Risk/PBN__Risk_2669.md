@@ -2,9 +2,9 @@
 
 # __Capacity Overload__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Surge Capacity Planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_629.md)
+* [Limited monitoring, technical limitations, language barriers, expensive optimization, lack of connection with nature, and limited sensor diversity hinder effective response and resource allocation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_107.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Healthcare overload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2419.md)
 * [Healthcare system overload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2134.md)
 * [Unbalanced utilization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2103.md)
+
+## Mitigations of this risk
+
+* [Surge Capacity Planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_629.md)
 

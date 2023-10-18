@@ -2,13 +2,9 @@
 
 # __Infrared thermal imaging__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Contagious transmission in built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_323.md)
-
-## Property: has_MitigationBenefit
-
-* [Fever detection and screening](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_400.md)
+* [Efforts include RNA monitoring, occupant exposure modeling, targeted messages, adoption of principles, copper coating, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_311.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Upper-room UV light](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_522.md)
 * [UV-based technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_994.md)
 * [Shading](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_489.md)
+
+## Property: has_MitigationBenefit
+
+* [Fever detection and screening](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_400.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Contagious transmission in built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_323.md)
 

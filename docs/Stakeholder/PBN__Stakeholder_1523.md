@@ -2,9 +2,9 @@
 
 # __systems__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2285.md)
+* [Entities and individuals who interact with or are affected by a system, organization, or public facility.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_1.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [system administrators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1406.md)
 * [institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_891.md)
 * [state governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1190.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2285.md)
 

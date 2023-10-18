@@ -2,25 +2,9 @@
 
 # __Digital exclusion__
 
-## Property: has_RiskHealth
+## Category to which it belongs
 
-* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Description of the risk
-
-Inadequate access to digital tools and technologies, leading to limited participation in digital strategies and unequal distribution of resources and support during the pandemic.
-
-## Property: has_RiskType
-
-* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
-
-## Articles mentionning the risk
-
-* [Smart cities and the pandemic: digital technologies on the urban management of Brazilian cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_143.md)
+* [The challenges of implementing a digital culture include lack of interoperability, missing information, emerging technologies, and technological limitations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_112.md)
 
 ## Closest similar item
 
@@ -35,6 +19,43 @@ Inadequate access to digital tools and technologies, leading to limited particip
 * [Resistance to digital adoption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3171.md)
 * [Exclusion from support programs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2876.md)
 
+## Description of the risk
+
+Inadequate access to digital tools and technologies, leading to limited participation in digital strategies and unequal distribution of resources and support during the pandemic.
+
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Property: has_RiskHealth
+
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
+
+## Property: has_RiskISO_Impact
+
+* [Innovation, Creativity and research](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_2.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Mitigations of this risk
+
+* [Expand internet connectivity and digital infrastructure, provide access to digital devices and educational resources, and promote digital literacy and inclusion programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1865.md)
+
+## Name of the risk
+
+Limited access to information, services, and resources, exacerbating existing inequalities and hindering effective response efforts.
+
+## Stakeholders who can mitigate this risk
+
+* [government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_55.md)
+* [non-profit organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_804.md)
+
+## Articles mentionning the risk
+
+* [Smart cities and the pandemic: digital technologies on the urban management of Brazilian cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_143.md)
+
 ## People affected by this risk
 
 * [marginalized groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_880.md)
@@ -42,31 +63,14 @@ Inadequate access to digital tools and technologies, leading to limited particip
 * [rural areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_879.md)
 * [elderly population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_615.md)
 
-## Property: has_RiskISO_Impact
-
-* [Innovation, Creativity and research](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_2.md)
-
-## Stakeholders who can mitigate this risk
-
-* [government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_55.md)
-* [non-profit organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_804.md)
-
-## Name of the risk
-
-Limited access to information, services, and resources, exacerbating existing inequalities and hindering effective response efforts.
-
-## Mitigations of this risk
-
-* [Expand internet connectivity and digital infrastructure, provide access to digital devices and educational resources, and promote digital literacy and inclusion programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1865.md)
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
-
 ## Technologies linked to the risk
 
 * [digital devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_573.md)
 * [educational resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_574.md)
 * [internet connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_572.md)
 * [digital literacy programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_575.md)
+
+## Property: has_RiskType
+
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 

@@ -2,9 +2,9 @@
 
 # __Create and maintain green spaces, establish green infrastructure policies in urban planning, promote nature-based solutions.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1302.md)
+* [Promote biodiversity and sustainable urban development through the establishment and accessibility of green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_322.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Increase the availability and accessibility of urban green spaces, create new green spaces, and improve existing ones](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2408.md)
 * [Implement green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1315.md)
 * [Upgrade and maintain urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_460.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1302.md)
 

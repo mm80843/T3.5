@@ -2,9 +2,9 @@
 
 # __Implement routine cleaning and disinfection of object surfaces__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Environmental](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1582.md)
+* [Effective surface disinfection through regular cleaning and use of self-cleaning materials and antimicrobial coatings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_334.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Regular and thorough cleaning and disinfection of frequently touched surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2657.md)
 * [Regular disinfection of frequently touched surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1929.md)
 * [Robot-controlled surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_87.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Environmental](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1582.md)
 

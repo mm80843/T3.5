@@ -2,9 +2,9 @@
 
 # __digital monitoring__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Virtual care platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2377.md)
+* [The digital revolution encompasses various aspects, from online promotion to contactless payment systems and virtual learning platforms.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_190.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Advanced monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2454.md)
 * [monitoring equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3662.md)
 * [monitoring and surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1858.md)
+
+## This Technology enables the following mitigations
+
+* [Virtual care platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2377.md)
 

@@ -2,9 +2,9 @@
 
 # __Implementing measures to increase production and distribution of PPE, rationing and prioritization.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1981.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Develop alternative supply chains, increase production and distribution capacity.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1519.md)
 * [Provide appropriate PPE and ensure proper usage and maintenance.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1814.md)
 * [Develop cost-effective and scalable production methods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1583.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1981.md)
 

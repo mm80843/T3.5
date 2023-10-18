@@ -2,13 +2,9 @@
 
 # __Mechanical ventilation systems__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Inadequate natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_275.md)
-
-## Property: has_MitigationBenefit
-
-* [Dilution and removal of infectious particles in room air](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_342.md)
+* [Enhance airflow, increase fresh air intake, and optimize ventilation systems to improve air quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_329.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [advanced ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3129.md)
 * [implementation of ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3299.md)
 * [natural ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3300.md)
+
+## Property: has_MitigationBenefit
+
+* [Dilution and removal of infectious particles in room air](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_342.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inadequate natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_275.md)
 

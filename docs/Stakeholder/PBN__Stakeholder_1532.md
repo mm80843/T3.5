@@ -2,9 +2,9 @@
 
 # __people in proximity to uv-c radiation sources__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Health risks from UV-C radiation exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2297.md)
+* [A diverse range of individuals, including citizens, pedestrians, people with disabilities, and those in crowded environments, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_368.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [people in indoor environments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1126.md)
 * [People in indoor environments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2297.md)
 * [individuals living in areas with natural outdoor environments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_306.md)
+
+## Risk affecting this stakeholder
+
+* [Health risks from UV-C radiation exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2297.md)
 

@@ -2,9 +2,9 @@
 
 # __organizations developing data standards__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Lack of consensus on interoperability standards](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_812.md)
+* [All those involved in the management, access, and utilization of data in various communities and industries.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_358.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [data providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_850.md)
 * [data protection officers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2660.md)
 * [data sharing partners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1464.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Lack of consensus on interoperability standards](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_812.md)
 

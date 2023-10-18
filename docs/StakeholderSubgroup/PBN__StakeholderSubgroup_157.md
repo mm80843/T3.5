@@ -2,9 +2,9 @@
 
 # __Blockchain__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [blockchain developer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2625.md)
+* [The digital realm where individuals connect and share publicly, utilizing blockchain technology for social interactions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_241.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [blockchain security protocols](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_194.md)
 * [blockchain technology for supply chain transparency](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_195.md)
 * [smart contracts](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_196.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [blockchain developer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2625.md)
 

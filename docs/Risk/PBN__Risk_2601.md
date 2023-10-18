@@ -2,9 +2,9 @@
 
 # __Low efficiency__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Second shift schedule](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_507.md)
+* [The challenges and consequences of the global pandemic include poor acoustics, noise pollution, food security, increase in inequality, waste, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_131.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [High energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2431.md)
 * [Inefficient use of resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2583.md)
 * [Comfort and efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3358.md)
+
+## Mitigations of this risk
+
+* [Second shift schedule](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_507.md)
 

@@ -2,9 +2,9 @@
 
 # __ontology matching__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Schema matching](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2307.md)
+* [Advanced analytics, fact-checking, project management, reliable sources, knowledge extraction, and collaboration ensure accurate information dissemination and effective decision-making.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_192.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [obo ontology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3978.md)
 * [ontology development and integration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3439.md)
 * [ontology development strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_717.md)
+
+## This Technology enables the following mitigations
+
+* [Schema matching](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2307.md)
 

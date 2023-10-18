@@ -2,9 +2,9 @@
 
 # __Shortages in supply chains__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Facilitate response diversity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_692.md)
+* [Supply chain disruptions and logistical challenges have caused global supply chains to be heavily impacted.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_99.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Supply chain disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1400.md)
 * [Disruption of supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_524.md)
 * [Shortage of critical supplies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3337.md)
+
+## Mitigations of this risk
+
+* [Facilitate response diversity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_692.md)
 

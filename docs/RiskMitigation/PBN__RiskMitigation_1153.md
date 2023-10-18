@@ -2,13 +2,9 @@
 
 # __Wi-Fi-based apps__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Geographical spread of virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_844.md)
-
-## Property: has_MitigationBenefit
-
-* [Track and trace infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1154.md)
+* [Enhanced surveillance, monitoring, and real-time tracking for improved control and response to various situations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_312.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Development of mobile applications, websites, and communication channels for information dissemination](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2358.md)
 * [Contact tracing mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_810.md)
 * [Telemedicine apps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1157.md)
+
+## Property: has_MitigationBenefit
+
+* [Track and trace infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1154.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Geographical spread of virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_844.md)
 

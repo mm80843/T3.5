@@ -2,21 +2,9 @@
 
 # __disinfectants__
 
-## Risks linked to this technology
+## Category to which it belongs
 
-* [Contact transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1699.md)
-* [Direct and indirect contact transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1282.md)
-* [Virus transmission via surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1636.md)
-* [Transmission via respiratory droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1733.md)
-* [Inadequate cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1298.md)
-* [Ineffective cleaning practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2394.md)
-* [Fomite transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_609.md)
-* [Transmission via fomites](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_800.md)
-* [Lack of sanitization protocols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1501.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Disinfection Equipment and Supplies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_87.md)
+* [The implementation of various disinfection methods, improved cleaning and sanitization protocols, and the use of eco-friendly disinfectants and advanced technologies have been prioritized.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_199.md)
 
 ## Closest similar item
 
@@ -34,6 +22,10 @@
 ## This Technology belongs to this TechGroup
 
 * [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Disinfection Equipment and Supplies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_87.md)
 
 ## This Technology enables the following mitigations
 
@@ -64,4 +56,16 @@
 * [Disinfecting shoe soles](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_719.md)
 * [Disinfecting masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_721.md)
 * [Effective disinfection techniques for roundworms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_725.md)
+
+## Risks linked to this technology
+
+* [Contact transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1699.md)
+* [Direct and indirect contact transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1282.md)
+* [Virus transmission via surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1636.md)
+* [Transmission via respiratory droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1733.md)
+* [Inadequate cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1298.md)
+* [Ineffective cleaning practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2394.md)
+* [Fomite transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_609.md)
+* [Transmission via fomites](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_800.md)
+* [Lack of sanitization protocols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1501.md)
 

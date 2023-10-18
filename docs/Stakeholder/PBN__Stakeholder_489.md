@@ -2,13 +2,17 @@
 
 # __immigrants__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q4200293](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4200293.md)
+* [Entities and individuals who interact with or are affected by a system, organization, or public facility.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_1.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Higher COVID-19 hospitalizations and mortality among immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1843.md)
+* [Higher likelihood of COVID-19 infection among immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1842.md)
+* [Lower vaccination rates among immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1844.md)
+* [Disruption of immigrant employment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1845.md)
+* [Inequities and exclusions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1467.md)
 
 ## Closest similar item
 
@@ -23,18 +27,6 @@
 * [temporary migrants)](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_258.md)
 * [child of immigrant](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2172.md)
 
-## Risk affecting this stakeholder
-
-* [Higher COVID-19 hospitalizations and mortality among immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1843.md)
-* [Higher likelihood of COVID-19 infection among immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1842.md)
-* [Lower vaccination rates among immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1844.md)
-* [Disruption of immigrant employment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1845.md)
-* [Inequities and exclusions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1467.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Minorities and Marginalized Groups](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_97.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Early detection and treatment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_181.md)
@@ -43,4 +35,16 @@
 * [Increased vaccination coverage](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1349.md)
 * [Minimized job losses](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1350.md)
 * [Increased skill levels](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1351.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Minorities and Marginalized Groups](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_97.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q4200293](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4200293.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 

@@ -2,9 +2,9 @@
 
 # __Enhance system resilience, diversify dependencies, and establish backup systems__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Cascading disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_455.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Building resilient food systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1070.md)
 * [Diversify supply chains, establish backup suppliers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2147.md)
 * [Foster economic resilience through improved risk management and diversification strategies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2424.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Cascading disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_455.md)
 

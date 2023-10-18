@@ -2,9 +2,9 @@
 
 # __Enforce strict physical distancing measures and educate people on the importance of maintaining distance__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Insufficient distance between people](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2250.md)
+* [Promotion and enforcement of physical separation measures to prevent the spread of disease.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_327.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Provide guidance on social distancing measures, improve living conditions in crowded areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1611.md)
 * [Maintaining physical distance between workers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_204.md)
 * [Designing spaces to enable physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1311.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Insufficient distance between people](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2250.md)
 

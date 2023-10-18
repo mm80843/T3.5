@@ -2,14 +2,9 @@
 
 # __City Officials and Administrators__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [city authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_536.md)
-* [city officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_726.md)
-* [city administrators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_720.md)
-* [city administrator](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1623.md)
-* [City official](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1603.md)
-* [city official](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1621.md)
+* [Public officials and leaders responsible for overseeing and managing governmental operations, organizations, and city affairs.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_251.md)
 
 ## Closest similar item
 
@@ -23,4 +18,13 @@
 * [Governmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_5.md)
 * [Managers/Operators](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_69.md)
 * [Residents](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_72.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [city authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_536.md)
+* [city officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_726.md)
+* [city administrators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_720.md)
+* [city administrator](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1623.md)
+* [City official](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1603.md)
+* [city official](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1621.md)
 

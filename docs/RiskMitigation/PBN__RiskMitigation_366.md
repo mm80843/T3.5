@@ -2,13 +2,9 @@
 
 # __Indoor plants as air filters__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Poor indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_294.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_192.md)
+* [Enhancing air quality through effective air filtration, ventilation, and pollution reduction strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_338.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Monitor and control indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3262.md)
 * [Improve ventilation systems, increase outdoor air intake, and use air purifiers to enhance indoor air quality.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2506.md)
 * [Monitoring and control of indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1349.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_192.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Poor indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_294.md)
 

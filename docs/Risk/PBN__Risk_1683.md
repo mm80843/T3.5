@@ -2,27 +2,9 @@
 
 # __Lack of communication__
 
-## Property: has_RiskHealth
+## Category to which it belongs
 
-* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Description of the risk
-
-Limited communication in languages other than Mandarin Chinese and sign language restricts information access for non-Taiwanese travelers.
-
-## Property: has_RiskType
-
-* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
-
-## Articles mentionning the risk
-
-* [Response to COVID-19 in Taiwan: Big Data Analytics, New Technology, and Proactive Testing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_24.md)
-* [A Comprehensive Review of Applications of Internet of Things for Covid-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_35.md)
+* [Insufficient awareness, limited resources, inadequate communication, and lack of preparedness contribute to various challenges and deficiencies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_118.md)
 
 ## Closest similar item
 
@@ -37,14 +19,35 @@ Limited communication in languages other than Mandarin Chinese and sign language
 * [Lack of social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1892.md)
 * [Lack of communication and customer relationships](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2830.md)
 
-## People affected by this risk
+## Description of the risk
 
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-* [non-taiwanese citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_71.md)
+Limited communication in languages other than Mandarin Chinese and sign language restricts information access for non-Taiwanese travelers.
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Property: has_RiskHealth
+
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Innovation, Creativity and research](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_2.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Mitigations of this risk
+
+* [Increase communication in multiple languages for non-Taiwanese citizens.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3013.md)
+* [Clear communication channels, public education campaigns.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2241.md)
+
+## Name of the risk
+
+Limited understanding of preventive measures and health information.
 
 ## Stakeholders who can mitigate this risk
 
@@ -53,19 +56,20 @@ Limited communication in languages other than Mandarin Chinese and sign language
 * [taiwan cdc](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1546.md)
 * [organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_186.md)
 
-## Name of the risk
+## Articles mentionning the risk
 
-Limited understanding of preventive measures and health information.
+* [Response to COVID-19 in Taiwan: Big Data Analytics, New Technology, and Proactive Testing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_24.md)
+* [A Comprehensive Review of Applications of Internet of Things for Covid-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_35.md)
 
-## Mitigations of this risk
+## People affected by this risk
 
-* [Increase communication in multiple languages for non-Taiwanese citizens.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3013.md)
-* [Clear communication channels, public education campaigns.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2241.md)
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [non-taiwanese citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_71.md)
 
 ## Technologies linked to the risk
 
+
+## Property: has_RiskType
+
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 

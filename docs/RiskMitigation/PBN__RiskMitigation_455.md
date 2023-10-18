@@ -2,13 +2,9 @@
 
 # __Provide or improve outdoor spaces__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Limited access to outdoor areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_344.md)
-
-## Property: has_MitigationBenefit
-
-* [Increased access to nature and outdoor activities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_440.md)
+* [Promote the integration of natural elements and communal areas, enhance accessibility and quality, and foster positive perception and functionality of public and private green and outdoor spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_331.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Access to outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_849.md)
 * [Encourage outdoor activities in green spaces, create more green spaces in urban areas, protect existing natural areas.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2767.md)
 * [Increase the availability and accessibility of green spaces close to residential areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2580.md)
+
+## Property: has_MitigationBenefit
+
+* [Increased access to nature and outdoor activities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_440.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limited access to outdoor areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_344.md)
 

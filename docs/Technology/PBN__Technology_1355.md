@@ -2,9 +2,9 @@
 
 # __cleaning services__
 
-## Risks linked to this technology
+## Category to which it belongs
 
-* [Lack of proper cleaning and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1946.md)
+* [Enhanced hygiene practices and strict adherence to cleaning protocols ensure rigorous sanitation and disinfection measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_196.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Cleaning equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2876.md)
 * [cleaning equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_363.md)
 * [cleaning solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_439.md)
+
+## Risks linked to this technology
+
+* [Lack of proper cleaning and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1946.md)
 

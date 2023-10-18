@@ -2,9 +2,9 @@
 
 # __Proper planning and spacing of roadside vegetation, regular maintenance__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Air circulation-limiting potential of tall, planted roadside vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1665.md)
+* [Promote equitable, sustainable, and inclusive urban planning to enhance living conditions, mitigate overcrowding, and reduce disparities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_324.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Suburban landscape design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_71.md)
 * [Create and maintain green spaces in urban areas, prioritize green space in urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1473.md)
 * [Spatial planning considerations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_35.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Air circulation-limiting potential of tall, planted roadside vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1665.md)
 

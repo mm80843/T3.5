@@ -2,9 +2,9 @@
 
 # __marginalized communities with limited access to mental health services__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Lack of access to mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1993.md)
+* [Individuals in need of mental health support, including those with pre-existing conditions and from marginalized communities with limited access to services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_362.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [mental health service providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_477.md)
 * [mental health providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1501.md)
 * [individuals with mental health issues](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_8.md)
+
+## Risk affecting this stakeholder
+
+* [Lack of access to mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1993.md)
 

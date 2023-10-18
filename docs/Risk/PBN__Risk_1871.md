@@ -2,25 +2,9 @@
 
 # __Exposure to the virus__
 
-## Property: has_RiskHealth
+## Category to which it belongs
 
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Description of the risk
-
-Workers are at risk of being exposed to the COVID-19 virus in the workplace.
-
-## Property: has_RiskType
-
-* [health](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_4.md)
-
-## Articles mentionning the risk
-
-* [Impacts of COVID-19 on Health and Safety of Workforce in Construction Industry](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_49.md)
+* [The Impact of Domestic Violence and the Spreading of the Virus Create Challenges in Preventing Virus Propagation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_94.md)
 
 ## Closest similar item
 
@@ -35,31 +19,51 @@ Workers are at risk of being exposed to the COVID-19 virus in the workplace.
 * [Increased risk of virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2823.md)
 * [Accidental spread of the virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3202.md)
 
-## People affected by this risk
+## Description of the risk
 
-* [construction workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_197.md)
+Workers are at risk of being exposed to the COVID-19 virus in the workplace.
+
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Stakeholders who can mitigate this risk
+## Property: has_RiskISO_Purpose
 
-* [employers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_180.md)
-
-## Name of the risk
-
-Increased risk of contracting and spreading the virus.
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
 
 ## Mitigations of this risk
 
 * [Implement strict hygiene protocols, provide Personal Protective Equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2461.md)
 
-## Property: has_RiskISO_Purpose
+## Name of the risk
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+Increased risk of contracting and spreading the virus.
+
+## Stakeholders who can mitigate this risk
+
+* [employers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_180.md)
+
+## Articles mentionning the risk
+
+* [Impacts of COVID-19 on Health and Safety of Workforce in Construction Industry](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_49.md)
+
+## People affected by this risk
+
+* [construction workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_197.md)
 
 ## Technologies linked to the risk
 
 * [enhanced sanitization measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1240.md)
+
+## Property: has_RiskType
+
+* [health](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_4.md)
 

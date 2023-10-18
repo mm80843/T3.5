@@ -2,10 +2,9 @@
 
 # __Implement infection control measures, improve ventilation systems, implement air filtration and UV light sterilisation technology__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Hospital-acquired COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_824.md)
-* [Risk of airborne transmission during patient care](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1288.md)
+* [Enhancing air quality through effective air filtration, ventilation, and pollution reduction strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_338.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Consider alternative infection control technologies, such as laminar airflow, before using UVGI systems in operating rooms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2328.md)
 * [Air filtration and UV light sterilisation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1130.md)
 * [Implementing strict cleaning and disinfection protocols, promoting good hygiene practices, enforcing physical distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1584.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Hospital-acquired COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_824.md)
+* [Risk of airborne transmission during patient care](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1288.md)
 

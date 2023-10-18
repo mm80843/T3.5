@@ -2,9 +2,9 @@
 
 # __Inadequate monitoring and evaluation__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Monitoring and evaluating policy response](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_555.md)
+* [Insufficient awareness, limited resources, inadequate communication, and lack of preparedness contribute to various challenges and deficiencies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_118.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of quick and accurate diagnostics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2981.md)
 * [Inadequate reporting and method quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1542.md)
 * [Inadequate Safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2670.md)
+
+## Mitigations of this risk
+
+* [Monitoring and evaluating policy response](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_555.md)
 

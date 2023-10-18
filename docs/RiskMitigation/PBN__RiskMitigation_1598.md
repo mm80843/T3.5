@@ -2,9 +2,9 @@
 
 # __Develop standardized protocols for detecting and quantifying the virus in wastewater, use waste-based epidemiology method for early warning__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Presence of COVID-19 in sewage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1147.md)
+* [Implement wastewater surveillance techniques to detect viral presence, optimize treatment processes, and inform public health interventions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_308.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Wastewater-Based Epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_202.md)
 * [Wastewater-based epidemiology (WBE)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_988.md)
 * [Wastewater-Based Epidemiology (WBE)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1021.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Presence of COVID-19 in sewage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1147.md)
 

@@ -2,10 +2,9 @@
 
 # __Stress management__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [wearable sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2949.md)
-* [ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
+* [Efficient control and supervision to ensure the proper handling and disposal of various types of waste and potential risks.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_8.md)
 
 ## Closest similar item
 
@@ -20,14 +19,19 @@
 * [Ventilation control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1044.md)
 * [Psychological Support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1729.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Wearable devices with stress detection systems and AI algorithms can help monitor and manage stress levels, which have been exacerbated during the COVID-19 pandemic
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [The Rise of Wearable Devices during the COVID-19 Pandemic: A Systematic Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_99.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [wearable sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2949.md)
+* [ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
 

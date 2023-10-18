@@ -2,13 +2,9 @@
 
 # __Promote reliable information sources__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Spread of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_396.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction in fear and anxiety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1133.md)
+* [Promote accurate and reliable information, combat misinformation, and increase media and public health literacy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_343.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Promoting reliable sources, facilitating information sharing, engaging with the public through social media](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2103.md)
 * [Fact-checking, promoting reliable sources, educating the public](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1751.md)
 * [Promoting accurate information from reliable sources, fact-checking, and public education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1464.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction in fear and anxiety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1133.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_396.md)
 

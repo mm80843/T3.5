@@ -2,8 +2,9 @@
 
 # __Avoid ACE inhibitors__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Enhanced disease investigation and prevention methods, including biomarkers, antimicrobial coatings, and AI-driven tools, advance public health.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_155.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [General prevention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1473.md)
 * [Prevention applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_154.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Aggravating COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3130.md)
-
 ## Property: has_MitigationPrinciple
 
 Limit the use of ACE inhibitors to minimize the risk of aggravating potential COVID-19 symptoms.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Aggravating COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3130.md)
+
 ## Property: has_MitigationSource
 
 * [Infodemic and the spread of fake news in the COVID-19-era](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_299.md)
+
+## This Mitigation is enabled by the following technologies
+
 

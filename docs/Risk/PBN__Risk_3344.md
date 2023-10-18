@@ -2,9 +2,9 @@
 
 # __Insufficient local engagement and authority in conservation__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Promote local investment and leadership](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2096.md)
+* [Fragmented global governance, reduced aid, ethical concerns, educational disruption, impacts on peace and justice, and inadequate coordination between stakeholders.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_115.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of community ownership and involvement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3385.md)
 * [Global consequences of local decisions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2748.md)
 * [Inadequate community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2356.md)
+
+## Mitigations of this risk
+
+* [Promote local investment and leadership](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2096.md)
 

@@ -2,10 +2,9 @@
 
 # __Data activism__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [data collection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3515.md)
-* [technological means](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4166.md)
+* [Improved data management and sharing for efficient and secure information exchange and analysis across various platforms and stakeholders.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_182.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Embrace data science and digital techniques](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4209.md)
 * [Rigorous data scrutiny and review](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4210.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Limited resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3306.md)
-
 ## Property: has_MitigationPrinciple
 
 Civil society organizations using data to support rights claims in terms of social or environmental injustice
 
+## Risks possibly mitigated by this Mitigation
+
+* [Limited resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3306.md)
+
 ## Property: has_MitigationSource
 
 * [The three modes of existence of the pandemic smart city](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_250.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [data collection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3515.md)
+* [technological means](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4166.md)
 

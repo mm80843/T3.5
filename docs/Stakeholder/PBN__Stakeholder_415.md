@@ -6,6 +6,10 @@
 
 * [Reduction of inequalities between territories and social groups](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1041.md)
 
+## Category to which it belongs
+
+* [Individuals and communities experiencing socioeconomic disparities, economic hardship, housing instability, and social disadvantage.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_393.md)
+
 ## Closest similar item
 
 * [disadvantaged communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1143.md)

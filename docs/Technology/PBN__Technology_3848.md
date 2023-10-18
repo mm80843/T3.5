@@ -2,9 +2,9 @@
 
 # __artificial intelligence and mobile technology__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Phone-based AI software for patient data collection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1406.md)
+* [Technological advancements encompass a wide range of innovations, such as blockchain, touchless, renewable energy, and communication technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Artificial Intelligence (AI)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2074.md)
 * [mobile computing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2998.md)
 * [smart technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4518.md)
+
+## This Technology enables the following mitigations
+
+* [Phone-based AI software for patient data collection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1406.md)
 

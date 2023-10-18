@@ -2,9 +2,9 @@
 
 # __virtual classes and workshops__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q16473858](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q16473858.md)
+* [Measures promoting accountability, media control, real-time updates, and virtual experiences for physical distancing and education.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [virtual learning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3812.md)
 * [virtual fitness classes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_68.md)
 * [virtual training tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_815.md)
+
+## This Technology is identified by the following QID
+
+* [Q16473858](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q16473858.md)
 

@@ -2,9 +2,9 @@
 
 # __proper disposal of disinfectants__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q24887418](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q24887418.md)
+* [The implementation of various disinfection methods, improved cleaning and sanitization protocols, and the use of eco-friendly disinfectants and advanced technologies have been prioritized.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_199.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [proper cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_226.md)
 * [Proper cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2546.md)
 * [Disinfection supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2877.md)
+
+## This Technology is identified by the following QID
+
+* [Q24887418](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q24887418.md)
 

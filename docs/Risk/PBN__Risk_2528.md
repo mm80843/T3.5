@@ -2,9 +2,9 @@
 
 # __COVID-19 infection__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Vaccination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_245.md)
+* [The far-reaching consequences of COVID-19 include its transmission through various settings, impact on urban areas, and scarcity of resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Infection risk of COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_601.md)
 * [Inability to differentiate COVID-19 from other viral infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1003.md)
 * [Rapidly changing understanding of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1455.md)
+
+## Mitigations of this risk
+
+* [Vaccination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_245.md)
 

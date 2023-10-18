@@ -2,9 +2,9 @@
 
 # __Public health agencies__
 
-## This Stakeholder belongs to this StakeholderGroup
+## Category to which it belongs
 
-* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
+* [Government and non-governmental organizations responsible for a wide range of services, including health, development, regulation, and emergency response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_382.md)
 
 ## Closest similar item
 
@@ -18,6 +18,10 @@
 * [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
 * [health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1249.md)
 * [public health agencies and policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_122.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 

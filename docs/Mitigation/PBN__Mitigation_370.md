@@ -2,9 +2,9 @@
 
 # __Cloud-based solution__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [cloud computing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1232.md)
+* [Improved data management and sharing for efficient and secure information exchange and analysis across various platforms and stakeholders.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_182.md)
 
 ## Closest similar item
 
@@ -19,14 +19,18 @@
 * [Common data infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_566.md)
 * [Intelligent Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_380.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Cloud-based solutions can enable remote monitoring of patients and provide real-time feedback to patients and doctors, making it easier and more efficient to manage and treat COVID-19 cases
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [The Rise of Wearable Devices during the COVID-19 Pandemic: A Systematic Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_99.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [cloud computing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1232.md)
 

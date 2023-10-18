@@ -2,9 +2,9 @@
 
 # __Failure to adjust energy contracts based on actual energy consumption__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Analyze and adjust energy contracts based on actual energy demand](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1373.md)
+* [Issues related to energy use, including increased consumption, inefficient usage, and lack of understanding, have various implications in different settings and sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_133.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Fall in energy demand](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1607.md)
 * [Increased energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1252.md)
 * [Inefficient energy usage and high energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_345.md)
+
+## Mitigations of this risk
+
+* [Analyze and adjust energy contracts based on actual energy demand](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1373.md)
 

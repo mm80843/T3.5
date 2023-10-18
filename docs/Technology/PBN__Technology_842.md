@@ -2,9 +2,9 @@
 
 # __urban planning and design strategies to create and enhance green spaces in residential areas__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q22652](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q22652.md)
+* [Optimizing urban spaces through inclusive strategies and technologies, integrating green spaces, and managing population density and transportation systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_226.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [green spaces in residential areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_120.md)
 * [urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1984.md)
 * [green space planning strategies and design guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_725.md)
+
+## This Technology is identified by the following QID
+
+* [Q22652](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q22652.md)
 

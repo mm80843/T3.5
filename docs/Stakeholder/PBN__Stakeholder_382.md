@@ -6,6 +6,10 @@
 
 * [Improved integration of UGS in urban design](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_967.md)
 
+## Category to which it belongs
+
+* [A diverse range of individuals, including citizens, pedestrians, people with disabilities, and those in crowded environments, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_368.md)
+
 ## Closest similar item
 
 * [citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_54.md)

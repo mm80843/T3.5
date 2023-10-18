@@ -2,13 +2,9 @@
 
 # __Personal protective equipment (PPE)__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
-
-## Property: has_MitigationBenefit
-
-* [Protection of individuals](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1343.md)
+* [Enforce safety measures, promote responsible behavior, utilize PPE, and prioritize risk prevention to ensure adequate protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_342.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Smart Personal Protective Equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1280.md)
 * [Environmental-Friendly Personal Protective Equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1281.md)
 * [Ensure use of personal protection equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3310.md)
+
+## Property: has_MitigationBenefit
+
+* [Protection of individuals](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1343.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
 

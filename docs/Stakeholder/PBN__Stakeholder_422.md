@@ -2,9 +2,13 @@
 
 # __health organizations__
 
-## This Stakeholder belongs to this StakeholderGroup
+## This Stakeholder can get these Benefits from mitigation measures
 
-* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
+* [Transparency in donation process](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1052.md)
+
+## Category to which it belongs
+
+* [A diverse array of entities dedicated to various industries, causes, or services, promoting growth and welfare in society.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_369.md)
 
 ## Closest similar item
 
@@ -19,13 +23,6 @@
 * [world health organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1039.md)
 * [health departments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_574.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
-
-
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Transparency in donation process](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1052.md)
-
 ## Risks that can be mitigated by this stakeholder
 
 * [Health Harming Behaviours](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1433.md)
@@ -39,4 +36,11 @@
 * [Limited access to data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_723.md)
 * [Incomplete macroscopic models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2003.md)
 * [Insufficient health literacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2023.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
 

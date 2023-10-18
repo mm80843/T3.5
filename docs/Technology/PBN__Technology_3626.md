@@ -2,9 +2,9 @@
 
 # __local supply chains__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Diversified and localized production systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1077.md)
+* [Efficiently manage and optimize the flow of goods, data, and suppliers for resilient local supply chains.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_191.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [supply chain management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_110.md)
 * [Supply chain management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2345.md)
 * [supply chain management systems and tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1792.md)
+
+## This Technology enables the following mitigations
+
+* [Diversified and localized production systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1077.md)
 

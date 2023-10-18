@@ -2,13 +2,9 @@
 
 # __Face masks + 50% isolation__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_324.md)
-
-## Property: has_MitigationBenefit
-
-* [Optimal compromise](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_706.md)
+* [Encouraging the use of masks, practicing social distancing, and promoting good hygiene practices are vital preventive measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_345.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Encourage the use of face masks, proper disposal of tissues, and regular disinfection practices.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2439.md)
 * [Partial isolation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_697.md)
 * [Adequate disinfection of masks before discarding](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1930.md)
+
+## Property: has_MitigationBenefit
+
+* [Optimal compromise](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_706.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_324.md)
 

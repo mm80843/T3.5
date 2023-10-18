@@ -2,9 +2,9 @@
 
 # __Students__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [students](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_101.md)
+* [Academic roles include nan and encompass students who are learners.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_249.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Education and Research](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_15.md)
 * [Residents](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_72.md)
 * [Workers/Professionals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_47.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [students](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_101.md)
 

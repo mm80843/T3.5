@@ -2,9 +2,9 @@
 
 # __Provide financial support to cultural and creative industries, promote digital cultural events and experiences.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Loss of cultural and creative industries](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2233.md)
+* [Promote sustainable development through infrastructure investments, training, diversification, financial support, and government partnerships.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_315.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Diversify funding sources, develop alternative revenue streams, promote domestic tourism, and enhance marketing strategies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1781.md)
 * [Promote and support social connections through digital platforms, encourage virtual social activities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2120.md)
 * [Establish online community platforms, organize virtual events and activities, provide resources for community support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1774.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Loss of cultural and creative industries](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2233.md)
 

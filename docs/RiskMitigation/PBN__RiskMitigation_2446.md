@@ -2,9 +2,9 @@
 
 # __Implement social welfare measures, provide support for vulnerable households, create opportunities for economic recovery and job creation.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Job and livelihood loss](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1859.md)
+* [Implement comprehensive measures to ensure support, protection, and assistance for vulnerable populations during the pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_349.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Provide financial support to individuals and businesses, encourage investment and economic stimulus measures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2955.md)
 * [Implement policies and initiatives to reduce inequality, promote social inclusion.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2668.md)
 * [Implement social protection programs and financial incentives to support vulnerable families](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1494.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Job and livelihood loss](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1859.md)
 

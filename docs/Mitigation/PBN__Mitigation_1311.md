@@ -2,10 +2,9 @@
 
 # __Monitoring and sensing__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
-* [artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_358.md)
+* [Monitoring and integrating various sensors and devices in smart homes and healthcare settings for real-time health tracking and early detection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_181.md)
 
 ## Closest similar item
 
@@ -20,14 +19,19 @@
 * [Maintenance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1313.md)
 * [Sensor-based fixtures or devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_139.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Installing sensors to continuously monitor IAQ and other indicators of indoor environment quality, and utilizing artificial intelligence to analyze data and make recommendations for optimizing air quality and reducing the risk of transmission.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Indoor Air Quality: Rethinking rules of building design strategies in post-pandemic architecture](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_206.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
+* [artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_358.md)
 

@@ -2,9 +2,9 @@
 
 # __alcohol-based hand rubs (80% ethanol__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Hand Hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_463.md)
+* [The range of materials and techniques listed includes various disinfectants, nanomaterials, manufacturing methods, coatings, sustainability measures, and analytical tools.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_237.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2560.md)
 * [hand sanitizer technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3151.md)
 * [hand hygiene products and facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3569.md)
+
+## This Technology enables the following mitigations
+
+* [Hand Hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_463.md)
 

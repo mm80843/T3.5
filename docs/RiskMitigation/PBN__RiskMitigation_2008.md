@@ -2,9 +2,9 @@
 
 # __Increase healthcare resources and facilities__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Inadequate healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1488.md)
+* [Enhancing healthcare infrastructure, increasing capacity, and ensuring access to medical resources and services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_330.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Increase healthcare capacity, ensure availability of medical supplies and equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1456.md)
 * [Increase healthcare capacity, provide additional resources and support to healthcare workers.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2663.md)
 * [Investing in healthcare infrastructure, increasing medical facility capacity, improving supply chains.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1804.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inadequate healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1488.md)
 

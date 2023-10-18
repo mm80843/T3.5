@@ -2,9 +2,9 @@
 
 # __urban layout planning and design__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Revisions in density and compact design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_420.md)
+* [Optimizing urban spaces through inclusive strategies and technologies, integrating green spaces, and managing population density and transportation systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_226.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Urban planning and design techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2731.md)
 * [building layout and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3299.md)
 * [urban planning and design technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1108.md)
+
+## This Technology enables the following mitigations
+
+* [Revisions in density and compact design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_420.md)
 

@@ -2,11 +2,9 @@
 
 # __and models__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-
-## Property: has_MitigationBenefit
-
+* [Advancements in bioinformatics, divestment, automated sample collection, and artificial intelligence are facilitating early disease detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_336.md)
 
 ## Closest similar item
 
@@ -20,4 +18,10 @@
 * [Improve performance and scalability of model-based solutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1479.md)
 * [Digital twins and modeling](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_807.md)
 * [Increase data collection and improve model validation and calibration; communicate uncertainty and limitations effectively](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1895.md)
+
+## Property: has_MitigationBenefit
+
+
+## Risks possibly mitigated by this Mitigation
+
 

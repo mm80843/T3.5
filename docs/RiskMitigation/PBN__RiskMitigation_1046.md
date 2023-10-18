@@ -2,13 +2,9 @@
 
 # __Implementing digital and ICT tools for retail and neighborhood services__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Impact of COVID-19 on retail and commercial sectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_756.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved performance and customer experience in retail and neighborhood services](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1043.md)
+* [Accelerate the shift to digitalization by embracing emerging technologies and implementing innovative solutions across various sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_346.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Use of digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_707.md)
 * [Provide digital literacy training and support programs for residents to improve their digital skills and knowledge.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3028.md)
 * [Digital transformation technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1432.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved performance and customer experience in retail and neighborhood services](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1043.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Impact of COVID-19 on retail and commercial sectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_756.md)
 

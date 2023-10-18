@@ -2,9 +2,9 @@
 
 # __Negative physical effects of quarantine and social distancing__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Home-based exercises and physical activity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_894.md)
+* [The challenge lies in the lack of knowledge, limited consideration, and inherent limitations in representing disease transmission mechanisms, mobility patterns, and heterogeneity in macroscopic epidemiological models.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_97.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of physical activity in children and adolescents during quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1279.md)
 * [Isolation and quarantine facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2139.md)
 * [Reduction of physical activity during COVID-19 quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_62.md)
+
+## Mitigations of this risk
+
+* [Home-based exercises and physical activity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_894.md)
 

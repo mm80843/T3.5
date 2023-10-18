@@ -2,9 +2,9 @@
 
 # __Strengthen supply chains, increase production capacity, improve stockpiling and distribution systems__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Scarcity of medical equipment and medication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1020.md)
+* [Promote flexibility and resilience in supply chains through diversification, local production, and proactive strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_320.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Supply chain optimization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1415.md)
 * [Simplify supply chain structures, build collaborative relationships, enhance communication and coordination among stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2346.md)
 * [Implement demand forecasting models, collaborate with suppliers and customers, increase inventory levels, enhance visibility and communication across the supply chain](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2344.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Scarcity of medical equipment and medication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1020.md)
 

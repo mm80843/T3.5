@@ -2,9 +2,9 @@
 
 # __Implement policies to address inequalities in access to resources, provide support to vulnerable populations__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Inequalities in access to resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1023.md)
+* [Implement comprehensive measures to ensure support, protection, and assistance for vulnerable populations during the pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_349.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Prioritize healthcare resources for vulnerable populations, improve access to healthcare, address systemic injustices and disparities.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2447.md)
 * [Ensure healthcare accessibility and affordability, address social determinants of health, provide targeted support to vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2276.md)
 * [Social safety nets, financial support for vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2173.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inequalities in access to resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1023.md)
 

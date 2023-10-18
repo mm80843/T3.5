@@ -2,8 +2,9 @@
 
 # __Resilience, flexibility, and emotional regulation__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Promoting well-being and resilience through various forms of support, resources, and assistance for individuals in need.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_143.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Patience and compassion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2052.md)
 * [Psychosocial support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1602.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Psychological distress](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2091.md)
-
 ## Property: has_MitigationPrinciple
 
 Promote psychological resilience, adaptability, and emotional regulation to cope with the challenges of the pandemic.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Psychological distress](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2091.md)
+
 ## Property: has_MitigationSource
 
 * [Non-medical Interventions to Reduce the Burden of Psychosocial and Economic Impacts of COVID-19 Pandemic: A Scope Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_243.md)
+
+## This Mitigation is enabled by the following technologies
+
 

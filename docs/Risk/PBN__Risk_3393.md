@@ -2,9 +2,9 @@
 
 # __Bacterial activity__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Natural light](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2123.md)
+* [The widespread presence and transfer of harmful pathogens and contaminants on various surfaces and environments pose serious risks to public health and the ecosystem.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_100.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Transmission of pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2509.md)
 * [Transmission of Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2812.md)
 * [Unknown method of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3003.md)
+
+## Mitigations of this risk
+
+* [Natural light](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2123.md)
 

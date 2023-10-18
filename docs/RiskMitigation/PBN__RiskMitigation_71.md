@@ -2,13 +2,9 @@
 
 # __Suburban landscape design__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Increase in vector-borne diseases due to suburban landscape design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_60.md)
-
-## Property: has_MitigationBenefit
-
-* [Decreased vector-human contact](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_82.md)
+* [Promote equitable, sustainable, and inclusive urban planning to enhance living conditions, mitigate overcrowding, and reduce disparities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_324.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Housing design strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1217.md)
 * [Raising awareness about the relevance of UGS in urban landscape](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_963.md)
 * [Urban planning and design interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_667.md)
+
+## Property: has_MitigationBenefit
+
+* [Decreased vector-human contact](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_82.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Increase in vector-borne diseases due to suburban landscape design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_60.md)
 

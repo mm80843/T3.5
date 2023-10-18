@@ -2,9 +2,9 @@
 
 # __individuals living in noisy areas__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Noise Pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1120.md)
+* [Individuals in low-income or low-education groups, crowded/poorly ventilated spaces, lockdown areas, and densely populated places are particularly affected/risked by various factors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_364.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [especially those who work in open office or noisy environment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2268.md)
 * [individuals in densely populated areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1323.md)
 * [individuals in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2534.md)
+
+## Risk affecting this stakeholder
+
+* [Noise Pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1120.md)
 

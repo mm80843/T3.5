@@ -2,13 +2,9 @@
 
 # __AI-based triage systems__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [COVID-19 outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_302.md)
-
-## Property: has_MitigationBenefit
-
-* [Early symptom recognition and referral](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1311.md)
+* [Advancements in bioinformatics, divestment, automated sample collection, and artificial intelligence are facilitating early disease detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_336.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Expanding healthcare facilities, increasing medical staff, and implementing triage systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2659.md)
 * [Artificial intelligence/machine learning (AI/ML)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1100.md)
 * [Increase healthcare system capacity, implement triage protocols, and prioritize care for severe cases](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2317.md)
+
+## Property: has_MitigationBenefit
+
+* [Early symptom recognition and referral](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1311.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [COVID-19 outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_302.md)
 

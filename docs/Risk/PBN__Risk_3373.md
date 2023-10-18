@@ -2,9 +2,9 @@
 
 # __Future "black swan" events__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Resilient Approach](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2186.md)
+* [A list of challenges and uncertainties surrounding the impact and response to various events and crises in different sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_124.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Uncertainty about future](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1874.md)
 * [Seeding events](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3326.md)
 * [Future research](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_135.md)
+
+## Mitigations of this risk
+
+* [Resilient Approach](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2186.md)
 

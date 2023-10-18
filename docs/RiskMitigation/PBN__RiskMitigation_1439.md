@@ -2,13 +2,9 @@
 
 # __Wider corridors and doorways__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Spread of infections and diseases in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1010.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved ventilation and air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1407.md)
+* [Designing affordable, adaptable, and sustainable housing with improved building environments and optimized spatial layouts, while incorporating flexible and human-centric design elements and considering health, safety, and environmental parameters.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_326.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Access to common building spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_222.md)
 * [Implement occupancy limits and manage crowd flow. Design layouts with spacious areas and efficient use of space.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2635.md)
 * [Widening trails and walkways](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_38.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved ventilation and air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1407.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of infections and diseases in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1010.md)
 

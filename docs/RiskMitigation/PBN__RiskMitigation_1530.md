@@ -2,9 +2,9 @@
 
 # __Diversify suppliers, build buffer stock, local production__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Shortage of construction materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1084.md)
+* [Promote flexibility and resilience in supply chains through diversification, local production, and proactive strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_320.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Supplier diversification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_782.md)
 * [Diversify energy supply chains and increase local production capacity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2762.md)
 * [Promote diversification of suppliers and reduce dependence on a few key suppliers.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2423.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Shortage of construction materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1084.md)
 

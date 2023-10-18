@@ -2,9 +2,9 @@
 
 # __Use of air purifiers, opening windows, HVAC system maintenance.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Insufficient ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1335.md)
+* [Enhancing air quality through effective air filtration, ventilation, and pollution reduction strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_338.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Improve indoor ventilation systems, increase air exchange rates, and use of air purifiers or filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2259.md)
 * [Improve ventilation systems, use air purifiers, increase fresh air intake](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1817.md)
 * [Regular maintenance and cleaning of HVAC systems, improved ventilation and filtration.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2181.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Insufficient ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1335.md)
 

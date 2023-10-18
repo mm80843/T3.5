@@ -2,9 +2,9 @@
 
 # __Improved healthcare infrastructure__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
-* [Mobile and Healthcare Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_99.md)
+* [Improved healthcare infrastructure and resources enable public health authorities to implement effective messaging and interventions, ensuring equitable access to healthcare facilities and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_209.md)
 
 ## Closest similar item
 
@@ -19,11 +19,15 @@
 * [healthcare infrastructure investments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4377.md)
 * [investments in healthcare facilities and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3283.md)
 
-## This Technology belongs to this TechGroup
-
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
-
 ## This Technology is identified by the following QID
 
 * [Q4260475](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4260475.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Mobile and Healthcare Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_99.md)
+
+## This Technology belongs to this TechGroup
+
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 

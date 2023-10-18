@@ -2,6 +2,10 @@
 
 # __Raising awareness__
 
+## Category to which it belongs
+
+* [Implementing a comprehensive package of measures to ensure the smooth functioning and safety of essential services and activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_6.md)
+
 ## Closest similar item
 
 * [Increased awareness and training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_344.md)

@@ -2,13 +2,9 @@
 
 # __Investment in healthcare systems__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Economic impact of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_386.md)
-
-## Property: has_MitigationBenefit
-
-* [Strengthened health systems](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_527.md)
+* [Enhancing healthcare infrastructure, increasing capacity, and ensuring access to medical resources and services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_330.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Increase investment in healthcare infrastructure, establish temporary medical facilities during outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1577.md)
 * [Increase healthcare resources and facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2008.md)
 * [Increase healthcare capacity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1112.md)
+
+## Property: has_MitigationBenefit
+
+* [Strengthened health systems](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_527.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Economic impact of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_386.md)
 

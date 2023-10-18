@@ -2,9 +2,9 @@
 
 # __biological structures__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Disease modelling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_56.md)
+* [Advancements in biotechnology, clinical research, and innovative therapies contribute to the development of medical solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [incorporate biophilic design principles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1378.md)
 * [open-source structures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3794.md)
 * [living materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4523.md)
+
+## This Technology enables the following mitigations
+
+* [Disease modelling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_56.md)
 

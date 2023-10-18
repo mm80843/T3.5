@@ -2,10 +2,9 @@
 
 # __Rapid diagnosis techniques__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
-* [deep learning models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3759.md)
+* [Expansive array of methods, including biomarkers, self-reported symptoms, and AI-powered diagnostics, used for widespread and rapid testing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_179.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Symptom screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_374.md)
 * [Early detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_98.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Limited data, accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2997.md)
-
 ## Property: has_MitigationPrinciple
 
 Develop AI models and techniques to diagnose COVID-19 quickly and accurately
 
+## Risks possibly mitigated by this Mitigation
+
+* [Limited data, accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2997.md)
+
 ## Property: has_MitigationSource
 
 * [A critical review of emerging technologies for tackling COVID ‐19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_91.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
+* [deep learning models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3759.md)
 

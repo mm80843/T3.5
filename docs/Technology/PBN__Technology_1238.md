@@ -2,9 +2,9 @@
 
 # __reduction of carbon emissions__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q3588927](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3588927.md)
+* [The range of materials and techniques listed includes various disinfectants, nanomaterials, manufacturing methods, coatings, sustainability measures, and analytical tools.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_237.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [activated carbon filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3469.md)
 * [emission control technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1251.md)
 * [emission control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3616.md)
+
+## This Technology is identified by the following QID
+
+* [Q3588927](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3588927.md)
 

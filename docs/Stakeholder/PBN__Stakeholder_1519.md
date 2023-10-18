@@ -2,13 +2,13 @@
 
 # __displaced workers__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q706601](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q706601.md)
+* [Individuals engaged in various types of work, from employees and office workers to agricultural and hospitality workers.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_379.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
+* [Fragmentation of employment services and training](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2270.md)
 
 ## Closest similar item
 
@@ -23,11 +23,15 @@
 * [emergency workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_523.md)
 * [worker in affected sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1812.md)
 
-## Risk affecting this stakeholder
-
-* [Fragmentation of employment services and training](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2270.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Workers/Professionals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_47.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q706601](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q706601.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
 

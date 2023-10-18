@@ -2,9 +2,9 @@
 
 # __EU2: Energy use__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Promotion of sustainable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_234.md)
+* [A compilation of topics including energy use, mechanisms, gender inequality, contractual issues, musculoskeletal disorders, and mental health among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_136.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [High energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2431.md)
 * [Higher energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2696.md)
 * [Unnecessary energy usage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2429.md)
+
+## Mitigations of this risk
+
+* [Promotion of sustainable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_234.md)
 

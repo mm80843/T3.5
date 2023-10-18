@@ -2,13 +2,13 @@
 
 # __individuals in indoor environments with poor environmental controls__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q104885559](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q104885559.md)
+* [Individuals in poorly ventilated indoor environments, especially those in enclosed spaces with limited air flow, such as offices, homes, and buildings with inadequate air filtration, are at risk of exposure to poor indoor air quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_398.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Lack of proper environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1142.md)
 
 ## Closest similar item
 
@@ -23,12 +23,16 @@
 * [Workers in indoor environments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1794.md)
 * [individual responsible for indoor environmental quality](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2134.md)
 
-## Risk affecting this stakeholder
-
-* [Lack of proper environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1142.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Geographically Defined Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_74.md)
 * [Individuals in Specific Settings](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_87.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q104885559](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q104885559.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 

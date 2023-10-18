@@ -2,25 +2,9 @@
 
 # __Insufficient healthcare capacity__
 
-## Property: has_RiskHealth
+## Category to which it belongs
 
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Description of the risk
-
-Inadequate healthcare facilities and resources in urban areas
-
-## Property: has_RiskType
-
-* [health](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_4.md)
-
-## Articles mentionning the risk
-
-* [COVID-19: Lessons for an Urban(izing) World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_85.md)
+* [Healthcare systems overwhelmed with limited resources, shortage of personnel, and inadequate infrastructure face challenges in providing accessible and quality care.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_101.md)
 
 ## Closest similar item
 
@@ -35,14 +19,33 @@ Inadequate healthcare facilities and resources in urban areas
 * [Lack of healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3194.md)
 * [Inadequate healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1488.md)
 
-## People affected by this risk
+## Description of the risk
 
-* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
-* [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
+Inadequate healthcare facilities and resources in urban areas
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+
+## Mitigations of this risk
+
+* [Increase healthcare capacity, ensure availability of medical supplies and equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1456.md)
+
+## Name of the risk
+
+Overwhelmed healthcare system, inability to provide timely care
 
 ## Stakeholders who can mitigate this risk
 
@@ -50,21 +53,22 @@ Inadequate healthcare facilities and resources in urban areas
 * [healthcare institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_269.md)
 * [private sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_57.md)
 
-## Name of the risk
+## Articles mentionning the risk
 
-Overwhelmed healthcare system, inability to provide timely care
+* [COVID-19: Lessons for an Urban(izing) World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_85.md)
 
-## Mitigations of this risk
+## People affected by this risk
 
-* [Increase healthcare capacity, ensure availability of medical supplies and equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1456.md)
-
-## Property: has_RiskISO_Purpose
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
+* [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
 
 ## Technologies linked to the risk
 
 * [remote monitoring of patients](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_21.md)
 * [telehealth services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_19.md)
 * [mobile clinics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_20.md)
+
+## Property: has_RiskType
+
+* [health](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_4.md)
 

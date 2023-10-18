@@ -2,9 +2,9 @@
 
 # __national and local policies__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Multi-scalar governance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1057.md)
+* [Government actions and regulations addressing various aspects of society, including policy changes, ethical frameworks, governance mechanisms, and public announcements.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_216.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [economic policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_806.md)
 * [Economic policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2630.md)
 * [city governments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_340.md)
+
+## This Technology enables the following mitigations
+
+* [Multi-scalar governance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1057.md)
 

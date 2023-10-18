@@ -2,9 +2,9 @@
 
 # __Contactless door sensors__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3150.md)
+* [Monitoring and integrating various sensors and devices in smart homes and healthcare settings for real-time health tracking and early detection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_181.md)
 
 ## Closest similar item
 
@@ -19,14 +19,18 @@
 * [Paper-based sensor](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_369.md)
 * [Home monitoring with wearables](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_334.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Installing sensors on public transportation doors to minimize contact and reduce the risk of disease transmission.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Responsible Transport: A post-COVID agenda for transport policy and practice](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_148.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3150.md)
 

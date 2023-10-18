@@ -2,9 +2,9 @@
 
 # __Lack of running water and inadequate water storage__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Provision of water infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_660.md)
+* [The challenges of urban water management include water contamination, waste management, inadequate water storage, and poor drainage.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_120.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Water supply disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3351.md)
 * [Poor drainage and management of water systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1835.md)
 * [Increased water consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3397.md)
+
+## Mitigations of this risk
+
+* [Provision of water infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_660.md)
 

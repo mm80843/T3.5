@@ -2,9 +2,9 @@
 
 # __Need for common standards in health data__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Adoption of common standards](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1123.md)
+* [The intersection of human activity and health, integrating databases, limited healthcare access, sedentary lifestyles, neglecting public health requirements, and disparities in urban design contribute to public health concerns.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_116.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of healthcare data exchange](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1273.md)
 * [Lack of comprehensive data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2568.md)
 * [Mainstreaming health criteria](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1459.md)
+
+## Mitigations of this risk
+
+* [Adoption of common standards](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1123.md)
 

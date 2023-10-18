@@ -2,9 +2,9 @@
 
 # __mobile phone cdrs__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Human movement analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2087.md)
+* [A comprehensive list of mobile applications, including contact-tracing apps, mental health apps, mobile banking, and fitness tracking devices, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_197.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Mobile phone call data records](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2405.md)
 * [mobile computing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2998.md)
 * [smartphones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3002.md)
+
+## This Technology enables the following mitigations
+
+* [Human movement analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2087.md)
 

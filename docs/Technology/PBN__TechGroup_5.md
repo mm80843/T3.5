@@ -2,6 +2,23 @@
 
 # __Data privacy__
 
+## Category to which it belongs
+
+* [Ensuring the confidentiality and protection of personal information in the digital age.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_305.md)
+
+## Closest similar item
+
+* [privacy policies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_153.md)
+* [Privacy policies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_154.md)
+* [data anonymization](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_155.md)
+* [privacy-by-design](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_156.md)
+* [regulations on personal data](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_157.md)
+* [privacy regulations](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_158.md)
+* [privacy-enhancing technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_159.md)
+* [Privacy-enhancing technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_160.md)
+* [data sharing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_161.md)
+* [data policies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_162.md)
+
 ## This Technology belongs to this TechnologyGroup
 
 * [blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_94.md)
@@ -67,17 +84,4 @@
 * [Privacy-enhancing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2422.md)
 * [intrusion detection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1636.md)
 * [software-defined privacy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1580.md)
-
-## Closest similar item
-
-* [privacy policies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_153.md)
-* [Privacy policies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_154.md)
-* [data anonymization](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_155.md)
-* [privacy-by-design](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_156.md)
-* [regulations on personal data](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_157.md)
-* [privacy regulations](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_158.md)
-* [privacy-enhancing technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_159.md)
-* [Privacy-enhancing technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_160.md)
-* [data sharing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_161.md)
-* [data policies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_162.md)
 

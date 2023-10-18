@@ -2,25 +2,9 @@
 
 # __Scalability and QoS provisioning__
 
-## Property: has_RiskHealth
+## Category to which it belongs
 
-* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Description of the risk
-
-Network congestion and low service levels due to increased traffic and IoT devices
-
-## Property: has_RiskType
-
-* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
-
-## Articles mentionning the risk
-
-* [The role of 5G for digital healthcare against COVID-19 pandemic: Opportunities and challenges](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_9.md)
+* [Limited monitoring, technical limitations, language barriers, expensive optimization, lack of connection with nature, and limited sensor diversity hinder effective response and resource allocation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_107.md)
 
 ## Closest similar item
 
@@ -35,31 +19,47 @@ Network congestion and low service levels due to increased traffic and IoT devic
 * [High cost, limited infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2988.md)
 * [Challenges in centralized and federated approaches](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_816.md)
 
-## People affected by this risk
+## Description of the risk
 
-* [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
-* [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
+Network congestion and low service levels due to increased traffic and IoT devices
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Property: has_RiskHealth
+
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_8.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+
+## Mitigations of this risk
+
+* [Implement network slicing, utilize virtual NFs and MEC, deploy full beamforming technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2744.md)
+
+## Name of the risk
+
+Poor service quality, network congestion, inability to support high-bandwidth applications
 
 ## Stakeholders who can mitigate this risk
 
 * [network operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1405.md)
 * [system administrators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1406.md)
 
-## Name of the risk
+## Articles mentionning the risk
 
-Poor service quality, network congestion, inability to support high-bandwidth applications
+* [The role of 5G for digital healthcare against COVID-19 pandemic: Opportunities and challenges](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_9.md)
 
-## Mitigations of this risk
+## People affected by this risk
 
-* [Implement network slicing, utilize virtual NFs and MEC, deploy full beamforming technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2744.md)
-
-## Property: has_RiskISO_Purpose
-
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+* [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
+* [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
 
 ## Technologies linked to the risk
 
@@ -67,4 +67,8 @@ Poor service quality, network congestion, inability to support high-bandwidth ap
 * [virtual nfs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1583.md)
 * [mec](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1584.md)
 * [full beamforming](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1585.md)
+
+## Property: has_RiskType
+
+* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 

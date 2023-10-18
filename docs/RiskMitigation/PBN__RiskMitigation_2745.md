@@ -2,9 +2,9 @@
 
 # __Accelerate deployment plans, encourage small scale deployments, support purpose-built IoT devices__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Limited connectivity challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2096.md)
+* [Facilitate transparent communication, enabling reliable information sharing through standardized protocols and effective channels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_0.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [IoT monitoring and alert systems; prioritization of activities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3039.md)
 * [Develop IoT-based monitoring systems that allow for long-term continuous measurement of IEQ on a broader scale.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1911.md)
 * [IoT monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1416.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limited connectivity challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2096.md)
 

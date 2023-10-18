@@ -2,9 +2,9 @@
 
 # __Transmission, Economy__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_577.md)
+* [Infectious spread through various modes such as close contact, social gatherings, fomites, bodily fluids, and respiratory droplets.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_123.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Direct transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1553.md)
 * [High rates of transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2643.md)
 * [Travel-related transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1034.md)
+
+## Mitigations of this risk
+
+* [Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_577.md)
 

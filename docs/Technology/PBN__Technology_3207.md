@@ -2,9 +2,9 @@
 
 # __bicycle paths__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Decline in car-based transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_416.md)
+* [Urban green space solutions include tree planting, zoning regulations, landscape architecture, community gardens, outdoor furniture, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_231.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [transportation planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_661.md)
 * [walking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3149.md)
 * [alternative transportation methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_111.md)
+
+## This Technology enables the following mitigations
+
+* [Decline in car-based transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_416.md)
 

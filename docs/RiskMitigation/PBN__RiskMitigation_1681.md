@@ -2,9 +2,9 @@
 
 # __Conduct further research and studies to compare the two types of UV light for disinfection purposes.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Comparability of far-UVC light with conventional germicidal UV light](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1230.md)
+* [Utilize UVGI technology to disinfect air, surfaces, and clothing, ensuring proper installation, training, and research to optimize effectiveness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_352.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Develop and implement effective disinfection protocols, invest in environmentally friendly disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1596.md)
 * [Utilization of ozone, ultraviolet irradiation, liquid chlorine, chlorine dioxide, and sodium hypochlorite disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_932.md)
 * [Development of sustainable disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1295.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Comparability of far-UVC light with conventional germicidal UV light](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1230.md)
 

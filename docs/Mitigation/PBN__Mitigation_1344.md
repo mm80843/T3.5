@@ -2,8 +2,9 @@
 
 # __Controlling probability of contact__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Maximizing control and efficiency in various domains through advanced technology and strategic planning.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_163.md)
 
 ## Closest similar item
 
@@ -18,14 +19,17 @@
 * [Restriction of inter-individual physical interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1554.md)
 * [Avoid touching face](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1665.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Reduce virus transmission by minimizing direct contact between individuals and contact with infected objects
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [The effect of occupant distribution on energy consumption and COVID-19 infection in buildings: A case study of university building](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_169.md)
+
+## This Mitigation is enabled by the following technologies
+
 

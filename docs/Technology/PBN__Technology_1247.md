@@ -2,14 +2,14 @@
 
 # __telepsychiatry__
 
+## Category to which it belongs
+
+* [Virtual healthcare and remote communication technology including telemedicine, telehealth platforms, teletherapy, teleconferencing, and tele-operation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_202.md)
+
 ## Risks linked to this technology
 
 * [Mental health issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1390.md)
 * [Inadequate mental health resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2044.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Online Counseling and Therapy Platforms](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_65.md)
 
 ## Closest similar item
 
@@ -24,11 +24,15 @@
 * [teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4122.md)
 * [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4548.md)
 
-## This Technology belongs to this TechGroup
-
-* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
-
 ## This Technology is identified by the following QID
 
 * [Q2549364](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2549364.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Online Counseling and Therapy Platforms](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_65.md)
+
+## This Technology belongs to this TechGroup
+
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
 

@@ -2,9 +2,9 @@
 
 # __procurement departments__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Equipping the hospital](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1473.md)
+* [Various industries, businesses, and supply chain partners rely on suppliers and supply chain professionals for their products and services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_370.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [marketing departments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1475.md)
 * [education departments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1252.md)
 * [equipment suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_749.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Equipping the hospital](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1473.md)
 

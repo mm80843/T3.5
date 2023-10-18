@@ -2,10 +2,9 @@
 
 # __Monitoring Systems and Maintenance Protocols__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [data monitoring and analysis systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1488.md)
-* [Monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2441.md)
+* [Tools and technologies for observing, measuring, and controlling various aspects of the environment, including noise levels and physical distancing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_10.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Surveillance and Tracking Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_21.md)
 * [Support Systems and Resources](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_42.md)
 * [Cybersecurity and Security Protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_135.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [data monitoring and analysis systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1488.md)
+* [Monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2441.md)
 

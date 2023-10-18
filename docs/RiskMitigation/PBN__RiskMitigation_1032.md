@@ -2,13 +2,9 @@
 
 # __Strengthen health care system__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Health care, surveillance and monitoring gaps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_749.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved health care capacity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1029.md)
+* [Enhancing healthcare infrastructure, increasing capacity, and ensuring access to medical resources and services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_330.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Strengthen healthcare infrastructure, increase resources and capacity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2286.md)
 * [Increase healthcare system capacity, implement triage protocols, and prioritize care for severe cases](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2317.md)
 * [Increase healthcare resources and facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2008.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved health care capacity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1029.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Health care, surveillance and monitoring gaps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_749.md)
 

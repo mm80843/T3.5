@@ -2,9 +2,9 @@
 
 # __Fake news spread through social media during the COVID-19 pandemic__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Increased government activity on social media](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_908.md)
+* [The far-reaching consequences of COVID-19 include its transmission through various settings, impact on urban areas, and scarcity of resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [COVID-19 outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_302.md)
 * [Spread of Covid-19 in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_690.md)
 * [Spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
+
+## Mitigations of this risk
+
+* [Increased government activity on social media](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_908.md)
 

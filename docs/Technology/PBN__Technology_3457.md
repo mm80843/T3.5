@@ -2,10 +2,9 @@
 
 # __knowledge sharing__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Knowledge sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1357.md)
-* [Use of another isolation hospital](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_798.md)
+* [Advanced analytics, fact-checking, project management, reliable sources, knowledge extraction, and collaboration ensure accurate information dissemination and effective decision-making.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_192.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_151.md)
 * [knowledge-base system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3176.md)
 * [information sharing tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4076.md)
+
+## This Technology enables the following mitigations
+
+* [Knowledge sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1357.md)
+* [Use of another isolation hospital](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_798.md)
 

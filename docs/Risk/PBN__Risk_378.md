@@ -2,10 +2,9 @@
 
 # __Airborne TB Transmission__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Upper-room UV light](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_522.md)
-* [Negative air ionization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_523.md)
+* [The dispersion of respiratory particles through the air can lead to the transmission of diseases.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_138.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Transmission through airborne aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1805.md)
 * [Risk of airborne transmission during patient care](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1288.md)
 * [Airborne transmission of diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2787.md)
+
+## Mitigations of this risk
+
+* [Upper-room UV light](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_522.md)
+* [Negative air ionization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_523.md)
 

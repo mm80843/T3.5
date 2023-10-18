@@ -2,9 +2,9 @@
 
 # __logistics companies__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q15915446](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q15915446.md)
+* [These companies span a wide array of industries, including renewable energy, construction, pharmaceuticals, logistics, and technology.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_387.md)
 
 ## Closest similar item
 
@@ -26,4 +26,8 @@
 ## Risks that can be mitigated by this stakeholder
 
 * [Disruption in supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_500.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q15915446](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q15915446.md)
 

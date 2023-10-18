@@ -2,9 +2,9 @@
 
 # __preparedness planning__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Investing in disaster risk reduction and preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1080.md)
+* [Safety protocols, emergency response plans, risk assessment tools, and comprehensive risk communication strategies ensure workplace safety and crisis management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_232.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [participatory planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4213.md)
 * [emergency response planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1500.md)
 * [Emergency response planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2492.md)
+
+## This Technology enables the following mitigations
+
+* [Investing in disaster risk reduction and preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1080.md)
 

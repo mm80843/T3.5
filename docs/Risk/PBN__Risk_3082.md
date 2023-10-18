@@ -2,9 +2,9 @@
 
 # __Increase in demand, logistical challenges__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Flexible Delivery Hours](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1454.md)
+* [Supply chain disruptions and logistical challenges have caused global supply chains to be heavily impacted.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_99.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Shortage of critical supplies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3337.md)
 * [Labour shortages](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_730.md)
 * [Economic impacts, shortage of essential goods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2919.md)
+
+## Mitigations of this risk
+
+* [Flexible Delivery Hours](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1454.md)
 

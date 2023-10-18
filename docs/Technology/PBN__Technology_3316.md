@@ -2,9 +2,9 @@
 
 # __machine learning methodologies__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Reproducible analytics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_567.md)
+* [Advanced technologies and algorithms for modeling, simulation, optimization, and artificial intelligence in various applications, including robotics and computational fluid dynamics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_239.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_149.md)
 * [AI algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2036.md)
 * [advanced data analysis algorithms and machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_173.md)
+
+## This Technology enables the following mitigations
+
+* [Reproducible analytics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_567.md)
 

@@ -2,9 +2,9 @@
 
 # __dpcr__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Pathogenic DNA/RNA Residues Detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1922.md)
+* [Advancements in biotechnology, clinical research, and innovative therapies contribute to the development of medical solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [qpcr techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4139.md)
 * [rt-pcr testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3502.md)
 * [qRT-PCR](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2102.md)
+
+## This Technology enables the following mitigations
+
+* [Pathogenic DNA/RNA Residues Detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1922.md)
 

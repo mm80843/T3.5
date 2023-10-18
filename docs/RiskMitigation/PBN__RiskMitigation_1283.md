@@ -2,13 +2,9 @@
 
 # __Innovative ventilator designs__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Shortage of ventilators](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_926.md)
-
-## Property: has_MitigationBenefit
-
-* [Scalability and accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1266.md)
+* [Enhance airflow, increase fresh air intake, and optimize ventilation systems to improve air quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_329.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_476.md)
 * [Improve ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_606.md)
 * [Ventilation improvement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_372.md)
+
+## Property: has_MitigationBenefit
+
+* [Scalability and accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1266.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Shortage of ventilators](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_926.md)
 

@@ -2,9 +2,9 @@
 
 # __market research tools__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q913709](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q913709.md)
+* [Advanced analytics, fact-checking, project management, reliable sources, knowledge extraction, and collaboration ensure accurate information dissemination and effective decision-making.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_192.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [data analysis tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_554.md)
 * [online advertising tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4385.md)
 * [market competition](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3170.md)
+
+## This Technology is identified by the following QID
+
+* [Q913709](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q913709.md)
 

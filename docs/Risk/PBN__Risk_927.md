@@ -2,9 +2,9 @@
 
 # __Disruption of transport operations__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_275.md)
+* [The changing landscape of travel and transportation has led to concerns over safety, reduced demand, and inadequate infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_125.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Supply chain disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1400.md)
 * [Disruption in supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_500.md)
 * [Disruption of supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_524.md)
+
+## Mitigations of this risk
+
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_275.md)
 

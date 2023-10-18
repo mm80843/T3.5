@@ -2,8 +2,9 @@
 
 # __Cleaning products__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
+* [Enhanced hygiene practices and strict adherence to cleaning protocols ensure rigorous sanitation and disinfection measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_196.md)
 
 ## Closest similar item
 
@@ -21,4 +22,7 @@
 ## This Technology belongs to this TechGroup
 
 * [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
+
+## This Technology belongs to this TechSubgroup
+
 

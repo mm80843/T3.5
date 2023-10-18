@@ -2,9 +2,9 @@
 
 # __support__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Well-being support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_741.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Community support groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2192.md)
 * [support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1492.md)
 * [financial support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_607.md)
+
+## This Technology enables the following mitigations
+
+* [Well-being support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_741.md)
 

@@ -2,13 +2,9 @@
 
 # __Privacy considerations and flexible room layout__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Risk of COVID-19 transmission in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_364.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced privacy](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_469.md)
+* [Designing affordable, adaptable, and sustainable housing with improved building environments and optimized spatial layouts, while incorporating flexible and human-centric design elements and considering health, safety, and environmental parameters.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_326.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Levels of indoor space adjustability](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_241.md)
 * [Designing spaces with diverse human occupancy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_250.md)
 * [Designing social spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_155.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced privacy](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_469.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Risk of COVID-19 transmission in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_364.md)
 

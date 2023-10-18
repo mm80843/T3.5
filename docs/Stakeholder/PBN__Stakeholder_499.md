@@ -2,14 +2,13 @@
 
 # __passengers__
 
-## Risk affecting this stakeholder
-
-* [Inadequate public transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1652.md)
-* [Crowded railway stations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1650.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Reduction in transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_262.md)
+
+## Category to which it belongs
+
+* [Entities and individuals who interact with or are affected by a system, organization, or public facility.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_1.md)
 
 ## Closest similar item
 
@@ -23,4 +22,9 @@
 * [travellers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_553.md)
 * [travelers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_560.md)
 * [public transportation users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1584.md)
+
+## Risk affecting this stakeholder
+
+* [Inadequate public transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1652.md)
+* [Crowded railway stations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1650.md)
 

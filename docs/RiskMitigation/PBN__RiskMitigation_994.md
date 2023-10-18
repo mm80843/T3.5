@@ -2,13 +2,9 @@
 
 # __UV-based technologies__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Inadequate ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_713.md)
-
-## Property: has_MitigationBenefit
-
-* [Pathogen inactivation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_998.md)
+* [Accelerate the shift to digitalization by embracing emerging technologies and implementing innovative solutions across various sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_346.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implement Ultraviolet Germicidal Irradiation (UVGI)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_191.md)
 * [Train and certify more UV technicians](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2372.md)
 * [Conduct further research and studies to compare the two types of UV light for disinfection purposes.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1681.md)
+
+## Property: has_MitigationBenefit
+
+* [Pathogen inactivation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_998.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inadequate ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_713.md)
 

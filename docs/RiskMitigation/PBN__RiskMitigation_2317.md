@@ -2,9 +2,9 @@
 
 # __Increase healthcare system capacity, implement triage protocols, and prioritize care for severe cases__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Overburdened healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1749.md)
+* [Enhancing healthcare infrastructure, increasing capacity, and ensuring access to medical resources and services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_330.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Increase healthcare capacity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1112.md)
 * [Prioritize high-quality health care for those in need and ensure access to routine health services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1495.md)
 * [Increase healthcare capacity, ensure availability of medical supplies and equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1456.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Overburdened healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1749.md)
 

@@ -2,13 +2,9 @@
 
 # __urban population__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q4145472](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4145472.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
+* [A diverse array of groups and individuals, encompassing all segments of society and the natural world.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_363.md)
 
 ## Closest similar item
 
@@ -23,10 +19,6 @@
 * [residents of urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1227.md)
 * [local population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_349.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Residents](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_72.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Improved emotional health and well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_416.md)
@@ -36,4 +28,16 @@
 * [Improved urban equality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_423.md)
 * [Reduced transport-related emissions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_424.md)
 * [Enhanced digital change](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_425.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Residents](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_72.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q4145472](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4145472.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
 

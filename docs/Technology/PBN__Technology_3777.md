@@ -2,9 +2,9 @@
 
 # __photocatalysts such as tio2__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Photocatalytic oxidation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1305.md)
+* [The range of materials and techniques listed includes various disinfectants, nanomaterials, manufacturing methods, coatings, sustainability measures, and analytical tools.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_237.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [natural light solutions (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1613.md)
 * [natural light solutions (e.g. skylights, sun tubes)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2216.md)
 * [electrochemical reactions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3078.md)
+
+## This Technology enables the following mitigations
+
+* [Photocatalytic oxidation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1305.md)
 

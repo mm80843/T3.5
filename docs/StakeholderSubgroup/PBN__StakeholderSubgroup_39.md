@@ -2,14 +2,9 @@
 
 # __Scientific Research__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_46.md)
-* [scientist](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1862.md)
-* [scientific community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_348.md)
-* [research institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_413.md)
-* [research institution](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1854.md)
-* [scientific journals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_971.md)
+* [Exploration and study encompass scientific research, environmental management and research, education and research, as well as laboratory and research.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_250.md)
 
 ## Closest similar item
 
@@ -23,4 +18,13 @@
 * [Publishing](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_36.md)
 * [Academic Roles](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_11.md)
 * [Energy](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_30.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_46.md)
+* [scientist](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1862.md)
+* [scientific community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_348.md)
+* [research institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_413.md)
+* [research institution](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1854.md)
+* [scientific journals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_971.md)
 

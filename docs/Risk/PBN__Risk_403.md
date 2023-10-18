@@ -2,9 +2,9 @@
 
 # __Lack of coordination and integration__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Harness the strength of complementary evidence networks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_560.md)
+* [Insufficient awareness, limited resources, inadequate communication, and lack of preparedness contribute to various challenges and deficiencies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_118.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of effective technical systems for coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_630.md)
 * [Integration challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2464.md)
 * [Poor communication and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1763.md)
+
+## Mitigations of this risk
+
+* [Harness the strength of complementary evidence networks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_560.md)
 

@@ -2,9 +2,9 @@
 
 # __Increased travel__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Improved travel limitations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1266.md)
+* [The changing landscape of travel and transportation has led to concerns over safety, reduced demand, and inadequate infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_125.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Travel-related transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1034.md)
 * [Increased commuting and social disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2886.md)
 * [Inadequate global travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1028.md)
+
+## Mitigations of this risk
+
+* [Improved travel limitations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1266.md)
 

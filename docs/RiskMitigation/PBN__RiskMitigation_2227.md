@@ -2,9 +2,9 @@
 
 # __Optimize room layout, create flexible and multipurpose spaces, maximize use of natural light and ventilation__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Limited space in apartments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1672.md)
+* [Optimize indoor environment by maximizing natural light, ventilation, and incorporating efficient lighting systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_348.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Provide adjustable and flexible indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2889.md)
 * [Improve living conditions, access to natural light and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2896.md)
 * [Redesign housing layouts to include more partitions, wider corridors, and improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2304.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limited space in apartments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1672.md)
 

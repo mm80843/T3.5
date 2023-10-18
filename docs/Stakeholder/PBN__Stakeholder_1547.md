@@ -2,13 +2,13 @@
 
 # __taiwanese citizens and communities__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q865](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q865.md)
+* [All those involved in the management, access, and utilization of data in various communities and industries.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_358.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
+* [Cruise ship docking](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2319.md)
 
 ## Closest similar item
 
@@ -23,11 +23,15 @@
 * [citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_54.md)
 * [individuals and communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_106.md)
 
-## Risk affecting this stakeholder
-
-* [Cruise ship docking](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2319.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Taiwanese Citizens and Communities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_119.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q865](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q865.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
 

@@ -2,9 +2,9 @@
 
 # __glazing__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Circadian regulation: bedrooms designed for sleep](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1596.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [surgical masks)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4505.md)
 * [virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1233.md)
 * [Virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2097.md)
+
+## This Technology enables the following mitigations
+
+* [Circadian regulation: bedrooms designed for sleep](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1596.md)
 

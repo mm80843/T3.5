@@ -2,13 +2,9 @@
 
 # __Adaptation of car parking building__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Negative economic effects on businesses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_785.md)
-
-## Property: has_MitigationBenefit
-
-* [Increased tenant demand](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1073.md)
+* [Designing affordable, adaptable, and sustainable housing with improved building environments and optimized spatial layouts, while incorporating flexible and human-centric design elements and considering health, safety, and environmental parameters.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_326.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Improve park quality in low-socioeconomic status neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_211.md)
 * [Incorporating green spaces in building design, promoting access to public parks and gardens](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3081.md)
 * [Incorporate green spaces, such as parks and green roofs, into urban planning and development projects](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2244.md)
+
+## Property: has_MitigationBenefit
+
+* [Increased tenant demand](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1073.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Negative economic effects on businesses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_785.md)
 

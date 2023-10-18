@@ -2,9 +2,9 @@
 
 # __digital content creation tools__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [E-learning packages](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1720.md)
+* [The digital revolution encompasses various aspects, from online promotion to contactless payment systems and virtual learning platforms.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_190.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Digital management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2048.md)
 * [digital communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_719.md)
 * [Digital communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2535.md)
+
+## This Technology enables the following mitigations
+
+* [E-learning packages](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1720.md)
 

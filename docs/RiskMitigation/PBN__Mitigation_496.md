@@ -2,11 +2,9 @@
 
 # __Visible and accessible green elements and spaces__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [green roofs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1392.md)
-* [green walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1010.md)
-* [urban microclimatic control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3261.md)
+* [Enhancing availability and inclusivity of diverse, inviting, well-maintained and accessible natural environments and communal areas.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_145.md)
 
 ## Closest similar item
 
@@ -21,15 +19,21 @@
 * [Increased green space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3331.md)
 * [Increase in the number and accessibility of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3197.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Overcrowding, lack of green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2591.md)
-
 ## Property: has_MitigationPrinciple
 
 Green elements mitigate urban climate, improve ecological-climatic conditions, reduce heat waves, increase humidity, promote physical activity, reduce diseases, reduce stress and mental fatigue
 
+## Risks possibly mitigated by this Mitigation
+
+* [Overcrowding, lack of green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2591.md)
+
 ## Property: has_MitigationSource
 
 * [COVID-19 and Living space challenge. Well-being and Public Health recommendations for a healthy, safe, and sustainable housing.](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_161.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [green roofs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1392.md)
+* [green walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1010.md)
+* [urban microclimatic control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3261.md)
 

@@ -2,9 +2,9 @@
 
 # __Financial sustainability__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Economic diversification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1002.md)
+* [Financial vulnerability and instability permeate various sectors and industries, hindering growth, sustainability, and access to resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_114.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Financial viability of clean energy sectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3318.md)
 * [Financial constraints](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1294.md)
 * [Financial viability of businesses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3315.md)
+
+## Mitigations of this risk
+
+* [Economic diversification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1002.md)
 

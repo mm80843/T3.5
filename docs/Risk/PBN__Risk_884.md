@@ -2,9 +2,9 @@
 
 # __Improved resource allocation__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Wastewater-based surveillance (WBS)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1205.md)
+* [Limited monitoring, technical limitations, language barriers, expensive optimization, lack of connection with nature, and limited sensor diversity hinder effective response and resource allocation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_107.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inequitable distribution of resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2899.md)
 * [Misallocation of resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2793.md)
 * [Inequalities in access to resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1023.md)
+
+## Mitigations of this risk
+
+* [Wastewater-based surveillance (WBS)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1205.md)
 

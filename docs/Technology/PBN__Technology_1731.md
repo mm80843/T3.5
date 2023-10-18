@@ -2,9 +2,9 @@
 
 # __increase window size__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q28949265](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q28949265.md)
+* [These resources aim to enhance security, convenience, and efficiency in managing access, spaces, and systems within various environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_206.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [operable windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3938.md)
 * [openable windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1748.md)
 * [Openable windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2714.md)
+
+## This Technology is identified by the following QID
+
+* [Q28949265](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q28949265.md)
 

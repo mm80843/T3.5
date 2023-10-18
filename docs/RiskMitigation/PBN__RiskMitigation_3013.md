@@ -2,9 +2,9 @@
 
 # __Increase communication in multiple languages for non-Taiwanese citizens.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1683.md)
+* [Facilitate transparent communication, enabling reliable information sharing through standardized protocols and effective channels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_0.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Provision of language-appropriate resources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_530.md)
 * [Provide digital devices and internet access to overcome technological barriers, offer targeted support for language and academic needs of immigrant students.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2432.md)
 * [Communication strategy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_410.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1683.md)
 

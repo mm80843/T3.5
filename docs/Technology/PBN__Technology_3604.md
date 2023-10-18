@@ -2,9 +2,9 @@
 
 # __modes of transportation__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Changes in social practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1058.md)
+* [Enhancing accessibility and support through a range of remote healthcare, counseling, transportation, and translation services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_213.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [railway transport](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3669.md)
 * [public transport](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3647.md)
 * [transportation and epidemiological models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3557.md)
+
+## This Technology enables the following mitigations
+
+* [Changes in social practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1058.md)
 

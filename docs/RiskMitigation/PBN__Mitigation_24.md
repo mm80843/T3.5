@@ -2,9 +2,9 @@
 
 # __Informal settlements__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [improved governance and service provision](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2905.md)
+* [Enhancing safety and efficiency through comprehensive measures, technology integration, diverse environments, and behavioral adjustments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_157.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Horizontal urban development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2428.md)
 * [Urban/community farming](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2147.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Spread of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2408.md)
-
 ## Property: has_MitigationPrinciple
 
 Addressing the deficiencies in governance, design, and services in informal settlements is crucial for managing infections and providing adequate support to residents.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2408.md)
+
 ## Property: has_MitigationSource
 
 * [COVID-19: Lessons for an Urban(izing) World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_85.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [improved governance and service provision](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2905.md)
 

@@ -2,8 +2,9 @@
 
 # __Home-based exercise__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Promoting community involvement and awareness through various initiatives such as education programs, engagement campaigns, and urban farming.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_142.md)
 
 ## Closest similar item
 
@@ -18,14 +19,17 @@
 * [Encourage physical exercise at home, balance and flexibility training, muscle strength exercise, and endurance training.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2690.md)
 * [Moderate physical exercise](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2691.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Engaging in physical activities at home, such as yoga, dancing, and weightlifting, as a coping strategy to promote mental health and well-being during COVID-19 lockdown and restrictions.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Mental Health and the Role of Physical Activity During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_242.md)
+
+## This Mitigation is enabled by the following technologies
+
 

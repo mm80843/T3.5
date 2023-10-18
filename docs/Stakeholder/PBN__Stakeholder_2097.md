@@ -2,10 +2,9 @@
 
 # __real estate developers__
 
-## This Stakeholder belongs to this StakeholderGroup
+## Category to which it belongs
 
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
-* [Housing And Property](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_10.md)
+* [A diverse group specializing in the creation and implementation of various technological projects.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_383.md)
 
 ## Closest similar item
 
@@ -19,6 +18,11 @@
 * [real estate managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2065.md)
 * [real estate industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1220.md)
 * [property developer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2008.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+* [Housing And Property](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_10.md)
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 

@@ -2,13 +2,9 @@
 
 # __Stratified sewer collection systems__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
-
-## Property: has_MitigationBenefit
-
-* [Early detection of virus circulation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_358.md)
+* [Promote environmentally-friendly waste management, sanitation, and maintenance practices, including rodent control, decontamination, and segregation of waste.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_340.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Enhancing drainage systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_661.md)
 * [Implementing effective waste management systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1506.md)
 * [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_149.md)
+
+## Property: has_MitigationBenefit
+
+* [Early detection of virus circulation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_358.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
 

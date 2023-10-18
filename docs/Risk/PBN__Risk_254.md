@@ -2,9 +2,9 @@
 
 # __Surface disinfection__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [UVGI](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_315.md)
+* [The widespread presence and transfer of harmful pathogens and contaminants on various surfaces and environments pose serious risks to public health and the ecosystem.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_100.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [regular disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3487.md)
 * [disinfection processes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3488.md)
 * [disinfection methods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3489.md)
+
+## Mitigations of this risk
+
+* [UVGI](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_315.md)
 

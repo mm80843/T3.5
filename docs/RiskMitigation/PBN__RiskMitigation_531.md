@@ -2,13 +2,9 @@
 
 # __Robust government support and partnership__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Spread of COVID-19 in public housing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_383.md)
-
-## Property: has_MitigationBenefit
-
-* [Empowerment and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_518.md)
+* [Promote sustainable development through infrastructure investments, training, diversification, financial support, and government partnerships.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_315.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Strengthening local support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1122.md)
 * [Implement adaptive and flexible management models, improve coordination among different government levels](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1647.md)
 * [Developing collaborative partnerships](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_11.md)
+
+## Property: has_MitigationBenefit
+
+* [Empowerment and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_518.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of COVID-19 in public housing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_383.md)
 

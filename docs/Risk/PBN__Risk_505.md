@@ -2,9 +2,9 @@
 
 # __Compliance with regulatory changes__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Monitoring regulatory environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_715.md)
+* [Fragmented global governance, reduced aid, ethical concerns, educational disruption, impacts on peace and justice, and inadequate coordination between stakeholders.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_115.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inadequate Compliance Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1727.md)
 * [High Costs of Compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2276.md)
 * [Low compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_541.md)
+
+## Mitigations of this risk
+
+* [Monitoring regulatory environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_715.md)
 

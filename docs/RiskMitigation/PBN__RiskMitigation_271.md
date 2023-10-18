@@ -2,13 +2,9 @@
 
 # __Including sinks with running warm water in the containment space__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Limited access to hand hygiene facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_227.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved hand hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_281.md)
+* [Promote efficient and sustainable water practices, enhance infrastructure, and ensure access to clean water and sanitation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_339.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Containment spaces in hospitals and healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_749.md)
 * [Optimal thermal environments](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_150.md)
 * [Use of water-efficient appliances and fixtures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_239.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved hand hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_281.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limited access to hand hygiene facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_227.md)
 

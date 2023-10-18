@@ -2,9 +2,9 @@
 
 # __Enhance monitoring and early warning systems to detect and respond to shocks in a timely manner.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Propagation of shocks in GVCs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1839.md)
+* [Monitoring, analysis, and standardization of various technologies and protocols for accurate and reliable healthcare data collection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_310.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Emphasize the importance of multiple preventive measures and the need for continued vigilance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2416.md)
 * [Early detection and rapid response systems, development of new diagnostic tools and vaccines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3059.md)
 * [Strengthen public health emergency preparedness and response systems to mitigate the impact of epidemics.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2435.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Propagation of shocks in GVCs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1839.md)
 

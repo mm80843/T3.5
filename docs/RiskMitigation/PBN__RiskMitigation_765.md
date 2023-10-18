@@ -2,13 +2,9 @@
 
 # __Diversify information__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Decreasing interest in news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_534.md)
-
-## Property: has_MitigationBenefit
-
-* [Increased awareness](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_770.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Diversify and strengthen economic and financial systems, reduce interdependencies, and promote local and regional self-sufficiency](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1837.md)
 * [Foster competition and diversification in GVCs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_308.md)
 * [Foster economic resilience through improved risk management and diversification strategies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2424.md)
+
+## Property: has_MitigationBenefit
+
+* [Increased awareness](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_770.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Decreasing interest in news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_534.md)
 

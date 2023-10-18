@@ -2,9 +2,9 @@
 
 # __Continuous monitoring and adjustment of treatment processes.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Water quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_714.md)
+* [Implementing a comprehensive package of measures to ensure the smooth functioning and safety of essential services and activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_6.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement measures with caution, prioritize evidence-based interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2049.md)
 * [Monitor reactions and performance, alter assignments and schedules, offer psychosocial support as needed](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2499.md)
 * [Enhanced monitoring and control efforts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_664.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Water quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_714.md)
 

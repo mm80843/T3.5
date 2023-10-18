@@ -2,10 +2,9 @@
 
 # __Proper waste management__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [recycling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4294.md)
-* [waste separation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4289.md)
+* [Efficient control and supervision to ensure the proper handling and disposal of various types of waste and potential risks.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_8.md)
 
 ## Closest similar item
 
@@ -20,16 +19,21 @@
 * [Urban Solid Waste Management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_500.md)
 * [Waste management in demolition](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1481.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3332.md)
-
 ## Property: has_MitigationPrinciple
 
 Minimize the risk of contamination from waste
+
+## Risks possibly mitigated by this Mitigation
+
+* [Virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3332.md)
 
 ## Property: has_MitigationSource
 
 * [Scalable IoT Architecture for Monitoring IEQ Conditions in Public and Private Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_234.md)
 * [How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [recycling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4294.md)
+* [waste separation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4289.md)
 

@@ -2,9 +2,9 @@
 
 # __ultraviolet radiation__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [UVGI technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1408.md)
+* [Innovative lighting solutions harnessing ultraviolet technology for optimal germicidal sterilization and energy efficiency, while maximizing natural light.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_235.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [ultraviolet germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_232.md)
 * [uv germicidal radiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1351.md)
 * [uv](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3835.md)
+
+## This Technology enables the following mitigations
+
+* [UVGI technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1408.md)
 

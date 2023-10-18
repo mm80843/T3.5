@@ -2,11 +2,9 @@
 
 # __Optimum occupant presence schedule__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [spea2)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3810.md)
-* [optimization algorithms (nsga-ii](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3808.md)
-* [mopso](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3809.md)
+* [Embracing flexible work arrangements, such as remote work and staggered schedules, to enhance productivity and adapt to digital transformation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_171.md)
 
 ## Closest similar item
 
@@ -21,14 +19,20 @@
 * [Reduce occupancy rates, enforce physical distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3037.md)
 * [Limit occupancy numbers, maintain physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3038.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Adjust the attendance of occupants effectively based on climatic conditions to minimize energy consumption of HVAC systems
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [The effect of occupant distribution on energy consumption and COVID-19 infection in buildings: A case study of university building](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_169.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [spea2)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3810.md)
+* [optimization algorithms (nsga-ii](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3808.md)
+* [mopso](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3809.md)
 

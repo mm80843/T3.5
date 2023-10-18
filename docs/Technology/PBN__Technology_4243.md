@@ -2,10 +2,9 @@
 
 # __potted plants__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Availability of greenery and gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2125.md)
-* [Indoor biophilia](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2483.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [online plant stores](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_420.md)
 * [Online plant stores](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2205.md)
 * [indoor vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3046.md)
+
+## This Technology enables the following mitigations
+
+* [Availability of greenery and gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2125.md)
+* [Indoor biophilia](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2483.md)
 

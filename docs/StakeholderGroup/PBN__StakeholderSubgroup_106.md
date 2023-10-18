@@ -2,6 +2,23 @@
 
 # __Economic and Social Status__
 
+## Category to which it belongs
+
+* [Social hierarchy and its impact on individuals within a community.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_253.md)
+
+## Closest similar item
+
+* [Socioeconomic Defined Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_89.md)
+* [Health and Well-being](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_94.md)
+* [Individuals in Developing Countries](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_92.md)
+* [Social Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_138.md)
+* [Work and Living Environment](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_103.md)
+* [Social Services](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_40.md)
+* [Occupational and Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_27.md)
+* [Society](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_128.md)
+* [Economic and Trade Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_122.md)
+* [Minorities and Marginalized Groups](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_97.md)
+
 ## Stakeholders in this stakeholder subgroup
 
 * [high-risk group](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2392.md)
@@ -22,17 +39,4 @@
 * [individual with limited social connection](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2301.md)
 * [individual from lower socio-economic background](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2341.md)
 * [individual and household facing job lo or economic instability; small busine and self-employed individual](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2276.md)
-
-## Closest similar item
-
-* [Socioeconomic Defined Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_89.md)
-* [Health and Well-being](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_94.md)
-* [Individuals in Developing Countries](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_92.md)
-* [Social Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_138.md)
-* [Work and Living Environment](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_103.md)
-* [Social Services](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_40.md)
-* [Occupational and Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_27.md)
-* [Society](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_128.md)
-* [Economic and Trade Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_122.md)
-* [Minorities and Marginalized Groups](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_97.md)
 

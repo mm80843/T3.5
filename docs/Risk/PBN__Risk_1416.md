@@ -2,27 +2,9 @@
 
 # __Inadequate sanitation facilities__
 
-## Property: has_RiskHealth
+## Category to which it belongs
 
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Description of the risk
-
-Insufficient availability and maintenance of sanitation facilities in the built environment, leading to poor hygiene and increased risk of disease transmission.
-
-## Property: has_RiskType
-
-* [environmental](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_0.md)
-* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
-
-## Articles mentionning the risk
-
-* [Study of COVID-19 pandemic in London (UK) from urban context](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_57.md)
-* [The effect of a redesigned floor plan, occupant density and the quality of indoor climate on the cost of space, productivity and sick leave in an office building–A case study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_223.md)
+* [Lack of proper hygiene and sanitation practices result in inadequate access to clean water and facilities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_129.md)
 
 ## Closest similar item
 
@@ -37,18 +19,34 @@ Insufficient availability and maintenance of sanitation facilities in the built 
 * [Lack of sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3259.md)
 * [Inadequate Hygiene Facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1204.md)
 
-## People affected by this risk
+## Description of the risk
 
-* [marginalized populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_275.md)
-* [urban residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_209.md)
-* [employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_220.md)
-* [visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_118.md)
-* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
-* [informal settlements](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_920.md)
+Insufficient availability and maintenance of sanitation facilities in the built environment, leading to poor hygiene and increased risk of disease transmission.
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_5.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_0.md)
+
+## Mitigations of this risk
+
+* [Ensure the availability of clean and well-maintained restroom facilities. Implement hygiene promotion campaigns.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2637.md)
+* [Improve sanitation infrastructure, provide access to clean water, promote good hygiene practices.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1924.md)
+
+## Name of the risk
+
+Increased risk of gastrointestinal illnesses and poor hygiene practices.
 
 ## Stakeholders who can mitigate this risk
 
@@ -58,18 +56,19 @@ Insufficient availability and maintenance of sanitation facilities in the built 
 * [facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
 * [ngos](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_234.md)
 
-## Name of the risk
+## Articles mentionning the risk
 
-Increased risk of gastrointestinal illnesses and poor hygiene practices.
+* [Study of COVID-19 pandemic in London (UK) from urban context](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_57.md)
+* [The effect of a redesigned floor plan, occupant density and the quality of indoor climate on the cost of space, productivity and sick leave in an office building–A case study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_223.md)
 
-## Mitigations of this risk
+## People affected by this risk
 
-* [Ensure the availability of clean and well-maintained restroom facilities. Implement hygiene promotion campaigns.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2637.md)
-* [Improve sanitation infrastructure, provide access to clean water, promote good hygiene practices.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1924.md)
-
-## Property: has_RiskISO_Purpose
-
-* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_0.md)
+* [marginalized populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_275.md)
+* [urban residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_209.md)
+* [employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_220.md)
+* [visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_118.md)
+* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+* [informal settlements](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_920.md)
 
 ## Technologies linked to the risk
 
@@ -79,4 +78,9 @@ Increased risk of gastrointestinal illnesses and poor hygiene practices.
 * [touchless faucets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1481.md)
 * [water treatment facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_666.md)
 * [hands-free fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1479.md)
+
+## Property: has_RiskType
+
+* [environmental](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_0.md)
+* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 

@@ -2,9 +2,9 @@
 
 # __Economic impact, mental health issues__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_577.md)
+* [The toll of mental health harms, health harming behaviors, and the psychological impact of quarantine, fear, and anxiety has increased, affecting various populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_95.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Mental health issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1390.md)
 * [Increased mental and physical health problems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3087.md)
 * [Mental health concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1872.md)
+
+## Mitigations of this risk
+
+* [Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_577.md)
 

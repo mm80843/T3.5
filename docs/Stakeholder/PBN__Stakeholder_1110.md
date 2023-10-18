@@ -2,13 +2,13 @@
 
 # __especially those living in flats__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q6659294](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6659294.md)
+* [Individuals in low-income or low-education groups, crowded/poorly ventilated spaces, lockdown areas, and densely populated places are particularly affected/risked by various factors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_364.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Lack of access to outdoor space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1684.md)
 
 ## Closest similar item
 
@@ -23,10 +23,14 @@
 * [especially those in densely populated and low-income neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1228.md)
 * [especially those living in noisy area](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2242.md)
 
-## Risk affecting this stakeholder
-
-* [Lack of access to outdoor space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1684.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
+
+## This Stakeholder is identified by the following QID
+
+* [Q6659294](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6659294.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 

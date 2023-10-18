@@ -2,9 +2,9 @@
 
 # __crowd surveillance technology__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Strict social distancing protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_43.md)
+* [Effective management and surveillance of crowds through advanced technologies, tools, and strategic measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_233.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [crowd density monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_335.md)
 * [surveillance technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3635.md)
 * [use of digital tools for crowd monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1027.md)
+
+## This Technology enables the following mitigations
+
+* [Strict social distancing protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_43.md)
 

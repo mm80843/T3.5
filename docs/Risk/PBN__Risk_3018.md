@@ -2,9 +2,9 @@
 
 # __Privacy and Security of Data__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Contact Tracing Applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1320.md)
+* [Concerns about the protection of personal information, surveillance, data security, and risks of privacy infringement.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_108.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Privacy and data security concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2065.md)
 * [Data security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1536.md)
 * [Data Security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2471.md)
+
+## Mitigations of this risk
+
+* [Contact Tracing Applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1320.md)
 

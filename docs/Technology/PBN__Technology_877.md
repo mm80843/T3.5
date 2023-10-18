@@ -2,9 +2,9 @@
 
 # __transparent communication channels__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q733553](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q733553.md)
+* [Enhanced connectivity and diverse communication platforms enable the dissemination of reliable information and promote open communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_225.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [open communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_539.md)
 * [transparency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1927.md)
 * [digital communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_816.md)
+
+## This Technology is identified by the following QID
+
+* [Q733553](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q733553.md)
 

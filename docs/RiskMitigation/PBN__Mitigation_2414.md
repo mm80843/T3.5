@@ -2,10 +2,9 @@
 
 # __Longitudinal analysis of wastewater samples__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3346.md)
-* [rt-qpcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4479.md)
+* [Strengthening waste management and surveillance, utilizing wastewater-based epidemiology, to improve environmental sanitation and water quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_9.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Wastewater-based surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2410.md)
 * [Wastewater-based epidemiology (WBE)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_61.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Uncertainty in disease prevalence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3449.md)
-
 ## Property: has_MitigationPrinciple
 
 By analyzing the presence or absence of viral particles in wastewater samples from different catchment areas, it is possible to estimate disease prevalence independent of knowing the average viral titer in infected stool, providing a more accurate representation of the burden of SARS-CoV-2 in the population.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Uncertainty in disease prevalence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3449.md)
+
 ## Property: has_MitigationSource
 
 * [SARS-CoV-2 Titers in Wastewater Are Higher than Expected from Clinically Confirmed Cases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_251.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3346.md)
+* [rt-qpcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4479.md)
 

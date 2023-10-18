@@ -2,9 +2,9 @@
 
 # __fans__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_170.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [television](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3912.md)
 * [posters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3125.md)
 * [signs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3923.md)
+
+## This Technology enables the following mitigations
+
+* [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_170.md)
 

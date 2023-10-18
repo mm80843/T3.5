@@ -2,9 +2,9 @@
 
 # __travel tracking and monitoring systems__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Travel Restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_710.md)
+* [Enhanced monitoring and surveillance technologies enable real-time tracking, video conferencing, and improved detection methods.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_214.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [tracking technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1722.md)
 * [remote monitoring and tracking technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1366.md)
 * [Remote monitoring and tracking technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2344.md)
+
+## This Technology enables the following mitigations
+
+* [Travel Restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_710.md)
 

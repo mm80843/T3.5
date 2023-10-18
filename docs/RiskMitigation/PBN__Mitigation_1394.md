@@ -2,9 +2,9 @@
 
 # __Real-time data sharing through dashboards__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [data sharing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3837.md)
+* [Improved data management and sharing for efficient and secure information exchange and analysis across various platforms and stakeholders.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_182.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Real-time monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1671.md)
 * [Data Sharing Initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1323.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Lack of real-time data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_762.md)
-
 ## Property: has_MitigationPrinciple
 
 Sharing data on the spread of the virus helps authorities take timely measures to protect communities
 
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of real-time data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_762.md)
+
 ## Property: has_MitigationSource
 
 * [Exploring the Potential of Artificial Intelligence and Machine Learning to Combat COVID-19 and Existing Opportunities for LMIC: A Scoping Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_131.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [data sharing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3837.md)
 

@@ -2,9 +2,9 @@
 
 # __Consider possible impacts of the pandemic on findings, adjust research design and data collection, report extra contextual detail.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Loss of validity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1383.md)
+* [Promote standardized data collection, ontology-based representation, and enhanced data sharing to improve decision-making processes and data quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_319.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Develop standardized data collection methods and improve reporting systems for intimate partner violence during the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1469.md)
 * [Collect more data, conduct larger studies for more solid conclusions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2216.md)
 * [Implement health and safety measures, adapt project plans to pandemic restrictions, provide support to affected workers.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1947.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Loss of validity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1383.md)
 

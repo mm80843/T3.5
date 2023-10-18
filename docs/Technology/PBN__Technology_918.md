@@ -2,9 +2,9 @@
 
 # __drug resistance surveillance technology__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1261151](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1261151.md)
+* [Technological advancements encompass a wide range of innovations, such as blockchain, touchless, renewable energy, and communication technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [screening technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2922.md)
 * [surveillance systems for disease monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_977.md)
 * [identification and surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1705.md)
+
+## This Technology is identified by the following QID
+
+* [Q1261151](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1261151.md)
 

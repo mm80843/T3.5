@@ -2,13 +2,9 @@
 
 # __Improved ventilation and air quality__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [COVID-19 propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_453.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced indoor environment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_646.md)
+* [Enhance airflow, increase fresh air intake, and optimize ventilation systems to improve air quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_329.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Improved ventilation and air filtration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1307.md)
 * [Enhanced ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_607.md)
 * [Increase ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1075.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced indoor environment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_646.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [COVID-19 propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_453.md)
 

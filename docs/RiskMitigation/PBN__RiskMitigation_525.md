@@ -2,13 +2,9 @@
 
 # __Pandemic analytics__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of understanding of incubation period and infectious period](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_380.md)
-
-## Property: has_MitigationBenefit
-
-* [Early detection and response](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_218.md)
+* [Implement comprehensive strategies to control virus transmission, improve surveillance, develop antiviral coatings, and enhance infection control measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_309.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Capture and report additional contextual factors (e.g., pandemic-related policies, restrictions, social and economic impacts) during data collection and analysis.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1883.md)
 * [Adoption of pandemic preparedness protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_738.md)
 * [Implement and enforce non-pharmaceutical interventions at early stages of pandemics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2138.md)
+
+## Property: has_MitigationBenefit
+
+* [Early detection and response](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_218.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of understanding of incubation period and infectious period](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_380.md)
 

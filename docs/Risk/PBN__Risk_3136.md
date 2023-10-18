@@ -2,9 +2,9 @@
 
 # __COVID-19 symptoms__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Temperature checks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1559.md)
+* [The far-reaching consequences of COVID-19 include its transmission through various settings, impact on urban areas, and scarcity of resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Predicting the onset of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_681.md)
 * [Inability to differentiate COVID-19 from other viral infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1003.md)
 * [about COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_535.md)
+
+## Mitigations of this risk
+
+* [Temperature checks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1559.md)
 

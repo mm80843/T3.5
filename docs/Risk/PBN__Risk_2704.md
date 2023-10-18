@@ -2,9 +2,9 @@
 
 # __Ineffective home isolation__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Isolation of suspected COVID-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_723.md)
+* [The challenges include reduced surgical education, loss of control, limited diagnostics, slow drug development, inadequate patient monitoring, and lack of drug therapy options.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_110.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Quarantine, self-isolation, and lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_852.md)
 * [Isolation and Lack of Social Interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1080.md)
 * [Prolonged isolation and lack of social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_75.md)
+
+## Mitigations of this risk
+
+* [Isolation of suspected COVID-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_723.md)
 

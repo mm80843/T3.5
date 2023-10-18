@@ -2,9 +2,9 @@
 
 # __Fomite spread__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_246.md)
+* [The challenges and consequences of the global pandemic include poor acoustics, noise pollution, food security, increase in inequality, waste, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_131.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Contagious Spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1878.md)
 * [International Spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3282.md)
 * [Contagion spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2077.md)
+
+## Mitigations of this risk
+
+* [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_246.md)
 

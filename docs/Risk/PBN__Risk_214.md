@@ -2,9 +2,9 @@
 
 # __Lack of familiarity with campus__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Campus law enforcement introduction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_256.md)
+* [Insufficient awareness, limited resources, inadequate communication, and lack of preparedness contribute to various challenges and deficiencies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_118.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of knowledge and attitudes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3459.md)
 * [Student and faculty stress](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2148.md)
 * [Education disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_234.md)
+
+## Mitigations of this risk
+
+* [Campus law enforcement introduction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_256.md)
 

@@ -2,8 +2,9 @@
 
 # __Separate Tracks for Junior and Senior Residents__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Enhancing urban mobility through pedestrian-friendly infrastructure, optimized transportation, and improved public transportation systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_151.md)
 
 ## Closest similar item
 
@@ -18,14 +19,17 @@
 * [Widening sidewalks and re-designing pedestrian crossings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_786.md)
 * [Support at individual level](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_804.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Minimizing the number of participants in the "classroom" and allowing for more interaction at the appropriate level by having separate tracks for junior and senior residents.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Using Technology to Maintain the Education of Residents During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_11.md)
+
+## This Mitigation is enabled by the following technologies
+
 

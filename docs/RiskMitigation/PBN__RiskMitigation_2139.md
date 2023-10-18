@@ -2,9 +2,9 @@
 
 # __Develop international strategies that integrate the built environment in pandemic response plans__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of international strategy including built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1604.md)
+* [Promote public health through policy implementation, strengthened systems, health literacy, and targeted interventions for vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_314.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Promote the creation of temporary UGS in underutilized urban spaces to meet the increased demand during pandemics.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2250.md)
 * [Develop and implement comprehensive emergency preparedness plans, including outbreak response protocols and contingency plans](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2266.md)
 * [Pandemic analytics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_525.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of international strategy including built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1604.md)
 

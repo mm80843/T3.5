@@ -2,9 +2,9 @@
 
 # __touchless interfaces__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q6046260](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6046260.md)
+* [Measures promoting accountability, media control, real-time updates, and virtual experiences for physical distancing and education.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Touchless entry systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2835.md)
 * [touch-free technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1291.md)
 * [Touch-free technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2571.md)
+
+## This Technology is identified by the following QID
+
+* [Q6046260](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6046260.md)
 

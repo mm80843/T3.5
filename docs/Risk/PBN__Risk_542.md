@@ -2,9 +2,9 @@
 
 # __Ineffective mitigation policies__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Mitigation Function](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_771.md)
+* [Fragmented global governance, reduced aid, ethical concerns, educational disruption, impacts on peace and justice, and inadequate coordination between stakeholders.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_115.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of timely and effective government interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_584.md)
 * [Community mitigation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_405.md)
 * [Ineffective public management models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1195.md)
+
+## Mitigations of this risk
+
+* [Mitigation Function](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_771.md)
 

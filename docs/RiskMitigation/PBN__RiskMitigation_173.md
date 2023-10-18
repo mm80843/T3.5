@@ -2,13 +2,9 @@
 
 # __Implementation of air filtration systems__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Spread of COVID-19 due to air pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_146.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_192.md)
+* [Enhancing air quality through effective air filtration, ventilation, and pollution reduction strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_338.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implementation of proper ventilation and filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_544.md)
 * [Air filtration with HEPA filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_845.md)
 * [Improve air filtration and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1925.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_192.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of COVID-19 due to air pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_146.md)
 

@@ -2,9 +2,9 @@
 
 # __Implement robust data security measures, encryption, access controls__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Data security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1536.md)
+* [Data privacy and security are prioritized through encryption, access controls, consent, and robust cybersecurity measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_335.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implementation of strict security measures, encryption, anonymization of data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2359.md)
 * [Strict adherence to privacy regulations, encryption of sensitive data, secure access control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1753.md)
 * [Strong data encryption and security protocols, access control mechanisms, regular security audits](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3005.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Data security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1536.md)
 

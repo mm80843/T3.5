@@ -2,9 +2,9 @@
 
 # __Exploitation of workers__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Strengthening enforcement of labour standards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2260.md)
+* [The impact of various factors on the workforce, including job insecurity, changes in work schedules, unemployment, and decreased productivity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_4.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Job and livelihood loss](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1859.md)
 * [Labour shortages](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_730.md)
 * [Workers’ vulnerability to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3520.md)
+
+## Mitigations of this risk
+
+* [Strengthening enforcement of labour standards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2260.md)
 

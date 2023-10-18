@@ -2,9 +2,9 @@
 
 # __Donation tracking__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_211.md)
+* [Promoting financial stability and inclusivity through diverse funding sources, transparent donations, and innovative investment incentives.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_174.md)
 
 ## Closest similar item
 
@@ -19,14 +19,18 @@
 * [Outbreak tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1877.md)
 * [Tracking and contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1974.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Blockchain technology can track and manage donations during the COVID-19 pandemic, ensuring transparency and accountability in the distribution of resources.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Blockchain technology and its applications to combat COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_219.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_211.md)
 

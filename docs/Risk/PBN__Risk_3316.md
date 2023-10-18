@@ -2,9 +2,9 @@
 
 # __Financial viability of suppliers__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Creation of funds and other support measures to suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1985.md)
+* [Financial vulnerability and instability permeate various sectors and industries, hindering growth, sustainability, and access to resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_114.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Disruption in the supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_480.md)
 * [Financial constraints](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1294.md)
 * [Supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_10.md)
+
+## Mitigations of this risk
+
+* [Creation of funds and other support measures to suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1985.md)
 

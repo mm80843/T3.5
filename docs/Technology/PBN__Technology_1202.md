@@ -2,9 +2,9 @@
 
 # __supply chain management systems and technologies enabling quick supplier switching__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q492886](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q492886.md)
+* [Efficiently manage and optimize the flow of goods, data, and suppliers for resilient local supply chains.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_191.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [improving supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1629.md)
 * [supplier diversification technologies and supply chain management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1199.md)
 * [supply chain management tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_132.md)
+
+## This Technology is identified by the following QID
+
+* [Q492886](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q492886.md)
 

@@ -2,9 +2,9 @@
 
 # __Economic impacts, Compliance issues__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Local lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1619.md)
+* [The ramifications of global connectivity include economic instability, impacts of the pandemic, unemployment, poverty, reduced tourism revenue, and decline in public budgets.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_103.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Compliance with regulatory changes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_505.md)
 * [Financial impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_553.md)
 * [Poor compliance, concern over data misuse](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2637.md)
+
+## Mitigations of this risk
+
+* [Local lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1619.md)
 

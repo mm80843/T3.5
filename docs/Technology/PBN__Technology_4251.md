@@ -2,9 +2,9 @@
 
 # __co2 concentration__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Monitor and control indoor air pollution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2130.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [reduction of carbon emissions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1238.md)
 * [Reduction of carbon emissions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2248.md)
 * [carbon reduction technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4095.md)
+
+## This Technology enables the following mitigations
+
+* [Monitor and control indoor air pollution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2130.md)
 

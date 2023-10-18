@@ -2,9 +2,9 @@
 
 # __particularly children and vulnerable individuals__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Hesitation to vaccinate](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2080.md)
+* [Individuals of different ages, including children, parents, migrants, and vulnerable groups, such as women and racial minorities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_389.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [vulnerable groups (e.g. women](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_263.md)
 * [vulnerable populations (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_468.md)
 * [especially those affected and at risk](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_604.md)
+
+## Risk affecting this stakeholder
+
+* [Hesitation to vaccinate](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2080.md)
 

@@ -2,14 +2,9 @@
 
 # __Economic impact of COVID-19__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Investment in education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_540.md)
-* [Investment in clean energy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_543.md)
-* [Investment in healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_538.md)
-* [Investment in social and healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_539.md)
-* [Investment in gender equality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_541.md)
-* [Investment in peace and justice](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_542.md)
+* [The far-reaching consequences of COVID-19 include its transmission through various settings, impact on urban areas, and scarcity of resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
 
 ## Closest similar item
 
@@ -23,4 +18,13 @@
 * [COVID-19 outbreak impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1436.md)
 * [Economic impact of the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_42.md)
 * [about COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_535.md)
+
+## Mitigations of this risk
+
+* [Investment in education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_540.md)
+* [Investment in clean energy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_543.md)
+* [Investment in healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_538.md)
+* [Investment in social and healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_539.md)
+* [Investment in gender equality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_541.md)
+* [Investment in peace and justice](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_542.md)
 

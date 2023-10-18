@@ -2,13 +2,9 @@
 
 # __Mobile apps__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
-
-## Property: has_MitigationBenefit
-
-* [Contact tracing and remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1093.md)
+* [Enhanced surveillance, monitoring, and real-time tracking for improved control and response to various situations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_312.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Wi-Fi-based apps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1153.md)
 * [Mobile technology in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1161.md)
 * [Mobile technology in education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1160.md)
+
+## Property: has_MitigationBenefit
+
+* [Contact tracing and remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1093.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
 

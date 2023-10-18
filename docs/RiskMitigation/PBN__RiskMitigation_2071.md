@@ -2,9 +2,9 @@
 
 # __Improve reporting standards and conduct high-quality research studies on preventive interventions.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Inadequate reporting and method quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1542.md)
+* [Enforce safety measures, promote responsible behavior, utilize PPE, and prioritize risk prevention to ensure adequate protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_342.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement targeted prevention measures and public health campaigns.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2541.md)
 * [Harmonize and coordinate interventions across countries; monitor and enforce adherence to guidelines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1892.md)
 * [Educate the public about preventive measures, promote health literacy, disseminate accurate information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1819.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inadequate reporting and method quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1542.md)
 

@@ -2,9 +2,9 @@
 
 # __public transport infrastructure__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Improved public transportation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2435.md)
+* [The built environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_230.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2310.md)
 * [infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3614.md)
 * [transportation planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_661.md)
+
+## This Technology enables the following mitigations
+
+* [Improved public transportation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2435.md)
 

@@ -2,13 +2,9 @@
 
 # __Clear communication channels__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Access restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_734.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_661.md)
+* [Facilitate transparent communication, enabling reliable information sharing through standardized protocols and effective channels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_0.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Providing clear and transparent information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_101.md)
 * [Centralized communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1443.md)
 * [Communication strategy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_410.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_661.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Access restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_734.md)
 

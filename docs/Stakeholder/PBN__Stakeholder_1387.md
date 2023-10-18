@@ -2,13 +2,15 @@
 
 # __essential workers__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q105764136](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q105764136.md)
+* [Individuals engaged in various types of work, from employees and office workers to agricultural and hospitality workers.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_379.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
+* [Disrupted supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2336.md)
+* [Urbanization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2074.md)
+* [Restricted movement in and out of cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2335.md)
 
 ## Closest similar item
 
@@ -23,13 +25,15 @@
 * [worker](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1771.md)
 * [Worker](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1811.md)
 
-## Risk affecting this stakeholder
-
-* [Disrupted supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2336.md)
-* [Urbanization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2074.md)
-* [Restricted movement in and out of cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2335.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Specific Roles and Job Titles](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_21.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q105764136](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q105764136.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
 

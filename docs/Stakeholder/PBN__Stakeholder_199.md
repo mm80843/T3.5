@@ -2,13 +2,13 @@
 
 # __socially disadvantaged groups__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q106394435](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q106394435.md)
+* [Individuals and communities experiencing socioeconomic disparities, economic hardship, housing instability, and social disadvantage.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_393.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Urban heat island effect and heat waves](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1968.md)
 
 ## Closest similar item
 
@@ -23,15 +23,19 @@
 * [disadvantaged communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1143.md)
 * [disadvantaged populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1347.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder can get these Benefits from mitigation measures
 
-* [Urban heat island effect and heat waves](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1968.md)
+* [Improved social and spatial justice](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_418.md)
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Vulnerable Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_82.md)
 
-## This Stakeholder can get these Benefits from mitigation measures
+## This Stakeholder is identified by the following QID
 
-* [Improved social and spatial justice](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_418.md)
+* [Q106394435](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q106394435.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 

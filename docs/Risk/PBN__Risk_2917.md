@@ -2,9 +2,9 @@
 
 # __Global coordination, political challenges__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [International collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1090.md)
+* [Fragmented global governance, reduced aid, ethical concerns, educational disruption, impacts on peace and justice, and inadequate coordination between stakeholders.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_115.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Globalization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2075.md)
 * [Lack of global leadership](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3402.md)
 * [Inadequate coordination between government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_880.md)
+
+## Mitigations of this risk
+
+* [International collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1090.md)
 

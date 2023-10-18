@@ -2,9 +2,9 @@
 
 # __Disinformation campaigns__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Effective Communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1865.md)
+* [The proliferation of false and misleading information, misinformation, and inaccurate news during pandemics creates confusion and a lack of trust in reliable sources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_127.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Circulation of fake news and misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2840.md)
 * [Spread of inaccurate news on social media](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1015.md)
 * [Spreading inaccurate news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3131.md)
+
+## Mitigations of this risk
+
+* [Effective Communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1865.md)
 

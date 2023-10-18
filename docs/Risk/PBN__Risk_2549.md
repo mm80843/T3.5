@@ -2,9 +2,9 @@
 
 # __Improving air circulation__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_170.md)
+* [Insufficient ventilation and indoor air pollution pose a risk to air quality and respiratory health, exacerbated by inadequate airflow control, limited natural ventilation, and air recirculation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_128.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Airflow issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3022.md)
 * [Air recirculation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1319.md)
 * [Air circulation-limiting potential of tall, planted roadside vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1665.md)
+
+## Mitigations of this risk
+
+* [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_170.md)
 

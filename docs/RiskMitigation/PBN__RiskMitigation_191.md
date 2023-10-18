@@ -2,13 +2,9 @@
 
 # __Implement Ultraviolet Germicidal Irradiation (UVGI)__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [SARS-CoV-2 transmission in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_152.md)
-
-## Property: has_MitigationBenefit
-
-* [Inactivation of microorganisms in high-risk spaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_206.md)
+* [Utilize UVGI technology to disinfect air, surfaces, and clothing, ensuring proper installation, training, and research to optimize effectiveness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_352.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [UV radiation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1353.md)
 * [Use of UVGI devices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_521.md)
 * [Direct UVGI](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_316.md)
+
+## Property: has_MitigationBenefit
+
+* [Inactivation of microorganisms in high-risk spaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_206.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [SARS-CoV-2 transmission in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_152.md)
 

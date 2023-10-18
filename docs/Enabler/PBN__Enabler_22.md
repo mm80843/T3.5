@@ -2,13 +2,13 @@
 
 # __Augmented / Virtual Reality__
 
-## Property: has_TechEquivalent
-
-* [Augmented / Virtual Reality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4547.md)
-
 ## Property: has_BP_EnablerTitle
 
 enabler_023
+
+## Category to which it belongs
+
+* [Immersive digital experiences.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_82.md)
 
 ## Closest similar item
 
@@ -26,4 +26,8 @@ enabler_023
 ## Thees blueprints use this enabler
 
 * [Resilience in staffing and skills training](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_12.md)
+
+## Property: has_TechEquivalent
+
+* [Augmented / Virtual Reality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4547.md)
 

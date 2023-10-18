@@ -2,9 +2,9 @@
 
 # __Implement social protection programs and financial incentives to support vulnerable families__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Reduced income and limited financial resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_778.md)
+* [Implement comprehensive measures to ensure support, protection, and assistance for vulnerable populations during the pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_349.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement economic stimulus packages, provide income support schemes, ensure social safety nets, and protect vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2466.md)
 * [Implement social protection measures, promote economic recovery.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2661.md)
 * [Implement policies that address social and economic inequalities, ensure equal access to essential services, and support vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1836.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Reduced income and limited financial resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_778.md)
 

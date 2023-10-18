@@ -2,9 +2,9 @@
 
 # __Implementing safety measures to build passenger confidence, promoting the benefits of public transport (e.g. reduced traffic, lower emissions), offering flexible ticketing options__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Reduced demand for public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1931.md)
+* [Implement travel restrictions, promote active transportation, streamline processes, provide accurate information, and develop sustainable transport options.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_325.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Increase public transport capacity to ensure physical distancing, provide alternative transport options](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1668.md)
 * [Implement measures to reduce traffic noise such as traffic restrictions or promotion of cycling and green transportation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2177.md)
 * [Restructuring public transit operations to comply with health and safety guidelines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1262.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Reduced demand for public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1931.md)
 

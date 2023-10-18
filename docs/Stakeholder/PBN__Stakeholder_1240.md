@@ -2,13 +2,13 @@
 
 # __individuals from stigmatized groups__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q2674495](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2674495.md)
+* [Individuals in need of mental health support, including those with pre-existing conditions and from marginalized communities with limited access to services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_362.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Stigmatization and discrimination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1831.md)
 
 ## Closest similar item
 
@@ -23,10 +23,14 @@
 * [especially socially disadvantaged individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1065.md)
 * [people with psychiatric disorders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1177.md)
 
-## Risk affecting this stakeholder
-
-* [Stigmatization and discrimination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1831.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
+
+## This Stakeholder is identified by the following QID
+
+* [Q2674495](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2674495.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 

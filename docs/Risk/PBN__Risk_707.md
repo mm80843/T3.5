@@ -2,11 +2,9 @@
 
 # __Economic downfall__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Conservation funding](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_980.md)
-* [Bailouts for industries](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_979.md)
-* [Domestic-based supply chain](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_978.md)
+* [The ramifications of global connectivity include economic instability, impacts of the pandemic, unemployment, poverty, reduced tourism revenue, and decline in public budgets.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_103.md)
 
 ## Closest similar item
 
@@ -20,4 +18,10 @@
 * [Economic downturn](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_525.md)
 * [Loss of productivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3134.md)
 * [Economic impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_124.md)
+
+## Mitigations of this risk
+
+* [Conservation funding](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_980.md)
+* [Bailouts for industries](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_979.md)
+* [Domestic-based supply chain](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_978.md)
 

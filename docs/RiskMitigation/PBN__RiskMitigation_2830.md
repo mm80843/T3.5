@@ -2,9 +2,9 @@
 
 # __Collect and analyze data on human movement patterns using mobile phone call data records and other sources__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Limited data on human movement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2164.md)
+* [Enhanced surveillance, monitoring, and real-time tracking for improved control and response to various situations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_312.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement measures to control and monitor human movement, such as travel restrictions and enhanced surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2831.md)
 * [Analysis of complex links between sensor data and physiological status](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1428.md)
 * [Mobile technology applications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1149.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limited data on human movement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2164.md)
 

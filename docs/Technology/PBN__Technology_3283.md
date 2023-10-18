@@ -2,9 +2,9 @@
 
 # __investments in healthcare facilities and infrastructure__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Development of Public Health Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_525.md)
+* [Maximizing economic efficiency while promoting financial stability through innovative strategies, investments, and partnerships at various levels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_195.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [healthcare technologies and facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1946.md)
 * [healthcare infrastructure improvements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_300.md)
 * [improved healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1204.md)
+
+## This Technology enables the following mitigations
+
+* [Development of Public Health Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_525.md)
 

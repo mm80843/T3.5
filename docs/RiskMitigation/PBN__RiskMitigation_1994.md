@@ -2,9 +2,9 @@
 
 # __Promoting communication, collaboration, and providing material support and resources to healthcare workers__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Support at individual level](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1476.md)
+* [Enhancing healthcare infrastructure, increasing capacity, and ensuring access to medical resources and services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_330.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement online meetings and shift arrangements, provide training and company policies, enforce health protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2802.md)
 * [Encouraging effective communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_207.md)
 * [Strengthen healthcare infrastructure, increase resources and capacity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2286.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Support at individual level](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1476.md)
 

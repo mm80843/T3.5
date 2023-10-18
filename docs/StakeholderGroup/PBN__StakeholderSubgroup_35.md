@@ -2,13 +2,9 @@
 
 # __Journalism and Reporting__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [journalists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1831.md)
-* [Journal editors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1830.md)
-* [Journal editor](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1832.md)
-* [journalist](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1824.md)
-* [reporter](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1834.md)
+* [Information dissemination and news organizations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_286.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Communication Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_34.md)
 * [Workers/Professionals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_47.md)
 * [Social Media Users](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_132.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [journalists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1831.md)
+* [Journal editors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1830.md)
+* [Journal editor](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1832.md)
+* [journalist](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1824.md)
+* [reporter](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1834.md)
 

@@ -2,10 +2,9 @@
 
 # __Supply chain management__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Supply chain optimization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1415.md)
-* [Buying behavior monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1414.md)
+* [Supply chain disruptions and logistical challenges have caused global supply chains to be heavily impacted.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_99.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Disrupted supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2336.md)
 * [Supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_10.md)
 * [Shortages in supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_491.md)
+
+## Mitigations of this risk
+
+* [Supply chain optimization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1415.md)
+* [Buying behavior monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1414.md)
 

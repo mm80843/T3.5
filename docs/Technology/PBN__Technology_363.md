@@ -2,6 +2,10 @@
 
 # __cleaning equipment__
 
+## Category to which it belongs
+
+* [Safety and operational tools for various fields, including healthcare, cleaning, maintenance, and emergency preparation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_212.md)
+
 ## Risks linked to this technology
 
 * [Making social spaces safe and viable](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_266.md)

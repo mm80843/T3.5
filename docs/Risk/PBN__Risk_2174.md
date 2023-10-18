@@ -2,25 +2,9 @@
 
 # __Decline in conservation revenue__
 
-## Property: has_RiskHealth
+## Category to which it belongs
 
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Description of the risk
-
-Reduction in funding and financial resources for conservation activities
-
-## Property: has_RiskType
-
-* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_3.md)
-
-## Articles mentionning the risk
-
-* [Envisioning a resilient future for biodiversity conservation in the wake of the COVID‐19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_221.md)
+* [The interconnectedness of environmental degradation, social inequalities, and the need for climate action and conservation efforts.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_104.md)
 
 ## Closest similar item
 
@@ -35,15 +19,33 @@ Reduction in funding and financial resources for conservation activities
 * [Economic decline](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_856.md)
 * [Insufficient local engagement and authority in conservation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3344.md)
 
-## People affected by this risk
+## Description of the risk
 
-* [local communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_85.md)
-* [conservation organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_428.md)
-* [protected areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1477.md)
+Reduction in funding and financial resources for conservation activities
+
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Governance, empowerment and engagement](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_6.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+
+## Mitigations of this risk
+
+* [Seek alternative sources of funding, diversify revenue streams, engage in partnerships and collaborations for financial support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2843.md)
+
+## Name of the risk
+
+Decreased capacity for conservation projects, reduced ability to implement effective conservation measures
 
 ## Stakeholders who can mitigate this risk
 
@@ -51,21 +53,23 @@ Reduction in funding and financial resources for conservation activities
 * [conservation organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_428.md)
 * [international donors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1478.md)
 
-## Name of the risk
+## Articles mentionning the risk
 
-Decreased capacity for conservation projects, reduced ability to implement effective conservation measures
+* [Envisioning a resilient future for biodiversity conservation in the wake of the COVID‐19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_221.md)
 
-## Mitigations of this risk
+## People affected by this risk
 
-* [Seek alternative sources of funding, diversify revenue streams, engage in partnerships and collaborations for financial support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2843.md)
-
-## Property: has_RiskISO_Purpose
-
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+* [local communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_85.md)
+* [conservation organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_428.md)
+* [protected areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1477.md)
 
 ## Technologies linked to the risk
 
 * [crowdfunding platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_911.md)
 * [digital fundraising tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1696.md)
 * [impact investment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1697.md)
+
+## Property: has_RiskType
+
+* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_3.md)
 

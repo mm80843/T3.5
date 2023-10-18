@@ -2,9 +2,9 @@
 
 # __Economic impact, mobility restrictions__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Travel ban](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_835.md)
+* [The ramifications of global connectivity include economic instability, impacts of the pandemic, unemployment, poverty, reduced tourism revenue, and decline in public budgets.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_103.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Population mobility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_705.md)
 * [Urban mobility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_17.md)
 * [Inadequate global travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1028.md)
+
+## Mitigations of this risk
+
+* [Travel ban](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_835.md)
 

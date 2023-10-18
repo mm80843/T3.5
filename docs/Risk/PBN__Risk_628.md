@@ -2,9 +2,9 @@
 
 # __Regional disparities in knowledge, attitudes, and practices__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Targeted Regional Interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_871.md)
+* [Fragmented global governance, reduced aid, ethical concerns, educational disruption, impacts on peace and justice, and inadequate coordination between stakeholders.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_115.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Poor knowledge and attitudes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3458.md)
 * [Regionalization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1270.md)
 * [Lack of knowledge and attitudes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3459.md)
+
+## Mitigations of this risk
+
+* [Targeted Regional Interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_871.md)
 

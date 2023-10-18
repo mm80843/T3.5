@@ -2,9 +2,9 @@
 
 # __control__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Transparency of data usage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_107.md)
+* [These resources aim to enhance security, convenience, and efficiency in managing access, spaces, and systems within various environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_206.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Control samples](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2826.md)
 * [environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1882.md)
 * [Environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2751.md)
+
+## This Technology enables the following mitigations
+
+* [Transparency of data usage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_107.md)
 

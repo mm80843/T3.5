@@ -2,6 +2,23 @@
 
 # __Urban technology__
 
+## Category to which it belongs
+
+* [Technological advancements focused on improving and enhancing urban areas and infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_300.md)
+
+## Closest similar item
+
+* [urban design](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_103.md)
+* [urban planning and city management technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_104.md)
+* [Urban planning and city management technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_105.md)
+* [urban planning and design technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_106.md)
+* [Urban planning and design technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_107.md)
+* [urban planning](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_108.md)
+* [Urban planning](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_109.md)
+* [Smart city technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_110.md)
+* [smart city technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_111.md)
+* [Smart city technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_112.md)
+
 ## This Technology belongs to this TechnologyGroup
 
 * [air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
@@ -133,17 +150,4 @@
 * [Urban planning and design strategies to manage the distribution and density of POIs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2741.md)
 * [Equitable urban planning and policies to address spatial inequalities and improve social and economic conditions in marginalized communities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2742.md)
 * [Enhanced structural design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2718.md)
-
-## Closest similar item
-
-* [urban design](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_103.md)
-* [urban planning and city management technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_104.md)
-* [Urban planning and city management technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_105.md)
-* [urban planning and design technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_106.md)
-* [Urban planning and design technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_107.md)
-* [urban planning](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_108.md)
-* [Urban planning](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_109.md)
-* [Smart city technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_110.md)
-* [smart city technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_111.md)
-* [Smart city technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_112.md)
 

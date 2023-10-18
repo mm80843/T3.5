@@ -2,13 +2,16 @@
 
 # __industries__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q2976602](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2976602.md)
+* [Various industries, businesses, and supply chain partners rely on suppliers and supply chain professionals for their products and services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_370.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+* [Disruption of supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1130.md)
+* [Gaps in capacity and resilience across industries](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1622.md)
+* [Concentration of suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1837.md)
+* [Propagation of shocks in GVCs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1839.md)
 
 ## Closest similar item
 
@@ -23,16 +26,6 @@
 * [companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_67.md)
 * [industry associations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_631.md)
 
-## Risk affecting this stakeholder
-
-* [Disruption of supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1130.md)
-* [Gaps in capacity and resilience across industries](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1622.md)
-* [Concentration of suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1837.md)
-* [Propagation of shocks in GVCs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1839.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Financial support](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_794.md)
@@ -45,4 +38,15 @@
 * [Exposure to foreign shocks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1838.md)
 * [Gaps in capacity and resilience across industries](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1622.md)
 * [Concentration of suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1837.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+
+## This Stakeholder is identified by the following QID
+
+* [Q2976602](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2976602.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 

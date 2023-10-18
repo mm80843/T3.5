@@ -2,9 +2,9 @@
 
 # __Disruption of activities__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Suspension of public visitors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1977.md)
+* [Fragmented global governance, reduced aid, ethical concerns, educational disruption, impacts on peace and justice, and inadequate coordination between stakeholders.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_115.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Production disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3039.md)
 * [Disruption of main system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3365.md)
 * [Disruption of transport operations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_927.md)
+
+## Mitigations of this risk
+
+* [Suspension of public visitors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1977.md)
 

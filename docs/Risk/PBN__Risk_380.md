@@ -2,9 +2,9 @@
 
 # __Lack of understanding of incubation period and infectious period__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Pandemic analytics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_525.md)
+* [The dissemination of infectious diseases, characterized by outbreaks from various sources, inadequate preparedness, and insufficient reporting and understanding, poses a global threat.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_106.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Insufficient preparedness for outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_468.md)
 * [Contagious transmission of pathogens in public settings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1227.md)
 * [Delayed infectious disease reporting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1240.md)
+
+## Mitigations of this risk
+
+* [Pandemic analytics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_525.md)
 

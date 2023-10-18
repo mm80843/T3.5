@@ -2,9 +2,9 @@
 
 # __Lack of effective drugs__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Therapeutic Drugs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_763.md)
+* [The challenges include reduced surgical education, loss of control, limited diagnostics, slow drug development, inadequate patient monitoring, and lack of drug therapy options.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_110.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Insufficient non-pharmaceutical interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1603.md)
 * [Lack of treatment and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2070.md)
 * [Inadequate public health systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2264.md)
+
+## Mitigations of this risk
+
+* [Therapeutic Drugs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_763.md)
 

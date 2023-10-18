@@ -2,9 +2,9 @@
 
 # __Insufficient funding and resources__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [National and international funding](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_520.md)
+* [Financial vulnerability and instability permeate various sectors and industries, hindering growth, sustainability, and access to resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_114.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Insufficient healthcare infrastructure and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1166.md)
 * [Lack of treatment and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2070.md)
 * [Barriers to accessing funding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_560.md)
+
+## Mitigations of this risk
+
+* [National and international funding](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_520.md)
 

@@ -2,9 +2,9 @@
 
 # __Regular maintenance and inspection of ventilation systems, use of natural ventilation when possible__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Inadequate Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1117.md)
+* [Enhance airflow, increase fresh air intake, and optimize ventilation systems to improve air quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_329.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Proper ventilation, air filtration, and regular maintenance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1564.md)
 * [Improve ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_606.md)
 * [Mechanical ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_341.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inadequate Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1117.md)
 

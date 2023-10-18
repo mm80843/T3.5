@@ -2,10 +2,9 @@
 
 # __Supply Chain and Risk Management__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1069.md)
-* [forecasting tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_820.md)
+* [Efficiently managing the flow of resources and mitigating potential uncertainties for optimal supply chain operations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_51.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Infrastructure and Transportation](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_115.md)
 * [Environment and Healthcare Management Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_14.md)
 * [Energy and Resource Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_118.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1069.md)
+* [forecasting tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_820.md)
 

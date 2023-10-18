@@ -2,9 +2,9 @@
 
 # __Enhance support services for victims, raise awareness, and strengthen legal and policy frameworks.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Gender-based violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1877.md)
+* [Implement comprehensive measures to ensure support, protection, and assistance for vulnerable populations during the pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_349.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Providing support systems, domestic violence hotlines, safe shelters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2337.md)
 * [Provide mental health support services, promote social connections, and raise awareness about mental health.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2469.md)
 * [Provide mental health support services and hotlines, promote community support systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2366.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Gender-based violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1877.md)
 

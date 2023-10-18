@@ -2,9 +2,9 @@
 
 # __Seal walls, ceilings, and windows, and use negative air machines with HEPA filters to maintain pressure differentials and prevent pathogen spread__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Insufficient negative pressure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_315.md)
+* [Enhancing air quality through effective air filtration, ventilation, and pollution reduction strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_338.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Maintain appropriate temperature and humidity levels, improve ventilation and filtration systems, and ensure proper cleaning and disinfection protocols.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1592.md)
 * [Improve ventilation systems, increase fresh air supply, and use air filters to reduce the spread of airborne particles.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2502.md)
 * [Improve ventilation systems in buildings, increase air flow, open windows if possible, and use air purifiers.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1922.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Insufficient negative pressure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_315.md)
 

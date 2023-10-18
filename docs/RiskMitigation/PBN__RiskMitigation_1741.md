@@ -2,9 +2,9 @@
 
 # __Implement novel techniques such as flipped classrooms, video lectures, and teleconferencing.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Decreased Exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1262.md)
+* [Enrich education through digital tools, virtual experiences, remote learning, and alternative forms of exercise and interaction.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_3.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Invest in digital infrastructure for remote learning, provide devices and internet access to students, support teachers and parents in adapting to remote education.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2912.md)
 * [Online learning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_981.md)
 * [Adoption of teleoperation and online interactions to facilitate remote work and learning.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3085.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Decreased Exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1262.md)
 

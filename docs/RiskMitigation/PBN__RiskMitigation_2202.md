@@ -2,9 +2,9 @@
 
 # __Simulation-based parameter identification__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Model identification](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1654.md)
+* [Advancements in bioinformatics, divestment, automated sample collection, and artificial intelligence are facilitating early disease detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_336.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implementation of contact tracing and testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_462.md)
 * [Optimizing experimental conditions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2990.md)
 * [Optimized physical space modeling](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_913.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Model identification](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1654.md)
 

@@ -2,9 +2,9 @@
 
 # __Psychoeducation__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
+* [Enhancing safety and efficiency through comprehensive measures, technology integration, diverse environments, and behavioral adjustments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_157.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Behavioral Interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_529.md)
 * [Proper training and education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1675.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Distress, psychiatric illness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3154.md)
-
 ## Property: has_MitigationPrinciple
 
 Provide information and education about usual reactions to stress, promote wellness, and enhance coping
 
+## Risks possibly mitigated by this Mitigation
+
+* [Distress, psychiatric illness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3154.md)
+
 ## Property: has_MitigationSource
 
 * [Mental Health and the Covid-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_167.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
 

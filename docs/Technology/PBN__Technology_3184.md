@@ -2,9 +2,9 @@
 
 # __social media analytics__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Social Media Analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_358.md)
+* [Digital platforms and online resources facilitate collaboration, communication, and information sharing among individuals and organizations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_193.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Social media monitoring tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2142.md)
 * [social media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_898.md)
 * [social media algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1452.md)
+
+## This Technology enables the following mitigations
+
+* [Social Media Analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_358.md)
 

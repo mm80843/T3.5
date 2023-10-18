@@ -2,8 +2,9 @@
 
 # __Patient isolation__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Streamlining and optimizing healthcare operations, from patient isolation to medical waste management, through advanced technology and efficient supply chain practices.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_189.md)
 
 ## Closest similar item
 
@@ -18,14 +19,17 @@
 * [Case isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_665.md)
 * [Isolation/quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1387.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Isolate individuals who are infected with the contagious disease to prevent transmission to others
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Effectiveness of non-pharmaceutical public health interventions against COVID-19: A systematic review and meta-analysis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_19.md)
+
+## This Mitigation is enabled by the following technologies
+
 

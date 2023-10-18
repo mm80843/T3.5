@@ -2,9 +2,9 @@
 
 # __government housing agencies__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Poor Housing Quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1078.md)
+* [Government and non-governmental organizations responsible for a wide range of services, including health, development, regulation, and emergency response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_382.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [housing associations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1988.md)
 * [housing association](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2074.md)
 * [housing provider](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2026.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Poor Housing Quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1078.md)
 

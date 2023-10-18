@@ -2,9 +2,9 @@
 
 # __sensors for contactless inspections__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q26839924](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q26839924.md)
+* [Advanced monitoring systems and sensor integration for IoT devices and biosensor technology facilitate environmental monitoring and facility usage tracking.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_229.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [monitoring equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3662.md)
 * [indoor sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3930.md)
 * [smart sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3766.md)
+
+## This Technology is identified by the following QID
+
+* [Q26839924](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q26839924.md)
 

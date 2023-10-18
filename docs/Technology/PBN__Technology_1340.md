@@ -2,13 +2,13 @@
 
 # __community education__
 
+## Category to which it belongs
+
+* [A range of community-centered initiatives, programs, and strategies foster participation, collaboration, and social support for diverse groups.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_236.md)
+
 ## Risks linked to this technology
 
 * [Incidence disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1937.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Public Health and Community Engagement](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_57.md)
 
 ## Closest similar item
 
@@ -23,11 +23,15 @@
 * [Public education programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2149.md)
 * [community outreach](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1489.md)
 
-## This Technology belongs to this TechGroup
-
-* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
-
 ## This Technology is identified by the following QID
 
 * [Q5154949](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5154949.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Public Health and Community Engagement](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_57.md)
+
+## This Technology belongs to this TechGroup
+
+* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
 

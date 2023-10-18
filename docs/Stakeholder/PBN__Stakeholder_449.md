@@ -6,6 +6,10 @@
 
 * [Reduction in domestic violence and family conflict](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1137.md)
 
+## Category to which it belongs
+
+* [Individuals of different ages, including children, parents, migrants, and vulnerable groups, such as women and racial minorities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_389.md)
+
 ## Closest similar item
 
 * [families](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_580.md)

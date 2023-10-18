@@ -2,13 +2,9 @@
 
 # __Enhanced availability of financial capital__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Policy measures to support startups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_564.md)
-
-## Property: has_MitigationBenefit
-
-* [Financial support](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_794.md)
+* [Promote sustainable development through infrastructure investments, training, diversification, financial support, and government partnerships.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_315.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Seeking short-term relief and long-term sustainable solutions for financial stability.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2090.md)
 * [Foster economic resilience through improved risk management and diversification strategies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2424.md)
 * [Central bank interventions, liquidity injections, fiscal stimulus](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2590.md)
+
+## Property: has_MitigationBenefit
+
+* [Financial support](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_794.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Policy measures to support startups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_564.md)
 

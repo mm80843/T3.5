@@ -2,13 +2,9 @@
 
 # __individual in apartment without balcony__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q3597276](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3597276.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Individuals residing or working within various types of buildings, including residential, commercial, and healthcare facilities, as well as those in inadequately designed or poorly ventilated spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_391.md)
 
 ## Closest similar item
 
@@ -25,4 +21,12 @@
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 
+
+## This Stakeholder is identified by the following QID
+
+* [Q3597276](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3597276.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 

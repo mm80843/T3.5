@@ -2,9 +2,9 @@
 
 # __Lack of immunity__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Vaccination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_245.md)
+* [The challenges in vaccination include limited storage capacity, high patient demand, inefficient resource use, distribution difficulties, waning vaccine effectiveness, and unequal access.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_113.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of Protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2527.md)
 * [Lack of protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3213.md)
 * [Lack of vaccines and agent-specific drugs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1540.md)
+
+## Mitigations of this risk
+
+* [Vaccination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_245.md)
 

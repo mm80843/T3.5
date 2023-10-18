@@ -2,9 +2,9 @@
 
 # __improved negative ionizers__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q107968](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q107968.md)
+* [The range of materials and techniques listed includes various disinfectants, nanomaterials, manufacturing methods, coatings, sustainability measures, and analytical tools.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_237.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [negative pressure system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4511.md)
 * [electrostatic filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1116.md)
 * [negative pressure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1746.md)
+
+## This Technology is identified by the following QID
+
+* [Q107968](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q107968.md)
 

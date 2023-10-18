@@ -2,9 +2,9 @@
 
 # __Limited access to IEQ performance data__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [IEQAnalytics web service](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_798.md)
+* [The challenges include disintegrated and non-interoperable data, limited data access, data quality issues, and lack of standardized data sharing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_111.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Interoperability and access to real-time data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1751.md)
 * [Interoperability and Access to Real-Time Data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3020.md)
 * [Limited data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3411.md)
+
+## Mitigations of this risk
+
+* [IEQAnalytics web service](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_798.md)
 

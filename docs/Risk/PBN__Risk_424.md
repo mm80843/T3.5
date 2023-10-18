@@ -2,9 +2,9 @@
 
 # __Need for innovative and modern technologies__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Integration of Industry 4.0 technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_587.md)
+* [The challenges of implementing a digital culture include lack of interoperability, missing information, emerging technologies, and technological limitations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_112.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Reliance on technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1965.md)
 * [Technological limitations and dependencies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2100.md)
 * [Limited innovation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2667.md)
+
+## Mitigations of this risk
+
+* [Integration of Industry 4.0 technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_587.md)
 

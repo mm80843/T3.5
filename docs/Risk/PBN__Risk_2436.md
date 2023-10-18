@@ -2,9 +2,9 @@
 
 # __Lack of understanding disease transmission pattern__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Heightened surveillance and mosquito control measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_95.md)
+* [The challenge lies in the lack of knowledge, limited consideration, and inherent limitations in representing disease transmission mechanisms, mobility patterns, and heterogeneity in macroscopic epidemiological models.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_97.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Infectious disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_942.md)
 * [Contagious disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1021.md)
 * [Transmission from infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3331.md)
+
+## Mitigations of this risk
+
+* [Heightened surveillance and mosquito control measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_95.md)
 

@@ -2,9 +2,9 @@
 
 # __Support and information sharing__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Engagement of Society](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2187.md)
+* [The challenges include disintegrated and non-interoperable data, limited data access, data quality issues, and lack of standardized data sharing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_111.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Support at organizational level](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1475.md)
 * [Lack of data sharing and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1076.md)
 * [Health inequities in data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1339.md)
+
+## Mitigations of this risk
+
+* [Engagement of Society](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2187.md)
 

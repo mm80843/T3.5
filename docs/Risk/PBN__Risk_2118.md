@@ -2,25 +2,9 @@
 
 # __Risk of rapid spread and cross-sectorial impact of contagious diseases__
 
-## Property: has_RiskHealth
+## Category to which it belongs
 
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Description of the risk
-
-Contagious diseases, such as COVID-19, can rapidly spread and have a significant impact on various sectors, including public health and the economy.
-
-## Property: has_RiskType
-
-* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
-
-## Articles mentionning the risk
-
-* [Designing for COVID-2x: Reflecting on Future-Proofing Human Habitation for the Inevitable Next Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_149.md)
+* [The dissemination of infectious diseases, characterized by outbreaks from various sources, inadequate preparedness, and insufficient reporting and understanding, poses a global threat.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_106.md)
 
 ## Closest similar item
 
@@ -35,15 +19,33 @@ Contagious diseases, such as COVID-19, can rapidly spread and have a significant
 * [Spread of infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_744.md)
 * [Contagious Disease Propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1867.md)
 
-## People affected by this risk
+## Description of the risk
 
-* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
-* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
-* [vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_127.md)
+Contagious diseases, such as COVID-19, can rapidly spread and have a significant impact on various sectors, including public health and the economy.
+
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+
+## Mitigations of this risk
+
+* [Implementation of measures to contain and slow the spread, such as border closures, stay-at-home orders, social distancing, and use of face masks.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2769.md)
+
+## Name of the risk
+
+Increased illness, death, strain on healthcare systems, economic disruptions.
 
 ## Stakeholders who can mitigate this risk
 
@@ -51,20 +53,22 @@ Contagious diseases, such as COVID-19, can rapidly spread and have a significant
 * [national and sub-national governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1424.md)
 * [international organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_242.md)
 
-## Name of the risk
+## Articles mentionning the risk
 
-Increased illness, death, strain on healthcare systems, economic disruptions.
+* [Designing for COVID-2x: Reflecting on Future-Proofing Human Habitation for the Inevitable Next Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_149.md)
 
-## Mitigations of this risk
+## People affected by this risk
 
-* [Implementation of measures to contain and slow the spread, such as border closures, stay-at-home orders, social distancing, and use of face masks.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2769.md)
-
-## Property: has_RiskISO_Purpose
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+* [vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_127.md)
 
 ## Technologies linked to the risk
 
 * [advanced contact tracing and monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1623.md)
 * [rapid testing and vaccine development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1624.md)
+
+## Property: has_RiskType
+
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 

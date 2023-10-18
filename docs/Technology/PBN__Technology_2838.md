@@ -2,9 +2,9 @@
 
 # __Sensor-activated faucets and soap dispensers__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
-* [Monitoring Systems and Sensors](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_119.md)
+* [Advanced monitoring systems and sensor integration for IoT devices and biosensor technology facilitate environmental monitoring and facility usage tracking.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_229.md)
 
 ## Closest similar item
 
@@ -19,11 +19,15 @@
 * [Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2469.md)
 * [sensor-based systems for monitoring facility usage and cleanliness](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1369.md)
 
-## This Technology belongs to this TechGroup
-
-* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
-
 ## This Technology is identified by the following QID
 
 * [Q377647](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q377647.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Monitoring Systems and Sensors](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_119.md)
+
+## This Technology belongs to this TechGroup
+
+* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
 

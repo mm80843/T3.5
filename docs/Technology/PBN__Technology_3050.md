@@ -2,9 +2,9 @@
 
 # __physical activity spaces__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Active Design Strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_186.md)
+* [Available green spaces and outdoor gathering areas allow for access and enjoyment of public parks and communal areas.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_218.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [online exercise classes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1075.md)
 * [park with workout stations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4248.md)
 * [provide guidelines and resources for residents to engage in both virtual and physical community activities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1915.md)
+
+## This Technology enables the following mitigations
+
+* [Active Design Strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_186.md)
 

@@ -2,9 +2,9 @@
 
 # __Beach monitoring systems__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
-* [Environmental and Outdoor Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_91.md)
+* [Advanced monitoring systems and sensor integration for IoT devices and biosensor technology facilitate environmental monitoring and facility usage tracking.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_229.md)
 
 ## Closest similar item
 
@@ -19,12 +19,16 @@
 * [monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1846.md)
 * [meteorological monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_749.md)
 
+## This Technology is identified by the following QID
+
+* [Q4875848](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4875848.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Environmental and Outdoor Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_91.md)
+
 ## This Technology belongs to this TechGroup
 
 * [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
 * [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
-
-## This Technology is identified by the following QID
-
-* [Q4875848](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4875848.md)
 

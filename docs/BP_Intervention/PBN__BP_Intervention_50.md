@@ -2,11 +2,11 @@
 
 # __Separate water facilities (toilets/bathrooms for contaminated)__
 
-## Property: has_BP_InterventionTitle
-
-Separate water facilities (toilets/bathrooms for contaminated)
-
 ## Property: has_BP_InterventionKey
 
 PW3
+
+## Property: has_BP_InterventionTitle
+
+Separate water facilities (toilets/bathrooms for contaminated)
 

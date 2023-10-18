@@ -2,6 +2,23 @@
 
 # __None__
 
+## Category to which it belongs
+
+* [The challenges and consequences of the global pandemic include poor acoustics, noise pollution, food security, increase in inequality, waste, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_131.md)
+
+## Closest similar item
+
+* [Questionable](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3417.md)
+* [Unknown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3412.md)
+* [Cost](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1796.md)
+* [Expertise](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1100.md)
+* [False negatives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2761.md)
+* [associated](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2323.md)
+* [MH4](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2199.md)
+* [Limited evidence available](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_402.md)
+* [Insufficient evidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2790.md)
+* [MH3](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2198.md)
+
 ## Mitigations of this risk
 
 * [Social Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_35.md)
@@ -32,17 +49,4 @@
 * [Ventilator Innovations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2478.md)
 * [Outdoor biophilia](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2482.md)
 * [Indoor biophilia](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2483.md)
-
-## Closest similar item
-
-* [Questionable](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3417.md)
-* [Unknown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3412.md)
-* [Cost](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1796.md)
-* [Expertise](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1100.md)
-* [False negatives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2761.md)
-* [associated](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2323.md)
-* [MH4](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2199.md)
-* [Limited evidence available](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_402.md)
-* [Insufficient evidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2790.md)
-* [MH3](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2198.md)
 

@@ -2,9 +2,9 @@
 
 # __Regular communication and coordination among project teams__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [videoconferencing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4008.md)
+* [Global cooperation and collaboration for the purpose of coordinated action and shared knowledge exchange among various sectors and institutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_183.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Proper communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_872.md)
 * [Integrated and well-planned communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_956.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3216.md)
-
 ## Property: has_MitigationPrinciple
 
 Facilitating collaboration and information sharing while adhering to social distancing measures
 
+## Risks possibly mitigated by this Mitigation
+
+* [Communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3216.md)
+
 ## Property: has_MitigationSource
 
 * [Identifying Actions to Control and Mitigate the Effects of the COVID-19 Pandemic on Construction Organizations: Preliminary Findings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_220.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [videoconferencing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4008.md)
 

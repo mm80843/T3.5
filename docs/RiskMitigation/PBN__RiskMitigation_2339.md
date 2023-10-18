@@ -2,9 +2,9 @@
 
 # __Optimize occupant presence schedules, improve energy efficiency of HVAC systems__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Energy Consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1768.md)
+* [Optimize indoor environments, regulate temperature and humidity, control air quality, and extend HVAC system operations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_341.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Operate HVAC systems for longer hours or 24/7](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_189.md)
 * [Limiting occupancy, improving ventilation systems, promoting outdoor spaces, implementing social distancing measures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1616.md)
 * [Improve indoor ventilation systems and install physical barriers to reduce close contact and promote physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2042.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Energy Consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1768.md)
 

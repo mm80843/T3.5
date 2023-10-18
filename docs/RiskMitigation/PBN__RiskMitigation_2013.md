@@ -2,9 +2,9 @@
 
 # __Improve data collection and analysis, enhance understanding of the virus and its transmission, validate models with real-world data__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Uncertainty in epidemic modeling](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1493.md)
+* [Implement comprehensive strategies to control virus transmission, improve surveillance, develop antiviral coatings, and enhance infection control measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_309.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Encourage data completion and presentation of overall infection rates.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2513.md)
 * [Implement interventions to reduce viral load and interrupt the spread of the virus.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2067.md)
 * [Improved controls for monitoring virus recovery efficiency](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Uncertainty in epidemic modeling](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1493.md)
 

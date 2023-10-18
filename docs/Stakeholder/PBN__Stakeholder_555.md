@@ -2,9 +2,9 @@
 
 # __testing centers__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Insufficient mass testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1030.md)
+* [Entities and individuals who interact with or are affected by a system, organization, or public facility.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_1.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [clinical laboratories](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1384.md)
 * [facility management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_655.md)
 * [facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Insufficient mass testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1030.md)
 

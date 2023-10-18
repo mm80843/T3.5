@@ -2,9 +2,9 @@
 
 # __Lack of access to testing__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Testing and Diagnosis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1648.md)
+* [Restricted availability of various resources, services, and data creates inequalities and obstacles in accessing them.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_132.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Insufficient testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_740.md)
 * [Lack of access to best practices and knowledge](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2805.md)
 * [Testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3453.md)
+
+## Mitigations of this risk
+
+* [Testing and Diagnosis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1648.md)
 

@@ -2,9 +2,9 @@
 
 # __Lack of knowledge of infection status__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Testing for the virus](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_896.md)
+* [The dissemination of infectious diseases, characterized by outbreaks from various sources, inadequate preparedness, and insufficient reporting and understanding, poses a global threat.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_106.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Infection and disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2618.md)
 * [Lack of knowledge and understanding of vector-borne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3119.md)
 * [Lack of knowledge on COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_624.md)
+
+## Mitigations of this risk
+
+* [Testing for the virus](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_896.md)
 

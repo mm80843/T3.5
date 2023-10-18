@@ -2,9 +2,9 @@
 
 # __vaccine development and manufacturing__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q27133094](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q27133094.md)
+* [Advancements in molecular biology, diagnostics, vaccines, antiviral technologies, and disease surveillance for pathogen detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_223.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [vaccine development and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1604.md)
 * [research and development of vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1237.md)
 * [Research and development of vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2247.md)
+
+## This Technology is identified by the following QID
+
+* [Q27133094](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q27133094.md)
 

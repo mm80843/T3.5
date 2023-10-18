@@ -2,8 +2,9 @@
 
 # __Deferring or suspending taxes__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Promoting financial stability and inclusivity through diverse funding sources, transparent donations, and innovative investment incentives.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_174.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Eviction diversion programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_271.md)
 * [Guaranteeing reimbursement of loans](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_204.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Financial burden](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2496.md)
-
 ## Property: has_MitigationPrinciple
 
 Temporarily delay or waive tax payments to alleviate financial strain on individuals and businesses.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Financial burden](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2496.md)
+
 ## Property: has_MitigationSource
 
 * [Non-medical Interventions to Reduce the Burden of Psychosocial and Economic Impacts of COVID-19 Pandemic: A Scope Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_243.md)
+
+## This Mitigation is enabled by the following technologies
+
 

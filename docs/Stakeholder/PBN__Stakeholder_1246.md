@@ -2,13 +2,13 @@
 
 # __governments and international organizations__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q245065](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q245065.md)
+* [A diverse array of entities dedicated to various industries, causes, or services, promoting growth and welfare in society.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_369.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
+* [Trade-offs between efficiency and stability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1841.md)
 
 ## Closest similar item
 
@@ -23,15 +23,19 @@
 * [NGOs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2463.md)
 * [government authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_302.md)
 
-## Risk affecting this stakeholder
+## Risks that can be mitigated by this stakeholder
 
-* [Trade-offs between efficiency and stability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1841.md)
+* [Propagation of shocks in GVCs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1839.md)
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [International and Health Organizations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_116.md)
 
-## Risks that can be mitigated by this stakeholder
+## This Stakeholder is identified by the following QID
 
-* [Propagation of shocks in GVCs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1839.md)
+* [Q245065](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q245065.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
 

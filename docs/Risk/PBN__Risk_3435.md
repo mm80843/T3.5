@@ -2,9 +2,9 @@
 
 # __Limited space in settlements__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Local strategies for isolation and physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2382.md)
+* [A list of challenges and uncertainties surrounding the impact and response to various events and crises in different sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_124.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of space and poor spatial organization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_343.md)
 * [Limited green spaces in highly urbanized areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1546.md)
 * [Limited access to outdoor space in urban centres](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_920.md)
+
+## Mitigations of this risk
+
+* [Local strategies for isolation and physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2382.md)
 

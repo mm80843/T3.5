@@ -2,9 +2,9 @@
 
 # __occupants of buildings and organizations__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Unnecessary stand-by loads](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1409.md)
+* [Individuals residing or working within various types of buildings, including residential, commercial, and healthcare facilities, as well as those in inadequately designed or poorly ventilated spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_391.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2566.md)
 * [building occupants and management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_78.md)
+
+## Risk affecting this stakeholder
+
+* [Unnecessary stand-by loads](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1409.md)
 

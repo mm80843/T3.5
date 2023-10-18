@@ -2,9 +2,9 @@
 
 # __water treatment facilities__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [SARS-CoV-2 in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1659.md)
+* [Individuals and organizations involved in the management and treatment of water, waste, and wastewater.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_397.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [wastewater treatment systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2994.md)
 * [water and sanitation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3080.md)
 * [greywater treatment systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3081.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [SARS-CoV-2 in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1659.md)
 

@@ -2,18 +2,9 @@
 
 # __ontology developers__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Lack of interoperability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_901.md)
-* [Poor ontological coverage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_900.md)
-* [Logical inconsistencies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1940.md)
-* [Lack of axioms and definition patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1941.md)
-
-## Risk affecting this stakeholder
-
-* [Poor ontological coverage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_900.md)
-* [Logical inconsistencies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1940.md)
-* [Lack of axioms and definition patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1941.md)
+* [A diverse group specializing in the creation and implementation of various technological projects.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_383.md)
 
 ## Closest similar item
 
@@ -27,4 +18,17 @@
 * [application developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1403.md)
 * [software developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1574.md)
 * [developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_637.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Lack of interoperability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_901.md)
+* [Poor ontological coverage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_900.md)
+* [Logical inconsistencies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1940.md)
+* [Lack of axioms and definition patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1941.md)
+
+## Risk affecting this stakeholder
+
+* [Poor ontological coverage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_900.md)
+* [Logical inconsistencies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1940.md)
+* [Lack of axioms and definition patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1941.md)
 

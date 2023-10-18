@@ -2,9 +2,9 @@
 
 # __regulatory bodies__
 
-## This Stakeholder belongs to this StakeholderGroup
+## Category to which it belongs
 
-* [City Officials](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_0.md)
+* [All actors in the economic and political landscape, including policymakers, governments, and regulatory bodies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_357.md)
 
 ## Closest similar item
 
@@ -18,14 +18,6 @@
 * [government regulations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2782.md)
 * [policy and regulation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2783.md)
 * [compliance with regulatory changes](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2784.md)
-
-## Risk affecting this stakeholder
-
-* [Ethical considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_163.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Regulatory Bodies](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_2.md)
 
 ## Risks that can be mitigated by this stakeholder
 
@@ -42,4 +34,16 @@
 * [Safety concerns with alternative ventilator designs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2405.md)
 * [Volatility in financial markets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1976.md)
 * [Lack of airtightness and safety concerns with reusable face shields](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2401.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [City Officials](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_0.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Regulatory Bodies](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_2.md)
+
+## Risk affecting this stakeholder
+
+* [Ethical considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_163.md)
 

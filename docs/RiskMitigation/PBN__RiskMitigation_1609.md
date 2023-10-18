@@ -2,9 +2,9 @@
 
 # __Enhance core capacities, improve risk communication, engage communities__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Inadequate global preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1157.md)
+* [Enforce safety measures, promote responsible behavior, utilize PPE, and prioritize risk prevention to ensure adequate protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_342.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Promote transparency, communication, and community engagement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2646.md)
 * [Enhance support services for victims, increase public awareness, provide safe spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1950.md)
 * [Develop and implement effective communication strategies to educate and inform individuals about the risks and precautionary measures in the facility](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2028.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inadequate global preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1157.md)
 

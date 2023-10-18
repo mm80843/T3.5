@@ -2,8 +2,9 @@
 
 # __Proximity and Immediateness__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Spatial separation, closure, containment, barrier implementation, and control of movements to prevent the spread of infection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_150.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Social distancing between occupants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1346.md)
 * [Rapid Isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1016.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Perception of climate change as a distant threat](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2692.md)
-
 ## Property: has_MitigationPrinciple
 
 Highlight the immediate and near consequences of climate change to increase the sense of urgency and personal relevance
 
+## Risks possibly mitigated by this Mitigation
+
+* [Perception of climate change as a distant threat](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2692.md)
+
 ## Property: has_MitigationSource
 
 * [What our response to the COVID-19 pandemic tells us of our capacity to respond to climate change](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_257.md)
+
+## This Mitigation is enabled by the following technologies
+
 

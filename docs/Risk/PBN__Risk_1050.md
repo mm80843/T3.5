@@ -2,25 +2,9 @@
 
 # __Undetected SARS-CoV-2 in wastewater__
 
-## Property: has_RiskHealth
+## Category to which it belongs
 
-* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Description of the risk
-
-Failure to detect SARS-CoV-2 RNA in wastewater samples, leading to inaccurate monitoring of infections in the population
-
-## Property: has_RiskType
-
-* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
-
-## Articles mentionning the risk
-
-* [First confirmed detection of SARS-CoV-2 in untreated wastewater in Australia: A proof of concept for the wastewater surveillance of COVID-19 in the community](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_205.md)
+* [The widespread transmission and persistence of the SARS-CoV-2 virus in various environments and the challenges in detecting and removing it.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_93.md)
 
 ## Closest similar item
 
@@ -35,32 +19,52 @@ Failure to detect SARS-CoV-2 RNA in wastewater samples, leading to inaccurate mo
 * [Ineffectiveness of conventional wastewater treatment processes in removing SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2341.md)
 * [Transmission of SARS-CoV-2 through sewage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_222.md)
 
-## People affected by this risk
+## Description of the risk
 
-* [general population in the catchment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_573.md)
+Failure to detect SARS-CoV-2 RNA in wastewater samples, leading to inaccurate monitoring of infections in the population
+
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Property: has_RiskHealth
+
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_4.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Mitigations of this risk
+
+* [Cross-validate the performance of different RT-qPCR assays on wastewater samples and ensure sequencing of positive samples for confirmation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1483.md)
+
+## Name of the risk
+
+Inaccurate estimation of the prevalence of infections and potential failure to implement effective public health interventions
 
 ## Stakeholders who can mitigate this risk
 
 * [research institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_413.md)
 * [health departments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_574.md)
 
-## Name of the risk
+## Articles mentionning the risk
 
-Inaccurate estimation of the prevalence of infections and potential failure to implement effective public health interventions
+* [First confirmed detection of SARS-CoV-2 in untreated wastewater in Australia: A proof of concept for the wastewater surveillance of COVID-19 in the community](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_205.md)
 
-## Mitigations of this risk
+## People affected by this risk
 
-* [Cross-validate the performance of different RT-qPCR assays on wastewater samples and ensure sequencing of positive samples for confirmation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1483.md)
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+* [general population in the catchment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_573.md)
 
 ## Technologies linked to the risk
 
 * [improved rt-qpcr assays and sequencing techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_58.md)
+
+## Property: has_RiskType
+
+* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 

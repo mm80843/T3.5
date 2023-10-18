@@ -2,9 +2,9 @@
 
 # __Promote publication of all study results, including negative or inconclusive findings, encourage transparency in reporting methods and results__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Publication bias](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1508.md)
+* [Promote accurate and reliable information, combat misinformation, and increase media and public health literacy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_343.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Journals should enhance their peer-review processes and address issues of transparency and scientific integrity.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3033.md)
 * [Develop comprehensive checklists, establish reporting standards, promote endorsement by medical journals.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1834.md)
 * [Promote transparent communication and accurate reporting; combat misinformation through fact-checking and verification systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2698.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Publication bias](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1508.md)
 

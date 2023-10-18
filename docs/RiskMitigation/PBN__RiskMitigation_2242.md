@@ -2,9 +2,9 @@
 
 # __Increase access to outdoor spaces through the integration of green infrastructure in urban environments__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of access to outdoor space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1684.md)
+* [Promote biodiversity and sustainable urban development through the establishment and accessibility of green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_322.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Incorporating green and pedestrian infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_39.md)
 * [Increase access to greenspaces and promote outdoor activity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2914.md)
 * [Incorporating green spaces in building design, promoting access to public parks and gardens](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3081.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of access to outdoor space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1684.md)
 

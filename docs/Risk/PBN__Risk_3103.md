@@ -2,9 +2,9 @@
 
 # __Limited access to teleworking__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Increased access to teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1499.md)
+* [Restricted availability of various resources, services, and data creates inequalities and obstacles in accessing them.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_132.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Limited access to real-time data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_381.md)
 * [Limited access to outdoor environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2741.md)
 * [Limited access to software and hardware](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1997.md)
+
+## Mitigations of this risk
+
+* [Increased access to teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1499.md)
 

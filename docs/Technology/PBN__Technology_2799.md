@@ -2,9 +2,9 @@
 
 # __WBE sampling and analysis__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
-* [Wastewater Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_11.md)
+* [Data-driven insights and analysis for decision making, anonymized data, transparency, visualization, and advanced techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_205.md)
 
 ## Closest similar item
 
@@ -19,11 +19,15 @@
 * [extensive sample clean-up processes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_240.md)
 * [data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3346.md)
 
-## This Technology belongs to this TechGroup
-
-* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
-
 ## This Technology is identified by the following QID
 
 * [Q70472092](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q70472092.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Wastewater Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_11.md)
+
+## This Technology belongs to this TechGroup
+
+* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
 

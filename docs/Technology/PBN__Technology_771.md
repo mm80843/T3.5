@@ -2,9 +2,9 @@
 
 # __data analytics platforms__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q485396](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q485396.md)
+* [Data-driven insights and analysis for decision making, anonymized data, transparency, visualization, and advanced techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_205.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [data visualization platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3435.md)
 * [data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_152.md)
 * [Data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2412.md)
+
+## This Technology is identified by the following QID
+
+* [Q485396](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q485396.md)
 

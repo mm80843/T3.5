@@ -2,9 +2,9 @@
 
 # __user-friendly formats__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Contextualising and disseminating evidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_603.md)
+* [Measures promoting accountability, media control, real-time updates, and virtual experiences for physical distancing and education.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Simplified user interfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2836.md)
 * [standardized data recording structures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_520.md)
 * [web-based tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3924.md)
+
+## This Technology enables the following mitigations
+
+* [Contextualising and disseminating evidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_603.md)
 

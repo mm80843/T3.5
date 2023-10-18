@@ -2,10 +2,9 @@
 
 # __vaccinated individuals__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Inadequate vaccine efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1911.md)
-* [Missing vaccination data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1912.md)
+* [All people, especially those at risk or facing various circumstances, including age, health conditions, or unemployment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_374.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [vaccine manufacturer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1985.md)
 * [immunocompromised individuals, including children](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2288.md)
 * [re-infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1296.md)
+
+## Risk affecting this stakeholder
+
+* [Inadequate vaccine efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1911.md)
+* [Missing vaccination data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1912.md)
 

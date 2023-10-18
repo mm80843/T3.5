@@ -2,10 +2,9 @@
 
 # __virtual meetings__
 
-## Risks linked to this technology
+## Category to which it belongs
 
-* [Suspension of projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_595.md)
-* [Staff sickness and self-isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1982.md)
+* [Digital platforms and online resources facilitate collaboration, communication, and information sharing among individuals and organizations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_193.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [virtual tours](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_442.md)
 * [virtual communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_144.md)
 * [virtual classes and workshops](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_419.md)
+
+## Risks linked to this technology
+
+* [Suspension of projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_595.md)
+* [Staff sickness and self-isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1982.md)
 

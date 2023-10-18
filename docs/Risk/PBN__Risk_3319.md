@@ -2,9 +2,9 @@
 
 # __Lack of access to clean energy__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Tracking plans for universal energy access and SDG7](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1988.md)
+* [Lack of proper hygiene and sanitation practices result in inadequate access to clean water and facilities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_129.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inefficient energy usage and high energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_345.md)
 * [Inefficient energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2427.md)
 * [Lack of proper environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1142.md)
+
+## Mitigations of this risk
+
+* [Tracking plans for universal energy access and SDG7](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1988.md)
 

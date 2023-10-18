@@ -2,11 +2,11 @@
 
 # __Occupancy control (eg separating at/risk contaminated population)__
 
-## Property: has_BP_InterventionTitle
-
-Occupancy control (eg separating at/risk contaminated population)
-
 ## Property: has_BP_InterventionKey
 
 HJ2
+
+## Property: has_BP_InterventionTitle
+
+Occupancy control (eg separating at/risk contaminated population)
 

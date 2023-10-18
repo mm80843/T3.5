@@ -2,8 +2,9 @@
 
 # __Establishing credit guarantee schemes__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Promoting financial stability and inclusivity through diverse funding sources, transparent donations, and innovative investment incentives.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_174.md)
 
 ## Closest similar item
 
@@ -18,14 +19,17 @@
 * [Cash payments to vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_199.md)
 * [Lending](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_201.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Credit guarantee schemes reduce credit risk and unlock finance for SMEs, allowing banks to be more willing to lend to SMEs
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [COVID-19 and regional solutions for mitigating the risk of SME finance in selected ASEAN member states](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_292.md)
+
+## This Mitigation is enabled by the following technologies
+
 

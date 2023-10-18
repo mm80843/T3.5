@@ -2,9 +2,9 @@
 
 # __Dissemination of infectious aerosols in buildings__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Ultraviolet germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1420.md)
+* [The wide-ranging transmission, survival, and spread of infectious respiratory viruses and pathogens indoors and on surfaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_122.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Spread of other airborne pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2298.md)
 * [COVID-19 spread via aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1144.md)
 * [Spread of infections and diseases in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1010.md)
+
+## Mitigations of this risk
+
+* [Ultraviolet germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1420.md)
 

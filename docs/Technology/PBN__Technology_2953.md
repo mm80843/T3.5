@@ -2,9 +2,9 @@
 
 # __infrastructure support__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Safe water access and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_84.md)
+* [Promotion of environmentally-friendly practices, green infrastructure, sustainable housing, renewable energy, and responsible building to enhance spaces and mitigate climate change.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_224.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [improved infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_671.md)
 * [network infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2316.md)
 * [scalable infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_157.md)
+
+## This Technology enables the following mitigations
+
+* [Safe water access and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_84.md)
 

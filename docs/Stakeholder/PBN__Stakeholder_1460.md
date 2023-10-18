@@ -2,9 +2,9 @@
 
 # __animal rearing workers__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Zoonotic disease emergence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_488.md)
+* [Individuals engaged in various types of work, from employees and office workers to agricultural and hospitality workers.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_379.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [pet owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1101.md)
 * [veterinary organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_993.md)
 * [worker](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1771.md)
+
+## Risk affecting this stakeholder
+
+* [Zoonotic disease emergence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_488.md)
 

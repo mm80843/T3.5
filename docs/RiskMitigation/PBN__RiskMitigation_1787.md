@@ -2,9 +2,9 @@
 
 # __Provide adequate housing with sufficient space__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_571.md)
+* [Promote the integration of natural elements and communal areas, enhance accessibility and quality, and foster positive perception and functionality of public and private green and outdoor spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_331.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Investment in improving housing conditions and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1504.md)
 * [Design apartments with more generous living spaces and multiple bathrooms in shared units.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2492.md)
 * [Promote the availability and affordability of housing with private green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2583.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_571.md)
 

@@ -2,9 +2,9 @@
 
 # __collaboration with other groups__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Collaboration and convergence research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_663.md)
+* [A range of community-centered initiatives, programs, and strategies foster participation, collaboration, and social support for diverse groups.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_236.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Collaboration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2300.md)
 * [expertise and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2980.md)
 * [research collaborations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_468.md)
+
+## This Technology enables the following mitigations
+
+* [Collaboration and convergence research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_663.md)
 

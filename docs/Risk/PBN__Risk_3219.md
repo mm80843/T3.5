@@ -2,9 +2,9 @@
 
 # __Compliance__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Regular monitoring of public health and government announcements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1689.md)
+* [The challenges and consequences of the global pandemic include poor acoustics, noise pollution, food security, increase in inequality, waste, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_131.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [High Costs of Compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2276.md)
 * [Risk of non-compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2841.md)
 * [Lack of awareness and compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1906.md)
+
+## Mitigations of this risk
+
+* [Regular monitoring of public health and government announcements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1689.md)
 

@@ -2,19 +2,9 @@
 
 # __Digital tools__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Overcrowding and agglomerations in cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_514.md)
-* [Pandemic outbreak in cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_512.md)
-* [Economic impact on local businesses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_513.md)
-* [Inadequate healthcare response](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_515.md)
-
-## Property: has_MitigationBenefit
-
-* [Distance learning/training](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_723.md)
-* [Incentives to the local economy through digital means](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_728.md)
-* [Monitoring of agglomerations through geolocation data](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_732.md)
-* [Digital tools of support to hospitals/health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_724.md)
+* [Accelerate the shift to digitalization by embracing emerging technologies and implementing innovative solutions across various sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_346.md)
 
 ## Closest similar item
 
@@ -28,4 +18,18 @@
 * [to digital platforms for](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2980.md)
 * [Digital educational initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_473.md)
 * [Digital patient management solutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_474.md)
+
+## Property: has_MitigationBenefit
+
+* [Distance learning/training](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_723.md)
+* [Incentives to the local economy through digital means](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_728.md)
+* [Monitoring of agglomerations through geolocation data](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_732.md)
+* [Digital tools of support to hospitals/health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_724.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Overcrowding and agglomerations in cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_514.md)
+* [Pandemic outbreak in cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_512.md)
+* [Economic impact on local businesses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_513.md)
+* [Inadequate healthcare response](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_515.md)
 

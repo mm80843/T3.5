@@ -2,9 +2,9 @@
 
 # __Effective waste management__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [waste management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2962.md)
+* [Efficient control and supervision to ensure the proper handling and disposal of various types of waste and potential risks.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_8.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Urban Solid Waste Management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_500.md)
 * [Improved waste disposal](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_769.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Poor waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2434.md)
-
 ## Property: has_MitigationPrinciple
 
 Improve waste management practices to reduce disease transmission
 
+## Risks possibly mitigated by this Mitigation
+
+* [Poor waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2434.md)
+
 ## Property: has_MitigationSource
 
 * [Global policy challenges for urban vector-borne disease risks](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_132.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [waste management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2962.md)
 

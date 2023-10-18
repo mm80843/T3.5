@@ -2,9 +2,9 @@
 
 # __Proper testing and treatment of groundwater, alternative sources of clean water__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Arsenic exposure in Bangladesh resulting from the construction of tube wells](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1663.md)
+* [Promote efficient and sustainable water practices, enhance infrastructure, and ensure access to clean water and sanitation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_339.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Improved water systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_153.md)
 * [Provision of safe water, sanitation, and hygienic conditions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_364.md)
 * [Establish measures to control water quality and availability](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2939.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Arsenic exposure in Bangladesh resulting from the construction of tube wells](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1663.md)
 

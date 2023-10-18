@@ -2,13 +2,9 @@
 
 # __Enhanced social security measures__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Economic impacts on vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_448.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduced poverty and inequality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_629.md)
+* [Implementing a comprehensive package of measures to ensure the smooth functioning and safety of essential services and activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_6.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implement social welfare measures, provide support for vulnerable households, create opportunities for economic recovery and job creation.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2446.md)
 * [Implement social protection programs and financial incentives to support vulnerable families](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1494.md)
 * [Privacy protection measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_528.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced poverty and inequality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_629.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Economic impacts on vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_448.md)
 

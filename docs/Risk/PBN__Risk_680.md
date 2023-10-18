@@ -2,9 +2,9 @@
 
 # __Improving models predicting trends in influenza-like illnesses__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Collecting data on resting heart rate and sleep duration from wearables](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_944.md)
+* [The challenge lies in the lack of knowledge, limited consideration, and inherent limitations in representing disease transmission mechanisms, mobility patterns, and heterogeneity in macroscopic epidemiological models.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_97.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Pandemic modelling](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_607.md)
 * [Exaggerated pandemic estimates](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_374.md)
 * [Uncertainty in epidemic modeling](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1493.md)
+
+## Mitigations of this risk
+
+* [Collecting data on resting heart rate and sleep duration from wearables](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_944.md)
 

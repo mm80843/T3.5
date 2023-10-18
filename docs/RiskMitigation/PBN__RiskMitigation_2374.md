@@ -2,9 +2,9 @@
 
 # __Explore cost-effective solutions and funding options__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Cost](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1796.md)
+* [Promote sustainable development through infrastructure investments, training, diversification, financial support, and government partnerships.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_315.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Financial support for adaptation projects](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1089.md)
 * [Conservation funding](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_980.md)
 * [Develop alternative revenue streams, reduce costs, seek government support.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2132.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Cost](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1796.md)
 

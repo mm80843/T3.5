@@ -2,9 +2,9 @@
 
 # __incorporate biophilic design principles__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1145644](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1145644.md)
+* [Design and construction professionals use innovative techniques and strategies to create adaptable, sustainable, and inclusive buildings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_217.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [innovative design approaches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4175.md)
 * [genetic modification technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4462.md)
 * [universal design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4023.md)
+
+## This Technology is identified by the following QID
+
+* [Q1145644](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1145644.md)
 

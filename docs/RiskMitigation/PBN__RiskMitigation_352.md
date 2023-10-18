@@ -2,13 +2,9 @@
 
 # __Flexible room layout__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_282.md)
-
-## Property: has_MitigationBenefit
-
-* [Flexible design for versatile use of spaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_350.md)
+* [Designing affordable, adaptable, and sustainable housing with improved building environments and optimized spatial layouts, while incorporating flexible and human-centric design elements and considering health, safety, and environmental parameters.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_326.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Optimize space layout and arrangement, consider ergonomic principles](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2932.md)
 * [Levels of indoor space adjustability](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_241.md)
 * [Optimize space and improve spatial layout](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_454.md)
+
+## Property: has_MitigationBenefit
+
+* [Flexible design for versatile use of spaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_350.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_282.md)
 

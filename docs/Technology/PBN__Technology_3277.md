@@ -2,9 +2,9 @@
 
 # __health and safety executive (hse)__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Standard working procedures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_503.md)
+* [Safety protocols, emergency response plans, risk assessment tools, and comprehensive risk communication strategies ensure workplace safety and crisis management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_232.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [workplace safety technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_461.md)
 * [Workplace safety technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2638.md)
 * [healthcare authorities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1065.md)
+
+## This Technology enables the following mitigations
+
+* [Standard working procedures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_503.md)
 

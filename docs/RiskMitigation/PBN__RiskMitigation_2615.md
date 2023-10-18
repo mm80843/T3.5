@@ -2,9 +2,9 @@
 
 # __Provide necessary software and hardware to construction professionals for remote work.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Limited access to software and hardware](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1997.md)
+* [Ensuring equitable access, promoting flexible work, implementing safety measures, and providing support for remote work and flexible schedules.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_323.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Providing appropriate resources and support for remote work, implementing flexible working hours, and utilizing technology for virtual collaboration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1996.md)
 * [Implementing capacity limitations, optimizing space utilization, and promoting remote work](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1694.md)
 * [Implement safety measures and consider remote working and digital control systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2523.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limited access to software and hardware](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1997.md)
 

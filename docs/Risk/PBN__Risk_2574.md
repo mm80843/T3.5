@@ -2,9 +2,9 @@
 
 # __Limited access to simulation equipment due to restrictions on resident presence in hospitals__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Simulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_430.md)
+* [Restricted availability of various resources, services, and data creates inequalities and obstacles in accessing them.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_132.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of communication and surveillance capabilities in makeshift hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_445.md)
 * [Limited healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3107.md)
 * [Limited access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_122.md)
+
+## Mitigations of this risk
+
+* [Simulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_430.md)
 

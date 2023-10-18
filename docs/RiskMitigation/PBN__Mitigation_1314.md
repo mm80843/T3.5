@@ -2,8 +2,9 @@
 
 # __Isolation of patients__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Spatial separation, closure, containment, barrier implementation, and control of movements to prevent the spread of infection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_150.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Isolation/quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1387.md)
 * [Rapid Isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1016.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2622.md)
-
 ## Property: has_MitigationPrinciple
 
 Infected individuals are isolated to prevent the spread of the virus to others.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2622.md)
+
 ## Property: has_MitigationSource
 
 * [Role of Information Technology in Covid-19 Prevention](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_267.md)
+
+## This Mitigation is enabled by the following technologies
+
 

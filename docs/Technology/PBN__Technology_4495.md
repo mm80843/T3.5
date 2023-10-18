@@ -2,9 +2,9 @@
 
 # __teleoperation technology__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Teleoperation for telemedicine and telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2426.md)
+* [Virtual healthcare and remote communication technology including telemedicine, telehealth platforms, teletherapy, teleconferencing, and tele-operation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_202.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [telehealth/telepresence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4089.md)
 * [telehealth system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2928.md)
 * [telemedicine technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_954.md)
+
+## This Technology enables the following mitigations
+
+* [Teleoperation for telemedicine and telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2426.md)
 

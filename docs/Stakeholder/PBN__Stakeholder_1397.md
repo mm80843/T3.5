@@ -2,9 +2,9 @@
 
 # __network providers__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Connectivity issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2084.md)
+* [All those involved in the management, access, and utilization of data in various communities and industries.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_358.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Provider](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1792.md)
 * [provider](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2033.md)
 * [service provider](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2084.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Connectivity issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2084.md)
 

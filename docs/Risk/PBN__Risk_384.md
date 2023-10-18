@@ -2,9 +2,9 @@
 
 # __Negative perception of public and social housing residents__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Positive media representation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_532.md)
+* [The ramifications of social distancing include inconsistent recommendations, increased violence, changes in social practices, and lack of interaction, among other social issues.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_96.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Fewer people in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1464.md)
 * [Lack of social spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_131.md)
 * [Overcrowding and poor community behavior](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_355.md)
+
+## Mitigations of this risk
+
+* [Positive media representation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_532.md)
 

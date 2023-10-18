@@ -2,9 +2,9 @@
 
 # __Public education programs__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
-* [Public Education and Awareness Campaigns](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_40.md)
+* [Government programs and initiatives provide support, training, and financial assistance for education, healthcare, employment, and overall well-being.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_210.md)
 
 ## Closest similar item
 
@@ -19,11 +19,15 @@
 * [Education and training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2633.md)
 * [public education and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1872.md)
 
-## This Technology belongs to this TechGroup
-
-* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
-
 ## This Technology is identified by the following QID
 
 * [Q12182551](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q12182551.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Public Education and Awareness Campaigns](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_40.md)
+
+## This Technology belongs to this TechGroup
+
+* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
 

@@ -2,6 +2,10 @@
 
 # __Workers’ vulnerability to COVID-19__
 
+## Category to which it belongs
+
+* [The far-reaching consequences of COVID-19 include its transmission through various settings, impact on urban areas, and scarcity of resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
+
 ## Closest similar item
 
 * [COVID-19 spread in the workplace](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_675.md)

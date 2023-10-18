@@ -2,9 +2,9 @@
 
 # __Increasing healthcare system capacity, surge capacity planning, emergency preparedness measures__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Healthcare system capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2031.md)
+* [Enhancing healthcare infrastructure, increasing capacity, and ensuring access to medical resources and services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_330.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Strengthen public health emergency preparedness and response systems to mitigate the impact of epidemics.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2435.md)
 * [Strengthen healthcare infrastructure, increase resources and capacity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2286.md)
 * [Increase healthcare capacity, allocate resources effectively](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2944.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Healthcare system capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2031.md)
 

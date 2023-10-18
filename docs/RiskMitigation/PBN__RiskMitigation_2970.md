@@ -2,9 +2,9 @@
 
 # __Strengthen cybersecurity measures and awareness__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Cybersecurity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2282.md)
+* [Data privacy and security are prioritized through encryption, access controls, consent, and robust cybersecurity measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_335.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implementation of robust cybersecurity measures, data encryption, regular security audits](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2751.md)
 * [Strengthen security measures such as identification checks and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1553.md)
 * [Develop backup systems and contingency plans, enhance cybersecurity measures, diversify communication channels and platforms.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1867.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Cybersecurity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2282.md)
 

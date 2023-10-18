@@ -2,9 +2,9 @@
 
 # __music__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Dancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_445.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [mobile phones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4435.md)
 * [computers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4091.md)
 * [media advertising](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2959.md)
+
+## This Technology enables the following mitigations
+
+* [Dancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_445.md)
 

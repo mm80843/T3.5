@@ -2,9 +2,9 @@
 
 # __Improved communication and decision-making tools__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
-* [Communication and Data Sharing](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_3.md)
+* [Advanced analytics, fact-checking, project management, reliable sources, knowledge extraction, and collaboration ensure accurate information dissemination and effective decision-making.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_192.md)
 
 ## Closest similar item
 
@@ -19,11 +19,15 @@
 * [Decision support systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2114.md)
 * [decision support systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1317.md)
 
-## This Technology belongs to this TechGroup
-
-* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
-
 ## This Technology is identified by the following QID
 
 * [Q24965456](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q24965456.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Communication and Data Sharing](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_3.md)
+
+## This Technology belongs to this TechGroup
+
+* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
 

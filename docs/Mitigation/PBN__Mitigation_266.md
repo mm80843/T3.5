@@ -2,8 +2,9 @@
 
 # __Quarantine/isolation measures__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Enforcing strict regulations to separate and monitor individuals, ensuring public safety during a period of isolation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_152.md)
 
 ## Closest similar item
 
@@ -18,14 +19,17 @@
 * [Home Isolation and Quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1459.md)
 * [Effective quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2247.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Isolating infected individuals or those who have been exposed to the virus to prevent further transmission
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [A Surface Coating that Rapidly Inactivates SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_199.md)
+
+## This Mitigation is enabled by the following technologies
+
 

@@ -2,9 +2,9 @@
 
 # __Neighbour annoyance__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Sound insulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1098.md)
+* [Dense urban environments face challenges with population growth, inequality, biodiversity, mobility, and poor housing conditions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_105.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Occupant behavior](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1481.md)
 * [Insufficient social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2145.md)
 * [Inadequate social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2146.md)
+
+## Mitigations of this risk
+
+* [Sound insulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1098.md)
 

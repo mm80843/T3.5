@@ -2,9 +2,9 @@
 
 # __Unknown parameter values__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [People flow model identification method](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_117.md)
+* [A list of challenges and uncertainties surrounding the impact and response to various events and crises in different sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_124.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Model identification](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1654.md)
 * [Inaccurate input](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3041.md)
 * [Insufficient negative pressure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_315.md)
+
+## Mitigations of this risk
+
+* [People flow model identification method](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_117.md)
 

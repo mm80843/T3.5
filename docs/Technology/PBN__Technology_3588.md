@@ -2,9 +2,9 @@
 
 # __public health measures such as social distancing and hygiene practices__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Local Mitigation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1019.md)
+* [Improved healthcare infrastructure and resources enable public health authorities to implement effective messaging and interventions, ensuring equitable access to healthcare facilities and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_209.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [strict adherence to hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_512.md)
 * [public health guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3952.md)
 * [improved sanitation and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_527.md)
+
+## This Technology enables the following mitigations
+
+* [Local Mitigation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1019.md)
 

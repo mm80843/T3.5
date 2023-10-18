@@ -2,12 +2,9 @@
 
 # __Supply chain management for healthcare__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_94.md)
-* [mmwave](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4151.md)
-* [iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
-* [massive mimo](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4152.md)
+* [Streamlining and optimizing healthcare operations, from patient isolation to medical waste management, through advanced technology and efficient supply chain practices.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_189.md)
 
 ## Closest similar item
 
@@ -22,15 +19,22 @@
 * [Material supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4161.md)
 * [Provide relief measures and financial support to manufacturing businesses, explore alternative supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4162.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Imbalance of supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3297.md)
-
 ## Property: has_MitigationPrinciple
 
 Use of IoT devices, blockchain technology, and 5G networks to improve supply chain management for healthcare, including tracking and monitoring of supply chains, improving transparency, and efficient delivery of goods
 
+## Risks possibly mitigated by this Mitigation
+
+* [Imbalance of supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3297.md)
+
 ## Property: has_MitigationSource
 
 * [The role of 5G for digital healthcare against COVID-19 pandemic: Opportunities and challenges](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_9.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_94.md)
+* [mmwave](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4151.md)
+* [iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
+* [massive mimo](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4152.md)
 

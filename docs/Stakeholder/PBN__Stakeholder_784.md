@@ -2,9 +2,9 @@
 
 # __societies with surgical video libraries__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Access to Videos](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1268.md)
+* [Various individuals in the healthcare industry, including epidemiologists, medical personnel, clinicians, surgeons, and patients in need of medical care.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_360.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Media outlets](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1842.md)
 * [media](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_231.md)
 * [Media](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1837.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Access to Videos](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1268.md)
 

@@ -2,9 +2,9 @@
 
 # __Poor quality of green space in disadvantaged communities__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Improvement of the quality of green space](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_170.md)
+* [Limited access, funding, and maintenance of green spaces exacerbate inequalities, allergies, and negative perceptions in urban areas.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_121.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of knowledge about the benefits of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1824.md)
 * [Lack of accessibility to urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_693.md)
 * [Inadequate access to urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1822.md)
+
+## Mitigations of this risk
+
+* [Improvement of the quality of green space](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_170.md)
 

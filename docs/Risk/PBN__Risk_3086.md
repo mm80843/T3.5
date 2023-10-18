@@ -2,9 +2,9 @@
 
 # __Increased screen time, potential for addiction, social isolation, cybersecurity__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Virtual Gaming](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1458.md)
+* [The ramifications of social distancing include inconsistent recommendations, increased violence, changes in social practices, and lack of interaction, among other social issues.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_96.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Isolation and Lack of Social Interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1080.md)
 * [Lack of social support and social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1992.md)
 * [Increased commuting and social disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2886.md)
+
+## Mitigations of this risk
+
+* [Virtual Gaming](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1458.md)
 

@@ -2,9 +2,9 @@
 
 # __Limited acceptance of measures__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Enforce Lockdown Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_690.md)
+* [A compilation of topics including energy use, mechanisms, gender inequality, contractual issues, musculoskeletal disorders, and mental health among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_136.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Misinterpretation of preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1828.md)
 * [Inconsistent measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2001.md)
 * [Impulsive adoption of extreme measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1521.md)
+
+## Mitigations of this risk
+
+* [Enforce Lockdown Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_690.md)
 

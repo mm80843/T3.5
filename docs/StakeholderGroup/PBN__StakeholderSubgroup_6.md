@@ -2,9 +2,9 @@
 
 # __Tourism Boards__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [tourism board](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1604.md)
+* [Promotion entities representing travel destinations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_285.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Transportation](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_63.md)
 * [Transportation Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_1.md)
 * [Community Groups/Organizations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_134.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [tourism board](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1604.md)
 

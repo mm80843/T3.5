@@ -2,9 +2,9 @@
 
 # __Divergent interests__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Stakeholder Cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2185.md)
+* [Financial vulnerability and instability permeate various sectors and industries, hindering growth, sustainability, and access to resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_114.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Economic strain](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1987.md)
 * [Decreasing revenues and illiquidity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2870.md)
 * [Decreased interest in news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_539.md)
+
+## Mitigations of this risk
+
+* [Stakeholder Cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2185.md)
 

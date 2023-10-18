@@ -2,9 +2,9 @@
 
 # __Impact of COVID-19 on retail and commercial sectors__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Implementing digital and ICT tools for retail and neighborhood services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1046.md)
+* [The far-reaching consequences of COVID-19 include its transmission through various settings, impact on urban areas, and scarcity of resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [COVID-19 impact on construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_987.md)
 * [Economic and social costs of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_578.md)
 * [Impact of Covid-19 on neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_29.md)
+
+## Mitigations of this risk
+
+* [Implementing digital and ICT tools for retail and neighborhood services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1046.md)
 

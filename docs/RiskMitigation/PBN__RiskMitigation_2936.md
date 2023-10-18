@@ -2,9 +2,9 @@
 
 # __Incorporating green infrastructure and UGS in urban planning and development, implementing green roof and wall initiatives__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Loss of UGS due to urban development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2257.md)
+* [Promote biodiversity and sustainable urban development through the establishment and accessibility of green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_322.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Create and maintain green spaces, establish green infrastructure policies in urban planning, promote nature-based solutions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1897.md)
 * [Implement green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1315.md)
 * [Including green space in urban planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_167.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Loss of UGS due to urban development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2257.md)
 

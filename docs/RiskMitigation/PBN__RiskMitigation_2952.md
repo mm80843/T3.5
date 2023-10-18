@@ -2,9 +2,9 @@
 
 # __Extend support measures to temporary migrants and gig workers, strengthen regulation for gig economy workers.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Exclusion and vulnerability of migrants and gig workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2266.md)
+* [Ensuring equitable access, promoting flexible work, implementing safety measures, and providing support for remote work and flexible schedules.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_323.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement social welfare measures, provide support for vulnerable households, create opportunities for economic recovery and job creation.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2446.md)
 * [Job proximity and active transportation support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_24.md)
 * [Implement social protection measures, promote economic recovery.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2661.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Exclusion and vulnerability of migrants and gig workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2266.md)
 

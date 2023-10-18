@@ -2,11 +2,9 @@
 
 # __Exposure to Air Quality__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [People exposed to the filtered air](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2592.md)
-* [worker in workplace with inadequate air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1741.md)
-* [person exposed to the filtered air](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2561.md)
+* [Isolation centers and air pollution risks.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_284.md)
 
 ## Closest similar item
 
@@ -20,4 +18,10 @@
 * [Affected Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_79.md)
 * [Quarantine Facilities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_124.md)
 * [Noise and Light Conditions](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_99.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [People exposed to the filtered air](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2592.md)
+* [worker in workplace with inadequate air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1741.md)
+* [person exposed to the filtered air](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2561.md)
 

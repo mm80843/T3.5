@@ -2,9 +2,9 @@
 
 # __lighting systems__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Maintaining optimum lighting levels](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1847.md)
+* [Innovative lighting solutions harnessing ultraviolet technology for optimal germicidal sterilization and energy efficiency, while maximizing natural light.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_235.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [energy-efficient lighting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1256.md)
 * [lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4296.md)
 * [lighting fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3030.md)
+
+## This Technology enables the following mitigations
+
+* [Maintaining optimum lighting levels](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1847.md)
 

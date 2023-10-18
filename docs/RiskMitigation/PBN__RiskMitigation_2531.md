@@ -2,9 +2,9 @@
 
 # __Promptly repair and maintain infrastructure__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Infrastructure challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1927.md)
+* [Implementing a comprehensive package of measures to ensure the smooth functioning and safety of essential services and activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_6.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Universal access to critical infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_690.md)
 * [Measures in operation and maintenance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_108.md)
 * [Regular maintenance and inspections, backup systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2341.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Infrastructure challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1927.md)
 

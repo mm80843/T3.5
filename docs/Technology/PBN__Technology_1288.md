@@ -2,9 +2,9 @@
 
 # __mental health interventions__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q5097917](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5097917.md)
+* [Improved healthcare infrastructure and resources enable public health authorities to implement effective messaging and interventions, ensuring equitable access to healthcare facilities and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_209.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1080.md)
 * [mental health resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_876.md)
 * [supportive interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1280.md)
+
+## This Technology is identified by the following QID
+
+* [Q5097917](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5097917.md)
 

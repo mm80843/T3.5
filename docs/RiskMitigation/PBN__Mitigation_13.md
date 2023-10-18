@@ -2,9 +2,9 @@
 
 # __Offshore medical rigs__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2901.md)
+* [Streamlining and optimizing healthcare operations, from patient isolation to medical waste management, through advanced technology and efficient supply chain practices.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_189.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Enhance healthcare capacity, stockpile medical supplies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3620.md)
 * [Ensuring appropriate training and support for healthcare professionals, regular maintenance and quality control of equipment.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3621.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2407.md)
-
 ## Property: has_MitigationPrinciple
 
 Set up offshore medical facilities to provide specialized care and reduce the burden on onshore healthcare systems
 
+## Risks possibly mitigated by this Mitigation
+
+* [Healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2407.md)
+
 ## Property: has_MitigationSource
 
 * [Mitigation strategies to fight the COVID-19 pandemic—present, future and beyond](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_200.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2901.md)
 

@@ -2,9 +2,9 @@
 
 # __particularly those who do not practice good hygiene or live in unsanitary conditions__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Inadequate hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1296.md)
+* [Individuals in low-income or low-education groups, crowded/poorly ventilated spaces, lockdown areas, and densely populated places are particularly affected/risked by various factors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_364.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [individuals with poor health conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_581.md)
 * [communities with inadequate sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_696.md)
 * [especially vulnerable individuals such as children and people with respiratory conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_642.md)
+
+## Risk affecting this stakeholder
+
+* [Inadequate hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1296.md)
 

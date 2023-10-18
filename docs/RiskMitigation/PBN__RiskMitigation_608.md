@@ -2,12 +2,9 @@
 
 # __Portable air cleaners__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-
-## Property: has_MitigationBenefit
-
-* [Reduced concentration of airborne virus particles](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_609.md)
+* [Enhancing air quality through effective air filtration, ventilation, and pollution reduction strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_338.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [Regular cleaning and disinfection, proper ventilation and air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2476.md)
 * [Use of high-efficiency air filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_373.md)
 * [Air disinfection strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_993.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced concentration of airborne virus particles](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_609.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

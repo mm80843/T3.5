@@ -2,9 +2,9 @@
 
 # __High levels of staff sickness or self-isolation__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Messaging tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1716.md)
+* [The challenges include reduced surgical education, loss of control, limited diagnostics, slow drug development, inadequate patient monitoring, and lack of drug therapy options.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_110.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inadequate hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3214.md)
 * [Lack of hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1485.md)
 * [Lack of proper hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3201.md)
+
+## Mitigations of this risk
+
+* [Messaging tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1716.md)
 

@@ -2,9 +2,9 @@
 
 # __Cleaning purposes__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Hot water availability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1218.md)
+* [The widespread presence and transfer of harmful pathogens and contaminants on various surfaces and environments pose serious risks to public health and the ecosystem.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_100.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Use of air cleaning and disinfection devices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1780.md)
 * [Inadequate cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1298.md)
 * [Inadequate cleaning policies and procedures for office spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_436.md)
+
+## Mitigations of this risk
+
+* [Hot water availability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1218.md)
 

@@ -2,9 +2,9 @@
 
 # __Monitor and limit exposure to pandemic-related news, provide accurate and filtered information__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Distress from exposure to pandemic-related news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1902.md)
+* [Promote accurate and reliable information, combat misinformation, and increase media and public health literacy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_343.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Anticipate how the pandemic may affect variables of interest, measure and test these additional variables to assess their impact on study results.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1881.md)
 * [Implement health and safety measures, adapt project plans to pandemic restrictions, provide support to affected workers.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1947.md)
 * [Strengthened public health preparedness and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1020.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Distress from exposure to pandemic-related news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1902.md)
 

@@ -2,9 +2,9 @@
 
 # __Teleworking__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Digital change](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_32.md)
+* [The challenges and consequences of the global pandemic include poor acoustics, noise pollution, food security, increase in inequality, waste, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_131.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [tele-devices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3683.md)
 * [telehealth technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3684.md)
 * [Telehealth technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3685.md)
+
+## Mitigations of this risk
+
+* [Digital change](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_32.md)
 

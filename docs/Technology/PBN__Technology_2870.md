@@ -2,9 +2,9 @@
 
 # __Telecommuting and collaboration tools__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
-* [Telemedicine and Remote Access](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_109.md)
+* [Enhanced connectivity and diverse communication platforms enable the dissemination of reliable information and promote open communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_225.md)
 
 ## Closest similar item
 
@@ -19,11 +19,15 @@
 * [collaboration tools (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3119.md)
 * [collaboration tools)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4387.md)
 
-## This Technology belongs to this TechGroup
-
-* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_17.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1135326](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1135326.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Telemedicine and Remote Access](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_109.md)
+
+## This Technology belongs to this TechGroup
+
+* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_17.md)
 

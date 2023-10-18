@@ -2,9 +2,9 @@
 
 # __job-seekers__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Unemployment and underemployment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2038.md)
+* [Individuals engaged in various types of work, from employees and office workers to agricultural and hospitality workers.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_379.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [employers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_180.md)
 * [unemployed individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_811.md)
 * [workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_677.md)
+
+## Risk affecting this stakeholder
+
+* [Unemployment and underemployment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2038.md)
 

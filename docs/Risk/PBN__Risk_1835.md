@@ -2,25 +2,9 @@
 
 # __Poor drainage and management of water systems__
 
-## Property: has_RiskHealth
+## Category to which it belongs
 
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Description of the risk
-
-Inadequate drainage systems and poor water management can create stagnant water pools, which are ideal breeding grounds for mosquitoes.
-
-## Property: has_RiskType
-
-* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
-
-## Articles mentionning the risk
-
-* [Decision Making within the Built Environment as a Strategy for Mitigating the Risk of Malaria and Other Vector-Borne Diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_272.md)
+* [The challenges of urban water management include water contamination, waste management, inadequate water storage, and poor drainage.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_120.md)
 
 ## Closest similar item
 
@@ -35,15 +19,33 @@ Inadequate drainage systems and poor water management can create stagnant water 
 * [Lack of access to clean water](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_238.md)
 * [Water and wastewater management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_574.md)
 
-## People affected by this risk
+## Description of the risk
 
-* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
-* [facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
-* [maintenance staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_704.md)
+Inadequate drainage systems and poor water management can create stagnant water pools, which are ideal breeding grounds for mosquitoes.
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+
+## Mitigations of this risk
+
+* [Implement proper drainage systems and regular maintenance of water systems to prevent the formation of stagnant water pools.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2421.md)
+
+## Name of the risk
+
+Increased mosquito breeding and higher risk of malaria transmission due to stagnant water.
 
 ## Stakeholders who can mitigate this risk
 
@@ -51,20 +53,22 @@ Inadequate drainage systems and poor water management can create stagnant water 
 * [facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
 * [maintenance staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_704.md)
 
-## Name of the risk
+## Articles mentionning the risk
 
-Increased mosquito breeding and higher risk of malaria transmission due to stagnant water.
+* [Decision Making within the Built Environment as a Strategy for Mitigating the Risk of Malaria and Other Vector-Borne Diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_272.md)
 
-## Mitigations of this risk
+## People affected by this risk
 
-* [Implement proper drainage systems and regular maintenance of water systems to prevent the formation of stagnant water pools.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2421.md)
-
-## Property: has_RiskISO_Purpose
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
+* [facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
+* [maintenance staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_704.md)
 
 ## Technologies linked to the risk
 
 * [such as regular cleaning and repairs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1197.md)
 * [use of drainage design and maintenance techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1196.md)
+
+## Property: has_RiskType
+
+* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 

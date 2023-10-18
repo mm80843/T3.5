@@ -2,13 +2,9 @@
 
 # __Promote awareness and education about the benefits of urban green spaces__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Negative perceptions of urban green space due to COVID-19 restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_348.md)
-
-## Property: has_MitigationBenefit
-
-* [Increased public appreciation of UGS](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_443.md)
+* [Promote biodiversity and sustainable urban development through the establishment and accessibility of green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_322.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implement urban greening initiatives to create and enhance green spaces in highly urbanized areas, consider green roofs and vertical gardens](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2075.md)
 * [Urban greening initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_72.md)
 * [Upgrade and maintain urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_460.md)
+
+## Property: has_MitigationBenefit
+
+* [Increased public appreciation of UGS](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_443.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Negative perceptions of urban green space due to COVID-19 restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_348.md)
 

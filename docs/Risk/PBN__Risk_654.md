@@ -2,9 +2,9 @@
 
 # __Limited availability and effectiveness of antiviral treatments__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Development of graphene-based antiviral coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_918.md)
+* [The Impact of Domestic Violence and the Spreading of the Virus Create Challenges in Preventing Virus Propagation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_94.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Slow the spread of the coronavirus pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3450.md)
 * [Inactivation of coronaviruses by biocidal agents in carrier tests](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1550.md)
 * [Infection prevention](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2494.md)
+
+## Mitigations of this risk
+
+* [Development of graphene-based antiviral coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_918.md)
 

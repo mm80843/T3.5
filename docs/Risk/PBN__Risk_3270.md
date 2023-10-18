@@ -2,9 +2,9 @@
 
 # __Importation of diseases__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Travel Restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_710.md)
+* [The proliferation of diseases carried by ticks and mosquitoes, exacerbated by climate change, inadequate control measures, and wildlife disturbance, causing increased prevalence and spread of various illnesses.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_119.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Transmission of the disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3308.md)
 * [Infection and disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2618.md)
 * [Contagious Disease Propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1867.md)
+
+## Mitigations of this risk
+
+* [Travel Restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_710.md)
 

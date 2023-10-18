@@ -2,9 +2,9 @@
 
 # __Implement strict control measures, protect vulnerable groups__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Reliance on herd immunity without proper control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1029.md)
+* [Enforce safety measures, promote responsible behavior, utilize PPE, and prioritize risk prevention to ensure adequate protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_342.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Mitigation measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1290.md)
 * [Implementing precautionary measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_639.md)
 * [Enhanced security measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2987.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Reliance on herd immunity without proper control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1029.md)
 

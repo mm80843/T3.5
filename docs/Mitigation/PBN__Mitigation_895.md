@@ -2,9 +2,9 @@
 
 # __Remote meetings and video conferencing__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [video conferencing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3526.md)
+* [Advanced monitoring and tracking technology for remote supervision, surveillance, and contactless delivery in healthcare settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_154.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Remote Work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_459.md)
 * [Remote Work and Distance Learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1714.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Lack of face-to-face interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2800.md)
-
 ## Property: has_MitigationPrinciple
 
 Allows for virtual collaboration and communication while maintaining social distancing
 
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of face-to-face interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2800.md)
+
 ## Property: has_MitigationSource
 
 * [The impact of COVID-19 outbreak on United Kingdom infrastructure sector](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_141.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [video conferencing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3526.md)
 

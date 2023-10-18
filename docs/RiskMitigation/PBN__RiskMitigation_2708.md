@@ -2,9 +2,9 @@
 
 # __Adjusting work schedules, staggering shifts, use of PPE__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Social distancing challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_307.md)
+* [Ensuring equitable access, promoting flexible work, implementing safety measures, and providing support for remote work and flexible schedules.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_323.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Educate healthcare workers on proper use and disposal of PPE, provide guidelines and resources.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2442.md)
 * [PPE measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1225.md)
 * [Implement flexible work arrangements, such as remote work and flexible schedules.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2614.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Social distancing challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_307.md)
 

@@ -2,8 +2,9 @@
 
 # __Proper communication__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Promoting effective communication, education, and trust through transparency, clear guidelines, and innovative strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_144.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Face to face communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2215.md)
 * [Information Communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1465.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Miscommunication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2576.md)
-
 ## Property: has_MitigationPrinciple
 
 Clear and accurate communication of information to prevent the spread of exaggerated or false claims and promote evidence-based decision-making.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Miscommunication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2576.md)
+
 ## Property: has_MitigationSource
 
 * [Coronavirus disease 2019: The harms of exaggerated information and non‐evidence‐based measures](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_101.md)
+
+## This Mitigation is enabled by the following technologies
+
 

@@ -2,13 +2,9 @@
 
 # __Adoption of pandemic preparedness protocols__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of disaster management protocols for pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_527.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved disaster response](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_745.md)
+* [Implement comprehensive strategies to control virus transmission, improve surveillance, develop antiviral coatings, and enhance infection control measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_309.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Strengthened public health preparedness and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1020.md)
 * [Implement and enforce non-pharmaceutical interventions at early stages of pandemics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2138.md)
 * [Strengthen public health emergency preparedness and response systems to mitigate the impact of epidemics.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2435.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved disaster response](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_745.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of disaster management protocols for pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_527.md)
 

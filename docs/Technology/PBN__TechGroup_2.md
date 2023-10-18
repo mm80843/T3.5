@@ -2,6 +2,23 @@
 
 # __Wellbeing__
 
+## Category to which it belongs
+
+* [Promoting holistic health and happiness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_301.md)
+
+## Closest similar item
+
+* [well-being promotion technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_113.md)
+* [digital well-being apps](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_114.md)
+* [well-lit environment](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_115.md)
+* [social distancing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_116.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_117.md)
+* [gotomeeting](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_118.md)
+* [promotion of alternative greetings and social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_119.md)
+* [social determinants of health](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_120.md)
+* [mhealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_121.md)
+* [stress management](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_122.md)
+
 ## This Technology belongs to this TechnologyGroup
 
 * [increased use of sanitization and sterilization technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_992.md)
@@ -191,17 +208,4 @@
 * [Safety workshops and trainings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2188.md)
 * [promotion of outdoor activities during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2206.md)
 * [Empathy-building programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2256.md)
-
-## Closest similar item
-
-* [well-being promotion technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_113.md)
-* [digital well-being apps](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_114.md)
-* [well-lit environment](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_115.md)
-* [social distancing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_116.md)
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_117.md)
-* [gotomeeting](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_118.md)
-* [promotion of alternative greetings and social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_119.md)
-* [social determinants of health](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_120.md)
-* [mhealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_121.md)
-* [stress management](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_122.md)
 

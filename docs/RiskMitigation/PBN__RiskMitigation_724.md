@@ -2,13 +2,9 @@
 
 # __Establishing social welfare services__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Vulnerable populations facing poverty and hunger](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_517.md)
-
-## Property: has_MitigationBenefit
-
-* [Poverty reduction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_288.md)
+* [Implement comprehensive measures to ensure support, protection, and assistance for vulnerable populations during the pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_349.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implement policies and initiatives to reduce inequality, promote social inclusion.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2668.md)
 * [Implement social protection measures, promote economic recovery.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2661.md)
 * [Improve social safety net system, support education access](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2161.md)
+
+## Property: has_MitigationBenefit
+
+* [Poverty reduction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_288.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Vulnerable populations facing poverty and hunger](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_517.md)
 

@@ -2,13 +2,9 @@
 
 # __Development of medical infrastructure__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Spread of contagious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_20.md)
-
-## Property: has_MitigationBenefit
-
-* [Increased healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_763.md)
+* [Enhancing healthcare infrastructure, increasing capacity, and ensuring access to medical resources and services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_330.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Increase investment in healthcare infrastructure, establish temporary medical facilities during outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1577.md)
 * [Strengthen healthcare infrastructure, increase resources and capacity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2286.md)
 * [Implement telehealth and telemedicine systems; increase healthcare infrastructure capacity; ensure access to essential healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2697.md)
+
+## Property: has_MitigationBenefit
+
+* [Increased healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_763.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of contagious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_20.md)
 

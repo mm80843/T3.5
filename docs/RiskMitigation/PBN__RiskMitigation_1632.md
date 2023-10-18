@@ -2,9 +2,9 @@
 
 # __Use of coatings that have been proven safe for human health and the environment__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Risk of adverse effects from anti-SARS-CoV-2 coatings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1180.md)
+* [Implement rigorous cleaning and disinfection measures, including the use of antimicrobial materials and advanced technologies, to maintain a safe and hygienic environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_2.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Development of robust antiviral coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_920.md)
 * [Regular cleaning and disinfection of high-touch surfaces, use of anti-SARS-CoV-2 coatings on solids](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1629.md)
 * [Continuously active antimicrobial coating](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1190.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Risk of adverse effects from anti-SARS-CoV-2 coatings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1180.md)
 

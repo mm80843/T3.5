@@ -2,9 +2,9 @@
 
 # __MH2: Mental health__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Availability of outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_221.md)
+* [The toll of mental health harms, health harming behaviors, and the psychological impact of quarantine, fear, and anxiety has increased, affecting various populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_95.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [MH4](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2199.md)
 * [Mental health issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1390.md)
 * [MH1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2196.md)
+
+## Mitigations of this risk
+
+* [Availability of outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_221.md)
 

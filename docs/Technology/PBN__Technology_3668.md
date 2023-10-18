@@ -2,9 +2,9 @@
 
 # __collaboration across sectors__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Inter-sectoral collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1117.md)
+* [A range of community-centered initiatives, programs, and strategies foster participation, collaboration, and social support for diverse groups.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_236.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [collaboration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_155.md)
 * [Collaboration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2300.md)
 * [use of digital communication tools for cross-regional collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_561.md)
+
+## This Technology enables the following mitigations
+
+* [Inter-sectoral collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1117.md)
 

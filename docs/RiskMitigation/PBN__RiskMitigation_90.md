@@ -2,13 +2,9 @@
 
 # __Deployment of social robots__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Prolonged isolation and lack of social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_75.md)
-
-## Property: has_MitigationBenefit
-
-* [Continued social interactions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_104.md)
+* [Strengthen collaborations, implement behavioral change, deploy social robots, and promote sustainable content consumption for community-based strategies, holistic research, and positive media representation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_316.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Robotics in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_809.md)
 * [Social activities / facilitatie social interactions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3150.md)
 * [Provide safe and social spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2869.md)
+
+## Property: has_MitigationBenefit
+
+* [Continued social interactions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_104.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Prolonged isolation and lack of social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_75.md)
 

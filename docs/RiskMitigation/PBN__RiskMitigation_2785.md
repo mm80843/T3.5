@@ -2,9 +2,9 @@
 
 # __Bridge the digital divide, ensure equal access and affordability, promote digital literacy.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Social inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_858.md)
+* [Accelerate the shift to digitalization by embracing emerging technologies and implementing innovative solutions across various sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_346.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Improve digital infrastructure and provide equal access to reliable internet connection for all residents.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3026.md)
 * [to digital platforms for](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2980.md)
 * [Promoting accurate information and media literacy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2612.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Social inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_858.md)
 

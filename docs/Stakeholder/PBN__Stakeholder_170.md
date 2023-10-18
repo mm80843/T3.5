@@ -2,13 +2,14 @@
 
 # __urban poor__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q60445622](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q60445622.md)
+* [Areas inhabited by people in cities, focusing on residents, professionals, researchers, decision-makers, and institutions involved in urban planning and development.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_376.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
+* [Limited access to physical activity environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1857.md)
+* [Limited access to healthy food](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1856.md)
 
 ## Closest similar item
 
@@ -23,17 +24,20 @@
 * [disadvantaged communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1143.md)
 * [urban populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_997.md)
 
-## Risk affecting this stakeholder
-
-* [Limited access to physical activity environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1857.md)
-* [Limited access to healthy food](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1856.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Increased physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_352.md)
 * [Improved access to healthy diets](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_353.md)
 * [Improved food accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_354.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+
+## This Stakeholder is identified by the following QID
+
+* [Q60445622](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q60445622.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
 

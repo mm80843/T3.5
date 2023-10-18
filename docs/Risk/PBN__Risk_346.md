@@ -2,9 +2,9 @@
 
 # __Lack of access to urban green space during COVID-19 pandemic__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Increase green space availability](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_457.md)
+* [Limited access, funding, and maintenance of green spaces exacerbate inequalities, allergies, and negative perceptions in urban areas.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_121.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of access to green spaces during COVID-19 lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_860.md)
 * [Lack of green space in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_141.md)
 * [Lack of green open spaces in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_325.md)
+
+## Mitigations of this risk
+
+* [Increase green space availability](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_457.md)
 

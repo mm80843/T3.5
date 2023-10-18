@@ -2,9 +2,9 @@
 
 # __hand hygiene protocols__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [associated](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2323.md)
+* [Promote and enforce hygiene practices, implement sanitation measures, and provide education on proper handwashing techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_332.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Hand hygiene stations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3423.md)
 * [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3477.md)
 * [hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3478.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [associated](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2323.md)
 

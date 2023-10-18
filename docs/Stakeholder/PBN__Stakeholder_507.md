@@ -7,6 +7,10 @@
 * [Negative performance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1281.md)
 * [Investment style transitions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1280.md)
 
+## Category to which it belongs
+
+* [All actors in the economic and political landscape, including policymakers, governments, and regulatory bodies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_357.md)
+
 ## Closest similar item
 
 * [money market funds](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_509.md)

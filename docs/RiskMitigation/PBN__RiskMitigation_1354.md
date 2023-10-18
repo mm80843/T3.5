@@ -2,13 +2,9 @@
 
 # __Bipolar ionization__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Spread of infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_744.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction of pathogens in the air](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1332.md)
+* [Efforts include RNA monitoring, occupant exposure modeling, targeted messages, adoption of principles, copper coating, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_311.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Use of UV-C germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1026.md)
 * [UV germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1385.md)
 * [Rapid Expansion of AIIR Capacity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_392.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction of pathogens in the air](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1332.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_744.md)
 

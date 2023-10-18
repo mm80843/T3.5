@@ -2,13 +2,9 @@
 
 # __Revision and update of building regulations and codes__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Insufficient building regulations and codes for transformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_796.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1082.md)
+* [Designing affordable, adaptable, and sustainable housing with improved building environments and optimized spatial layouts, while incorporating flexible and human-centric design elements and considering health, safety, and environmental parameters.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_326.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Limit occupancy in buildings, enforce physical distancing measures, stagger work and class schedules.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2550.md)
 * [Comprehensive building design and maintenance strategies to ensure optimal indoor environmental quality.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1573.md)
 * [Adaptive design of built environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_753.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1082.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Insufficient building regulations and codes for transformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_796.md)
 

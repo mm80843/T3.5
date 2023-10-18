@@ -2,12 +2,9 @@
 
 # __non-profits__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Housing Conditions and Health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1185.md)
-* [Transiency and Overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1183.md)
-* [Lack of Legal Protections and Financial Support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1184.md)
-* [Eviction and Housing Displacement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1182.md)
+* [Various individuals and organizations involved in ethical project management, environmental preservation, community engagement, and non-governmental initiatives.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_372.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [nonprofit organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1888.md)
 * [Nonprofit organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2460.md)
 * [non-governmental organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1920.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Housing Conditions and Health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1185.md)
+* [Transiency and Overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1183.md)
+* [Lack of Legal Protections and Financial Support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1184.md)
+* [Eviction and Housing Displacement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1182.md)
 

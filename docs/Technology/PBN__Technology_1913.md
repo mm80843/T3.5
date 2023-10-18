@@ -2,9 +2,9 @@
 
 # __geographic information systems (gis) can be used to analyze community needs and optimize facility placement__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q483130](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q483130.md)
+* [Promotion of environmentally-friendly practices, green infrastructure, sustainable housing, renewable energy, and responsible building to enhance spaces and mitigate climate change.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_224.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Geographic information systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2385.md)
 * [Geographic Information System (GIS) mapping technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2322.md)
 * [geographic information systems (gis) can help identify areas with low ugs access and guide planning efforts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1034.md)
+
+## This Technology is identified by the following QID
+
+* [Q483130](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q483130.md)
 

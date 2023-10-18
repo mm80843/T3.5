@@ -2,9 +2,9 @@
 
 # __portable air conditioners__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Portable Air Conditioners](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1965.md)
+* [Improved air quality can be achieved through the use of various technologies such as air purifiers and monitoring systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_221.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
 * [Air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2202.md)
 * [portable air purifiers with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3866.md)
+
+## This Technology enables the following mitigations
+
+* [Portable Air Conditioners](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1965.md)
 

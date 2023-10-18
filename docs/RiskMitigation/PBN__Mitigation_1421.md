@@ -2,9 +2,9 @@
 
 # __Regular maintenance and cleaning__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [proper cleaning equipment and procedures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3867.md)
+* [Promotion and implementation of rigorous hygiene protocols and use of sanitary facilities and materials.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_166.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Regular cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_540.md)
 * [Maintenance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1313.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Accumulation of dirt, debris, and microbial growth in HVAC systems and ductwork](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3058.md)
-
 ## Property: has_MitigationPrinciple
 
 Regular maintenance and cleaning of HVAC systems and ductwork can prevent the buildup of contaminants and maintain good indoor air quality
 
+## Risks possibly mitigated by this Mitigation
+
+* [Accumulation of dirt, debris, and microbial growth in HVAC systems and ductwork](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3058.md)
+
 ## Property: has_MitigationSource
 
 * [Ventilation use in nonmedical settings during COVID-19: Cleaning protocol, maintenance, and recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_104.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [proper cleaning equipment and procedures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3867.md)
 

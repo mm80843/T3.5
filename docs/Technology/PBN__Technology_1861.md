@@ -2,9 +2,9 @@
 
 # __artificial intelligence for content filtering__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q6031077](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6031077.md)
+* [Advanced technologies and algorithms for modeling, simulation, optimization, and artificial intelligence in various applications, including robotics and computational fluid dynamics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_239.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2124.md)
 * [artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_358.md)
 * [ai and machine learning for data processing and modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_756.md)
+
+## This Technology is identified by the following QID
+
+* [Q6031077](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6031077.md)
 

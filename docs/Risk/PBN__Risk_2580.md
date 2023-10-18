@@ -2,9 +2,9 @@
 
 # __Limited space and function of rooms__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Creating flexible and adaptable spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_482.md)
+* [Challenges in building industry include lack of understanding, high costs, inadequate preparedness, and slow adoption of new technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_98.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Crowded spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1499.md)
 * [Inadequate living spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_572.md)
 * [Insufficient public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1738.md)
+
+## Mitigations of this risk
+
+* [Creating flexible and adaptable spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_482.md)
 

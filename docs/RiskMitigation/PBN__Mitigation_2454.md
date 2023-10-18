@@ -2,8 +2,9 @@
 
 # __Repeal of disposable bag bans__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Movement and accessibility constraints, including travel bans, visitor restrictions, and limitations on gatherings and travel.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_160.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Quarantine measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1133.md)
 * [Quarantine Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_461.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Increased waste](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_842.md)
-
 ## Property: has_MitigationPrinciple
 
 Accelerates the use of single-use packaging and increases waste from disposable bags
 
+## Risks possibly mitigated by this Mitigation
+
+* [Increased waste](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_842.md)
+
 ## Property: has_MitigationSource
 
 * [Indirect effects of COVID-19 on the environment](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_238.md)
+
+## This Mitigation is enabled by the following technologies
+
 

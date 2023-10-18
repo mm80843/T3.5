@@ -2,10 +2,9 @@
 
 # __Checkpoint allocation__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [temperature detection devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3200.md)
-* [checkpoint stations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3199.md)
+* [Enhancing safety and efficiency through comprehensive measures, technology integration, diverse environments, and behavioral adjustments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_157.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Phasing out of lockdown with local strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2505.md)
 * [Increase decontamination efforts, assign individual patrol cars](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3733.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Monitoring mobility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2556.md)
-
 ## Property: has_MitigationPrinciple
 
 Allocating checkpoints to monitor and record the mobility in and out of public places for prevention and safety checks
 
+## Risks possibly mitigated by this Mitigation
+
+* [Monitoring mobility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2556.md)
+
 ## Property: has_MitigationSource
 
 * [10 Adaptive Measures for Public Places to face the COVID 19 Pandemic Outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_63.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [temperature detection devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3200.md)
+* [checkpoint stations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3199.md)
 

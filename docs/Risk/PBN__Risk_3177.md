@@ -2,9 +2,9 @@
 
 # __Increased DBP, chemical costs__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Increase chlorine dose in drinking water](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1629.md)
+* [Limited monitoring, technical limitations, language barriers, expensive optimization, lack of connection with nature, and limited sensor diversity hinder effective response and resource allocation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_107.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Increase in local opportunity cost](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_108.md)
 * [Increased waste](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_842.md)
 * [Operating costs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_746.md)
+
+## Mitigations of this risk
+
+* [Increase chlorine dose in drinking water](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1629.md)
 

@@ -2,13 +2,9 @@
 
 # __High-level air filtration__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Insufficient fresh air delivery in HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_276.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_169.md)
+* [Enhancing air quality through effective air filtration, ventilation, and pollution reduction strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_338.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Improve air filtration and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1925.md)
 * [Air filtration with HEPA filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_845.md)
 * [Air ventilation and filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1276.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_169.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Insufficient fresh air delivery in HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_276.md)
 

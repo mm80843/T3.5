@@ -2,11 +2,9 @@
 
 # __urban design__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Urban Planning and Design Policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_757.md)
-* [Incorporation of green areas in available spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1203.md)
-* [Passive design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1309.md)
+* [Optimizing urban spaces through inclusive strategies and technologies, integrating green spaces, and managing population density and transportation systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_226.md)
 
 ## Closest similar item
 
@@ -20,4 +18,10 @@
 * [urban designers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_383.md)
 * [urban planning and design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_659.md)
 * [Urban planning and design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2389.md)
+
+## This Technology enables the following mitigations
+
+* [Urban Planning and Design Policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_757.md)
+* [Incorporation of green areas in available spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1203.md)
+* [Passive design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1309.md)
 

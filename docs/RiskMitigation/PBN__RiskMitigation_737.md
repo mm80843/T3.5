@@ -2,13 +2,9 @@
 
 # __Integration of urban technology for disaster preparedness__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Psychological tensions and social conflicts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_526.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced surveillance and social monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_744.md)
+* [Promote equitable, sustainable, and inclusive urban planning to enhance living conditions, mitigate overcrowding, and reduce disparities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_324.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Preparedness procedures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1420.md)
 * [Urban planning and design to create more open space, improve infrastructure, and promote safe transportation options.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1921.md)
 * [Develop international strategies that integrate the built environment in pandemic response plans](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2139.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced surveillance and social monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_744.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Psychological tensions and social conflicts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_526.md)
 

@@ -2,13 +2,9 @@
 
 # __Storing information on blockchain__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Spread of false information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_848.md)
-
-## Property: has_MitigationBenefit
-
-* [Prevention of false information spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1172.md)
+* [Enable transparent and secure data management, traceability, and efficient distribution while promoting accurate information dissemination and verification.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_321.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Use of blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1053.md)
 * [Blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1104.md)
 * [Use blockchain for verifying insurance claims and payments, reducing the need for physical documentation and face-to-face contact](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1701.md)
+
+## Property: has_MitigationBenefit
+
+* [Prevention of false information spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1172.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of false information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_848.md)
 

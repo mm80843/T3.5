@@ -2,13 +2,9 @@
 
 # __Enhanced cleaning__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [cleaning equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_363.md)
-* [disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_413.md)
-* [cleaning supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_148.md)
-* [cleaning supplies and protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3427.md)
-* [cleaning tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3740.md)
+* [Promotion and implementation of rigorous hygiene protocols and use of sanitary facilities and materials.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_166.md)
 
 ## Closest similar item
 
@@ -23,15 +19,15 @@
 * [Enhanced cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_820.md)
 * [Surface cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_556.md)
 
+## Property: has_MitigationPrinciple
+
+Maintain cleanliness and hygiene in shared spaces to reduce the risk of transmission
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Surface contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2616.md)
 * [Spread of virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2684.md)
 * [Contamination of shared spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2147.md)
-
-## Property: has_MitigationPrinciple
-
-Maintain cleanliness and hygiene in shared spaces to reduce the risk of transmission
 
 ## Property: has_MitigationSource
 
@@ -39,4 +35,12 @@ Maintain cleanliness and hygiene in shared spaces to reduce the risk of transmis
 * [The City Under COVID‐19: Podcasting As Digital Methodology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_7.md)
 * [Effects to Construction Project Management Impacted Circular Economic of Covid-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_134.md)
 * [Assessment of COVID-19 precautionary measures in sports facilities: A case study on a health club in Saudi Arabia](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_128.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [cleaning equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_363.md)
+* [disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_413.md)
+* [cleaning supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_148.md)
+* [cleaning supplies and protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3427.md)
+* [cleaning tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3740.md)
 

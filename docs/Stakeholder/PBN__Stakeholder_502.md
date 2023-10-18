@@ -2,13 +2,9 @@
 
 # __hospital personnel__
 
-## This Stakeholder can get these Benefits from mitigation measures
+## Category to which it belongs
 
-* [Enhanced disinfection in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1277.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q3140963](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3140963.md)
+* [Those involved in the provision and management of healthcare services, including workers, professionals, facilities, and users.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_355.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [hospital worker](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1861.md)
 * [medical staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_93.md)
 * [hospital administration](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_799.md)
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Enhanced disinfection in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1277.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q3140963](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3140963.md)
 

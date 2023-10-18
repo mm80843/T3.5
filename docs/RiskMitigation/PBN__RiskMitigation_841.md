@@ -2,13 +2,9 @@
 
 # __Mathematical models__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Pandemic modelling](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_607.md)
-
-## Property: has_MitigationBenefit
-
-* [Simulating infection growth](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_845.md)
+* [Advancements in bioinformatics, divestment, automated sample collection, and artificial intelligence are facilitating early disease detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_336.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Artificial intelligence/machine learning (AI/ML)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1100.md)
 * [Cross-population AI models](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_653.md)
 * [Incorporate small-scale heterogeneity in epidemic models to account for neighborhood-level processes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1665.md)
+
+## Property: has_MitigationBenefit
+
+* [Simulating infection growth](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_845.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Pandemic modelling](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_607.md)
 

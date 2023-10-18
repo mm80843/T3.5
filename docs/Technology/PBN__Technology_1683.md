@@ -2,9 +2,9 @@
 
 # __mobile phone call data records__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q17517](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q17517.md)
+* [A comprehensive list of mobile applications, including contact-tracing apps, mental health apps, mobile banking, and fitness tracking devices, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_197.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [telephones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4120.md)
 * [telephone network](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3364.md)
 * [data recording systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_362.md)
+
+## This Technology is identified by the following QID
+
+* [Q17517](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q17517.md)
 

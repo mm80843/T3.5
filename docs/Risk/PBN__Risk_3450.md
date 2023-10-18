@@ -2,9 +2,9 @@
 
 # __Slow the spread of the coronavirus pandemic__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Non-Pharmaceutical Interventions (NPIs)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2419.md)
+* [The challenge lies in the lack of knowledge, limited consideration, and inherent limitations in representing disease transmission mechanisms, mobility patterns, and heterogeneity in macroscopic epidemiological models.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_97.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Spread of virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2684.md)
 * [Risk of spreading COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2982.md)
 * [COVID-19 spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_63.md)
+
+## Mitigations of this risk
+
+* [Non-Pharmaceutical Interventions (NPIs)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2419.md)
 

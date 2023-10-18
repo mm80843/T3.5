@@ -2,9 +2,9 @@
 
 # __Psychological sequelae associated with mass home confinement directives__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Stress management and coping](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_829.md)
+* [The toll of mental health harms, health harming behaviors, and the psychological impact of quarantine, fear, and anxiety has increased, affecting various populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_95.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Increased domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2499.md)
 * [Increase in mental diseases and domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_101.md)
 * [Domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1766.md)
+
+## Mitigations of this risk
+
+* [Stress management and coping](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_829.md)
 

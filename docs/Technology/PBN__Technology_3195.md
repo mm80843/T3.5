@@ -2,12 +2,9 @@
 
 # __smart home energy management systems__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Demand Response Programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_379.md)
-* [Intelligent Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_380.md)
-* [Automatic Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_383.md)
-* [Visualization and Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_384.md)
+* [Improved and energy-efficient HVAC systems, along with advanced technologies, for efficient energy management and environmental control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_227.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [smart home technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_351.md)
 * [energy-efficient appliances and smart home technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_868.md)
 * [energy monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_352.md)
+
+## This Technology enables the following mitigations
+
+* [Demand Response Programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_379.md)
+* [Intelligent Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_380.md)
+* [Automatic Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_383.md)
+* [Visualization and Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_384.md)
 

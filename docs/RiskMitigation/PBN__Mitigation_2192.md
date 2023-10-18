@@ -2,9 +2,9 @@
 
 # __Manage placemaking paths__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [urban planning tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1841.md)
+* [Creating resilient urban environments through strategic planning, adaptable design, reduced density, and improved building infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_164.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Designing smaller local, neighborhood green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_788.md)
 * [Adequate Planning of Infrastructural Facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_945.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Decline in commercial spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3378.md)
-
 ## Property: has_MitigationPrinciple
 
 Create spaces that are useful for people and support local businesses
 
+## Risks possibly mitigated by this Mitigation
+
+* [Decline in commercial spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3378.md)
+
 ## Property: has_MitigationSource
 
 * [Proximity and post-COVID-19 urban development: Reflections from Milan, Italy](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_216.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [urban planning tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1841.md)
 

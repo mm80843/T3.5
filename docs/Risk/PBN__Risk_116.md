@@ -2,10 +2,9 @@
 
 # __Spreading of Corona Virus__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [IoT for monitoring and tracking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_140.md)
-* [IoT in drug delivery](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_141.md)
+* [The Impact of Domestic Violence and the Spreading of the Virus Create Challenges in Preventing Virus Propagation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_94.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Spread of the virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2443.md)
 * [Persistence of coronavirus on inanimate surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1548.md)
 * [Transmission of coronaviruses from contaminated surfaces to hands](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1551.md)
+
+## Mitigations of this risk
+
+* [IoT for monitoring and tracking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_140.md)
+* [IoT in drug delivery](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_141.md)
 

@@ -2,8 +2,9 @@
 
 # __Pop-up bike lanes__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Enabling technology and tools for connectivity, privacy, convenience, and efficient communication in a digital age.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_156.md)
 
 ## Closest similar item
 
@@ -18,14 +19,17 @@
 * [Traffic restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1097.md)
 * [Monitoring Traffic Patterns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_918.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Creating temporary bike lanes in neighbourhoods to encourage and facilitate cycling as a mode of transportation.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Responsible Transport: A post-COVID agenda for transport policy and practice](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_148.md)
+
+## This Mitigation is enabled by the following technologies
+
 

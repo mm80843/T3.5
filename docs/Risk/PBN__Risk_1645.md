@@ -2,25 +2,9 @@
 
 # __Climate-associated diseases__
 
-## Property: has_RiskHealth
+## Category to which it belongs
 
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Description of the risk
-
-Climate change leads to increased water and food contamination, proliferation of microbes, and the spread of vector-borne diseases.
-
-## Property: has_RiskType
-
-* [environmental](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_0.md)
-
-## Articles mentionning the risk
-
-* [Challenges to Mitigating the Urban Health Burden of Mosquito-Borne Diseases in the Face of Climate Change](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_95.md)
+* [The proliferation of diseases carried by ticks and mosquitoes, exacerbated by climate change, inadequate control measures, and wildlife disturbance, causing increased prevalence and spread of various illnesses.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_119.md)
 
 ## Closest similar item
 
@@ -35,35 +19,55 @@ Climate change leads to increased water and food contamination, proliferation of
 * [Disease containment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2461.md)
 * [Emerging disease threats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3269.md)
 
-## People affected by this risk
+## Description of the risk
 
-* [global population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_278.md)
-* [especially in low-income countries](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1066.md)
+Climate change leads to increased water and food contamination, proliferation of microbes, and the spread of vector-borne diseases.
+
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_4.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Mitigations of this risk
+
+* [Improve water and food safety measures, implement vector control strategies, strengthen health systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2193.md)
+
+## Name of the risk
+
+Increased disease burden, greater health risks, potential epidemics.
 
 ## Stakeholders who can mitigate this risk
 
 * [public health officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_310.md)
 * [world health organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1039.md)
 
-## Name of the risk
+## Articles mentionning the risk
 
-Increased disease burden, greater health risks, potential epidemics.
+* [Challenges to Mitigating the Urban Health Burden of Mosquito-Borne Diseases in the Face of Climate Change](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_95.md)
 
-## Mitigations of this risk
+## People affected by this risk
 
-* [Improve water and food safety measures, implement vector control strategies, strengthen health systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2193.md)
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+* [global population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_278.md)
+* [especially in low-income countries](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1066.md)
 
 ## Technologies linked to the risk
 
 * [water treatment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_975.md)
 * [surveillance systems for disease monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_977.md)
 * [vector control methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_976.md)
+
+## Property: has_RiskType
+
+* [environmental](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_0.md)
 

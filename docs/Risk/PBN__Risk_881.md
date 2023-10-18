@@ -2,9 +2,9 @@
 
 # __Limited testing access__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Wastewater-based surveillance (WBS)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1205.md)
+* [Restricted availability of various resources, services, and data creates inequalities and obstacles in accessing them.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_132.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of access to tests in LMIC](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3050.md)
 * [Limited access to data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_723.md)
 * [Limited access to training](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3109.md)
+
+## Mitigations of this risk
+
+* [Wastewater-based surveillance (WBS)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1205.md)
 

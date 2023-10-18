@@ -2,9 +2,9 @@
 
 # __Develop IoT-based monitoring systems that allow for long-term continuous measurement of IEQ on a broader scale.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of spatiotemporal scale and resolution in data collection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1405.md)
+* [Monitoring, analysis, and standardization of various technologies and protocols for accurate and reliable healthcare data collection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_310.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [IoT monitoring and alert systems; prioritization of activities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3039.md)
 * [IoT and AI](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1287.md)
 * [Implement IAQ monitoring systems to continuously measure and analyze indoor air quality parameters.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2643.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of spatiotemporal scale and resolution in data collection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1405.md)
 

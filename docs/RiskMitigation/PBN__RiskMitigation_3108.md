@@ -2,9 +2,9 @@
 
 # __Implement thorough and regular cleaning and disinfection protocols, use effective cleaning products, and train cleaning staff on proper techniques.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Ineffective cleaning practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2394.md)
+* [Implement rigorous cleaning and disinfection measures, including the use of antimicrobial materials and advanced technologies, to maintain a safe and hygienic environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_2.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implementing strict cleaning and disinfection protocols, promoting good hygiene practices, enforcing physical distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1584.md)
 * [Implementing and enforcing comprehensive hygiene and cleanliness protocols, including regular cleaning and disinfection, hand hygiene stations, and proper waste disposal.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2679.md)
 * [Implement effective infection control measures, such as regular cleaning and disinfection, ventilation systems, and promoting personal hygiene practices.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2507.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Ineffective cleaning practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2394.md)
 

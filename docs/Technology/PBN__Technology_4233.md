@@ -2,9 +2,9 @@
 
 # __digital imaging__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Virtual clinics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_151.md)
+* [The digital revolution encompasses various aspects, from online promotion to contactless payment systems and virtual learning platforms.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_190.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3890.md)
 * [thermal imaging technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4232.md)
 * [digitalisation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3967.md)
+
+## This Technology enables the following mitigations
+
+* [Virtual clinics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_151.md)
 

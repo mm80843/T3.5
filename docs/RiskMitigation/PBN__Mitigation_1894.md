@@ -2,9 +2,9 @@
 
 # __Lightweight blockchain design in healthcare for optimization__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_211.md)
+* [Streamlining and optimizing healthcare operations, from patient isolation to medical waste management, through advanced technology and efficient supply chain practices.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_189.md)
 
 ## Closest similar item
 
@@ -19,14 +19,18 @@
 * [Protection of healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2249.md)
 * [Lightweight Architecture](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1302.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Lightweight blockchain designs can optimize data verification and transaction communication in healthcare, enhancing blockchain performance.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Blockchain technology and its applications to combat COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_219.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_211.md)
 

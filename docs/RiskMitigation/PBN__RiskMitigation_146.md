@@ -2,13 +2,9 @@
 
 # __Support for people who cannot stop working and provide essential services__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Loss of livelihoods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_121.md)
-
-## Property: has_MitigationBenefit
-
-* [Continued income and employment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_163.md)
+* [Implement comprehensive measures to ensure support, protection, and assistance for vulnerable populations during the pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_349.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Financial support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_780.md)
 * [Financial support programs, remote work options, community help initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2964.md)
 * [Continuity of essential services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_436.md)
+
+## Property: has_MitigationBenefit
+
+* [Continued income and employment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_163.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Loss of livelihoods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_121.md)
 

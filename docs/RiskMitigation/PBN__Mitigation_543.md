@@ -2,8 +2,9 @@
 
 # __Structural changes in coronavirus spike glycoprotein__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Effective management of viral outbreaks through control measures, viral detection, disease tracking, and public awareness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_149.md)
 
 ## Closest similar item
 
@@ -18,14 +19,17 @@
 * [Rapid COVID-19 Screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1933.md)
 * [Viral enrichment protocol](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2411.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Enables binding to new receptor types, increasing risk of zoonotic transmission and large-scale outbreaks.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [2019 Novel Coronavirus (COVID-19) Pandemic: Built Environment Considerations To Reduce Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_288.md)
+
+## This Mitigation is enabled by the following technologies
+
 

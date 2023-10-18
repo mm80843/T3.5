@@ -2,9 +2,9 @@
 
 # __Tick-borne diseases in urban areas__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Increase number of aquatic predators](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_77.md)
+* [The challenge lies in the lack of knowledge, limited consideration, and inherent limitations in representing disease transmission mechanisms, mobility patterns, and heterogeneity in macroscopic epidemiological models.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_97.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Mosquito-borne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2946.md)
 * [Spread of mosquito-borne diseases due to variable climate and extreme weather events](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_58.md)
 * [Pandemic outbreak in cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_512.md)
+
+## Mitigations of this risk
+
+* [Increase number of aquatic predators](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_77.md)
 

@@ -2,9 +2,9 @@
 
 # __Transmission of COVID-19 through surfaces__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Installation of UV-C cupboards for external clothing and footwear](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_270.md)
+* [The wide-ranging transmission, survival, and spread of infectious respiratory viruses and pathogens indoors and on surfaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_122.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Potential enteric transmission of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_290.md)
 * [Spread of COVID-19 through water](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_577.md)
 * [Transmission of COVID-19 through wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1807.md)
+
+## Mitigations of this risk
+
+* [Installation of UV-C cupboards for external clothing and footwear](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_270.md)
 

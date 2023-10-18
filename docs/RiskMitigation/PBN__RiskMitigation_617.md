@@ -2,15 +2,9 @@
 
 # __Government stimulus packages__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_446.md)
-* [Disruption in the travel and tourism industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_679.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced energy infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_623.md)
-* [Industry recovery](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_950.md)
+* [Promote sustainable development through infrastructure investments, training, diversification, financial support, and government partnerships.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_315.md)
 
 ## Closest similar item
 
@@ -24,4 +18,14 @@
 * [Economic stimulus, support for affected industries](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2130.md)
 * [Seek financial assistance or stimulus packages, explore cost-saving measures, diversify revenue streams.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1904.md)
 * [Provide financial support to individuals and businesses, encourage investment and economic stimulus measures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2955.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced energy infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_623.md)
+* [Industry recovery](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_950.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_446.md)
+* [Disruption in the travel and tourism industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_679.md)
 

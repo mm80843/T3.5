@@ -2,9 +2,9 @@
 
 # __communication and mediation platforms__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q223871](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q223871.md)
+* [Digital platforms and online resources facilitate collaboration, communication, and information sharing among individuals and organizations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_193.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [communication strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_323.md)
 * [communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3463.md)
 * [media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4345.md)
+
+## This Technology is identified by the following QID
+
+* [Q223871](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q223871.md)
 

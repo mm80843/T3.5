@@ -2,9 +2,9 @@
 
 # __Identifying symptomatic individuals__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Monitoring temperature](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_833.md)
+* [The challenges include reduced surgical education, loss of control, limited diagnostics, slow drug development, inadequate patient monitoring, and lack of drug therapy options.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_110.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Perceived susceptibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1615.md)
 * [Lack of quick and accurate diagnostics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2981.md)
 * [Psychological distress in general population](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_895.md)
+
+## Mitigations of this risk
+
+* [Monitoring temperature](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_833.md)
 

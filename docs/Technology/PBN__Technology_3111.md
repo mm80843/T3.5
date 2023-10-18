@@ -2,9 +2,9 @@
 
 # __essential oils__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Essential Oils](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_279.md)
+* [The range of materials and techniques listed includes various disinfectants, nanomaterials, manufacturing methods, coatings, sustainability measures, and analytical tools.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_237.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [alcohol-based hand rubs (80% ethanol](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3554.md)
 * [alcohol-based hand rubs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_856.md)
 * [Alcohol-based hand rubs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2820.md)
+
+## This Technology enables the following mitigations
+
+* [Essential Oils](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_279.md)
 

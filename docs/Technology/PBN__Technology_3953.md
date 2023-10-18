@@ -2,9 +2,9 @@
 
 # __cold storage facilities__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Cold chain logistics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1620.md)
+* [Various technologies and devices are used to measure and regulate temperature, including cameras, scanners, sensors, and thermostats.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_220.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [cold chain management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1298.md)
 * [Cold chain management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2768.md)
 * [smart storage solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1006.md)
+
+## This Technology enables the following mitigations
+
+* [Cold chain logistics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1620.md)
 

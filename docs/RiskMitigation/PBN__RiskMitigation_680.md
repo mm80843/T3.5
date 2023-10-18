@@ -2,13 +2,9 @@
 
 # __Increased support services for domestic abuse victims__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Increased levels of domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_483.md)
-
-## Property: has_MitigationBenefit
-
-* [Support for victims of domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_687.md)
+* [Implement comprehensive measures to ensure support, protection, and assistance for vulnerable populations during the pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_349.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Provide support and resources for victims of domestic violence, ensure safety measures are in place for online gaming](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2402.md)
 * [Increase social support for vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_629.md)
 * [Providing mental health support services and resources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2613.md)
+
+## Property: has_MitigationBenefit
+
+* [Support for victims of domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_687.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Increased levels of domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_483.md)
 

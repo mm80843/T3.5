@@ -2,9 +2,9 @@
 
 # __in temporal regions__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [BFO backbone structure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1249.md)
+* [A list of challenges and uncertainties surrounding the impact and response to various events and crises in different sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_124.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Global consequences of local decisions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2748.md)
 * [Temporary transformations leading to permanent changes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_914.md)
 * [Temporary transformations becoming permanent](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1462.md)
+
+## Mitigations of this risk
+
+* [BFO backbone structure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1249.md)
 

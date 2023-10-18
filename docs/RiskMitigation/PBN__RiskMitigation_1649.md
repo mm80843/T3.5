@@ -2,9 +2,9 @@
 
 # __Invest in and develop effective technical systems (e.g., data collection and analysis, communication networks)__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of effective technical systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1197.md)
+* [Promote standardized data collection, ontology-based representation, and enhanced data sharing to improve decision-making processes and data quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_319.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement social safety nets, equitable distribution of resources, invest in education and healthcare.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2910.md)
 * [Implement effective cost planning methods, conduct regular cost monitoring and analysis.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1943.md)
 * [Promote collaboration and communication between different sectors; develop integrated command and control centers and observatories](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2696.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of effective technical systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1197.md)
 

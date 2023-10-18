@@ -2,9 +2,9 @@
 
 # __support for entrepreneurship__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q3908516](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3908516.md)
+* [Maximizing economic efficiency while promoting financial stability through innovative strategies, investments, and partnerships at various levels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_195.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [financial support mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_631.md)
 * [employment opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1227.md)
 * [job creation initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_45.md)
+
+## This Technology is identified by the following QID
+
+* [Q3908516](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3908516.md)
 

@@ -2,9 +2,9 @@
 
 # __Exploitation and mistreatment of workers__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Protecting vulnerable workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2263.md)
+* [The impact of various factors on the workforce, including job insecurity, changes in work schedules, unemployment, and decreased productivity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_4.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Labour market challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_451.md)
 * [Impact on workers’ health and safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3522.md)
 * [Loss of livelihoods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_121.md)
+
+## Mitigations of this risk
+
+* [Protecting vulnerable workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2263.md)
 

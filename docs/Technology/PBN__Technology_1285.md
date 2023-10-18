@@ -2,9 +2,9 @@
 
 # __coordination systems__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q105693024](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q105693024.md)
+* [These resources aim to enhance security, convenience, and efficiency in managing access, spaces, and systems within various environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_206.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [coordinated services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4080.md)
 * [robot systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3756.md)
 * [robotic systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4490.md)
+
+## This Technology is identified by the following QID
+
+* [Q105693024](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q105693024.md)
 

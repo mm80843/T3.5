@@ -2,13 +2,9 @@
 
 # __Older adult__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q17156455](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q17156455.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Experts from various fields including research, risk assessment, education, science, HVAC, and IT.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_356.md)
 
 ## Closest similar item
 
@@ -26,4 +22,12 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Age Defined Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_77.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q17156455](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q17156455.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 

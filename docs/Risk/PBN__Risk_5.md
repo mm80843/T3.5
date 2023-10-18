@@ -2,9 +2,9 @@
 
 # __Inconsistent social distancing recommendations__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Universal occupant exposure model](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_9.md)
+* [The ramifications of social distancing include inconsistent recommendations, increased violence, changes in social practices, and lack of interaction, among other social issues.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_96.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inadequate social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2146.md)
 * [Social distancing impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1306.md)
 * [Non-compliance with social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3200.md)
+
+## Mitigations of this risk
+
+* [Universal occupant exposure model](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_9.md)
 

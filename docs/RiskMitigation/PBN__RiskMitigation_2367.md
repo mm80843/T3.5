@@ -2,9 +2,9 @@
 
 # __Implement social safety nets, provide financial support to affected individuals and businesses__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Negative effects on the economy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1791.md)
+* [Implement comprehensive measures to ensure support, protection, and assistance for vulnerable populations during the pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_349.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Provide financial support to affected businesses, develop alternative revenue sources.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2754.md)
 * [Implement social welfare measures, provide support for vulnerable households, create opportunities for economic recovery and job creation.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2446.md)
 * [Implement social protection measures, promote economic recovery.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2661.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Negative effects on the economy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1791.md)
 

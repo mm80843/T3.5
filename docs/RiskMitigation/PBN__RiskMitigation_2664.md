@@ -2,9 +2,9 @@
 
 # __Implement distance learning solutions, provide technology and internet access to students.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Education disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_234.md)
+* [Enrich education through digital tools, virtual experiences, remote learning, and alternative forms of exercise and interaction.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_3.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Online learning platforms, distribution of educational materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2174.md)
 * [Digital educational initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_473.md)
 * [Implement novel techniques such as flipped classrooms, video lectures, and teleconferencing.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1741.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Education disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_234.md)
 

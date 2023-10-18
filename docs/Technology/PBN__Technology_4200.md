@@ -2,9 +2,9 @@
 
 # __plastic barriers__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Partition/barriers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2031.md)
+* [Explore a diverse range of materials, from sound-absorbing to eco-friendly, that contribute to innovative building solutions and educational resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_222.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [barriers such as plexiglass](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3288.md)
 * [safety barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1880.md)
 * [Safety barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2675.md)
+
+## This Technology enables the following mitigations
+
+* [Partition/barriers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2031.md)
 

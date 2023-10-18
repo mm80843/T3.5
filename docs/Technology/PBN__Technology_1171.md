@@ -2,13 +2,13 @@
 
 # __drones for medical supply delivery__
 
+## Category to which it belongs
+
+* [Improved healthcare infrastructure and resources enable public health authorities to implement effective messaging and interventions, ensuring equitable access to healthcare facilities and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_209.md)
+
 ## Risks linked to this technology
 
 * [Impact on healthcare systems and pharmaceutical industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1812.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Robotic and Drone Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_113.md)
 
 ## Closest similar item
 
@@ -23,11 +23,15 @@
 * [Portable medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2264.md)
 * [medical equipment and personnel](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4197.md)
 
-## This Technology belongs to this TechGroup
-
-* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_17.md)
-
 ## This Technology is identified by the following QID
 
 * [Q20786933](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q20786933.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Robotic and Drone Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_113.md)
+
+## This Technology belongs to this TechGroup
+
+* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_17.md)
 

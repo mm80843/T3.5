@@ -2,10 +2,9 @@
 
 # __Reimagining water infrastructure design__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [climate change adaptation strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3966.md)
-* [digitalisation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3967.md)
+* [Strengthening waste management and surveillance, utilizing wastewater-based epidemiology, to improve environmental sanitation and water quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_9.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Enhancing citizen confidence in water services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1638.md)
 * [Improvement of infrastructure and housing design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_96.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Outdated assumptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3182.md)
-
 ## Property: has_MitigationPrinciple
 
 Addresses the impacts of climate change on the water cycle and develops new approaches for water management
 
+## Risks possibly mitigated by this Mitigation
+
+* [Outdated assumptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3182.md)
+
 ## Property: has_MitigationSource
 
 * [When the fourth water and digital revolution encountered COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_207.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [climate change adaptation strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3966.md)
+* [digitalisation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3967.md)
 

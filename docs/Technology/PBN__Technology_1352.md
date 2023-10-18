@@ -2,9 +2,9 @@
 
 # __acoustic treatments__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q859044](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q859044.md)
+* [Advancements in biotechnology, clinical research, and innovative therapies contribute to the development of medical solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [sound insulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3048.md)
 * [soundproof materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4358.md)
 * [soundproofing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1834.md)
+
+## This Technology is identified by the following QID
+
+* [Q859044](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q859044.md)
 

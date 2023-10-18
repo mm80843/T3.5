@@ -2,13 +2,9 @@
 
 # __CDR data analysis__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Human movement patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_309.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved understanding of movement](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_385.md)
+* [Monitoring, analysis, and standardization of various technologies and protocols for accurate and reliable healthcare data collection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_310.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Combination of PCR methods and biomarker measurements (ELISA, MS)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_879.md)
 * [Differential testing rates](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_682.md)
 * [Develop common standards, seek alignment between international data protection legislation and GDPR](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2819.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved understanding of movement](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_385.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Human movement patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_309.md)
 

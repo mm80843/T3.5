@@ -2,9 +2,9 @@
 
 # __Lack of social spaces__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Designing social spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_155.md)
+* [The ramifications of social distancing include inconsistent recommendations, increased violence, changes in social practices, and lack of interaction, among other social issues.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_96.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inadequate living spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_572.md)
 * [Lack of social cohesion and trust](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3338.md)
 * [Social inequities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2895.md)
+
+## Mitigations of this risk
+
+* [Designing social spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_155.md)
 

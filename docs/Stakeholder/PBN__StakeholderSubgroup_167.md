@@ -2,10 +2,9 @@
 
 # __Security and Law Enforcement__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [security agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1533.md)
-* [security agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2716.md)
+* [Evaluating authorities, organizations, and enforcement units in charge of overseeing compliance and protecting public safety.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_270.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Emergency Services and Management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_166.md)
 * [Social Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_138.md)
 * [City Officials and Administrators](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_4.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [security agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1533.md)
+* [security agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2716.md)
 

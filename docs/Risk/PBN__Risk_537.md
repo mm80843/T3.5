@@ -2,9 +2,9 @@
 
 # __Avoidance of news about__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Provide accurate](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_761.md)
+* [The proliferation of false and misleading information, misinformation, and inaccurate news during pandemics creates confusion and a lack of trust in reliable sources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_127.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Dissemination of false information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_493.md)
 * [Desensitization to COVID-19 news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1223.md)
 * [Media fatigue, avoidance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2532.md)
+
+## Mitigations of this risk
+
+* [Provide accurate](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_761.md)
 

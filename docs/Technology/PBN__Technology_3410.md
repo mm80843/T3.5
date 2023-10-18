@@ -2,13 +2,9 @@
 
 # __wearables__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Remote monitoring of patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1173.md)
-* [Monitoring quarantined individuals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1177.md)
-* [IoT-based solutions for quarantine time](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1183.md)
-* [IoT-based solutions for after recovery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1184.md)
-* [Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_731.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [smartwatches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3013.md)
 * [fitbits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3014.md)
 * [wristbands](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3021.md)
+
+## This Technology enables the following mitigations
+
+* [Remote monitoring of patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1173.md)
+* [Monitoring quarantined individuals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1177.md)
+* [IoT-based solutions for quarantine time](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1183.md)
+* [IoT-based solutions for after recovery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1184.md)
+* [Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_731.md)
 

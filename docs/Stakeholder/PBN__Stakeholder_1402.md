@@ -2,9 +2,9 @@
 
 # __nan iot industry__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Data overload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2088.md)
+* [Various industries, businesses, and supply chain partners rely on suppliers and supply chain professionals for their products and services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_370.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [IoT technology providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2623.md)
 * [iot device manufacturers and service providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1436.md)
 * [IoT device manufacturers and service providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2644.md)
+
+## Risk affecting this stakeholder
+
+* [Data overload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2088.md)
 

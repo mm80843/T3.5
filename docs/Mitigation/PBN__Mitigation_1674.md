@@ -2,9 +2,9 @@
 
 # __Driverless vehicles__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [driverless vehicles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3999.md)
+* [Enhancing urban mobility through pedestrian-friendly infrastructure, optimized transportation, and improved public transportation systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_151.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Pedestrian and cycling facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1162.md)
 * [Active transportation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1050.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Lack of monitoring capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3211.md)
-
 ## Property: has_MitigationPrinciple
 
 Use driverless vehicles for monitoring scenarios and enforcing regulations in the city during the pandemic
 
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of monitoring capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3211.md)
+
 ## Property: has_MitigationSource
 
 * [An Automated System to Limit COVID-19 Using Facial Mask Detection in Smart City Network](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_265.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [driverless vehicles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3999.md)
 

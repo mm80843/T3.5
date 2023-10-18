@@ -2,9 +2,9 @@
 
 # __stratified sewer collection systems__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Testing urological wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2002.md)
+* [Improvements in wastewater, waste management, sanitation, water purification, and plumbing technologies aim for sustainable and efficient infrastructure development.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_234.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [sanitation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_704.md)
 * [sanitation infrastructure and services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2906.md)
 * [improved sanitation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1000.md)
+
+## This Technology enables the following mitigations
+
+* [Testing urological wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2002.md)
 

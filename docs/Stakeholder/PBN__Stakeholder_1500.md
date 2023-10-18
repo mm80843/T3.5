@@ -2,9 +2,9 @@
 
 # __sedentary individuals__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Obesity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2238.md)
+* [All people, especially those at risk or facing various circumstances, including age, health conditions, or unemployment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_374.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2539.md)
 * [individuals in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2534.md)
 * [people with physical disabilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1116.md)
+
+## Risk affecting this stakeholder
+
+* [Obesity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2238.md)
 

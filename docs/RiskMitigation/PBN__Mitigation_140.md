@@ -2,10 +2,9 @@
 
 # __Healthy Building Design__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
-* [proper layout](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2987.md)
+* [Creating resilient urban environments through strategic planning, adaptable design, reduced density, and improved building infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_164.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Hygienic building materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2176.md)
 * [Flexible building systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2167.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Overall health risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2458.md)
-
 ## Property: has_MitigationPrinciple
 
 Designing buildings with proper layout, ventilation, and hygiene systems promotes the well-being of occupants.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Overall health risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2458.md)
+
 ## Property: has_MitigationSource
 
 * [Adaptive Design of the Built Environment to Mitigate the Transmission Risk of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_151.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
+* [proper layout](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2987.md)
 

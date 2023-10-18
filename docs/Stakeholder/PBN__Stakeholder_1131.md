@@ -2,9 +2,9 @@
 
 # __temperature__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Relationship between AH, RH, and temperature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1706.md)
+* [Entities and individuals who interact with or are affected by a system, organization, or public facility.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_1.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [temperature screenings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3103.md)
 * [temperature monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3104.md)
 * [temperature monitoring devices](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3105.md)
+
+## Risk affecting this stakeholder
+
+* [Relationship between AH, RH, and temperature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1706.md)
 

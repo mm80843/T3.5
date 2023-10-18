@@ -2,9 +2,9 @@
 
 # __Inadequate living spaces__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Flexibility, adaptability, sharing, and crowding of living spaces, and compliant functions located within the buildings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_800.md)
+* [Insufficient, cramped, and unsanitary conditions in various types of spaces are hindering access, health, and well-being.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_141.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Insufficient public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1738.md)
 * [Lack of Facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1058.md)
 * [Lack of safe spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2421.md)
+
+## Mitigations of this risk
+
+* [Flexibility, adaptability, sharing, and crowding of living spaces, and compliant functions located within the buildings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_800.md)
 

@@ -2,9 +2,9 @@
 
 # __Promote urban/community farming__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [LS2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2222.md)
+* [Enhance local self-sufficiency in shopping, recreation, and food production, while promoting sustainable practices and supporting resilient economies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_344.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Increase access to private gardens, allocate dedicated time slots for outdoor activities, create temporary green spaces in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1770.md)
 * [Implement urban regeneration initiatives, incentivize the use of vacant spaces, support local businesses and entrepreneurship.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2908.md)
 * [Supporting local communities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_132.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [LS2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2222.md)
 

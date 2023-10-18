@@ -2,9 +2,9 @@
 
 # __Sanitation practices__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Health and prevention measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_28.md)
+* [Lack of proper hygiene and sanitation practices result in inadequate access to clean water and facilities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_129.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of proper sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2735.md)
 * [Insufficient Sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1456.md)
 * [Poor cleaning and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1487.md)
+
+## Mitigations of this risk
+
+* [Health and prevention measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_28.md)
 

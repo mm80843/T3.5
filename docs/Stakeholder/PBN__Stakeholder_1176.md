@@ -2,9 +2,9 @@
 
 # __prisoners__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1764.md)
+* [Entities and individuals who interact with or are affected by a system, organization, or public facility.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_1.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [landlords](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2013.md)
 * [victims of violence](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_30.md)
 * [hotel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1961.md)
+
+## Risk affecting this stakeholder
+
+* [Vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1764.md)
 

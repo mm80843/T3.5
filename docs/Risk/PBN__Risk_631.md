@@ -2,9 +2,9 @@
 
 # __Inadequate governance models__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Implementation of ETs-based governance models](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_874.md)
+* [Fragmented global governance, reduced aid, ethical concerns, educational disruption, impacts on peace and justice, and inadequate coordination between stakeholders.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_115.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Weaknesses in smart city governance models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1199.md)
 * [Lack of government support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1929.md)
 * [Fragmented governance and limited cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_805.md)
+
+## Mitigations of this risk
+
+* [Implementation of ETs-based governance models](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_874.md)
 

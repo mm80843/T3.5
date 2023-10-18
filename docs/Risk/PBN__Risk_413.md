@@ -2,9 +2,9 @@
 
 # __Impact on international relations and trade deals__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Topic modelling](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_573.md)
+* [The ramifications of global connectivity include economic instability, impacts of the pandemic, unemployment, poverty, reduced tourism revenue, and decline in public budgets.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_103.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Economic impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_124.md)
 * [Exposure to foreign shocks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1838.md)
 * [Livelihood and trade disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_774.md)
+
+## Mitigations of this risk
+
+* [Topic modelling](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_573.md)
 

@@ -2,9 +2,9 @@
 
 # __Increase data sharing and collaboration among researchers and institutions__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Limited access to COVID-19 data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1719.md)
+* [Promote standardized data collection, ontology-based representation, and enhanced data sharing to improve decision-making processes and data quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_319.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Establish standardized data collection protocols, promote data sharing, address structural and cultural barriers to data sharing.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1830.md)
 * [Establish mechanisms for coordinating and integrating research, data, and expertise across stakeholders and sectors, facilitate dialogue and exchange of information, and promote a multidisciplinary approach](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1857.md)
 * [Improve coordination between researchers, academia, and policymakers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1136.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limited access to COVID-19 data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1719.md)
 

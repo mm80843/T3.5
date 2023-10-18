@@ -2,13 +2,9 @@
 
 # __Use of hygienic and anti-bacterial materials__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Infectious disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_942.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced cleanliness and hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1303.md)
+* [Implement rigorous cleaning and disinfection measures, including the use of antimicrobial materials and advanced technologies, to maintain a safe and hygienic environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_2.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Regular disinfection of surfaces, hand hygiene, and use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2083.md)
 * [Increased cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_193.md)
 * [Regular cleaning and disinfection of surfaces, proper ventilation and air filtration, hand hygiene practices.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2104.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced cleanliness and hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1303.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Infectious disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_942.md)
 

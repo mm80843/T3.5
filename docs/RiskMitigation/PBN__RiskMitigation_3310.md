@@ -2,6 +2,10 @@
 
 # __Ensure use of personal protection equipment__
 
+## Category to which it belongs
+
+* [Enforce safety measures, promote responsible behavior, utilize PPE, and prioritize risk prevention to ensure adequate protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_342.md)
+
 ## Closest similar item
 
 * [Use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1096.md)

@@ -2,11 +2,9 @@
 
 # __Shortage of PPE__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [3D-Printed Personal Protective Equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1279.md)
-* [Smart Personal Protective Equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1280.md)
-* [Environmental-Friendly Personal Protective Equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1281.md)
+* [Limited monitoring, technical limitations, language barriers, expensive optimization, lack of connection with nature, and limited sensor diversity hinder effective response and resource allocation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_107.md)
 
 ## Closest similar item
 
@@ -20,4 +18,10 @@
 * [Personal Protective Equipment (PPE) usage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2144.md)
 * [Limited access to personal protective equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2124.md)
 * [Safety concerns with 3D-printed PPE](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2397.md)
+
+## Mitigations of this risk
+
+* [3D-Printed Personal Protective Equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1279.md)
+* [Smart Personal Protective Equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1280.md)
+* [Environmental-Friendly Personal Protective Equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1281.md)
 

@@ -2,9 +2,9 @@
 
 # __Monitor data sources to ensure they provide consistent and accurate information__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Inconsistent data sources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2363.md)
+* [Promote accurate and reliable information, combat misinformation, and increase media and public health literacy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_343.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Alignment and reconciliation of data from different sources, validation of data consistency, consensus-building among experts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3004.md)
 * [Improve access to reliable information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_628.md)
 * [Implementing measures to detect and prevent the spread of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_122.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inconsistent data sources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2363.md)
 

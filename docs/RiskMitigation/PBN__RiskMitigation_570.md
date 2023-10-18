@@ -2,13 +2,9 @@
 
 # __Promote reduction of non-essential travel__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Decline in public transport usage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_406.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduced congestion and pollution](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_556.md)
+* [Implement travel restrictions, promote active transportation, streamline processes, provide accurate information, and develop sustainable transport options.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_325.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Develop strategies to address general travel anxiety](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1660.md)
 * [Implement travel restrictions and controls](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2848.md)
 * [Streamlining travel processes and minimizing delays](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_105.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced congestion and pollution](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_556.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Decline in public transport usage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_406.md)
 

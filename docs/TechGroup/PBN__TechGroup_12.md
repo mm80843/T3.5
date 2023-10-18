@@ -2,6 +2,23 @@
 
 # __Building materials__
 
+## Category to which it belongs
+
+* [Construction components.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_304.md)
+
+## Closest similar item
+
+* [architectural & Construction Materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_143.md)
+* [building material technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_144.md)
+* [Building material technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_145.md)
+* [Advanced building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_146.md)
+* [construction materials and equipment](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_147.md)
+* [green building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_148.md)
+* [building insulation materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_149.md)
+* [building design](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_150.md)
+* [suitable materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_151.md)
+* [advanced materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_152.md)
+
 ## This Technology belongs to this TechnologyGroup
 
 * [air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
@@ -75,17 +92,4 @@
 * [Biophilic design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2678.md)
 * [Building codes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2355.md)
 * [Eco-friendly materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2655.md)
-
-## Closest similar item
-
-* [architectural & Construction Materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_143.md)
-* [building material technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_144.md)
-* [Building material technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_145.md)
-* [Advanced building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_146.md)
-* [construction materials and equipment](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_147.md)
-* [green building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_148.md)
-* [building insulation materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_149.md)
-* [building design](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_150.md)
-* [suitable materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_151.md)
-* [advanced materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_152.md)
 

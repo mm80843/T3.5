@@ -6,6 +6,10 @@
 
 * [Influencing global green transition](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_782.md)
 
+## Category to which it belongs
+
+* [Global disadvantaged populations, particularly those in developing and non-English speaking countries, including women, children, rural households, and individuals.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_399.md)
+
 ## Closest similar item
 
 * [developing countries](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_223.md)

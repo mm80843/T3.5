@@ -2,46 +2,6 @@
 
 # __governments__
 
-## This Stakeholder belongs to this StakeholderGroup
-
-* [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
-
-## Closest similar item
-
-* [city governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_354.md)
-* [City governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2741.md)
-* [government policies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2742.md)
-* [government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_55.md)
-* [government programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2743.md)
-* [government support](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2744.md)
-* [government initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2745.md)
-* [government intervention](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2746.md)
-* [government legislation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2747.md)
-* [open government mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2748.md)
-
-## Risk affecting this stakeholder
-
-* [Supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_10.md)
-* [Inadequate governance and leadership](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1344.md)
-* [Insufficient testing data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1308.md)
-* [Image Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_87.md)
-* [Lack of comprehensive pandemic preparedness and response planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1026.md)
-* [Lack of research and development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1312.md)
-* [Insufficient healthcare infrastructure and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1166.md)
-* [Delayed infectious disease reporting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1240.md)
-* [Disinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1272.md)
-* [High healthcare costs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2042.md)
-* [Data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1752.md)
-* [Risk of rebound and resurgence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1310.md)
-* [Sickness benefit transfers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2043.md)
-* [Data overload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2088.md)
-* [Cybersecurity risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2087.md)
-* [Declining yields on treasury instruments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1978.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Government and Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_8.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Economic recovery](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_66.md)
@@ -70,6 +30,23 @@
 * [Prediction of infection rates](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1090.md)
 * [Prevention of economic shrinkage](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1401.md)
 * [Improved strategic management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1402.md)
+
+## Category to which it belongs
+
+* [All actors in the economic and political landscape, including policymakers, governments, and regulatory bodies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_357.md)
+
+## Closest similar item
+
+* [city governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_354.md)
+* [City governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2741.md)
+* [government policies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2742.md)
+* [government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_55.md)
+* [government programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2743.md)
+* [government support](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2744.md)
+* [government initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2745.md)
+* [government intervention](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2746.md)
+* [government legislation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2747.md)
+* [open government mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2748.md)
 
 ## Risks that can be mitigated by this stakeholder
 
@@ -243,4 +220,31 @@
 * [Loss of monitoring and research activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2175.md)
 * [Insufficient distance between people](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2250.md)
 * [Similar stability to SARS-CoV-1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2274.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Government and Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_8.md)
+
+## Risk affecting this stakeholder
+
+* [Supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_10.md)
+* [Inadequate governance and leadership](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1344.md)
+* [Insufficient testing data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1308.md)
+* [Image Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_87.md)
+* [Lack of comprehensive pandemic preparedness and response planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1026.md)
+* [Lack of research and development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1312.md)
+* [Insufficient healthcare infrastructure and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1166.md)
+* [Delayed infectious disease reporting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1240.md)
+* [Disinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1272.md)
+* [High healthcare costs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2042.md)
+* [Data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1752.md)
+* [Risk of rebound and resurgence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1310.md)
+* [Sickness benefit transfers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2043.md)
+* [Data overload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2088.md)
+* [Cybersecurity risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2087.md)
+* [Declining yields on treasury instruments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1978.md)
 

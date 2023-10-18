@@ -2,10 +2,9 @@
 
 # __PPE training__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
-* [Educational and Training Resources](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_39.md)
-* [Physical Health Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_59.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -20,12 +19,17 @@
 * [developing new ppe technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1630.md)
 * [PPE equipment and supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2595.md)
 
+## This Technology is identified by the following QID
+
+* [Q1333024](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1333024.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Educational and Training Resources](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_39.md)
+* [Physical Health Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_59.md)
+
 ## This Technology belongs to this TechGroup
 
 * [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
 * [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
-
-## This Technology is identified by the following QID
-
-* [Q1333024](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1333024.md)
 

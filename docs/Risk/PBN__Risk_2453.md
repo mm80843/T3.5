@@ -2,9 +2,9 @@
 
 # __Distribution__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Use of local suppliers and warehouse stock](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_132.md)
+* [The challenges and consequences of the global pandemic include poor acoustics, noise pollution, food security, increase in inequality, waste, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_131.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Efficient distribution of resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3371.md)
 * [Inequitable distribution of green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1041.md)
 * [High population density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_620.md)
+
+## Mitigations of this risk
+
+* [Use of local suppliers and warehouse stock](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_132.md)
 

@@ -2,9 +2,9 @@
 
 # __Good acoustic design, use of sound-absorbing materials, acoustic panels, and partitions.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Inadequate Acoustics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1124.md)
+* [Enhance acoustics and reduce noise through design, materials, insulation, regulations, and community engagement.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_350.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Improved sound](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1192.md)
 * [Design level adjustments on noise insulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_243.md)
 * [Implement measures to reduce bird noise such as bird deterrent devices or planting vegetation to create natural sound barriers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2178.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inadequate Acoustics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1124.md)
 

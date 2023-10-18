@@ -2,13 +2,13 @@
 
 # __officer assistance at project sites__
 
+## Category to which it belongs
+
+* [Government programs and initiatives provide support, training, and financial assistance for education, healthcare, employment, and overall well-being.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_210.md)
+
 ## Risks linked to this technology
 
 * [Management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1581.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Crowd Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_152.md)
 
 ## Closest similar item
 
@@ -23,11 +23,15 @@
 * [training resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3894.md)
 * [employee support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3532.md)
 
-## This Technology belongs to this TechGroup
-
-* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_17.md)
-
 ## This Technology is identified by the following QID
 
 * [Q33121724](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q33121724.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Crowd Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_152.md)
+
+## This Technology belongs to this TechGroup
+
+* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_17.md)
 

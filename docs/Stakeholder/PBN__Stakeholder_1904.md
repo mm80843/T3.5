@@ -2,9 +2,9 @@
 
 # __Oil companies__
 
-## This Stakeholder belongs to this StakeholderGroup
+## Category to which it belongs
 
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+* [These companies span a wide array of industries, including renewable energy, construction, pharmaceuticals, logistics, and technology.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_387.md)
 
 ## Closest similar item
 
@@ -18,6 +18,10 @@
 * [energy company](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2010.md)
 * [logistics companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_424.md)
 * [company](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1444.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 

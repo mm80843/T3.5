@@ -2,13 +2,9 @@
 
 # __Traveling Individuals__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [individuals traveling during a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2108.md)
-* [individual traveling during a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2126.md)
-* [individuals traveling from or to Wuhan](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2169.md)
-* [individuals traveling from Wuhan to other locations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2099.md)
-* [individual traveling from Wuhan to other location](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2229.md)
+* [Mobile individuals who belong to the field of welcoming guests, accommodating tourists, assisting migrants, transiting people](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_255.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Hospitality and Tourism](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_32.md)
 * [Individuals with Specific Conditions](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_86.md)
 * [Tourism Boards](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_6.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [individuals traveling during a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2108.md)
+* [individual traveling during a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2126.md)
+* [individuals traveling from or to Wuhan](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2169.md)
+* [individuals traveling from Wuhan to other locations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2099.md)
+* [individual traveling from Wuhan to other location](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2229.md)
 

@@ -2,9 +2,9 @@
 
 # __Limited availability of medication and vaccines for COVID-19__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Copper coating via cold-spray technique](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_69.md)
+* [The far-reaching consequences of COVID-19 include its transmission through various settings, impact on urban areas, and scarcity of resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Hospital-acquired COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_824.md)
 * [Lack of patient education for COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_821.md)
 * [Spread of Covid-19 in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_690.md)
+
+## Mitigations of this risk
+
+* [Copper coating via cold-spray technique](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_69.md)
 

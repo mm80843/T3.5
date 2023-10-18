@@ -2,9 +2,9 @@
 
 # __Limited healthcare access__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Improved healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1504.md)
+* [Restricted availability of various resources, services, and data creates inequalities and obstacles in accessing them.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_132.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Limited healthcare capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2034.md)
 * [Limited access to healthcare during the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_518.md)
 * [Lack of healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3194.md)
+
+## Mitigations of this risk
+
+* [Improved healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1504.md)
 

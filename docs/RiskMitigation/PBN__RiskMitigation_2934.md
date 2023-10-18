@@ -2,9 +2,9 @@
 
 # __Limiting the number of visitors, enforcing social distancing measures, and increasing sanitation efforts in UGS__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Increased risk of contagion in crowded UGS](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2255.md)
+* [Promotion and enforcement of physical separation measures to prevent the spread of disease.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_327.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Improve accessibility to UGS by creating inclusive infrastructure and providing transportation options.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2249.md)
 * [Implementing strict social distancing measures, promoting proper hygiene practices, and widespread testing and contact tracing.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2838.md)
 * [Increased sanitation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1418.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Increased risk of contagion in crowded UGS](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2255.md)
 

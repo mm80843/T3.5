@@ -2,10 +2,9 @@
 
 # __Zoonotic disease transmission__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Deforestation reduction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_579.md)
-* [Wildlife trade ban](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_580.md)
+* [The spread of diseases through various methods, including contact, droplets, and contaminated surfaces, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_137.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Transmission of disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2765.md)
 * [Transmission of the disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3308.md)
 * [Transmission of pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2509.md)
+
+## Mitigations of this risk
+
+* [Deforestation reduction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_579.md)
+* [Wildlife trade ban](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_580.md)
 

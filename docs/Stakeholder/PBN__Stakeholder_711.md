@@ -2,13 +2,13 @@
 
 # __homeless populations__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q29325697](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q29325697.md)
+* [A diverse array of groups and individuals, encompassing all segments of society and the natural world.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_363.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Transiency and Overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1183.md)
 
 ## Closest similar item
 
@@ -23,11 +23,15 @@
 * [low-income populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_110.md)
 * [Low-income populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2219.md)
 
-## Risk affecting this stakeholder
-
-* [Transiency and Overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1183.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Homeless Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_96.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q29325697](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q29325697.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 

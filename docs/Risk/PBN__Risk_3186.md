@@ -2,9 +2,9 @@
 
 # __Containment of infection cluster__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Rapid hard-lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1640.md)
+* [The dissemination of infectious diseases, characterized by outbreaks from various sources, inadequate preparedness, and insufficient reporting and understanding, poses a global threat.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_106.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [High complexity of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2922.md)
 * [Close contact with infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3025.md)
 * [Spread of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2408.md)
+
+## Mitigations of this risk
+
+* [Rapid hard-lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1640.md)
 

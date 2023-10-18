@@ -2,9 +2,9 @@
 
 # __lighting fixtures__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Lighting and daylighting optimization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_173.md)
+* [Innovative lighting solutions harnessing ultraviolet technology for optimal germicidal sterilization and energy efficiency, while maximizing natural light.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_235.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Natural lighting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2702.md)
 * [Advanced lighting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2226.md)
 * [advanced lighting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1844.md)
+
+## This Technology enables the following mitigations
+
+* [Lighting and daylighting optimization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_173.md)
 

@@ -2,9 +2,9 @@
 
 # __Install and maintain proper ventilation systems, ensure regular airflow and air exchange.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of proper ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1575.md)
+* [Enhance airflow, increase fresh air intake, and optimize ventilation systems to improve air quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_329.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Improve ventilation systems, increase airflow rates, use outdoor air ventilation, and consider the installation of air purifiers or filtration systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1591.md)
 * [Establish and maintain proper ventilation systems, increase airflow and air exchange rate](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2929.md)
 * [Improve ventilation systems, ensure regular maintenance and cleaning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1954.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of proper ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1575.md)
 

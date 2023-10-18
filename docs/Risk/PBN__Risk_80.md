@@ -2,9 +2,9 @@
 
 # __Uncertainty of maintaining intensive policies__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Continuation of effective measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_97.md)
+* [A list of challenges and uncertainties surrounding the impact and response to various events and crises in different sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_124.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Uncertainty](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2417.md)
 * [Uncertainty and changing demands in healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_442.md)
 * [High uncertainty in estimates and predictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1396.md)
+
+## Mitigations of this risk
+
+* [Continuation of effective measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_97.md)
 

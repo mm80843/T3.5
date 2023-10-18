@@ -2,9 +2,9 @@
 
 # __Production disruption__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Flexible manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1360.md)
+* [Supply chain disruptions and logistical challenges have caused global supply chains to be heavily impacted.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_99.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Disruption in material supply](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3210.md)
 * [Disruption in global supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2909.md)
 * [Disruptions in global supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_767.md)
+
+## Mitigations of this risk
+
+* [Flexible manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1360.md)
 

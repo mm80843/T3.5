@@ -2,9 +2,9 @@
 
 # __sellers__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Impact on real estate and housing sector](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1814.md)
+* [Property stakeholders ranging from investors, homeowners, and tenants to entrepreneurs and commercial space owners.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_7.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [supplier](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1895.md)
 * [suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_283.md)
 * [retailer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1897.md)
+
+## Risk affecting this stakeholder
+
+* [Impact on real estate and housing sector](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1814.md)
 

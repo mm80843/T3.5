@@ -2,9 +2,9 @@
 
 # __symptom monitoring__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Case-based measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_673.md)
+* [Enhanced diagnostic techniques and screening methods, including the development of rapid and reliable testing technologies and increased availability of diagnostic tools and kits.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_211.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3688.md)
 * [Rapid diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2780.md)
 * [rapid diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_612.md)
+
+## This Technology enables the following mitigations
+
+* [Case-based measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_673.md)
 

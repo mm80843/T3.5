@@ -2,9 +2,9 @@
 
 # __active case detection__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q2161551](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2161551.md)
+* [These resources aim to enhance security, convenience, and efficiency in managing access, spaces, and systems within various environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_206.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [advanced surveillance technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1533.md)
 * [Advanced surveillance technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2439.md)
 * [surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_0.md)
+
+## This Technology is identified by the following QID
+
+* [Q2161551](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2161551.md)
 

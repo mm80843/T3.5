@@ -2,9 +2,9 @@
 
 # __Contractual issues__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Force majeure clause](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_783.md)
+* [A compilation of topics including energy use, mechanisms, gender inequality, contractual issues, musculoskeletal disorders, and mental health among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_136.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Legal and regulatory](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2132.md)
 * [Ethical dilemmas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3185.md)
 * [Financial problems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_415.md)
+
+## Mitigations of this risk
+
+* [Force majeure clause](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_783.md)
 

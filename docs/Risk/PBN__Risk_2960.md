@@ -2,9 +2,9 @@
 
 # __Changing needs and capacities__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Adaptability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1211.md)
+* [Limited monitoring, technical limitations, language barriers, expensive optimization, lack of connection with nature, and limited sensor diversity hinder effective response and resource allocation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_107.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Limited resources and expertise](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3389.md)
 * [Increased demand, logistical challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3084.md)
 * [Limited capital and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2868.md)
+
+## Mitigations of this risk
+
+* [Adaptability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1211.md)
 

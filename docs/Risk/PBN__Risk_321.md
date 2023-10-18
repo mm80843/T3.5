@@ -2,9 +2,9 @@
 
 # __Lack of patient control over medical data__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Patient-controlled access to medical records](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_400.md)
+* [Healthcare systems overwhelmed with limited resources, shortage of personnel, and inadequate infrastructure face challenges in providing accessible and quality care.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_101.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of data for pandemic management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_876.md)
 * [Inadequate patient monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_465.md)
 * [Lack of digital health infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1985.md)
+
+## Mitigations of this risk
+
+* [Patient-controlled access to medical records](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_400.md)
 

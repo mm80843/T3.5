@@ -2,9 +2,9 @@
 
 # __triage protocols__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q780067](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q780067.md)
+* [Enhanced connectivity and diverse communication platforms enable the dissemination of reliable information and promote open communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_225.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [cybersecurity protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_579.md)
 * [reliable communication protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_327.md)
 * [Reliable communication protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2860.md)
+
+## This Technology is identified by the following QID
+
+* [Q780067](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q780067.md)
 

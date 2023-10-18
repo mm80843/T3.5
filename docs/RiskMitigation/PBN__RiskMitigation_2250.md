@@ -2,9 +2,9 @@
 
 # __Promote the creation of temporary UGS in underutilized urban spaces to meet the increased demand during pandemics.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of UGS during pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1692.md)
+* [Promote equitable, sustainable, and inclusive urban planning to enhance living conditions, mitigate overcrowding, and reduce disparities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_324.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Deploy viral testing for healthcare staff, ensure availability of protective equipment and medical supplies, increase investment in disease prevention infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2396.md)
 * [Including health considerations in public space design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1256.md)
 * [Develop comprehensive pandemic preparedness plans and invest in healthcare infrastructure; conduct regular simulations and training exercises](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2695.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of UGS during pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1692.md)
 

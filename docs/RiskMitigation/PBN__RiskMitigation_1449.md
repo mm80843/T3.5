@@ -2,9 +2,9 @@
 
 # __Improve crisis management strategies, increase transparency and accountability, strengthen communication__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Political mismanagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1018.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Enhance core capacities, improve risk communication, engage communities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1609.md)
 * [Improving transparency and communication, providing accurate and timely information, addressing concerns and misinformation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2102.md)
 * [Implement communication campaigns, provide clear instructions and guidelines, and promote public awareness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2263.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Political mismanagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1018.md)
 

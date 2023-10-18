@@ -2,9 +2,9 @@
 
 # __such as video conferencing software__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Remote working](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_950.md)
+* [A list of diverse software tools, including financial management, construction technology, project management, communication, and monitoring software.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_219.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [video conferencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_406.md)
 * [video conferencing)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3800.md)
 * [videoconferencing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4008.md)
+
+## This Technology enables the following mitigations
+
+* [Remote working](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_950.md)
 

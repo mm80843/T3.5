@@ -2,9 +2,9 @@
 
 # __air exhaustion__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Control the airflows in micro spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2131.md)
+* [Improved air quality can be achieved through the use of various technologies such as air purifiers and monitoring systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_221.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [outdoor air circulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1164.md)
 * [air conditioning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3666.md)
 * [stress management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1284.md)
+
+## This Technology enables the following mitigations
+
+* [Control the airflows in micro spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2131.md)
 

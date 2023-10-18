@@ -2,9 +2,9 @@
 
 # __Lack of coordinated global governance__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Multi-scalar governance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_61.md)
+* [Fragmented global governance, reduced aid, ethical concerns, educational disruption, impacts on peace and justice, and inadequate coordination between stakeholders.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_115.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Governance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1099.md)
 * [Lack of urban governance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1024.md)
 * [Lack of comprehensive and coordinated climate action](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3325.md)
+
+## Mitigations of this risk
+
+* [Multi-scalar governance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_61.md)
 

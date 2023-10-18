@@ -2,9 +2,9 @@
 
 # __Geographical Areas__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [rural areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_879.md)
+* [Areas and the concentration of people living in them.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_281.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Population Density and Urbanization](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_100.md)
 * [Manufacturing and Industry](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_62.md)
 * [Community Associations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_137.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [rural areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_879.md)
 

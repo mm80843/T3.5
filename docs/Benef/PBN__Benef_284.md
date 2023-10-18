@@ -2,19 +2,19 @@
 
 # __Increased safety and reduced transmission risk__
 
+## Name of the Benefit
+
+Retrofitting buildings with pandemic-ready features minimizes transmission risk and allows for effective self-isolation, providing peace of mind to occupants.
+
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investing in retrofitting improves the safety and functionality of existing buildings, potentially increasing their value and market appeal.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_297.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [occupants of retrofitted buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_142.md)
 
 ## Articles mentionning this Benefit
 
 * [RESIDENTIAL ARCHITECTURE IN A POST-PANDEMIC WORLD: IMPLICATIONS OF COVID-19 FOR NEW CONSTRUCTION AND FOR ADAPTING HERITAGE BUILDINGS](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_56.md)
 
-## Name of the Benefit
+## Stakeholders benefitting from this Benefit
 
-Retrofitting buildings with pandemic-ready features minimizes transmission risk and allows for effective self-isolation, providing peace of mind to occupants.
+* [occupants of retrofitted buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_142.md)
 

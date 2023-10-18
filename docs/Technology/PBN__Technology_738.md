@@ -2,9 +2,9 @@
 
 # __remote working tools__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1135326](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1135326.md)
+* [Technologies and tools used for working, monitoring, communicating, and assessing remotely, including remote healthcare and education technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_215.md)
 
 ## Risks linked to this technology
 
@@ -23,4 +23,8 @@
 * [remote work technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_134.md)
 * [remote working](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_718.md)
 * [remote consultation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1424.md)
+
+## This Technology is identified by the following QID
+
+* [Q1135326](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1135326.md)
 

@@ -2,9 +2,9 @@
 
 # __Trainees involve attending surgeon in final patient counseling to ensure comprehensive care and rapport.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Patient Rapport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1266.md)
+* [Enhancing healthcare infrastructure, increasing capacity, and ensuring access to medical resources and services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_330.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Establish virtual clinics for remote consultations and utilize telemedicine and e-learning platforms.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2857.md)
 * [Task-shifting UBPI interventions to non-clinical staff or students, providing training and support for these individuals.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2921.md)
 * [Provide counseling services, emphasize mental health support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2810.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Patient Rapport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1266.md)
 

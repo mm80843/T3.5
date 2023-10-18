@@ -2,9 +2,9 @@
 
 # __Influence of human activities and uses on microbial community structure__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Designing spaces with diverse human occupancy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_250.md)
+* [The widespread presence and transfer of harmful pathogens and contaminants on various surfaces and environments pose serious risks to public health and the ecosystem.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_100.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Airborne transmission of infectious microorganisms indoors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_336.md)
 * [Accumulation of dirt, dust, and microbial growth in HVAC system components](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3060.md)
 * [Spread of infections and diseases in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1010.md)
+
+## Mitigations of this risk
+
+* [Designing spaces with diverse human occupancy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_250.md)
 

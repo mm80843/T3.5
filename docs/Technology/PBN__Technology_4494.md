@@ -2,9 +2,9 @@
 
 # __social robot technology__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Social robots for continued social interactions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2425.md)
+* [Technological advancements encompass a wide range of innovations, such as blockchain, touchless, renewable energy, and communication technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [ai technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3771.md)
 * [AI technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2044.md)
 * [medical robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4090.md)
+
+## This Technology enables the following mitigations
+
+* [Social robots for continued social interactions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2425.md)
 

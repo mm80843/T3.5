@@ -2,9 +2,9 @@
 
 # __------------------------------------------------__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [--------------------------------](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1577.md)
+* [Entities and individuals who interact with or are affected by a system, organization, or public facility.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_1.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Minority group](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2208.md)
 * [temporary migrants)](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_258.md)
 * [eu](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_318.md)
+
+## Risk affecting this stakeholder
+
+* [--------------------------------](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1577.md)
 

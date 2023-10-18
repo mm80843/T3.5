@@ -2,9 +2,9 @@
 
 # __Emphasize the immediate consequences of climate change and connect it to extreme weather events.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of immediate threat perception](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1401.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement proactive measures to control outbreak spread and minimize economic disruptions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1511.md)
 * [Monitoring changes in environmental and climatic conditions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1018.md)
 * [Implement measures to mitigate climate change and reduce mosquito breeding sites.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2624.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of immediate threat perception](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1401.md)
 

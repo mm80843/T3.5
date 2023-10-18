@@ -2,9 +2,9 @@
 
 # __of different human coronaviruses__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [associated](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2323.md)
+* [Implement comprehensive strategies to control virus transmission, improve surveillance, develop antiviral coatings, and enhance infection control measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_309.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Characterization of UV susceptibility of viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_449.md)
 * [Conduct comprehensive phylogenetic analysis to identify the original host animal of SARS-CoV-2.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3060.md)
 * [Identify missing information and develop logical relations linking drugs, coronaviruses, and conditions for drug efficacy.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1966.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [associated](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2323.md)
 

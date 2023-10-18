@@ -2,9 +2,9 @@
 
 # __Identify and address new customer needs, pivot business strategies.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Shift in customer needs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1601.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Develop and implement business continuity plans that identify potential risks and outline response strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2899.md)
 * [Provide financial support to affected businesses, encourage e-commerce and online sales, promote local shopping.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2907.md)
 * [Simplify supply chain structures, build collaborative relationships, enhance communication and coordination among stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2346.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Shift in customer needs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1601.md)
 

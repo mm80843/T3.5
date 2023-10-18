@@ -2,13 +2,9 @@
 
 # __Characterization of UV susceptibility of viral aerosols__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [UV susceptibility of viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_338.md)
-
-## Property: has_MitigationBenefit
-
-* [Understanding UV susceptibility of viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_434.md)
+* [Utilize UVGI technology to disinfect air, surfaces, and clothing, ensuring proper installation, training, and research to optimize effectiveness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_352.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Use of sterile glass coverslips for virus testing and UV-C exposure. Strict adherence to containment protocols.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1620.md)
 * [Conduct research to determine the Z values of different viral species and adjust the upper-room UVGI system accordingly](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1628.md)
 * [Adequate ventilation to dilute the virus-carrying droplets](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2804.md)
+
+## Property: has_MitigationBenefit
+
+* [Understanding UV susceptibility of viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_434.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [UV susceptibility of viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_338.md)
 

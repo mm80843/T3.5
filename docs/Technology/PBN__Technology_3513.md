@@ -2,10 +2,9 @@
 
 # __laboratory facilities__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_882.md)
-* [Extensive testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1791.md)
+* [Advancements in biotechnology, clinical research, and innovative therapies contribute to the development of medical solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Advanced laboratory testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2777.md)
 * [medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2901.md)
 * [access to testing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1997.md)
+
+## This Technology enables the following mitigations
+
+* [Testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_882.md)
+* [Extensive testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1791.md)
 

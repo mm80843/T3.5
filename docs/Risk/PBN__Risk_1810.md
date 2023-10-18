@@ -2,25 +2,9 @@
 
 # __Decline in manufacturing industry__
 
-## Property: has_RiskHealth
+## Category to which it belongs
 
-* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_3.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Description of the risk
-
-Anticipated decline in turnover and negative impact on business operations due to disruption to supply chains and staffing deficiencies
-
-## Property: has_RiskType
-
-* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_3.md)
-
-## Articles mentionning the risk
-
-* [The socio-economic implications of the coronavirus pandemic (COVID-19): A review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_135.md)
+* [The ramifications of global connectivity include economic instability, impacts of the pandemic, unemployment, poverty, reduced tourism revenue, and decline in public budgets.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_103.md)
 
 ## Closest similar item
 
@@ -35,32 +19,52 @@ Anticipated decline in turnover and negative impact on business operations due t
 * [Loss of productivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3134.md)
 * [Loss of cultural and creative industries](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2233.md)
 
-## People affected by this risk
+## Description of the risk
 
-* [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
-* [manufacturing companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1152.md)
+Anticipated decline in turnover and negative impact on business operations due to disruption to supply chains and staffing deficiencies
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Property: has_RiskHealth
+
+* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_3.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_8.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Attractiveness](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_9.md)
+
+## Mitigations of this risk
+
+* [Provide relief measures and financial support to manufacturing businesses, explore alternative supply chains](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2394.md)
+
+## Name of the risk
+
+Reduction in global production, slowdown in predicted growth
 
 ## Stakeholders who can mitigate this risk
 
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 * [manufacturing industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1215.md)
 
-## Name of the risk
+## Articles mentionning the risk
 
-Reduction in global production, slowdown in predicted growth
+* [The socio-economic implications of the coronavirus pandemic (COVID-19): A review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_135.md)
 
-## Mitigations of this risk
+## People affected by this risk
 
-* [Provide relief measures and financial support to manufacturing businesses, explore alternative supply chains](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2394.md)
-
-## Property: has_RiskISO_Purpose
-
-* [Attractiveness](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_9.md)
+* [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
+* [manufacturing companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1152.md)
 
 ## Technologies linked to the risk
 
+
+## Property: has_RiskType
+
+* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_3.md)
 

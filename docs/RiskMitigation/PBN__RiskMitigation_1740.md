@@ -2,9 +2,9 @@
 
 # __Develop non-centralized building systems, utilize air purifiers and air quality monitoring systems__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [New opportunities for non-centralized building systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_250.md)
+* [Optimize indoor environments, regulate temperature and humidity, control air quality, and extend HVAC system operations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_341.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Improving ventilation systems, increasing airflow, using air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2021.md)
 * [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1029.md)
 * [Improvement of air quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1294.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [New opportunities for non-centralized building systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_250.md)
 

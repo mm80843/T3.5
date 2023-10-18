@@ -2,8 +2,9 @@
 
 # __Controlling source__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Maximizing control and efficiency in various domains through advanced technology and strategic planning.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_163.md)
 
 ## Closest similar item
 
@@ -18,14 +19,17 @@
 * [Central control of medical countermeasures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_995.md)
 * [Temperature Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_936.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Controlling the source of indoor air pollution to prevent the release of harmful pollutants
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Characterization and performance evaluation of a full-scale activated carbon-based dynamic botanical air filtration system for improving indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_71.md)
+
+## This Mitigation is enabled by the following technologies
+
 

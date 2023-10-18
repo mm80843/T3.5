@@ -2,9 +2,9 @@
 
 # __COVIDsafe app__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [mobile app](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3748.md)
+* [Enabling technology and tools for connectivity, privacy, convenience, and efficient communication in a digital age.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_156.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Health monitoring platform](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2370.md)
 * [COVID-19 crisis management plan](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_797.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_47.md)
-
 ## Property: has_MitigationPrinciple
 
 A contact tracing app in Australia that helps trace contact links with COVID-19 patients, aiding in the identification of potential contacts and alerting them for quarantine or testing.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_47.md)
+
 ## Property: has_MitigationSource
 
 * [Mobile Technology Solution for COVID-19: Surveillance and Prevention](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_239.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [mobile app](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3748.md)
 

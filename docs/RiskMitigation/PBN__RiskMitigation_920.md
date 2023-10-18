@@ -2,13 +2,9 @@
 
 # __Development of robust antiviral coatings__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of long-lasting antimicrobial coatings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_656.md)
-
-## Property: has_MitigationBenefit
-
-* [Prolonged antimicrobial activity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_920.md)
+* [Implement comprehensive strategies to control virus transmission, improve surveillance, develop antiviral coatings, and enhance infection control measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_309.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Development of continuously active antimicrobial coatings and self-disinfecting surfaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2035.md)
 * [Research and development of antiviral technologies that are effective against a wider range of viruses.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2038.md)
 * [Development of more advanced self-disinfecting surface technologies with enhanced antiviral action.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2037.md)
+
+## Property: has_MitigationBenefit
+
+* [Prolonged antimicrobial activity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_920.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of long-lasting antimicrobial coatings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_656.md)
 

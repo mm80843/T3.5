@@ -2,9 +2,9 @@
 
 # __people in spaces with poor air circulation and distribution__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Insufficient air circulation and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1779.md)
+* [Individuals in poorly ventilated indoor environments, especially those in enclosed spaces with limited air flow, such as offices, homes, and buildings with inadequate air filtration, are at risk of exposure to poor indoor air quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_398.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [individuals in indoor settings with poor ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_795.md)
 * [occupants of crowded and poorly ventilated buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1201.md)
 * [Occupants of crowded and poorly ventilated buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2595.md)
+
+## Risk affecting this stakeholder
+
+* [Insufficient air circulation and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1779.md)
 

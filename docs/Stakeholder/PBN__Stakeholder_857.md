@@ -2,9 +2,9 @@
 
 # __men in south africa__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [High HIV prevalence in men](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1346.md)
+* [A diverse range of individuals, including citizens, pedestrians, people with disabilities, and those in crowded environments, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_368.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [males and females](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1422.md)
 * [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
 * [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2539.md)
+
+## Risk affecting this stakeholder
+
+* [High HIV prevalence in men](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1346.md)
 

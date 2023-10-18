@@ -2,12 +2,9 @@
 
 # __Population Density and Urbanization__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [especially in low-income countries](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1066.md)
-* [especially those living in densely populated area with limited acces to natural environment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2273.md)
-* [Particularly those in densely populated area or shared living space](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2245.md)
-* [especially in densely populated area](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2255.md)
+* [Areas and the concentration of people living in them.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_281.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [Geographical Areas](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_118.md)
 * [Migrants and Minorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_111.md)
 * [Commuters/Cyclists](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_144.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [especially in low-income countries](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1066.md)
+* [especially those living in densely populated area with limited acces to natural environment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2273.md)
+* [Particularly those in densely populated area or shared living space](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2245.md)
+* [especially in densely populated area](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2255.md)
 

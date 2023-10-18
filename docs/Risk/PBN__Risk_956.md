@@ -2,9 +2,9 @@
 
 # __Poor natural ventilation and thermal comfort at home__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Natural ventilation and operable windows](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1337.md)
+* [Limited physical/social distancing, thermal discomfort, poor lighting, and inadequate air quality negatively impact personal comfort.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_130.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inadequate Ventilation in Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1442.md)
 * [Poor ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1426.md)
 * [Poor Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2668.md)
+
+## Mitigations of this risk
+
+* [Natural ventilation and operable windows](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1337.md)
 

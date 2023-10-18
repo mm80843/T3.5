@@ -2,9 +2,9 @@
 
 # __Sample transfer__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Autonomous drones/ground vehicles for sample transfer](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2424.md)
+* [The spread of diseases through various methods, including contact, droplets, and contaminated surfaces, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_137.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Challenges with data capture](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_722.md)
 * [Lack of qualified staff for sample collection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_74.md)
 * [Safety of laboratory personnel and environment during sample handling and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1628.md)
+
+## Mitigations of this risk
+
+* [Autonomous drones/ground vehicles for sample transfer](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2424.md)
 

@@ -2,9 +2,9 @@
 
 # __including residents__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Influenza virus survival](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1704.md)
+* [The community, including residents, educators, healthcare institutions, and government research institutions, is involved in education and healthcare.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_377.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [residents of neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_39.md)
 * [residents of urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1227.md)
 * [residents and visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2507.md)
+
+## Risk affecting this stakeholder
+
+* [Influenza virus survival](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1704.md)
 

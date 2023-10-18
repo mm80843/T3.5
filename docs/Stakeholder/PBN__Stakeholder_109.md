@@ -6,6 +6,10 @@
 
 * [Enhanced benefits from green space](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_189.md)
 
+## Category to which it belongs
+
+* [Individuals and communities experiencing socioeconomic disparities, economic hardship, housing instability, and social disadvantage.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_393.md)
+
 ## Closest similar item
 
 * [low-income communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_27.md)

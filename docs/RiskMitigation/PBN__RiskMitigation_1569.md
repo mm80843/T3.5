@@ -2,9 +2,9 @@
 
 # __Regular maintenance and cleaning of ventilation systems, use of air purifiers and filters, proper ventilation design.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Poor Indoor Air Quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1121.md)
+* [Enhance airflow, increase fresh air intake, and optimize ventilation systems to improve air quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_329.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Control sources, design ventilation systems, clean air.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2997.md)
 * [Implement proper ventilation systems in buildings, maintain good airflow and air exchange rates.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2640.md)
 * [Improve building ventilation systems and air circulation, ensure proper maintenance of HVAC systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2549.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Poor Indoor Air Quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1121.md)
 

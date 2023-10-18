@@ -2,10 +2,9 @@
 
 # __video conferencing)__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_147.md)
-* [Work from home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1333.md)
+* [Enhanced monitoring and surveillance technologies enable real-time tracking, video conferencing, and improved detection methods.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_214.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [video conferencing and collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_811.md)
 * [such as video conferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3559.md)
 * [videoconferencing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4008.md)
+
+## This Technology enables the following mitigations
+
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_147.md)
+* [Work from home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1333.md)
 

@@ -2,9 +2,9 @@
 
 # __Develop wearable devices that are biocompatible, energy efficient, compliant, and compact without compromising performance__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Reliability and robustness of wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1114.md)
+* [Monitoring, analysis, and standardization of various technologies and protocols for accurate and reliable healthcare data collection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_310.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Collecting data on resting heart rate and sleep duration from wearables](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_944.md)
 * [Combining telemedicine with wearable technology for remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_952.md)
 * [Implement robust data security measures, ethical guidelines, and regulatory frameworks for collecting and utilizing wearable device data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1563.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Reliability and robustness of wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1114.md)
 

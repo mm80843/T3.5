@@ -2,9 +2,9 @@
 
 # __clinical assessment__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Evaluation of symptoms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1626.md)
+* [Enhanced diagnostic techniques and screening methods, including the development of rapid and reliable testing technologies and increased availability of diagnostic tools and kits.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_211.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [including confirmation with clinical testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1360.md)
 * [regular physical examination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3784.md)
 * [Rapid diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2780.md)
+
+## This Technology enables the following mitigations
+
+* [Evaluation of symptoms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1626.md)
 

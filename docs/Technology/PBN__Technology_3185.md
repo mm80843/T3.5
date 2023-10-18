@@ -2,9 +2,9 @@
 
 # __video conference technology__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Video Conference Platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_359.md)
+* [Technological advancements encompass a wide range of innovations, such as blockchain, touchless, renewable energy, and communication technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Video conferencing tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2140.md)
 * [video conferencing)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3800.md)
 * [video conferencing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_421.md)
+
+## This Technology enables the following mitigations
+
+* [Video Conference Platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_359.md)
 

@@ -2,9 +2,9 @@
 
 # __manufacturing and supply chain of ppe__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1824206](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1824206.md)
+* [Efficiently manage and optimize the flow of goods, data, and suppliers for resilient local supply chains.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_191.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [ppe](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1463.md)
 * [PPE training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2254.md)
 * [proper training on ppe usage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_511.md)
+
+## This Technology is identified by the following QID
+
+* [Q1824206](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1824206.md)
 

@@ -2,9 +2,9 @@
 
 # __Use of robot-controlled noncontact UV surface disinfection for fast and effective disinfection.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Contamination of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1332.md)
+* [Implement rigorous cleaning and disinfection measures, including the use of antimicrobial materials and advanced technologies, to maintain a safe and hygienic environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_2.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Surfacide multiple-emitter automated UV-C disinfection system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1292.md)
 * [Self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1189.md)
 * [Provide appropriate training on the use of UV-C disinfection system and personal protective equipment for staff.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1623.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Contamination of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1332.md)
 

@@ -2,8 +2,9 @@
 
 # __Home exercise programs__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Promoting exercise and physical activity through various strategies, monitoring, guidelines, programs, and adaptations, while considering barriers and analyzing movement patterns.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_159.md)
 
 ## Closest similar item
 
@@ -18,14 +19,17 @@
 * [Comparative research on exercise behaviors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_80.md)
 * [Exercises and Trainings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2188.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Implementing home-based exercise programs, such as yoga and aerobics, as non-pharmacological interventions to improve mental well-being, emotional health, and overall quality of life during the pandemic.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Mental Health and the Role of Physical Activity During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_242.md)
+
+## This Mitigation is enabled by the following technologies
+
 

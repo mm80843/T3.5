@@ -2,9 +2,9 @@
 
 # __Health harming behaviours__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Public health policies and regulations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_8.md)
+* [The toll of mental health harms, health harming behaviors, and the psychological impact of quarantine, fear, and anxiety has increased, affecting various populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_95.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Human health risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3013.md)
 * [Health risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2014.md)
 * [Harms in the neighbourhood](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2709.md)
+
+## Mitigations of this risk
+
+* [Public health policies and regulations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_8.md)
 

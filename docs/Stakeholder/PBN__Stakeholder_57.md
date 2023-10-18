@@ -2,9 +2,9 @@
 
 # __private sector__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q591763](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q591763.md)
+* [All actors in the economic and political landscape, including policymakers, governments, and regulatory bodies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_357.md)
 
 ## Closest similar item
 
@@ -32,4 +32,8 @@
 * [Insufficient healthcare capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1025.md)
 * [Insufficient funding for green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1044.md)
 * [Reliance on global supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1995.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q591763](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q591763.md)
 

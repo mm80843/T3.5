@@ -2,9 +2,9 @@
 
 # __Health surveillance__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Monitoring for health indicators](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2361.md)
+* [The intersection of human activity and health, integrating databases, limited healthcare access, sedentary lifestyles, neglecting public health requirements, and disparities in urban design contribute to public health concerns.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_116.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inadequate surveillance measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1513.md)
 * [Inadequate surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2052.md)
 * [Surveillance and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_877.md)
+
+## Mitigations of this risk
+
+* [Monitoring for health indicators](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2361.md)
 

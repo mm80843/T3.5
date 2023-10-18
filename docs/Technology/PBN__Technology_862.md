@@ -2,9 +2,9 @@
 
 # __increased government funding__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q63974733](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q63974733.md)
+* [Maximizing economic efficiency while promoting financial stability through innovative strategies, investments, and partnerships at various levels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_195.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [healthcare funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1854.md)
 * [government initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1642.md)
 * [research funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3519.md)
+
+## This Technology is identified by the following QID
+
+* [Q63974733](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q63974733.md)
 

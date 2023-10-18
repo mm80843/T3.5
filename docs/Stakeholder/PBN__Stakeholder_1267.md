@@ -2,9 +2,9 @@
 
 # __agricultural agencies__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Food insecurity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1876.md)
+* [Government and non-governmental organizations responsible for a wide range of services, including health, development, regulation, and emergency response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_382.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [funding agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_996.md)
 * [funding agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2021.md)
 * [environmental agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2675.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Food insecurity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1876.md)
 

@@ -2,9 +2,9 @@
 
 # __Improve performance and scalability of model-based solutions__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Scalability and performance limitations of model-based solutions for pandemic data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1046.md)
+* [Advancements in bioinformatics, divestment, automated sample collection, and artificial intelligence are facilitating early disease detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_336.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [and models](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1241.md)
 * [Mathematical models](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_841.md)
 * [Optimized physical space modeling](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_913.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Scalability and performance limitations of model-based solutions for pandemic data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1046.md)
 

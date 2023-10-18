@@ -2,9 +2,9 @@
 
 # __Provide mental health support services, financial assistance programs, and social support networks__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Loss of family or friends and economic well-being due to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1717.md)
+* [Promote mental well-being through access to resources, support services, and strategies for coping with stress.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_313.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Promote access to mental health services, increase social support networks.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1941.md)
 * [Providing emotional support, counseling services, and resources to address mental health needs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1988.md)
 * [Access to mental health services, social support networks, and online therapies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1757.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Loss of family or friends and economic well-being due to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1717.md)
 

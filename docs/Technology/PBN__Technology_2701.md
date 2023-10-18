@@ -2,8 +2,9 @@
 
 # __Ventilation Systems__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
+* [Improved ventilation and air purification methods are implemented, incorporating natural and mechanical systems, upgraded technologies, regular maintenance, and smart controls.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_200.md)
 
 ## Closest similar item
 
@@ -21,4 +22,7 @@
 ## This Technology belongs to this TechGroup
 
 * [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_13.md)
+
+## This Technology belongs to this TechSubgroup
+
 

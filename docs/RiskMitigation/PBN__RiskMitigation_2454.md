@@ -2,9 +2,9 @@
 
 # __Clearly defining force majeure clauses, renegotiating contracts, alternative dispute resolution methods.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Legal and contractual disputes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1865.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Standardized protocols and governance structures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_68.md)
 * [Revise contracts to include virus outbreak as force majeure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2112.md)
 * [Enforce data sharing requirements, incentivize data sharing, improve legal and regulatory frameworks.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1832.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Legal and contractual disputes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1865.md)
 

@@ -2,13 +2,9 @@
 
 # __Containment spaces in hospitals and healthcare facilities__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
-
-## Property: has_MitigationBenefit
-
-* [Conversion to infection and isolation wards](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_755.md)
+* [Enhancing healthcare infrastructure, increasing capacity, and ensuring access to medical resources and services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_330.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Equipping hospitals and infection control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_471.md)
 * [Implementation of regional containment measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_166.md)
 * [Improved design of quarantine facilities, separate air cycles for communal and private spaces, enhanced ventilation, and strict protocols.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2773.md)
+
+## Property: has_MitigationBenefit
+
+* [Conversion to infection and isolation wards](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_755.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
 

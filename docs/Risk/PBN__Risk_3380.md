@@ -2,9 +2,9 @@
 
 # __Reduced human contact__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2.md)
+* [The ramifications of social distancing include inconsistent recommendations, increased violence, changes in social practices, and lack of interaction, among other social issues.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_96.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Reduced social interaction due to social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_853.md)
 * [Increased physical contact between occupants increases virus transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_605.md)
 * [Close contact with infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3025.md)
+
+## Mitigations of this risk
+
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2.md)
 

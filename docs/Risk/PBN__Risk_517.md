@@ -2,9 +2,9 @@
 
 # __Vulnerable populations facing poverty and hunger__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Establishing social welfare services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_724.md)
+* [The ramifications of global connectivity include economic instability, impacts of the pandemic, unemployment, poverty, reduced tourism revenue, and decline in public budgets.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_103.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Economic impacts on vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_448.md)
 * [Epidemiological Vulnerability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2348.md)
 * [Poor sanitation areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2939.md)
+
+## Mitigations of this risk
+
+* [Establishing social welfare services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_724.md)
 

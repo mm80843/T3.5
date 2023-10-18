@@ -2,9 +2,9 @@
 
 # __Lack of understanding of factors influencing building energy use__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Conduct comprehensive energy consumption breakdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1372.md)
+* [Issues related to energy use, including increased consumption, inefficient usage, and lack of understanding, have various implications in different settings and sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_133.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Energy Consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1768.md)
 * [Energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_745.md)
 * [Environmental factors in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_873.md)
+
+## Mitigations of this risk
+
+* [Conduct comprehensive energy consumption breakdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1372.md)
 

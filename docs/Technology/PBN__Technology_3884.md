@@ -2,9 +2,9 @@
 
 # __online gaming platforms__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Virtual Gaming](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1458.md)
+* [Digital platforms and online resources facilitate collaboration, communication, and information sharing among individuals and organizations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_193.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [online social platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1404.md)
 * [online fitness platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_408.md)
 * [online food platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1220.md)
+
+## This Technology enables the following mitigations
+
+* [Virtual Gaming](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1458.md)
 

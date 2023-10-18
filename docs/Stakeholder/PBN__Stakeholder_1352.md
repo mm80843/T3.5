@@ -2,13 +2,13 @@
 
 # __workers affected by restructuring__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q1376796](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1376796.md)
+* [Employees across various industries, including laboratories, maintenance personnel, cleaning staff, and workers in the informal sector.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_359.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
+* [Jobless recovery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2013.md)
 
 ## Closest similar item
 
@@ -23,10 +23,14 @@
 * [individuals and households facing job loss or economic instability](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1341.md)
 * [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
 
-## Risk affecting this stakeholder
-
-* [Jobless recovery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2013.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
+
+## This Stakeholder is identified by the following QID
+
+* [Q1376796](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1376796.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
 

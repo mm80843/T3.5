@@ -2,13 +2,9 @@
 
 # __Improve central air filters__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [SARS-CoV-2 transmission in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_152.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduced transmission through recirculated air](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_203.md)
+* [Enhancing air quality through effective air filtration, ventilation, and pollution reduction strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_338.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Improving ventilation systems, increasing fresh air intake, using air purifiers and filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1466.md)
 * [Install high-efficiency filters in HVAC systems, regularly clean and replace filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1643.md)
 * [Use of portable air filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_774.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced transmission through recirculated air](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_203.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [SARS-CoV-2 transmission in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_152.md)
 

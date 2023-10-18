@@ -2,9 +2,9 @@
 
 # __Social media use increases panic and anxiety related to COVID-19__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Best practices for information sharing on social media](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_909.md)
+* [The far-reaching consequences of COVID-19 include its transmission through various settings, impact on urban areas, and scarcity of resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Emotional distress and psychiatric illness associated with Covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_590.md)
 * [Increased anxiety/panic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3278.md)
 * [Loneliness during COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_664.md)
+
+## Mitigations of this risk
+
+* [Best practices for information sharing on social media](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_909.md)
 

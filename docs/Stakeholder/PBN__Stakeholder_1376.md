@@ -2,10 +2,9 @@
 
 # __local health authorities__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Shift in transmission range of diseases, hosts, and vectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2050.md)
-* [Introduction of new disease vectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2049.md)
+* [Public health stakeholders and individuals alike are concerned about health, seeking information and guidance from trusted sources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_354.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [health authority](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1846.md)
 * [Health authority](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1853.md)
 * [local authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_625.md)
+
+## Risk affecting this stakeholder
+
+* [Shift in transmission range of diseases, hosts, and vectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2050.md)
+* [Introduction of new disease vectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2049.md)
 

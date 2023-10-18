@@ -2,9 +2,9 @@
 
 # __people in buildings with modified internal conditions__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Heat stress due to modified internal conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2295.md)
+* [Individuals residing or working within various types of buildings, including residential, commercial, and healthcare facilities, as well as those in inadequately designed or poorly ventilated spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_391.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Occupants of buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2567.md)
 * [occupants in the building](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_165.md)
 * [occupants of residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1489.md)
+
+## Risk affecting this stakeholder
+
+* [Heat stress due to modified internal conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2295.md)
 

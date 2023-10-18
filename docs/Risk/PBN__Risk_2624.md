@@ -2,9 +2,9 @@
 
 # __Non-standardized data collection, data sharing barriers__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Real-world evidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_561.md)
+* [The challenges include disintegrated and non-interoperable data, limited data access, data quality issues, and lack of standardized data sharing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_111.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of data standardization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1942.md)
 * [Lack of interoperable data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2723.md)
 * [Data collection and analysis limitations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_260.md)
+
+## Mitigations of this risk
+
+* [Real-world evidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_561.md)
 

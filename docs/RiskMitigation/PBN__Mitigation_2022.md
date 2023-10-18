@@ -2,11 +2,9 @@
 
 # __AI/ML/DL__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_358.md)
-* [machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3004.md)
-* [deep learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1715.md)
+* [Enhancing safety and efficiency through comprehensive measures, technology integration, diverse environments, and behavioral adjustments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_157.md)
 
 ## Closest similar item
 
@@ -21,14 +19,20 @@
 * [AI algorithms for initial screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2114.md)
 * [Machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_331.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 AI/ML/DL algorithms can assist in predicting infection rates, diagnosing diseases, and developing drugs and vaccines.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [The role of contemporary digital tools and technologies in COVID19 crisis: An exploratory analysis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_226.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_358.md)
+* [machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3004.md)
+* [deep learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1715.md)
 

@@ -2,10 +2,9 @@
 
 # __Work from home__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [communication technology (e.g. internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3799.md)
-* [video conferencing)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3800.md)
+* [Embracing flexible work arrangements, such as remote work and staggered schedules, to enhance productivity and adapt to digital transformation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_171.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Remote work/telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1551.md)
 * [Telecommuting/remote work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1011.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Transmission among colleagues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3027.md)
-
 ## Property: has_MitigationPrinciple
 
 To minimize the interaction and physical contact between employees in the workplace by allowing them to work remotely
 
+## Risks possibly mitigated by this Mitigation
+
+* [Transmission among colleagues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3027.md)
+
 ## Property: has_MitigationSource
 
 * [COVID-19: The forgotten priorities of the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_236.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [communication technology (e.g. internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3799.md)
+* [video conferencing)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3800.md)
 

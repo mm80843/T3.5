@@ -2,9 +2,9 @@
 
 # __Promotion of citizen engagement, participatory planning, transparency in decision-making processes__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of public participation and citizen empowerment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2102.md)
+* [Strengthen collaborations, implement behavioral change, deploy social robots, and promote sustainable content consumption for community-based strategies, holistic research, and positive media representation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_316.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Ensure consistent and transparent communication, address public concerns and questions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2406.md)
 * [Inclusion of diverse stakeholders in decision-making processes, ensuring equal access to smart city initiatives and resources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2748.md)
 * [Ensure transparent communication, obtain public consent for projects](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1516.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of public participation and citizen empowerment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2102.md)
 

@@ -2,9 +2,9 @@
 
 # __Limited access to healthcare facilities, lack of in-person care__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Remote consultation solutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1722.md)
+* [Healthcare systems overwhelmed with limited resources, shortage of personnel, and inadequate infrastructure face challenges in providing accessible and quality care.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_101.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Insufficient healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1398.md)
 * [Insufficient healthcare infrastructure and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1166.md)
 * [Lack of equitable access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1712.md)
+
+## Mitigations of this risk
+
+* [Remote consultation solutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1722.md)
 

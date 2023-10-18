@@ -2,8 +2,9 @@
 
 # __Revision of Building Codes__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Creating resilient urban environments through strategic planning, adaptable design, reduced density, and improved building infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_164.md)
 
 ## Closest similar item
 
@@ -18,14 +19,17 @@
 * [Push for information-based construction management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_417.md)
 * [Improvement of infrastructure and housing design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_96.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Revising building codes and standards to enable building transformation and flexibility in response to changing circumstances and needs.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Building Transformation for Precautionary Measures against COVID-19 Pandemic: Case of Off-Street Car Parking of Campuses](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_224.md)
+
+## This Mitigation is enabled by the following technologies
+
 

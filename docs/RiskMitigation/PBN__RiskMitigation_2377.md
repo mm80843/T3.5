@@ -2,9 +2,9 @@
 
 # __Adapt and implement AI-driven tools in LMIC healthcare systems__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of AI implementation in LMIC](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1799.md)
+* [Enhancing healthcare infrastructure, increasing capacity, and ensuring access to medical resources and services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_330.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Utilize AI algorithms as an initial screening tool and develop alternative diagnostic tests.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2856.md)
 * [Strengthening healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_725.md)
 * [Increase healthcare system capacity, implement triage protocols, and prioritize care for severe cases](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2317.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of AI implementation in LMIC](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1799.md)
 

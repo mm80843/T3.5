@@ -2,9 +2,9 @@
 
 # __transportation companies__
 
-## This Stakeholder belongs to this StakeholderGroup
+## Category to which it belongs
 
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+* [These companies span a wide array of industries, including renewable energy, construction, pharmaceuticals, logistics, and technology.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_387.md)
 
 ## Closest similar item
 
@@ -19,12 +19,16 @@
 * [Transportation workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1653.md)
 * [transportation sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1588.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Transportation](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_63.md)
-
 ## Risks that can be mitigated by this stakeholder
 
 * [Travel transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2178.md)
 * [Travel-related transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1034.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Transportation](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_63.md)
 

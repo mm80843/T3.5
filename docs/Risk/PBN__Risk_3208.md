@@ -2,9 +2,9 @@
 
 # __Lack of control over movement__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Intelligent Transportation System (ITS)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1672.md)
+* [Insufficient awareness, limited resources, inadequate communication, and lack of preparedness contribute to various challenges and deficiencies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_118.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of proper training](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2089.md)
 * [Lack of knowledge and inhibitions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3097.md)
 * [Lack of occupant awareness and behavior](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1412.md)
+
+## Mitigations of this risk
+
+* [Intelligent Transportation System (ITS)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1672.md)
 

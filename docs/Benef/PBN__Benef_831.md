@@ -2,9 +2,17 @@
 
 # __Reduced mental health problems__
 
+## Name of the Benefit
+
+Screening, education, and support focus on vulnerable groups
+
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved mental health and well-being of individuals, leading to increased productivity and reduced healthcare costs](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_902.md)
+
+## Articles mentionning this Benefit
+
+* [Mental Health and the Covid-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_167.md)
 
 ## Stakeholders benefitting from this Benefit
 
@@ -14,12 +22,4 @@
 * [and those with preexisting medical](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_338.md)
 * [psychiatric](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_339.md)
 * [or substance use problems)](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_340.md)
-
-## Articles mentionning this Benefit
-
-* [Mental Health and the Covid-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_167.md)
-
-## Name of the Benefit
-
-Screening, education, and support focus on vulnerable groups
 

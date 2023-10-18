@@ -2,9 +2,9 @@
 
 # __Adopt ontology formalism and upper-level ontologies to resolve inconsistencies.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Logical inconsistencies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1940.md)
+* [Promote standardized data collection, ontology-based representation, and enhanced data sharing to improve decision-making processes and data quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_319.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Develop and enhance tools to automate ontology models and applications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1480.md)
 * [Ontological reasoning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_842.md)
 * [Build an OBO ontology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1242.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Logical inconsistencies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1940.md)
 

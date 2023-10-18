@@ -2,13 +2,9 @@
 
 # __Forming an ad hoc committee__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Development of a COVID-19 crisis management plan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_356.md)
-
-## Property: has_MitigationBenefit
-
-* [Effective crisis response](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_450.md)
+* [Strengthen collaborations, implement behavioral change, deploy social robots, and promote sustainable content consumption for community-based strategies, holistic research, and positive media representation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_316.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Improve governance models to be more collaborative, proactive, and integrated, focus on participatory decision-making](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1651.md)
 * [Implement communication campaigns, provide clear instructions and guidelines, and promote public awareness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2263.md)
 * [Strengthen EU-level coordination and cooperation, establish common protocols and guidelines, and promote information sharing between Member States](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2117.md)
+
+## Property: has_MitigationBenefit
+
+* [Effective crisis response](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_450.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Development of a COVID-19 crisis management plan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_356.md)
 

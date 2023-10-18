@@ -2,9 +2,9 @@
 
 # __mobile phones__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Migration maps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2368.md)
+* [A comprehensive list of mobile applications, including contact-tracing apps, mental health apps, mobile banking, and fitness tracking devices, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_197.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [mobile phone application](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4443.md)
 * [mobile computing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2998.md)
 * [mobile applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1146.md)
+
+## This Technology enables the following mitigations
+
+* [Migration maps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2368.md)
 

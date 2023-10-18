@@ -2,9 +2,9 @@
 
 # __knowledge management__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Building Information Modelling (BIM)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1234.md)
+* [Advanced analytics, fact-checking, project management, reliable sources, knowledge extraction, and collaboration ensure accurate information dissemination and effective decision-making.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_192.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [expertise and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2980.md)
 * [knowledge extraction techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1346.md)
 * [data management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_514.md)
+
+## This Technology enables the following mitigations
+
+* [Building Information Modelling (BIM)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1234.md)
 

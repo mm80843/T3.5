@@ -2,9 +2,9 @@
 
 # __Address spatial inequalities and social disparities in urban design and planning. Improve access to healthcare, essential services, and amenities in disadvantaged neighborhoods.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Urban Inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2381.md)
+* [Promote equitable, sustainable, and inclusive urban planning to enhance living conditions, mitigate overcrowding, and reduce disparities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_324.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Improved urban planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_659.md)
 * [Emphasize community-level design, develop green spaces and local amenities, promote accessibility](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1739.md)
 * [Urban planning and infrastructure to accommodate growing populations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1503.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Urban Inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2381.md)
 

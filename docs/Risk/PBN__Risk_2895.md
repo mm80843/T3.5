@@ -2,9 +2,9 @@
 
 # __Social inequities__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Equitable Park Access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1062.md)
+* [The ramifications of social distancing include inconsistent recommendations, increased violence, changes in social practices, and lack of interaction, among other social issues.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_96.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2663.md)
 * [Social equity disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1418.md)
 * [Anti-social activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_994.md)
+
+## Mitigations of this risk
+
+* [Equitable Park Access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1062.md)
 

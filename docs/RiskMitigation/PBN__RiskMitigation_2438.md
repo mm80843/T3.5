@@ -2,9 +2,9 @@
 
 # __Implement strict environmental and hand hygiene practices.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Nosocomial outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1852.md)
+* [Promote and enforce hygiene practices, implement sanitation measures, and provide education on proper handwashing techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_332.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implementing measures such as social distancing, increased ventilation, regular disinfection, and promoting hand hygiene.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1614.md)
 * [hand hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3023.md)
 * [Strict implementation of hygiene measures, such as mask-wearing, hand sanitizing, and regular cleaning of vehicles](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2534.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Nosocomial outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1852.md)
 

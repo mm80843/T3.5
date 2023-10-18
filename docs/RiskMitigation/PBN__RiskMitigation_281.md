@@ -2,13 +2,9 @@
 
 # __Promoting sustainable production and consumption methods__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Food security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_232.md)
-
-## Property: has_MitigationBenefit
-
-* [Preserving natural resources](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_286.md)
+* [Enhance local self-sufficiency in shopping, recreation, and food production, while promoting sustainable practices and supporting resilient economies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_344.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Invest in agricultural technology, promote sustainable farming practices.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2662.md)
 * [Implement energy-efficient technologies, promote renewable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2897.md)
 * [Strengthen climate action, reduce greenhouse gas emissions, promote sustainable practices.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2669.md)
+
+## Property: has_MitigationBenefit
+
+* [Preserving natural resources](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_286.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Food security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_232.md)
 

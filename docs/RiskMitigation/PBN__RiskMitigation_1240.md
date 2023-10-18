@@ -2,13 +2,9 @@
 
 # __Re-use ontological terms__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Poor ontological coverage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_900.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved ontology](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1234.md)
+* [Promote standardized data collection, ontology-based representation, and enhanced data sharing to improve decision-making processes and data quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_319.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Conduct qualitative analysis and evaluation of proposed ontologies based on existing criteria](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1482.md)
 * [Development of CIDO ontology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_56.md)
 * [Build an OBO ontology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1242.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved ontology](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1234.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Poor ontological coverage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_900.md)
 

@@ -2,13 +2,9 @@
 
 # __Moderate physical exercise__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Existing poor health conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_854.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved immunity and immune protection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1178.md)
+* [Implementing a comprehensive package of measures to ensure the smooth functioning and safety of essential services and activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_6.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Promote alternative forms of exercise, encourage online supervised exercise and remote social interaction.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1492.md)
 * [Encourage physical exercise at home, balance and flexibility training, muscle strength exercise, and endurance training.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1489.md)
 * [Encourage moderate physical exercise to improve immunity and provide immune protection.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1490.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved immunity and immune protection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1178.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Existing poor health conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_854.md)
 

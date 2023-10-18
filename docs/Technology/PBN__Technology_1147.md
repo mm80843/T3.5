@@ -2,9 +2,9 @@
 
 # __expert systems__
 
-## Risks linked to this technology
+## Category to which it belongs
 
-* [Inefficient early detection of COVID-19 infection risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1782.md)
+* [Advanced technologies and algorithms for modeling, simulation, optimization, and artificial intelligence in various applications, including robotics and computational fluid dynamics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_239.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Artificial Intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2112.md)
 * [Artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2124.md)
 * [artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_358.md)
+
+## Risks linked to this technology
+
+* [Inefficient early detection of COVID-19 infection risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1782.md)
 

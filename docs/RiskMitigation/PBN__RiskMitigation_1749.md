@@ -2,9 +2,9 @@
 
 # __Promote collaboration and regionalization of educational teleconferences and resource sharing.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Regionalization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1270.md)
+* [The trend towards remote and digital healthcare is encompassing telecommuting, telehealth, teleconferencing, wearable technology, touchless technologies, and mobile applications.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_328.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Invest in digital infrastructure for remote learning, provide devices and internet access to students, support teachers and parents in adapting to remote education.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2912.md)
 * [Utilize video conferencing and collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2060.md)
 * [Establish virtual clinics for remote consultations and utilize telemedicine and e-learning platforms.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2857.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Regionalization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1270.md)
 

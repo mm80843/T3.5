@@ -2,9 +2,9 @@
 
 # __conversion of existing structures__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Adaptive reuse](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2174.md)
+* [The built environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_230.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [modular construction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_376.md)
 * [structural foundations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3731.md)
 * [construction and technical changes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3730.md)
+
+## This Technology enables the following mitigations
+
+* [Adaptive reuse](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2174.md)
 

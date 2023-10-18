@@ -2,10 +2,9 @@
 
 # __Solid waste management__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [waste separation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4289.md)
-* [segregation boxes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4288.md)
+* [Efficient control and supervision to ensure the proper handling and disposal of various types of waste and potential risks.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_8.md)
 
 ## Closest similar item
 
@@ -20,19 +19,20 @@
 * [WWM1: Waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4254.md)
 * [Waste recycling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4255.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3332.md)
-
-## Category to which it belongs
-
-* [Efficient control and supervision to ensure the proper handling and disposal of various types of waste and potential risks.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_8.md)
-
 ## Property: has_MitigationPrinciple
 
 Proper management and disposal of potentially infected waste
 
+## Risks possibly mitigated by this Mitigation
+
+* [Virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3332.md)
+
 ## Property: has_MitigationSource
 
 * [How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [waste separation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4289.md)
+* [segregation boxes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4288.md)
 

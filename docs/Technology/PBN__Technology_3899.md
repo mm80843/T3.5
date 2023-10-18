@@ -2,9 +2,9 @@
 
 # __social support__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Integration policies for migrant workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1512.md)
+* [Government programs and initiatives provide support, training, and financial assistance for education, healthcare, employment, and overall well-being.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_210.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [social welfare programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_72.md)
 * [community support groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_75.md)
 * [Community support groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2192.md)
+
+## This Technology enables the following mitigations
+
+* [Integration policies for migrant workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1512.md)
 

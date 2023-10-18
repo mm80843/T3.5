@@ -2,9 +2,9 @@
 
 # __Diversify funding sources, develop alternative revenue streams, promote domestic tourism, and enhance marketing strategies.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Reduction in tourism revenue for PCAs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_105.md)
+* [Promote sustainable development through infrastructure investments, training, diversification, financial support, and government partnerships.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_315.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Develop alternative revenue streams, reduce costs, seek government support.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2132.md)
 * [Provide financial support to affected businesses, encourage e-commerce and online sales, promote local shopping.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2907.md)
 * [Provide financial support to cultural and creative industries, promote digital cultural events and experiences.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2911.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Reduction in tourism revenue for PCAs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_105.md)
 

@@ -2,8 +2,9 @@
 
 # __Crisis Management__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Efficient control and supervision to ensure the proper handling and disposal of various types of waste and potential risks.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_8.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Media](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3967.md)
 * [Workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3968.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Negative consequences](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2865.md)
-
 ## Property: has_MitigationPrinciple
 
 Minimizes the impact of the crisis and restores functionality by implementing effective crisis management strategies and practices.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Negative consequences](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2865.md)
+
 ## Property: has_MitigationSource
 
 * [Startups in times of crisis – A rapid response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_158.md)
+
+## This Mitigation is enabled by the following technologies
+
 

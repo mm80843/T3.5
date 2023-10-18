@@ -2,9 +2,9 @@
 
 # __owners__
 
-## This Stakeholder belongs to this StakeholderGroup
+## Category to which it belongs
 
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+* [Property stakeholders ranging from investors, homeowners, and tenants to entrepreneurs and commercial space owners.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_7.md)
 
 ## Closest similar item
 
@@ -18,6 +18,10 @@
 * [responsible owner](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_980.md)
 * [real estate owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1943.md)
 * [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 

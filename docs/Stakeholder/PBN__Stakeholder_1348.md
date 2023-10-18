@@ -2,13 +2,13 @@
 
 # __vector-control organizations__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q30281226](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q30281226.md)
+* [A diverse array of entities dedicated to various industries, causes, or services, promoting growth and welfare in society.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_369.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
+* [Lack of capacity for vector control operations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2008.md)
 
 ## Closest similar item
 
@@ -23,11 +23,15 @@
 * [AI companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2619.md)
 * [general populations in areas with vector control programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1571.md)
 
-## Risk affecting this stakeholder
-
-* [Lack of capacity for vector control operations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2008.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Vector-Control Organizations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_125.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q30281226](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q30281226.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
 

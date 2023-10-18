@@ -2,9 +2,9 @@
 
 # __Improved online education__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_211.md)
+* [Promoting effective communication, education, and trust through transparency, clear guidelines, and innovative strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_144.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Promoting awareness and education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2212.md)
 * [Public education and communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1137.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Data security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1536.md)
-
 ## Property: has_MitigationPrinciple
 
 Blockchain technology provides a secure environment for online education, ensuring secure sharing of content and safeguarding student and teacher data.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Data security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1536.md)
+
 ## Property: has_MitigationSource
 
 * [Blockchain technology and its applications to combat COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_219.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_211.md)
 

@@ -2,10 +2,9 @@
 
 # __Distress, psychiatric illness__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Structuring activities and maintaining routines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1608.md)
-* [Psychoeducation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1601.md)
+* [The toll of mental health harms, health harming behaviors, and the psychological impact of quarantine, fear, and anxiety has increased, affecting various populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_95.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Psychological distress in healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_896.md)
 * [Mental health concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1872.md)
 * [Psychological problems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1470.md)
+
+## Mitigations of this risk
+
+* [Structuring activities and maintaining routines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1608.md)
+* [Psychoeducation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1601.md)
 

@@ -2,9 +2,9 @@
 
 # __Resistance to European solidarity and grants under Next Generation EU__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Common debt issuance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1005.md)
+* [Fragmented global governance, reduced aid, ethical concerns, educational disruption, impacts on peace and justice, and inadequate coordination between stakeholders.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_115.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Reduction in official development aid](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_107.md)
 * [Fragmented governance and limited cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_805.md)
 * [Fragmented governance and lack of cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2063.md)
+
+## Mitigations of this risk
+
+* [Common debt issuance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1005.md)
 

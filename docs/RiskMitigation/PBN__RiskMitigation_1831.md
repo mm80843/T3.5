@@ -2,9 +2,9 @@
 
 # __Improve electronic data capture infrastructure and systems, utilize standardized coding systems.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Incomplete data capture](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1337.md)
+* [Promote standardized data collection, ontology-based representation, and enhanced data sharing to improve decision-making processes and data quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_319.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Improve digital infrastructure and provide equal access to reliable internet connection for all residents.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3026.md)
 * [Digital tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_722.md)
 * [Embrace data science, adopt information-based management methods, utilize digital techniques and technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1733.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Incomplete data capture](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1337.md)
 

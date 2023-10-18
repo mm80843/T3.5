@@ -2,9 +2,9 @@
 
 # __Portable Acoustic Partitions__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [portable partitions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4169.md)
+* [Enhancing safety and efficiency through comprehensive measures, technology integration, diverse environments, and behavioral adjustments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_157.md)
 
 ## Closest similar item
 
@@ -19,14 +19,18 @@
 * [Partitioning to make anterooms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1109.md)
 * [Partition/barriers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2031.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Using portable acoustic partitions to divide the space and create separate areas for different purposes within the building.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Building Transformation for Precautionary Measures against COVID-19 Pandemic: Case of Off-Street Car Parking of Campuses](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_224.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [portable partitions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4169.md)
 

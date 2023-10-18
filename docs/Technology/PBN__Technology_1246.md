@@ -2,9 +2,9 @@
 
 # __precision agriculture technologies__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q4057127](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4057127.md)
+* [Urban green space solutions include tree planting, zoning regulations, landscape architecture, community gardens, outdoor furniture, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_231.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [vertical farming](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4015.md)
 * [community-level farming](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4268.md)
 * [vertical gardening systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_622.md)
+
+## This Technology is identified by the following QID
+
+* [Q4057127](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4057127.md)
 

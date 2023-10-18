@@ -2,9 +2,9 @@
 
 # __Develop standardized data collection methods and improve reporting systems for intimate partner violence during the pandemic__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of reliable data on intimate partner violence during the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1036.md)
+* [Promote standardized data collection, ontology-based representation, and enhanced data sharing to improve decision-making processes and data quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_319.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Providing support systems, domestic violence hotlines, safe shelters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2337.md)
 * [Increased support services for domestic abuse victims](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_680.md)
 * [Collect more data from countries at earlier stages of the epidemic; account for potential differences in intervention impacts across countries](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1894.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of reliable data on intimate partner violence during the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1036.md)
 

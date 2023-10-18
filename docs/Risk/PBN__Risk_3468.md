@@ -2,9 +2,9 @@
 
 # __Floor drain malfunction__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Proper maintenance of drainage system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2470.md)
+* [The challenges of urban water management include water contamination, waste management, inadequate water storage, and poor drainage.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_120.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inadequate treatment of wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2979.md)
 * [Lack of running water](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1066.md)
 * [Process problems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_417.md)
+
+## Mitigations of this risk
+
+* [Proper maintenance of drainage system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2470.md)
 

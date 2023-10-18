@@ -2,6 +2,28 @@
 
 # __mental health professionals__
 
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Identification of high-risk individuals](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_933.md)
+* [Enhanced psychological treatment effectiveness](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1117.md)
+
+## Category to which it belongs
+
+* [Individuals in need of mental health support, including those with pre-existing conditions and from marginalized communities with limited access to services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_362.md)
+
+## Closest similar item
+
+* [social and mental health experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2938.md)
+* [mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1032.md)
+* [Mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2793.md)
+* [mental health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_605.md)
+* [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
+* [mental health assessments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2799.md)
+* [Mental health assessments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2939.md)
+* [mental health support services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2796.md)
+* [Mental health support services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2797.md)
+* [mental health care support](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2940.md)
+
 ## Risks that can be mitigated by this stakeholder
 
 * [Impact on mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1597.md)
@@ -21,22 +43,4 @@
 * [Lack of access to mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1993.md)
 * [Alexithymia](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2060.md)
 * [Suicidal ideation from economic crisis and uncertainties](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1903.md)
-
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Identification of high-risk individuals](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_933.md)
-* [Enhanced psychological treatment effectiveness](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1117.md)
-
-## Closest similar item
-
-* [social and mental health experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2938.md)
-* [mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1032.md)
-* [Mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2793.md)
-* [mental health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_605.md)
-* [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
-* [mental health assessments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2799.md)
-* [Mental health assessments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2939.md)
-* [mental health support services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2796.md)
-* [Mental health support services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2797.md)
-* [mental health care support](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2940.md)
 

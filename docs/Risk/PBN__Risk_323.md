@@ -2,12 +2,9 @@
 
 # __Contagious transmission in built environment__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Infrared thermal imaging](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_403.md)
-* [Robotics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_404.md)
-* [UV-Light radiation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_402.md)
-* [Automated face recognition technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_405.md)
+* [Infectious spread through various modes such as close contact, social gatherings, fomites, bodily fluids, and respiratory droplets.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_123.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [Risk of transmission in enclosed and communal spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2120.md)
 * [Transmission of infectious diseases in indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_943.md)
 * [Contagious diseases propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_153.md)
+
+## Mitigations of this risk
+
+* [Infrared thermal imaging](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_403.md)
+* [Robotics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_404.md)
+* [UV-Light radiation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_402.md)
+* [Automated face recognition technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_405.md)
 

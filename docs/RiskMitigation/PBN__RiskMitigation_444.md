@@ -2,13 +2,9 @@
 
 # __Less crowded living environment__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduced risk of infection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_431.md)
+* [Promote equitable, sustainable, and inclusive urban planning to enhance living conditions, mitigate overcrowding, and reduce disparities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_324.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Crowd management, capacity limits, physical distancing measures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2240.md)
 * [Designing spaces with diverse human occupancy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_250.md)
 * [Urban planning and design that balances density and social distancing measures, building design that supports healthy environments](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2652.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced risk of infection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_431.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
 

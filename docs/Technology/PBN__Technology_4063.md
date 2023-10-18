@@ -2,9 +2,9 @@
 
 # __source control__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Elimination of Indoor Pollutants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1783.md)
+* [These resources aim to enhance security, convenience, and efficiency in managing access, spaces, and systems within various environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_206.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [collaboration tools)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4387.md)
 * [software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4165.md)
 * [administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3947.md)
+
+## This Technology enables the following mitigations
+
+* [Elimination of Indoor Pollutants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1783.md)
 

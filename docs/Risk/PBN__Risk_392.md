@@ -2,9 +2,9 @@
 
 # __Impact of inadequate HVAC systems on social equity__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Addressing sociotechnical solutions for low-income vulnerable communities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_549.md)
+* [Limited physical/social distancing, thermal discomfort, poor lighting, and inadequate air quality negatively impact personal comfort.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_130.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of community trust and empowerment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3404.md)
 * [Decline of public and social housing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_385.md)
 * [Lack of social cohesion and trust](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3338.md)
+
+## Mitigations of this risk
+
+* [Addressing sociotechnical solutions for low-income vulnerable communities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_549.md)
 

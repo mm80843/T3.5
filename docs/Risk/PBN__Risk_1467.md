@@ -2,25 +2,9 @@
 
 # __Inequities and exclusions__
 
-## Property: has_RiskHealth
+## Category to which it belongs
 
-* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_4.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Description of the risk
-
-Impact of the pandemic on vulnerable groups and informal street workers in public spaces
-
-## Property: has_RiskType
-
-* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
-
-## Articles mentionning the risk
-
-* [The Impact of COVID-19 on Public Space: A Review of the Emerging Questions](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_261.md)
+* [The challenges and consequences of the global pandemic include poor acoustics, noise pollution, food security, increase in inequality, waste, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_131.md)
 
 ## Closest similar item
 
@@ -35,6 +19,44 @@ Impact of the pandemic on vulnerable groups and informal street workers in publi
 * [Inequitable distribution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3126.md)
 * [Uncertainty in contractual entitlements](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2847.md)
 
+## Description of the risk
+
+Impact of the pandemic on vulnerable groups and informal street workers in public spaces
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Property: has_RiskHealth
+
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_4.md)
+
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
+## Mitigations of this risk
+
+* [Ensure equitable access and participation in public spaces through inclusive design and policies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1984.md)
+
+## Name of the risk
+
+Widening inequalities, exclusion, and marginalization of vulnerable populations
+
+## Stakeholders who can mitigate this risk
+
+* [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
+* [urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_125.md)
+* [social justice organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_949.md)
+
+## Articles mentionning the risk
+
+* [The Impact of COVID-19 on Public Space: A Review of the Emerging Questions](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_261.md)
+
 ## People affected by this risk
 
 * [women](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_23.md)
@@ -45,29 +67,11 @@ Impact of the pandemic on vulnerable groups and informal street workers in publi
 * [racial minorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_488.md)
 * [homeless](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_469.md)
 
-## Property: has_RiskISO_Impact
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
-
-## Stakeholders who can mitigate this risk
-
-* [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
-* [urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_125.md)
-* [social justice organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_949.md)
-
-## Name of the risk
-
-Widening inequalities, exclusion, and marginalization of vulnerable populations
-
-## Mitigations of this risk
-
-* [Ensure equitable access and participation in public spaces through inclusive design and policies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1984.md)
-
-## Property: has_RiskISO_Purpose
-
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
-
 ## Technologies linked to the risk
 
 * [inclusive design principles and social equity considerations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_735.md)
+
+## Property: has_RiskType
+
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 

@@ -2,9 +2,9 @@
 
 # __proper insulation materials and cleaning procedures__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Proper insulation maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1422.md)
+* [Enhanced hygiene practices and strict adherence to cleaning protocols ensure rigorous sanitation and disinfection measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_196.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Proper cleaning procedures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2597.md)
 * [proper cleaning procedures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1727.md)
 * [proper cleaning equipment and procedures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3867.md)
+
+## This Technology enables the following mitigations
+
+* [Proper insulation maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1422.md)
 

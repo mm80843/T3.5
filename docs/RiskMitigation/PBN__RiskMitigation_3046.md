@@ -2,9 +2,9 @@
 
 # __Tailoring interventions to target regions, investment in technology and infrastructure, subsidised mobile phone plans, free Wi-Fi hotspots, training programs, use of devices that do not require continuous network access.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Socioeconomic inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2344.md)
+* [Promote equitable, sustainable, and inclusive urban planning to enhance living conditions, mitigate overcrowding, and reduce disparities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_324.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Design interventions to improve access to healthcare services in underserved areas and mitigate disease transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1667.md)
 * [Investing in healthcare infrastructure, allocating resources for healthcare facilities, enhancing surveillance and monitoring systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1618.md)
 * [Investing in infrastructure and training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_10.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Socioeconomic inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2344.md)
 

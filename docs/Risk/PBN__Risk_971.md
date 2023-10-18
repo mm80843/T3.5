@@ -2,10 +2,9 @@
 
 # __Misleading Information__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Collaboration with WHO and Government Organizations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1361.md)
-* [Accurate Content Evaluation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1360.md)
+* [The proliferation of false and misleading information, misinformation, and inaccurate news during pandemics creates confusion and a lack of trust in reliable sources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_127.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Misinformation and confusion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3274.md)
 * [Misinformation and ’infodemic’](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3510.md)
 * [Information overload and misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1359.md)
+
+## Mitigations of this risk
+
+* [Collaboration with WHO and Government Organizations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1361.md)
+* [Accurate Content Evaluation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1360.md)
 

@@ -2,9 +2,9 @@
 
 # __ramps__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q2714893](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2714893.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [widened aisles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4188.md)
 * [actuators](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4130.md)
 * [cool roofs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_972.md)
+
+## This Technology is identified by the following QID
+
+* [Q2714893](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2714893.md)
 

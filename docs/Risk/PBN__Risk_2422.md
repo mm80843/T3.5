@@ -2,9 +2,9 @@
 
 # __Performance, scalability, accuracy__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Disease modelling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_56.md)
+* [Limited monitoring, technical limitations, language barriers, expensive optimization, lack of connection with nature, and limited sensor diversity hinder effective response and resource allocation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_107.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inconsistencies in Accuracy Measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1260.md)
 * [Low precision](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3415.md)
 * [Limited data, accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2997.md)
+
+## Mitigations of this risk
+
+* [Disease modelling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_56.md)
 

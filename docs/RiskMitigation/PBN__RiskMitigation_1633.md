@@ -2,9 +2,9 @@
 
 # __Regular monitoring of coated surfaces for changes in viral viability and development of alternative coatings__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Risk of resistance development to anti-SARS-CoV-2 coatings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1181.md)
+* [Implement comprehensive strategies to control virus transmission, improve surveillance, develop antiviral coatings, and enhance infection control measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_309.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Application of antimicrobial coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_574.md)
 * [Development of graphene-based antiviral coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_918.md)
 * [Continuously active antimicrobial coating](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1190.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Risk of resistance development to anti-SARS-CoV-2 coatings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1181.md)
 

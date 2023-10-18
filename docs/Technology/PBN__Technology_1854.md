@@ -2,9 +2,9 @@
 
 # __healthcare funding__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q6055890](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6055890.md)
+* [Improved healthcare infrastructure and resources enable public health authorities to implement effective messaging and interventions, ensuring equitable access to healthcare facilities and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_209.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [investment in healthcare infrastructure and resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1501.md)
 * [Investment in healthcare infrastructure and resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2491.md)
 * [healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3.md)
+
+## This Technology is identified by the following QID
+
+* [Q6055890](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6055890.md)
 

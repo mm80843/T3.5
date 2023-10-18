@@ -2,9 +2,9 @@
 
 # __Privacy and security concerns with IoT data__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Addressing security and privacy issues](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1423.md)
+* [Concerns about the protection of personal information, surveillance, data security, and risks of privacy infringement.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_108.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Privacy of Data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3288.md)
 * [Security and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2083.md)
 * [Data security and privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3276.md)
+
+## Mitigations of this risk
+
+* [Addressing security and privacy issues](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1423.md)
 

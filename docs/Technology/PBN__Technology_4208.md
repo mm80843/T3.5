@@ -2,9 +2,9 @@
 
 # __personalized air supply combined with specific air distribution system__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Personalized ventilation system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2045.md)
+* [Improved air quality can be achieved through the use of various technologies such as air purifiers and monitoring systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_221.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [air purification systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_244.md)
 * [Air purification systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2555.md)
 * [air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
+
+## This Technology enables the following mitigations
+
+* [Personalized ventilation system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2045.md)
 

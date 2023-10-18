@@ -2,10 +2,9 @@
 
 # __Virtual care platforms__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [video conferencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_406.md)
-* [digital monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4445.md)
+* [Enhancing healthcare access, facilities, and systems while promoting affordability and strengthening healthcare infrastructure through various strategies and initiatives.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_165.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Digital patient management solutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4351.md)
 * [Virtual reality-based therapy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4352.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Misdiagnoses, privacy breaches, equipment malfunction, costs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3432.md)
-
 ## Property: has_MitigationPrinciple
 
 Remote delivery of healthcare services to reduce exposure to the virus
 
+## Risks possibly mitigated by this Mitigation
+
+* [Misdiagnoses, privacy breaches, equipment malfunction, costs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3432.md)
+
 ## Property: has_MitigationSource
 
 * [Applications of digital technology in COVID-19 pandemic planning and response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_127.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [video conferencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_406.md)
+* [digital monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4445.md)
 

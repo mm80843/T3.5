@@ -2,9 +2,9 @@
 
 # __advertising__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1091.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [communication and marketing strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_734.md)
 * [Social media campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2150.md)
 * [social media campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_880.md)
+
+## This Technology enables the following mitigations
+
+* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1091.md)
 

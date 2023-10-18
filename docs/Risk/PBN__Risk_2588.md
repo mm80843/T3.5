@@ -2,9 +2,9 @@
 
 # __Exclusion of local communities__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Including local communities in PCA governance and benefits](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_493.md)
+* [Limited monitoring, technical limitations, language barriers, expensive optimization, lack of connection with nature, and limited sensor diversity hinder effective response and resource allocation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_107.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Increase in local opportunity cost for PCA-adjacent communities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1300.md)
 * [Lack of community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2149.md)
 * [Exclusion of non-English speaking populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1590.md)
+
+## Mitigations of this risk
+
+* [Including local communities in PCA governance and benefits](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_493.md)
 

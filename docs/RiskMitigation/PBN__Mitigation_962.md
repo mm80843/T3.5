@@ -2,10 +2,9 @@
 
 # __Validation of news sources__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [internet access](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1211.md)
-* [fact-checking tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_7.md)
+* [Promoting effective communication, education, and trust through transparency, clear guidelines, and innovative strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_144.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Access to accurate and reliable information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2445.md)
 * [Evidence-based communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2462.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Circulation of fake news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2833.md)
-
 ## Property: has_MitigationPrinciple
 
 Encourage users to check the validity of news sources before sharing
 
+## Risks possibly mitigated by this Mitigation
+
+* [Circulation of fake news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2833.md)
+
 ## Property: has_MitigationSource
 
 * [The changes in the effects of social media use of Cypriots due to COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_185.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [internet access](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1211.md)
+* [fact-checking tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_7.md)
 

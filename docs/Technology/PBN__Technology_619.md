@@ -2,9 +2,9 @@
 
 # __crowd management technologies__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1872073](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1872073.md)
+* [Effective management and surveillance of crowds through advanced technologies, tools, and strategic measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_233.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [use of digital technologies for crowd management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1016.md)
 * [Use of digital technologies for crowd management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2459.md)
 * [crowd management measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_303.md)
+
+## This Technology is identified by the following QID
+
+* [Q1872073](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1872073.md)
 

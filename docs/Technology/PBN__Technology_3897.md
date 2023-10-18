@@ -2,10 +2,9 @@
 
 # __vaccination clinics__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Vaccination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_245.md)
-* [Community vaccination programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1511.md)
+* [Advancements in molecular biology, diagnostics, vaccines, antiviral technologies, and disease surveillance for pathogen detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_223.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2270.md)
 * [virtual clinics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1716.md)
 * [vaccine distribution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1605.md)
+
+## This Technology enables the following mitigations
+
+* [Vaccination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_245.md)
+* [Community vaccination programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1511.md)
 

@@ -2,13 +2,9 @@
 
 # __Strengthening partnerships and collaboration__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Impact on peace, justice, and institutions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_241.md)
-
-## Property: has_MitigationBenefit
-
-* [Peace, justice, and strong institutions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_294.md)
+* [Strengthen collaborations, implement behavioral change, deploy social robots, and promote sustainable content consumption for community-based strategies, holistic research, and positive media representation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_316.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Develop cost-effective solutions, provide financial incentives, and promote collaboration.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2784.md)
 * [International coordination and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1025.md)
 * [Foster collaboration and clear communication among stakeholders, establish effective project governance structure.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1946.md)
+
+## Property: has_MitigationBenefit
+
+* [Peace, justice, and strong institutions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_294.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Impact on peace, justice, and institutions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_241.md)
 

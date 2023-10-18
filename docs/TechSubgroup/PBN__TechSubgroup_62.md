@@ -2,13 +2,9 @@
 
 # __Training and Education__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_82.md)
-* [training materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1661.md)
-* [occupant education and training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_657.md)
-* [behavior change programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_658.md)
-* [Investments in education and training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2401.md)
+* [Knowledge enhancement and skill development through AI, ML, and educational resources and programs.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_14.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Research and Data Analysis](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_186.md)
 * [Artificial Intelligence and Machine Learning](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_1.md)
 * [Software and Applications](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_122.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_82.md)
+* [training materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1661.md)
+* [occupant education and training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_657.md)
+* [behavior change programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_658.md)
+* [Investments in education and training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2401.md)
 

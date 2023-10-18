@@ -2,9 +2,9 @@
 
 # __mental health professionals__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Psychological Support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1729.md)
+* [Improved healthcare infrastructure and resources enable public health authorities to implement effective messaging and interventions, ensuring equitable access to healthcare facilities and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_209.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [mental health support services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1121.md)
 * [Mental health support services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2184.md)
 * [mental health care support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1282.md)
+
+## This Technology enables the following mitigations
+
+* [Psychological Support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1729.md)
 

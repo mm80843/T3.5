@@ -2,10 +2,9 @@
 
 # __ethics committees__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Ethical considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_163.md)
-* [Legal and ethical considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1988.md)
+* [Various individuals and organizations involved in ethical project management, environmental preservation, community engagement, and non-governmental initiatives.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_372.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [compliance officers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1439.md)
 * [health authority](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1846.md)
 * [Health authority](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1853.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Ethical considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_163.md)
+* [Legal and ethical considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1988.md)
 

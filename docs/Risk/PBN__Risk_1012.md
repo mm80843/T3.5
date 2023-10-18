@@ -2,9 +2,9 @@
 
 # __Misinterpretation of expert opinions on COVID-19__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Centralized communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1443.md)
+* [The far-reaching consequences of COVID-19 include its transmission through various settings, impact on urban areas, and scarcity of resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Negative attitudes towards COVID-19 prevention](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_625.md)
 * [Misinformation on medication use for COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1011.md)
 * [Incomplete COVID-19 prevention and mitigation information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_836.md)
+
+## Mitigations of this risk
+
+* [Centralized communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1443.md)
 

@@ -2,9 +2,9 @@
 
 # __Regular maintenance and inspections, backup systems__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [HVAC Systems Failure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1770.md)
+* [Promote environmentally-friendly waste management, sanitation, and maintenance practices, including rodent control, decontamination, and segregation of waste.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_340.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Promptly repair and maintain infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2531.md)
 * [Implement regular maintenance plans and ensure proper care and upkeep of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2074.md)
 * [Enhance system resilience, diversify dependencies, and establish backup systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2901.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [HVAC Systems Failure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1770.md)
 

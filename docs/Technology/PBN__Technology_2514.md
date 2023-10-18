@@ -2,9 +2,9 @@
 
 # __Air quality monitors__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
-* [Indoor Environment and Ventilation Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_75.md)
+* [Improved air quality can be achieved through the use of various technologies such as air purifiers and monitoring systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_221.md)
 
 ## Closest similar item
 
@@ -22,4 +22,8 @@
 ## This Technology belongs to this TechGroup
 
 * [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Indoor Environment and Ventilation Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_75.md)
 

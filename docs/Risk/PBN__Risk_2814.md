@@ -2,9 +2,9 @@
 
 # __Mental stress and fatigue__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Mental Restoration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_930.md)
+* [The toll of mental health harms, health harming behaviors, and the psychological impact of quarantine, fear, and anxiety has increased, affecting various populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_95.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Overwhelm, stress](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3159.md)
 * [Media fatigue, avoidance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2532.md)
 * [Stresses exacerbating disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_490.md)
+
+## Mitigations of this risk
+
+* [Mental Restoration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_930.md)
 

@@ -2,13 +2,13 @@
 
 # __such as employees__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q105764136](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q105764136.md)
+* [Individuals engaged in various types of work, from employees and office workers to agricultural and hospitality workers.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_379.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
+* [Persistence of SARS-CoV-2 on surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1141.md)
 
 ## Closest similar item
 
@@ -23,10 +23,14 @@
 * [especially in offices and buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1535.md)
 * [employees in retail sectors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_238.md)
 
-## Risk affecting this stakeholder
-
-* [Persistence of SARS-CoV-2 on surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1141.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
+
+## This Stakeholder is identified by the following QID
+
+* [Q105764136](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q105764136.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
 

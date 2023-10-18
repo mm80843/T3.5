@@ -2,9 +2,9 @@
 
 # __Inaccurate or random results__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Autonomous Human Behaviour](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1107.md)
+* [The proliferation of false and misleading information, misinformation, and inaccurate news during pandemics creates confusion and a lack of trust in reliable sources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_127.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [False-positive results](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2423.md)
 * [Data accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3042.md)
 * [Data Accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3289.md)
+
+## Mitigations of this risk
+
+* [Autonomous Human Behaviour](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1107.md)
 

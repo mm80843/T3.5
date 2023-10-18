@@ -2,13 +2,9 @@
 
 # __Blood types__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Population susceptibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_429.md)
-
-## Property: has_MitigationBenefit
-
-* [Susceptibility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_595.md)
+* [Efforts include RNA monitoring, occupant exposure modeling, targeted messages, adoption of principles, copper coating, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_311.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Engage diverse clinical research groups, improve data accessibility in low-income countries, address racial biases in data collection and reporting.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1833.md)
 * [Testing of feces or anal swab samples](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1095.md)
 * [Developing immunity in a population](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_439.md)
+
+## Property: has_MitigationBenefit
+
+* [Susceptibility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_595.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Population susceptibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_429.md)
 

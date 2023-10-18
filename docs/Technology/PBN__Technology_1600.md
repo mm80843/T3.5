@@ -2,9 +2,9 @@
 
 # __smart building technologies__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1149653](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1149653.md)
+* [Technological advancements encompass a wide range of innovations, such as blockchain, touchless, renewable energy, and communication technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Architectural design and building technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2720.md)
 * [smart home technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_351.md)
 * [Smart city technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2734.md)
+
+## This Technology is identified by the following QID
+
+* [Q1149653](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1149653.md)
 

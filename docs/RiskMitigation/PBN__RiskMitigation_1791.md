@@ -2,9 +2,9 @@
 
 # __Implement flexible working arrangements, remote working, and training programs.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Labour shortages](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_730.md)
+* [Ensuring equitable access, promoting flexible work, implementing safety measures, and providing support for remote work and flexible schedules.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_323.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implementing remote work arrangements, implementing safety protocols, ensuring proper communication and coordination](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1901.md)
 * [Implement remote work solutions, utilize digital tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2052.md)
 * [Implement online meetings and shift arrangements, provide training and company policies, enforce health protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2802.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Labour shortages](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_730.md)
 

@@ -2,9 +2,9 @@
 
 # __Training Organizations__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [training organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1335.md)
+* [Global associations working in various sectors, such as health, training, vector-control, unions, and non-governmental activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_282.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Research Institutions](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_120.md)
 * [Learners](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_17.md)
 * [Community Groups/Organizations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_134.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [training organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1335.md)
 

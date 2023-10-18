@@ -2,6 +2,23 @@
 
 # __Telemedicine and Telehealth Services__
 
+## Category to which it belongs
+
+* [Healthcare services using technology to monitor and manage patients remotely amidst travel limitations and restrictions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_20.md)
+
+## Closest similar item
+
+* [Telemedicine and Remote Access](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_109.md)
+* [Mobile and Healthcare Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_99.md)
+* [Remote Monitoring and Patient Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_108.md)
+* [Mobile Health Apps and Services](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_34.md)
+* [Environment and Healthcare Management Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_14.md)
+* [Touchless and Remote Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_53.md)
+* [Physical Health Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_59.md)
+* [Remote Work Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_173.md)
+* [Healthcare and Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_19.md)
+* [Electronic Health Records and Data Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_8.md)
+
 ## This Technology belongs to this TechnologySubgroup
 
 * [telehealth](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1449.md)
@@ -29,17 +46,4 @@
 * [Secure telepsychiatry platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2275.md)
 * [Telehealth platforms for virtual therapy and counseling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2180.md)
 * [Telehealth platforms and software for virtual therapy and counseling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2181.md)
-
-## Closest similar item
-
-* [Telemedicine and Remote Access](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_109.md)
-* [Mobile and Healthcare Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_99.md)
-* [Remote Monitoring and Patient Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_108.md)
-* [Mobile Health Apps and Services](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_34.md)
-* [Environment and Healthcare Management Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_14.md)
-* [Touchless and Remote Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_53.md)
-* [Physical Health Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_59.md)
-* [Remote Work Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_173.md)
-* [Healthcare and Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_19.md)
-* [Electronic Health Records and Data Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_8.md)
 

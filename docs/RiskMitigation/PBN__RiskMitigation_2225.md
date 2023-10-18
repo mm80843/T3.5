@@ -2,9 +2,9 @@
 
 # __Proper pond design and maintenance, nutrient control measures__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Increased growth of algae and cyanobacteria in urban ponds](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1670.md)
+* [Promote efficient and sustainable water practices, enhance infrastructure, and ensure access to clean water and sanitation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_339.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Environmental parameters control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3296.md)
 * [Proper wastewater treatment and management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_483.md)
 * [Enhancing drainage systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_661.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Increased growth of algae and cyanobacteria in urban ponds](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1670.md)
 

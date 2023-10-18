@@ -2,9 +2,9 @@
 
 # __Encourage the use of face masks, proper disposal of tissues, and regular disinfection practices.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Transmission via respiratory droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1733.md)
+* [Encouraging the use of masks, practicing social distancing, and promoting good hygiene practices are vital preventive measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_345.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Adequate disinfection of masks before discarding](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1930.md)
 * [Promote and educate on the importance of preventive measures, enforce regulations on mask wearing and hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2407.md)
 * [Promoting social distancing, wearing masks, and implementing strict hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2656.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Transmission via respiratory droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1733.md)
 

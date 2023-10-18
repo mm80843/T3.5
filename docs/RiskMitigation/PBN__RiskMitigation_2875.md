@@ -2,9 +2,9 @@
 
 # __Use high-performing filters, proper disposal of disinfectants__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [WQ1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2204.md)
+* [Implement rigorous cleaning and disinfection measures, including the use of antimicrobial materials and advanced technologies, to maintain a safe and hygienic environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_2.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Development of sustainable disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1295.md)
 * [Regular disinfection and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_324.md)
 * [Implement improved cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_604.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [WQ1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2204.md)
 

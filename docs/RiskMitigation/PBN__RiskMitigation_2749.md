@@ -2,9 +2,9 @@
 
 # __Implementation of privacy safeguards, transparent and accountable surveillance practices__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Surveillance and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_877.md)
+* [Data privacy and security are prioritized through encryption, access controls, consent, and robust cybersecurity measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_335.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement robust security measures, use encryption and anonymization techniques, obtain informed consent from users, comply with data protection regulations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2574.md)
 * [Development of novel surveillance systems, improved reporting and communication channels](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2683.md)
 * [Implement encryption, anonymity, and biometrics, establish clear data control policies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1513.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Surveillance and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_877.md)
 

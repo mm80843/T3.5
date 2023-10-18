@@ -2,9 +2,9 @@
 
 # __Barrier to accessing evidence in crisis__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Activate rapid response services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_556.md)
+* [The challenges include inadequate testing capacity, slow identification of cases, limited evidence, and variability in PCR methods.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_140.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of credibility as a source of evidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_400.md)
 * [Lack of effective crisis management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2806.md)
 * [Limited data access and disjointed insights](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2445.md)
+
+## Mitigations of this risk
+
+* [Activate rapid response services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_556.md)
 

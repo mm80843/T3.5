@@ -2,10 +2,9 @@
 
 # __Virtual social platforms and apps for connecting with others__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
-* [Collaboration and Communication Platforms](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_5.md)
-* [Digital Learning Platforms and Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_56.md)
+* [Digital platforms and online resources facilitate collaboration, communication, and information sharing among individuals and organizations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_193.md)
 
 ## Closest similar item
 
@@ -20,11 +19,16 @@
 * [Social-media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2141.md)
 * [social media platforms (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4229.md)
 
-## This Technology belongs to this TechGroup
-
-* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
-
 ## This Technology is identified by the following QID
 
 * [Q3220391](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3220391.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Collaboration and Communication Platforms](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_5.md)
+* [Digital Learning Platforms and Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_56.md)
+
+## This Technology belongs to this TechGroup
+
+* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
 

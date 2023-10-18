@@ -2,9 +2,9 @@
 
 # __Decreased performance due to high temperatures__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Control of Indoor Temperatures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1760.md)
+* [Limited physical/social distancing, thermal discomfort, poor lighting, and inadequate air quality negatively impact personal comfort.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_130.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Poor thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1883.md)
 * [Improper use of heat recovery systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1430.md)
 * [Urban overheating](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3226.md)
+
+## Mitigations of this risk
+
+* [Control of Indoor Temperatures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1760.md)
 

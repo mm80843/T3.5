@@ -2,11 +2,9 @@
 
 # __Energy Efficiency__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [Energy-efficient systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2676.md)
-* [demand response technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_353.md)
-* [use of energy-efficient and properly sized ventilation equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1114.md)
+* [Promoting sustainable practices for efficient management and utilization of energy resources while prioritizing conservation and renewable energy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_32.md)
 
 ## Closest similar item
 
@@ -20,4 +18,10 @@
 * [Lighting and HVAC Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_78.md)
 * [Environmental Controls](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_185.md)
 * [Infrastructure and Transportation](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_115.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [Energy-efficient systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2676.md)
+* [demand response technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_353.md)
+* [use of energy-efficient and properly sized ventilation equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1114.md)
 

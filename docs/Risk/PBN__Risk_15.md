@@ -2,9 +2,9 @@
 
 # __Environmental degradation and social inequalities__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Direct recovery funds towards sustainable development](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_19.md)
+* [The interconnectedness of environmental degradation, social inequalities, and the need for climate action and conservation efforts.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_104.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of consideration for social and environmental factors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2743.md)
 * [Environmental impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_748.md)
 * [Environmental Impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2487.md)
+
+## Mitigations of this risk
+
+* [Direct recovery funds towards sustainable development](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_19.md)
 

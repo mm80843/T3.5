@@ -2,9 +2,9 @@
 
 # __Develop and implement policies that address the specific needs of deprived areas.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Differential impact of measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1938.md)
+* [Promote equitable, sustainable, and inclusive urban planning to enhance living conditions, mitigate overcrowding, and reduce disparities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_324.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement policies and measures to support the most affected regions and sectors, ensure fair distribution of recovery funds, and promote economic resilience and diversification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2119.md)
 * [Addressing disparities between territories and social groups](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1044.md)
 * [Implement social welfare measures, provide support for vulnerable households, create opportunities for economic recovery and job creation.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2446.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Differential impact of measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1938.md)
 

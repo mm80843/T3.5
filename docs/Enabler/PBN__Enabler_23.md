@@ -2,13 +2,13 @@
 
 # __Teleworking__
 
-## Property: has_TechEquivalent
-
-* [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4548.md)
-
 ## Property: has_BP_EnablerTitle
 
 enabler_024
+
+## Category to which it belongs
+
+* [Remote work arrangement.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_83.md)
 
 ## Closest similar item
 
@@ -26,4 +26,8 @@ enabler_024
 ## Thees blueprints use this enabler
 
 * [Rotating shift schedule](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_0.md)
+
+## Property: has_TechEquivalent
+
+* [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4548.md)
 

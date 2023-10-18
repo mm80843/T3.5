@@ -2,13 +2,9 @@
 
 # __Adequate daylighting__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_133.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved well-being and productivity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1359.md)
+* [Optimize indoor environment by maximizing natural light, ventilation, and incorporating efficient lighting systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_348.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Shading](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_489.md)
 * [Proper lighting design, use of glare-reducing fixtures, adjustable lighting controls.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1571.md)
 * [Proper ventilation, air filtration, natural daylighting, indoor plantings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3080.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved well-being and productivity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1359.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_133.md)
 

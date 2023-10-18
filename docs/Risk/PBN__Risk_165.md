@@ -2,9 +2,9 @@
 
 # __Concerns about job security__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Promoting remote work for office workers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_205.md)
+* [The impact of various factors on the workforce, including job insecurity, changes in work schedules, unemployment, and decreased productivity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_4.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Uncertainty about job status](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_168.md)
 * [Privacy and cybersecurity concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2978.md)
 * [Data security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1536.md)
+
+## Mitigations of this risk
+
+* [Promoting remote work for office workers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_205.md)
 

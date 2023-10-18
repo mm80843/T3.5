@@ -2,6 +2,23 @@
 
 # __machine learning__
 
+## Category to which it belongs
+
+* [Advanced technologies and algorithms for modeling, simulation, optimization, and artificial intelligence in various applications, including robotics and computational fluid dynamics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_239.md)
+
+## Closest similar item
+
+* [Machine Learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2111.md)
+* [machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3004.md)
+* [machine learning algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3165.md)
+* [machine learning methodologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3316.md)
+* [data mining](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3027.md)
+* [Artificial Intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2112.md)
+* [Artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2124.md)
+* [artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_358.md)
+* [deep learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1715.md)
+* [ai and machine learning for data processing and modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_756.md)
+
 ## This Technology enables the following mitigations
 
 * [Wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_329.md)
@@ -18,17 +35,4 @@
 * [Knowledge extraction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2306.md)
 * [Enhancing citizen confidence in water services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1638.md)
 * [Rapid deployment of new healthcare applications and services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1946.md)
-
-## Closest similar item
-
-* [Machine Learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2111.md)
-* [machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3004.md)
-* [machine learning algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3165.md)
-* [machine learning methodologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3316.md)
-* [data mining](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3027.md)
-* [Artificial Intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2112.md)
-* [Artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2124.md)
-* [artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_358.md)
-* [deep learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1715.md)
-* [ai and machine learning for data processing and modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_756.md)
 

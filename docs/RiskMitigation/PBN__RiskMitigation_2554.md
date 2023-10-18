@@ -2,9 +2,9 @@
 
 # __Public awareness campaigns, strict enforcement of mask-wearing rules__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Non-compliance with face mask rules](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1944.md)
+* [Encouraging the use of masks, practicing social distancing, and promoting good hygiene practices are vital preventive measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_345.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Mandatory wearing of face masks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_745.md)
 * [Mandate the wearing of masks at all times on construction sites and enforce strict penalties for non-compliance.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1654.md)
 * [Adherence to safety measures such as wearing masks and practicing social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1693.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Non-compliance with face mask rules](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1944.md)
 

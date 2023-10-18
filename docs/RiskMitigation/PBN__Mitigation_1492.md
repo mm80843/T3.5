@@ -2,8 +2,9 @@
 
 # __Upstream agreements for supply chain re-purposing__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Optimizing the global trade network and supply chains through decentralization, cost concern, and integrated management, while promoting resilience and equity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_146.md)
 
 ## Closest similar item
 
@@ -18,14 +19,17 @@
 * [Regular communication with suppliers, alternative sourcing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3107.md)
 * [Simplify supply chain structures, build collaborative relationships, enhance communication and coordination among stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3108.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Governments can establish agreements with firms to repurpose supply chains, allowing for the production of necessary goods during disruptions.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Global value chains: Efficiency and risks in the context of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_60.md)
+
+## This Mitigation is enabled by the following technologies
+
 

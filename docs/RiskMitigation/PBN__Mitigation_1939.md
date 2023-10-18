@@ -2,11 +2,9 @@
 
 # __Compliance of Quarantine__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [smartphone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4146.md)
-* [iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
-* [connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4145.md)
+* [Enforcing strict regulations to separate and monitor individuals, ensuring public safety during a period of isolation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_152.md)
 
 ## Closest similar item
 
@@ -21,15 +19,21 @@
 * [Quarantine facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_768.md)
 * [Isolation and quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2225.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Privacy of Data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3288.md)
-
 ## Property: has_MitigationPrinciple
 
 Ensures compliance of quarantine measures by monitoring and reporting symptoms and recovery
 
+## Risks possibly mitigated by this Mitigation
+
+* [Privacy of Data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3288.md)
+
 ## Property: has_MitigationSource
 
 * [Internet of things (IoT) applications to fight against COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_295.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [smartphone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4146.md)
+* [iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
+* [connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4145.md)
 

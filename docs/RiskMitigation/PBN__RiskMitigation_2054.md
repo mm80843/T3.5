@@ -2,9 +2,9 @@
 
 # __Implement safety protocols, limit number of workers on site__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Limited site access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1527.md)
+* [Ensuring equitable access, promoting flexible work, implementing safety measures, and providing support for remote work and flexible schedules.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_323.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Providing financial support for affected workers, exploring alternative job opportunities, implementing safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1902.md)
 * [Develop industry-specific working procedures, enforce safety protocols, promote worker mental health.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1794.md)
 * [Implementing remote work arrangements, implementing safety protocols, ensuring proper communication and coordination](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1901.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limited site access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1527.md)
 

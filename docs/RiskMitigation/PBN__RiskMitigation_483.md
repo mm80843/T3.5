@@ -2,13 +2,9 @@
 
 # __Proper wastewater treatment and management__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Risk of inadequate wastewater management during pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_365.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduced transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_232.md)
+* [Implement wastewater surveillance techniques to detect viral presence, optimize treatment processes, and inform public health interventions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_308.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Wastewater-Based Epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_202.md)
 * [Ensure proper sealing and separation of wastewater](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2877.md)
 * [Monitoring and control measures along the wastewater handling and treatment train, wastewater-based epidemiology for surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2391.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_232.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Risk of inadequate wastewater management during pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_365.md)
 

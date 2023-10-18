@@ -2,13 +2,9 @@
 
 # __individuals in charge of building maintenance and operations__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q57260671](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q57260671.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Individuals involved in the design, construction, management, and occupation of various types of buildings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_367.md)
 
 ## Closest similar item
 
@@ -23,11 +19,19 @@
 * [building owners and operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_525.md)
 * [building occupants and management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_78.md)
 
+## Risks that can be mitigated by this stakeholder
+
+* [Contagious transmission in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1140.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Responsible or Working Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_78.md)
 
-## Risks that can be mitigated by this stakeholder
+## This Stakeholder is identified by the following QID
 
-* [Contagious transmission in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1140.md)
+* [Q57260671](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q57260671.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 

@@ -2,9 +2,9 @@
 
 # __Conduct research to determine the mechanisms of cell entry and membrane fusion of SARS-CoV-2.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Cell entry of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2359.md)
+* [Efforts to study, detect, and control the spread of SARS-CoV-2 in various environments and populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_353.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Development and implementation of standardized protocols and assays for SARS-CoV-2 detection in environmental samples can ensure consistency and comparability of data.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2167.md)
 * [Improve specificity of PCR assays to distinguish between SARS-CoV-2 and other coronaviruses.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3042.md)
 * [Conduct more research and studies to gather sufficient evidence on the effectiveness of upper-room UVGI against SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1624.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Cell entry of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2359.md)
 

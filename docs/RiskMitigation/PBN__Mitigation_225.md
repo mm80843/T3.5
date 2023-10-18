@@ -2,9 +2,9 @@
 
 # __Air Quality Improvement__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [presence of forest and trees](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3552.md)
+* [Promote clean, fresh air by monitoring and controlling indoor pollution, using portable air cleaners, and increasing outdoor air flow.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_172.md)
 
 ## Closest similar item
 
@@ -19,16 +19,20 @@
 * [Outdoor Air Quality Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_715.md)
 * [Improved Air Filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1645.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Ambient pollutants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2816.md)
-
 ## Property: has_MitigationPrinciple
 
 Improve air quality in cities to reduce the probability of COVID-19 infections, especially in areas with poor air quality
+
+## Risks possibly mitigated by this Mitigation
+
+* [Ambient pollutants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2816.md)
 
 ## Property: has_MitigationSource
 
 * [Green spaces, especially forest, linked to lower SARS-CoV-2 infection rates: A one-year nationwide study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_130.md)
 * [An environmental and health perspective for COVID-19 outbreak: Meteorology and air quality influence, sewage epidemiology indicator, hospitals disinfection, drug therapies and recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_270.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [presence of forest and trees](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3552.md)
 

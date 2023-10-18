@@ -2,9 +2,9 @@
 
 # __infrastructure development and plumbing systems__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q182612](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q182612.md)
+* [Improvements in wastewater, waste management, sanitation, water purification, and plumbing technologies aim for sustainable and efficient infrastructure development.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_234.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [infrastructure improvement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2995.md)
 * [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2310.md)
 * [infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3614.md)
+
+## This Technology is identified by the following QID
+
+* [Q182612](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q182612.md)
 

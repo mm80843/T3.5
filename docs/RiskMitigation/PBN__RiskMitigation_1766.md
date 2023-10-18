@@ -2,9 +2,9 @@
 
 # __Increase respiratory isolation capacity, improve ventilation systems, implement air filtration and UV light sterilisation technology__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Overwhelmed respiratory isolation capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1285.md)
+* [Enhancing air quality through effective air filtration, ventilation, and pollution reduction strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_338.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Use UVGI systems in air ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1644.md)
 * [Reduce sources of chemical pollutants, improve ventilation and air filtration systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2642.md)
 * [Increase ventilation rates, use air cleaning devices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2348.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Overwhelmed respiratory isolation capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1285.md)
 

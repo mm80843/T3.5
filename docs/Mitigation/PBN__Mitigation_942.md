@@ -2,10 +2,9 @@
 
 # __Personal Cleanliness, Sanitization, and Ventilation__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
-* [cleaning and sanitization equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3556.md)
+* [Promotion and implementation of rigorous hygiene protocols and use of sanitary facilities and materials.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_166.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Improved hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2381.md)
 * [Increased personal hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1271.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Environmental impacts, lack of awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2820.md)
-
 ## Property: has_MitigationPrinciple
 
 Promoting personal cleanliness, sanitization, and ventilation to reduce exposure to the virus
 
+## Risks possibly mitigated by this Mitigation
+
+* [Environmental impacts, lack of awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2820.md)
+
 ## Property: has_MitigationSource
 
 * [Strategies to Mitigate COVID-19 Pandemic Impacts on Health and Safety of Workers in Construction Projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_268.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
+* [cleaning and sanitization equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3556.md)
 

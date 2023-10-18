@@ -2,9 +2,9 @@
 
 # __Develop guidelines for data collection and harmonization, standardize reporting__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Data collection and harmonization challenges in observational studies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2156.md)
+* [Promote standardized data collection, ontology-based representation, and enhanced data sharing to improve decision-making processes and data quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_319.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Standardize data protocols, promote data sharing and collaboration.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1522.md)
 * [Establish standardized data collection protocols, promote data sharing, address structural and cultural barriers to data sharing.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1830.md)
 * [Adoption of common standards](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1123.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Data collection and harmonization challenges in observational studies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2156.md)
 

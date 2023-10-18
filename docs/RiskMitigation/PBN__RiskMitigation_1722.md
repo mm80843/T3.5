@@ -2,9 +2,9 @@
 
 # __Temporary closure of access points, visible and easily manageable primary access node.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Limited access nodes for better management of Public Places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_263.md)
+* [Implementing a comprehensive package of measures to ensure the smooth functioning and safety of essential services and activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_6.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Accessible green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1228.md)
 * [Maintain access to historical data even if real-time data is unavailable](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3070.md)
 * [Improve access to reliable information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_628.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limited access nodes for better management of Public Places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_263.md)
 

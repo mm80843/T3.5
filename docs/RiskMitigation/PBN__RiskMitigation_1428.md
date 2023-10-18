@@ -2,13 +2,9 @@
 
 # __Analysis of complex links between sensor data and physiological status__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Reliance on data mining and machine-learning-based computational approaches](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1006.md)
-
-## Property: has_MitigationBenefit
-
-* [Discovery of unknown correlations and more accurate predictions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1398.md)
+* [Monitoring, analysis, and standardization of various technologies and protocols for accurate and reliable healthcare data collection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_310.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Worker health monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_419.md)
 * [Changes in heart rate variability captured by smartwatches](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_945.md)
 * [Collect and analyze data on human movement patterns using mobile phone call data records and other sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2830.md)
+
+## Property: has_MitigationBenefit
+
+* [Discovery of unknown correlations and more accurate predictions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1398.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Reliance on data mining and machine-learning-based computational approaches](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1006.md)
 

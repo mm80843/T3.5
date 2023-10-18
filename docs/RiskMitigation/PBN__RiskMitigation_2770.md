@@ -2,9 +2,9 @@
 
 # __Public awareness campaigns, strict enforcement of rules, penalties for non-compliance.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Risk of non-compliance with stay-at-home orders and social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2119.md)
+* [Promote understanding and knowledge sharing through educational campaigns, dissemination of accurate information, and public awareness initiatives.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_318.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Limit capacity, enforce social distancing measures, provide clear signage and guidelines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1816.md)
 * [Conduct public awareness campaigns and education programs to promote prevention measures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2437.md)
 * [Conduct public awareness campaigns, provide accurate information.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2713.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Risk of non-compliance with stay-at-home orders and social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2119.md)
 

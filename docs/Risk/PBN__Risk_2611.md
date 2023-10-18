@@ -2,9 +2,9 @@
 
 # __Misinterpretation and panic__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Clear and transparent communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_518.md)
+* [The proliferation of false and misleading information, misinformation, and inaccurate news during pandemics creates confusion and a lack of trust in reliable sources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_127.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inaccurate or sensationalized information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2797.md)
 * [Lack of awareness, misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2918.md)
 * [Lack of clarity and understanding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2804.md)
+
+## Mitigations of this risk
+
+* [Clear and transparent communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_518.md)
 

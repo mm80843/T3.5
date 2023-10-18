@@ -2,9 +2,9 @@
 
 # __air purifiers with hepa filters__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q583488](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q583488.md)
+* [Various systems and technologies that purify and clean the air, including air filters, HEPA filters, and filtration systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_198.md)
 
 ## Risks linked to this technology
 
@@ -23,4 +23,8 @@
 * [HEPA filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2236.md)
 * [HEPA Filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4550.md)
 * [negative air machines with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_970.md)
+
+## This Technology is identified by the following QID
+
+* [Q583488](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q583488.md)
 

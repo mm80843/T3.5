@@ -2,9 +2,9 @@
 
 # __Encourage data completion and presentation of overall infection rates.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Missing vaccination data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1912.md)
+* [Implement comprehensive strategies to control virus transmission, improve surveillance, develop antiviral coatings, and enhance infection control measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_309.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implementation of infection control measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_157.md)
 * [Implement measures to control the spread of infectious diseases, such as social distancing, improved hygiene practices, and vaccination programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2243.md)
 * [Collect more data from countries at earlier stages of the epidemic; account for potential differences in intervention impacts across countries](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1894.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Missing vaccination data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1912.md)
 

@@ -2,9 +2,9 @@
 
 # __Social media groups__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
-* [Social Media Platforms and Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_33.md)
+* [A range of community-centered initiatives, programs, and strategies foster participation, collaboration, and social support for diverse groups.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_236.md)
 
 ## Closest similar item
 
@@ -19,11 +19,15 @@
 * [Social networking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2137.md)
 * [social-media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1712.md)
 
-## This Technology belongs to this TechGroup
-
-* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
-
 ## This Technology is identified by the following QID
 
 * [Q874405](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q874405.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Social Media Platforms and Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_33.md)
+
+## This Technology belongs to this TechGroup
+
+* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
 

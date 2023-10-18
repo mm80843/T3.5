@@ -2,8 +2,9 @@
 
 # __Adequate Daylighting__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Maximizing the use of natural light and UV radiation for germicidal purposes in indoor spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_176.md)
 
 ## Closest similar item
 
@@ -18,14 +19,17 @@
 * [Natural lighting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_119.md)
 * [Natural Lighting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1690.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Utilizing natural light to enhance the indoor environment
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Green Buildings: A Post COVID-19 Analysis of Preventive Measures of Spreading the Virus](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_290.md)
+
+## This Mitigation is enabled by the following technologies
+
 

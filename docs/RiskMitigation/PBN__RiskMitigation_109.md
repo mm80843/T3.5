@@ -2,15 +2,9 @@
 
 # __Measures in design and construction__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Exposure to COVID-19 in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_90.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced building design and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_126.md)
-* [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_127.md)
-* [Special access for vulnerable people](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_128.md)
+* [Designing affordable, adaptable, and sustainable housing with improved building environments and optimized spatial layouts, while incorporating flexible and human-centric design elements and considering health, safety, and environmental parameters.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_326.md)
 
 ## Closest similar item
 
@@ -24,4 +18,14 @@
 * [Improve construction techniques and standards, ensure the use of high-quality building materials.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1500.md)
 * [Improved building environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_276.md)
 * [Design buildings with safety measures and emergency preparedness in mind, such as evacuation routes, emergency supplies, and structural resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2573.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced building design and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_126.md)
+* [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_127.md)
+* [Special access for vulnerable people](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_128.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Exposure to COVID-19 in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_90.md)
 

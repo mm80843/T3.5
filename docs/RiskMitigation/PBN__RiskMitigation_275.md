@@ -2,14 +2,22 @@
 
 # __Social distancing__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_332.md)
-* [Spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
-* [COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_133.md)
-* [Disruption of transport operations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_927.md)
-* [Population susceptibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_429.md)
-* [Zoonotic transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_982.md)
+* [Promotion and enforcement of physical separation measures to prevent the spread of disease.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_327.md)
+
+## Closest similar item
+
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_275.md)
+* [social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3195.md)
+* [social distancing rule](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3196.md)
+* [social distancing technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3197.md)
+* [social distancing apps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3198.md)
+* [Social distancing apps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3199.md)
+* [distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3200.md)
+* [physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3201.md)
+* [Physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3202.md)
+* [signage for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3203.md)
 
 ## Property: has_MitigationBenefit
 
@@ -24,16 +32,12 @@
 * [Improved communication](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_455.md)
 * [Decrease in virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1372.md)
 
-## Closest similar item
+## Risks possibly mitigated by this Mitigation
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_275.md)
-* [social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3195.md)
-* [social distancing rule](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3196.md)
-* [social distancing technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3197.md)
-* [social distancing apps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3198.md)
-* [Social distancing apps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3199.md)
-* [distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3200.md)
-* [physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3201.md)
-* [Physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3202.md)
-* [signage for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3203.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_332.md)
+* [Spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
+* [COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_133.md)
+* [Disruption of transport operations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_927.md)
+* [Population susceptibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_429.md)
+* [Zoonotic transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_982.md)
 

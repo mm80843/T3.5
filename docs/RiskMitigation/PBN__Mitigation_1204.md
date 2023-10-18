@@ -2,8 +2,9 @@
 
 # __Conservation of existing tree specimens__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Promoting sustainable and eco-friendly practices that enhance urban green spaces, energy efficiency, and renewable energy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_180.md)
 
 ## Closest similar item
 
@@ -18,14 +19,17 @@
 * [Replicating previous research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_660.md)
 * [Vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1113.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Preserving and protecting existing tree specimens helps to maintain biodiversity and ecosystem functionality in urban areas.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Green in times of COVID-19: urban green space relevance during the COVID-19 pandemic in Buenos Aires City](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_198.md)
+
+## This Mitigation is enabled by the following technologies
+
 

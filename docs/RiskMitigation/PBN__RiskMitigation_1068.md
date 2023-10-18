@@ -2,12 +2,9 @@
 
 # __Knowledge exchange__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-
-## Property: has_MitigationBenefit
-
-* [Enhanced understanding of risks and impacts](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1063.md)
+* [Advancements in bioinformatics, divestment, automated sample collection, and artificial intelligence are facilitating early disease detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_336.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [Establish mechanisms for coordinating and integrating research, data, and expertise across stakeholders and sectors, facilitate dialogue and exchange of information, and promote a multidisciplinary approach](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1857.md)
 * [Strengthen coordination and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1034.md)
 * [Responsible information sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1446.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced understanding of risks and impacts](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1063.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

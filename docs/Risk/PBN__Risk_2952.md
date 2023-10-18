@@ -2,9 +2,9 @@
 
 # __Virus spread through vertical shaft__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Independent ventilation system for each apartment unit](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1154.md)
+* [The wide-ranging transmission, survival, and spread of infectious respiratory viruses and pathogens indoors and on surfaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_122.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Spread of virus among construction workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1558.md)
 * [Virus propagation risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_279.md)
 * [Airborne transmission of the virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3112.md)
+
+## Mitigations of this risk
+
+* [Independent ventilation system for each apartment unit](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1154.md)
 

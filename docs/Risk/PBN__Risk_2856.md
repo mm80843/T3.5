@@ -2,9 +2,9 @@
 
 # __Balancing climate objectives with economic recovery__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Developing sectoral roadmaps for a green recovery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1004.md)
+* [The interconnectedness of environmental degradation, social inequalities, and the need for climate action and conservation efforts.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_104.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Climate change adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1924.md)
 * [Challenges in global climate diplomacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_552.md)
 * [Economic climate is unfavorable for innovation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_559.md)
+
+## Mitigations of this risk
+
+* [Developing sectoral roadmaps for a green recovery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1004.md)
 

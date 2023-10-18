@@ -2,13 +2,9 @@
 
 # __Continuous monitoring of energy demands and adaptive design of the built environment__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Shifts in energy demands for the building sector during lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_391.md)
-
-## Property: has_MitigationBenefit
-
-* [Energy Demand Monitoring and Adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_536.md)
+* [Transition to sustainable energy sources, implement energy-efficient measures, and absorb increased service demand.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_351.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Continuous monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1000.md)
 * [Intelligent Built Environment Monitor (IBEM)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_319.md)
 * [Improved building environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_276.md)
+
+## Property: has_MitigationBenefit
+
+* [Energy Demand Monitoring and Adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_536.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Shifts in energy demands for the building sector during lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_391.md)
 

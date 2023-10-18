@@ -2,9 +2,9 @@
 
 # __Transmission via hands__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Handwashing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_817.md)
+* [Infectious spread through various modes such as close contact, social gatherings, fomites, bodily fluids, and respiratory droplets.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_123.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Direct transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1553.md)
 * [Direct contact transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2650.md)
 * [Direct Contact Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2973.md)
+
+## Mitigations of this risk
+
+* [Handwashing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_817.md)
 

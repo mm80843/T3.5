@@ -2,9 +2,13 @@
 
 # __visitors of green spaces__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q187449](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q187449.md)
+* [Individuals in various types of spaces, including public, indoor, and confined areas, with varying access to green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_378.md)
+
+## Risk affecting this stakeholder
+
+* [Inadequate maintenance of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1545.md)
 
 ## Closest similar item
 
@@ -19,11 +23,11 @@
 * [visitors to social spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_769.md)
 * [visitors in indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1288.md)
 
-## Risk affecting this stakeholder
-
-* [Inadequate maintenance of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1545.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Improved public health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_47.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q187449](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q187449.md)
 

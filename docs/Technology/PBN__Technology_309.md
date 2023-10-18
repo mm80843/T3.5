@@ -2,9 +2,9 @@
 
 # __implement emission monitoring systems__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q989364](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q989364.md)
+* [Advanced monitoring systems and sensor integration for IoT devices and biosensor technology facilitate environmental monitoring and facility usage tracking.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_229.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Environmental monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2533.md)
 * [monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_201.md)
 * [Monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2441.md)
+
+## This Technology is identified by the following QID
+
+* [Q989364](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q989364.md)
 

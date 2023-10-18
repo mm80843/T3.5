@@ -2,9 +2,9 @@
 
 # __air exchanges__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Airborne infection isolation rooms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1518.md)
+* [Improved air quality can be achieved through the use of various technologies such as air purifiers and monitoring systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_221.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1111.md)
 * [Air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2393.md)
 * [electronic trading platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1410.md)
+
+## This Technology enables the following mitigations
+
+* [Airborne infection isolation rooms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1518.md)
 

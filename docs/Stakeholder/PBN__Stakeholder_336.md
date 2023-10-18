@@ -2,14 +2,17 @@
 
 # __elderly__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q3540219](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3540219.md)
-* [Q1358789](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1358789.md)
+* [Entities and individuals who interact with or are affected by a system, organization, or public facility.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_1.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Psychological impact and mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1765.md)
+* [Urban heat island effect and heat waves](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1968.md)
+* [Limited Capacity to Comply](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2279.md)
+* [Inequities and exclusions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1467.md)
+* [Limited access to natural spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2114.md)
 
 ## Closest similar item
 
@@ -24,17 +27,6 @@
 * [Older adults](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2150.md)
 * [elderly and at-risk individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_194.md)
 
-## Risk affecting this stakeholder
-
-* [Psychological impact and mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1765.md)
-* [Urban heat island effect and heat waves](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1968.md)
-* [Limited Capacity to Comply](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2279.md)
-* [Inequities and exclusions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1467.md)
-* [Limited access to natural spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2114.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Reduced mental health problems](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_831.md)
@@ -42,4 +34,16 @@
 * [Integrated care](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_907.md)
 * [Improvement in mental health and quality of life](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1136.md)
 * [Increased inclusivity and accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1250.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+
+## This Stakeholder is identified by the following QID
+
+* [Q3540219](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3540219.md)
+* [Q1358789](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1358789.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 

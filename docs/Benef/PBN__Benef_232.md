@@ -2,6 +2,10 @@
 
 # __Reduced transmission__
 
+## Name of the Benefit
+
+Opening windows can increase outside air fraction and total air change rate, reducing the concentration of airborne viral particles and the risk of transmission.
+
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Adjustability of indoor temperature can improve tenant satisfaction and attract health-conscious individuals.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_242.md)
@@ -18,15 +22,6 @@
 * [Private investors benefit by investing in UV germicidal irradiation systems that enhance indoor air quality and reduce the risk of infection, thus enhancing occupant satisfaction and potentially attracting more tenants or customers.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1532.md)
 * [Private investors benefit by promoting window ventilation, which improves indoor air quality and reduces the risk of infection, thus enhancing occupant satisfaction and potentially attracting more tenants or customers.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1533.md)
 
-## Stakeholders benefitting from this Benefit
-
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-* [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
-* [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
-* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
-* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
-* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
-
 ## Articles mentionning this Benefit
 
 * [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
@@ -37,7 +32,12 @@
 * [COVID-19 and social inequalities: a complex and dynamic interaction](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_136.md)
 * [Coronavirus questions that will not go away: interrogating urban and socio-spatial implications of COVID-19 measures](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_184.md)
 
-## Name of the Benefit
+## Stakeholders benefitting from this Benefit
 
-Opening windows can increase outside air fraction and total air change rate, reducing the concentration of airborne viral particles and the risk of transmission.
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
+* [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
+* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
 

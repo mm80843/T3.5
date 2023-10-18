@@ -2,8 +2,9 @@
 
 # __Staff Compartmentalization within Zones/Cohorts__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Streamlining and optimizing healthcare operations, from patient isolation to medical waste management, through advanced technology and efficient supply chain practices.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_189.md)
 
 ## Closest similar item
 
@@ -18,14 +19,17 @@
 * [Efficient workforce management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_991.md)
 * [Facility Management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_747.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Dividing employees into smaller groups or cohorts (worker bubbles) to minimize interactions and potential transmission within the workplace.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [COVID-19 Prevention and Control Measures in Workplace Settings: A Rapid Review and Meta-Analysis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_255.md)
+
+## This Mitigation is enabled by the following technologies
+
 

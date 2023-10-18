@@ -2,9 +2,9 @@
 
 # __local funding sources__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Promote local investment and leadership](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2096.md)
+* [Maximizing economic efficiency while promoting financial stability through innovative strategies, investments, and partnerships at various levels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_195.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [adequate funding and staffing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1185.md)
 * [healthcare funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1854.md)
 * [financial assistance programs and grants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1440.md)
+
+## This Technology enables the following mitigations
+
+* [Promote local investment and leadership](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2096.md)
 

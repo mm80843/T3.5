@@ -2,9 +2,9 @@
 
 # __mopso__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Optimum occupant presence schedule](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1343.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [chws](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2955.md)
 * [press releases](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1176.md)
 * [mhealth](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4018.md)
+
+## This Technology enables the following mitigations
+
+* [Optimum occupant presence schedule](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1343.md)
 

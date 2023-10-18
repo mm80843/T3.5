@@ -2,13 +2,13 @@
 
 # __vulnerable households__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q3376054](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3376054.md)
+* [Individuals and communities experiencing socioeconomic disparities, economic hardship, housing instability, and social disadvantage.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_393.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Financial sustainability of water sector](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1919.md)
 
 ## Closest similar item
 
@@ -23,17 +23,21 @@
 * [vulnerable communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_28.md)
 * [vulnerable community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2144.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder can get these Benefits from mitigation measures
 
-* [Financial sustainability of water sector](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1919.md)
+* [Energy affordability and security](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_624.md)
+* [Financial stability and poverty reduction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1066.md)
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Vulnerable Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_82.md)
 * [Economic and Social Status](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_106.md)
 
-## This Stakeholder can get these Benefits from mitigation measures
+## This Stakeholder is identified by the following QID
 
-* [Energy affordability and security](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_624.md)
-* [Financial stability and poverty reduction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1066.md)
+* [Q3376054](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3376054.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 

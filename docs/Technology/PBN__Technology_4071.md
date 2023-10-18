@@ -2,10 +2,9 @@
 
 # __public awareness and education campaigns__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2.md)
-* [Willing co-operation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1793.md)
+* [Various campaigns and programs to inform and engage the public, raise awareness, educate, and promote reliable information.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_207.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Public education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2504.md)
 * [public education and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1872.md)
 * [public awareness programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1302.md)
+
+## This Technology enables the following mitigations
+
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2.md)
+* [Willing co-operation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1793.md)
 

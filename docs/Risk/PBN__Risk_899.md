@@ -2,9 +2,9 @@
 
 # __Lack of quantitative evidence for UBPI__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Research and evaluation of UBPI effectiveness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1239.md)
+* [The challenges include inadequate testing capacity, slow identification of cases, limited evidence, and variability in PCR methods.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_140.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inadequate maintenance of UGS](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1693.md)
 * [Non-evidence-based measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_375.md)
 * [Inaccuracy of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1231.md)
+
+## Mitigations of this risk
+
+* [Research and evaluation of UBPI effectiveness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1239.md)
 

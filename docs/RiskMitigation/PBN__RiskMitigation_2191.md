@@ -2,9 +2,9 @@
 
 # __Relocate additional health care personnel, especially those with experience in respiratory or intensive care, to AIIRs__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Shortage of health care personnel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1644.md)
+* [Enhancing healthcare infrastructure, increasing capacity, and ensuring access to medical resources and services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_330.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Construction of new medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_734.md)
 * [Maintain good ventilation and air circulation in the hospital.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1826.md)
 * [Ensure proper ventilation systems are in place and regularly maintained.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2634.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Shortage of health care personnel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1644.md)
 

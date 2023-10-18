@@ -2,13 +2,9 @@
 
 # __Connectivity analysis__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Risk connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_310.md)
-
-## Property: has_MitigationBenefit
-
-* [Identification of source and sink areas](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_386.md)
+* [Advancements in bioinformatics, divestment, automated sample collection, and artificial intelligence are facilitating early disease detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_336.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Community action networks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1202.md)
 * [Scalability and QoS provisioning in massive connectivity regime](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_33.md)
 * [Development of efficient algorithms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2203.md)
+
+## Property: has_MitigationBenefit
+
+* [Identification of source and sink areas](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_386.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Risk connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_310.md)
 

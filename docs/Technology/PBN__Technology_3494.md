@@ -2,9 +2,9 @@
 
 # __letheen broth base__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Letheen Broth Base (LBB)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_851.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [ble](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4154.md)
 * [layers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3717.md)
 * [facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3685.md)
+
+## This Technology enables the following mitigations
+
+* [Letheen Broth Base (LBB)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_851.md)
 

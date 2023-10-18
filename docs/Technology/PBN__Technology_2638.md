@@ -2,9 +2,9 @@
 
 # __Workplace safety technology__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
-* [Educational and Training Resources](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_39.md)
+* [Safety protocols, emergency response plans, risk assessment tools, and comprehensive risk communication strategies ensure workplace safety and crisis management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_232.md)
 
 ## Closest similar item
 
@@ -19,11 +19,15 @@
 * [health and safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_695.md)
 * [safety awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1669.md)
 
-## This Technology belongs to this TechGroup
-
-* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
-
 ## This Technology is identified by the following QID
 
 * [Q2064531](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2064531.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Educational and Training Resources](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_39.md)
+
+## This Technology belongs to this TechGroup
+
+* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
 

@@ -2,9 +2,9 @@
 
 # __Data breaches__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Secure storage and data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2348.md)
+* [Protection of sensitive information and prevention of unauthorized access or breaches in various technological contexts.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_117.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Fraudulent data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3416.md)
 * [Misdiagnoses, privacy breaches, equipment malfunction, costs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3432.md)
 * [Breach of confidentiality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3379.md)
+
+## Mitigations of this risk
+
+* [Secure storage and data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2348.md)
 

@@ -2,13 +2,9 @@
 
 # __Strengthening healthcare systems__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Limited access to healthcare during the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_518.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_735.md)
+* [Enhancing healthcare infrastructure, increasing capacity, and ensuring access to medical resources and services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_330.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Strengthen healthcare systems, promote public health measures, increase access to testing and treatment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2272.md)
 * [Increase healthcare resources and facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2008.md)
 * [Improve healthcare facilities, increase capacity and resources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2474.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_735.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limited access to healthcare during the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_518.md)
 

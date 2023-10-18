@@ -2,13 +2,9 @@
 
 # __Application of antiviral surface coatings__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [High infection rate via contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_657.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction in virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_917.md)
+* [Implement comprehensive strategies to control virus transmission, improve surveillance, develop antiviral coatings, and enhance infection control measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_309.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Development of more advanced self-disinfecting surface technologies with enhanced antiviral action.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2037.md)
 * [Continuously active antimicrobial coating](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1190.md)
 * [Regular cleaning and disinfection of high-touch surfaces, use of anti-SARS-CoV-2 coatings on solids](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1629.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction in virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_917.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [High infection rate via contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_657.md)
 

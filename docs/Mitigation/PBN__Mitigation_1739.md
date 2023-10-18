@@ -2,11 +2,9 @@
 
 # __Outdoor Design and Spaces__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1848.md)
-* [parks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1740.md)
-* [green areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4038.md)
+* [Enhancing availability and inclusivity of diverse, inviting, well-maintained and accessible natural environments and communal areas.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_145.md)
 
 ## Closest similar item
 
@@ -21,14 +19,20 @@
 * [Designing outdoor areas or balconies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_483.md)
 * [Outdoor access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_776.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Designing neighbourhoods with accessible outdoor spaces to promote physical activity, social interactions, and mental well-being
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Psychological Effects of Home Confinement and Social Distancing Derived from COVID-19 in the General Population—A Systematic Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_126.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1848.md)
+* [parks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1740.md)
+* [green areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4038.md)
 

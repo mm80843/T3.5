@@ -2,13 +2,9 @@
 
 # __fund management companies__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q1435728](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1435728.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+* [These companies span a wide array of industries, including renewable energy, construction, pharmaceuticals, logistics, and technology.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_387.md)
 
 ## Closest similar item
 
@@ -23,11 +19,19 @@
 * [funding organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1196.md)
 * [capital market funds](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_508.md)
 
+## Risks that can be mitigated by this stakeholder
+
+* [Superior performance of actively managed funds](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1979.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Business and Financial Services](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_58.md)
 
-## Risks that can be mitigated by this stakeholder
+## This Stakeholder is identified by the following QID
 
-* [Superior performance of actively managed funds](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1979.md)
+* [Q1435728](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1435728.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 

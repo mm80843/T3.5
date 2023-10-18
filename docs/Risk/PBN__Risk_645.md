@@ -2,10 +2,9 @@
 
 # __Negative effects of sedentary behavior during quarantine and social isolation__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Exergames and active video games](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_895.md)
-* [Dancing and yoga in small spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_896.md)
+* [The ramifications of social distancing include inconsistent recommendations, increased violence, changes in social practices, and lack of interaction, among other social issues.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_96.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Reduction of physical activity during COVID-19 quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_62.md)
 * [Increased prevalence of mental health symptoms during quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1278.md)
 * [Quarantine, self-isolation, and lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_852.md)
+
+## Mitigations of this risk
+
+* [Exergames and active video games](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_895.md)
+* [Dancing and yoga in small spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_896.md)
 

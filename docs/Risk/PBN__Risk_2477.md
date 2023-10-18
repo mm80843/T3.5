@@ -2,9 +2,9 @@
 
 # __Lack of clear guidance and standards__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Guidelines and standards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_179.md)
+* [Insufficient awareness, limited resources, inadequate communication, and lack of preparedness contribute to various challenges and deficiencies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_118.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of awareness, misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2918.md)
 * [Lack of standardization, concerns over ethics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2626.md)
 * [Lack of knowledge and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1284.md)
+
+## Mitigations of this risk
+
+* [Guidelines and standards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_179.md)
 

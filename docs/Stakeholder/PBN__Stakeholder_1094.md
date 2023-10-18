@@ -2,9 +2,9 @@
 
 # __communities living close to dams__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Increased prevalence of human schistosomiasis resulting from dam constructions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1662.md)
+* [People residing in densely populated districts or neighborhoods, including those in high-risk, low-income, or underserved areas, as well as visitors and tenants in urban locations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_384.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [communities in higher-risk areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_771.md)
 * [urban communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_776.md)
 * [communities relying on tube wells for drinking water](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1096.md)
+
+## Risk affecting this stakeholder
+
+* [Increased prevalence of human schistosomiasis resulting from dam constructions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1662.md)
 

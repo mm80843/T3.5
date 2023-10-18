@@ -2,10 +2,9 @@
 
 # __Close contact tracing__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [interviews](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_901.md)
-* [cctv footage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4203.md)
+* [Proactive measures to monitor, trace, and manage potential exposure and transmission of infectious diseases.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_148.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Develop and utilize digital contact tracing tools, emphasize privacy and security of data](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3388.md)
 * [Regular testing and contact tracing programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3389.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_489.md)
-
 ## Property: has_MitigationPrinciple
 
 Trace and monitor close contacts of confirmed COVID-19 cases
 
+## Risks possibly mitigated by this Mitigation
+
+* [Disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_489.md)
+
 ## Property: has_MitigationSource
 
 * [Preventing and Controlling COVID-19: A Practical-Based Review in Offshore Workplace](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_102.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [interviews](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_901.md)
+* [cctv footage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4203.md)
 

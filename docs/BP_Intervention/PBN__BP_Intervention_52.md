@@ -2,11 +2,11 @@
 
 # __Cleaning technologies (robots)__
 
-## Property: has_BP_InterventionTitle
-
-Cleaning technologies (robots)
-
 ## Property: has_BP_InterventionKey
 
 PS1
+
+## Property: has_BP_InterventionTitle
+
+Cleaning technologies (robots)
 

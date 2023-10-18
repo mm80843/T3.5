@@ -2,9 +2,9 @@
 
 # __Fiscal consolidation measures, economic reforms__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Declining yields on treasury instruments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1978.md)
+* [Promote sustainable development through infrastructure investments, training, diversification, financial support, and government partnerships.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_315.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Loan restructuring, government assistance, financial support programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2591.md)
 * [Implement measures to support employment, provide income support, and promote economic recovery.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2667.md)
 * [Seek financial assistance or stimulus packages, explore cost-saving measures, diversify revenue streams.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1904.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Declining yields on treasury instruments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1978.md)
 

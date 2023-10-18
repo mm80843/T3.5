@@ -2,9 +2,9 @@
 
 # __x-ray fluorescence spectroscopy__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [X-Ray Fluorescence Spectroscopy (XRF) spectrometer analyzer](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_843.md)
+* [Advancements in biotechnology, clinical research, and innovative therapies contribute to the development of medical solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [molecular diagnostics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2027.md)
 * [Molecular diagnostics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2802.md)
 * [germicidal ultraviolet (guv)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3820.md)
+
+## This Technology enables the following mitigations
+
+* [X-Ray Fluorescence Spectroscopy (XRF) spectrometer analyzer](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_843.md)
 

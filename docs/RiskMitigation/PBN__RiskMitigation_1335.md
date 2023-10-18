@@ -2,13 +2,9 @@
 
 # __Bedrooms designed for sleep__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Inadequate circadian regulation in bedrooms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_954.md)
-
-## Property: has_MitigationBenefit
-
-* [Better sleep quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1315.md)
+* [Designing affordable, adaptable, and sustainable housing with improved building environments and optimized spatial layouts, while incorporating flexible and human-centric design elements and considering health, safety, and environmental parameters.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_326.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Housing design strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1217.md)
 * [Improve housing dimensions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1220.md)
 * [Design apartments with adaptable floor plans and flexible room dividers.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2487.md)
+
+## Property: has_MitigationBenefit
+
+* [Better sleep quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1315.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inadequate circadian regulation in bedrooms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_954.md)
 

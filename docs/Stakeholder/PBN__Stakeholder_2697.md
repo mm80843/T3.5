@@ -2,13 +2,9 @@
 
 # __Park management authority__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q22746](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q22746.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Environmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_13.md)
+* [Various organizations and professionals responsible for overseeing specific areas of governance, infrastructure, protection, and creativity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_395.md)
 
 ## Closest similar item
 
@@ -26,4 +22,12 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Park and Recreation](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_28.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q22746](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q22746.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Environmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_13.md)
 

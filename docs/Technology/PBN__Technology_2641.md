@@ -2,9 +2,9 @@
 
 # __Distance learning technology__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
-* [Digital Learning Platforms and Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_56.md)
+* [Technological advancements encompass a wide range of innovations, such as blockchain, touchless, renewable energy, and communication technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
 
 ## Closest similar item
 
@@ -19,11 +19,15 @@
 * [Remote learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2634.md)
 * [remote education technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1262.md)
 
-## This Technology belongs to this TechGroup
-
-* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1362939](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1362939.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Digital Learning Platforms and Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_56.md)
+
+## This Technology belongs to this TechGroup
+
+* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
 

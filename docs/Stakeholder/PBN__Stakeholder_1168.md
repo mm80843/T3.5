@@ -2,13 +2,13 @@
 
 # __healthcare researchers__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q15401884](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q15401884.md)
+* [Those involved in the provision and management of healthcare services, including workers, professionals, facilities, and users.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_355.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
+* [Data quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1753.md)
 
 ## Closest similar item
 
@@ -23,10 +23,14 @@
 * [healthcare professional](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1873.md)
 * [scientists and researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_355.md)
 
-## Risk affecting this stakeholder
-
-* [Data quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1753.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
+
+## This Stakeholder is identified by the following QID
+
+* [Q15401884](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q15401884.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
 

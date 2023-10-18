@@ -2,9 +2,9 @@
 
 # __funeral organizers__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Guidelines for funerals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1352.md)
+* [A diverse array of entities dedicated to various industries, causes, or services, promoting growth and welfare in society.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_369.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [attendees of mass gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_861.md)
 * [individual attending event](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2509.md)
 * [surgical teams](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_780.md)
+
+## Risk affecting this stakeholder
+
+* [Guidelines for funerals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1352.md)
 

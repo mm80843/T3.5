@@ -2,30 +2,6 @@
 
 # __public health authorities__
 
-## Closest similar item
-
-* [Public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2724.md)
-* [public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_222.md)
-* [healthcare authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_452.md)
-* [public health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_173.md)
-* [public health initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2725.md)
-* [official health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1014.md)
-* [Public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2726.md)
-* [public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2727.md)
-* [public health guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2728.md)
-* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2729.md)
-
-## Risk affecting this stakeholder
-
-* [Climate change enhancing mosquito populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2006.md)
-* [Reliance on technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1965.md)
-* [Delayed infectious disease reporting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1240.md)
-* [Under-notification of cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1368.md)
-* [Limited coordination across sub-populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2010.md)
-* [Inaccurate estimation of COVID-19 prevalence from wastewater data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1951.md)
-* [False positive reactions in wastewater testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1950.md)
-* [Lack of reliable AI forecasting models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1720.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Early detection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_0.md)
@@ -65,6 +41,23 @@
 * [Enhanced ability to enact coordinated community-level vector control efforts](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1047.md)
 * [Contact tracing and remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1093.md)
 * [Improved contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1392.md)
+
+## Category to which it belongs
+
+* [Public health stakeholders and individuals alike are concerned about health, seeking information and guidance from trusted sources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_354.md)
+
+## Closest similar item
+
+* [Public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2724.md)
+* [public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_222.md)
+* [healthcare authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_452.md)
+* [public health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_173.md)
+* [public health initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2725.md)
+* [official health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1014.md)
+* [Public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2726.md)
+* [public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2727.md)
+* [public health guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2728.md)
+* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2729.md)
 
 ## Risks that can be mitigated by this stakeholder
 
@@ -140,4 +133,15 @@
 * [Spread before symptoms appear](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1747.md)
 * [Testing disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1936.md)
 * [Differential impact of measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1938.md)
+
+## Risk affecting this stakeholder
+
+* [Climate change enhancing mosquito populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2006.md)
+* [Reliance on technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1965.md)
+* [Delayed infectious disease reporting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1240.md)
+* [Under-notification of cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1368.md)
+* [Limited coordination across sub-populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2010.md)
+* [Inaccurate estimation of COVID-19 prevalence from wastewater data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1951.md)
+* [False positive reactions in wastewater testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1950.md)
+* [Lack of reliable AI forecasting models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1720.md)
 

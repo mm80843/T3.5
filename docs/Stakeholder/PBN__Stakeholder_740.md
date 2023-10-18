@@ -2,9 +2,9 @@
 
 # __particularly individuals in crowded public spaces__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Contagious transmission of pathogens in public settings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1227.md)
+* [Individuals in various types of spaces, including public, indoor, and confined areas, with varying access to green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_378.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [individual in crowded environment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2375.md)
 * [individuals in crowded indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_887.md)
 * [individual in crowded space](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2282.md)
+
+## Risk affecting this stakeholder
+
+* [Contagious transmission of pathogens in public settings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1227.md)
 

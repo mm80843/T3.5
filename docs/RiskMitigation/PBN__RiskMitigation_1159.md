@@ -2,13 +2,9 @@
 
 # __Mobile tracing and monitoring apps__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Geographical spread of virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_844.md)
-
-## Property: has_MitigationBenefit
-
-* [Self-monitoring and assessment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1160.md)
+* [Enhanced surveillance, monitoring, and real-time tracking for improved control and response to various situations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_312.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implementation of smartphone-based apps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1422.md)
 * [Contact tracing tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_636.md)
 * [Mobile technology applications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1149.md)
+
+## Property: has_MitigationBenefit
+
+* [Self-monitoring and assessment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1160.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Geographical spread of virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_844.md)
 

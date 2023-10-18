@@ -2,9 +2,9 @@
 
 # __railway transport__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Restricting inter-city connections](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1118.md)
+* [Enhancing accessibility and support through a range of remote healthcare, counseling, transportation, and translation services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_213.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [alternative modes of transportation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1992.md)
 * [Alternative modes of transportation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2888.md)
 * [emergency transportation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4177.md)
+
+## This Technology enables the following mitigations
+
+* [Restricting inter-city connections](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1118.md)
 

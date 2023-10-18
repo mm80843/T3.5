@@ -2,9 +2,9 @@
 
 # __Increase access to nature through balconies, green spaces, and windows, maximize daylight and natural ventilation__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Limited access to nature and fresh air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1674.md)
+* [Promote biodiversity and sustainable urban development through the establishment and accessibility of green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_322.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Encourage outdoor activities in green spaces, create more green spaces in urban areas, protect existing natural areas.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2767.md)
 * [Improve ventilation systems, increase outdoor air supply.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1808.md)
 * [Increase the amount of outdoor air in ventilation systems, open windows for natural ventilation, and ensure proper ventilation design and operation.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1935.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limited access to nature and fresh air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1674.md)
 

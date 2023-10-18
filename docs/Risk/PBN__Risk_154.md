@@ -2,9 +2,9 @@
 
 # __Limited vaccine storage capacity__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Improve cold chain logistics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_197.md)
+* [The challenges in vaccination include limited storage capacity, high patient demand, inefficient resource use, distribution difficulties, waning vaccine effectiveness, and unequal access.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_113.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inefficient use of resources in vaccination process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_156.md)
 * [Vaccine hesitancy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1909.md)
 * [Representation and analysis of vaccine candidates](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_41.md)
+
+## Mitigations of this risk
+
+* [Improve cold chain logistics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_197.md)
 

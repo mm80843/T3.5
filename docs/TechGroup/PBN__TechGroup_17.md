@@ -2,6 +2,23 @@
 
 # __Drones and robots__
 
+## Category to which it belongs
+
+* [Unmanned automated technology.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_302.md)
+
+## Closest similar item
+
+* [drones](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_123.md)
+* [Robots, Drones & Automated Vehicules](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_124.md)
+* [drone technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_125.md)
+* [Robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_126.md)
+* [robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_127.md)
+* [drones for monitoring overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_128.md)
+* [Drones for monitoring overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_129.md)
+* [robotics](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_130.md)
+* [robot systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_131.md)
+* [robotic systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_132.md)
+
 ## This Technology belongs to this TechnologyGroup
 
 * [monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_201.md)
@@ -58,17 +75,4 @@
 * [Robot-assisted swabbing and blood testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2886.md)
 * [Teleoperation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2651.md)
 * [Robotic disinfection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2881.md)
-
-## Closest similar item
-
-* [drones](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_123.md)
-* [Robots, Drones & Automated Vehicules](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_124.md)
-* [drone technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_125.md)
-* [Robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_126.md)
-* [robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_127.md)
-* [drones for monitoring overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_128.md)
-* [Drones for monitoring overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_129.md)
-* [robotics](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_130.md)
-* [robot systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_131.md)
-* [robotic systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_132.md)
 

@@ -2,9 +2,9 @@
 
 # __Crowd control measures__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [crowd management techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3636.md)
+* [A comprehensive set of actions and rules aimed at protecting individuals and controlling the spread of COVID-19.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_173.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Implementing social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1125.md)
 * [Evaluating control measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1438.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Contagious disease propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2915.md)
-
 ## Property: has_MitigationPrinciple
 
 Limits the number of individuals in a space to reduce the risk of transmission
 
+## Risks possibly mitigated by this Mitigation
+
+* [Contagious disease propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2915.md)
+
 ## Property: has_MitigationSource
 
 * [COVID-19 and the UN Sustainable Development Goals: Threat to Solidarity or an Opportunity?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_109.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [crowd management techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3636.md)
 

@@ -2,10 +2,9 @@
 
 # __Distance learning__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [computers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4091.md)
-* [internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3058.md)
+* [Promoting effective communication, education, and trust through transparency, clear guidelines, and innovative strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_144.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Online Education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1446.md)
 * [Machine learning models](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2369.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Disruption of education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2662.md)
-
 ## Property: has_MitigationPrinciple
 
 Enable remote access to educational resources
 
+## Risks possibly mitigated by this Mitigation
+
+* [Disruption of education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2662.md)
+
 ## Property: has_MitigationSource
 
 * [COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_58.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [computers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4091.md)
+* [internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3058.md)
 

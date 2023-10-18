@@ -2,13 +2,9 @@
 
 # __IoT in healthcare (IoMT)__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Difficulties faced by orthopaedic patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_117.md)
-
-## Property: has_MitigationBenefit
-
-* [Resolving medical facility issues for orthopaedic patients](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_159.md)
+* [The trend towards remote and digital healthcare is encompassing telecommuting, telehealth, teleconferencing, wearable technology, touchless technologies, and mobile applications.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_328.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [IoT and AI](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1287.md)
 * [IoT in drug delivery](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_141.md)
 * [Implement IoT technologies and data collection systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_201.md)
+
+## Property: has_MitigationBenefit
+
+* [Resolving medical facility issues for orthopaedic patients](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_159.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Difficulties faced by orthopaedic patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_117.md)
 

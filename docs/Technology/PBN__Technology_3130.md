@@ -2,9 +2,9 @@
 
 # __medium__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Daily Tasks and Activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_297.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [internet)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3466.md)
 * [mmwave](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4151.md)
 * [journalism](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3359.md)
+
+## This Technology enables the following mitigations
+
+* [Daily Tasks and Activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_297.md)
 

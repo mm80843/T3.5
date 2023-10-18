@@ -2,13 +2,13 @@
 
 # __extensive sample clean-up processes__
 
+## Category to which it belongs
+
+* [Enhanced hygiene practices and strict adherence to cleaning protocols ensure rigorous sanitation and disinfection measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_196.md)
+
 ## Risks linked to this technology
 
 * [Complex wastewater matrix as a challenge for biosensor detection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1153.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Mass Production Techniques](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_188.md)
 
 ## Closest similar item
 
@@ -23,11 +23,15 @@
 * [automated cleaning systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_205.md)
 * [Automated cleaning systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2767.md)
 
-## This Technology belongs to this TechGroup
-
-* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1172378](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1172378.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Mass Production Techniques](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_188.md)
+
+## This Technology belongs to this TechGroup
+
+* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
 

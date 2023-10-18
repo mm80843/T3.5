@@ -2,6 +2,23 @@
 
 # __Risk of infection__
 
+## Category to which it belongs
+
+* [The dissemination of infectious diseases, characterized by outbreaks from various sources, inadequate preparedness, and insufficient reporting and understanding, poses a global threat.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_106.md)
+
+## Closest similar item
+
+* [Infection Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1767.md)
+* [Exposure to pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2424.md)
+* [Infection prevention](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2494.md)
+* [Infection and disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2618.md)
+* [Increased risk of virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2823.md)
+* [Susceptibility to infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2717.md)
+* [Risk of infection through face-to-face contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_849.md)
+* [infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2324.md)
+* [Transmission of Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2812.md)
+* [Infection risk of COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_601.md)
+
 ## Mitigations of this risk
 
 * [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_170.md)
@@ -29,17 +46,4 @@
 * [Personalized ventilation system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2045.md)
 * [Combination of social distancing and high ventilation effectiveness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2047.md)
 * [Increasing ventilation rate](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2048.md)
-
-## Closest similar item
-
-* [Infection Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1767.md)
-* [Exposure to pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2424.md)
-* [Infection prevention](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2494.md)
-* [Infection and disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2618.md)
-* [Increased risk of virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2823.md)
-* [Susceptibility to infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2717.md)
-* [Risk of infection through face-to-face contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_849.md)
-* [infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2324.md)
-* [Transmission of Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2812.md)
-* [Infection risk of COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_601.md)
 

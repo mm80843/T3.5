@@ -2,9 +2,9 @@
 
 # __fountains__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Mosquito Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1148.md)
+* [Improvements in wastewater, waste management, sanitation, water purification, and plumbing technologies aim for sustainable and efficient infrastructure development.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_234.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [water treatment facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_666.md)
 * [bathrooms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3905.md)
 * [rain gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3900.md)
+
+## This Technology enables the following mitigations
+
+* [Mosquito Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1148.md)
 

@@ -2,9 +2,9 @@
 
 # __Incorporate diverse types of green spaces in urban planning and design, prioritize the creation of green spaces with diverse vegetation and design features__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of green space diversity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1544.md)
+* [Promote biodiversity and sustainable urban development through the establishment and accessibility of green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_322.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Incorporate green space quality assessments into urban planning, prioritize the preservation of high-quality green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1875.md)
 * [Implement compact design principles, preserve existing green spaces, create new green spaces in urban developments](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1876.md)
 * [Implement urban greening initiatives to create and enhance green spaces in highly urbanized areas, consider green roofs and vertical gardens](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2075.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of green space diversity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1544.md)
 

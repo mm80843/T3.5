@@ -2,9 +2,9 @@
 
 # __production optimization tools__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q353396](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q353396.md)
+* [Efficiently manage and optimize the flow of goods, data, and suppliers for resilient local supply chains.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_191.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [scalability in production](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2031.md)
 * [supply chain management tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_132.md)
 * [grid optimization technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_870.md)
+
+## This Technology is identified by the following QID
+
+* [Q353396](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q353396.md)
 

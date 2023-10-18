@@ -2,9 +2,9 @@
 
 # __television__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Use of television and social media-based exercise programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1537.md)
+* [Virtual healthcare and remote communication technology including telemedicine, telehealth platforms, teletherapy, teleconferencing, and tele-operation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_202.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [music](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3234.md)
 * [computers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4091.md)
 * [radio](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3805.md)
+
+## This Technology enables the following mitigations
+
+* [Use of television and social media-based exercise programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1537.md)
 

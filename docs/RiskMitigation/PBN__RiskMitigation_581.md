@@ -2,14 +2,9 @@
 
 # __Contractual arrangements__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Legal problems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_418.md)
-
-## Property: has_MitigationBenefit
-
-* [Revision of contract](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_574.md)
-* [Extension of Time (EOT) entitlements](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_575.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -23,4 +18,13 @@
 * [Implement flexible work arrangements, such as remote work and flexible schedules.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2614.md)
 * [Ensuring equitable access](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2978.md)
 * [Seek financial aids, revise contracts to claim losses](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2110.md)
+
+## Property: has_MitigationBenefit
+
+* [Revision of contract](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_574.md)
+* [Extension of Time (EOT) entitlements](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_575.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Legal problems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_418.md)
 

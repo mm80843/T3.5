@@ -2,9 +2,9 @@
 
 # __Crowd management, capacity limits, physical distancing measures.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_571.md)
+* [Promotion and enforcement of physical separation measures to prevent the spread of disease.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_327.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement crowd management strategies, such as appointment systems, queue management, and social distancing measures. Increase the number of vaccination sites and healthcare personnel.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2508.md)
 * [Restriction on crowding](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1417.md)
 * [Implement physical distancing measures, reduce overcrowding, and promote remote work when possible.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2503.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_571.md)
 

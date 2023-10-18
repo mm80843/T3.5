@@ -2,9 +2,9 @@
 
 # __Deploy telehealth solutions, use of AI and robotics in healthcare, support research and development efforts__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Impact on information technology, media, and research & development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1816.md)
+* [The trend towards remote and digital healthcare is encompassing telecommuting, telehealth, teleconferencing, wearable technology, touchless technologies, and mobile applications.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_328.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement telemedicine services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_49.md)
 * [Adoption of telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_906.md)
 * [Expand telehealth services for virtual therapy and counseling; increase availability of online mental health resources; train and support mental health professionals in remote service delivery.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2608.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Impact on information technology, media, and research & development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1816.md)
 

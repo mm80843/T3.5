@@ -2,9 +2,9 @@
 
 # __Lack of community-level vector control capacity__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Improving capacity for essential vector control operations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1049.md)
+* [Limited monitoring, technical limitations, language barriers, expensive optimization, lack of connection with nature, and limited sensor diversity hinder effective response and resource allocation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_107.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Increased habitat suitability for vectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1847.md)
 * [Lack of community participation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2570.md)
 * [Lack of community trust and empowerment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3404.md)
+
+## Mitigations of this risk
+
+* [Improving capacity for essential vector control operations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1049.md)
 

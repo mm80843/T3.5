@@ -2,9 +2,9 @@
 
 # __communication agencies__
 
-## This Stakeholder belongs to this StakeholderGroup
+## Category to which it belongs
 
-* [Media](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_3.md)
+* [Government and non-governmental organizations responsible for a wide range of services, including health, development, regulation, and emergency response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_382.md)
 
 ## Closest similar item
 
@@ -19,12 +19,16 @@
 * [employment agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1250.md)
 * [security agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1533.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Communication Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_34.md)
-
 ## Risks that can be mitigated by this stakeholder
 
 * [Political mismanagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1018.md)
 * [Manipulated media coverage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1019.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Media](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_3.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Communication Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_34.md)
 

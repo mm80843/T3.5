@@ -2,9 +2,9 @@
 
 # __Proactive case finding__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [national health insurance (nhi) database](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4409.md)
+* [Expansive array of methods, including biomarkers, self-reported symptoms, and AI-powered diagnostics, used for widespread and rapid testing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_179.md)
 
 ## Closest similar item
 
@@ -19,14 +19,18 @@
 * [Synthesising the best available evidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_602.md)
 * [Search for evidence beyond conventional types](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_610.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Seeks out patients with severe respiratory symptoms who tested negative for influenza and retests them for COVID-19
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Response to COVID-19 in Taiwan: Big Data Analytics, New Technology, and Proactive Testing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_24.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [national health insurance (nhi) database](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4409.md)
 

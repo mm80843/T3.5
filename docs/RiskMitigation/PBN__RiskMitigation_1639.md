@@ -2,9 +2,9 @@
 
 # __Establish civil right to counsel in eviction cases, provide legal aid resources.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Access to Legal Representation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1187.md)
+* [Implement comprehensive measures to ensure support, protection, and assistance for vulnerable populations during the pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_349.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Provide built-in facilities or services to support domestic violence victims](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2895.md)
 * [Provide mental health support services and resources.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2463.md)
 * [Increased support services for domestic abuse victims](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_680.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Access to Legal Representation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1187.md)
 

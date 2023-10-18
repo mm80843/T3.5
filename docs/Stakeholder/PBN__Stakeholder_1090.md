@@ -2,9 +2,9 @@
 
 # __sanitation agencies__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Faecal-oral transmission of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1660.md)
+* [Government and non-governmental organizations responsible for a wide range of services, including health, development, regulation, and emergency response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_382.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [wastewater treatment authority](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2679.md)
 * [waste management agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1491.md)
 * [water management agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2405.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Faecal-oral transmission of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1660.md)
 

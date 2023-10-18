@@ -2,9 +2,9 @@
 
 # __sdn__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Rapid deployment of new healthcare applications and services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1946.md)
+* [Enhanced connectivity and diverse communication platforms enable the dissemination of reliable information and promote open communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_225.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [sensor networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4053.md)
 * [online networking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_909.md)
 * [connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4145.md)
+
+## This Technology enables the following mitigations
+
+* [Rapid deployment of new healthcare applications and services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1946.md)
 

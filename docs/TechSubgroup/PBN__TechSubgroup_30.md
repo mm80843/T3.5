@@ -2,13 +2,9 @@
 
 # __Bioinformatics and Genomic Analysis__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [Artificial Intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2112.md)
-* [literature mining](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_716.md)
-* [Machine Learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2111.md)
-* [personalized medicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1553.md)
-* [Bioinformatics tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2127.md)
+* [Exploration, organization, and examination of information for scientific studies, including genomics and bioinformatics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_22.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Diagnostic and Testing Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_12.md)
 * [Benchmarking](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_172.md)
 * [Cybersecurity and Security Protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_135.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [Artificial Intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2112.md)
+* [literature mining](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_716.md)
+* [Machine Learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2111.md)
+* [personalized medicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1553.md)
+* [Bioinformatics tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2127.md)
 

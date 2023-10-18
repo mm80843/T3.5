@@ -2,9 +2,9 @@
 
 # __Inclusion of flowers__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [green space design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3370.md)
+* [Maximizing control and efficiency in various domains through advanced technology and strategic planning.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_163.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Garden access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_739.md)
 * [Plant species diversity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_634.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Wildlife support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2672.md)
-
 ## Property: has_MitigationPrinciple
 
 Incorporating flowers and other flowering plants in green spaces to enhance their restorative potential for humans and provide food and habitat for pollinators and other wildlife species.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Wildlife support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2672.md)
+
 ## Property: has_MitigationSource
 
 * [Green infrastructure through the lens of “One Health”: A systematic review and integrative framework uncovering synergies and trade-offs between mental health and wildlife support in cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_150.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [green space design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3370.md)
 

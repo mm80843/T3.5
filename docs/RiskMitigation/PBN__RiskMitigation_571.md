@@ -2,13 +2,9 @@
 
 # __Implement hygiene measures__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Fear of infection in public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_407.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved cleanliness](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_557.md)
+* [Promote and enforce hygiene practices, implement sanitation measures, and provide education on proper handwashing techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_332.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implementing safety measures, promoting hygiene practices, and providing accurate information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2207.md)
 * [Implementing proper sanitation measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_888.md)
 * [Enhanced cleanliness and sanitation measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_480.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved cleanliness](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_557.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Fear of infection in public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_407.md)
 

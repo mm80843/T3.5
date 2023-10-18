@@ -2,9 +2,9 @@
 
 # __bioaider software__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Sequence annotation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2220.md)
+* [A list of diverse software tools, including financial management, construction technology, project management, communication, and monitoring software.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_219.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Contract management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2639.md)
 * [r software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3160.md)
 * [software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4165.md)
+
+## This Technology enables the following mitigations
+
+* [Sequence annotation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2220.md)
 

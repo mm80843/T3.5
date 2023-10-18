@@ -2,9 +2,9 @@
 
 # __energy-efficient equipment__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Stand-by load](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_705.md)
+* [Improved and energy-efficient HVAC systems, along with advanced technologies, for efficient energy management and environmental control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_227.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [energy-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_79.md)
 * [Energy-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2231.md)
 * [energy efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3595.md)
+
+## This Technology enables the following mitigations
+
+* [Stand-by load](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_705.md)
 

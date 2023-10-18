@@ -2,9 +2,13 @@
 
 # __building managers__
 
-## This Stakeholder belongs to this StakeholderGroup
+## This Stakeholder can get these Benefits from mitigation measures
 
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+* [Quantitative assessment of occupant exposure](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_13.md)
+
+## Category to which it belongs
+
+* [Managers responsible for overseeing various aspects of a building, including supply chain, facilities, construction projects, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_366.md)
 
 ## Closest similar item
 
@@ -18,22 +22,6 @@
 * [construction project managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_774.md)
 * [building owners and facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_916.md)
 * [building facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_75.md)
-
-## Risk affecting this stakeholder
-
-* [Model identification](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1654.md)
-* [Inaccurate measurement data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1657.md)
-* [Error accumulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1658.md)
-* [Lack of real people flow data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1656.md)
-* [Lack of spatiotemporal scale and resolution in data collection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1405.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Real Estate and Construction](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_31.md)
-
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Quantitative assessment of occupant exposure](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_13.md)
 
 ## Risks that can be mitigated by this stakeholder
 
@@ -52,4 +40,20 @@
 * [Inactivation of human coronaviruses by far-UVC light](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1228.md)
 * [Limited penetration of far-UVC light](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1226.md)
 * [Lack of sunlight and fresh air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1292.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Real Estate and Construction](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_31.md)
+
+## Risk affecting this stakeholder
+
+* [Model identification](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1654.md)
+* [Inaccurate measurement data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1657.md)
+* [Error accumulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1658.md)
+* [Lack of real people flow data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1656.md)
+* [Lack of spatiotemporal scale and resolution in data collection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1405.md)
 

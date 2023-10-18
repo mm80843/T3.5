@@ -2,10 +2,9 @@
 
 # __coordination__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Increased Support for Domestic Violence Services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1457.md)
-* [Partnership](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1825.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [collaboration mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3357.md)
 * [collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_151.md)
 * [coordinated services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4080.md)
+
+## This Technology enables the following mitigations
+
+* [Increased Support for Domestic Violence Services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1457.md)
+* [Partnership](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1825.md)
 

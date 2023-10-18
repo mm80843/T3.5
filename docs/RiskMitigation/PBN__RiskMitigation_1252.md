@@ -2,13 +2,9 @@
 
 # __Increasing public awareness towards energy conservation__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [High energy consumption in residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_908.md)
-
-## Property: has_MitigationBenefit
-
-* [Energy-saving conscious attitude](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1241.md)
+* [Transition to sustainable energy sources, implement energy-efficient measures, and absorb increased service demand.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_351.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Increase public awareness and education about the benefits of urban green spaces through targeted campaigns and community outreach](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2410.md)
 * [Raising awareness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3123.md)
 * [Promotion of sustainable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_234.md)
+
+## Property: has_MitigationBenefit
+
+* [Energy-saving conscious attitude](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1241.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [High energy consumption in residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_908.md)
 

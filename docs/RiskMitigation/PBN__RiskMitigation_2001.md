@@ -2,9 +2,9 @@
 
 # __Consider weather conditions when estimating air change rates__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Meteorological conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1482.md)
+* [Optimize indoor environments, regulate temperature and humidity, control air quality, and extend HVAC system operations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_341.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Establish and maintain proper ventilation systems, increase airflow and air exchange rate](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2929.md)
 * [Develop correction methods and algorithms to account for variations in sewage flow rate, collect and analyze data on weather events and their impact on sewage flow.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3077.md)
 * [Implement physical distancing measures, improve ventilation and air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2338.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Meteorological conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1482.md)
 

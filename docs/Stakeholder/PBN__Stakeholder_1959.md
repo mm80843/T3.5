@@ -2,9 +2,9 @@
 
 # __non-governmental organizations__
 
-## This Stakeholder belongs to this StakeholderGroup
+## Category to which it belongs
 
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+* [A diverse array of entities dedicated to various industries, causes, or services, promoting growth and welfare in society.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_369.md)
 
 ## Closest similar item
 
@@ -18,6 +18,10 @@
 * [nonprofits](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_810.md)
 * [Nonprofits](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2449.md)
 * [Nonprofit](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2458.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 

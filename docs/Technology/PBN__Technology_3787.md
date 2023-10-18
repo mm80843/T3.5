@@ -2,9 +2,9 @@
 
 # __eye protection gear__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_535.md)
+* [Safety and operational tools for various fields, including healthcare, cleaning, maintenance, and emergency preparation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_212.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_951.md)
 * [Use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2588.md)
 * [face shields](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_486.md)
+
+## This Technology enables the following mitigations
+
+* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_535.md)
 

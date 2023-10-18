@@ -2,9 +2,9 @@
 
 # __Black swan events__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Resilient approach](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_644.md)
+* [A list of challenges and uncertainties surrounding the impact and response to various events and crises in different sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_124.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Limited pre-event preparations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_804.md)
 * [Gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3215.md)
 * [Herd immunity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_334.md)
+
+## Mitigations of this risk
+
+* [Resilient approach](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_644.md)
 

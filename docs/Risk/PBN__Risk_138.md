@@ -2,9 +2,9 @@
 
 # __COVID-19 spread in schools and childcare facilities__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Implementation of hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_164.md)
+* [The far-reaching consequences of COVID-19 include its transmission through various settings, impact on urban areas, and scarcity of resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [COVID-19 spread in the workplace](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_675.md)
 * [Risk of spreading COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2982.md)
 * [Spread of COVID-19 through institutions for care of the elderly](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1355.md)
+
+## Mitigations of this risk
+
+* [Implementation of hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_164.md)
 

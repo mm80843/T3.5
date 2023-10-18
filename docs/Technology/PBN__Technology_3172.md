@@ -2,9 +2,9 @@
 
 # __health insurance policies__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Health insurance coverage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_337.md)
+* [Improved healthcare infrastructure and resources enable public health authorities to implement effective messaging and interventions, ensuring equitable access to healthcare facilities and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_209.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [assistance programs for healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1283.md)
 * [healthcare funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1854.md)
 * [welfare policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3424.md)
+
+## This Technology enables the following mitigations
+
+* [Health insurance coverage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_337.md)
 

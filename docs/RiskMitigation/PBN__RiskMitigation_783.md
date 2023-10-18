@@ -2,13 +2,9 @@
 
 # __Force majeure clause__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Contractual issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_556.md)
-
-## Property: has_MitigationBenefit
-
-* [Resolved disputes](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_786.md)
+* [Implementing a comprehensive package of measures to ensure the smooth functioning and safety of essential services and activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_6.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Contractual arrangements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_581.md)
 * [Forced experimentation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_431.md)
 * [Implementing precautionary measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_639.md)
+
+## Property: has_MitigationBenefit
+
+* [Resolved disputes](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_786.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Contractual issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_556.md)
 

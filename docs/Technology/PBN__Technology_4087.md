@@ -2,9 +2,9 @@
 
 # __infrared cameras__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Infrared thermal imaging](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1814.md)
+* [Enhanced monitoring and surveillance technologies enable real-time tracking, video conferencing, and improved detection methods.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_214.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [surveillance cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_165.md)
 * [Surveillance cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2432.md)
 * [cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3842.md)
+
+## This Technology enables the following mitigations
+
+* [Infrared thermal imaging](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1814.md)
 

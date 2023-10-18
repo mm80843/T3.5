@@ -2,6 +2,10 @@
 
 # __Protecting privacy of citizens’ data__
 
+## Category to which it belongs
+
+* [Improved data management and sharing for efficient and secure information exchange and analysis across various platforms and stakeholders.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_182.md)
+
 ## Closest similar item
 
 * [Anonymization of data](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_100.md)

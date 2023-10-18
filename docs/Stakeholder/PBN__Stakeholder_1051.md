@@ -2,13 +2,13 @@
 
 # __contact persons of infected individuals__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q70341172](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q70341172.md)
+* [All people, especially those at risk or facing various circumstances, including age, health conditions, or unemployment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_374.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
+* [Presence of symptomatic and asymptomatic carriers in the population](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1625.md)
 
 ## Closest similar item
 
@@ -23,11 +23,15 @@
 * [infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_161.md)
 * [individual who come into contact with infected individual or contaminated surface](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2133.md)
 
-## Risk affecting this stakeholder
-
-* [Presence of symptomatic and asymptomatic carriers in the population](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1625.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Workers/Professionals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_47.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q70341172](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q70341172.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
 

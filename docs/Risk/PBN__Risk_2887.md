@@ -2,9 +2,9 @@
 
 # __Surface contamination in public transport__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [UV disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1052.md)
+* [The widespread presence and transfer of harmful pathogens and contaminants on various surfaces and environments pose serious risks to public health and the ecosystem.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_100.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Contaminated Surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3284.md)
 * [Transmission through contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1374.md)
 * [Contamination of frequently touched surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1421.md)
+
+## Mitigations of this risk
+
+* [UV disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1052.md)
 

@@ -2,13 +2,9 @@
 
 # __Minimize sharing vertical shaft systems__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Virus spread in apartments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_639.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduced risk of virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_177.md)
+* [Designing affordable, adaptable, and sustainable housing with improved building environments and optimized spatial layouts, while incorporating flexible and human-centric design elements and considering health, safety, and environmental parameters.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_326.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Reduce between-ness centrality of railway stations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_126.md)
 * [Optimize layout to provide separate spaces, utilize room dividers and soundproofing materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2231.md)
 * [Improving capacity for essential vector control operations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1049.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced risk of virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_177.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Virus spread in apartments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_639.md)
 

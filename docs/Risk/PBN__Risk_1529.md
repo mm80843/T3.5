@@ -2,24 +2,9 @@
 
 # __Induction process__
 
-## Property: has_RiskHealth
+## Category to which it belongs
 
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Description of the risk
-
-Challenges in conducting induction and drug/alcohol testing
-
-## Property: has_RiskType
-
-* [legal](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_6.md)
-
-## Articles mentionning the risk
-
-* [The impact of COVID-19 outbreak on United Kingdom infrastructure sector](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_141.md)
+* [The challenges and consequences of the global pandemic include poor acoustics, noise pollution, food security, increase in inequality, waste, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_131.md)
 
 ## Closest similar item
 
@@ -34,33 +19,52 @@ Challenges in conducting induction and drug/alcohol testing
 * [Time overrun](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_597.md)
 * [Corruption in donation processes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_847.md)
 
-## People affected by this risk
+## Description of the risk
 
-* [new staff members](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_985.md)
+Challenges in conducting induction and drug/alcohol testing
+
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Property: has_RiskHealth
+
 
 ## Property: has_RiskISO_Impact
 
 * [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_5.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Mitigations of this risk
+
+* [Implement remote induction process](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2056.md)
+
+## Name of the risk
+
+Delayed onboarding of new staff, potential safety risks
 
 ## Stakeholders who can mitigate this risk
 
 * [human resources](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_842.md)
 * [responsible owner](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_980.md)
 
-## Name of the risk
+## Articles mentionning the risk
 
-Delayed onboarding of new staff, potential safety risks
+* [The impact of COVID-19 outbreak on United Kingdom infrastructure sector](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_141.md)
 
-## Mitigations of this risk
+## People affected by this risk
 
-* [Implement remote induction process](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2056.md)
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+* [new staff members](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_985.md)
 
 ## Technologies linked to the risk
 
 * [virtual training tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_815.md)
 * [online induction platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_814.md)
+
+## Property: has_RiskType
+
+* [legal](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_6.md)
 

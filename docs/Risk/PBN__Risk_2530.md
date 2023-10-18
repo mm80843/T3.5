@@ -2,9 +2,9 @@
 
 # __Negative emotions__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Media content regulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_320.md)
+* [The challenges and consequences of the global pandemic include poor acoustics, noise pollution, food security, increase in inequality, waste, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_131.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Psychological distress](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2091.md)
 * [Negative emotional reactions and noncompliance with public health directives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_591.md)
 * [Increased anxiety and negative psychological effects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2836.md)
+
+## Mitigations of this risk
+
+* [Media content regulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_320.md)
 

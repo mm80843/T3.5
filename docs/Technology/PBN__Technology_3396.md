@@ -2,9 +2,9 @@
 
 # __measurement devices__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Energy audits](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_704.md)
+* [A comprehensive range of advanced, interconnected devices that offer efficiency, convenience, and enhanced functionality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_238.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [technological tracking device](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3376.md)
 * [diagnostic devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4148.md)
 * [multiplexed measurements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3024.md)
+
+## This Technology enables the following mitigations
+
+* [Energy audits](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_704.md)
 

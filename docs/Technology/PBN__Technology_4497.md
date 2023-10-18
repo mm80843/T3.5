@@ -2,9 +2,9 @@
 
 # __industrial robots__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Robotics in industrial applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2427.md)
+* [Advanced technologies and algorithms for modeling, simulation, optimization, and artificial intelligence in various applications, including robotics and computational fluid dynamics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_239.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2869.md)
 * [Robots, Drones & Automated Vehicules](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4539.md)
 * [mechanical](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3105.md)
+
+## This Technology enables the following mitigations
+
+* [Robotics in industrial applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2427.md)
 

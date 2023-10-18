@@ -2,10 +2,9 @@
 
 # __pcr assay__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Wastewater-based epidemiology (WBE)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_61.md)
-* [Nucleic acid-based polymerase chain reaction (PCR)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_229.md)
+* [Advancements in biotechnology, clinical research, and innovative therapies contribute to the development of medical solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [quantitative rt-pcr methodology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3687.md)
 * [improved rt-qpcr assays and sequencing techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_58.md)
 * [Improved RT-qPCR assays and sequencing techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2787.md)
+
+## This Technology enables the following mitigations
+
+* [Wastewater-based epidemiology (WBE)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_61.md)
+* [Nucleic acid-based polymerase chain reaction (PCR)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_229.md)
 

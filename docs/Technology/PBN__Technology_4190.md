@@ -2,9 +2,9 @@
 
 # __flexible shelving__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Adaptation of supermarkets](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2004.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [adjustable furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3032.md)
 * [adjustable desks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1398.md)
 * [modular furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1005.md)
+
+## This Technology enables the following mitigations
+
+* [Adaptation of supermarkets](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2004.md)
 

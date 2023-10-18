@@ -2,8 +2,9 @@
 
 # __Transmission Chain Disruption__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Spatial separation, closure, containment, barrier implementation, and control of movements to prevent the spread of infection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_150.md)
 
 ## Closest similar item
 
@@ -18,14 +19,17 @@
 * [Building transport networks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1123.md)
 * [Resume material supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_988.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Cutting one or several links in the transmission chain to prevent disease transmission.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [COVID-19: Risk assessment and mitigation measures in healthcare and non-healthcare workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_100.md)
+
+## This Mitigation is enabled by the following technologies
+
 

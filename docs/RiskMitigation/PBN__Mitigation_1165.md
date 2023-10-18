@@ -2,8 +2,9 @@
 
 # __Wider trails and walkways__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Enhancing urban mobility through pedestrian-friendly infrastructure, optimized transportation, and improved public transportation systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_151.md)
 
 ## Closest similar item
 
@@ -18,14 +19,17 @@
 * [Reduced traveling and walking opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1535.md)
 * [Creation of space for walking and cycling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1536.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Designing wider trails and walkways in neighbourhoods to accommodate physical distancing and encourage walking, thus reducing the risk of close contact and transmission of infectious diseases.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Impact of Covid-19 on the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_10.md)
+
+## This Mitigation is enabled by the following technologies
+
 

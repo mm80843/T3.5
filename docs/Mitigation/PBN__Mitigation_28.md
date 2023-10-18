@@ -2,9 +2,9 @@
 
 # __Health and prevention measures__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [public health initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2908.md)
+* [A comprehensive set of actions and rules aimed at protecting individuals and controlling the spread of COVID-19.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_173.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Universal precautions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2051.md)
 * [Personal Protective Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_754.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Sanitation practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2412.md)
-
 ## Property: has_MitigationPrinciple
 
 Promoting health and prevention measures can help improve sanitation practices and minimize the transmission of diseases within communities.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Sanitation practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2412.md)
+
 ## Property: has_MitigationSource
 
 * [COVID-19: Lessons for an Urban(izing) World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_85.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [public health initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2908.md)
 

@@ -2,9 +2,9 @@
 
 # __credit guarantee schemes (cgss)__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q3095288](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3095288.md)
+* [Maximizing economic efficiency while promoting financial stability through innovative strategies, investments, and partnerships at various levels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_195.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [implement contactless payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_301.md)
 * [contactless payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_746.md)
 * [Contactless payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2834.md)
+
+## This Technology is identified by the following QID
+
+* [Q3095288](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3095288.md)
 

@@ -2,9 +2,9 @@
 
 # __Augment resident learning with simulation activities and deliberate practice.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Limited Operative](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1269.md)
+* [Enrich education through digital tools, virtual experiences, remote learning, and alternative forms of exercise and interaction.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_3.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement remote learning strategies, provide support for students and families during closures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2483.md)
 * [Rapid development of virtual educational platforms, e-learning packages, virtual assessments.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2597.md)
 * [Revamp Education and Training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_494.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limited Operative](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1269.md)
 

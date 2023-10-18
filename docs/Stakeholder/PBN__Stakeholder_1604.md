@@ -2,13 +2,9 @@
 
 # __tourism board__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q3689421](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3689421.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [City Officials](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_0.md)
+* [Foreign nationals residing in or visiting various destinations for tourism, with a focus on travelers during the pandemic and the industries reliant on tourism, such as hotels, tourism operators, and tourism boards.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_380.md)
 
 ## Closest similar item
 
@@ -26,4 +22,12 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Tourism Boards](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_6.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q3689421](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3689421.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [City Officials](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_0.md)
 

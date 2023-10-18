@@ -2,9 +2,9 @@
 
 # __Water__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Sustainable water management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_350.md)
+* [The challenges of urban water management include water contamination, waste management, inadequate water storage, and poor drainage.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_120.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Water safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3395.md)
 * [Water consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3357.md)
 * [Increased water consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3397.md)
+
+## Mitigations of this risk
+
+* [Sustainable water management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_350.md)
 

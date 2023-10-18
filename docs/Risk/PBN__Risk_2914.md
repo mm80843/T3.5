@@ -2,9 +2,9 @@
 
 # __Detection of SARS-CoV-2 RNA in sewage__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Nested PCR assay](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1083.md)
+* [The widespread transmission and persistence of the SARS-CoV-2 virus in various environments and the challenges in detecting and removing it.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_93.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Spread of SARS-CoV-2 in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1624.md)
 * [Transmission of SARS-CoV-2 through sewage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_222.md)
 * [Decay of SARS-CoV-2 in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1450.md)
+
+## Mitigations of this risk
+
+* [Nested PCR assay](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1083.md)
 

@@ -2,9 +2,9 @@
 
 # __Outdoor spaces__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
-* [Green Spaces and Urban Design](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_84.md)
+* [Available green spaces and outdoor gathering areas allow for access and enjoyment of public parks and communal areas.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_218.md)
 
 ## Closest similar item
 
@@ -22,4 +22,8 @@
 ## This Technology belongs to this TechGroup
 
 * [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Green Spaces and Urban Design](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_84.md)
 

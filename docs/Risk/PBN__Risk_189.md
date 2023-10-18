@@ -2,9 +2,9 @@
 
 # __WQ2: Water safety__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Maintenance and decontamination](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_229.md)
+* [The challenges of urban water management include water contamination, waste management, inadequate water storage, and poor drainage.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_120.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Water quality and availability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_612.md)
 * [Water quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_714.md)
 * [WQ1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2204.md)
+
+## Mitigations of this risk
+
+* [Maintenance and decontamination](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_229.md)
 

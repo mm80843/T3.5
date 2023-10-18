@@ -2,13 +2,9 @@
 
 # __media__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Information Communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1465.md)
-* [Clear and Timely Information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1725.md)
-* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1091.md)
-* [Public Health Education and Awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1715.md)
-* [Public education and communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1137.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Media regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2151.md)
 * [television](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3912.md)
 * [journalism](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3359.md)
+
+## This Technology enables the following mitigations
+
+* [Information Communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1465.md)
+* [Clear and Timely Information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1725.md)
+* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1091.md)
+* [Public Health Education and Awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1715.md)
+* [Public education and communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1137.md)
 

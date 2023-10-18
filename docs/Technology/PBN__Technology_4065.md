@@ -2,9 +2,9 @@
 
 # __cleaning practices__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Regular Cleaning and Maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1784.md)
+* [Enhanced hygiene practices and strict adherence to cleaning protocols ensure rigorous sanitation and disinfection measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_196.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Enhanced cleaning and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2581.md)
 * [cleaning services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1355.md)
 * [Cleaning services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2551.md)
+
+## This Technology enables the following mitigations
+
+* [Regular Cleaning and Maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1784.md)
 

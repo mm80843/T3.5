@@ -2,9 +2,9 @@
 
 # __Develop culturally relevant communication strategies, address factors influencing communication__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Risk communication strategy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1160.md)
+* [Facilitate transparent communication, enabling reliable information sharing through standardized protocols and effective channels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_0.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement communication campaigns, provide clear instructions and guidelines, and promote public awareness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2263.md)
 * [Increase communication in multiple languages for non-Taiwanese citizens.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3013.md)
 * [Communication and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_418.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Risk communication strategy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1160.md)
 

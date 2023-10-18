@@ -2,9 +2,9 @@
 
 # __Voluntary HIV testing__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [hiv testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3332.md)
+* [Expansive array of methods, including biomarkers, self-reported symptoms, and AI-powered diagnostics, used for widespread and rapid testing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_179.md)
 
 ## Closest similar item
 
@@ -19,14 +19,18 @@
 * [Testing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_21.md)
 * [Routine testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_404.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Encouraging individuals to get tested for HIV can help identify cases and provide appropriate care and prevention strategies
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Multilevel Analysis of Personal, Non-Medical COVID-19-Related Impact Worldwide](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_39.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [hiv testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3332.md)
 

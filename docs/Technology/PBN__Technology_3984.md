@@ -2,9 +2,9 @@
 
 # __sio)__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Ontological representation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1658.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [bathroom)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3447.md)
 * [ssd)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4133.md)
 * [yolo](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4132.md)
+
+## This Technology enables the following mitigations
+
+* [Ontological representation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1658.md)
 

@@ -2,9 +2,9 @@
 
 # __Ensure adequate food production, import, storage, and transportation, prioritize vulnerable families, establish neighborhood food markets.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Food supply disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1858.md)
+* [Enhance local self-sufficiency in shopping, recreation, and food production, while promoting sustainable practices and supporting resilient economies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_344.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Improve sanitation infrastructure, provide access to clean water, promote good hygiene practices.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1924.md)
 * [Provide stable housing options, create affordable housing programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1635.md)
 * [Promote and enforce good hygiene practices, provide handwashing facilities and education.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2106.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Food supply disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1858.md)
 

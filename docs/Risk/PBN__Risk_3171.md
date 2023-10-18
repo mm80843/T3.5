@@ -2,9 +2,9 @@
 
 # __Resistance to digital adoption__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Digital twin](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1622.md)
+* [The challenges of implementing a digital culture include lack of interoperability, missing information, emerging technologies, and technological limitations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_112.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [User acceptance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2544.md)
 * [Digital divide and information gap](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_751.md)
 * [Reliance on technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1965.md)
+
+## Mitigations of this risk
+
+* [Digital twin](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1622.md)
 

@@ -2,9 +2,9 @@
 
 # __sanitization tools__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_682.md)
+* [The implementation of various disinfection methods, improved cleaning and sanitization protocols, and the use of eco-friendly disinfectants and advanced technologies have been prioritized.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_199.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [sanitization equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_143.md)
 * [enhanced cleaning and sanitization technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_737.md)
 * [Enhanced cleaning and sanitization technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2354.md)
+
+## This Technology enables the following mitigations
+
+* [Sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_682.md)
 

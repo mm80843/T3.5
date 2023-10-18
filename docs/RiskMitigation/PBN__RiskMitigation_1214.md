@@ -2,13 +2,9 @@
 
 # __Enhance practical capacity to comply__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Non-compliance with COVID-19 mitigation measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_885.md)
-
-## Property: has_MitigationBenefit
-
-* [Increased compliance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1214.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Promote awareness and education about preventive measures, enforce guidelines and restrictions, and encourage responsible behavior and adherence to protocols.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1593.md)
 * [Stay updated on laws and regulations, implement appropriate compliance measures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2787.md)
 * [Maintain clear communication, demonstrate safety measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2058.md)
+
+## Property: has_MitigationBenefit
+
+* [Increased compliance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1214.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Non-compliance with COVID-19 mitigation measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_885.md)
 

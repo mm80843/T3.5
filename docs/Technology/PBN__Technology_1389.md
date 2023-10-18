@@ -2,9 +2,9 @@
 
 # __integration of mobile technology with public health measures__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q17069079](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q17069079.md)
+* [Improved healthcare infrastructure and resources enable public health authorities to implement effective messaging and interventions, ensuring equitable access to healthcare facilities and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_209.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [mobile health applications for remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1568.md)
 * [mobile health clinics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_477.md)
 * [public health initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2908.md)
+
+## This Technology is identified by the following QID
+
+* [Q17069079](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q17069079.md)
 

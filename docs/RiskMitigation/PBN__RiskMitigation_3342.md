@@ -2,6 +2,10 @@
 
 # __Absorb surge in service demande__
 
+## Category to which it belongs
+
+* [Transition to sustainable energy sources, implement energy-efficient measures, and absorb increased service demand.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_351.md)
+
 ## Closest similar item
 
 * [Implement demand response programs, incentivize load shifting and energy conservation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1713.md)

@@ -2,9 +2,9 @@
 
 # __Implement policies and measures to support the most affected regions and sectors, ensure fair distribution of recovery funds, and promote economic resilience and diversification__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Economic disparities among Member States](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1587.md)
+* [Promote sustainable development through infrastructure investments, training, diversification, financial support, and government partnerships.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_315.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Develop resilient livelihood strategies, promote sustainable trade practices, provide social safety nets and support local economies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2844.md)
 * [Establish government support programs, provide financial assistance and relief measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2827.md)
 * [Diversify supply sources, strengthen local production capabilities, implement emergency stockpiling measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1578.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Economic disparities among Member States](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1587.md)
 

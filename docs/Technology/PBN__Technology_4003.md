@@ -2,9 +2,9 @@
 
 # __aluminum hydroxide adsorption-precipitation protocol__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Concentration method](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1677.md)
+* [The range of materials and techniques listed includes various disinfectants, nanomaterials, manufacturing methods, coatings, sustainability measures, and analytical tools.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_237.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [water purification and distribution technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_91.md)
 * [Water purification and distribution technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2727.md)
 * [wastewater treatment technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1066.md)
+
+## This Technology enables the following mitigations
+
+* [Concentration method](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1677.md)
 

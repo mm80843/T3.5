@@ -2,9 +2,9 @@
 
 # __state governments__
 
-## This Stakeholder belongs to this StakeholderGroup
+## Category to which it belongs
 
-* [City Officials](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_0.md)
+* [All actors in the economic and political landscape, including policymakers, governments, and regulatory bodies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_357.md)
 
 ## Closest similar item
 
@@ -19,11 +19,15 @@
 * [city government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1114.md)
 * [local and national governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_550.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderGroup
 
-* [Heterogeneity of state policies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1786.md)
+* [City Officials](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_0.md)
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Governmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_5.md)
+
+## Risk affecting this stakeholder
+
+* [Heterogeneity of state policies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1786.md)
 

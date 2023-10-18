@@ -2,9 +2,9 @@
 
 # __Regular cleaning and disinfection of frequently touched surfaces.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Surface stability of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2271.md)
+* [Effective surface disinfection through regular cleaning and use of self-cleaning materials and antimicrobial coatings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_334.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Regular cleaning and disinfection of high-touch surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_890.md)
 * [Regular hand hygiene practices, cleaning and disinfection of frequently touched surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1703.md)
 * [Regular cleaning and disinfection of high-touch areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1274.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Surface stability of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2271.md)
 

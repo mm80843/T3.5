@@ -2,14 +2,9 @@
 
 # __Hand hygiene__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Spread of coronavirus on surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_825.md)
-
-## Property: has_MitigationBenefit
-
-* [Prevention of viral transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1124.md)
-* [Protection of healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_681.md)
+* [Implementing a comprehensive package of measures to ensure the smooth functioning and safety of essential services and activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_6.md)
 
 ## Closest similar item
 
@@ -23,4 +18,13 @@
 * [Hand hygiene stations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3423.md)
 * [personal hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3424.md)
 * [hand soap](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3425.md)
+
+## Property: has_MitigationBenefit
+
+* [Prevention of viral transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1124.md)
+* [Protection of healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_681.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of coronavirus on surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_825.md)
 

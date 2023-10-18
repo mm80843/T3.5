@@ -2,14 +2,13 @@
 
 # __contact tracing personnel__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q1128437](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1128437.md)
+* [All those involved in the management, access, and utilization of data in various communities and industries.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_358.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
-* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
+* [Poor contact tracing process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1722.md)
 
 ## Closest similar item
 
@@ -24,10 +23,15 @@
 * [compliance officers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1439.md)
 * [contact persons of infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1051.md)
 
-## Risk affecting this stakeholder
-
-* [Poor contact tracing process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1722.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
+
+## This Stakeholder is identified by the following QID
+
+* [Q1128437](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1128437.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
+* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
 

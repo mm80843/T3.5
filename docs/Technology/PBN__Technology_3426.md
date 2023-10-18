@@ -2,9 +2,9 @@
 
 # __separate rooms or designated areas for contagion control__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_752.md)
+* [These resources aim to enhance security, convenience, and efficiency in managing access, spaces, and systems within various environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_206.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [quarantine facilities or designated quarantine areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3802.md)
 * [isolation and quarantine room equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1657.md)
 * [isolation areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3134.md)
+
+## This Technology enables the following mitigations
+
+* [Isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_752.md)
 

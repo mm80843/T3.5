@@ -2,10 +2,9 @@
 
 # __Mass Production Techniques__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [extensive sample clean-up processes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_240.md)
-* [mass production processes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_241.md)
+* [Innovation and resources utilized to create and enhance devices, production, and construction materials.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_30.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [3D Printing](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_184.md)
 * [Waste Management Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_161.md)
 * [Crowd Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_152.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [extensive sample clean-up processes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_240.md)
+* [mass production processes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_241.md)
 

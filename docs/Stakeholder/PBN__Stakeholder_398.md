@@ -6,6 +6,10 @@
 
 * [Additional revenue](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1005.md)
 
+## Category to which it belongs
+
+* [Individuals and organizations involved in the management and treatment of water, waste, and wastewater.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_397.md)
+
 ## Closest similar item
 
 * [water utilities/policy makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_400.md)

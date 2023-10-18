@@ -2,9 +2,9 @@
 
 # __Transmission of COVID-19 within construction sites__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Devising Mitigation Measures in Construction Projects](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_947.md)
+* [The far-reaching consequences of COVID-19 include its transmission through various settings, impact on urban areas, and scarcity of resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Transmission of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2123.md)
 * [COVID-19 transmission in workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_371.md)
 * [Spread of COVID19 in indoor environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_387.md)
+
+## Mitigations of this risk
+
+* [Devising Mitigation Measures in Construction Projects](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_947.md)
 

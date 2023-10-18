@@ -2,13 +2,13 @@
 
 # __data management companies__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q1149776](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1149776.md)
+* [These companies span a wide array of industries, including renewable energy, construction, pharmaceuticals, logistics, and technology.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_387.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+* [Cybersecurity threats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1910.md)
 
 ## Closest similar item
 
@@ -23,14 +23,18 @@
 * [data security professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1541.md)
 * [data protection officers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2660.md)
 
-## Risk affecting this stakeholder
+## Risks that can be mitigated by this stakeholder
 
-* [Cybersecurity threats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1910.md)
+* [Lack of data sharing and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1076.md)
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 
-## Risks that can be mitigated by this stakeholder
+## This Stakeholder is identified by the following QID
 
-* [Lack of data sharing and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1076.md)
+* [Q1149776](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1149776.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 

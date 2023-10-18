@@ -2,9 +2,9 @@
 
 # __Implementing proper hygiene measures, encouraging social distancing, and promoting remote work options__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Spread of contagious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_20.md)
+* [Promote and enforce hygiene practices, implement sanitation measures, and provide education on proper handwashing techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_332.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implementing social distancing measures, investing in healthcare infrastructure, promoting hygiene practices.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1802.md)
 * [Promoting social distancing, wearing masks, and implementing strict hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2656.md)
 * [Implement social distancing measures, increase access to healthcare, and improve hygiene practices.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1896.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of contagious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_20.md)
 

@@ -2,13 +2,9 @@
 
 # __Departments and Teams__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [Procurement teams](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1763.md)
-* [human resources departments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_619.md)
-* [human resource department](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1656.md)
-* [human resource](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1750.md)
-* [Procurement department](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1712.md)
+* [Organizational units within a governing body.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_275.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Educational Administration](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_14.md)
 * [Sector/Industry](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_57.md)
 * [Managers/Operators](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_69.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [Procurement teams](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1763.md)
+* [human resources departments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_619.md)
+* [human resource department](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1656.md)
+* [human resource](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1750.md)
+* [Procurement department](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1712.md)
 

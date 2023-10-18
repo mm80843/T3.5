@@ -2,9 +2,9 @@
 
 # __remote assessments__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q2585724](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2585724.md)
+* [Technologies and tools used for working, monitoring, communicating, and assessing remotely, including remote healthcare and education technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_215.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Remote learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2634.md)
 * [medical assessment equipment and protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1654.md)
 * [remote monitoring and diagnosis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_470.md)
+
+## This Technology is identified by the following QID
+
+* [Q2585724](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2585724.md)
 

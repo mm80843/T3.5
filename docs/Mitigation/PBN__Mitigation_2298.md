@@ -2,8 +2,9 @@
 
 # __Social distancing of >70s__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Promoting physical and spatial distancing, considering noise levels, and implementing strict measures are essential for social distancing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_147.md)
 
 ## Closest similar item
 
@@ -18,14 +19,17 @@
 * [Improved social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1272.md)
 * [Implementing social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1125.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Implementing social distancing measures specifically for individuals over the age of 70 to reduce their risk of severe disease.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [The impact of COVID-19 and strategies for mitigation and suppression in low- and middle-income countries](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_65.md)
+
+## This Mitigation is enabled by the following technologies
+
 

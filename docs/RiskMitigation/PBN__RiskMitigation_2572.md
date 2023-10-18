@@ -2,9 +2,9 @@
 
 # __Design buildings with access to green spaces, views of nature, and incorporate biophilic design elements__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of connection with nature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_114.md)
+* [Promote biodiversity and sustainable urban development through the establishment and accessibility of green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_322.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Incorporate diverse types of green spaces in urban planning and design, prioritize the creation of green spaces with diverse vegetation and design features](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2073.md)
 * [Incorporate outdoor spaces in building design and provide access to communal gardens](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1790.md)
 * [Provide access to nature and green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_886.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of connection with nature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_114.md)
 

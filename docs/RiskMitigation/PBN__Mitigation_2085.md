@@ -2,8 +2,9 @@
 
 # __Risk mapping__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Synthesis of statistical analysis, machine learning, artificial intelligence, and data visualization for informed decision-making and pattern discovery.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_184.md)
 
 ## Closest similar item
 
@@ -18,14 +19,17 @@
 * [Investing in disaster risk reduction and preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1080.md)
 * [Vulnerability Identification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2181.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Understand epidemiology of disease, proactively deploy control measures, identify and treat parasite reservoirs
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Integrating rapid risk mapping and mobile phone call record data for strategic malaria elimination planning](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_76.md)
+
+## This Mitigation is enabled by the following technologies
+
 

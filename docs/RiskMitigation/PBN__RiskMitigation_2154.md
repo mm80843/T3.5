@@ -2,10 +2,9 @@
 
 # __Provide accurate and balanced information, promote mental health support__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Perceived susceptibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1615.md)
-* [Perceived severity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1614.md)
+* [Promote mental well-being through access to resources, support services, and strategies for coping with stress.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_313.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Provide mental health support services, promote self-care practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2318.md)
 * [Vary news content to include positive and informative messages, provide mental health support.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1676.md)
 * [Increase access to mental health services, promote mental health awareness and support, provide coping mechanisms and resources.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2913.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Perceived susceptibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1615.md)
+* [Perceived severity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1614.md)
 

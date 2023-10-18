@@ -2,9 +2,9 @@
 
 # __disinfectant__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Wastewater treatment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1220.md)
+* [The implementation of various disinfection methods, improved cleaning and sanitization protocols, and the use of eco-friendly disinfectants and advanced technologies have been prioritized.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_199.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [disinfection processes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3958.md)
 * [Disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2572.md)
 * [disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_350.md)
+
+## This Technology enables the following mitigations
+
+* [Wastewater treatment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1220.md)
 

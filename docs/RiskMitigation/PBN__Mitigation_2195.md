@@ -2,8 +2,9 @@
 
 # __Increase street greenery__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Promoting sustainable and eco-friendly practices that enhance urban green spaces, energy efficiency, and renewable energy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_180.md)
 
 ## Closest similar item
 
@@ -18,14 +19,17 @@
 * [Urban Green Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1707.md)
 * [Availability of urban green space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2283.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Planting more trees and greenery in urban areas can improve the aesthetics, air quality, and overall health of the community. Increased street greenery can also provide shade and reduce the impact of environmental hazards such as air and noise pollution.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [The health benefits of the great outdoors: A systematic review and meta-analysis of greenspace exposure and health outcomes](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_50.md)
+
+## This Mitigation is enabled by the following technologies
+
 

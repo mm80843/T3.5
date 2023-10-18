@@ -2,9 +2,9 @@
 
 # __park/garden maintenance equipment__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Preparation and maintenance of specific green areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2211.md)
+* [Urban green space solutions include tree planting, zoning regulations, landscape architecture, community gardens, outdoor furniture, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_231.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [cleaning equipment and tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_440.md)
 * [Cleaning equipment and tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2824.md)
 * [gardening spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1785.md)
+
+## This Technology enables the following mitigations
+
+* [Preparation and maintenance of specific green areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2211.md)
 

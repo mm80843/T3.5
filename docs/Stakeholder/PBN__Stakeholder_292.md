@@ -2,9 +2,14 @@
 
 # __management team__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q2563977](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2563977.md)
+* [A diverse array of collaborative and specialized groups in various fields working together towards specific goals.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_5.md)
+
+## Risk affecting this stakeholder
+
+* [Difficulties in management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1526.md)
+* [Cash flow management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1533.md)
 
 ## Closest similar item
 
@@ -19,11 +24,6 @@
 * [project team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_622.md)
 * [Project team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1772.md)
 
-## Risk affecting this stakeholder
-
-* [Difficulties in management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1526.md)
-* [Cash flow management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1533.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_709.md)
@@ -33,4 +33,8 @@
 * [Remote collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1532.md)
 * [Workforce protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1531.md)
 * [Delays in project activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1525.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q2563977](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2563977.md)
 

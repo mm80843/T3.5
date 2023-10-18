@@ -2,9 +2,9 @@
 
 # __Animal surveillance, strict hygiene practices in animal handling, and control measures at farms and live markets.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Contagion from animals to humans](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1539.md)
+* [Promote and enforce hygiene practices, implement sanitation measures, and provide education on proper handwashing techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_332.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement safety protocols, increase hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2059.md)
 * [Implementing strict hygiene protocols, promoting social distancing, providing personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1998.md)
 * [Implement infection control measures, promote hygiene practices, and enforce social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1815.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Contagion from animals to humans](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1539.md)
 

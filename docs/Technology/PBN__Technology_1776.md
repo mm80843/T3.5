@@ -2,13 +2,13 @@
 
 # __optical fiber cable__
 
+## Category to which it belongs
+
+* [Enhanced connectivity and diverse communication platforms enable the dissemination of reliable information and promote open communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_225.md)
+
 ## Risks linked to this technology
 
 * [PC1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2217.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Energy Systems and Sustainability](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_116.md)
 
 ## Closest similar item
 
@@ -23,11 +23,15 @@
 * [broadband internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4446.md)
 * [video networking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2967.md)
 
-## This Technology belongs to this TechGroup
-
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
-
 ## This Technology is identified by the following QID
 
 * [Q197961](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q197961.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Energy Systems and Sustainability](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_116.md)
+
+## This Technology belongs to this TechGroup
+
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 

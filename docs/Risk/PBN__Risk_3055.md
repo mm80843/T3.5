@@ -2,9 +2,9 @@
 
 # __Insufficient filtration of airborne particles__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Filtered ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1418.md)
+* [Insufficient air filtration, lack of evidence synthesis, shortages of protective equipment, and ineffective filtration highlight the concerns.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_135.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Transmission through airborne aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1805.md)
 * [Poor filtration efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3023.md)
 * [Decoupling of larger aerosol particles from air stream in upper-room UVGI system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1175.md)
+
+## Mitigations of this risk
+
+* [Filtered ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1418.md)
 

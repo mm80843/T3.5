@@ -2,9 +2,9 @@
 
 # __Implement strict hygiene and sanitation protocols, promote social distancing measures, and provide education on proper hygiene practices__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Contagion spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2077.md)
+* [Promote and enforce hygiene practices, implement sanitation measures, and provide education on proper handwashing techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_332.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement strategies for reduced contact and improved hygiene, provide access to water and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3051.md)
 * [Promote and enforce good hygiene practices, provide handwashing facilities and education.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2106.md)
 * [Implementing proper sanitation and hygiene protocols, promoting hand hygiene, ensuring access to clean water and sanitation facilities.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1615.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Contagion spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2077.md)
 

@@ -2,9 +2,9 @@
 
 # __access control technologies__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Suspension of public visitors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1977.md)
+* [Technological advancements encompass a wide range of innovations, such as blockchain, touchless, renewable energy, and communication technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [controlled access](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4350.md)
 * [improved access to technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_528.md)
 * [access to healthcare technologies and facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1944.md)
+
+## This Technology enables the following mitigations
+
+* [Suspension of public visitors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1977.md)
 

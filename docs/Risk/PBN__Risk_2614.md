@@ -2,10 +2,9 @@
 
 # __Exposure to SARS-CoV-2__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_535.md)
-* [Administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_534.md)
+* [The widespread transmission and persistence of the SARS-CoV-2 virus in various environments and the challenges in detecting and removing it.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_93.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Possible pathways of SARS-CoV-2 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_875.md)
 * [Reduction in transmission of SAR-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_888.md)
 * [Spread of SARS-CoV-2 through contact with contaminated solids](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_698.md)
+
+## Mitigations of this risk
+
+* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_535.md)
+* [Administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_534.md)
 

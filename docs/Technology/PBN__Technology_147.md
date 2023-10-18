@@ -2,9 +2,9 @@
 
 # __maintenance equipment__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1043452](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1043452.md)
+* [Safety and operational tools for various fields, including healthcare, cleaning, maintenance, and emergency preparation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_212.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [park/garden maintenance equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4326.md)
 * [routine maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4254.md)
 * [proper equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3033.md)
+
+## This Technology is identified by the following QID
+
+* [Q1043452](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1043452.md)
 

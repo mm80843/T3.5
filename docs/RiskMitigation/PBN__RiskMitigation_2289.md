@@ -2,9 +2,9 @@
 
 # __Retailers should use professional signage on durable materials with clear and readable fonts, and regularly check and replace damaged or faded signs.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Ineffective Signage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1724.md)
+* [Strengthen collaborations, implement behavioral change, deploy social robots, and promote sustainable content consumption for community-based strategies, holistic research, and positive media representation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_316.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Early serving of notices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1015.md)
 * [Limit capacity, enforce social distancing measures, provide clear signage and guidelines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1816.md)
 * [Use of larger, readable fonts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_794.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Ineffective Signage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1724.md)
 

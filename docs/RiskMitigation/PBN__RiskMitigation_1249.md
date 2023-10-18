@@ -2,13 +2,9 @@
 
 # __BFO backbone structure__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [in temporal regions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_907.md)
-
-## Property: has_MitigationBenefit
-
-* [reasoning](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1239.md)
+* [Efforts include RNA monitoring, occupant exposure modeling, targeted messages, adoption of principles, copper coating, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_311.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Phylogenetic analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_590.md)
 * [Biophilic design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1017.md)
 * [Lean construction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_368.md)
+
+## Property: has_MitigationBenefit
+
+* [reasoning](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1239.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [in temporal regions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_907.md)
 

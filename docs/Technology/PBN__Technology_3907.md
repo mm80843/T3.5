@@ -2,9 +2,9 @@
 
 # __skc universal pumps__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Air sampling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1521.md)
+* [Available green spaces and outdoor gathering areas allow for access and enjoyment of public parks and communal areas.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_218.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [personalized air supply devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3114.md)
 * [loc](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3077.md)
 * [negative air machines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3660.md)
+
+## This Technology enables the following mitigations
+
+* [Air sampling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1521.md)
 

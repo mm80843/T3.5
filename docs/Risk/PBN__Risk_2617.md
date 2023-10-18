@@ -2,9 +2,9 @@
 
 # __Direct contact with infectious individuals__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_192.md)
+* [The dissemination of infectious diseases, characterized by outbreaks from various sources, inadequate preparedness, and insufficient reporting and understanding, poses a global threat.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_106.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Virus Transmission through close contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_507.md)
 * [Infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_711.md)
 * [Spread of infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_744.md)
+
+## Mitigations of this risk
+
+* [Physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_192.md)
 

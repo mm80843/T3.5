@@ -2,13 +2,9 @@
 
 # __food retailers__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q7361709](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7361709.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+* [Stakeholders in various industries, from manufacturing to retail, including users and suppliers, with a focus on wearables.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_371.md)
 
 ## Closest similar item
 
@@ -23,11 +19,19 @@
 * [food producers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2070.md)
 * [merchants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2071.md)
 
+## Risks that can be mitigated by this stakeholder
+
+* [Limited access to healthy food](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1856.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Retail and Consumer Services](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_29.md)
 
-## Risks that can be mitigated by this stakeholder
+## This Stakeholder is identified by the following QID
 
-* [Limited access to healthy food](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1856.md)
+* [Q7361709](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7361709.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 

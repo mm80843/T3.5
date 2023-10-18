@@ -2,9 +2,9 @@
 
 # __water features)__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Biophilic design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_175.md)
+* [Improvements in wastewater, waste management, sanitation, water purification, and plumbing technologies aim for sustainable and efficient infrastructure development.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_234.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [water storage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2961.md)
 * [nature-based features and systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4526.md)
 * [drainage systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3901.md)
+
+## This Technology enables the following mitigations
+
+* [Biophilic design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_175.md)
 

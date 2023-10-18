@@ -2,9 +2,9 @@
 
 # __model sharing platforms__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Making modeling public](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2339.md)
+* [Digital platforms and online resources facilitate collaboration, communication, and information sharing among individuals and organizations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_193.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [data collection and sharing systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_941.md)
 * [data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_152.md)
 * [Data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2412.md)
+
+## This Technology enables the following mitigations
+
+* [Making modeling public](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2339.md)
 

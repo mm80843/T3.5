@@ -2,9 +2,9 @@
 
 # __windows with views__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q24873715](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q24873715.md)
+* [These resources aim to enhance security, convenience, and efficiency in managing access, spaces, and systems within various environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_206.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [openable windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1748.md)
 * [Openable windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2714.md)
 * [window design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3253.md)
+
+## This Technology is identified by the following QID
+
+* [Q24873715](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q24873715.md)
 

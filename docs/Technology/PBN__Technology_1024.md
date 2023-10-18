@@ -2,9 +2,9 @@
 
 # __trash bins__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q216530](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q216530.md)
+* [Improvements in wastewater, waste management, sanitation, water purification, and plumbing technologies aim for sustainable and efficient infrastructure development.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_234.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [waste segregation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1847.md)
 * [Waste segregation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2229.md)
 * [Recycling infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2392.md)
+
+## This Technology is identified by the following QID
+
+* [Q216530](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q216530.md)
 

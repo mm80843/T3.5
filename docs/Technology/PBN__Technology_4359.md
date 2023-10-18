@@ -2,9 +2,9 @@
 
 # __acoustic design__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Noise insulation and acoustics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2237.md)
+* [Design and construction professionals use innovative techniques and strategies to create adaptable, sustainable, and inclusive buildings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_217.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Soundproofing materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2233.md)
 * [soundproofing materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_119.md)
 * [sound insulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3048.md)
+
+## This Technology enables the following mitigations
+
+* [Noise insulation and acoustics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2237.md)
 

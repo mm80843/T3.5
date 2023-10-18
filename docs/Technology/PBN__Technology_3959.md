@@ -2,9 +2,9 @@
 
 # __chlorination__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Increase chlorine dose in drinking water](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1629.md)
+* [The range of materials and techniques listed includes various disinfectants, nanomaterials, manufacturing methods, coatings, sustainability measures, and analytical tools.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_237.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [sodium hypochlorite](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_852.md)
 * [pesticides](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4048.md)
 * [sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2981.md)
+
+## This Technology enables the following mitigations
+
+* [Increase chlorine dose in drinking water](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1629.md)
 

@@ -2,9 +2,9 @@
 
 # __data quality assessment tools__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1757694](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1757694.md)
+* [Data-driven insights and analysis for decision making, anonymized data, transparency, visualization, and advanced techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_205.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [data management tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_781.md)
 * [data validation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1896.md)
 * [quality control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_83.md)
+
+## This Technology is identified by the following QID
+
+* [Q1757694](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1757694.md)
 

@@ -2,13 +2,9 @@
 
 # __Promote digital technologies in trade facilitation__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Shocks in global value chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_251.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved information systems and risk management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_310.md)
+* [Accelerate the shift to digitalization by embracing emerging technologies and implementing innovative solutions across various sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_346.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Invest in research and development, address technical challenges, encourage innovation.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2786.md)
 * [Adoption of emerging technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_583.md)
 * [Bridge the digital divide, ensure equal access and affordability, promote digital literacy.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2785.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved information systems and risk management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_310.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Shocks in global value chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_251.md)
 

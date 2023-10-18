@@ -2,9 +2,9 @@
 
 # __public opinion__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Public support and participation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1059.md)
+* [Government actions and regulations addressing various aspects of society, including policy changes, ethical frameworks, governance mechanisms, and public announcements.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_216.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2134.md)
 * [public consultation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_105.md)
 * [natural views](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3047.md)
+
+## This Technology enables the following mitigations
+
+* [Public support and participation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1059.md)
 

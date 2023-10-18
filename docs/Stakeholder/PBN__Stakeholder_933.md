@@ -2,9 +2,9 @@
 
 # __finance team__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Ineffective cost planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_296.md)
+* [A diverse array of collaborative and specialized groups in various fields working together towards specific goals.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_5.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [banks](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_528.md)
 * [financial advisor](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1966.md)
 * [Procurement team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1795.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Ineffective cost planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_296.md)
 

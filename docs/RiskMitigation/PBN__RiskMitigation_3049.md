@@ -2,9 +2,9 @@
 
 # __Combining multiple screening methods, widespread testing programs.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Limited effectiveness of digital systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2347.md)
+* [Promote comprehensive testing and tracing, prioritize vulnerable populations, reduce diagnosis-to-surgery time, recognize stress symptoms, and improve testing accuracy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_347.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Increase testing capacity, develop rapid and accurate test kits, promote widespread testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2723.md)
 * [Utilize AI algorithms as an initial screening tool and develop alternative diagnostic tests.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2856.md)
 * [Develop and promote non-invasive testing methods, such as saliva or wastewater-based surveillance, to increase testing uptake.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3074.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limited effectiveness of digital systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2347.md)
 

@@ -2,9 +2,9 @@
 
 # __Uncertainty and changes__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Flexibility and Adaptability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1025.md)
+* [A list of challenges and uncertainties surrounding the impact and response to various events and crises in different sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_124.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Uncertainty of maintaining intensive policies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_80.md)
 * [Unreliable information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3133.md)
 * [Uncertainty and changing demands in healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_442.md)
+
+## Mitigations of this risk
+
+* [Flexibility and Adaptability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1025.md)
 

@@ -2,13 +2,9 @@
 
 # __Baseline scenario__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_324.md)
-
-## Property: has_MitigationBenefit
-
-* [No pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_707.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Early detection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3320.md)
 * [Employ longitudinal elements in research design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1389.md)
 * [Utilize WBE for early-warning ability, establish baselines for incidence of Covid-19 before re-opening](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1799.md)
+
+## Property: has_MitigationBenefit
+
+* [No pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_707.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_324.md)
 

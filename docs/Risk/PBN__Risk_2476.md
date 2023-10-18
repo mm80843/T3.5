@@ -2,9 +2,9 @@
 
 # __Lack of understanding and collaboration between stakeholders__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Collaboration and interdisciplinary approach](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_177.md)
+* [Fragmented global governance, reduced aid, ethical concerns, educational disruption, impacts on peace and justice, and inadequate coordination between stakeholders.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_115.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inadequate collaboration and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1361.md)
 * [Lack of community ownership and involvement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3385.md)
 * [Difficulties in collaboration and communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2802.md)
+
+## Mitigations of this risk
+
+* [Collaboration and interdisciplinary approach](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_177.md)
 

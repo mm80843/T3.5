@@ -2,6 +2,10 @@
 
 # __Biophilic desing__
 
+## Category to which it belongs
+
+* [Advancements in biotechnology, clinical research, and innovative therapies contribute to the development of medical solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
+
 ## Closest similar item
 
 * [biophilic design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3940.md)

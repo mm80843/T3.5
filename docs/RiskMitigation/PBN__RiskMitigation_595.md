@@ -2,13 +2,9 @@
 
 # __ACE2 and TMPRSS2 inhibitors__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Tissue tropism](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_428.md)
-
-## Property: has_MitigationBenefit
-
-* [Pathogenesis](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_593.md)
+* [Efforts include RNA monitoring, occupant exposure modeling, targeted messages, adoption of principles, copper coating, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_311.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Conduct research to determine the mechanisms of cell entry and membrane fusion of SARS-CoV-2.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3061.md)
 * [Drug development](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_599.md)
 * [Validate and optimize PCR assays to ensure accurate detection of SARS-CoV-2 genetic material.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3041.md)
+
+## Property: has_MitigationBenefit
+
+* [Pathogenesis](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_593.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Tissue tropism](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_428.md)
 

@@ -2,9 +2,9 @@
 
 # __use of digital platforms for public health education and awareness campaigns__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q69964246](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q69964246.md)
+* [Various campaigns and programs to inform and engage the public, raise awareness, educate, and promote reliable information.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_207.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [public awareness and education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4071.md)
 * [public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_167.md)
 * [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2169.md)
+
+## This Technology is identified by the following QID
+
+* [Q69964246](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q69964246.md)
 

@@ -2,9 +2,9 @@
 
 # __public service announcements__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Reassure and educate the public](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2324.md)
+* [Government actions and regulations addressing various aspects of society, including policy changes, ethical frameworks, governance mechanisms, and public announcements.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_216.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [public information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_8.md)
 * [Public information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2162.md)
 * [public awareness programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1302.md)
+
+## This Technology enables the following mitigations
+
+* [Reassure and educate the public](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2324.md)
 

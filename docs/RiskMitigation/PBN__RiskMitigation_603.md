@@ -2,13 +2,9 @@
 
 # __Modify office building design and layout__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Deficiencies in office buildings and layouts in regards to infection spreading propensity during the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_435.md)
-
-## Property: has_MitigationBenefit
-
-* [Minimize infection spreading propensity and create a safe working environment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_605.md)
+* [Designing affordable, adaptable, and sustainable housing with improved building environments and optimized spatial layouts, while incorporating flexible and human-centric design elements and considering health, safety, and environmental parameters.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_326.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Optimize space and improve spatial layout](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_454.md)
 * [Green building design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1392.md)
 * [Workplace redesign](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_936.md)
+
+## Property: has_MitigationBenefit
+
+* [Minimize infection spreading propensity and create a safe working environment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_605.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Deficiencies in office buildings and layouts in regards to infection spreading propensity during the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_435.md)
 

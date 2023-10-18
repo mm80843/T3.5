@@ -2,9 +2,9 @@
 
 # __Maintain social distancing, hygiene practices, and proper ventilation__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1087.md)
+* [Promote and enforce hygiene practices, implement sanitation measures, and provide education on proper handwashing techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_332.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Limiting occupancy, improving ventilation systems, promoting outdoor spaces, implementing social distancing measures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1616.md)
 * [Ensure proper ventilation systems are in place and regularly maintained.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2634.md)
 * [Implement hygiene and sanitation measures, promote social distancing, improve air ventilation and filtration systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2909.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1087.md)
 

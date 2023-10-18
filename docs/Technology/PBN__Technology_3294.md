@@ -2,9 +2,9 @@
 
 # __62-71% ethanol solution__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Chemical deactivation of viral particles on surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_546.md)
+* [The range of materials and techniques listed includes various disinfectants, nanomaterials, manufacturing methods, coatings, sustainability measures, and analytical tools.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_237.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [alcohol-based hand sanitizer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3300.md)
 * [acetone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3488.md)
 * [hot water of at least 70°c](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3734.md)
+
+## This Technology enables the following mitigations
+
+* [Chemical deactivation of viral particles on surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_546.md)
 

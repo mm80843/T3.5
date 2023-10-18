@@ -2,9 +2,9 @@
 
 # __laser__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Surfacide UV-C Disinfection System](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_252.md)
+* [Innovative lighting solutions harnessing ultraviolet technology for optimal germicidal sterilization and energy efficiency, while maximizing natural light.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_235.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [uv light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3055.md)
 * [camera](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3478.md)
 * [ultraviolet radiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3850.md)
+
+## This Technology enables the following mitigations
+
+* [Surfacide UV-C Disinfection System](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_252.md)
 

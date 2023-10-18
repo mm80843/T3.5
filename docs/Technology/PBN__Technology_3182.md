@@ -2,9 +2,9 @@
 
 # __crowdsourcing__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Crowdsourced Smartphone Data](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_357.md)
+* [Effective management and surveillance of crowds through advanced technologies, tools, and strategic measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_233.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [crowd management techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3636.md)
 * [crowd prediction algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1029.md)
 * [crowd monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_490.md)
+
+## This Technology enables the following mitigations
+
+* [Crowdsourced Smartphone Data](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_357.md)
 

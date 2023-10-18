@@ -2,11 +2,9 @@
 
 # __Education and Research__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [universities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_962.md)
-* [university](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1457.md)
-* [research organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_852.md)
+* [Exploration and study encompass scientific research, environmental management and research, education and research, as well as laboratory and research.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_250.md)
 
 ## Closest similar item
 
@@ -20,4 +18,10 @@
 * [Laboratory and Research](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_44.md)
 * [Technology and Innovation](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_61.md)
 * [AI and Technology](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_54.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [universities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_962.md)
+* [university](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1457.md)
+* [research organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_852.md)
 

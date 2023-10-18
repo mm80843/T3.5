@@ -2,9 +2,9 @@
 
 # __messaging apps__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Messaging tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1716.md)
+* [A comprehensive list of mobile applications, including contact-tracing apps, mental health apps, mobile banking, and fitness tracking devices, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_197.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [smartphone apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4368.md)
 * [public health messaging systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_705.md)
 * [sms technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3993.md)
+
+## This Technology enables the following mitigations
+
+* [Messaging tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1716.md)
 

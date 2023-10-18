@@ -2,9 +2,9 @@
 
 # __development and implementation of wastewater sampling and analysis techniques__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q77793514](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q77793514.md)
+* [Improvements in wastewater, waste management, sanitation, water purification, and plumbing technologies aim for sustainable and efficient infrastructure development.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_234.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [sewage monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3279.md)
 * [wastewater treatment technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1066.md)
 * [wastewater treatment plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1353.md)
+
+## This Technology is identified by the following QID
+
+* [Q77793514](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q77793514.md)
 

@@ -2,9 +2,9 @@
 
 # __Educate the public about preventive measures, promote health literacy, disseminate accurate information__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of public health awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1327.md)
+* [Promote public health through policy implementation, strengthened systems, health literacy, and targeted interventions for vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_314.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Conduct public awareness campaigns and education programs to promote prevention measures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2437.md)
 * [Promote public health](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_767.md)
 * [Strengthen healthcare systems, promote public health measures, increase access to testing and treatment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2272.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of public health awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1327.md)
 

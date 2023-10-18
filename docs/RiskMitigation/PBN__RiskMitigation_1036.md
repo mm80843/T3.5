@@ -2,13 +2,9 @@
 
 # __Enhance education access__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Societal and socio-economic gaps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_750.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved educational opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1033.md)
+* [Enrich education through digital tools, virtual experiences, remote learning, and alternative forms of exercise and interaction.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_3.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Raise awareness through education campaigns, provide accurate and accessible information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2807.md)
 * [Increase public education and communication efforts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2852.md)
 * [Enhance public health education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1033.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved educational opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1033.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Societal and socio-economic gaps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_750.md)
 

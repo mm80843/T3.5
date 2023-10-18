@@ -2,9 +2,9 @@
 
 # __internet of things (iot) devices__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q251212](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q251212.md)
+* [A comprehensive range of advanced, interconnected devices that offer efficiency, convenience, and enhanced functionality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_238.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [purpose-built iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1587.md)
 * [iots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2941.md)
 * [iot networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3945.md)
+
+## This Technology is identified by the following QID
+
+* [Q251212](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q251212.md)
 

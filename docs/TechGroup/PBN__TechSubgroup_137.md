@@ -2,16 +2,9 @@
 
 # __Data Anonymization and Protection__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [data anonymization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_822.md)
-* [Anonymization techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2417.md)
-* [secure server networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_347.md)
-* [secure servers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1071.md)
-* [Secure servers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2607.md)
-* [Secure data storage systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2600.md)
-* [Data protection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2421.md)
-* [secure file sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2603.md)
+* [Ensuring secure and anonymous data storage and transmission through advanced cryptographic techniques like blockchain and encryption.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_34.md)
 
 ## Closest similar item
 
@@ -25,4 +18,15 @@
 * [Data Governance and Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_142.md)
 * [Fact-Checking and Information Verification](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_17.md)
 * [Public Awareness and Information Sharing](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_50.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [data anonymization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_822.md)
+* [Anonymization techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2417.md)
+* [secure server networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_347.md)
+* [secure servers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1071.md)
+* [Secure servers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2607.md)
+* [Secure data storage systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2600.md)
+* [Data protection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2421.md)
+* [secure file sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2603.md)
 

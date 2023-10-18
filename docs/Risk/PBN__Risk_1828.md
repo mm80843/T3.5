@@ -2,25 +2,9 @@
 
 # __Misinterpretation of preventive measures__
 
-## Property: has_RiskHealth
+## Category to which it belongs
 
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Description of the risk
-
-Misunderstanding or misinterpreting guidelines and recommendations on prevention
-
-## Property: has_RiskType
-
-* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
-
-## Articles mentionning the risk
-
-* [COVID-19 misinformation: Accuracy of articles about coronavirus prevention mostly shared on social media](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_283.md)
+* [Health and safety concerns, risk communication strategy, and inadequate personal protective equipment are all indicative of potential hazards and vulnerabilities in various settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_126.md)
 
 ## Closest similar item
 
@@ -35,14 +19,33 @@ Misunderstanding or misinterpreting guidelines and recommendations on prevention
 * [Prevention and Protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_975.md)
 * [Limited acceptance of measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2693.md)
 
-## People affected by this risk
+## Description of the risk
 
-* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
-* [individuals responsible for implementing preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1237.md)
+Misunderstanding or misinterpreting guidelines and recommendations on prevention
+
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Governance, empowerment and engagement](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_6.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Mitigations of this risk
+
+* [Clear and concise communication of guidelines and recommendations, providing examples and demonstrations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2414.md)
+
+## Name of the risk
+
+Implementation of ineffective or incorrect preventive measures, increased risk of transmission
 
 ## Stakeholders who can mitigate this risk
 
@@ -50,21 +53,22 @@ Misunderstanding or misinterpreting guidelines and recommendations on prevention
 * [government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_55.md)
 * [employers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_180.md)
 
-## Name of the risk
+## Articles mentionning the risk
 
-Implementation of ineffective or incorrect preventive measures, increased risk of transmission
+* [COVID-19 misinformation: Accuracy of articles about coronavirus prevention mostly shared on social media](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_283.md)
 
-## Mitigations of this risk
+## People affected by this risk
 
-* [Clear and concise communication of guidelines and recommendations, providing examples and demonstrations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2414.md)
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+* [individuals responsible for implementing preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1237.md)
 
 ## Technologies linked to the risk
 
 * [instructional videos](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1188.md)
 * [visual aids](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1186.md)
 * [infographics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1187.md)
+
+## Property: has_RiskType
+
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 

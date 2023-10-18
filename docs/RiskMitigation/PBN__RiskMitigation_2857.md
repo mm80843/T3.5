@@ -2,9 +2,9 @@
 
 # __Establish virtual clinics for remote consultations and utilize telemedicine and e-learning platforms.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Disruption of core clinical services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2186.md)
+* [The trend towards remote and digital healthcare is encompassing telecommuting, telehealth, teleconferencing, wearable technology, touchless technologies, and mobile applications.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_328.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Telemedicine and remote testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1429.md)
 * [Increased use of telehealth clinics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_43.md)
 * [Virtual reality patient education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1127.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Disruption of core clinical services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2186.md)
 

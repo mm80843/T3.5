@@ -2,9 +2,9 @@
 
 # __Implement germicidal ultraviolet or air cleaning devices__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Use of air cleaning and disinfection devices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1780.md)
+* [Utilize UVGI technology to disinfect air, surfaces, and clothing, ensuring proper installation, training, and research to optimize effectiveness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_352.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Germicidal ultraviolet (GUV)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_609.md)
 * [Use of UV-C germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1026.md)
 * [Improve ventilation, implement air filtration and UV light sterilisation technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1767.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Use of air cleaning and disinfection devices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1780.md)
 

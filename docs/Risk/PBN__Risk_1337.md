@@ -2,25 +2,9 @@
 
 # __Incomplete data capture__
 
-## Property: has_RiskHealth
+## Category to which it belongs
 
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Description of the risk
-
-Incomplete capture of medical services administered in systems without electronic data capture, leading to incomplete datasets and biased research outcomes.
-
-## Property: has_RiskType
-
-* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
-* [legal](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_6.md)
-
-## Articles mentionning the risk
-
-* [Data capture and sharing in the COVID-19 pandemic: a cause for concern](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_208.md)
+* [The challenges include disintegrated and non-interoperable data, limited data access, data quality issues, and lack of standardized data sharing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_111.md)
 
 ## Closest similar item
 
@@ -35,33 +19,53 @@ Incomplete capture of medical services administered in systems without electroni
 * [Lack of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2698.md)
 * [Lack of real-time data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_762.md)
 
-## People affected by this risk
+## Description of the risk
 
-* [patients receiving care outside of digitized healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_849.md)
+Incomplete capture of medical services administered in systems without electronic data capture, leading to incomplete datasets and biased research outcomes.
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Property: has_RiskHealth
+
 
 ## Property: has_RiskISO_Impact
 
 * [Innovation, Creativity and research](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_2.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Research](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_11.md)
+
+## Mitigations of this risk
+
+* [Improve electronic data capture infrastructure and systems, utilize standardized coding systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1831.md)
+
+## Name of the risk
+
+Biased research conclusions and limited generalizability of results.
 
 ## Stakeholders who can mitigate this risk
 
 * [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
 * [regulatory bodies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_708.md)
 
-## Name of the risk
+## Articles mentionning the risk
 
-Biased research conclusions and limited generalizability of results.
+* [Data capture and sharing in the COVID-19 pandemic: a cause for concern](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_208.md)
 
-## Mitigations of this risk
+## People affected by this risk
 
-* [Improve electronic data capture infrastructure and systems, utilize standardized coding systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1831.md)
-
-## Property: has_RiskISO_Purpose
-
-* [Research](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_11.md)
+* [patients receiving care outside of digitized healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_849.md)
 
 ## Technologies linked to the risk
 
 * [electronic health record systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_515.md)
 * [international classification of diseases (icd) codes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_516.md)
+
+## Property: has_RiskType
+
+* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
+* [legal](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_6.md)
 

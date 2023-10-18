@@ -2,13 +2,9 @@
 
 # __government regulations__
 
-## Risks linked to this technology
+## Category to which it belongs
 
-* [Insufficient non-pharmaceutical interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1603.md)
-
-## This Technology enables the following mitigations
-
-* [Stay-at-home orders](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_952.md)
+* [Government actions and regulations addressing various aspects of society, including policy changes, ethical frameworks, governance mechanisms, and public announcements.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_216.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [regulatory frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1645.md)
 * [privacy regulations compliance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_577.md)
 * [policy and regulation changes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1179.md)
+
+## This Technology enables the following mitigations
+
+* [Stay-at-home orders](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_952.md)
+
+## Risks linked to this technology
+
+* [Insufficient non-pharmaceutical interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1603.md)
 

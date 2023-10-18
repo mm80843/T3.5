@@ -2,9 +2,9 @@
 
 # __interior designers__
 
-## Risks linked to this technology
+## Category to which it belongs
 
-* [Smaller and individual internal layouts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_248.md)
+* [Design and construction professionals use innovative techniques and strategies to create adaptable, sustainable, and inclusive buildings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_217.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [architectural & Construction Materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2661.md)
 * [building engineers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_385.md)
 * [Building engineers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2335.md)
+
+## Risks linked to this technology
+
+* [Smaller and individual internal layouts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_248.md)
 

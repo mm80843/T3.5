@@ -2,10 +2,9 @@
 
 # __Health Information Exchange__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_94.md)
-* [ipfs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3228.md)
+* [Enhancing healthcare access, facilities, and systems while promoting affordability and strengthening healthcare infrastructure through various strategies and initiatives.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_165.md)
 
 ## Closest similar item
 
@@ -20,14 +19,19 @@
 * [Health monitoring platform](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2370.md)
 * [Regular monitoring of public health and government announcements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1689.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Improves the efficiency and security of health data exchange, allowing for patient control and access to medical records
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Health Information Exchange with Blockchain amid Covid-19-like Pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_78.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_94.md)
+* [ipfs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3228.md)
 

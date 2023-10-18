@@ -2,8 +2,9 @@
 
 # __Simplified procedures for essential activities__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Optimizing the global trade network and supply chains through decentralization, cost concern, and integrated management, while promoting resilience and equity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_146.md)
 
 ## Closest similar item
 
@@ -18,14 +19,17 @@
 * [Ensuring basic supplies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2342.md)
 * [Incorporating exercise opportunities in design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2697.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Governments can implement simplified procedures and permits for essential activities to enable easier and faster production during disruptions.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Global value chains: Efficiency and risks in the context of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_60.md)
+
+## This Mitigation is enabled by the following technologies
+
 

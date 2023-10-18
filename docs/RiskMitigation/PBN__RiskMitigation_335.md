@@ -2,13 +2,9 @@
 
 # __Increased funding and capacity for vector control__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Vector-borne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_273.md)
-
-## Property: has_MitigationBenefit
-
-* [Strengthened vector control programs](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_339.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implement ecosystem-based approaches to control vectors, such as maintaining natural habitats and reducing breeding sites.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2433.md)
 * [Explore cost-effective solutions and funding options](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2374.md)
 * [Enhance vector control measures, develop targeted interventions, monitor and prevent mosquito breeding.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2194.md)
+
+## Property: has_MitigationBenefit
+
+* [Strengthened vector control programs](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_339.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Vector-borne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_273.md)
 

@@ -2,9 +2,9 @@
 
 # __Enforce Lockdown Measures__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [compliance monitoring technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3382.md)
+* [A comprehensive set of actions and rules aimed at protecting individuals and controlling the spread of COVID-19.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_173.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_577.md)
 * [Zone-based lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1167.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Limited acceptance of measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2693.md)
-
 ## Property: has_MitigationPrinciple
 
 Implement measures to monitor and enforce compliance with lockdown measures to ensure their effectiveness and promote public health
 
+## Risks possibly mitigated by this Mitigation
+
+* [Limited acceptance of measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2693.md)
+
 ## Property: has_MitigationSource
 
 * [What our response to the COVID-19 pandemic tells us of our capacity to respond to climate change](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_257.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [compliance monitoring technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3382.md)
 

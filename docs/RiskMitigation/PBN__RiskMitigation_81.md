@@ -2,14 +2,9 @@
 
 # __Regular disinfection of indoor spaces__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Spread of SARS-CoV-2 through contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_70.md)
-* [Spread of SARS-CoV-2 through aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_69.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction in virus viability on surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_94.md)
+* [Implement rigorous cleaning and disinfection measures, including the use of antimicrobial materials and advanced technologies, to maintain a safe and hygienic environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_2.md)
 
 ## Closest similar item
 
@@ -23,4 +18,13 @@
 * [Regular surface disinfection and use of self-disinfecting surfaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2034.md)
 * [Regular cleaning and disinfection of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_718.md)
 * [Self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1189.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction in virus viability on surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_94.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of SARS-CoV-2 through contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_70.md)
+* [Spread of SARS-CoV-2 through aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_69.md)
 

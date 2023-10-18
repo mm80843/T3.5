@@ -2,9 +2,9 @@
 
 # __Maintaining optimum lighting levels__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [lighting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4104.md)
+* [Maximizing the use of natural light and UV radiation for germicidal purposes in indoor spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_176.md)
 
 ## Closest similar item
 
@@ -19,14 +19,18 @@
 * [Daylighting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_138.md)
 * [Optimizing energy management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1637.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Providing adequate levels of natural and artificial lighting in buildings to promote a healthy and productive environment, supporting overall well-being.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [A Global Survey of Infection Control and Mitigation Measures for Combating the Transmission of COVID-19 Pandemic in Buildings Under Facilities Management Services](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_27.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [lighting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4104.md)
 

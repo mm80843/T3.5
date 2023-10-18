@@ -2,9 +2,9 @@
 
 # __Improve accessibility of reliable information through various channels (websites, social media, hotlines)__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of access to accurate information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1829.md)
+* [Promote accurate and reliable information, combat misinformation, and increase media and public health literacy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_343.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Improve information disclosure and transparency](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3101.md)
 * [Improve communication channels, provide clear and consistent information.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2691.md)
 * [Improving transparency and communication, providing accurate and timely information, addressing concerns and misinformation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2102.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of access to accurate information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1829.md)
 

@@ -2,13 +2,9 @@
 
 # __Rational allocation of resources__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Non-evidence-based measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_375.md)
-
-## Property: has_MitigationBenefit
-
-* [Efficient resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_497.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Diversify energy supply chains and increase local production capacity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2762.md)
 * [Promote diversification and self-sufficiency](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_18.md)
 * [Economic diversification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1002.md)
+
+## Property: has_MitigationBenefit
+
+* [Efficient resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_497.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Non-evidence-based measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_375.md)
 

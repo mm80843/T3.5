@@ -2,9 +2,9 @@
 
 # __law enforcement__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q44554](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q44554.md)
+* [All actors in the economic and political landscape, including policymakers, governments, and regulatory bodies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_357.md)
 
 ## Closest similar item
 
@@ -28,4 +28,8 @@
 ## Risks that can be mitigated by this stakeholder
 
 * [Domestic violence increase](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1139.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q44554](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q44554.md)
 

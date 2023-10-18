@@ -2,9 +2,9 @@
 
 # __adjustable desks__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1064858](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1064858.md)
+* [Design and construction professionals use innovative techniques and strategies to create adaptable, sustainable, and inclusive buildings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_217.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [desk-based extraction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4186.md)
 * [flexible room design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4187.md)
 * [flexible floor plans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3941.md)
+
+## This Technology is identified by the following QID
+
+* [Q1064858](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1064858.md)
 

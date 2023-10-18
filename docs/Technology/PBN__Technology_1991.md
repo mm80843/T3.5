@@ -2,9 +2,9 @@
 
 # __face mask usage__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q3064085](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3064085.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2561.md)
 * [masks (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4503.md)
 * [surgical masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3503.md)
+
+## This Technology is identified by the following QID
+
+* [Q3064085](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3064085.md)
 

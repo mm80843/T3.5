@@ -2,13 +2,9 @@
 
 # __Access to outdoor spaces__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_611.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved mental well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_229.md)
+* [Promote the integration of natural elements and communal areas, enhance accessibility and quality, and foster positive perception and functionality of public and private green and outdoor spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_331.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Accessible green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1228.md)
 * [Incorporate outdoor spaces in building design and provide access to communal gardens](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1790.md)
 * [Accessibility to private green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_732.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved mental well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_229.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_611.md)
 

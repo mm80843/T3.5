@@ -2,13 +2,9 @@
 
 # __Collaboration and Community Engagement Tools__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [community support groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_75.md)
-* [Community engagement strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2163.md)
-* [online support groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_124.md)
-* [Online collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2131.md)
-* [websites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1089.md)
+* [Digital tools for observing, managing, interacting, and maintaining physical distance in virtual and online spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_25.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Workforce and Resource Management Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_110.md)
 * [Health Education and Community Outreach](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_41.md)
 * [Technology and Digital Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_55.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [community support groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_75.md)
+* [Community engagement strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2163.md)
+* [online support groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_124.md)
+* [Online collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2131.md)
+* [websites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1089.md)
 

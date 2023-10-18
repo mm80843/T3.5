@@ -2,13 +2,9 @@
 
 # __Exchange process between hospitals__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Shortage of nursing staff](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_357.md)
-
-## Property: has_MitigationBenefit
-
-* [Addressing nursing staff shortage](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_451.md)
+* [Implementing a comprehensive package of measures to ensure the smooth functioning and safety of essential services and activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_6.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Appropriate disposal and disinfection of hospital wastes and wastewater before transportation or discharge.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3006.md)
 * [Implementation of a standardized and interoperable health information exchange system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1752.md)
 * [Implement measures to reduce patient overcrowding, such as increasing healthcare facility capacity or redirecting patients to different facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1862.md)
+
+## Property: has_MitigationBenefit
+
+* [Addressing nursing staff shortage](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_451.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Shortage of nursing staff](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_357.md)
 

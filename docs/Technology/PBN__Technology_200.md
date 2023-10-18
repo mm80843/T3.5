@@ -2,15 +2,14 @@
 
 # __sensors__
 
+## Category to which it belongs
+
+* [Advanced monitoring systems and sensor integration for IoT devices and biosensor technology facilitate environmental monitoring and facility usage tracking.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_229.md)
+
 ## Risks linked to this technology
 
 * [Contagious disease transmission in built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2069.md)
 * [Poor Indoor Environmental Quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1125.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Monitoring Systems and Sensors](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_119.md)
-* [Data Collection and Analysis](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_162.md)
 
 ## Closest similar item
 
@@ -25,14 +24,19 @@
 * [environmental sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3537.md)
 * [input sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3764.md)
 
+## This Technology is identified by the following QID
+
+* [Q26839924](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q26839924.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Monitoring Systems and Sensors](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_119.md)
+* [Data Collection and Analysis](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_162.md)
+
 ## This Technology belongs to this TechGroup
 
 * [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
 * [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
-
-## This Technology is identified by the following QID
-
-* [Q26839924](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q26839924.md)
 
 ## This Technology enables the following mitigations
 

@@ -2,9 +2,9 @@
 
 # __Development and use of alternative insecticides, rotation of insecticides, combination treatments__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Insecticide resistance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2353.md)
+* [Efforts include RNA monitoring, occupant exposure modeling, targeted messages, adoption of principles, copper coating, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_311.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Promote recycling and upcycling of construction and demolition waste to prevent the creation of mosquito breeding sites.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2422.md)
 * [Water circulation and aeration, mosquito control measures, public education on mosquito prevention](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2224.md)
 * [Implement mosquito and tick control measures in urban greening initiatives and ensure proper maintenance of green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2436.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Insecticide resistance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2353.md)
 

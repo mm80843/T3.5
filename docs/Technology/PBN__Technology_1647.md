@@ -2,9 +2,9 @@
 
 # __green technology__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q3516929](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3516929.md)
+* [Technological advancements encompass a wide range of innovations, such as blockchain, touchless, renewable energy, and communication technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [creation of green spaces and green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1873.md)
 * [green infrastructure management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_50.md)
 * [Green infrastructure management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2342.md)
+
+## This Technology is identified by the following QID
+
+* [Q3516929](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3516929.md)
 

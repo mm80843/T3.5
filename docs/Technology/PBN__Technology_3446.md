@@ -2,9 +2,9 @@
 
 # __sink__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Enhanced sanitation room](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_777.md)
+* [Improvements in wastewater, waste management, sanitation, water purification, and plumbing technologies aim for sustainable and efficient infrastructure development.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_234.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Proper sealing of pipes and sinks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2599.md)
 * [waterfalls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3694.md)
 * [drainage systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3901.md)
+
+## This Technology enables the following mitigations
+
+* [Enhanced sanitation room](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_777.md)
 

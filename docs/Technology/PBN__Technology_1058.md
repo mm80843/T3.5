@@ -2,9 +2,9 @@
 
 # __environmental control systems__
 
-## Risks linked to this technology
+## Category to which it belongs
 
-* [Influenza virus survival](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1704.md)
+* [Improved and energy-efficient HVAC systems, along with advanced technologies, for efficient energy management and environmental control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_227.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Environmental monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2533.md)
 * [ecological monitoring and regulation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1672.md)
 * [pollution control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3832.md)
+
+## Risks linked to this technology
+
+* [Influenza virus survival](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1704.md)
 

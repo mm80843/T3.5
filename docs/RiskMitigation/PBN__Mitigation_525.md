@@ -2,9 +2,9 @@
 
 # __Development of Public Health Infrastructure__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [investments in healthcare facilities and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3283.md)
+* [Advocacy and initiatives promoting well-being, knowledge, equitable access to healthcare, and healthy lifestyles.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_188.md)
 
 ## Closest similar item
 
@@ -19,14 +19,18 @@
 * [Care infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_735.md)
 * [Public health education and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_600.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Enhancing the capacity and accessibility of healthcare services to effectively respond to infectious diseases.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Epidemics, Planning and the City: A Special Issue of Planning Perspectives](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_152.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [investments in healthcare facilities and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3283.md)
 

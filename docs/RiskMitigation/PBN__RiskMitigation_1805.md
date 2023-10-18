@@ -2,9 +2,9 @@
 
 # __Educational campaigns on public health measures, improving communication and dissemination of information.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Limited public health knowledge and understanding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1316.md)
+* [Promote understanding and knowledge sharing through educational campaigns, dissemination of accurate information, and public awareness initiatives.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_318.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Increase public awareness through educational campaigns, provide reliable and accessible information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3091.md)
 * [Educate the public about disease prevention, promote awareness campaigns, provide accurate information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1957.md)
 * [Public health education and awareness campaigns, communication of guidelines and protocols through various channels, enforcement of regulations, and penalties for non-compliance.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2233.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limited public health knowledge and understanding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1316.md)
 

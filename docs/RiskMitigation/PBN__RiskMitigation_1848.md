@@ -2,9 +2,9 @@
 
 # __Establish new guidelines for funerals, communicate risks and mitigation measures__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Guidelines for funerals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1352.md)
+* [Enforce safety measures, promote responsible behavior, utilize PPE, and prioritize risk prevention to ensure adequate protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_342.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Clear and concise communication of guidelines and recommendations, providing examples and demonstrations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2414.md)
 * [Promote evidence-based decision-making, improve public health messaging, and address misinformation and conspiracy theories](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2118.md)
 * [Ensure clear communication from health authorities, combat fake news and rumors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1844.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Guidelines for funerals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1352.md)
 

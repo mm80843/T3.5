@@ -2,10 +2,9 @@
 
 # __cold-spray technique__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Copper Coating](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_824.md)
-* [Stainless Steel Replacement with Copper](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_825.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [ultra-cold freezers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1299.md)
 * [Ultra-cold freezers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2769.md)
 * [disinfection methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1910.md)
+
+## This Technology enables the following mitigations
+
+* [Copper Coating](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_824.md)
+* [Stainless Steel Replacement with Copper](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_825.md)
 

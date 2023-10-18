@@ -2,9 +2,9 @@
 
 # __Challenges in promoting low-carbon policies in Member States__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Instituting changes to state aid laws to promote low-carbon strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1003.md)
+* [The interconnectedness of environmental degradation, social inequalities, and the need for climate action and conservation efforts.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_104.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Economic disparities among Member States](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1587.md)
 * [Insufficient adoption of clean energy technologies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3322.md)
 * [Challenges in global climate diplomacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_552.md)
+
+## Mitigations of this risk
+
+* [Instituting changes to state aid laws to promote low-carbon strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1003.md)
 

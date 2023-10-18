@@ -2,9 +2,9 @@
 
 # __Increased transportation and contact in workplaces__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_479.md)
+* [The changing landscape of travel and transportation has led to concerns over safety, reduced demand, and inadequate infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_125.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Social disruptions, transmission in crowded spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2881.md)
 * [Disruption of transport operations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_927.md)
 * [Overcrowding on public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_528.md)
+
+## Mitigations of this risk
+
+* [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_479.md)
 

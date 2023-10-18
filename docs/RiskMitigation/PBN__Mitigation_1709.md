@@ -2,10 +2,9 @@
 
 # __Air filtration and ventilation__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
-* [hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_185.md)
+* [Enhanced air purification through the use of high-efficiency filters, ventilation, UV sterilization, and mechanical filtration systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_178.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1745.md)
 * [Improved Air Filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1645.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Contagion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2685.md)
-
 ## Property: has_MitigationPrinciple
 
 Proper air filtration and ventilation help to reduce the concentration of infectious particles in the air, reducing the risk of transmission of contagious diseases.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Contagion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2685.md)
+
 ## Property: has_MitigationSource
 
 * [El impacto del teletrabajo en tiempos del COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_108.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
+* [hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_185.md)
 

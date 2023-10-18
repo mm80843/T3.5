@@ -2,9 +2,9 @@
 
 # __Network administrators__
 
-## This Stakeholder belongs to this StakeholderGroup
+## Category to which it belongs
 
-* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
+* [Experts who oversee and manage various aspects of public and private administration, including cybersecurity, commerce, education, and infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_400.md)
 
 ## Closest similar item
 
@@ -18,6 +18,10 @@
 * [community administrators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_638.md)
 * [public administrators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_717.md)
 * [Public administrators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1681.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 

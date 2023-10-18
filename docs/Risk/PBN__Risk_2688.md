@@ -2,9 +2,9 @@
 
 # __Insufficient attention to public health impacts__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Emphasize Public Health Impacts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_685.md)
+* [The intersection of human activity and health, integrating databases, limited healthcare access, sedentary lifestyles, neglecting public health requirements, and disparities in urban design contribute to public health concerns.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_116.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Limited public health knowledge and understanding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1316.md)
 * [Lack of public awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2182.md)
 * [Politicization of public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1586.md)
+
+## Mitigations of this risk
+
+* [Emphasize Public Health Impacts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_685.md)
 

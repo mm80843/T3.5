@@ -2,13 +2,9 @@
 
 # __Conduct energy audits and monitoring of building performance__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of information on energy performance of buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_980.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved understanding of building energy use](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1348.md)
+* [Transition to sustainable energy sources, implement energy-efficient measures, and absorb increased service demand.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_351.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Integration of smart building technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_158.md)
 * [Measures in design and construction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_109.md)
 * [Improve insulation, use energy management systems, and implement efficient HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1687.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved understanding of building energy use](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1348.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of information on energy performance of buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_980.md)
 

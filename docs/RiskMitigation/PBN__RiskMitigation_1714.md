@@ -2,9 +2,9 @@
 
 # __Support and invest in low-carbon sources of electricity and transportation__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Decreased carbon emissions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1254.md)
+* [Transition to sustainable energy sources, implement energy-efficient measures, and absorb increased service demand.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_351.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement renewable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2881.md)
 * [Implement stricter vehicle emissions standards, promote electric vehicles and low-carbon fuels, improve public transport and active travel options](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1672.md)
 * [Implement sustainable strategies for economic recovery, promote clean and renewable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2460.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Decreased carbon emissions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1254.md)
 

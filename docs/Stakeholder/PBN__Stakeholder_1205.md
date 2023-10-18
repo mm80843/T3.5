@@ -2,9 +2,9 @@
 
 # __occupants of buildings with lack of natural light__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Lack of natural light](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1804.md)
+* [Individuals residing or working within various types of buildings, including residential, commercial, and healthcare facilities, as well as those in inadequately designed or poorly ventilated spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_391.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [occupants of buildings with poor indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1202.md)
 * [Occupants of buildings with poor indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2564.md)
 * [people in buildings with modified internal conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1530.md)
+
+## Risk affecting this stakeholder
+
+* [Lack of natural light](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1804.md)
 

@@ -2,9 +2,9 @@
 
 # __green building materials__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Smart building materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1412.md)
+* [Explore a diverse range of materials, from sound-absorbing to eco-friendly, that contribute to innovative building solutions and educational resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_222.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [green walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1010.md)
 * [Green walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2671.md)
 * [green roofs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1392.md)
+
+## This Technology enables the following mitigations
+
+* [Smart building materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1412.md)
 

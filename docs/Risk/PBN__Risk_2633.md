@@ -2,9 +2,9 @@
 
 # __Lack of standardisation, data format limitations__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Open research publishing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_570.md)
+* [The challenges include disintegrated and non-interoperable data, limited data access, data quality issues, and lack of standardized data sharing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_111.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Data collection and analysis limitations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_260.md)
 * [Lack of standardization, concerns over ethics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2626.md)
 * [Lack of standards for publication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1340.md)
+
+## Mitigations of this risk
+
+* [Open research publishing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_570.md)
 

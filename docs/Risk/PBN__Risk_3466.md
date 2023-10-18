@@ -2,9 +2,9 @@
 
 # __Improper installation__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [UVGI disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2467.md)
+* [A list of challenges and uncertainties surrounding the impact and response to various events and crises in different sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_124.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Process problems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_417.md)
 * [Technical failure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2764.md)
 * [Insufficient public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1738.md)
+
+## Mitigations of this risk
+
+* [UVGI disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2467.md)
 

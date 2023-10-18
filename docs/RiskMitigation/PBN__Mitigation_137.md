@@ -2,13 +2,9 @@
 
 # __Natural Ventilation__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [ventilation system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3194.md)
-* [windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_140.md)
-* [openable windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1748.md)
-* [vents](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2985.md)
-* [building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4056.md)
+* [Optimal air flow to reduce airborne contaminants and ensure fresh, clean air in enclosed spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_170.md)
 
 ## Closest similar item
 
@@ -23,15 +19,15 @@
 * [Natural ventilation through window openings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1152.md)
 * [Proper ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_819.md)
 
+## Property: has_MitigationPrinciple
+
+Adequate natural ventilation helps dilute and remove viral particles from indoor spaces, reducing transmission risk.
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Poor Indoor Air Quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1121.md)
 * [Poor indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_294.md)
 * [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
-
-## Property: has_MitigationPrinciple
-
-Adequate natural ventilation helps dilute and remove viral particles from indoor spaces, reducing transmission risk.
 
 ## Property: has_MitigationSource
 
@@ -39,4 +35,12 @@ Adequate natural ventilation helps dilute and remove viral particles from indoor
 * [A comprehensive review on indoor air quality monitoring systems for enhanced public health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_281.md)
 * [Building Transformation for Precautionary Measures against COVID-19 Pandemic: Case of Off-Street Car Parking of Campuses](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_224.md)
 * [Adaptive Design of the Built Environment to Mitigate the Transmission Risk of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_151.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [ventilation system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3194.md)
+* [windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_140.md)
+* [openable windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1748.md)
+* [vents](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2985.md)
+* [building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4056.md)
 

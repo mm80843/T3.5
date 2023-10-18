@@ -2,9 +2,9 @@
 
 # __Benchmarking__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [Benchmarking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2614.md)
+* [Methods for evaluating and comparing performance or gathering information without directly involving action.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_52.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Energy Efficiency](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_183.md)
 * [Monitoring Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_31.md)
 * [Simulation and Forecasting Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_0.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [Benchmarking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2614.md)
 

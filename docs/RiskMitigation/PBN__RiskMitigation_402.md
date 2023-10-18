@@ -2,13 +2,9 @@
 
 # __UV-Light radiation__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Contagious transmission in built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_323.md)
-
-## Property: has_MitigationBenefit
-
-* [Disinfection of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_399.md)
+* [Utilize UVGI technology to disinfect air, surfaces, and clothing, ensuring proper installation, training, and research to optimize effectiveness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_352.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [More research on UV susceptibility](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2988.md)
 * [Conduct further research and studies to compare the two types of UV light for disinfection purposes.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1681.md)
 * [UVGI technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1358.md)
+
+## Property: has_MitigationBenefit
+
+* [Disinfection of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_399.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Contagious transmission in built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_323.md)
 

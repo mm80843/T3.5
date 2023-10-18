@@ -2,9 +2,9 @@
 
 # __Sustainability and Environment__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [sustainability experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1412.md)
+* [Quality of life factors encompassing the surroundings, health, physical activity, and eco-friendliness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_262.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Waste and Wastewater Management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_161.md)
 * [Waste Management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_114.md)
 * [Manufacturing and Industry](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_62.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [sustainability experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1412.md)
 

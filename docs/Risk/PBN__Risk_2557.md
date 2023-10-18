@@ -2,9 +2,9 @@
 
 # __Maintaining safety__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Making social spaces safe and viable](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_409.md)
+* [Health and safety concerns, risk communication strategy, and inadequate personal protective equipment are all indicative of potential hazards and vulnerabilities in various settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_126.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Health and safety risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_733.md)
 * [Safety risks for workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1086.md)
 * [Prevention and Protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_975.md)
+
+## Mitigations of this risk
+
+* [Making social spaces safe and viable](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_409.md)
 

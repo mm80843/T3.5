@@ -2,13 +2,15 @@
 
 # __individuals staying at home during lockdown__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q320994](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q320994.md)
+* [Individuals at risk, including vulnerable populations, individuals in quarantine or isolation, and those in close proximity to infected individuals or contaminated surfaces, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_392.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Increase in outdoor noise during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1631.md)
+* [Impact of reduced traffic noise during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1633.md)
+* [Increased annoyance from bird noise during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1634.md)
 
 ## Closest similar item
 
@@ -23,12 +25,14 @@
 * [individual in quarantine or lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2520.md)
 * [individuals facing eviction](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_714.md)
 
-## Risk affecting this stakeholder
-
-* [Increase in outdoor noise during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1631.md)
-* [Impact of reduced traffic noise during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1633.md)
-* [Increased annoyance from bird noise during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1634.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
+
+## This Stakeholder is identified by the following QID
+
+* [Q320994](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q320994.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 

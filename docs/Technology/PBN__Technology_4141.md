@@ -2,10 +2,9 @@
 
 # __next generation sequencing__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Pathogenic DNA/RNA Residues Detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1922.md)
-* [Antimicrobial Resistance Gene Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1925.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [improved rt-qpcr assays and sequencing techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_58.md)
 * [Improved RT-qPCR assays and sequencing techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2787.md)
 * [dna analyzer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4430.md)
+
+## This Technology enables the following mitigations
+
+* [Pathogenic DNA/RNA Residues Detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1922.md)
+* [Antimicrobial Resistance Gene Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1925.md)
 

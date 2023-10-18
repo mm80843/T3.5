@@ -2,9 +2,9 @@
 
 # __easy-to-sanitize materials__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Hygienic building materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2176.md)
+* [Explore a diverse range of materials, from sound-absorbing to eco-friendly, that contribute to innovative building solutions and educational resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_222.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Enhanced sanitization measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2580.md)
 * [sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2981.md)
 * [sanitizing products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4225.md)
+
+## This Technology enables the following mitigations
+
+* [Hygienic building materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2176.md)
 

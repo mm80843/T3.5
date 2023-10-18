@@ -2,12 +2,9 @@
 
 # __AI-based social media analysis__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-
-## Property: has_MitigationBenefit
-
-* [Prevention of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1405.md)
+* [Advancements in bioinformatics, divestment, automated sample collection, and artificial intelligence are facilitating early disease detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_336.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [Implementation of AI technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_463.md)
 * [Big data and AI forecasting](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_634.md)
 * [Conduct validation studies to compare social media data with external data sources for validation and reliability](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2124.md)
+
+## Property: has_MitigationBenefit
+
+* [Prevention of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1405.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

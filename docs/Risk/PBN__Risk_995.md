@@ -2,9 +2,9 @@
 
 # __Essential services maintenance__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [IoT monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1416.md)
+* [Limited monitoring, technical limitations, language barriers, expensive optimization, lack of connection with nature, and limited sensor diversity hinder effective response and resource allocation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_107.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Service disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3423.md)
 * [Reducing non-essential use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2561.md)
 * [Inadequate maintenance and operation of HVAC systems and components](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3066.md)
+
+## Mitigations of this risk
+
+* [IoT monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1416.md)
 

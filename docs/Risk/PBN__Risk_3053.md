@@ -2,9 +2,9 @@
 
 # __Airborne transmission of respiratory particles__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Dilution and dispersion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1416.md)
+* [The dispersion of respiratory particles through the air can lead to the transmission of diseases.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_138.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Transmission via respiratory droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1733.md)
 * [Airborne transmission of diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2787.md)
 * [Airborne transmission of pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2714.md)
+
+## Mitigations of this risk
+
+* [Dilution and dispersion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1416.md)
 

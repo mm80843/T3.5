@@ -2,8 +2,9 @@
 
 # __Development of vaccines__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [A comprehensive approach to disease prevention through widespread immunization, research, and education.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_153.md)
 
 ## Closest similar item
 
@@ -18,14 +19,17 @@
 * [Nano-Vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_198.md)
 * [Vaccination programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1013.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Researchers are working on developing vaccines against COVID-19. This measure aims to provide long-term immunity and protection against the virus, reducing the risk of infection and transmission.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Nurture to nature via COVID-19, a self-regenerating environmental strategy of environment in global context](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_44.md)
+
+## This Mitigation is enabled by the following technologies
+
 

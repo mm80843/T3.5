@@ -2,9 +2,9 @@
 
 # __waste disposal infrastructure__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Improved waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1074.md)
+* [The built environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_230.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [waste management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3440.md)
 * [Recycling infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2392.md)
 * [recycling infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2003.md)
+
+## This Technology enables the following mitigations
+
+* [Improved waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1074.md)
 

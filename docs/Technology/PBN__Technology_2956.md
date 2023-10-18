@@ -2,9 +2,9 @@
 
 # __courtyard concept__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Climatically compatible house designs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_86.md)
+* [Urban green space solutions include tree planting, zoning regulations, landscape architecture, community gardens, outdoor furniture, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_231.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1736.md)
 * [urban gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_621.md)
 * [landscape design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3594.md)
+
+## This Technology enables the following mitigations
+
+* [Climatically compatible house designs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_86.md)
 

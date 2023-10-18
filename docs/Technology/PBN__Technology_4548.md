@@ -2,6 +2,10 @@
 
 # __Teleworking__
 
+## Category to which it belongs
+
+* [Virtual healthcare and remote communication technology including telemedicine, telehealth platforms, teletherapy, teleconferencing, and tele-operation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_202.md)
+
 ## Closest similar item
 
 * [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4548.md)

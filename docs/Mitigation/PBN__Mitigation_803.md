@@ -2,8 +2,9 @@
 
 # __Support at organizational level__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Promoting well-being and resilience through various forms of support, resources, and assistance for individuals in need.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_143.md)
 
 ## Closest similar item
 
@@ -18,14 +19,17 @@
 * [Gaps in capacity and resilience across industries and organizations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2967.md)
 * [Supporting essential sectors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2968.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Determine isolation paths and places within the hospital and allocate an isolation hospital to serve the faculty and staff of the university.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Management of the COVID-19 pandemic: challenges, practices, and organizational support](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_92.md)
+
+## This Mitigation is enabled by the following technologies
+
 

@@ -2,13 +2,9 @@
 
 # __individual who come into contact with contaminated surface__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q5164914](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5164914.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Individuals at risk, including vulnerable populations, individuals in quarantine or isolation, and those in close proximity to infected individuals or contaminated surfaces, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_392.md)
 
 ## Closest similar item
 
@@ -25,4 +21,12 @@
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 
+
+## This Stakeholder is identified by the following QID
+
+* [Q5164914](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5164914.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 

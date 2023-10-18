@@ -2,9 +2,9 @@
 
 # __Inaccurate news__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Use reliable sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1546.md)
+* [The proliferation of false and misleading information, misinformation, and inaccurate news during pandemics creates confusion and a lack of trust in reliable sources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_127.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Misdiagnosis and fake news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_768.md)
 * [Inaccurate predictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3051.md)
 * [Misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1033.md)
+
+## Mitigations of this risk
+
+* [Use reliable sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1546.md)
 

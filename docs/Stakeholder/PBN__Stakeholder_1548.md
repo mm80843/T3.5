@@ -2,9 +2,9 @@
 
 # __------------------------------__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [-------------------](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2321.md)
+* [Entities and individuals who interact with or are affected by a system, organization, or public facility.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_1.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_766.md)
 * [IT sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2616.md)
 * [destination](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_723.md)
+
+## Risk affecting this stakeholder
+
+* [-------------------](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2321.md)
 

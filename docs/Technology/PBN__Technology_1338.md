@@ -2,9 +2,9 @@
 
 # __mobile testing centers__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q67170410](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q67170410.md)
+* [A comprehensive list of mobile applications, including contact-tracing apps, mental health apps, mobile banking, and fitness tracking devices, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_197.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [mobile health clinics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_477.md)
 * [testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_37.md)
 * [mobile healthcare clinics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_543.md)
+
+## This Technology is identified by the following QID
+
+* [Q67170410](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q67170410.md)
 

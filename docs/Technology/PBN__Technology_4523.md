@@ -2,9 +2,9 @@
 
 # __living materials__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Nature incorporation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2479.md)
+* [Explore a diverse range of materials, from sound-absorbing to eco-friendly, that contribute to innovative building solutions and educational resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_222.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Better materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2656.md)
 * [recycled materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4519.md)
 * [eco-active materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3274.md)
+
+## This Technology enables the following mitigations
+
+* [Nature incorporation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2479.md)
 

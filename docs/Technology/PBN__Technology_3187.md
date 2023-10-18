@@ -2,9 +2,9 @@
 
 # __web surveys__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Surveys and Feedback](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_363.md)
+* [Digital platforms and online resources facilitate collaboration, communication, and information sharing among individuals and organizations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_193.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [online forums](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4028.md)
 * [e-participation platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3117.md)
 * [customer feedback platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_916.md)
+
+## This Technology enables the following mitigations
+
+* [Surveys and Feedback](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_363.md)
 

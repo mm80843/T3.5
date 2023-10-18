@@ -2,9 +2,9 @@
 
 # __Improve housing conditions, address mold and pest issues, provide resources for housing maintenance.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Housing Conditions and Health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1185.md)
+* [Promote equitable, sustainable, and inclusive urban planning to enhance living conditions, mitigate overcrowding, and reduce disparities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_324.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Establish occupancy limits for spaces, provide adequate space and amenities for occupants, promote social distancing measures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1777.md)
 * [Ensure proper ventilation and air circulation systems, conduct regular maintenance and cleaning, and promote good indoor air quality practices.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1776.md)
 * [Regular maintenance and cleaning of green spaces, improve amenities and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1475.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Housing Conditions and Health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1185.md)
 

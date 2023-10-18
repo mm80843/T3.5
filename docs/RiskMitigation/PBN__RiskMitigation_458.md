@@ -2,13 +2,9 @@
 
 # __Enhance accessibility to green spaces__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Decreased visitation to urban green spaces during COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_347.md)
-
-## Property: has_MitigationBenefit
-
-* [Increased physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_352.md)
+* [Promote the integration of natural elements and communal areas, enhance accessibility and quality, and foster positive perception and functionality of public and private green and outdoor spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_331.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Provide green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2867.md)
 * [Emphasize community-level design, develop green spaces and local amenities, promote accessibility](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1739.md)
 * [Provide access to nature and green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_886.md)
+
+## Property: has_MitigationBenefit
+
+* [Increased physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_352.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Decreased visitation to urban green spaces during COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_347.md)
 

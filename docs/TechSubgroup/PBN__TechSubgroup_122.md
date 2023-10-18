@@ -2,14 +2,9 @@
 
 # __Software and Applications__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [Supply chain management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2347.md)
-* [energy-efficient design software and technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_81.md)
-* [Remote working tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2831.md)
-* [Mobile apps for scheduling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2842.md)
-* [Cloud service technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2866.md)
-* [user education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_651.md)
+* [Technological tools and resources for creating, organizing, and utilizing information within the digital realm.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_33.md)
 
 ## Closest similar item
 
@@ -23,4 +18,13 @@
 * [Artificial Intelligence and Machine Learning](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_1.md)
 * [Monitoring Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_31.md)
 * [Data Collection and Analysis](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_162.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [Supply chain management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2347.md)
+* [energy-efficient design software and technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_81.md)
+* [Remote working tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2831.md)
+* [Mobile apps for scheduling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2842.md)
+* [Cloud service technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2866.md)
+* [user education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_651.md)
 

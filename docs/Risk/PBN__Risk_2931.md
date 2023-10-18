@@ -2,9 +2,9 @@
 
 # __Workload in intensive care units, expertise in critical care__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Relocating additional healthcare personnel](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1112.md)
+* [Healthcare systems overwhelmed with limited resources, shortage of personnel, and inadequate infrastructure face challenges in providing accessible and quality care.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_101.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Overwhelmed healthcare systems and operations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1901.md)
 * [Overwhelmed healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_22.md)
 * [Overloaded healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_807.md)
+
+## Mitigations of this risk
+
+* [Relocating additional healthcare personnel](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1112.md)
 

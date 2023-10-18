@@ -2,9 +2,9 @@
 
 # __Predicting the onset of COVID-19__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Changes in heart rate variability captured by smartwatches](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_945.md)
+* [The far-reaching consequences of COVID-19 include its transmission through various settings, impact on urban areas, and scarcity of resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_324.md)
 * [Wide-ranging impacts of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_363.md)
 * [Asymptomatic and pre-symptomatic cases of COVID-19 not being detected early](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1002.md)
+
+## Mitigations of this risk
+
+* [Changes in heart rate variability captured by smartwatches](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_945.md)
 

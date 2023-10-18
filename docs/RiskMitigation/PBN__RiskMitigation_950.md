@@ -2,13 +2,9 @@
 
 # __Decentralizing data ownership and establishing secure transmission of biometric data__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Security and ownership of wearable data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_686.md)
-
-## Property: has_MitigationBenefit
-
-* [Protection of personal data](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_956.md)
+* [Data privacy and security are prioritized through encryption, access controls, consent, and robust cybersecurity measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_335.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Strong data encryption, secure data storage, consent-based data sharing.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1683.md)
 * [Decentralization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1437.md)
 * [Implement privacy protection measures, obtain consent, anonymize data.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2714.md)
+
+## Property: has_MitigationBenefit
+
+* [Protection of personal data](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_956.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Security and ownership of wearable data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_686.md)
 

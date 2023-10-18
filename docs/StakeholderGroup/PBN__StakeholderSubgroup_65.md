@@ -2,15 +2,9 @@
 
 # __Tenants__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [public housing residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_217.md)
-* [tenants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_281.md)
-* [apartment residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_356.md)
-* [renters](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1219.md)
-* [renter](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2555.md)
-* [tenant](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1926.md)
-* [apartment resident](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1900.md)
+* [Rental participants.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_261.md)
 
 ## Closest similar item
 
@@ -24,4 +18,14 @@
 * [Residential Defined Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_83.md)
 * [Residents/Visitors](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_109.md)
 * [Homeless Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_96.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [public housing residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_217.md)
+* [tenants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_281.md)
+* [apartment residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_356.md)
+* [renters](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1219.md)
+* [renter](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2555.md)
+* [tenant](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1926.md)
+* [apartment resident](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1900.md)
 

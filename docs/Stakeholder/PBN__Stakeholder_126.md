@@ -2,22 +2,9 @@
 
 # __policymakers__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q4175034](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4175034.md)
-
-## Closest similar item
-
-* [economic policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_895.md)
-* [policy makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3.md)
-* [policy-makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_229.md)
-* [healthcare policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_516.md)
-* [economic policymaker](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2418.md)
-* [policy bodies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1407.md)
-* [government officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_333.md)
-* [public health agencies and policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_122.md)
-* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
-* [government authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_302.md)
+* [All actors in the economic and political landscape, including policymakers, governments, and regulatory bodies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_357.md)
 
 ## Risk affecting this stakeholder
 
@@ -59,6 +46,19 @@
 * [Impulsive adoption of extreme measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1521.md)
 * [Outdated information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2308.md)
 * [Misalignment of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2311.md)
+
+## Closest similar item
+
+* [economic policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_895.md)
+* [policy makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3.md)
+* [policy-makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_229.md)
+* [healthcare policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_516.md)
+* [economic policymaker](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2418.md)
+* [policy bodies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1407.md)
+* [government officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_333.md)
+* [public health agencies and policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_122.md)
+* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+* [government authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_302.md)
 
 ## This Stakeholder can get these Benefits from mitigation measures
 
@@ -138,4 +138,8 @@
 * [Disruption of core clinical services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2186.md)
 * [Neoliberalism](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2262.md)
 * [Constraints on civil liberties](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2269.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q4175034](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4175034.md)
 

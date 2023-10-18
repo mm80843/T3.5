@@ -2,13 +2,9 @@
 
 # __Monitoring metrics related to heart rate, respiration rate, and skin temperature using wearables__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Early detection of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_684.md)
-
-## Property: has_MitigationBenefit
-
-* [Early detection of infection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_278.md)
+* [Monitoring, analysis, and standardization of various technologies and protocols for accurate and reliable healthcare data collection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_310.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_498.md)
 * [Combining telemedicine with wearable technology for remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_952.md)
 * [Develop wearable devices that are biocompatible, energy efficient, compliant, and compact without compromising performance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1562.md)
+
+## Property: has_MitigationBenefit
+
+* [Early detection of infection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_278.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Early detection of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_684.md)
 

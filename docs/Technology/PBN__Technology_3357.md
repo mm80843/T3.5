@@ -2,9 +2,9 @@
 
 # __collaboration mechanisms__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Leverage complementary evidence networks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_611.md)
+* [Digital platforms and online resources facilitate collaboration, communication, and information sharing among individuals and organizations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_193.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [collaboration tools (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3119.md)
 * [collaboration tools)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4387.md)
 * [collaboration agreements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4328.md)
+
+## This Technology enables the following mitigations
+
+* [Leverage complementary evidence networks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_611.md)
 

@@ -2,10 +2,9 @@
 
 # __sealing technologies__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Wastewater management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2150.md)
-* [Sealing of pipes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2240.md)
+* [Technological advancements encompass a wide range of innovations, such as blockchain, touchless, renewable energy, and communication technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [membrane technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4434.md)
 * [cleaning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4110.md)
 * [encryption technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1542.md)
+
+## This Technology enables the following mitigations
+
+* [Wastewater management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2150.md)
+* [Sealing of pipes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2240.md)
 

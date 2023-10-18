@@ -2,10 +2,9 @@
 
 # __Apps and Software for Social Distancing__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [social distancing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1097.md)
-* [Social distancing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2437.md)
+* [Digital tools for observing, managing, interacting, and maintaining physical distance in virtual and online spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_25.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Technologies for Monitoring and Mitigation](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_64.md)
 * [Surveillance and Monitoring Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_147.md)
 * [Communication and Collaboration Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_111.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [social distancing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1097.md)
+* [Social distancing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2437.md)
 

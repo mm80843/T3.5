@@ -2,13 +2,13 @@
 
 # __Addressing vulnerability, building resilience: community-based adaptation to vector-borne diseases in the context of global change__
 
-## Title of the article
-
-Addressing vulnerability, building resilience: community-based adaptation to vector-borne diseases in the context of global change
-
 ## DOI of the article
 
 10.1186/s40249-017-0375-2
+
+## Title of the article
+
+Addressing vulnerability, building resilience: community-based adaptation to vector-borne diseases in the context of global change
 
 ## Year of publication
 

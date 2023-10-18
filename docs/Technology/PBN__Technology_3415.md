@@ -2,9 +2,9 @@
 
 # __community care centers__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Care infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_735.md)
+* [A range of community-centered initiatives, programs, and strategies foster participation, collaboration, and social support for diverse groups.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_236.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [community outreach](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1489.md)
 * [community support groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_75.md)
 * [Community support groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2192.md)
+
+## This Technology enables the following mitigations
+
+* [Care infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_735.md)
 

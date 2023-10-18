@@ -2,19 +2,19 @@
 
 # __Reduction of pathogen spread__
 
+## Name of the Benefit
+
+Antimicrobial surfaces prevent the spread of pathogens
+
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved health and reduced risk of transmission](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1502.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
 
 ## Articles mentionning this Benefit
 
 * [Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_282.md)
 
-## Name of the Benefit
+## Stakeholders benefitting from this Benefit
 
-Antimicrobial surfaces prevent the spread of pathogens
+* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
 

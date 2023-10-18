@@ -2,9 +2,9 @@
 
 # __flexible floor plans__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Appropriate unit sizes and layouts that support physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1600.md)
+* [Design and construction professionals use innovative techniques and strategies to create adaptable, sustainable, and inclusive buildings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_217.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [use modular design systems and adjustable walls/screens in apartment layouts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1267.md)
 * [flexible shelving](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4190.md)
 * [flexible and adaptable public space designs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_726.md)
+
+## This Technology enables the following mitigations
+
+* [Appropriate unit sizes and layouts that support physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1600.md)
 

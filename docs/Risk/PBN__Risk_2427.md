@@ -2,9 +2,9 @@
 
 # __Inefficient energy consumption__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Climatically compatible house designs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_86.md)
+* [Issues related to energy use, including increased consumption, inefficient usage, and lack of understanding, have various implications in different settings and sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_133.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Energy Efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3251.md)
 * [Increased energy usage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2225.md)
 * [Energy use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_614.md)
+
+## Mitigations of this risk
+
+* [Climatically compatible house designs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_86.md)
 

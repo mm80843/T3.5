@@ -2,13 +2,9 @@
 
 # __Proactive cost control__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Cost overrun](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_598.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved financial performance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_837.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Increased funding for vector control programs, allocation of resources to priority areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3056.md)
 * [Develop cost-effective and scalable production methods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1583.md)
 * [Implementing measures to increase production and distribution of PPE, rationing and prioritization.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2595.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved financial performance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_837.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Cost overrun](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_598.md)
 

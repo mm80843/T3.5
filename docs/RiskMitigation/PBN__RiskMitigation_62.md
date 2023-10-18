@@ -2,13 +2,9 @@
 
 # __Behavioral change__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Changes in social practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_45.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduced carbon emissions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_69.md)
+* [Strengthen collaborations, implement behavioral change, deploy social robots, and promote sustainable content consumption for community-based strategies, holistic research, and positive media representation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_316.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Social activities / facilitatie social interactions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3150.md)
 * [Change management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_714.md)
 * [Continuously monitor and evaluate the impact of interventions, adjust policies accordingly](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1888.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced carbon emissions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_69.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Changes in social practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_45.md)
 

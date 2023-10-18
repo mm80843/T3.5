@@ -2,9 +2,9 @@
 
 # __Curate and develop ontology terms specific to COVID-19 epidemiology.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Poor ontological coverage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_900.md)
+* [Implement comprehensive strategies to control virus transmission, improve surveillance, develop antiviral coatings, and enhance infection control measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_309.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Build an OBO ontology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1242.md)
 * [Pandemic analytics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_525.md)
 * [Restricting the amount of COVID-19 specific information people are exposed to on social media](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_120.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Poor ontological coverage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_900.md)
 

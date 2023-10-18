@@ -2,9 +2,9 @@
 
 # __Use of water-efficient appliances/fixtures__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [water usage reduction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4260.md)
+* [Strengthening waste management and surveillance, utilizing wastewater-based epidemiology, to improve environmental sanitation and water quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_9.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Reimagining water infrastructure design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1636.md)
 * [Sustainable water management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2164.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Water conservation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3352.md)
-
 ## Property: has_MitigationPrinciple
 
 Use water-efficient equipment and fixtures to reduce water consumption
 
+## Risks possibly mitigated by this Mitigation
+
+* [Water conservation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3352.md)
+
 ## Property: has_MitigationSource
 
 * [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [water usage reduction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4260.md)
 

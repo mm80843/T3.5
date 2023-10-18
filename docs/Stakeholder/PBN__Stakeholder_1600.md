@@ -2,10 +2,9 @@
 
 # __patients with severe covid-19__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Challenges in ventilator production](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2404.md)
-* [Safety concerns with alternative ventilator designs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2405.md)
+* [Individuals affected by various medical conditions, including COVID-19, seeking information and care.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_394.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [all individuals seeking covid-19 information and applications](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1317.md)
 * [individuals with long covid](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_373.md)
 * [re-infected patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1295.md)
+
+## Risk affecting this stakeholder
+
+* [Challenges in ventilator production](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2404.md)
+* [Safety concerns with alternative ventilator designs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2405.md)
 

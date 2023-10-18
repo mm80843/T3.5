@@ -2,9 +2,9 @@
 
 # __medical assessment equipment and protocols__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q73403964](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q73403964.md)
+* [Enhanced diagnostic techniques and screening methods, including the development of rapid and reliable testing technologies and increased availability of diagnostic tools and kits.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_211.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [portable medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_955.md)
 * [Portable medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2264.md)
 * [laboratory equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3829.md)
+
+## This Technology is identified by the following QID
+
+* [Q73403964](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q73403964.md)
 

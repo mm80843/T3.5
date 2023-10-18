@@ -2,13 +2,9 @@
 
 # __Reduced NO2 emissions__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Air pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_148.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_192.md)
+* [Efforts include RNA monitoring, occupant exposure modeling, targeted messages, adoption of principles, copper coating, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_311.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Strengthen climate action, reduce greenhouse gas emissions, promote sustainable practices.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2669.md)
 * [Reduce sources of chemical pollutants, improve ventilation and air filtration systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2642.md)
 * [Improved air quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1114.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_192.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Air pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_148.md)
 

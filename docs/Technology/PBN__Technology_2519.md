@@ -2,9 +2,9 @@
 
 # __Sensor calibration__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
-* [Energy and Resource Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_118.md)
+* [Advanced monitoring systems and sensor integration for IoT devices and biosensor technology facilitate environmental monitoring and facility usage tracking.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_229.md)
 
 ## Closest similar item
 
@@ -19,11 +19,15 @@
 * [HVAC maintenance and calibration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2464.md)
 * [sensor integration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_644.md)
 
-## This Technology belongs to this TechGroup
-
-* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
-
 ## This Technology is identified by the following QID
 
 * [Q736777](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q736777.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Energy and Resource Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_118.md)
+
+## This Technology belongs to this TechGroup
+
+* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
 

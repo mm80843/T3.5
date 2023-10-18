@@ -2,9 +2,9 @@
 
 # __Business viability__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Subsidizing and capital injection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_202.md)
+* [The Impact of Domestic Violence and the Spreading of the Virus Create Challenges in Preventing Virus Propagation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_94.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Disruption of supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1130.md)
 * [Disruption of supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_524.md)
 * [Supply chain disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1400.md)
+
+## Mitigations of this risk
+
+* [Subsidizing and capital injection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_202.md)
 

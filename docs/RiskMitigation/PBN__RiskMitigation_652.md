@@ -2,13 +2,9 @@
 
 # __AI for testing optimization__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Inefficient testing for COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_462.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved testing efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_659.md)
+* [Advancements in bioinformatics, divestment, automated sample collection, and artificial intelligence are facilitating early disease detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_336.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Expand testing capacity, prioritize testing for high-risk individuals and settings, implement targeted testing strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2032.md)
 * [Artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_500.md)
 * [Improve testing methods, consider testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2047.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved testing efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_659.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inefficient testing for COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_462.md)
 

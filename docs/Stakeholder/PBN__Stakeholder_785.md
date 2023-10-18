@@ -2,9 +2,9 @@
 
 # __nearby institutions__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Regionalization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1270.md)
+* [The community, including residents, educators, healthcare institutions, and government research institutions, is involved in education and healthcare.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_377.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Local organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2484.md)
 * [social institution](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2464.md)
 * [local organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1463.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Regionalization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1270.md)
 

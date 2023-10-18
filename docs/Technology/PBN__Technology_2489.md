@@ -2,10 +2,9 @@
 
 # __Implementation of enhanced cleaning protocols__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
-* [Hygiene and Sanitation Practices and Protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_60.md)
-* [Disinfection and Cleaning Protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_73.md)
+* [Enhanced hygiene practices and strict adherence to cleaning protocols ensure rigorous sanitation and disinfection measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_196.md)
 
 ## Closest similar item
 
@@ -20,12 +19,17 @@
 * [Enhanced cleaning and sanitization protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2563.md)
 * [enhanced cleaning and sanitation protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1180.md)
 
+## This Technology is identified by the following QID
+
+* [Q2590801](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2590801.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Hygiene and Sanitation Practices and Protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_60.md)
+* [Disinfection and Cleaning Protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_73.md)
+
 ## This Technology belongs to this TechGroup
 
 * [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
 * [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
-
-## This Technology is identified by the following QID
-
-* [Q2590801](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2590801.md)
 

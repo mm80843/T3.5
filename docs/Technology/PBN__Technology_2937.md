@@ -2,9 +2,9 @@
 
 # __linked data__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Data intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_58.md)
+* [Data-driven insights and analysis for decision making, anonymized data, transparency, visualization, and advanced techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_205.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [new data and technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4411.md)
 * [database](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3389.md)
 * [data management techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_158.md)
+
+## This Technology enables the following mitigations
+
+* [Data intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_58.md)
 

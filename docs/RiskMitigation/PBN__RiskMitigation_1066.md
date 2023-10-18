@@ -2,12 +2,9 @@
 
 # __Local investment and leadership__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-
-## Property: has_MitigationBenefit
-
-* [Enhanced local engagement and ownership](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1061.md)
+* [Promote sustainable development through infrastructure investments, training, diversification, financial support, and government partnerships.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_315.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [Foster social capital, trust, and participatory governance structures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2818.md)
 * [Investment in education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_540.md)
 * [Explore alternative funding options, build strong investor relationships.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2134.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced local engagement and ownership](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1061.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

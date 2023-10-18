@@ -2,9 +2,9 @@
 
 # __Exposing items or surfaces to UV radiation__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [UV radiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_378.md)
+* [The impact of UV light on bacteria, the need for proper installation and maintenance of UVGI systems, and the risks associated with UV-C exposure.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_139.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Contamination of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1332.md)
 * [Health risks from UV-C radiation exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2297.md)
 * [Surface contamination transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3197.md)
+
+## Mitigations of this risk
+
+* [UV radiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_378.md)
 

@@ -2,9 +2,9 @@
 
 # __collaborative networks__
 
-## Risks linked to this technology
+## Category to which it belongs
 
-* [Limited access to COVID-19 data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1719.md)
+* [Enhanced connectivity and diverse communication platforms enable the dissemination of reliable information and promote open communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_225.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_151.md)
 * [collaboration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_155.md)
 * [Collaboration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2300.md)
+
+## Risks linked to this technology
+
+* [Limited access to COVID-19 data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1719.md)
 

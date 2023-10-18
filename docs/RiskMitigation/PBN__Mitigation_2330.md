@@ -2,9 +2,9 @@
 
 # __Preprocessing disinfection of sewage__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [preprocessing disinfection equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4416.md)
+* [Enhancing cleanliness and sanitation through various methods such as UV light, chemicals, and routine cleaning.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_169.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Enhanced cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1009.md)
 * [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_191.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
-
 ## Property: has_MitigationPrinciple
 
 Addition of preprocessing disinfection equipment before drainage to disinfect sewage
 
+## Risks possibly mitigated by this Mitigation
+
+* [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
+
 ## Property: has_MitigationSource
 
 * [SARS-CoV-2 RNA detection of hospital isolation wards hygiene monitoring during the Coronavirus Disease 2019 outbreak in a Chinese hospital](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_55.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [preprocessing disinfection equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4416.md)
 

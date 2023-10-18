@@ -2,9 +2,9 @@
 
 # __dam construction companies__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Increased prevalence of human schistosomiasis resulting from dam constructions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1662.md)
+* [These companies span a wide array of industries, including renewable energy, construction, pharmaceuticals, logistics, and technology.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_387.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [construction organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_427.md)
 * [utility company](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1983.md)
 * [contractors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_179.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Increased prevalence of human schistosomiasis resulting from dam constructions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1662.md)
 

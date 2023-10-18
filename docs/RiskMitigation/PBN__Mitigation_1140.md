@@ -2,12 +2,9 @@
 
 # __Environmental surveillance__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3688.md)
-* [data collection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3515.md)
-* [epidemiological data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4002.md)
-* [wastewater testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3686.md)
+* [Strengthening waste management and surveillance, utilizing wastewater-based epidemiology, to improve environmental sanitation and water quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_9.md)
 
 ## Closest similar item
 
@@ -22,16 +19,23 @@
 * [Surveillance Cameras](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_354.md)
 * [Vector Surveillance and Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1860.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Health risk, data source](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2937.md)
-
 ## Property: has_MitigationPrinciple
 
 Identifies if the virus is circulating in the human population
+
+## Risks possibly mitigated by this Mitigation
+
+* [Health risk, data source](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2937.md)
 
 ## Property: has_MitigationSource
 
 * [SARS-CoV-2 in wastewater: potential health risk, but also data source](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_70.md)
 * [SARS-CoV-2 RNA in wastewater anticipated COVID-19 occurrence in a low prevalence area](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_96.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3688.md)
+* [data collection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3515.md)
+* [epidemiological data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4002.md)
+* [wastewater testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3686.md)
 

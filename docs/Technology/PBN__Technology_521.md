@@ -2,13 +2,13 @@
 
 # __reporting standards__
 
+## Category to which it belongs
+
+* [Consistent oversight and regulation ensure compliance, as standardized protocols are enforced by enforcement personnel and regulatory bodies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_228.md)
+
 ## Risks linked to this technology
 
 * [Health inequities in data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1339.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Data Governance and Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_142.md)
 
 ## Closest similar item
 
@@ -23,11 +23,15 @@
 * [telecommunication systems for reporting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_698.md)
 * [Telecommunication systems for reporting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2443.md)
 
-## This Technology belongs to this TechGroup
-
-* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_5.md)
-
 ## This Technology is identified by the following QID
 
 * [Q176691](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q176691.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Data Governance and Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_142.md)
+
+## This Technology belongs to this TechGroup
+
+* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_5.md)
 

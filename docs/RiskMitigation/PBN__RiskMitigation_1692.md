@@ -2,9 +2,9 @@
 
 # __Regular calibration, sensor redundancy, and remote diagnostics__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Sensor failure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1236.md)
+* [Monitoring, analysis, and standardization of various technologies and protocols for accurate and reliable healthcare data collection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_310.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implementing physical distancing procedures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1063.md)
 * [Robot-assisted temperature measurement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_88.md)
 * [Increase data collection and improve model validation and calibration; communicate uncertainty and limitations effectively](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1895.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Sensor failure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1236.md)
 

@@ -2,13 +2,9 @@
 
 # __Restriction on crowding__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Future city planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_996.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced transport capacity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1386.md)
+* [Promotion and enforcement of physical separation measures to prevent the spread of disease.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_327.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implementing crowd control measures such as capacity limits, timed entry systems, one-way circulation, and designated waiting areas.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2236.md)
 * [Implement occupancy limits and manage crowd flow. Design layouts with spacious areas and efficient use of space.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2635.md)
 * [Implementing temporary regulations to restrict group gatherings, overcrowding, and high-level interactions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1731.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced transport capacity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1386.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Future city planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_996.md)
 

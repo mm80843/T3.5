@@ -2,13 +2,9 @@
 
 # __Organizational adaptability__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Abrupt adjustment of organizational infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_561.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved flexibility and agility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_791.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Diversify supply chains, localize production, enhance transparency and resilience in supply chains.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2905.md)
 * [Strengthen coordination and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1034.md)
 * [Strategic alignment processes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_875.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved flexibility and agility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_791.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Abrupt adjustment of organizational infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_561.md)
 

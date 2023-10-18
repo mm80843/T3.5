@@ -2,9 +2,9 @@
 
 # __Conduct comprehensive research and surveillance to fill knowledge gaps and prepare for future threats.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Knowledge gaps and future threats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2362.md)
+* [Enforce safety measures, promote responsible behavior, utilize PPE, and prioritize risk prevention to ensure adequate protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_342.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Strengthened public health preparedness and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1020.md)
 * [Focus on safety and security issues](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_254.md)
 * [Implementation of privacy safeguards, transparent and accountable surveillance practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2749.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Knowledge gaps and future threats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2362.md)
 

@@ -2,13 +2,9 @@
 
 # __Smart metering__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Water demand](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_716.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction in leaks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1003.md)
+* [Advancements in bioinformatics, divestment, automated sample collection, and artificial intelligence are facilitating early disease detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_336.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Smart Personal Protective Equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1280.md)
 * [People monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1419.md)
 * [Preparing and providing smart city infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1105.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction in leaks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1003.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Water demand](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_716.md)
 

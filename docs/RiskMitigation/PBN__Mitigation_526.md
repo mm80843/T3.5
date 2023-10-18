@@ -2,9 +2,9 @@
 
 # __Climate-Sensitive Design__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [incorporation of climate considerations in urban design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3284.md)
+* [Achieving comfort through temperature management, monitoring, and control while implementing climate-sensitive design and utilizing thermal imaging technology for screening and measurement purposes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_185.md)
 
 ## Closest similar item
 
@@ -19,14 +19,18 @@
 * [Outdoor space design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1515.md)
 * [Sustainable Building Design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1786.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Designing urban environments to maximize access to fresh air and promote healthier living conditions.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Epidemics, Planning and the City: A Special Issue of Planning Perspectives](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_152.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [incorporation of climate considerations in urban design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3284.md)
 

@@ -2,9 +2,9 @@
 
 # __mental health providers__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Mental](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2239.md)
+* [Individuals in need of mental health support, including those with pre-existing conditions and from marginalized communities with limited access to services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_362.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [individuals in need of mental health support](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1345.md)
 * [individuals with mental health needs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1373.md)
 * [individuals with mental illness](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1564.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Mental](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2239.md)
 

@@ -2,9 +2,9 @@
 
 # __Environmental pollution__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Reduction in traffic volumes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_814.md)
+* [The interconnectedness of environmental degradation, social inequalities, and the need for climate action and conservation efforts.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_104.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Environmental Impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2487.md)
 * [Ambient pollutants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2816.md)
 * [Beach pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_840.md)
+
+## Mitigations of this risk
+
+* [Reduction in traffic volumes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_814.md)
 

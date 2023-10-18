@@ -2,13 +2,9 @@
 
 # __Expansion of urban green infrastructure__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of green open spaces in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_325.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved emotional health and well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_416.md)
+* [Promote biodiversity and sustainable urban development through the establishment and accessibility of green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_322.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Increase the availability and accessibility of urban green spaces, create new green spaces, and improve existing ones](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2408.md)
 * [Create and maintain green spaces, establish green infrastructure policies in urban planning, promote nature-based solutions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1897.md)
 * [Improve transportation to green areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1313.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved emotional health and well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_416.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of green open spaces in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_325.md)
 

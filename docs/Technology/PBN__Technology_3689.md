@@ -2,9 +2,9 @@
 
 # __pyrethrin-soaked cotton fibers__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Tick Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1146.md)
+* [The range of materials and techniques listed includes various disinfectants, nanomaterials, manufacturing methods, coatings, sustainability measures, and analytical tools.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_237.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [nan nan antibacterial fabrics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3990.md)
 * [eco-friendly materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2014.md)
 * [Eco-friendly materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2655.md)
+
+## This Technology enables the following mitigations
+
+* [Tick Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1146.md)
 

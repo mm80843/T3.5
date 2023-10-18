@@ -2,9 +2,9 @@
 
 # __Airborne transmission of pathogens__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_170.md)
+* [The wide-ranging transmission, survival, and spread of infectious respiratory viruses and pathogens indoors and on surfaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_122.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Airborne transmission of the virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3112.md)
 * [Transmission of pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2509.md)
 * [Transmission of diseases through air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1126.md)
+
+## Mitigations of this risk
+
+* [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_170.md)
 

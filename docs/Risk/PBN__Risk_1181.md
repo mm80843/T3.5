@@ -2,25 +2,9 @@
 
 # __Risk of resistance development to anti-SARS-CoV-2 coatings__
 
-## Property: has_RiskHealth
+## Category to which it belongs
 
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Description of the risk
-
-Continued use of the same coatings may lead to the development of resistance in the virus
-
-## Property: has_RiskType
-
-* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
-
-## Articles mentionning the risk
-
-* [A Surface Coating that Rapidly Inactivates SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_199.md)
+* [The widespread transmission and persistence of the SARS-CoV-2 virus in various environments and the challenges in detecting and removing it.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_93.md)
 
 ## Closest similar item
 
@@ -35,14 +19,33 @@ Continued use of the same coatings may lead to the development of resistance in 
 * [Transmission of SARS-CoV-2 in built environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_377.md)
 * [Transmission of SARS-CoV-2 through contact with contaminated objects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_221.md)
 
-## People affected by this risk
+## Description of the risk
 
-* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+Continued use of the same coatings may lead to the development of resistance in the virus
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_4.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+
+## Mitigations of this risk
+
+* [Regular monitoring of coated surfaces for changes in viral viability and development of alternative coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1633.md)
+
+## Name of the risk
+
+Reduced effectiveness of anti-SARS-CoV-2 coatings and increased transmission
 
 ## Stakeholders who can mitigate this risk
 
@@ -50,20 +53,21 @@ Continued use of the same coatings may lead to the development of resistance in 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_34.md)
 
-## Name of the risk
+## Articles mentionning the risk
 
-Reduced effectiveness of anti-SARS-CoV-2 coatings and increased transmission
+* [A Surface Coating that Rapidly Inactivates SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_199.md)
 
-## Mitigations of this risk
+## People affected by this risk
 
-* [Regular monitoring of coated surfaces for changes in viral viability and development of alternative coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1633.md)
-
-## Property: has_RiskISO_Purpose
-
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 
 ## Technologies linked to the risk
 
 * [research and development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_269.md)
 * [surveillance programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_268.md)
+
+## Property: has_RiskType
+
+* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 

@@ -2,9 +2,9 @@
 
 # __emission control technologies__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q989364](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q989364.md)
+* [Improved and energy-efficient HVAC systems, along with advanced technologies, for efficient energy management and environmental control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_227.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [low-pollutant-emitting products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3859.md)
 * [greenhouse technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4012.md)
 * [carbon reduction technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4095.md)
+
+## This Technology is identified by the following QID
+
+* [Q989364](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q989364.md)
 

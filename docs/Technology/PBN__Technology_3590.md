@@ -2,11 +2,9 @@
 
 # __policy measures__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Policy Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1033.md)
-* [Government Policy Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1029.md)
-* [Government Support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1022.md)
+* [Consistent oversight and regulation ensure compliance, as standardized protocols are enforced by enforcement personnel and regulatory bodies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_228.md)
 
 ## Closest similar item
 
@@ -20,4 +18,10 @@
 * [fiscal policy measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1796.md)
 * [regulatory policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3417.md)
 * [policy engagement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_160.md)
+
+## This Technology enables the following mitigations
+
+* [Policy Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1033.md)
+* [Government Policy Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1029.md)
+* [Government Support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1022.md)
 

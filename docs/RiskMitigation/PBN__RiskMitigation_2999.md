@@ -2,9 +2,9 @@
 
 # __Regular monitoring and maintenance of filters, prevention of microbial growth.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Microbial pollution from botanical filters](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2307.md)
+* [Implement wastewater surveillance techniques to detect viral presence, optimize treatment processes, and inform public health interventions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_308.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Maintain appropriate temperature and humidity levels, improve ventilation and filtration systems, and ensure proper cleaning and disinfection protocols.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1592.md)
 * [Air filtration and UV light sterilisation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1130.md)
 * [Wastewater-based monitoring (WBE)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_0.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Microbial pollution from botanical filters](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2307.md)
 

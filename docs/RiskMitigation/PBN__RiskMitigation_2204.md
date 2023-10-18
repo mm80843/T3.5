@@ -2,9 +2,9 @@
 
 # __Optimization-based people flow estimation using historical measurement data__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of real people flow data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1656.md)
+* [Enhanced surveillance, monitoring, and real-time tracking for improved control and response to various situations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_312.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Develop microscopic crowd models to represent individual movement and assess the impact of social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2622.md)
 * [Collect and analyze data on human movement patterns using mobile phone call data records and other sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2830.md)
 * [Population mobility data analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_390.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of real people flow data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1656.md)
 

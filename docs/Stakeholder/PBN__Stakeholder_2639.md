@@ -2,13 +2,9 @@
 
 # __innovator__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q22974684](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q22974684.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Technology Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_12.md)
+* [Entities and individuals who interact with or are affected by a system, organization, or public facility.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_1.md)
 
 ## Closest similar item
 
@@ -25,4 +21,12 @@
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 
+
+## This Stakeholder is identified by the following QID
+
+* [Q22974684](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q22974684.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Technology Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_12.md)
 

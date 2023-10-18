@@ -2,9 +2,9 @@
 
 # __Urban planning and design to create more open space, improve infrastructure, and promote safe transportation options.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Overcrowded cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1413.md)
+* [Promote equitable, sustainable, and inclusive urban planning to enhance living conditions, mitigate overcrowding, and reduce disparities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_324.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Address spatial inequalities and social disparities in urban design and planning. Improve access to healthcare, essential services, and amenities in disadvantaged neighborhoods.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3090.md)
 * [Urban planning and infrastructure to accommodate growing populations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1503.md)
 * [Urban planning and design that balances density and social distancing measures, building design that supports healthy environments](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2652.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Overcrowded cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1413.md)
 

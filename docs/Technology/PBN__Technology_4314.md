@@ -2,9 +2,9 @@
 
 # __public engagement strategies__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Engagement of Society](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2187.md)
+* [Government actions and regulations addressing various aspects of society, including policy changes, ethical frameworks, governance mechanisms, and public announcements.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_216.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [community engagement platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_966.md)
 * [policy engagement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_160.md)
 * [stakeholder engagement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_454.md)
+
+## This Technology enables the following mitigations
+
+* [Engagement of Society](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2187.md)
 

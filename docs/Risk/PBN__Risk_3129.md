@@ -2,9 +2,9 @@
 
 # __Worsening infection__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Use of Paracetamol](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1542.md)
+* [The dissemination of infectious diseases, characterized by outbreaks from various sources, inadequate preparedness, and insufficient reporting and understanding, poses a global threat.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_106.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Under-ascertainment of infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1391.md)
 * [Risk of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2469.md)
 * [Infection control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2410.md)
+
+## Mitigations of this risk
+
+* [Use of Paracetamol](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1542.md)
 

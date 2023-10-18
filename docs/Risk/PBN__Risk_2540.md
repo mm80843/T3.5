@@ -2,9 +2,9 @@
 
 # __Corruption in donations__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Transparent donation process](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_365.md)
+* [The proliferation of false and misleading information, misinformation, and inaccurate news during pandemics creates confusion and a lack of trust in reliable sources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_127.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Insufficient funding and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2613.md)
 * [Barriers to accessing funding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_560.md)
 * [Financial strain on government budgets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3077.md)
+
+## Mitigations of this risk
+
+* [Transparent donation process](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_365.md)
 

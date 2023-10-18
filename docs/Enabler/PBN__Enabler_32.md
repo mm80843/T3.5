@@ -2,13 +2,13 @@
 
 # __Disease Diagnostic Test Kits__
 
-## Property: has_TechEquivalent
-
-* [Disease Diagnostic Test Kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4557.md)
-
 ## Property: has_BP_EnablerTitle
 
 enabler_033
+
+## Category to which it belongs
+
+* [Medical screening tools for identifying and diagnosing various illnesses and medical conditions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_92.md)
 
 ## Closest similar item
 
@@ -27,4 +27,8 @@ enabler_033
 
 * [Rotating shift schedule](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_0.md)
 * [Infection tracking](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_20.md)
+
+## Property: has_TechEquivalent
+
+* [Disease Diagnostic Test Kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4557.md)
 

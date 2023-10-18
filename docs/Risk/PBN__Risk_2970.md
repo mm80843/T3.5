@@ -2,9 +2,9 @@
 
 # __Efficiently embedded in asset management__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Value management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1221.md)
+* [Limited monitoring, technical limitations, language barriers, expensive optimization, lack of connection with nature, and limited sensor diversity hinder effective response and resource allocation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_107.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Data management issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2085.md)
 * [Efficient design changes and management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2971.md)
 * [Resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3422.md)
+
+## Mitigations of this risk
+
+* [Value management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1221.md)
 

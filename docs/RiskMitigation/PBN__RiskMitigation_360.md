@@ -2,13 +2,9 @@
 
 # __Designing cities with evenly distributed activity hubs__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Inter-city variations in influenza-like outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_285.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction in epidemic growth](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_356.md)
+* [Promote equitable, sustainable, and inclusive urban planning to enhance living conditions, mitigate overcrowding, and reduce disparities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_324.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Prioritize green space in deprived areas, consider equitable distribution in urban planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1474.md)
 * [Incorporating physical activity spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_154.md)
 * [Urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_70.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction in epidemic growth](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_356.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inter-city variations in influenza-like outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_285.md)
 

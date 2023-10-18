@@ -2,13 +2,13 @@
 
 # __hospital administration__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q5657858](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5657858.md)
+* [Various individuals in the healthcare industry, including epidemiologists, medical personnel, clinicians, surgeons, and patients in need of medical care.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_360.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
+* [False sense of security from portable air filters](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2171.md)
 
 ## Closest similar item
 
@@ -22,14 +22,6 @@
 * [healthcare administrators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_559.md)
 * [hospital patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1061.md)
 * [healthcare manager](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1848.md)
-
-## Risk affecting this stakeholder
-
-* [False sense of security from portable air filters](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2171.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Healthcare Administration](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_49.md)
 
 ## Risks that can be mitigated by this stakeholder
 
@@ -45,4 +37,16 @@
 * [Overwhelmed respiratory isolation capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1285.md)
 * [Lack of anterooms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1641.md)
 * [Inadequate door-lock device](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1643.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Healthcare Administration](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_49.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q5657858](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5657858.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
 

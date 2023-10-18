@@ -2,9 +2,9 @@
 
 # __separate control of air temperature room by room__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q390516](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q390516.md)
+* [Improved air quality can be achieved through the use of various technologies such as air purifiers and monitoring systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_221.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [air conditioning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3666.md)
 * [room dividers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1004.md)
 * [Room dividers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2667.md)
+
+## This Technology is identified by the following QID
+
+* [Q390516](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q390516.md)
 

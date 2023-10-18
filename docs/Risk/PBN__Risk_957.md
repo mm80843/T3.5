@@ -2,9 +2,9 @@
 
 # __Limited connection to nature__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Balcony design and biophilic design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1338.md)
+* [Limited monitoring, technical limitations, language barriers, expensive optimization, lack of connection with nature, and limited sensor diversity hinder effective response and resource allocation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_107.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of spatial variety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1890.md)
 * [Loss of biodiversity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3265.md)
 * [Dependence on limited physiological information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1113.md)
+
+## Mitigations of this risk
+
+* [Balcony design and biophilic design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1338.md)
 

@@ -2,9 +2,9 @@
 
 # __Impact on food industry supply chain__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Application of antimicrobial coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_574.md)
+* [Supply chain disruptions and logistical challenges have caused global supply chains to be heavily impacted.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_99.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_993.md)
 * [Supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_10.md)
 * [Disruption in the supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_480.md)
+
+## Mitigations of this risk
+
+* [Application of antimicrobial coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_574.md)
 

@@ -2,9 +2,9 @@
 
 # __data reporting mechanisms__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Enhanced Surveillance and Reporting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1863.md)
+* [Data-driven insights and analysis for decision making, anonymized data, transparency, visualization, and advanced techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_205.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Reporting guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2622.md)
 * [telecommunication systems for reporting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_698.md)
 * [Telecommunication systems for reporting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2443.md)
+
+## This Technology enables the following mitigations
+
+* [Enhanced Surveillance and Reporting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1863.md)
 

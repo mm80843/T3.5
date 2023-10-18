@@ -2,10 +2,9 @@
 
 # __general populations in areas with vector control programs__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Insecticide resistance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2353.md)
-* [Inadequate community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2356.md)
+* [People residing in densely populated districts or neighborhoods, including those in high-risk, low-income, or underserved areas, as well as visitors and tenants in urban locations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_384.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [affected populations in low-income areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_280.md)
 * [general population in areas with limited testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1029.md)
 * [densely populated areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_901.md)
+
+## Risk affecting this stakeholder
+
+* [Insecticide resistance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2353.md)
+* [Inadequate community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2356.md)
 

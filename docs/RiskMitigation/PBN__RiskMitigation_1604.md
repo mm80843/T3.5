@@ -2,9 +2,9 @@
 
 # __Exploration and development of alternative detection methods such as CRISPR, digital PCR, lab-on-a-chip, and biosensors.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Need for alternative detection methods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1152.md)
+* [Monitoring, analysis, and standardization of various technologies and protocols for accurate and reliable healthcare data collection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_310.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Development and mass production of biosensor systems that are portable, economical, user-friendly, and designed for wastewater analysis.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1607.md)
 * [Standardization and verification of PCR methods and protocols used by different laboratories.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1600.md)
 * [Validate and optimize PCR assays to ensure accurate detection of SARS-CoV-2 genetic material.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3041.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Need for alternative detection methods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1152.md)
 

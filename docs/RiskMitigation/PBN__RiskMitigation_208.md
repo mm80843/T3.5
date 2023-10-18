@@ -2,13 +2,9 @@
 
 # __Recognizing stress symptoms__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Uncertainty about job status](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_168.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced mental health support](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_224.md)
+* [Promote comprehensive testing and tracing, prioritize vulnerable populations, reduce diagnosis-to-surgery time, recognize stress symptoms, and improve testing accuracy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_347.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Targeted mental health support, assessment and monitoring of vulnerable individuals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2496.md)
 * [Rapid diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1282.md)
 * [Address mental health concerns, provide support through social and mental health experts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1613.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced mental health support](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_224.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Uncertainty about job status](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_168.md)
 

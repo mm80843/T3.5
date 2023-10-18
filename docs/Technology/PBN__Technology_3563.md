@@ -2,9 +2,9 @@
 
 # __user behavior__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Decreased show-off behavior on social media](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_967.md)
+* [These resources aim to enhance security, convenience, and efficiency in managing access, spaces, and systems within various environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_206.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [user-friendly applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4159.md)
 * [enforcement mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1152.md)
 * [Enforcement mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2501.md)
+
+## This Technology enables the following mitigations
+
+* [Decreased show-off behavior on social media](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_967.md)
 

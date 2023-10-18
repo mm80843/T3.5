@@ -2,9 +2,9 @@
 
 # __upcode__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Data dashboards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2371.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [cell phone data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3998.md)
 * [digital twin](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3757.md)
 * [international classification of diseases (icd) codes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_516.md)
+
+## This Technology enables the following mitigations
+
+* [Data dashboards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2371.md)
 

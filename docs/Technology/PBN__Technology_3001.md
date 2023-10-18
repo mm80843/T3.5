@@ -2,12 +2,9 @@
 
 # __robots__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Robotics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_149.md)
-* [Automated surveillance and contactless delivery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1889.md)
-* [Integrated healthcare environment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_155.md)
-* [Digitalization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_750.md)
+* [Advanced technologies and algorithms for modeling, simulation, optimization, and artificial intelligence in various applications, including robotics and computational fluid dynamics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_239.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [industrial robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4497.md)
 * [robotic systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4490.md)
 * [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2869.md)
+
+## This Technology enables the following mitigations
+
+* [Robotics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_149.md)
+* [Automated surveillance and contactless delivery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1889.md)
+* [Integrated healthcare environment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_155.md)
+* [Digitalization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_750.md)
 

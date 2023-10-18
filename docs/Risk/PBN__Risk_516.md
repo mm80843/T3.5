@@ -2,9 +2,9 @@
 
 # __Economic decline during the pandemic__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Implementation of non-pharmaceutical interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_723.md)
+* [The ramifications of global connectivity include economic instability, impacts of the pandemic, unemployment, poverty, reduced tourism revenue, and decline in public budgets.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_103.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Global pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1437.md)
 * [Limited resources for pandemic mitigation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_879.md)
 * [Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_446.md)
+
+## Mitigations of this risk
+
+* [Implementation of non-pharmaceutical interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_723.md)
 

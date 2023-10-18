@@ -2,9 +2,9 @@
 
 # __Contactless payment systems__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
-* [Touchless and Remote Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_53.md)
+* [The digital revolution encompasses various aspects, from online promotion to contactless payment systems and virtual learning platforms.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_190.md)
 
 ## Closest similar item
 
@@ -19,11 +19,15 @@
 * [contactless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1837.md)
 * [contactless technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1556.md)
 
-## This Technology belongs to this TechGroup
-
-* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
-
 ## This Technology is identified by the following QID
 
 * [Q625903](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q625903.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Touchless and Remote Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_53.md)
+
+## This Technology belongs to this TechGroup
+
+* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
 

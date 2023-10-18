@@ -2,13 +2,9 @@
 
 # __Transparency and accountability in peer review__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Shortcomings in peer review process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_619.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced quality control of scientific research](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_861.md)
+* [Promote accurate and reliable information, combat misinformation, and increase media and public health literacy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_343.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Establish ethical guidelines and ensure transparency, fairness, and accountability.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2783.md)
 * [Transparency and governance of data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_815.md)
 * [Maintain transparency and objectivity in evidence generation and communication, actively combat misinformation, and build trust through consistent and reliable delivery of evidence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1856.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced quality control of scientific research](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_861.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Shortcomings in peer review process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_619.md)
 

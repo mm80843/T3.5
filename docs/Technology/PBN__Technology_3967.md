@@ -2,9 +2,9 @@
 
 # __digitalisation__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Reimagining water infrastructure design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1636.md)
+* [The digital revolution encompasses various aspects, from online promotion to contactless payment systems and virtual learning platforms.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_190.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [digital platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_640.md)
 * [Digital platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2864.md)
 * [digital media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3581.md)
+
+## This Technology enables the following mitigations
+
+* [Reimagining water infrastructure design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1636.md)
 

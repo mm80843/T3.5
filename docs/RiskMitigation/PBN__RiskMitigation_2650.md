@@ -2,9 +2,9 @@
 
 # __Embrace well-being economies and prioritize sustainable economic development__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Economic instability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2026.md)
+* [Enhance local self-sufficiency in shopping, recreation, and food production, while promoting sustainable practices and supporting resilient economies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_344.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Promoting decent work and economic growth](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_288.md)
 * [Create self-dependent and sustainable services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2892.md)
 * [Adopt policies that prioritize social objectives and public health; strengthen state capabilities.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2948.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Economic instability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2026.md)
 

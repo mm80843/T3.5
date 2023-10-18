@@ -2,9 +2,9 @@
 
 # __Develop and implement awareness campaigns targeting the general population and key stakeholders, provide information on available resources and support services__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of awareness and education about intimate partner violence during the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1039.md)
+* [Promote understanding and knowledge sharing through educational campaigns, dissemination of accurate information, and public awareness initiatives.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_318.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement public awareness campaigns, provide education on disease prevention and transmission](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2201.md)
 * [Increase public interest and awareness through targeted communication strategies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1673.md)
 * [Promote healthy habits through education and awareness campaigns, provide support systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1942.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of awareness and education about intimate partner violence during the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1039.md)
 

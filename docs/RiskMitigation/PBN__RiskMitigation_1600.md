@@ -2,9 +2,9 @@
 
 # __Standardization and verification of PCR methods and protocols used by different laboratories.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Discrepancies in PCR results among laboratories](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1148.md)
+* [Monitoring, analysis, and standardization of various technologies and protocols for accurate and reliable healthcare data collection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_310.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Developing sensitive RT-qPCR assays for wastewater](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_991.md)
 * [Integration of new technologies (digital PCR, CSRPP, LOC/POC, biosensors)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_878.md)
 * [Develop standardized and optimized testing protocols, enhance coordination and cooperation at national and international levels](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1796.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Discrepancies in PCR results among laboratories](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1148.md)
 

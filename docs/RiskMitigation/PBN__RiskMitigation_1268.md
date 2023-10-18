@@ -2,13 +2,9 @@
 
 # __Performing hand hygiene practices__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Contamination of object surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_921.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction in transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1258.md)
+* [Promote and enforce hygiene practices, implement sanitation measures, and provide education on proper handwashing techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_332.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Promote regular hand hygiene, use of hand sanitizers, and disinfection of commonly touched surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2257.md)
 * [Regular cleaning, hand hygiene, disinfection protocols.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2238.md)
 * [Strict adherence to environmental and hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1273.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction in transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1258.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Contamination of object surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_921.md)
 

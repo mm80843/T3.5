@@ -2,9 +2,9 @@
 
 # __Improve data quality through standardized data collection processes__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Data quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1753.md)
+* [Promote standardized data collection, ontology-based representation, and enhanced data sharing to improve decision-making processes and data quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_319.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Improve data collection and reporting systems, enhance testing capacity, ensure transparency in data reporting](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2031.md)
 * [Develop guidelines for data collection and harmonization, standardize reporting](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2822.md)
 * [Promote standardized testing protocols, encourage open-source model for data collection and reporting](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1800.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Data quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1753.md)
 

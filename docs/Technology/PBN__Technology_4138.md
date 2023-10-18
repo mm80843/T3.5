@@ -2,9 +2,9 @@
 
 # __pcr techniques__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Wastewater-Based Epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1921.md)
+* [Advancements in biotechnology, clinical research, and innovative therapies contribute to the development of medical solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [rt-pcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3197.md)
 * [qrt pcr testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3433.md)
 * [qpcr techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4139.md)
+
+## This Technology enables the following mitigations
+
+* [Wastewater-Based Epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1921.md)
 

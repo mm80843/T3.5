@@ -2,13 +2,9 @@
 
 # __Optimizing ventilation systems__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Importance of dispersal and environmental conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_208.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction of microbial dispersion](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_258.md)
+* [Enhance airflow, increase fresh air intake, and optimize ventilation systems to improve air quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_329.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Building ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_192.md)
 * [Increase ventilation rates, use proper air distribution patterns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1646.md)
 * [Increase ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1075.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction of microbial dispersion](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_258.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Importance of dispersal and environmental conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_208.md)
 

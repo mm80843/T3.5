@@ -2,12 +2,9 @@
 
 # __Natural light__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [smart windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4347.md)
-* [window size](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4238.md)
-* [visible transmittance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4239.md)
-* [uniform color](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4240.md)
+* [Maximizing the use of natural light and UV radiation for germicidal purposes in indoor spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_176.md)
 
 ## Closest similar item
 
@@ -22,17 +19,24 @@
 * [Design for natural lighting and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2710.md)
 * [Design units with provisions for natural light, ventilation, access to nature, and personal gardening spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3186.md)
 
+## Property: has_MitigationPrinciple
+
+Maximize natural light to create a healthier environment and improve mental health
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_611.md)
 * [Bacterial activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3393.md)
 
-## Property: has_MitigationPrinciple
-
-Maximize natural light to create a healthier environment and improve mental health
-
 ## Property: has_MitigationSource
 
 * [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
 * [How to Make Green Building Certification \& Rating Systems More Pandemic-Sustainable?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_172.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [smart windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4347.md)
+* [window size](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4238.md)
+* [visible transmittance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4239.md)
+* [uniform color](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4240.md)
 

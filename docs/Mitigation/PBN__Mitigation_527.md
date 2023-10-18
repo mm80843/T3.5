@@ -2,9 +2,9 @@
 
 # __Slum Clearance__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [clearing and rebuilding of informal settlements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3285.md)
+* [Enhancing safety and efficiency through comprehensive measures, technology integration, diverse environments, and behavioral adjustments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_157.md)
 
 ## Closest similar item
 
@@ -19,14 +19,18 @@
 * [Isolation Space Design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_143.md)
 * [Staff Compartmentalization within Zones/Cohorts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_866.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Removing unsanitary and overcrowded living conditions to prevent the spread of disease.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Epidemics, Planning and the City: A Special Issue of Planning Perspectives](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_152.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [clearing and rebuilding of informal settlements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3285.md)
 

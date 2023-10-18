@@ -2,15 +2,9 @@
 
 # __Mobile phone tracking__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Surveillance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_990.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved transport optimization](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1374.md)
-* [Reduction in crime rates](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1375.md)
-* [Enhanced health monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1376.md)
+* [Enhanced surveillance, monitoring, and real-time tracking for improved control and response to various situations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_312.md)
 
 ## Closest similar item
 
@@ -24,4 +18,14 @@
 * [Patient tracking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1411.md)
 * [GPS tracking and prediction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1154.md)
 * [Collect and analyze data on human movement patterns using mobile phone call data records and other sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2830.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved transport optimization](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1374.md)
+* [Reduction in crime rates](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1375.md)
+* [Enhanced health monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1376.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Surveillance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_990.md)
 

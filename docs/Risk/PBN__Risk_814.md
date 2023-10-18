@@ -2,9 +2,9 @@
 
 # __Limited sample size in observational studies__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Data collection and harmonization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1120.md)
+* [The challenges include inadequate testing capacity, slow identification of cases, limited evidence, and variability in PCR methods.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_140.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Limited data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3411.md)
 * [Low testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3166.md)
 * [Insufficient data for analysis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3206.md)
+
+## Mitigations of this risk
+
+* [Data collection and harmonization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1120.md)
 

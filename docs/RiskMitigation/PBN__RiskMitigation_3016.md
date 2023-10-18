@@ -2,9 +2,9 @@
 
 # __Implement routine cleaning and disinfection, remove visible nan contaminants from surfaces__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Environmental](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1582.md)
+* [Effective surface disinfection through regular cleaning and use of self-cleaning materials and antimicrobial coatings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_334.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Regular cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2007.md)
 * [Implement improved cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_604.md)
 * [Regular surface disinfection and use of self-disinfecting surfaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2034.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Environmental](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1582.md)
 

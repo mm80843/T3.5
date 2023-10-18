@@ -2,9 +2,9 @@
 
 # __Increased risk of obesity__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Physical Activity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_929.md)
+* [Health and safety concerns, risk communication strategy, and inadequate personal protective equipment are all indicative of potential hazards and vulnerabilities in various settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_126.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Overall health risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2458.md)
 * [Human health risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3013.md)
 * [General health risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2224.md)
+
+## Mitigations of this risk
+
+* [Physical Activity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_929.md)
 

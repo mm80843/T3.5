@@ -2,12 +2,9 @@
 
 # __Reducing transmission in buildings__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [UVGI technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1358.md)
-* [Contactless technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1356.md)
-* [Antimicrobial paint](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1359.md)
-* [Modular construction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1357.md)
+* [Infectious spread through various modes such as close contact, social gatherings, fomites, bodily fluids, and respiratory droplets.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_123.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
 * [transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2285.md)
 * [Transmission in the community](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3029.md)
+
+## Mitigations of this risk
+
+* [UVGI technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1358.md)
+* [Contactless technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1356.md)
+* [Antimicrobial paint](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1359.md)
+* [Modular construction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1357.md)
 

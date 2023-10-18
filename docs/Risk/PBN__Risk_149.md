@@ -2,9 +2,9 @@
 
 # __Carbon emissions__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Reduction in CO2 emissions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_184.md)
+* [The interconnectedness of environmental degradation, social inequalities, and the need for climate action and conservation efforts.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_104.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Environmental impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_748.md)
 * [Environmental Impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2487.md)
 * [Insufficient emissions targets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2889.md)
+
+## Mitigations of this risk
+
+* [Reduction in CO2 emissions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_184.md)
 

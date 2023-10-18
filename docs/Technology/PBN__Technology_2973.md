@@ -2,9 +2,9 @@
 
 # __construction materials and equipment__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Construction of specialized hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_109.md)
+* [Safety and operational tools for various fields, including healthcare, cleaning, maintenance, and emergency preparation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_212.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [maintenance equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_147.md)
 * [Maintenance equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2362.md)
 * [construction and technical changes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3730.md)
+
+## This Technology enables the following mitigations
+
+* [Construction of specialized hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_109.md)
 

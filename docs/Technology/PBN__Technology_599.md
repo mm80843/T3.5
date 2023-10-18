@@ -2,9 +2,9 @@
 
 # __mental health assessments__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q3510807](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3510807.md)
+* [Improved healthcare infrastructure and resources enable public health authorities to implement effective messaging and interventions, ensuring equitable access to healthcare facilities and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_209.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [mental health care support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1282.md)
 * [Mental health care support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2214.md)
 * [mental health education programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1812.md)
+
+## This Technology is identified by the following QID
+
+* [Q3510807](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3510807.md)
 

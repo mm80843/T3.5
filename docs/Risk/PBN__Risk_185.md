@@ -2,9 +2,9 @@
 
 # __AQ2: Air filtration__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Monitor and control indoor air pollution](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_225.md)
+* [Insufficient air filtration, lack of evidence synthesis, shortages of protective equipment, and ineffective filtration highlight the concerns.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_135.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Insufficient filtration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1428.md)
 * [Air recirculation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1319.md)
 * [AQ4: Natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_187.md)
+
+## Mitigations of this risk
+
+* [Monitor and control indoor air pollution](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_225.md)
 

@@ -2,13 +2,9 @@
 
 # __Health Education and Community Outreach__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [educational campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_251.md)
-* [community outreach](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1489.md)
-* [Community health centers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2283.md)
-* [Online resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2285.md)
-* [Health education platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2302.md)
+* [Efforts to promote and protect community well-being through education, engagement, regulations, and behavior change.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_19.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Financial Support and Community Initiatives](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_36.md)
 * [Preventive Measures and Public Health Initiatives](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_24.md)
 * [Education and Training](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_32.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [educational campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_251.md)
+* [community outreach](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1489.md)
+* [Community health centers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2283.md)
+* [Online resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2285.md)
+* [Health education platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2302.md)
 

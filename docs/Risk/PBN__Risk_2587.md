@@ -2,9 +2,9 @@
 
 # __Lack of financial support__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Supporting PCAs governed by Indigenous peoples, local communities, and private actors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_492.md)
+* [Financial vulnerability and instability permeate various sectors and industries, hindering growth, sustainability, and access to resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_114.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Financial problems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_415.md)
 * [Lack of government support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1929.md)
 * [Lack of recovery support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2877.md)
+
+## Mitigations of this risk
+
+* [Supporting PCAs governed by Indigenous peoples, local communities, and private actors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_492.md)
 

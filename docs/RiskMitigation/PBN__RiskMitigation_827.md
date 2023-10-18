@@ -2,13 +2,9 @@
 
 # __Prevention efforts__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Emotional distress and psychiatric illness associated with Covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_590.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduced mental health problems](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_831.md)
+* [Enforce safety measures, promote responsible behavior, utilize PPE, and prioritize risk prevention to ensure adequate protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_342.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Improve reporting standards and conduct high-quality research studies on preventive interventions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2071.md)
 * [Public education, awareness campaigns, and enforcement of preventive measures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2070.md)
 * [Promote and enforce adherence to preventive measures through education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1555.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced mental health problems](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_831.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Emotional distress and psychiatric illness associated with Covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_590.md)
 

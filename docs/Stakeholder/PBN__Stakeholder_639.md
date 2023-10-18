@@ -2,9 +2,9 @@
 
 # __community associations__
 
-## This Stakeholder belongs to this StakeholderGroup
+## Category to which it belongs
 
-* [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
+* [Collective inhabitants of various social groups, including rural women with ovarian cancer, who reside within different types of communities and rely on diverse support networks for community engagement.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_386.md)
 
 ## Closest similar item
 
@@ -19,12 +19,16 @@
 * [local communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_85.md)
 * [Local communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2494.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Community Associations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_137.md)
-
 ## Risks that can be mitigated by this stakeholder
 
 * [Feeling of isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1109.md)
 * [Lack of community connections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1293.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Community Associations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_137.md)
 

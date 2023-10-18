@@ -2,9 +2,9 @@
 
 # __Develop tools and platforms to provide direct access to real-time epidemiological data__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of real-time data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_762.md)
+* [Enhanced surveillance, monitoring, and real-time tracking for improved control and response to various situations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_312.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Enhance surveillance systems to detect and respond to emerging diseases in new areas.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2434.md)
 * [Strengthening public health surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_727.md)
 * [Web scraping of official COVID-19 websites to gather data for the mobile application](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1145.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of real-time data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_762.md)
 

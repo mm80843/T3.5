@@ -2,9 +2,9 @@
 
 # __knowledge base__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Health monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_55.md)
+* [Advanced analytics, fact-checking, project management, reliable sources, knowledge extraction, and collaboration ensure accurate information dissemination and effective decision-making.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_192.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [knowledge translation platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_565.md)
 * [Knowledge translation platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2041.md)
 * [biomedical knowledge graph](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2940.md)
+
+## This Technology enables the following mitigations
+
+* [Health monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_55.md)
 

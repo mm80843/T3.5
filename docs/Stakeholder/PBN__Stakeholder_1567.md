@@ -2,9 +2,9 @@
 
 # __remote regions__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Socioeconomic inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2344.md)
+* [All those involved in the management, access, and utilization of data in various communities and industries.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_358.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [public areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_63.md)
 * [rural area](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2431.md)
 * [Individuals working remotely](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2180.md)
+
+## Risk affecting this stakeholder
+
+* [Socioeconomic inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2344.md)
 

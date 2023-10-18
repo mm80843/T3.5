@@ -2,8 +2,9 @@
 
 # __System Robustness Against COVID-19__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Effective management of viral outbreaks through control measures, viral detection, disease tracking, and public awareness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_149.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Effective quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2247.md)
 * [Posting caps with real data related to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_972.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Disruption of construction projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1559.md)
-
 ## Property: has_MitigationPrinciple
 
 Implementing a robust plan to mitigate the impact of COVID-19 on construction projects
 
+## Risks possibly mitigated by this Mitigation
+
+* [Disruption of construction projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1559.md)
+
 ## Property: has_MitigationSource
 
 * [Strategies to Mitigate COVID-19 Pandemic Impacts on Health and Safety of Workers in Construction Projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_268.md)
+
+## This Mitigation is enabled by the following technologies
+
 

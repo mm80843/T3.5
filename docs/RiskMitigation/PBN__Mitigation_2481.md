@@ -2,9 +2,9 @@
 
 # __Nature interaction__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [nature-based features and systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4526.md)
+* [Promoting equality, understanding nature, norms, perceived usefulness, and fostering social interactions for positive societal change.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_175.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Restriction of inter-individual physical interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1554.md)
 * [Non-contact interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2331.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [None](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2827.md)
-
 ## Property: has_MitigationPrinciple
 
 Create opportunities for direct and indirect interactions with nature within the building to enhance human-nature relationships and well-being.
 
+## Risks possibly mitigated by this Mitigation
+
+* [None](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2827.md)
+
 ## Property: has_MitigationSource
 
 * [Biophilic design in architecture and its contributions to health, well-being, and sustainability: A critical review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_211.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [nature-based features and systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4526.md)
 

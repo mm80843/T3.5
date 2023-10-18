@@ -2,9 +2,9 @@
 
 # __motion sensor controls__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Exergames](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_67.md)
+* [Advanced monitoring systems and sensor integration for IoT devices and biosensor technology facilitate environmental monitoring and facility usage tracking.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_229.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [sensor technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4299.md)
 * [wearable sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2949.md)
 * [sensor-based technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3036.md)
+
+## This Technology enables the following mitigations
+
+* [Exergames](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_67.md)
 

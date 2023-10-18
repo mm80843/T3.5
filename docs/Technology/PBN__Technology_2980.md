@@ -2,9 +2,9 @@
 
 # __expertise and collaboration__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Involvement of architectural and urban institutions in addressing pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_117.md)
+* [Advanced analytics, fact-checking, project management, reliable sources, knowledge extraction, and collaboration ensure accurate information dissemination and effective decision-making.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_192.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [knowledge sharing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3457.md)
 * [collaboration with other groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3375.md)
 * [collaboration tools)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4387.md)
+
+## This Technology enables the following mitigations
+
+* [Involvement of architectural and urban institutions in addressing pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_117.md)
 

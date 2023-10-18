@@ -2,13 +2,9 @@
 
 # __Establish good relationships with suppliers__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Delays in delivery of construction materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_305.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced supply chain resilience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_381.md)
+* [Strengthen collaborations, implement behavioral change, deploy social robots, and promote sustainable content consumption for community-based strategies, holistic research, and positive media representation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_316.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Diversify suppliers and establish backup systems to ensure a steady supply](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2900.md)
 * [Promote diversification of supplies and improve flexibility in sourcing inputs across multiple suppliers and countries.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2426.md)
 * [Simplify supply chain structures, build collaborative relationships, enhance communication and coordination among stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2346.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced supply chain resilience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_381.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Delays in delivery of construction materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_305.md)
 

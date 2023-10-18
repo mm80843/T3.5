@@ -2,9 +2,9 @@
 
 # __shelter facilities__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Safe shelters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_49.md)
+* [Urban green space solutions include tree planting, zoning regulations, landscape architecture, community gardens, outdoor furniture, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_231.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [quarantine facilities or designated quarantine areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3802.md)
 * [medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2901.md)
 * [outdoor spaces within apartment buildings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1271.md)
+
+## This Technology enables the following mitigations
+
+* [Safe shelters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_49.md)
 

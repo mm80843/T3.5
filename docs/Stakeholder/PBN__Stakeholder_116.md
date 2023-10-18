@@ -2,13 +2,13 @@
 
 # __environment__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q2249676](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2249676.md)
+* [The realm of nature and its impact on humanity, from researchers and scientists to workers and individuals.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_373.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Environmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_13.md)
+* [Decreased carbon emissions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1254.md)
 
 ## Closest similar item
 
@@ -23,13 +23,6 @@
 * [Environmental entities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2706.md)
 * [environmental entity](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2692.md)
 
-## Risk affecting this stakeholder
-
-* [Decreased carbon emissions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1254.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Reduced emissions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_364.md)
@@ -41,4 +34,15 @@
 * [Increased accessibility and reduced transportation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_708.md)
 * [Reduction of health risks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_936.md)
 * [Fecal coliform and pathogen destruction in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_938.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+
+## This Stakeholder is identified by the following QID
+
+* [Q2249676](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2249676.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Environmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_13.md)
 

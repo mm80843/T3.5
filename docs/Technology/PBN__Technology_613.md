@@ -2,14 +2,9 @@
 
 # __international organizations__
 
-## Risks linked to this technology
+## Category to which it belongs
 
-* [Inconsistent implementation of interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1393.md)
-* [Vulnerability to COVID-19 in LMICs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1709.md)
-
-## This Technology enables the following mitigations
-
-* [International collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1090.md)
+* [Measures promoting accountability, media control, real-time updates, and virtual experiences for physical distancing and education.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
 
 ## Closest similar item
 
@@ -23,4 +18,13 @@
 * [international policy framework](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3329.md)
 * [media organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_337.md)
 * [official health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4032.md)
+
+## This Technology enables the following mitigations
+
+* [International collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1090.md)
+
+## Risks linked to this technology
+
+* [Inconsistent implementation of interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1393.md)
+* [Vulnerability to COVID-19 in LMICs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1709.md)
 

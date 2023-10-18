@@ -2,9 +2,9 @@
 
 # __Population mobility__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Safe pedestrian navigation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_970.md)
+* [Dense urban environments face challenges with population growth, inequality, biodiversity, mobility, and poor housing conditions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_105.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Population flow between cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1651.md)
 * [Population density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_495.md)
 * [Population Density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1880.md)
+
+## Mitigations of this risk
+
+* [Safe pedestrian navigation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_970.md)
 

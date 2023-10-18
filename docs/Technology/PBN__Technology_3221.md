@@ -2,9 +2,9 @@
 
 # __zoom__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Teleconference Format for Academic Conferences](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_428.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2097.md)
 * [virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1233.md)
 * [views](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3934.md)
+
+## This Technology enables the following mitigations
+
+* [Teleconference Format for Academic Conferences](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_428.md)
 

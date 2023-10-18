@@ -2,13 +2,9 @@
 
 # __Diversifying suppliers__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Disruption of supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_524.md)
-
-## Property: has_MitigationBenefit
-
-* [Supply chain resilience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_713.md)
+* [Promote sustainable development through infrastructure investments, training, diversification, financial support, and government partnerships.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_315.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Diversify sources of imports, restructure supply chains, increase domestic manufacturing capacity.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2951.md)
 * [Diversifying suppliers, local sourcing, implementing contingency plans for supply chain disruptions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2840.md)
 * [Diversify suppliers, build buffer stock, local production](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1530.md)
+
+## Property: has_MitigationBenefit
+
+* [Supply chain resilience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_713.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Disruption of supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_524.md)
 

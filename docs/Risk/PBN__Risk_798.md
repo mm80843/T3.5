@@ -2,9 +2,9 @@
 
 # __Opportunity for smart rotary car parking__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Research and study on implementation of smart car parking systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1092.md)
+* [Limited monitoring, technical limitations, language barriers, expensive optimization, lack of connection with nature, and limited sensor diversity hinder effective response and resource allocation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_107.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Monitoring mobility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2556.md)
 * [Lack of access to private car](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1219.md)
 * [Limited access to parks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2897.md)
+
+## Mitigations of this risk
+
+* [Research and study on implementation of smart car parking systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1092.md)
 

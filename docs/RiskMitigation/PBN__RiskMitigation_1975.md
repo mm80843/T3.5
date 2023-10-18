@@ -2,9 +2,9 @@
 
 # __Design smaller, local green spaces and prioritize accessibility and biodiversity__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [New green space designs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1460.md)
+* [Promote biodiversity and sustainable urban development through the establishment and accessibility of green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_322.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Incorporate diverse types of green spaces in urban planning and design, prioritize the creation of green spaces with diverse vegetation and design features](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2073.md)
 * [Improve access to and availability of green spaces in built environments through urban planning and design interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2072.md)
 * [Ensure equitable distribution of urban green spaces by prioritizing underserved neighborhoods for green space development and improvement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2411.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [New green space designs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1460.md)
 

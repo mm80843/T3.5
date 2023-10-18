@@ -2,13 +2,9 @@
 
 # __Use of blockchain for diagnosis confirmation__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Risk of infection through face-to-face contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_849.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduced risk of infection through contact](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1173.md)
+* [Enable transparent and secure data management, traceability, and efficient distribution while promoting accurate information dissemination and verification.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_321.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implement regular and widespread symptom monitoring and testing, both symptomatic and asymptomatic](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2039.md)
 * [Blockchain technology for contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1056.md)
 * [Use of blockchain for donation tracking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1171.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced risk of infection through contact](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1173.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Risk of infection through face-to-face contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_849.md)
 

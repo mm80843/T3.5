@@ -2,9 +2,9 @@
 
 # __ministry of commerce__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1889.md)
+* [Experts who oversee and manage various aspects of public and private administration, including cybersecurity, commerce, education, and infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_400.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [government department](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2436.md)
 * [government agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2414.md)
 * [government authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_302.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1889.md)
 

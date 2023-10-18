@@ -2,13 +2,9 @@
 
 # __Developing sensitive RT-qPCR assays for wastewater__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Spread of SARS-CoV-2 through wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_289.md)
-
-## Property: has_MitigationBenefit
-
-* [Improving detection capabilities in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_994.md)
+* [Monitoring, analysis, and standardization of various technologies and protocols for accurate and reliable healthcare data collection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_310.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Combination of PCR methods and biomarker measurements (ELISA, MS)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_879.md)
 * [Improvement of assay sensitivity through the development and implementation of more sensitive and specific assays for SARS-CoV-2 detection in sewage samples.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2168.md)
 * [Development and mass production of biosensor systems that are portable, economical, user-friendly, and designed for wastewater analysis.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1607.md)
+
+## Property: has_MitigationBenefit
+
+* [Improving detection capabilities in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_994.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of SARS-CoV-2 through wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_289.md)
 

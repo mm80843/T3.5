@@ -2,9 +2,9 @@
 
 # __Insufficient lighting and thermal comfort__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Variety in visual and thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1334.md)
+* [Limited physical/social distancing, thermal discomfort, poor lighting, and inadequate air quality negatively impact personal comfort.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_130.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Poor thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1883.md)
 * [Poor lighting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_127.md)
 * [Lack of natural light](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1804.md)
+
+## Mitigations of this risk
+
+* [Variety in visual and thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1334.md)
 

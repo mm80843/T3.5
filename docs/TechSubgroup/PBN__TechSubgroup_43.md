@@ -2,12 +2,9 @@
 
 # __Advocacy and Lobbying Efforts__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [Partnership agreements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2167.md)
-* [Advocacy campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2166.md)
-* [Lobbying and advocacy efforts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2157.md)
-* [collaborations with social media platforms to combat misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1439.md)
+* [Systems and actions related to control, supervision, influence, and management in various fields and sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_36.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [Support Systems and Resources](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_42.md)
 * [Capacity Building and Support Programs](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_105.md)
 * [Public Health and Community Engagement](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_57.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [Partnership agreements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2167.md)
+* [Advocacy campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2166.md)
+* [Lobbying and advocacy efforts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2157.md)
+* [collaborations with social media platforms to combat misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1439.md)
 

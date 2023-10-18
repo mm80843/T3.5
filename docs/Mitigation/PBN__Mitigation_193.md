@@ -2,10 +2,9 @@
 
 # __Use of personal protective equipment__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1053.md)
-* [gloves](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_487.md)
+* [Prioritizing safety measures, personal protective equipment, reliability, cybersecurity, risk perception, and general prevention to ensure protection and resilience in various domains.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_168.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [personal protective equipment (masks)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3669.md)
 * [medical equipment and personnel](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3670.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Contamination, transmission through respiratory droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2491.md)
-
 ## Property: has_MitigationPrinciple
 
 Preventing the release or inhalation of infectious particles by wearing protective gear
 
+## Risks possibly mitigated by this Mitigation
+
+* [Contamination, transmission through respiratory droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2491.md)
+
 ## Property: has_MitigationSource
 
 * [Questioning the use of the balcony in apartments during the COVID-19 pandemic process](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_165.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1053.md)
+* [gloves](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_487.md)
 

@@ -2,9 +2,9 @@
 
 # __fact-checking organizations__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Online information trust](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1613.md)
+* [A diverse array of entities dedicated to various industries, causes, or services, promoting growth and welfare in society.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_369.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Fact-checking tools](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3076.md)
 * [fact-checking](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3077.md)
 * [Fact-checking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3078.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Online information trust](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1613.md)
 

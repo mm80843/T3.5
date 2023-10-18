@@ -2,9 +2,9 @@
 
 # __camera__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Face recognition](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_830.md)
+* [Enhanced monitoring and surveillance technologies enable real-time tracking, video conferencing, and improved detection methods.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_214.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [infrared cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4087.md)
 * [surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1963.md)
 * [thermal camera](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3473.md)
+
+## This Technology enables the following mitigations
+
+* [Face recognition](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_830.md)
 

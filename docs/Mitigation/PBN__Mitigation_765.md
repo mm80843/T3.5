@@ -2,9 +2,9 @@
 
 # __Big Data Analysis__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [data collection and analysis technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_755.md)
+* [Synthesis of statistical analysis, machine learning, artificial intelligence, and data visualization for informed decision-making and pattern discovery.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_184.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Data intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_58.md)
 * [Strengthened data infrastructure and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1079.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Disintegrated and non-interoperable data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1451.md)
-
 ## Property: has_MitigationPrinciple
 
 Using advanced analytics to make sense of large, complex datasets
 
+## Risks possibly mitigated by this Mitigation
+
+* [Disintegrated and non-interoperable data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1451.md)
+
 ## Property: has_MitigationSource
 
 * [CIDO, a community-based ontology for coronavirus disease knowledge and data integration, sharing, and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_13.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [data collection and analysis technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_755.md)
 

@@ -2,9 +2,9 @@
 
 # __Provide economic support packages and develop appropriate social protection measures__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Vulnerability to Control Measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2351.md)
+* [Implement comprehensive measures to ensure support, protection, and assistance for vulnerable populations during the pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_349.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Social protection programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1071.md)
 * [Social safety nets, financial support for vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2173.md)
 * [Implement measures to support employment, provide income support, and promote economic recovery.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2667.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Vulnerability to Control Measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2351.md)
 

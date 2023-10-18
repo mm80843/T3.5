@@ -2,9 +2,9 @@
 
 # __capacity-building programs__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1417724](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1417724.md)
+* [Design and construction professionals use innovative techniques and strategies to create adaptable, sustainable, and inclusive buildings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_217.md)
 
 ## Risks linked to this technology
 
@@ -23,4 +23,8 @@
 * [allocation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3574.md)
 * [testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_907.md)
 * [Testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2096.md)
+
+## This Technology is identified by the following QID
+
+* [Q1417724](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1417724.md)
 

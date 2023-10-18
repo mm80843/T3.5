@@ -2,9 +2,9 @@
 
 # __Limited evidence available__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Search for evidence beyond ’conventional’ sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_559.md)
+* [The challenges include inadequate testing capacity, slow identification of cases, limited evidence, and variability in PCR methods.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_140.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of trust in evidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1360.md)
 * [Lack of evidence synthesis and filtering](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_394.md)
 * [Barrier to accessing evidence in crisis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_399.md)
+
+## Mitigations of this risk
+
+* [Search for evidence beyond ’conventional’ sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_559.md)
 

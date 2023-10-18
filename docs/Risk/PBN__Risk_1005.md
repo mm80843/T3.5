@@ -2,9 +2,9 @@
 
 # __Population-based data and modeling unable to accurately predict infected individuals__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Continuous collection and processing of individualized data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1427.md)
+* [The dissemination of infectious diseases, characterized by outbreaks from various sources, inadequate preparedness, and insufficient reporting and understanding, poses a global threat.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_106.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Low testing frequency in previously infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_864.md)
 * [Limitations of current crowd models in representing disease transmission mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_9.md)
 * [Infectious disease outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1313.md)
+
+## Mitigations of this risk
+
+* [Continuous collection and processing of individualized data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1427.md)
 

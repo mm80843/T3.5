@@ -2,9 +2,9 @@
 
 # __unemployment benefits__
 
-## Risks linked to this technology
+## Category to which it belongs
 
-* [Increase in unemployment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2230.md)
+* [Government programs and initiatives provide support, training, and financial assistance for education, healthcare, employment, and overall well-being.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_210.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [social welfare programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_72.md)
 * [wage subsidies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4379.md)
 * [welfare support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3620.md)
+
+## Risks linked to this technology
+
+* [Increase in unemployment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2230.md)
 

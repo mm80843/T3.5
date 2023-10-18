@@ -2,6 +2,10 @@
 
 # __Occupancy control (eg separating at/risk contaminated population)__
 
+## Category to which it belongs
+
+* [Promote environmentally-friendly waste management, sanitation, and maintenance practices, including rodent control, decontamination, and segregation of waste.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_340.md)
+
 ## Closest similar item
 
 * [Reduced occupancy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_610.md)

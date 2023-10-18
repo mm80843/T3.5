@@ -2,13 +2,9 @@
 
 # __Improve social safety net system__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Societal and socio-economic gaps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_750.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduced vulnerability and poverty](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1032.md)
+* [Implement comprehensive measures to ensure support, protection, and assistance for vulnerable populations during the pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_349.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Provide economic support packages and develop appropriate social protection measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3053.md)
 * [Implement comprehensive safety education programs, disseminate safety information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2813.md)
 * [Adoption of safety measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_711.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced vulnerability and poverty](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1032.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Societal and socio-economic gaps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_750.md)
 

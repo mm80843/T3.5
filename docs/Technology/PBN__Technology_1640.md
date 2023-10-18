@@ -2,9 +2,9 @@
 
 # __development of interoperability frameworks__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q749647](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q749647.md)
+* [Advanced analytics, fact-checking, project management, reliable sources, knowledge extraction, and collaboration ensure accurate information dissemination and effective decision-making.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_192.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [integration programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3898.md)
 * [electronic health records (ehr) interoperability solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_398.md)
 * [electronic health records (EHR) interoperability solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2416.md)
+
+## This Technology is identified by the following QID
+
+* [Q749647](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q749647.md)
 

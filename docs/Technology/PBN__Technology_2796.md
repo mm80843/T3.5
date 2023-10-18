@@ -2,9 +2,9 @@
 
 # __Research on transmission routes__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
-* [Research and Data Analysis](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_186.md)
+* [Enhanced connectivity and diverse communication platforms enable the dissemination of reliable information and promote open communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_225.md)
 
 ## Closest similar item
 
@@ -19,11 +19,15 @@
 * [demand-responsive transport systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1333.md)
 * [Demand-responsive transport systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2889.md)
 
-## This Technology belongs to this TechGroup
-
-* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1067164](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1067164.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Research and Data Analysis](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_186.md)
+
+## This Technology belongs to this TechGroup
+
+* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
 

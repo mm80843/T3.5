@@ -2,9 +2,9 @@
 
 # __subsidies for low-income individuals__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q191159](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q191159.md)
+* [Maximizing economic efficiency while promoting financial stability through innovative strategies, investments, and partnerships at various levels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_195.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [financial assistance programs and grants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1440.md)
 * [financial assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_894.md)
 * [livelihood support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_450.md)
+
+## This Technology is identified by the following QID
+
+* [Q191159](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q191159.md)
 

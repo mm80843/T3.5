@@ -2,9 +2,9 @@
 
 # __waste management__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [WM1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2212.md)
+* [Managers responsible for overseeing various aspects of a building, including supply chain, facilities, construction projects, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_366.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [waste separation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3111.md)
 * [Waste segregation systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2961.md)
 * [waste segregation systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2962.md)
+
+## Risk affecting this stakeholder
+
+* [WM1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2212.md)
 

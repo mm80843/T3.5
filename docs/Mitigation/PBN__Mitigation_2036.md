@@ -2,11 +2,9 @@
 
 # __PPE usage__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1053.md)
-* [face shields](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_486.md)
-* [respirators](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_485.md)
+* [Enhancing safety and efficiency through comprehensive measures, technology integration, diverse environments, and behavioral adjustments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_157.md)
 
 ## Closest similar item
 
@@ -21,15 +19,21 @@
 * [Green PPE](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2475.md)
 * [Providing additional personal protective equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1681.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_489.md)
-
 ## Property: has_MitigationPrinciple
 
 Use appropriate PPE to protect against COVID-19 transmission
 
+## Risks possibly mitigated by this Mitigation
+
+* [Disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_489.md)
+
 ## Property: has_MitigationSource
 
 * [Preventing and Controlling COVID-19: A Practical-Based Review in Offshore Workplace](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_102.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1053.md)
+* [face shields](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_486.md)
+* [respirators](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_485.md)
 

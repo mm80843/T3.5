@@ -2,9 +2,9 @@
 
 # __facial recognition software__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Big Data](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1317.md)
+* [A list of diverse software tools, including financial management, construction technology, project management, communication, and monitoring software.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_219.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [voice and face recognition](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4293.md)
 * [Face and voice recognition](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4553.md)
 * [software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4165.md)
+
+## This Technology enables the following mitigations
+
+* [Big Data](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1317.md)
 

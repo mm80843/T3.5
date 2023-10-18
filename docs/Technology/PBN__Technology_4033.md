@@ -2,9 +2,9 @@
 
 # __government agencies__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Reliable Information Sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1727.md)
+* [Government actions and regulations addressing various aspects of society, including policy changes, ethical frameworks, governance mechanisms, and public announcements.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_216.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [government support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_319.md)
 * [government communications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3885.md)
 * [healthcare authorities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1065.md)
+
+## This Technology enables the following mitigations
+
+* [Reliable Information Sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1727.md)
 

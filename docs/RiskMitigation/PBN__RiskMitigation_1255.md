@@ -2,13 +2,9 @@
 
 # __Widening sidewalks and re-designing pedestrian crossings__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Streets being re-designed](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_909.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved accessibility and safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1242.md)
+* [Promote equitable, sustainable, and inclusive urban planning to enhance living conditions, mitigate overcrowding, and reduce disparities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_324.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Allocation of entry and exit points, signage, and wayfinding.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1723.md)
 * [Urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_70.md)
 * [Expansion of public transport](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_741.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved accessibility and safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1242.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Streets being re-designed](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_909.md)
 

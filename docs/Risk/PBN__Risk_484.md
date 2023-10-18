@@ -2,9 +2,9 @@
 
 # __Increase in video-gaming activity__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Boost in revenue for video-gaming industry](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_681.md)
+* [The challenges and consequences of the global pandemic include poor acoustics, noise pollution, food security, increase in inequality, waste, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_131.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Increased recreational activity during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_889.md)
 * [Exposure to greenspace and physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_172.md)
 * [Increased energy demands](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3396.md)
+
+## Mitigations of this risk
+
+* [Boost in revenue for video-gaming industry](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_681.md)
 

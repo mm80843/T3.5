@@ -2,9 +2,9 @@
 
 # __Workforce management__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1003.md)
+* [The impact of various factors on the workforce, including job insecurity, changes in work schedules, unemployment, and decreased productivity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_4.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Management problems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_416.md)
 * [Recruitment challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1528.md)
 * [Job displacement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2011.md)
+
+## Mitigations of this risk
+
+* [Remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1003.md)
 

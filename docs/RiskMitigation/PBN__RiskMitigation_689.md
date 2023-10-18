@@ -2,13 +2,9 @@
 
 # __Improve food systems planning__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Zoonotic disease emergence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_488.md)
-
-## Property: has_MitigationBenefit
-
-* [Reducing zoonotic disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_697.md)
+* [Enhance local self-sufficiency in shopping, recreation, and food production, while promoting sustainable practices and supporting resilient economies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_344.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Adequate planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1289.md)
 * [Alternative planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_834.md)
 * [Provide food parcels and free meals, increase availability of basic food products, adapt delivery services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2401.md)
+
+## Property: has_MitigationBenefit
+
+* [Reducing zoonotic disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_697.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Zoonotic disease emergence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_488.md)
 

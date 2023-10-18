@@ -2,13 +2,9 @@
 
 # __essential service provider__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q2169973](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2169973.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
+* [Providers of vital services, including startups, founders, and various essential service fields such as cleaning, pest control, and emergency services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_396.md)
 
 ## Closest similar item
 
@@ -26,4 +22,12 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Types of Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_22.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q2169973](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2169973.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
 

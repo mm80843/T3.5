@@ -2,9 +2,9 @@
 
 # __control samples__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q2148398](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2148398.md)
+* [These resources aim to enhance security, convenience, and efficiency in managing access, spaces, and systems within various environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_206.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [quality control in wastewater sampling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_711.md)
 * [vector control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4115.md)
 * [crowd control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_777.md)
+
+## This Technology is identified by the following QID
+
+* [Q2148398](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2148398.md)
 

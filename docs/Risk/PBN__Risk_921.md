@@ -2,12 +2,9 @@
 
 # __Contamination of object surfaces__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Performing hand hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1268.md)
-* [Disinfecting shoe soles](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1267.md)
-* [Disinfecting masks before discarding](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1269.md)
-* [Improvement of safety practices in COVID-19 wards](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1272.md)
+* [The widespread presence and transfer of harmful pathogens and contaminants on various surfaces and environments pose serious risks to public health and the ecosystem.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_100.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [Surface contamination transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3197.md)
 * [Contamination of floor surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1420.md)
 * [Contamination of surfaces with pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2715.md)
+
+## Mitigations of this risk
+
+* [Performing hand hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1268.md)
+* [Disinfecting shoe soles](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1267.md)
+* [Disinfecting masks before discarding](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1269.md)
+* [Improvement of safety practices in COVID-19 wards](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1272.md)
 

@@ -2,9 +2,9 @@
 
 # __nursing homes__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Lack of proper environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1142.md)
+* [Various individuals in the healthcare industry, including epidemiologists, medical personnel, clinicians, surgeons, and patients in need of medical care.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_360.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_64.md)
 * [such as homes](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1127.md)
 * [housing providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1903.md)
+
+## Risk affecting this stakeholder
+
+* [Lack of proper environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1142.md)
 

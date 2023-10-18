@@ -2,9 +2,9 @@
 
 # __mindfulness and stress reduction techniques__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q341036](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q341036.md)
+* [Measures promoting accountability, media control, real-time updates, and virtual experiences for physical distancing and education.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Mental health apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2194.md)
 * [mental health resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_876.md)
 * [online mental health resources and self-help tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1447.md)
+
+## This Technology is identified by the following QID
+
+* [Q341036](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q341036.md)
 

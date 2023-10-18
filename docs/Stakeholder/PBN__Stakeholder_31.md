@@ -2,26 +2,9 @@
 
 # __patients__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q181600](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q181600.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
-
-## Closest similar item
-
-* [patient](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2523.md)
-* [hospital patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1061.md)
-* [hospital patient](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1877.md)
-* [clinicians](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_274.md)
-* [clinician](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1868.md)
-* [patients in healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1169.md)
-* [patients in need of medical care](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_894.md)
-* [hospital personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_502.md)
-* [hospital patients and staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_309.md)
-* [healthcare workers and patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_215.md)
+* [Various individuals in the healthcare industry, including epidemiologists, medical personnel, clinicians, surgeons, and patients in need of medical care.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_360.md)
 
 ## Risk affecting this stakeholder
 
@@ -95,9 +78,18 @@
 * [Nosocomial outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1852.md)
 * [Disruption of core clinical services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2186.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Closest similar item
 
-* [Patients](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_148.md)
+* [patient](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2523.md)
+* [hospital patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1061.md)
+* [hospital patient](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1877.md)
+* [clinicians](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_274.md)
+* [clinician](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1868.md)
+* [patients in healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1169.md)
+* [patients in need of medical care](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_894.md)
+* [hospital personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_502.md)
+* [hospital patients and staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_309.md)
+* [healthcare workers and patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_215.md)
 
 ## This Stakeholder can get these Benefits from mitigation measures
 
@@ -175,4 +167,16 @@
 * [Reduced stress levels](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1403.md)
 * [Early detection and personalized treatment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1404.md)
 * [Improved treatment guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1413.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Patients](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_148.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q181600](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q181600.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
 

@@ -2,9 +2,9 @@
 
 # __remote communication technologies__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Remote Work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_459.md)
+* [Technologies and tools used for working, monitoring, communicating, and assessing remotely, including remote healthcare and education technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_215.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [remote working technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_550.md)
 * [remote working technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_218.md)
 * [remote work technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_134.md)
+
+## This Technology enables the following mitigations
+
+* [Remote Work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_459.md)
 

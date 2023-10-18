@@ -2,9 +2,9 @@
 
 # __public health messaging__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q4353774](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4353774.md)
+* [Improved healthcare infrastructure and resources enable public health authorities to implement effective messaging and interventions, ensuring equitable access to healthcare facilities and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_209.md)
 
 ## Risks linked to this technology
 
@@ -23,4 +23,8 @@
 * [mobile health apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1552.md)
 * [messaging apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4027.md)
 * [health information exchange (hie) systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_397.md)
+
+## This Technology is identified by the following QID
+
+* [Q4353774](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4353774.md)
 

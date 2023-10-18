@@ -2,13 +2,9 @@
 
 # __police__
 
-## This Stakeholder can get these Benefits from mitigation measures
+## Category to which it belongs
 
-* [Reduction in crime rates](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1375.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q208022](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q208022.md)
+* [Entities and individuals who interact with or are affected by a system, organization, or public facility.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_1.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [emergency authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1121.md)
 * [government authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_302.md)
 * [surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_190.md)
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Reduction in crime rates](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1375.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q208022](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q208022.md)
 

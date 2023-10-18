@@ -2,9 +2,9 @@
 
 # __digital signatures__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Blockchain for data privacy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_153.md)
+* [The digital revolution encompasses various aspects, from online promotion to contactless payment systems and virtual learning platforms.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_190.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [digital infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3895.md)
 * [digitalization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3227.md)
 * [digital communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_816.md)
+
+## This Technology enables the following mitigations
+
+* [Blockchain for data privacy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_153.md)
 

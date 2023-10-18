@@ -2,9 +2,9 @@
 
 # __provide large windows__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1190017](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1190017.md)
+* [These resources aim to enhance security, convenience, and efficiency in managing access, spaces, and systems within various environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_206.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [drive-through window systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4100.md)
 * [open windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3745.md)
 * [windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_140.md)
+
+## This Technology is identified by the following QID
+
+* [Q1190017](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1190017.md)
 

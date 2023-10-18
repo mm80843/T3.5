@@ -2,13 +2,9 @@
 
 # __barriers__
 
-## Risks linked to this technology
+## Category to which it belongs
 
-* [Respiratory viruses strain health services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1538.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Physical Barriers and Signage](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_132.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -27,8 +23,16 @@
 
 * [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
 
+## This Technology belongs to this TechSubgroup
+
+* [Physical Barriers and Signage](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_132.md)
+
 ## This Technology enables the following mitigations
 
 * [Implementing physical distancing procedures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1684.md)
 * [Restricting access to public parks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2204.md)
+
+## Risks linked to this technology
+
+* [Respiratory viruses strain health services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1538.md)
 

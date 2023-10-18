@@ -2,13 +2,13 @@
 
 # __Blockchain__
 
-## Property: has_TechEquivalent
-
-* [Blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2612.md)
-
 ## Property: has_BP_EnablerTitle
 
 enabler_005
+
+## Category to which it belongs
+
+* [Digital ledger system that records and verifies transactions in a decentralized and secure manner.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_64.md)
 
 ## Closest similar item
 
@@ -28,4 +28,8 @@ enabler_005
 * [Rotating shift schedule](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_0.md)
 * [Smart Locker System](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_1.md)
 * [Adapted architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_2.md)
+
+## Property: has_TechEquivalent
+
+* [Blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2612.md)
 

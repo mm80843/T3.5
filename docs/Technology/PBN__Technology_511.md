@@ -2,9 +2,9 @@
 
 # __proper training on ppe usage__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1333024](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1333024.md)
+* [Government programs and initiatives provide support, training, and financial assistance for education, healthcare, employment, and overall well-being.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_210.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [PPE equipment and supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2595.md)
 * [manufacturing and supply chain of ppe](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_797.md)
 * [personal protective equipment (ppe)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_819.md)
+
+## This Technology is identified by the following QID
+
+* [Q1333024](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1333024.md)
 

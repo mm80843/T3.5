@@ -2,9 +2,9 @@
 
 # __Spatial configuration promoting social distancing__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [building layout and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3299.md)
+* [Promoting physical and spatial distancing, considering noise levels, and implementing strict measures are essential for social distancing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_147.md)
 
 ## Closest similar item
 
@@ -19,14 +19,18 @@
 * [Spatial distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1331.md)
 * [Robotics for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1233.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Reduces close interactions between individuals, minimizing the potential for viral transmission.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [2019 Novel Coronavirus (COVID-19) Pandemic: Built Environment Considerations To Reduce Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_288.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [building layout and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3299.md)
 

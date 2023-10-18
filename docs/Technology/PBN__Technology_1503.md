@@ -2,9 +2,9 @@
 
 # __drones with thermal cameras__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q581851](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q581851.md)
+* [Various technologies and devices are used to measure and regulate temperature, including cameras, scanners, sensors, and thermostats.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_220.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [infrared thermal camera technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3179.md)
 * [infrared cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4087.md)
 * [drones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_864.md)
+
+## This Technology is identified by the following QID
+
+* [Q581851](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q581851.md)
 

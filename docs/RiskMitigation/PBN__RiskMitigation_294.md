@@ -2,13 +2,9 @@
 
 # __Development of new materials for better insulation__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Opportunities for new materials for performative insulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_245.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced building performance and comfort](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_297.md)
+* [Efforts include RNA monitoring, occupant exposure modeling, targeted messages, adoption of principles, copper coating, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_311.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Sound insulation, use of acoustic materials, noise control measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1568.md)
 * [Improve HVAC systems and thermal insulation to achieve a balance between supply and demand.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1913.md)
 * [Selection of materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3264.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced building performance and comfort](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_297.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Opportunities for new materials for performative insulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_245.md)
 

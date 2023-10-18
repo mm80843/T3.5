@@ -2,9 +2,9 @@
 
 # __Impact of COVID-19 on urban economies and employment__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Supporting proximity-based trade and entrepreneurship](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1045.md)
+* [The far-reaching consequences of COVID-19 include its transmission through various settings, impact on urban areas, and scarcity of resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Impact of COVID-19 on commercial and artisanal spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_757.md)
 * [Spread of Covid-19 in urban public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_27.md)
 * [Economic divisions in the EU due to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_550.md)
+
+## Mitigations of this risk
+
+* [Supporting proximity-based trade and entrepreneurship](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1045.md)
 

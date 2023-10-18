@@ -2,9 +2,9 @@
 
 # __Decline in tax and fee revenue__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Adequate planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1289.md)
+* [Financial vulnerability and instability permeate various sectors and industries, hindering growth, sustainability, and access to resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_114.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Decreased interest](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2529.md)
 * [Decline in retail sales](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2231.md)
 * [Decreased interest, avoidance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2531.md)
+
+## Mitigations of this risk
+
+* [Adequate planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1289.md)
 

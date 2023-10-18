@@ -2,9 +2,9 @@
 
 # __cu2o__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Anti-SARS-CoV-2 coating](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_264.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [75% 2-propanol)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3555.md)
 * [chlorine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3752.md)
 * [stainless steel](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3500.md)
+
+## This Technology enables the following mitigations
+
+* [Anti-SARS-CoV-2 coating](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_264.md)
 

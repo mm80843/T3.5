@@ -2,9 +2,9 @@
 
 # __blood banks__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Contamination of blood products](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2053.md)
+* [Various individuals in the healthcare industry, including epidemiologists, medical personnel, clinicians, surgeons, and patients in need of medical care.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_360.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [funding body](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1887.md)
 * [funding bodies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_851.md)
 * [healthcare agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_543.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Contamination of blood products](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2053.md)
 

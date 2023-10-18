@@ -2,10 +2,9 @@
 
 # __Unhealthy outdoor conditions__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Integration of outdoor air quality management in ventilation and infiltration systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_547.md)
-* [Outdoor Air Quality Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_715.md)
+* [Limited physical/social distancing, thermal discomfort, poor lighting, and inadequate air quality negatively impact personal comfort.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_130.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Lack of Outdoor Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1079.md)
 * [Building health issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1095.md)
 * [Poor indoor environmental quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_965.md)
+
+## Mitigations of this risk
+
+* [Integration of outdoor air quality management in ventilation and infiltration systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_547.md)
+* [Outdoor Air Quality Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_715.md)
 

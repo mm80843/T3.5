@@ -2,9 +2,9 @@
 
 # __Pools of stagnant water in construction areas__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Construction dewatering strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1479.md)
+* [The challenges of urban water management include water contamination, waste management, inadequate water storage, and poor drainage.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_120.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Stagnant water provides mosquito breeding grounds](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3092.md)
 * [Lack of running water and inadequate water storage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_470.md)
 * [Water demand](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_716.md)
+
+## Mitigations of this risk
+
+* [Construction dewatering strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1479.md)
 

@@ -2,9 +2,9 @@
 
 # __Green New Deal__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [investments in clean energy and sustainable industries](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4384.md)
+* [Promoting sustainable and eco-friendly practices that enhance urban green spaces, energy efficiency, and renewable energy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_180.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Green stimulus](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1053.md)
 * [Green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1513.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Climate change and environmental damage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3405.md)
-
 ## Property: has_MitigationPrinciple
 
 Implementing a Green New Deal, which includes investments in clean energy and sustainable industries, can address the impact of climate change and contribute to a more environmentally sustainable and resilient post-pandemic world.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Climate change and environmental damage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3405.md)
+
 ## Property: has_MitigationSource
 
 * [The COVID-19 pandemic: Lessons on building more equal and sustainable societies](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_124.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [investments in clean energy and sustainable industries](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4384.md)
 

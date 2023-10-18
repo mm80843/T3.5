@@ -2,6 +2,10 @@
 
 # __genome sequencing__
 
+## Category to which it belongs
+
+* [Advancements in biotechnology, clinical research, and innovative therapies contribute to the development of medical solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
+
 ## Risks linked to this technology
 
 * [Unclear origin of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2358.md)

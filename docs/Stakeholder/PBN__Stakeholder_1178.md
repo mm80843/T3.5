@@ -2,9 +2,9 @@
 
 # __families in poor housing conditions__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1766.md)
+* [Individuals and communities experiencing socioeconomic disparities, economic hardship, housing instability, and social disadvantage.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_393.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [lower-income households](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1255.md)
 * [individuals living in substandard housing](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_609.md)
 * [vulnerable households](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_254.md)
+
+## Risk affecting this stakeholder
+
+* [Domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1766.md)
 

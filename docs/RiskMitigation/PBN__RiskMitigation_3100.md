@@ -2,9 +2,9 @@
 
 # __Strengthen safety measures in recycling centers, encourage safe waste sorting practices.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Reduction in waste recycling](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2389.md)
+* [Promote environmentally-friendly waste management, sanitation, and maintenance practices, including rodent control, decontamination, and segregation of waste.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_340.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Proper disposal methods for chemical wastes, including hazardous waste treatment.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3009.md)
 * [Develop waste separation and disinfection strategies, proper disposal and recycling](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2898.md)
 * [Implementing effective waste management systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1506.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Reduction in waste recycling](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2389.md)
 

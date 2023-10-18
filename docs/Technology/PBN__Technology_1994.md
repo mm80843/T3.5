@@ -2,9 +2,9 @@
 
 # __equitable urban planning and policies to address spatial inequalities and improve social and economic conditions in marginalized communities__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q69883](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q69883.md)
+* [Optimizing urban spaces through inclusive strategies and technologies, integrating green spaces, and managing population density and transportation systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_226.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2378.md)
 * [urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_922.md)
 * [community planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2994.md)
+
+## This Technology is identified by the following QID
+
+* [Q69883](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q69883.md)
 

@@ -2,9 +2,9 @@
 
 # __Active Smoke-Free Policies__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [policy implementation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4060.md)
+* [Enhanced disease investigation and prevention methods, including biomarkers, antimicrobial coatings, and AI-driven tools, advance public health.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_155.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Government Policy Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1029.md)
 * [Regulatory measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_737.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Secondhand Smoke Exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3250.md)
-
 ## Property: has_MitigationPrinciple
 
 Implement and enforce active smoke-free policies in neighbourhoods to reduce secondhand smoke exposure and improve indoor air quality in public spaces and shared environments.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Secondhand Smoke Exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3250.md)
+
 ## Property: has_MitigationSource
 
 * [A comprehensive review on indoor air quality monitoring systems for enhanced public health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_281.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [policy implementation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4060.md)
 

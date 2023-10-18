@@ -2,10 +2,9 @@
 
 # __Backup energy sources__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [renewable energy technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_355.md)
-* [energy storage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1761.md)
+* [Promoting sustainable and eco-friendly practices that enhance urban green spaces, energy efficiency, and renewable energy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_180.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Energy Efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_390.md)
 * [Optimizing energy management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1637.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Increased energy demands](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3396.md)
-
 ## Property: has_MitigationPrinciple
 
 Install additional backup energy sources to meet increased energy demands during lockdowns
 
+## Risks possibly mitigated by this Mitigation
+
+* [Increased energy demands](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3396.md)
+
 ## Property: has_MitigationSource
 
 * [How to Make Green Building Certification \& Rating Systems More Pandemic-Sustainable?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_172.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [renewable energy technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_355.md)
+* [energy storage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1761.md)
 

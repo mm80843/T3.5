@@ -2,9 +2,9 @@
 
 # __Diversify energy sources and investments, promote price stabilization mechanisms__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Price volatility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1608.md)
+* [Transition to sustainable energy sources, implement energy-efficient measures, and absorb increased service demand.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_351.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Investment in clean energy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_543.md)
 * [Promote energy-saving practices, provide energy efficiency advice and incentives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1712.md)
 * [Diversify supply sources, strengthen local production capabilities, implement emergency stockpiling measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1578.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Price volatility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1608.md)
 

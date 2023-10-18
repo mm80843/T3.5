@@ -2,13 +2,13 @@
 
 # __energy modelers__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q24965464](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q24965464.md)
+* [All actors in the economic and political landscape, including policymakers, governments, and regulatory bodies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_357.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+* [Inadequate energy modeling for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1568.md)
 
 ## Closest similar item
 
@@ -23,11 +23,15 @@
 * [energy companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1006.md)
 * [energy provider](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2022.md)
 
-## Risk affecting this stakeholder
-
-* [Inadequate energy modeling for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1568.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Energy](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_30.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q24965464](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q24965464.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 

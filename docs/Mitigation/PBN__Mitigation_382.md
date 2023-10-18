@@ -2,8 +2,9 @@
 
 # __Reducing Community Environmental Impacts__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Promoting community involvement and awareness through various initiatives such as education programs, engagement campaigns, and urban farming.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_142.md)
 
 ## Closest similar item
 
@@ -18,14 +19,17 @@
 * [Increase street greenery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2195.md)
 * [Emphasize Public Health Impacts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_685.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Mitigate the environmental impacts of household energy use
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Coronavirus comes home? Energy use, home energy management, and the social-psychological factors of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_119.md)
+
+## This Mitigation is enabled by the following technologies
+
 

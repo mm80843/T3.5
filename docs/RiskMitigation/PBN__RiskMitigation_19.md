@@ -2,13 +2,9 @@
 
 # __Direct recovery funds towards sustainable development__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Environmental degradation and social inequalities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_15.md)
-
-## Property: has_MitigationBenefit
-
-* [Achieve Sustainable Development Goals (SDGs)](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_27.md)
+* [Promote sustainable development through infrastructure investments, training, diversification, financial support, and government partnerships.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_315.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Increased funding for clean energy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_620.md)
 * [Engage and educate the public on the benefits of sustainable energy, advocate for green recovery measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2148.md)
 * [Explore cost-effective solutions and funding options](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2374.md)
+
+## Property: has_MitigationBenefit
+
+* [Achieve Sustainable Development Goals (SDGs)](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_27.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Environmental degradation and social inequalities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_15.md)
 

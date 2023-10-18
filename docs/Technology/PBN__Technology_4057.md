@@ -2,9 +2,9 @@
 
 # __low-voc materials__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Use of Low-VOC Products](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1778.md)
+* [Explore a diverse range of materials, from sound-absorbing to eco-friendly, that contribute to innovative building solutions and educational resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_222.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [sound-absorbing materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_198.md)
 * [Advanced building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2662.md)
 * [low-carbon technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4180.md)
+
+## This Technology enables the following mitigations
+
+* [Use of Low-VOC Products](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1778.md)
 

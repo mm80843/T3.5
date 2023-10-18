@@ -2,9 +2,9 @@
 
 # __Impact on public transit__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Restructuring public transit operations to comply with health and safety guidelines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1262.md)
+* [The changing landscape of travel and transportation has led to concerns over safety, reduced demand, and inadequate infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_125.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inadequate public transport capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1216.md)
 * [Overcrowding on public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_528.md)
 * [Fear of using public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1218.md)
+
+## Mitigations of this risk
+
+* [Restructuring public transit operations to comply with health and safety guidelines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1262.md)
 

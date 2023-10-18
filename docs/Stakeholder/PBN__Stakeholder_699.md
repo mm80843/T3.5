@@ -2,11 +2,9 @@
 
 # __infection control team__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Lack of protection for staff](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1171.md)
-* [Ineffectiveness of disinfection system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1167.md)
-* [Insufficient virus reduction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1169.md)
+* [A diverse array of collaborative and specialized groups in various fields working together towards specific goals.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_5.md)
 
 ## Closest similar item
 
@@ -20,4 +18,10 @@
 * [infected persons](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_114.md)
 * [operations team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_293.md)
 * [individuals in the vicinity of infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1455.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Lack of protection for staff](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1171.md)
+* [Ineffectiveness of disinfection system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1167.md)
+* [Insufficient virus reduction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1169.md)
 

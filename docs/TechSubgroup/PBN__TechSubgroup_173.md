@@ -2,10 +2,9 @@
 
 # __Remote Work Technologies__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [Translation software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2619.md)
-* [Teleoperation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2651.md)
+* [Innovative technologies that enhance health, safety, and productivity in the digital age.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_18.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Communication Technologies and Channels](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_27.md)
 * [Communication and Collaboration Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_111.md)
 * [Communication and Coordination Platforms](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_26.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [Translation software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2619.md)
+* [Teleoperation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2651.md)
 

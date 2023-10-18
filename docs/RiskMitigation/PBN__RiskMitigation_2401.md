@@ -2,9 +2,9 @@
 
 # __Provide food parcels and free meals, increase availability of basic food products, adapt delivery services__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Impact on food sector](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_482.md)
+* [Enhance local self-sufficiency in shopping, recreation, and food production, while promoting sustainable practices and supporting resilient economies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_344.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Increase healthcare capacity, ensure availability of medical supplies and equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1456.md)
 * [Provide financial support to affected businesses, encourage e-commerce and online sales, promote local shopping.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2907.md)
 * [Develop alternative supply chains, increase production and distribution capacity.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1519.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Impact on food sector](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_482.md)
 

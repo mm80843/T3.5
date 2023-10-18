@@ -2,9 +2,9 @@
 
 # __Community Administrators__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [community administrators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_638.md)
+* [Overseeing and managing health services, communities, and education at large.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_263.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [General Community](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_139.md)
 * [Residents](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_72.md)
 * [Community Support Networks/Services](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_133.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [community administrators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_638.md)
 

@@ -2,9 +2,9 @@
 
 # __temporary migrants__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Exclusion and vulnerability of migrants and gig workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2266.md)
+* [Entities and individuals who interact with or are affected by a system, organization, or public facility.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_1.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [refugee habitation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2243.md)
 * [refugee habitations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_693.md)
 * [immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_489.md)
+
+## Risk affecting this stakeholder
+
+* [Exclusion and vulnerability of migrants and gig workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2266.md)
 

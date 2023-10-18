@@ -2,9 +2,9 @@
 
 # __inclusive policies__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q47011897](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q47011897.md)
+* [Government actions and regulations addressing various aspects of society, including policy changes, ethical frameworks, governance mechanisms, and public announcements.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_216.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [welfare policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3424.md)
 * [policy interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3423.md)
 * [policy implementation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4060.md)
+
+## This Technology is identified by the following QID
+
+* [Q47011897](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q47011897.md)
 

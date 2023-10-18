@@ -2,13 +2,9 @@
 
 # __Implementation of an expert system in the mobile application__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Limited access to expert knowledge](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_837.md)
-
-## Property: has_MitigationBenefit
-
-* [Access to expert knowledge without the need for direct consultation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1141.md)
+* [Enhanced surveillance, monitoring, and real-time tracking for improved control and response to various situations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_312.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Mobile chatbot applications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1156.md)
 * [Mobile technology surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1155.md)
 * [Smartphone technology in research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1165.md)
+
+## Property: has_MitigationBenefit
+
+* [Access to expert knowledge without the need for direct consultation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1141.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limited access to expert knowledge](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_837.md)
 

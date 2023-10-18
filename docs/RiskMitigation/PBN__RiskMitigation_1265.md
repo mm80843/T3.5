@@ -2,13 +2,9 @@
 
 # __Integrating informal street vendors and workers into public space design and regulations__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Impact on informal street economy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_919.md)
-
-## Property: has_MitigationBenefit
-
-* [Increased economic opportunities and social inclusion](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1251.md)
+* [Promote equitable, sustainable, and inclusive urban planning to enhance living conditions, mitigate overcrowding, and reduce disparities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_324.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Provide access to outdoor spaces, create opportunities for physical activity and social interaction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2941.md)
 * [Emphasize community-level design, develop green spaces and local amenities, promote accessibility](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1739.md)
 * [Incorporating outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1323.md)
+
+## Property: has_MitigationBenefit
+
+* [Increased economic opportunities and social inclusion](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1251.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Impact on informal street economy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_919.md)
 

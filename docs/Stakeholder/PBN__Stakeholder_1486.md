@@ -2,13 +2,9 @@
 
 # __pharmacies__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Inefficient medication delivery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2188.md)
-
-## Risk affecting this stakeholder
-
-* [Inefficient medication delivery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2188.md)
+* [Various individuals in the healthcare industry, including epidemiologists, medical personnel, clinicians, surgeons, and patients in need of medical care.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_360.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [healthcare authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_452.md)
 * [personalized medicine](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3108.md)
 * [medical supplies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3109.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Inefficient medication delivery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2188.md)
+
+## Risk affecting this stakeholder
+
+* [Inefficient medication delivery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2188.md)
 

@@ -2,9 +2,9 @@
 
 # __safe coating materials__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1570182](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1570182.md)
+* [Explore a diverse range of materials, from sound-absorbing to eco-friendly, that contribute to innovative building solutions and educational resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_222.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [antimicrobial coatings for surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1025.md)
 * [copper alloy coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3853.md)
 * [easy-to-sanitize materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4303.md)
+
+## This Technology is identified by the following QID
+
+* [Q1570182](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1570182.md)
 

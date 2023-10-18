@@ -2,15 +2,9 @@
 
 # __Increase frequency and capacity__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Decline in public transport usage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_406.md)
-* [Fear of infection in public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_407.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_554.md)
-* [Reduced overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_559.md)
+* [Efforts include RNA monitoring, occupant exposure modeling, targeted messages, adoption of principles, copper coating, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_311.md)
 
 ## Closest similar item
 
@@ -24,4 +18,14 @@
 * [Improve healthcare facilities, increase capacity and resources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2474.md)
 * [Strengthen supply chains, increase production capacity, improve stockpiling and distribution systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1451.md)
 * [Implement measures to reduce patient overcrowding, such as increasing healthcare facility capacity or redirecting patients to different facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1862.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_554.md)
+* [Reduced overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_559.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Decline in public transport usage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_406.md)
+* [Fear of infection in public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_407.md)
 

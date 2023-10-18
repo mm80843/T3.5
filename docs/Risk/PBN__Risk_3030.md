@@ -2,9 +2,9 @@
 
 # __Transmission within a specific area or community__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Mandatory quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1338.md)
+* [Infectious spread through various modes such as close contact, social gatherings, fomites, bodily fluids, and respiratory droplets.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_123.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Impact of interventions on transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_589.md)
 * [Transmission clusters](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2620.md)
 * [Travel transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2178.md)
+
+## Mitigations of this risk
+
+* [Mandatory quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1338.md)
 

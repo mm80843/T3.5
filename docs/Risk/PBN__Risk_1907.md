@@ -2,26 +2,9 @@
 
 # __Overcrowding in vaccination clinics__
 
-## Property: has_RiskHealth
+## Category to which it belongs
 
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Description of the risk
-
-Mass vaccination campaigns can lead to overcrowding in vaccination clinics, increasing the risk of disease transmission and hinder the vaccination process.
-
-## Property: has_RiskType
-
-* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
-* [health](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_4.md)
-
-## Articles mentionning the risk
-
-* [Digital Twin of COVID-19 Mass Vaccination Centers](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_47.md)
+* [The challenges in vaccination include limited storage capacity, high patient demand, inefficient resource use, distribution difficulties, waning vaccine effectiveness, and unequal access.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_113.md)
 
 ## Closest similar item
 
@@ -36,31 +19,47 @@ Mass vaccination campaigns can lead to overcrowding in vaccination clinics, incr
 * [Inefficient use of resources in vaccination process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_156.md)
 * [Demand for vaccine development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_423.md)
 
-## People affected by this risk
+## Description of the risk
 
-* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
-* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+Mass vaccination campaigns can lead to overcrowding in vaccination clinics, increasing the risk of disease transmission and hinder the vaccination process.
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Living and working environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_1.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
+## Mitigations of this risk
+
+* [Implement crowd management strategies, such as appointment systems, queue management, and social distancing measures. Increase the number of vaccination sites and healthcare personnel.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2508.md)
+
+## Name of the risk
+
+Increased risk of disease transmission, longer wait times, delays in vaccination process.
 
 ## Stakeholders who can mitigate this risk
 
 * [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 
-## Name of the risk
+## Articles mentionning the risk
 
-Increased risk of disease transmission, longer wait times, delays in vaccination process.
+* [Digital Twin of COVID-19 Mass Vaccination Centers](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_47.md)
 
-## Mitigations of this risk
+## People affected by this risk
 
-* [Implement crowd management strategies, such as appointment systems, queue management, and social distancing measures. Increase the number of vaccination sites and healthcare personnel.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2508.md)
-
-## Property: has_RiskISO_Purpose
-
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 
 ## Technologies linked to the risk
 
@@ -68,4 +67,9 @@ Increased risk of disease transmission, longer wait times, delays in vaccination
 * [crowd monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_490.md)
 * [appointment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1295.md)
 * [queue management technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1296.md)
+
+## Property: has_RiskType
+
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
+* [health](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_4.md)
 

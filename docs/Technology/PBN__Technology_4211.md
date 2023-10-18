@@ -2,9 +2,9 @@
 
 # __redundant infrastructure__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Facilitate response diversity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2057.md)
+* [The built environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_230.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [reliable electrical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1046.md)
 * [infrastructure support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2953.md)
 * [adaptive infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3202.md)
+
+## This Technology enables the following mitigations
+
+* [Facilitate response diversity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2057.md)
 

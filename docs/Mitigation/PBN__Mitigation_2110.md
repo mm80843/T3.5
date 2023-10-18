@@ -2,9 +2,9 @@
 
 # __Real-time tracking map__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [big data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2938.md)
+* [Advanced monitoring and tracking technology for remote supervision, surveillance, and contactless delivery in healthcare settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_154.md)
 
 ## Closest similar item
 
@@ -19,14 +19,18 @@
 * [Cloud-based tracing and tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_15.md)
 * [Tracking and tracing transmissions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_0.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Using real-time data collected from multiple sources to track and monitor the spread of COVID-19 globally.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Digital technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_278.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [big data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2938.md)
 

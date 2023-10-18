@@ -2,13 +2,9 @@
 
 # __Addressing disparities between territories and social groups__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Social, spatial, and economic inequalities exacerbated by COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_754.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction of inequalities between territories and social groups](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1041.md)
+* [Promote equitable, sustainable, and inclusive urban planning to enhance living conditions, mitigate overcrowding, and reduce disparities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_324.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Targeted Regional Interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_871.md)
 * [Supporting local communities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_132.md)
 * [Conduct studies in diverse geographic regions to obtain more representative data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1721.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction of inequalities between territories and social groups](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1041.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Social, spatial, and economic inequalities exacerbated by COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_754.md)
 

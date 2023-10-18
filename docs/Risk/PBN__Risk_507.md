@@ -2,9 +2,9 @@
 
 # __Virus Transmission through close contact__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Hand hygiene and respiratory etiquette](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_717.md)
+* [The wide-ranging transmission, survival, and spread of infectious respiratory viruses and pathogens indoors and on surfaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_122.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Viral Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2817.md)
 * [Virus transmission via air circulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1637.md)
 * [Virus spread through contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1131.md)
+
+## Mitigations of this risk
+
+* [Hand hygiene and respiratory etiquette](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_717.md)
 

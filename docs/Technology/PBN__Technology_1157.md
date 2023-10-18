@@ -2,15 +2,15 @@
 
 # __communication campaigns__
 
+## Category to which it belongs
+
+* [Various campaigns and programs to inform and engage the public, raise awareness, educate, and promote reliable information.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_207.md)
+
 ## Risks linked to this technology
 
 * [Vaccine hesitancy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1909.md)
 * [Misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1033.md)
 * [Infodemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2283.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Communication Technologies and Channels](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_27.md)
 
 ## Closest similar item
 
@@ -25,13 +25,17 @@
 * [public information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_8.md)
 * [Public information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2162.md)
 
-## This Technology belongs to this TechGroup
-
-* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
-
 ## This Technology is identified by the following QID
 
 * [Q14623843](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q14623843.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Communication Technologies and Channels](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_27.md)
+
+## This Technology belongs to this TechGroup
+
+* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
 
 ## This Technology enables the following mitigations
 

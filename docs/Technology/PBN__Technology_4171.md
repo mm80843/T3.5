@@ -2,9 +2,9 @@
 
 # __portable awnings__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Portable Awnings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1963.md)
+* [A comprehensive range of advanced, interconnected devices that offer efficiency, convenience, and enhanced functionality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_238.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [portable partitions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4169.md)
 * [remote monitoring devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_551.md)
 * [iot devices for monitoring and controlling occupancy and airflow](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1520.md)
+
+## This Technology enables the following mitigations
+
+* [Portable Awnings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1963.md)
 

@@ -2,9 +2,9 @@
 
 # __Inefficient energy usage and high energy consumption__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Implement energy-saving measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_456.md)
+* [Issues related to energy use, including increased consumption, inefficient usage, and lack of understanding, have various implications in different settings and sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_133.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Energy Efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3251.md)
 * [Unnecessary energy usage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2429.md)
 * [Energy use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_614.md)
+
+## Mitigations of this risk
+
+* [Implement energy-saving measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_456.md)
 

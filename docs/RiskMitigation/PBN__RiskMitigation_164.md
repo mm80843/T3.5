@@ -2,13 +2,9 @@
 
 # __Implementation of hygiene protocols__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [COVID-19 spread in schools and childcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_138.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction in infection risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_184.md)
+* [Promote and enforce hygiene practices, implement sanitation measures, and provide education on proper handwashing techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_332.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implementing strict cleaning and disinfection protocols, promoting good hygiene practices, enforcing physical distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1584.md)
 * [Improved hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_954.md)
 * [Implement improved cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_604.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction in infection risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_184.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [COVID-19 spread in schools and childcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_138.md)
 

@@ -2,9 +2,9 @@
 
 # __construction organizations__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q13405640](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q13405640.md)
+* [A diverse array of entities dedicated to various industries, causes, or services, promoting growth and welfare in society.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_369.md)
 
 ## Closest similar item
 
@@ -30,4 +30,8 @@
 * [High impact of COVID-19 on construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1998.md)
 * [Decreased working time](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1996.md)
 * [Concerns about project time, cost, and scope](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1999.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q13405640](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q13405640.md)
 

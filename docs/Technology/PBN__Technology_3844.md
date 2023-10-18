@@ -2,9 +2,9 @@
 
 # __data mining techniques and health data__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Data mining methods for understanding the COVID-19 outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1402.md)
+* [Improved healthcare infrastructure and resources enable public health authorities to implement effective messaging and interventions, ensuring equitable access to healthcare facilities and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_209.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [data analysis algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1978.md)
 * [healthmap](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4440.md)
 * [mobile-health disease-monitoring data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3310.md)
+
+## This Technology enables the following mitigations
+
+* [Data mining methods for understanding the COVID-19 outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1402.md)
 

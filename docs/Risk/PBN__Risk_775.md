@@ -2,9 +2,9 @@
 
 # __Inherent vulnerabilities in__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Systemic change](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1069.md)
+* [Health and safety concerns, risk communication strategy, and inadequate personal protective equipment are all indicative of potential hazards and vulnerabilities in various settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_126.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Security breaches](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1070.md)
 * [Health System Vulnerability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2350.md)
 * [Security threats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2442.md)
+
+## Mitigations of this risk
+
+* [Systemic change](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1069.md)
 

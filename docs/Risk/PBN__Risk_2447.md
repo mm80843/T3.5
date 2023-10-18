@@ -2,9 +2,9 @@
 
 # __Lack of planning and management for pandemics__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Inclusion of pandemic preparedness in disaster management protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_113.md)
+* [Fragmented global governance, reduced aid, ethical concerns, educational disruption, impacts on peace and justice, and inadequate coordination between stakeholders.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_115.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of comprehensive pandemic preparedness and response planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1026.md)
 * [Respiratory pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_476.md)
 * [Inadequate pandemic preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_700.md)
+
+## Mitigations of this risk
+
+* [Inclusion of pandemic preparedness in disaster management protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_113.md)
 

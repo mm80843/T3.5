@@ -2,13 +2,9 @@
 
 # __Enhance health education using online platforms__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Psychological impact of COVID-19 infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_34.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction of fear](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_56.md)
+* [Enrich education through digital tools, virtual experiences, remote learning, and alternative forms of exercise and interaction.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_3.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Educate the public about preventive measures, promote health literacy, disseminate accurate information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1819.md)
 * [Online learning platforms, distribution of educational materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2174.md)
 * [Implement self-health evaluation protocols, use online questionnaires or applications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2796.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction of fear](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_56.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Psychological impact of COVID-19 infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_34.md)
 

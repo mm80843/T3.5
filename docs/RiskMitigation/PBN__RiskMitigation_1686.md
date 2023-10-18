@@ -2,9 +2,9 @@
 
 # __Balanced approach combining technology with personal judgment and regular healthcare consultations.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Dependency on technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1233.md)
+* [Enhancing healthcare infrastructure, increasing capacity, and ensuring access to medical resources and services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_330.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Mobile technology in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1161.md)
 * [Systematic approach led by mental health experts, social communication through technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1011.md)
 * [Adhere to privacy policies, standardize and regulate healthcare technology, obtain legal advice](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2747.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Dependency on technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1233.md)
 

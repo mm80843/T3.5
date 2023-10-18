@@ -2,13 +2,9 @@
 
 # __Improvement of indoor heating and cooling systems__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Poor indoor environmental quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_965.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced indoor environmental quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1326.md)
+* [Optimize indoor environments, regulate temperature and humidity, control air quality, and extend HVAC system operations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_341.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Improve indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_452.md)
 * [Improve ventilation systems, increase outdoor air intake, and use air purifiers to enhance indoor air quality.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2506.md)
 * [Installation of efficient HVAC systems, proper insulation, and controls for temperature regulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1566.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced indoor environmental quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1326.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Poor indoor environmental quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_965.md)
 

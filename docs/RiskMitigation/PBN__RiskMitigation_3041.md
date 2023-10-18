@@ -2,9 +2,9 @@
 
 # __Validate and optimize PCR assays to ensure accurate detection of SARS-CoV-2 genetic material.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Variability and specificity of PCR assays](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2339.md)
+* [Efforts to study, detect, and control the spread of SARS-CoV-2 in various environments and populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_353.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Development and implementation of validated methodological protocols for the quantitative analysis of SARS-CoV-2 in wastewater.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1603.md)
 * [Conduct comprehensive phylogenetic analysis to identify the original host animal of SARS-CoV-2.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3060.md)
 * [Quantification of SARS-CoV-2 in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_989.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Variability and specificity of PCR assays](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2339.md)
 

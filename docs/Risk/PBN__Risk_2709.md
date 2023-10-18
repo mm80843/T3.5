@@ -2,10 +2,9 @@
 
 # __Harms in the neighbourhood__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Policy interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_734.md)
-* [Care infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_735.md)
+* [Health and safety concerns, risk communication strategy, and inadequate personal protective equipment are all indicative of potential hazards and vulnerabilities in various settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_126.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Risk of transmission in enclosed and communal spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2120.md)
 * [Impact of Covid-19 on neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_29.md)
 * [Risk of transmission in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1480.md)
+
+## Mitigations of this risk
+
+* [Policy interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_734.md)
+* [Care infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_735.md)
 

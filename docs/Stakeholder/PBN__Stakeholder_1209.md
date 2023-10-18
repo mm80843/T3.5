@@ -2,9 +2,9 @@
 
 # __cleaning companies__
 
-## This Stakeholder belongs to this StakeholderGroup
+## Category to which it belongs
 
-* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
+* [These companies span a wide array of industries, including renewable energy, construction, pharmaceuticals, logistics, and technology.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_387.md)
 
 ## Closest similar item
 
@@ -19,10 +19,14 @@
 * [sanitation agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1090.md)
 * [water and sanitation organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1367.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
-
-
 ## Risks that can be mitigated by this stakeholder
 
 * [Contamination of HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1806.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
 

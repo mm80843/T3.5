@@ -2,9 +2,9 @@
 
 # __financial advisors__
 
-## This Stakeholder belongs to this StakeholderGroup
+## Category to which it belongs
 
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+* [Experts from various fields including research, risk assessment, education, science, HVAC, and IT.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_356.md)
 
 ## Closest similar item
 
@@ -19,11 +19,15 @@
 * [financial team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_932.md)
 * [fund management companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1332.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Business and Financial Services](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_58.md)
-
 ## Risks that can be mitigated by this stakeholder
 
 * [Insolvency risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1307.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Business and Financial Services](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_58.md)
 

@@ -2,9 +2,9 @@
 
 # __gis technology__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Geospatial analysis of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1237.md)
+* [Technological advancements encompass a wide range of innovations, such as blockchain, touchless, renewable energy, and communication technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [geographical information system (gis)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3334.md)
 * [geographic information systems (gis) software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4319.md)
 * [geographic information systems (gis) can be used to analyze community needs and optimize facility placement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1913.md)
+
+## This Technology enables the following mitigations
+
+* [Geospatial analysis of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1237.md)
 

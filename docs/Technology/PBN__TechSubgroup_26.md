@@ -2,11 +2,9 @@
 
 # __Communication and Coordination Platforms__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5.md)
-* [Centralized reporting platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2507.md)
-* [Communication and coordination platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2503.md)
+* [Tools and technologies for interconnected communication, coordination, and collaboration in the digital realm.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_13.md)
 
 ## Closest similar item
 
@@ -20,4 +18,10 @@
 * [Data Management and Communication Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_18.md)
 * [Video Recording and Conferencing Platforms](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_114.md)
 * [Remote Work Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_173.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5.md)
+* [Centralized reporting platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2507.md)
+* [Communication and coordination platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2503.md)
 

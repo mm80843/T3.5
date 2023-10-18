@@ -2,9 +2,9 @@
 
 # __quarantined population__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Loneliness during COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_664.md)
+* [A diverse array of groups and individuals, encompassing all segments of society and the natural world.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_363.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [individuals in quarantine or social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_357.md)
 * [individuals in quarantine or lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1321.md)
 * [individual in quarantine or isolation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2316.md)
+
+## Risk affecting this stakeholder
+
+* [Loneliness during COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_664.md)
 

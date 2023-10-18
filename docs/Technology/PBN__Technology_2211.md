@@ -2,9 +2,9 @@
 
 # __personal hygiene practices__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
-* [Cleaning Supplies and Hygiene Practices](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_61.md)
+* [Enhanced hygiene practices and strict adherence to cleaning protocols ensure rigorous sanitation and disinfection measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_196.md)
 
 ## Closest similar item
 
@@ -19,11 +19,15 @@
 * [hygiene supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_768.md)
 * [Hygiene supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2591.md)
 
-## This Technology belongs to this TechGroup
-
-* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
-
 ## This Technology is identified by the following QID
 
 * [Q9292190](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q9292190.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Cleaning Supplies and Hygiene Practices](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_61.md)
+
+## This Technology belongs to this TechGroup
+
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 

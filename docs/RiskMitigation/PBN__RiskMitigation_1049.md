@@ -2,13 +2,9 @@
 
 # __Improving capacity for essential vector control operations__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of community-level vector control capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_759.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced ability to enact coordinated community-level vector control efforts](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1047.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implement ecosystem-based approaches to control vectors, such as maintaining natural habitats and reducing breeding sites.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2433.md)
 * [Ensure timely implementation of control measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2849.md)
 * [Enhanced monitoring and control efforts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_664.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced ability to enact coordinated community-level vector control efforts](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1047.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of community-level vector control capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_759.md)
 

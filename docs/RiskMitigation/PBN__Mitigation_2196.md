@@ -2,8 +2,9 @@
 
 # __Enhance accessibility__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Movement and accessibility constraints, including travel bans, visitor restrictions, and limitations on gatherings and travel.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_160.md)
 
 ## Closest similar item
 
@@ -18,14 +19,17 @@
 * [Clear and inclusive communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1341.md)
 * [Improved healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1504.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Improving access to greenspaces, such as through the development of walking paths or public transportation routes, can make it easier for individuals to use and benefit from these areas.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [The health benefits of the great outdoors: A systematic review and meta-analysis of greenspace exposure and health outcomes](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_50.md)
+
+## This Mitigation is enabled by the following technologies
+
 

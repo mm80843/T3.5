@@ -2,13 +2,14 @@
 
 # __city administrators__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q9305769](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q9305769.md)
+* [Experts who oversee and manage various aspects of public and private administration, including cybersecurity, commerce, education, and infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_400.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [City Officials](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_0.md)
+* [Lack of strategic planning and alignment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1198.md)
+* [Weaknesses in smart city governance models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1199.md)
 
 ## Closest similar item
 
@@ -23,13 +24,16 @@
 * [urban managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_518.md)
 * [building administrators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1410.md)
 
-## Risk affecting this stakeholder
-
-* [Lack of strategic planning and alignment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1198.md)
-* [Weaknesses in smart city governance models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1199.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Governmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_5.md)
 * [City Officials and Administrators](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_4.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q9305769](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q9305769.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [City Officials](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_0.md)
 

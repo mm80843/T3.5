@@ -2,6 +2,10 @@
 
 # __blockchain__
 
+## Category to which it belongs
+
+* [Various security measures, such as encryption, authentication protocols, secure data storage, and blockchain, are used to protect digital platforms and ensure privacy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_201.md)
+
 ## Risks linked to this technology
 
 * [Privacy and security concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_25.md)
@@ -10,10 +14,6 @@
 * [Security challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2094.md)
 * [Lack of data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_810.md)
 * [Lack of supply chain visibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1773.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Blockchain and Quantum Cryptography](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_145.md)
 
 ## Closest similar item
 
@@ -28,14 +28,18 @@
 * [blockchain technology for supply chain transparency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1632.md)
 * [smart contracts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1234.md)
 
+## This Technology is identified by the following QID
+
+* [Q20514253](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q20514253.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Blockchain and Quantum Cryptography](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_145.md)
+
 ## This Technology belongs to this TechGroup
 
 * [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_5.md)
 * [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_10.md)
-
-## This Technology is identified by the following QID
-
-* [Q20514253](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q20514253.md)
 
 ## This Technology enables the following mitigations
 

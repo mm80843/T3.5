@@ -2,9 +2,9 @@
 
 # __Optimize storage conditions and protocols to minimize degradation of viral RNA, conduct regular quality control checks on stored samples.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Degradation of viral signal in storage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2369.md)
+* [Implement comprehensive strategies to control virus transmission, improve surveillance, develop antiviral coatings, and enhance infection control measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_309.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement advanced treatment processes, such as ozonation or membrane filtration, to improve removal efficiency of SARS-CoV-2 RNA.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3043.md)
 * [Improve data collection and analysis, enhance understanding of the virus and its transmission, validate models with real-world data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2013.md)
 * [Developing effective virus concentration methods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_992.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Degradation of viral signal in storage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2369.md)
 

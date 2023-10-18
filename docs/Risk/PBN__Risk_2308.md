@@ -2,25 +2,9 @@
 
 # __Outdated information__
 
-## Property: has_RiskHealth
+## Category to which it belongs
 
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Description of the risk
-
-The KG may not have the most up-to-date information on COVID-19, leading to inaccurate or incomplete knowledge
-
-## Property: has_RiskType
-
-* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
-* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
-
-## Articles mentionning the risk
-
-* [Construction of a Linked Data Set of COVID-19 Knowledge Graphs: Development and Applications](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_28.md)
+* [The proliferation of false and misleading information, misinformation, and inaccurate news during pandemics creates confusion and a lack of trust in reliable sources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_127.md)
 
 ## Closest similar item
 
@@ -35,16 +19,32 @@ The KG may not have the most up-to-date information on COVID-19, leading to inac
 * [Misleading Information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_971.md)
 * [Misleading information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3462.md)
 
-## People affected by this risk
+## Description of the risk
 
-* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
-* [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
-* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
-* [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
+The KG may not have the most up-to-date information on COVID-19, leading to inaccurate or incomplete knowledge
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Property: has_RiskHealth
+
 
 ## Property: has_RiskISO_Impact
 
 * [Education and capacity building](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_7.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Mitigations of this risk
+
+* [Regular updates and validation of data sources, collaboration with reliable sources for real-time information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3001.md)
+
+## Name of the risk
+
+Misinformation, ineffective decision-making, missed opportunities for timely action
 
 ## Stakeholders who can mitigate this risk
 
@@ -52,20 +52,24 @@ The KG may not have the most up-to-date information on COVID-19, leading to inac
 * [domain experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1539.md)
 * [openkg community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1538.md)
 
-## Name of the risk
+## Articles mentionning the risk
 
-Misinformation, ineffective decision-making, missed opportunities for timely action
+* [Construction of a Linked Data Set of COVID-19 Knowledge Graphs: Development and Applications](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_28.md)
 
-## Mitigations of this risk
+## People affected by this risk
 
-* [Regular updates and validation of data sources, collaboration with reliable sources for real-time information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3001.md)
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+* [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
 
 ## Technologies linked to the risk
 
 * [collaboration platforms for information sharing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1895.md)
 * [data integration and validation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1894.md)
+
+## Property: has_RiskType
+
+* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 

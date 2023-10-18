@@ -2,10 +2,9 @@
 
 # __Research and Scientific Studies__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [research and scientific studies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_256.md)
-* [research methodology improvement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_841.md)
+* [Exploration, organization, and examination of information for scientific studies, including genomics and bioinformatics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_22.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Software and Applications](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_122.md)
 * [Education and Training Programs](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_178.md)
 * [Public Education and Awareness Campaigns](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_40.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [research and scientific studies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_256.md)
+* [research methodology improvement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_841.md)
 

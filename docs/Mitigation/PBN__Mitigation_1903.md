@@ -2,9 +2,9 @@
 
 # __Reviewing contracts and service agreements__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [contract review systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4126.md)
+* [Optimizing the global trade network and supply chains through decentralization, cost concern, and integrated management, while promoting resilience and equity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_146.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Business Continuity Guideline](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1617.md)
 * [Willing co-operation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1793.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Financial crisis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2067.md)
-
 ## Property: has_MitigationPrinciple
 
 Reviewing contracts and service agreements for potential protection issues to mitigate financial risks.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Financial crisis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2067.md)
+
 ## Property: has_MitigationSource
 
 * [The Effects of Pandemic on Construction Industry in the UK](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_75.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [contract review systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4126.md)
 

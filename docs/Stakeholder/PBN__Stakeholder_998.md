@@ -2,10 +2,9 @@
 
 # __communities in built environments__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Lack of green space diversity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1544.md)
-* [No access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1543.md)
+* [Collective inhabitants of various social groups, including rural women with ovarian cancer, who reside within different types of communities and rely on diverse support networks for community engagement.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_386.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [underserved communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_411.md)
 * [workers in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1016.md)
 * [residents of residential environments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_973.md)
+
+## Risk affecting this stakeholder
+
+* [Lack of green space diversity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1544.md)
+* [No access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1543.md)
 

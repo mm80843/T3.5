@@ -2,10 +2,9 @@
 
 # __Messaging tools__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [mobile devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4026.md)
-* [messaging apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4027.md)
+* [Enabling technology and tools for connectivity, privacy, convenience, and efficient communication in a digital age.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_156.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Contact Tracing Applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1320.md)
 * [Enhanced communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1795.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [High levels of staff sickness or self-isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3230.md)
-
 ## Property: has_MitigationPrinciple
 
 Use messaging tools like WhatsApp and Slack for communication to organize service provision or manage staff rotas during staff shortages
 
+## Risks possibly mitigated by this Mitigation
+
+* [High levels of staff sickness or self-isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3230.md)
+
 ## Property: has_MitigationSource
 
 * [COVID-19: A new digital dawn?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_93.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [mobile devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4026.md)
+* [messaging apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4027.md)
 

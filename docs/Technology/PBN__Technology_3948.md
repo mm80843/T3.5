@@ -2,9 +2,9 @@
 
 # __cleaning detergent__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Cleaning and Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1615.md)
+* [Enhanced hygiene practices and strict adherence to cleaning protocols ensure rigorous sanitation and disinfection measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_196.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [cleaning practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4065.md)
 * [cleaning services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1355.md)
 * [Cleaning services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2551.md)
+
+## This Technology enables the following mitigations
+
+* [Cleaning and Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1615.md)
 

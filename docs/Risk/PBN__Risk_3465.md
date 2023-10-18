@@ -2,9 +2,9 @@
 
 # __Filter leakage__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [HEPA filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2466.md)
+* [Insufficient air filtration, lack of evidence synthesis, shortages of protective equipment, and ineffective filtration highlight the concerns.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_135.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Insufficient filtration of airborne particles](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3055.md)
 * [Water supply disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3351.md)
 * [Contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1882.md)
+
+## Mitigations of this risk
+
+* [HEPA filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2466.md)
 

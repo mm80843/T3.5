@@ -2,9 +2,9 @@
 
 # __antimalarial__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Use of specific medicines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1555.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [medications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3886.md)
 * [antiretroviral therapy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2809.md)
 * [antimicrobial materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3442.md)
+
+## This Technology enables the following mitigations
+
+* [Use of specific medicines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1555.md)
 

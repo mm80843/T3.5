@@ -2,11 +2,9 @@
 
 # __5G deployment and limited connectivity challenges__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [l5go networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1586.md)
-* [small cell networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4157.md)
-* [ran sharing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4158.md)
+* [Synthesizing, standardizing, and disseminating evidence to enhance accessibility and harmonize protocols for seamless communication and provision of public places.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_186.md)
 
 ## Closest similar item
 
@@ -21,15 +19,21 @@
 * [Provide reliable and constant ICT connections](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3130.md)
 * [Implement network slicing, utilize virtual NFs and MEC, deploy full beamforming technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4187.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Limited availability of 5G networks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3302.md)
-
 ## Property: has_MitigationPrinciple
 
 Acceleration of 5G deployment, utilization of small cell networks, RAN sharing, and implementation of L5GO networks to improve network connectivity and expand 5G coverage
 
+## Risks possibly mitigated by this Mitigation
+
+* [Limited availability of 5G networks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3302.md)
+
 ## Property: has_MitigationSource
 
 * [The role of 5G for digital healthcare against COVID-19 pandemic: Opportunities and challenges](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_9.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [l5go networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1586.md)
+* [small cell networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4157.md)
+* [ran sharing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4158.md)
 

@@ -2,9 +2,9 @@
 
 # __mathematical models__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Disease modelling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_56.md)
+* [Advanced technologies and algorithms for modeling, simulation, optimization, and artificial intelligence in various applications, including robotics and computational fluid dynamics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_239.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [advanced modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1201.md)
 * [predictive modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3951.md)
 * [modeling and data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4207.md)
+
+## This Technology enables the following mitigations
+
+* [Disease modelling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_56.md)
 

@@ -2,11 +2,9 @@
 
 # __data management agencies__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Data management issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2085.md)
-* [Reliability of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2086.md)
-* [Data overload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2088.md)
+* [Government and non-governmental organizations responsible for a wide range of services, including health, development, regulation, and emergency response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_382.md)
 
 ## Closest similar item
 
@@ -20,4 +18,10 @@
 * [government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_55.md)
 * [data protection authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_786.md)
 * [data security professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1541.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Data management issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2085.md)
+* [Reliability of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2086.md)
+* [Data overload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2088.md)
 

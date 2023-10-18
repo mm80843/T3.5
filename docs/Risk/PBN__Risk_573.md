@@ -2,9 +2,9 @@
 
 # __Inadequate housing hygiene__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Re-appropriation of the basic principles and archetypes of sustainable architecture, thermal comfort and Indoor Air Quality (IAQ)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_801.md)
+* [Lack of proper hygiene and sanitation practices result in inadequate access to clean water and facilities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_129.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inadequate sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1399.md)
 * [Poor hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1576.md)
 * [Inadequate sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1416.md)
+
+## Mitigations of this risk
+
+* [Re-appropriation of the basic principles and archetypes of sustainable architecture, thermal comfort and Indoor Air Quality (IAQ)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_801.md)
 

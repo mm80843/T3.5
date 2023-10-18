@@ -2,9 +2,9 @@
 
 # __yoga mats__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Yoga](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_446.md)
+* [Measures promoting accountability, media control, real-time updates, and virtual experiences for physical distancing and education.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [textiles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3020.md)
 * [cloth masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4504.md)
 * [wristbands](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3021.md)
+
+## This Technology enables the following mitigations
+
+* [Yoga](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_446.md)
 

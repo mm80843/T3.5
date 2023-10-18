@@ -2,11 +2,9 @@
 
 # __Availability of greenery and gardens__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [landscape ground](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4242.md)
-* [potted plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4243.md)
-* [water features](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4244.md)
+* [Promoting sustainable and eco-friendly practices that enhance urban green spaces, energy efficiency, and renewable energy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_180.md)
 
 ## Closest similar item
 
@@ -21,15 +19,21 @@
 * [Increase awareness of the value of green areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3397.md)
 * [Increase access to green spaces, promote urban greening initiatives, create more parks and gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3398.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_611.md)
-
 ## Property: has_MitigationPrinciple
 
 Provide green spaces to improve mental state and well-being
 
+## Risks possibly mitigated by this Mitigation
+
+* [Mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_611.md)
+
 ## Property: has_MitigationSource
 
 * [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [landscape ground](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4242.md)
+* [potted plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4243.md)
+* [water features](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4244.md)
 

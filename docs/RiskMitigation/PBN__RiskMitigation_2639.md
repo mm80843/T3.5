@@ -2,9 +2,9 @@
 
 # __Encourage the use of cleaner and more efficient cooking fuels and ventilation systems.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Indoor Air Pollution (IAP)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2017.md)
+* [Enhance airflow, increase fresh air intake, and optimize ventilation systems to improve air quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_329.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Improve ventilation systems, ensure regular maintenance and cleaning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1954.md)
 * [Ensure proper ventilation systems, regular cleaning and maintenance of HVAC systems, promote natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2230.md)
 * [Improve ventilation systems, increase airflow rates, use outdoor air ventilation, and consider the installation of air purifiers or filtration systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1591.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Indoor Air Pollution (IAP)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2017.md)
 

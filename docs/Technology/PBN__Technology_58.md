@@ -2,9 +2,9 @@
 
 # __improved rt-qpcr assays and sequencing techniques__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q856198](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q856198.md)
+* [Advancements in biotechnology, clinical research, and innovative therapies contribute to the development of medical solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [qpcr techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4139.md)
 * [quantitative rt-pcr methodology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3687.md)
 * [qrt pcr testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3433.md)
+
+## This Technology is identified by the following QID
+
+* [Q856198](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q856198.md)
 

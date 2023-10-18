@@ -2,13 +2,9 @@
 
 # __Alignment of data protection laws__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Regulatory frameworks for data protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_811.md)
-
-## Property: has_MitigationBenefit
-
-* [Easier data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1106.md)
+* [Data privacy and security are prioritized through encryption, access controls, consent, and robust cybersecurity measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_335.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implement strong data protection measures, ensure transparency and consent, use decentralized and secure systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2275.md)
 * [Implement policies and technologies to ensure data privacy and cybersecurity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2323.md)
 * [Strict adherence to privacy regulations, encryption of sensitive data, secure access control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1753.md)
+
+## Property: has_MitigationBenefit
+
+* [Easier data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1106.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Regulatory frameworks for data protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_811.md)
 

@@ -2,9 +2,9 @@
 
 # __Properly regulate indoor temperature and AH levels to reduce influenza transmission. Improve ventilation and air filtration systems.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Indoor influenza transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1705.md)
+* [Enhancing air quality through effective air filtration, ventilation, and pollution reduction strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_338.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Improve ventilation systems in buildings, increase air flow, open windows if possible, and use air purifiers.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1922.md)
 * [Improve ventilation systems, increase outdoor air circulation, and implement air purification technologies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2308.md)
 * [Improve air filtration and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1925.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Indoor influenza transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1705.md)
 

@@ -2,9 +2,9 @@
 
 # __trapping methods__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Rat Management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1147.md)
+* [The range of materials and techniques listed includes various disinfectants, nanomaterials, manufacturing methods, coatings, sustainability measures, and analytical tools.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_237.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [air purification systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_244.md)
 * [Air purification systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2555.md)
 * [conservation strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_536.md)
+
+## This Technology enables the following mitigations
+
+* [Rat Management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1147.md)
 

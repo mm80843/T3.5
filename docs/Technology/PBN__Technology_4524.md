@@ -2,9 +2,9 @@
 
 # __greenery__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Nature incorporation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2479.md)
+* [Promotion of environmentally-friendly practices, green infrastructure, sustainable housing, renewable energy, and responsible building to enhance spaces and mitigate climate change.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_224.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [green technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1647.md)
 * [Urban greening technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2337.md)
 * [access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3551.md)
+
+## This Technology enables the following mitigations
+
+* [Nature incorporation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2479.md)
 

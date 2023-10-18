@@ -2,9 +2,9 @@
 
 # __Lack of self-sufficient living spaces__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Incorporating nature into living spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_135.md)
+* [Insufficient awareness, limited resources, inadequate communication, and lack of preparedness contribute to various challenges and deficiencies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_118.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of space and poor spatial organization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_343.md)
 * [Lack of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1302.md)
 * [Overcrowding in living spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1128.md)
+
+## Mitigations of this risk
+
+* [Incorporating nature into living spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_135.md)
 

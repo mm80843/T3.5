@@ -2,9 +2,9 @@
 
 # __ministries of education__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Schoolchildren and children in day care](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1354.md)
+* [The community, including residents, educators, healthcare institutions, and government research institutions, is involved in education and healthcare.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_377.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [education institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1041.md)
 * [education authority](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1637.md)
 * [education department](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1634.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Schoolchildren and children in day care](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1354.md)
 

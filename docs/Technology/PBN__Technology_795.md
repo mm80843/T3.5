@@ -2,6 +2,10 @@
 
 # __digital contact tracing__
 
+## Category to which it belongs
+
+* [The digital revolution encompasses various aspects, from online promotion to contactless payment systems and virtual learning platforms.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_190.md)
+
 ## Risks linked to this technology
 
 * [Insufficient outbreak investigation and response](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1514.md)

@@ -2,9 +2,9 @@
 
 # __Upgrading ventilation systems to meet recommended air exchange rates and introducing measures such as air filtration, use of portable air cleaners, and opening windows for natural ventilation.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Inadequate ventilation in indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1679.md)
+* [Enhance airflow, increase fresh air intake, and optimize ventilation systems to improve air quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_329.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Increase ventilation rates, use natural or mechanical ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1642.md)
 * [Improving ventilation systems, increasing fresh air intake, using air purifiers and filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1466.md)
 * [Increase the amount of outdoor air in ventilation systems, open windows for natural ventilation, and ensure proper ventilation design and operation.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1935.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inadequate ventilation in indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1679.md)
 

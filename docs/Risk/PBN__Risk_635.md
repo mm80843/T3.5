@@ -2,9 +2,9 @@
 
 # __Lack of standardization in PCR methods__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Standardization of PCR platforms and protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_877.md)
+* [The challenges include inadequate testing capacity, slow identification of cases, limited evidence, and variability in PCR methods.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_140.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of standardised measurement protocol for IEQ](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_567.md)
 * [Need for common standards in health data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_817.md)
 * [Diagnostic Accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3291.md)
+
+## Mitigations of this risk
+
+* [Standardization of PCR platforms and protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_877.md)
 

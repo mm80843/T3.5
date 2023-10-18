@@ -2,9 +2,9 @@
 
 # __health screening technology__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1163564](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1163564.md)
+* [Improved healthcare infrastructure and resources enable public health authorities to implement effective messaging and interventions, ensuring equitable access to healthcare facilities and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_209.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Technology for disease surveillance and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2468.md)
 * [digital health solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_473.md)
 * [improved healthcare technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_940.md)
+
+## This Technology is identified by the following QID
+
+* [Q1163564](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1163564.md)
 

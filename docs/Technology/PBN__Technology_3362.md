@@ -2,9 +2,9 @@
 
 # __electrostatic space charge systems (escss)__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Negative air ionization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_614.md)
+* [The range of materials and techniques listed includes various disinfectants, nanomaterials, manufacturing methods, coatings, sustainability measures, and analytical tools.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_237.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [electrochemical reactions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3078.md)
 * [bipolar ionization devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2575.md)
 * [electrical](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3728.md)
+
+## This Technology enables the following mitigations
+
+* [Negative air ionization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_614.md)
 

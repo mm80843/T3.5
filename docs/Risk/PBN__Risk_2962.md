@@ -2,9 +2,9 @@
 
 # __Increase or reduce the size of a building__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Expandability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1213.md)
+* [Challenges in building industry include lack of understanding, high costs, inadequate preparedness, and slow adoption of new technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_98.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inadequate housing layout](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1737.md)
 * [High occupant density in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1328.md)
 * [Challenges in adaptation of building envelope](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_790.md)
+
+## Mitigations of this risk
+
+* [Expandability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1213.md)
 

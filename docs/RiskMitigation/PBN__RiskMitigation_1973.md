@@ -2,9 +2,9 @@
 
 # __Re-design streets to widen sidewalks, create more bike lanes, and prioritize pedestrian spaces__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Streets re-designed](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1458.md)
+* [Promote equitable, sustainable, and inclusive urban planning to enhance living conditions, mitigate overcrowding, and reduce disparities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_324.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Urban planning and design to create more open space, improve infrastructure, and promote safe transportation options.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1921.md)
 * [Urban planning and design interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_667.md)
 * [Incorporating green and pedestrian infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_39.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Streets re-designed](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1458.md)
 

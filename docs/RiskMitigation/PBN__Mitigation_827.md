@@ -2,11 +2,9 @@
 
 # __Temperature measurement__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [thermal camera](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3473.md)
-* [image processing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3006.md)
-* [infrared thermometer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3474.md)
+* [Achieving comfort through temperature management, monitoring, and control while implementing climate-sensitive design and utilizing thermal imaging technology for screening and measurement purposes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_185.md)
 
 ## Closest similar item
 
@@ -21,15 +19,21 @@
 * [Mobile robots for temperature measurement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2421.md)
 * [Control of Indoor Temperatures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1760.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [False positives, False negatives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2762.md)
-
 ## Property: has_MitigationPrinciple
 
 Measures the body temperature of individuals to identify potential cases of fever, a symptom of contagious diseases.
 
+## Risks possibly mitigated by this Mitigation
+
+* [False positives, False negatives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2762.md)
+
 ## Property: has_MitigationSource
 
 * [Design and Implementation of Entry-level COVID-19 Digital Signage Player supporting Fever Detection, Face Mask Wearing Detection and KI-pass QR Code Checking](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_285.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [thermal camera](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3473.md)
+* [image processing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3006.md)
+* [infrared thermometer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3474.md)
 

@@ -2,10 +2,9 @@
 
 # __Privacy and data sharing__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Integration of smart city technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1343.md)
-* [Adoption of universal standards for data sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1342.md)
+* [Concerns about the protection of personal information, surveillance, data security, and risks of privacy infringement.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_108.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Data security and privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3276.md)
 * [Privacy and security of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1754.md)
 * [Privacy and Security of Data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3018.md)
+
+## Mitigations of this risk
+
+* [Integration of smart city technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1343.md)
+* [Adoption of universal standards for data sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1342.md)
 

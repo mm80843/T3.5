@@ -2,9 +2,9 @@
 
 # __Promote accurate and reliable information through trusted sources, provide clear guidelines and recommendations, increase public health literacy and media literacy.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Misinformation and fake news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1372.md)
+* [Promote accurate and reliable information, combat misinformation, and increase media and public health literacy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_343.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Enhance health literacy programs and improve access to health information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2647.md)
 * [Enhanced health literacy strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_899.md)
 * [Fact-checking and verification of information, promoting reliable sources, education on media literacy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2099.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Misinformation and fake news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1372.md)
 

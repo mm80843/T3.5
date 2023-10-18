@@ -2,13 +2,13 @@
 
 # __Restructured society and environment: A review on potential technological strategies to control the COVID-19 pandemic__
 
-## Referenced by other articles
-
-* [Effective Risk Communication for Public Health Emergency: Reflection on the COVID-19 (2019-nCoV) Outbreak in Wuhan, China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_188.md)
-
 ## DOI of the article
 
 10.1016/j.scitotenv.2020.138858
+
+## Referenced by other articles
+
+* [Effective Risk Communication for Public Health Emergency: Reflection on the COVID-19 (2019-nCoV) Outbreak in Wuhan, China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_188.md)
 
 ## Title of the article
 

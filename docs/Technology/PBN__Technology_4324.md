@@ -2,9 +2,9 @@
 
 # __tailored services__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Targeted policies for specific social groups](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2210.md)
+* [Enhancing accessibility and support through a range of remote healthcare, counseling, transportation, and translation services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_213.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [web service](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3932.md)
 * [cleaning services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1355.md)
 * [Cleaning services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2551.md)
+
+## This Technology enables the following mitigations
+
+* [Targeted policies for specific social groups](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2210.md)
 

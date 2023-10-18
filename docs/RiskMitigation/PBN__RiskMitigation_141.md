@@ -2,13 +2,9 @@
 
 # __IoT in drug delivery__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Spreading of Corona Virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_116.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced drug delivery](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_158.md)
+* [Facilitate transparent communication, enabling reliable information sharing through standardized protocols and effective channels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_0.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [IoT monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1416.md)
 * [AI for drug discovery](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_656.md)
 * [IoT data monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1325.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced drug delivery](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_158.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Spreading of Corona Virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_116.md)
 

@@ -2,18 +2,9 @@
 
 # __Implementation of anti-contagion policies__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_133.md)
-
-## Property: has_MitigationBenefit
-
-* [Slowed growth rate of infections](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_504.md)
-* [Reduction of infections](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_317.md)
-* [Averted/Delayed infections](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_505.md)
-* [Improved public perception and confidence](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_506.md)
-* [Avoidance of strict lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_507.md)
-* [Reduced strain on healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_508.md)
+* [Implement comprehensive strategies to control virus transmission, improve surveillance, develop antiviral coatings, and enhance infection control measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_309.md)
 
 ## Closest similar item
 
@@ -27,4 +18,17 @@
 * [Implementation of quarantine measures, social distancing, and isolation of confirmed cases](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1756.md)
 * [Implement infection control measures, promote hygiene practices, and enforce social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1815.md)
 * [Implement proactive measures to control outbreak spread and minimize economic disruptions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1511.md)
+
+## Property: has_MitigationBenefit
+
+* [Slowed growth rate of infections](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_504.md)
+* [Reduction of infections](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_317.md)
+* [Averted/Delayed infections](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_505.md)
+* [Improved public perception and confidence](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_506.md)
+* [Avoidance of strict lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_507.md)
+* [Reduced strain on healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_508.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_133.md)
 

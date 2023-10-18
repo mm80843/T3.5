@@ -2,9 +2,9 @@
 
 # __Invest in agricultural technology, promote sustainable farming practices.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Food security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_232.md)
+* [Enhance local self-sufficiency in shopping, recreation, and food production, while promoting sustainable practices and supporting resilient economies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_344.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Invest in research and development](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1042.md)
 * [Implement progressive tax policies, invest in education and training programs, and create job opportunities in new industries.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2630.md)
 * [Promoting sustainable production and consumption methods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_281.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Food security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_232.md)
 

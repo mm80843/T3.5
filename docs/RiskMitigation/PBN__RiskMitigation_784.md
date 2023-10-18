@@ -2,13 +2,9 @@
 
 # __Purposeful bricolage__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Adversity facing innovative startups during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_558.md)
-
-## Property: has_MitigationBenefit
-
-* [Increased resilience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_788.md)
+* [Implementing a comprehensive package of measures to ensure the smooth functioning and safety of essential services and activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_6.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_318.md)
 * [Facilitate engagement in meaningful activities, provide social support, and address individual needs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2688.md)
 * [Reduced use of cardboard surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_83.md)
+
+## Property: has_MitigationBenefit
+
+* [Increased resilience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_788.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Adversity facing innovative startups during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_558.md)
 

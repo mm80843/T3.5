@@ -2,9 +2,9 @@
 
 # __dl-based formalism__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Interoperable biomedical ontology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1652.md)
+* [These resources aim to enhance security, convenience, and efficiency in managing access, spaces, and systems within various environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_206.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [semantic web standard](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3980.md)
 * [temporary closure protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3204.md)
 * [ontology matching](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4399.md)
+
+## This Technology enables the following mitigations
+
+* [Interoperable biomedical ontology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1652.md)
 

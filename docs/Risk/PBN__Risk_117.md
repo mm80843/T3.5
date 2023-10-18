@@ -2,9 +2,9 @@
 
 # __Difficulties faced by orthopaedic patients__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [IoT in healthcare (IoMT)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_142.md)
+* [The challenges include reduced surgical education, loss of control, limited diagnostics, slow drug development, inadequate patient monitoring, and lack of drug therapy options.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_110.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inadequate patient-centered care](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2021.md)
 * [Lack of novel treatment options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2189.md)
 * [Inadequate healthcare response](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_515.md)
+
+## Mitigations of this risk
+
+* [IoT in healthcare (IoMT)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_142.md)
 

@@ -2,9 +2,9 @@
 
 # __False-negative results__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Rapid Testing Methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2477.md)
+* [The proliferation of false and misleading information, misinformation, and inaccurate news during pandemics creates confusion and a lack of trust in reliable sources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_127.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [False and misleading information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2126.md)
 * [Negative consequences](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2865.md)
 * [Inaccurate results or bias](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3044.md)
+
+## Mitigations of this risk
+
+* [Rapid Testing Methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2477.md)
 

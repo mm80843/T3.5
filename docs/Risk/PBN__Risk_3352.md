@@ -2,9 +2,9 @@
 
 # __Water conservation__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Use of water-efficient appliances/fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2139.md)
+* [The challenges of urban water management include water contamination, waste management, inadequate water storage, and poor drainage.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_120.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Water](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_281.md)
 * [Water safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3395.md)
 * [Water and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2037.md)
+
+## Mitigations of this risk
+
+* [Use of water-efficient appliances/fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2139.md)
 

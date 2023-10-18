@@ -2,13 +2,9 @@
 
 # __Investment in gender equality__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Economic impact of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_386.md)
-
-## Property: has_MitigationBenefit
-
-* [Gender equality in the workforce](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_530.md)
+* [Promote sustainable development through infrastructure investments, training, diversification, financial support, and government partnerships.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_315.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Investment in peace and justice](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_542.md)
 * [Policy reforms and increased investment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_533.md)
 * [Incentivizing growth capital investment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_791.md)
+
+## Property: has_MitigationBenefit
+
+* [Gender equality in the workforce](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_530.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Economic impact of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_386.md)
 

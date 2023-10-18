@@ -2,9 +2,9 @@
 
 # __PC4: Personal comfort__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Design level adjustments on noise insulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_243.md)
+* [Limited physical/social distancing, thermal discomfort, poor lighting, and inadequate air quality negatively impact personal comfort.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_130.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_282.md)
 * [PC1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2217.md)
 * [Comfort and access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3360.md)
+
+## Mitigations of this risk
+
+* [Design level adjustments on noise insulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_243.md)
 

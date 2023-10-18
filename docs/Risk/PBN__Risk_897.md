@@ -2,9 +2,9 @@
 
 # __Confidentiality and risk management in telepsychiatry__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Implementation of confidentiality and risk management protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1238.md)
+* [Concerns about the protection of personal information, surveillance, data security, and risks of privacy infringement.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_108.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Privacy and security risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1245.md)
 * [Risk communication strategy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1160.md)
 * [Privacy interference](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3223.md)
+
+## Mitigations of this risk
+
+* [Implementation of confidentiality and risk management protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1238.md)
 

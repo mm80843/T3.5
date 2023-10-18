@@ -2,13 +2,9 @@
 
 # __Transparent and standardized WBE protocols__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of public trust](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_741.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced credibility and reputation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1020.md)
+* [Facilitate transparent communication, enabling reliable information sharing through standardized protocols and effective channels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_0.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Standardize data protocols, promote data sharing and collaboration.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1522.md)
 * [Use of WBE for tracking COVID-19 prevalence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1208.md)
 * [Adoption of standard protocols and interfaces, development of interoperability standards.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2782.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced credibility and reputation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1020.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of public trust](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_741.md)
 

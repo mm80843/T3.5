@@ -2,9 +2,9 @@
 
 # __mmwave__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Supply chain management for healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1947.md)
+* [Enhanced connectivity and diverse communication platforms enable the dissemination of reliable information and promote open communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_225.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Targeted messaging](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2136.md)
 * [targeted messaging](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_893.md)
 * [messaging tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1427.md)
+
+## This Technology enables the following mitigations
+
+* [Supply chain management for healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1947.md)
 

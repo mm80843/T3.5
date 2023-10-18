@@ -2,9 +2,9 @@
 
 # __Technological limitations, lack of productivity, isolation__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Remote Work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_459.md)
+* [The challenges of implementing a digital culture include lack of interoperability, missing information, emerging technologies, and technological limitations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_112.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Isolation and lack of human interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_167.md)
 * [Decreased productivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2750.md)
 * [Lack of physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1322.md)
+
+## Mitigations of this risk
+
+* [Remote Work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_459.md)
 

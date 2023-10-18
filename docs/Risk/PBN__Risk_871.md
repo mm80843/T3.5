@@ -2,8 +2,9 @@
 
 # __time spent at home during__
 
-## Mitigations of this risk
+## Category to which it belongs
 
+* [The challenges and consequences of the global pandemic include poor acoustics, noise pollution, food security, increase in inequality, waste, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_131.md)
 
 ## Closest similar item
 
@@ -17,4 +18,7 @@
 * [Poor indoor air quality and discomfort lead to increased time spent outdoors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3095.md)
 * [Time of recovery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3367.md)
 * [Comfort and access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3360.md)
+
+## Mitigations of this risk
+
 

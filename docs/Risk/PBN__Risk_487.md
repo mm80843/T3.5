@@ -2,9 +2,9 @@
 
 # __Social inequalities and income disparities__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Addressing socioeconomic factors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_687.md)
+* [The ramifications of global connectivity include economic instability, impacts of the pandemic, unemployment, poverty, reduced tourism revenue, and decline in public budgets.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_103.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Social and gender disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2641.md)
 * [Disparities in economic, political, and cultural contexts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2690.md)
 * [Social inequality and lifestyle](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2051.md)
+
+## Mitigations of this risk
+
+* [Addressing socioeconomic factors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_687.md)
 

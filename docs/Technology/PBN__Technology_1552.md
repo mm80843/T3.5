@@ -2,13 +2,13 @@
 
 # __mobile health apps__
 
+## Category to which it belongs
+
+* [A comprehensive list of mobile applications, including contact-tracing apps, mental health apps, mobile banking, and fitness tracking devices, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_197.md)
+
 ## Risks linked to this technology
 
 * [Population characteristics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2076.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Mobile Health Apps and Services](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_34.md)
 
 ## Closest similar item
 
@@ -23,11 +23,15 @@
 * [mobile fitness applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1074.md)
 * [Mobile fitness applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2208.md)
 
-## This Technology belongs to this TechGroup
-
-* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
-
 ## This Technology is identified by the following QID
 
 * [Q17069079](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q17069079.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Mobile Health Apps and Services](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_34.md)
+
+## This Technology belongs to this TechGroup
+
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
 

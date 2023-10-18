@@ -2,9 +2,9 @@
 
 # __Stocking up on PPE supplies, establishing protocols for PPE usage and disposal.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of Personal Protective Equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1954.md)
+* [Promote flexibility and resilience in supply chains through diversification, local production, and proactive strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_320.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implementing strict health and safety protocols, such as regular cleaning and disinfection, physical distancing, and use of personal protective equipment (PPE).](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2675.md)
 * [Use of personal protective equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_376.md)
 * [Personal Protective Equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_415.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of Personal Protective Equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1954.md)
 

@@ -2,9 +2,9 @@
 
 # __immunological memory__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Herd Immunity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_37.md)
+* [Advancements in molecular biology, diagnostics, vaccines, antiviral technologies, and disease surveillance for pathogen detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_223.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [vaccine education and communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1564.md)
 * [rapid testing and vaccine development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1624.md)
 * [antigen rapid tests (arts)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3198.md)
+
+## This Technology enables the following mitigations
+
+* [Herd Immunity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_37.md)
 

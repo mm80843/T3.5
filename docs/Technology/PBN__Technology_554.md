@@ -2,6 +2,10 @@
 
 # __data analysis tools__
 
+## Category to which it belongs
+
+* [Data-driven insights and analysis for decision making, anonymized data, transparency, visualization, and advanced techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_205.md)
+
 ## Risks linked to this technology
 
 * [Timing of community measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1353.md)
@@ -16,11 +20,6 @@
 * [Variations in prevalence of loneliness themes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1592.md)
 * [Exponential community spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1520.md)
 
-## This Technology belongs to this TechSubgroup
-
-* [Data Analytics and Modeling](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_2.md)
-* [Electronic Health Records and Data Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_8.md)
-
 ## Closest similar item
 
 * [data analysis software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1534.md)
@@ -34,14 +33,19 @@
 * [Research and data analysis technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2063.md)
 * [data integration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1899.md)
 
+## This Technology is identified by the following QID
+
+* [Q4550939](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4550939.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Data Analytics and Modeling](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_2.md)
+* [Electronic Health Records and Data Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_8.md)
+
 ## This Technology belongs to this TechGroup
 
 * [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
 * [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
-
-## This Technology is identified by the following QID
-
-* [Q4550939](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4550939.md)
 
 ## This Technology enables the following mitigations
 

@@ -2,9 +2,9 @@
 
 # __monetary incentives__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Incentives for green roof installation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1190.md)
+* [Maximizing economic efficiency while promoting financial stability through innovative strategies, investments, and partnerships at various levels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_195.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [financial relief](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1888.md)
 * [Financial relief](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2263.md)
 * [market competition](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3170.md)
+
+## This Technology enables the following mitigations
+
+* [Incentives for green roof installation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1190.md)
 

@@ -2,12 +2,9 @@
 
 # __Shortage of nursing staff__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Exchange process between hospitals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_468.md)
-* [Use of another isolation hospital](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_798.md)
-* [Changes in work schedules](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_799.md)
-* [Exchange process between hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_800.md)
+* [Healthcare systems overwhelmed with limited resources, shortage of personnel, and inadequate infrastructure face challenges in providing accessible and quality care.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_101.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [Labor shortage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2845.md)
 * [Loss of healthcare workforce](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_408.md)
 * [Increased workload for medical staff](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_998.md)
+
+## Mitigations of this risk
+
+* [Exchange process between hospitals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_468.md)
+* [Use of another isolation hospital](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_798.md)
+* [Changes in work schedules](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_799.md)
+* [Exchange process between hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_800.md)
 

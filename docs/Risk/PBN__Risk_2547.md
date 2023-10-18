@@ -2,9 +2,9 @@
 
 # __Heating surfaces and objects__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Heat treatment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_377.md)
+* [Limited physical/social distancing, thermal discomfort, poor lighting, and inadequate air quality negatively impact personal comfort.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_130.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Contaminated Surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3284.md)
 * [Excessive cooling/heating](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2430.md)
 * [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_254.md)
+
+## Mitigations of this risk
+
+* [Heat treatment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_377.md)
 

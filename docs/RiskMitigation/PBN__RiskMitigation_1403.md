@@ -2,13 +2,9 @@
 
 # __Reduction in perceived impact over time__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [COVID-19 impact on construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_987.md)
-
-## Property: has_MitigationBenefit
-
-* [Decreased disruptions and challenges](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1368.md)
+* [Strengthen collaborations, implement behavioral change, deploy social robots, and promote sustainable content consumption for community-based strategies, holistic research, and positive media representation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_316.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Focus on immediate consequences](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1234.md)
 * [Implement measures to decrease occupant density and increase social distancing.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1821.md)
 * [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_275.md)
+
+## Property: has_MitigationBenefit
+
+* [Decreased disruptions and challenges](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1368.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [COVID-19 impact on construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_987.md)
 

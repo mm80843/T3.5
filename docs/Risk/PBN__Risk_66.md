@@ -2,9 +2,9 @@
 
 # __Urban pests and disease vectors__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Implement rodent management program](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_78.md)
+* [The challenge lies in the lack of knowledge, limited consideration, and inherent limitations in representing disease transmission mechanisms, mobility patterns, and heterogeneity in macroscopic epidemiological models.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_97.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Spread of contagious diseases in built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1162.md)
 * [Spread of contagious diseases in densely populated areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1685.md)
 * [Vector-borne diseases (VBDs)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_937.md)
+
+## Mitigations of this risk
+
+* [Implement rodent management program](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_78.md)
 

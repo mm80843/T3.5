@@ -2,9 +2,9 @@
 
 # __improved screening measures on preprint servers__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q626251](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q626251.md)
+* [Enhanced diagnostic techniques and screening methods, including the development of rapid and reliable testing technologies and increased availability of diagnostic tools and kits.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_211.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [server infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4221.md)
 * [rapid and widespread testing capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1364.md)
 * [Rapid and widespread testing capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2398.md)
+
+## This Technology is identified by the following QID
+
+* [Q626251](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q626251.md)
 

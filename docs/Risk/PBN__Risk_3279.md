@@ -2,9 +2,9 @@
 
 # __Global Disease Diffusion__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Travel Restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_710.md)
+* [The dissemination of infectious diseases, characterized by outbreaks from various sources, inadequate preparedness, and insufficient reporting and understanding, poses a global threat.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_106.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of understanding of disease spread and patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3146.md)
 * [Disease containment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2461.md)
 * [Minimizing disease spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2560.md)
+
+## Mitigations of this risk
+
+* [Travel Restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_710.md)
 

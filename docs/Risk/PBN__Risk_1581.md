@@ -2,25 +2,9 @@
 
 # __Management__
 
-## Property: has_RiskHealth
+## Category to which it belongs
 
-* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Description of the risk
-
-Difficulty in managing workforce and compliance with SOP guidelines
-
-## Property: has_RiskType
-
-* [political](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_1.md)
-
-## Articles mentionning the risk
-
-* [Mechanisms for addressing the impact of COVID-19 on infrastructure projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_115.md)
+* [The challenges and consequences of the global pandemic include poor acoustics, noise pollution, food security, increase in inequality, waste, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_131.md)
 
 ## Closest similar item
 
@@ -35,31 +19,51 @@ Difficulty in managing workforce and compliance with SOP guidelines
 * [Supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_993.md)
 * [Administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2143.md)
 
-## People affected by this risk
+## Description of the risk
 
-* [contractors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_179.md)
+Difficulty in managing workforce and compliance with SOP guidelines
+
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Property: has_RiskHealth
+
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
 
 ## Property: has_RiskISO_Impact
 
+
+## Property: has_RiskISO_Purpose
+
+
+## Mitigations of this risk
+
+* [Provide clear SOP guidelines and assist with management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2113.md)
+
+## Name of the risk
+
+Uncertainty in operations and increased costs for contractors
 
 ## Stakeholders who can mitigate this risk
 
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 * [contracting clients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1018.md)
 
-## Name of the risk
+## Articles mentionning the risk
 
-Uncertainty in operations and increased costs for contractors
+* [Mechanisms for addressing the impact of COVID-19 on infrastructure projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_115.md)
 
-## Mitigations of this risk
+## People affected by this risk
 
-* [Provide clear SOP guidelines and assist with management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2113.md)
-
-## Property: has_RiskISO_Purpose
-
+* [contractors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_179.md)
 
 ## Technologies linked to the risk
 
 * [access control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_164.md)
 * [officer assistance at project sites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_885.md)
+
+## Property: has_RiskType
+
+* [political](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_1.md)
 

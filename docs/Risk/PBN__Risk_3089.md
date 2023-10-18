@@ -2,9 +2,9 @@
 
 # __Increased disease prevalence near bodies of water__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Site selection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1474.md)
+* [The challenge lies in the lack of knowledge, limited consideration, and inherent limitations in representing disease transmission mechanisms, mobility patterns, and heterogeneity in macroscopic epidemiological models.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_97.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Airborne transmission of diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2787.md)
 * [Airborne transmission of disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2766.md)
 * [Water quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_714.md)
+
+## Mitigations of this risk
+
+* [Site selection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1474.md)
 

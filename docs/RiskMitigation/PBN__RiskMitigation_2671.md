@@ -2,9 +2,9 @@
 
 # __Implement interventions and programs to promote flourishing and well-being.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Non-flourishing individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2041.md)
+* [Promote mental well-being through access to resources, support services, and strategies for coping with stress.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_313.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Promote healthy habits through education and awareness campaigns, provide support systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1942.md)
 * [Increase access to mental health services, promote mental health awareness and support, provide coping mechanisms and resources.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2913.md)
 * [Promoting social connections, providing psychosocial support, mental health services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2336.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Non-flourishing individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2041.md)
 

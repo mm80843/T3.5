@@ -2,9 +2,9 @@
 
 # __touchless household technologies__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q581105](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q581105.md)
+* [Technological advancements encompass a wide range of innovations, such as blockchain, touchless, renewable energy, and communication technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Touchless interfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2755.md)
 * [touchless interfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1330.md)
 * [contactless technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1556.md)
+
+## This Technology is identified by the following QID
+
+* [Q581105](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q581105.md)
 

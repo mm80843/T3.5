@@ -2,9 +2,9 @@
 
 # __Decreased hospital admissions for heart diseases__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Implementation of NPIs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_119.md)
+* [Healthcare systems overwhelmed with limited resources, shortage of personnel, and inadequate infrastructure face challenges in providing accessible and quality care.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_101.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Decreased physical and mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2894.md)
 * [Inadequate healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1488.md)
 * [Increased risk of sudden cardiac death](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2577.md)
+
+## Mitigations of this risk
+
+* [Implementation of NPIs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_119.md)
 

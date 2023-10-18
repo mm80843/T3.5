@@ -2,13 +2,9 @@
 
 # __Promoting trust and countering misinformation__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Spread of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_396.md)
-
-## Property: has_MitigationBenefit
-
-* [Providing trustworthy evidence](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_541.md)
+* [Promote accurate and reliable information, combat misinformation, and increase media and public health literacy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_343.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Promote reliable and verifiable sources of information; educate the public on how to critically evaluate information; combat misinformation through fact-checking and debunking.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2605.md)
 * [Improving transparency and communication, providing accurate and timely information, addressing concerns and misinformation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2102.md)
 * [Promote fact-checking and accuracy in sharing information, educate the public on reliable sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2413.md)
+
+## Property: has_MitigationBenefit
+
+* [Providing trustworthy evidence](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_541.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_396.md)
 

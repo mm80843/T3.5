@@ -2,9 +2,9 @@
 
 # __Disruption of Work and Education__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Remote Work and Distance Learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1714.md)
+* [The impact of various factors on the workforce, including job insecurity, changes in work schedules, unemployment, and decreased productivity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_4.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Economic and social disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1522.md)
 * [Interrupted education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1630.md)
 * [Interrupted education for children and adults](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_780.md)
+
+## Mitigations of this risk
+
+* [Remote Work and Distance Learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1714.md)
 

@@ -2,9 +2,9 @@
 
 # __flexible scheduling__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q2271896](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2271896.md)
+* [Design and construction professionals use innovative techniques and strategies to create adaptable, sustainable, and inclusive buildings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_217.md)
 
 ## Risks linked to this technology
 
@@ -23,4 +23,8 @@
 * [time management techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1405.md)
 * [Time management techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2038.md)
 * [promotion of flexible visiting hours](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1822.md)
+
+## This Technology is identified by the following QID
+
+* [Q2271896](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2271896.md)
 

@@ -2,13 +2,9 @@
 
 # __Regular disinfection and hygiene practices__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Making social spaces safe and viable](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_266.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved safety and hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_328.md)
+* [Implement rigorous cleaning and disinfection measures, including the use of antimicrobial materials and advanced technologies, to maintain a safe and hygienic environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_2.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implement proper disinfection measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2884.md)
 * [Implement improved cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_604.md)
 * [Regular maintenance and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2876.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved safety and hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_328.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Making social spaces safe and viable](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_266.md)
 

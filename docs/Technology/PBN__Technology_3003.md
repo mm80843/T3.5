@@ -2,9 +2,9 @@
 
 # __webcam-enabled computers__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Virtual clinics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_151.md)
+* [Enhanced monitoring and surveillance technologies enable real-time tracking, video conferencing, and improved detection methods.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_214.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [ip surveillance cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4129.md)
 * [infrared cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4087.md)
 * [video surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3661.md)
+
+## This Technology enables the following mitigations
+
+* [Virtual clinics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_151.md)
 

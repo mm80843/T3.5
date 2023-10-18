@@ -2,9 +2,9 @@
 
 # __Impact of extended stays in indoor environments on human health__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Designing personalized indoor controls at room and patient levels](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_546.md)
+* [Limited physical/social distancing, thermal discomfort, poor lighting, and inadequate air quality negatively impact personal comfort.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_130.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Exposure to greenspace and mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_173.md)
 * [Transmission of infectious diseases in indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_943.md)
 * [Indoor Environmental Quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3253.md)
+
+## Mitigations of this risk
+
+* [Designing personalized indoor controls at room and patient levels](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_546.md)
 

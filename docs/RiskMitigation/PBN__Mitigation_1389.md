@@ -2,10 +2,9 @@
 
 # __Improved hand hygiene__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_412.md)
-* [handwashing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_830.md)
+* [Enhanced focus on cleanliness, including hand and respiratory hygiene, to prevent infection and improve personal wellbeing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_162.md)
 
 ## Closest similar item
 
@@ -20,14 +19,19 @@
 * [Hand washing prevention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1470.md)
 * [Improved hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2381.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Promotes regular hand hygiene practices, reducing the likelihood of transmission through contaminated hands
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Effects of non-pharmaceutical interventions against COVID-19 on the incidence of other diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_30.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_412.md)
+* [handwashing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_830.md)
 

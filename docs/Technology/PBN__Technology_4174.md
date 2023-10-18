@@ -2,9 +2,9 @@
 
 # __smart parking technology__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Smart Rotary Car Parking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1966.md)
+* [Technological advancements encompass a wide range of innovations, such as blockchain, touchless, renewable energy, and communication technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [smart home technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_351.md)
 * [smart city technologies for urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_13.md)
 * [Smart home technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2850.md)
+
+## This Technology enables the following mitigations
+
+* [Smart Rotary Car Parking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1966.md)
 

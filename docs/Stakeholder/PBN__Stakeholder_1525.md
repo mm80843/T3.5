@@ -2,9 +2,9 @@
 
 # __individuals attending nan events__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_571.md)
+* [A diverse range of individuals, including citizens, pedestrians, people with disabilities, and those in crowded environments, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_368.md)
 
 ## Closest similar item
 
@@ -17,4 +17,8 @@
 * [event organizers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_862.md)
 * [nan iot industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1402.md)
 * [funeral attendees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_235.md)
+
+## Risk affecting this stakeholder
+
+* [Overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_571.md)
 

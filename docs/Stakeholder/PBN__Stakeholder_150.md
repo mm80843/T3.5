@@ -2,9 +2,13 @@
 
 # __community organizations__
 
-## This Stakeholder belongs to this StakeholderGroup
+## This Stakeholder can get these Benefits from mitigation measures
 
-* [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
+* [Stronger communities and better public health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_301.md)
+
+## Category to which it belongs
+
+* [A diverse array of entities dedicated to various industries, causes, or services, promoting growth and welfare in society.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_369.md)
 
 ## Closest similar item
 
@@ -18,19 +22,6 @@
 * [community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2860.md)
 * [community mobilization efforts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2861.md)
 * [community engagement initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2862.md)
-
-## Risk affecting this stakeholder
-
-* [Limited learning from public health crises](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_647.md)
-* [Lack of community connections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1293.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Community Groups/Organizations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_134.md)
-
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Stronger communities and better public health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_301.md)
 
 ## Risks that can be mitigated by this stakeholder
 
@@ -96,4 +87,17 @@
 * [Dependence on non-contact interaction activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2327.md)
 * [Inequitable access to virtual community spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2326.md)
 * [Frustration and boredom](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2056.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Community Groups/Organizations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_134.md)
+
+## Risk affecting this stakeholder
+
+* [Limited learning from public health crises](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_647.md)
+* [Lack of community connections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1293.md)
 

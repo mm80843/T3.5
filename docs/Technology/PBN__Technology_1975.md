@@ -2,9 +2,9 @@
 
 # __data analysis algorithms for hotspot detection__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q5912474](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5912474.md)
+* [Data-driven insights and analysis for decision making, anonymized data, transparency, visualization, and advanced techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_205.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Advanced data analysis algorithms and machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2098.md)
 * [Advanced data analysis and modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2660.md)
 * [Internet connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2849.md)
+
+## This Technology is identified by the following QID
+
+* [Q5912474](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5912474.md)
 

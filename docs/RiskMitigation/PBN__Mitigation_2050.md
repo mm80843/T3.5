@@ -2,8 +2,9 @@
 
 # __Patrol separately__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Enhancing safety and efficiency through comprehensive measures, technology integration, diverse environments, and behavioral adjustments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_157.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Curfew part one](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1592.md)
 * [Staff Compartmentalization within Zones/Cohorts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_866.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Contagious spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3333.md)
-
 ## Property: has_MitigationPrinciple
 
 Patrol officers in separate vehicles to reduce close contact and potential transmission of contagious diseases
 
+## Risks possibly mitigated by this Mitigation
+
+* [Contagious spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3333.md)
+
 ## Property: has_MitigationSource
 
 * [Reframe how to serve your community in the midst of a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_53.md)
+
+## This Mitigation is enabled by the following technologies
+
 

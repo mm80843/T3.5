@@ -2,9 +2,9 @@
 
 # __genetic modification technologies__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Genetic manipulation of mosquitoes (Gene drive)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2392.md)
+* [Technological advancements encompass a wide range of innovations, such as blockchain, touchless, renewable energy, and communication technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [biophilic design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3940.md)
 * [incorporate biophilic design principles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1378.md)
 * [such as crispr/cas9](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4463.md)
+
+## This Technology enables the following mitigations
+
+* [Genetic manipulation of mosquitoes (Gene drive)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2392.md)
 

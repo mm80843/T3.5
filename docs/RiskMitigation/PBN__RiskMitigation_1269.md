@@ -2,13 +2,9 @@
 
 # __Disinfecting masks before discarding__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Contamination of object surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_921.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction in transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1258.md)
+* [Implement rigorous cleaning and disinfection measures, including the use of antimicrobial materials and advanced technologies, to maintain a safe and hygienic environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_2.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Preprocessing disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_266.md)
 * [Implement proper disinfection measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2884.md)
 * [Disinfection of air](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3190.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction in transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1258.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Contamination of object surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_921.md)
 

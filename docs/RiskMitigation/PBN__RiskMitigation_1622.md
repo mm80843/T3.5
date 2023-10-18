@@ -2,9 +2,9 @@
 
 # __Use UV-C disinfection as an adjunct to standard cleaning practices, not as a replacement.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Neglecting standard cleaning practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1170.md)
+* [Implement rigorous cleaning and disinfection measures, including the use of antimicrobial materials and advanced technologies, to maintain a safe and hygienic environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_2.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Increased cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_193.md)
 * [Regular disinfection and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_324.md)
 * [Develop and implement effective disinfection protocols, invest in environmentally friendly disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1596.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Neglecting standard cleaning practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1170.md)
 

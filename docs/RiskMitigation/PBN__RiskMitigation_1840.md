@@ -2,10 +2,9 @@
 
 # __Improve access to HIV prevention and testing services, promote awareness and education on safer sex practices__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [High HIV prevalence in women](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1345.md)
-* [High HIV prevalence in men](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1346.md)
+* [Promote understanding and knowledge sharing through educational campaigns, dissemination of accurate information, and public awareness initiatives.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_318.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Implement public awareness campaigns, provide education on disease prevention and transmission](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2201.md)
 * [Improved access to healthcare, public awareness and education, targeted interventions for vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2682.md)
 * [Promote awareness and education about preventive measures, enforce guidelines and restrictions, and encourage responsible behavior and adherence to protocols.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1593.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [High HIV prevalence in women](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1345.md)
+* [High HIV prevalence in men](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1346.md)
 

@@ -2,9 +2,9 @@
 
 # __inclusive data sharing initiatives__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q5227350](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5227350.md)
+* [Data-driven insights and analysis for decision making, anonymized data, transparency, visualization, and advanced techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_205.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [data sharing platforms and policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1125.md)
 * [digital inclusion initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_700.md)
 * [Digital inclusion initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2133.md)
+
+## This Technology is identified by the following QID
+
+* [Q5227350](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5227350.md)
 

@@ -2,11 +2,9 @@
 
 # __Commuters/Cyclists__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [commuters](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_532.md)
-* [cyclists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_482.md)
-* [commuter](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2547.md)
+* [People living or visiting areas, with specific traits, who travel by various means and possess specialized knowledge.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_254.md)
 
 ## Closest similar item
 
@@ -20,4 +18,10 @@
 * [Workers/Professionals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_47.md)
 * [Healthcare Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_45.md)
 * [Rural Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_80.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [commuters](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_532.md)
+* [cyclists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_482.md)
+* [commuter](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2547.md)
 

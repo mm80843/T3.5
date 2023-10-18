@@ -2,9 +2,9 @@
 
 # __legal departments__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Legal and regulatory](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2132.md)
+* [Foreign nationals residing in or visiting various destinations for tourism, with a focus on travelers during the pandemic and the industries reliant on tourism, such as hotels, tourism operators, and tourism boards.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_380.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [health department](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1451.md)
 * [safety department](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1454.md)
 * [legal advisors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1408.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Legal and regulatory](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2132.md)
 

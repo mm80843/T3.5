@@ -2,9 +2,9 @@
 
 # __video and audio surveillance solutions__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Video and audio devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1217.md)
+* [Enhanced monitoring and surveillance technologies enable real-time tracking, video conferencing, and improved detection methods.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_214.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [surveillance system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3926.md)
 * [surveillance technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3635.md)
 * [improved surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1686.md)
+
+## This Technology enables the following mitigations
+
+* [Video and audio devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1217.md)
 

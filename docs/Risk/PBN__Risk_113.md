@@ -2,9 +2,9 @@
 
 # __Increase in chronic diseases from sedentary lifestyles__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Incorporating exercise opportunities in design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_137.md)
+* [The intersection of human activity and health, integrating databases, limited healthcare access, sedentary lifestyles, neglecting public health requirements, and disparities in urban design contribute to public health concerns.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_116.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Impact of control measures on diet and physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_283.md)
 * [High prevalence of obesity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_622.md)
 * [Link between human activity and health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_46.md)
+
+## Mitigations of this risk
+
+* [Incorporating exercise opportunities in design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_137.md)
 

@@ -2,9 +2,9 @@
 
 # __advanced antiviral technologies__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q40207875](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q40207875.md)
+* [Advancements in molecular biology, diagnostics, vaccines, antiviral technologies, and disease surveillance for pathogen detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_223.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [antiretroviral therapy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2809.md)
 * [Pathogen reduction technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2440.md)
 * [pathogen reduction technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1535.md)
+
+## This Technology is identified by the following QID
+
+* [Q40207875](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q40207875.md)
 

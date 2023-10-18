@@ -2,9 +2,9 @@
 
 # __Routine cleaning__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [sodium dichloroisocyanurate](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3909.md)
+* [Promotion and implementation of rigorous hygiene protocols and use of sanitary facilities and materials.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_166.md)
 
 ## Closest similar item
 
@@ -19,14 +19,18 @@
 * [Enhanced Cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1224.md)
 * [Increased Cleaning Protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1757.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Regular cleaning of the patient's room, particularly high-touch areas, using a disinfectant to reduce the level of environmental contamination
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Air, Surface Environmental, and Personal Protective Equipment Contamination by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) From a Symptomatic Patient](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_264.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [sodium dichloroisocyanurate](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3909.md)
 

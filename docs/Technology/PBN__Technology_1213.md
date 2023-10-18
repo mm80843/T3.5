@@ -2,9 +2,9 @@
 
 # __integrated pest management__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q525309](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q525309.md)
+* [Advancements in molecular biology, diagnostics, vaccines, antiviral technologies, and disease surveillance for pathogen detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_223.md)
 
 ## Risks linked to this technology
 
@@ -23,4 +23,8 @@
 * [planting insect-pollinated plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3700.md)
 * [insecticide-treated screens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3667.md)
 * [mosquito control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2963.md)
+
+## This Technology is identified by the following QID
+
+* [Q525309](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q525309.md)
 

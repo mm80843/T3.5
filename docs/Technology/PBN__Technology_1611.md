@@ -2,9 +2,9 @@
 
 # __telemedicine for mental health support__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q46994](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q46994.md)
+* [Virtual healthcare and remote communication technology including telemedicine, telehealth platforms, teletherapy, teleconferencing, and tele-operation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_202.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [telemedicine technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_954.md)
 * [Telemedicine technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2276.md)
 * [telehealth services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_19.md)
+
+## This Technology is identified by the following QID
+
+* [Q46994](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q46994.md)
 

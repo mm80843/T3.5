@@ -2,18 +2,9 @@
 
 # __Communication and Data Sharing__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_135.md)
-* [communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5.md)
-* [digital platforms for resource allocation and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_15.md)
-* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2101.md)
-* [Encryption technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2040.md)
-* [collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_151.md)
-* [Improved communication and data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2056.md)
-* [Improved communication and decision-making tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2057.md)
-* [diversified communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_580.md)
-* [cloud computing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1232.md)
+* [Efficient systems for exchanging, managing, storing, recording, and sharing information and facilitating collaboration and validation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_12.md)
 
 ## Closest similar item
 
@@ -27,4 +18,17 @@
 * [Communication and Collaboration Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_111.md)
 * [Communication and Coordination Platforms](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_26.md)
 * [Communication Technologies and Channels](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_27.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_135.md)
+* [communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5.md)
+* [digital platforms for resource allocation and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_15.md)
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2101.md)
+* [Encryption technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2040.md)
+* [collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_151.md)
+* [Improved communication and data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2056.md)
+* [Improved communication and decision-making tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2057.md)
+* [diversified communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_580.md)
+* [cloud computing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1232.md)
 

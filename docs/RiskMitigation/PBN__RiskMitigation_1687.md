@@ -2,9 +2,9 @@
 
 # __Improve insulation, use energy management systems, and implement efficient HVAC systems__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Inadequate thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_342.md)
+* [Optimize indoor environments, regulate temperature and humidity, control air quality, and extend HVAC system operations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_341.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Encourage energy efficiency practices, educate households on thermostat settings and HVAC maintenance, and promote the use of energy-efficient HVAC systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2095.md)
 * [Improve building ventilation systems and air circulation, ensure proper maintenance of HVAC systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2549.md)
 * [Optimized operation of HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1027.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inadequate thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_342.md)
 

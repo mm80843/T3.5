@@ -2,9 +2,9 @@
 
 # __Integration of health and immigration databases__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Big data analytics for case identification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_99.md)
+* [The intersection of human activity and health, integrating databases, limited healthcare access, sedentary lifestyles, neglecting public health requirements, and disparities in urban design contribute to public health concerns.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_116.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of digital health infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1985.md)
 * [Disruption of immigrant employment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1845.md)
 * [Need for common standards in health data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_817.md)
+
+## Mitigations of this risk
+
+* [Big data analytics for case identification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_99.md)
 

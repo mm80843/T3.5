@@ -2,9 +2,15 @@
 
 # __teachers__
 
-## This Stakeholder belongs to this StakeholderGroup
+## This Stakeholder can get these Benefits from mitigation measures
 
-* [Education](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_1.md)
+* [Reduction in infection risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_184.md)
+* [Reduction in transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_262.md)
+* [Secure environment for online education](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1057.md)
+
+## Category to which it belongs
+
+* [Experts from various fields including research, risk assessment, education, science, HVAC, and IT.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_356.md)
 
 ## Closest similar item
 
@@ -19,6 +25,14 @@
 * [education authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1498.md)
 * [schools](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_366.md)
 
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Education](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_1.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Academic Roles](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_11.md)
+
 ## Risk affecting this stakeholder
 
 * [Interrupted education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1630.md)
@@ -26,14 +40,4 @@
 * [Disruption in education system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1811.md)
 * [School closures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1887.md)
 * [Schoolchildren and children in day care](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1354.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Academic Roles](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_11.md)
-
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Reduction in infection risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_184.md)
-* [Reduction in transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_262.md)
-* [Secure environment for online education](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1057.md)
 

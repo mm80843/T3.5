@@ -2,9 +2,9 @@
 
 # __decrease number of workers__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_534.md)
+* [Maximizing economic efficiency while promoting financial stability through innovative strategies, investments, and partnerships at various levels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_195.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [employee training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_483.md)
 * [wage subsidies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4379.md)
 * [increased resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4448.md)
+
+## This Technology enables the following mitigations
+
+* [Administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_534.md)
 

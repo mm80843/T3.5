@@ -2,9 +2,9 @@
 
 # __Implementing strict hygiene protocols, promoting social distancing, providing personal protective equipment__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Risk of workplace transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1479.md)
+* [Promote and enforce hygiene practices, implement sanitation measures, and provide education on proper handwashing techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_332.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implementing strict hygiene protocols, social distancing measures, and vaccination programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2451.md)
 * [Implementing strict social distancing measures, promoting proper hygiene practices, and widespread testing and contact tracing.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2838.md)
 * [Implementing safety measures, promoting hygiene practices, and providing accurate information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2207.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Risk of workplace transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1479.md)
 

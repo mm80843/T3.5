@@ -2,9 +2,9 @@
 
 # __Improved peer review process, fact-checking__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Misleading peer-reviewed publications](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1518.md)
+* [Promote accurate and reliable information, combat misinformation, and increase media and public health literacy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_343.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Dissemination of accurate information through reliable sources, fact-checking of information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3092.md)
 * [Ensuring critical evaluation of information, considering multiple sources, promoting evidence-based decision making](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2101.md)
 * [Promote fact-checking and accuracy in sharing information, educate the public on reliable sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2413.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Misleading peer-reviewed publications](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1518.md)
 

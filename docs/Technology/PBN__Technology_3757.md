@@ -2,9 +2,9 @@
 
 # __digital twin__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Building Information Modelling (BIM)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1234.md)
+* [The digital revolution encompasses various aspects, from online promotion to contactless payment systems and virtual learning platforms.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_190.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [digital services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4168.md)
 * [digital integration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4417.md)
 * [digitalisation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3967.md)
+
+## This Technology enables the following mitigations
+
+* [Building Information Modelling (BIM)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1234.md)
 

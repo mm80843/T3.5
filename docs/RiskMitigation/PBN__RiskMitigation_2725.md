@@ -2,9 +2,9 @@
 
 # __Improve contact tracing systems, increase testing capacity, utilize digital tools for contact tracing__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Ineffective contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2079.md)
+* [Promote comprehensive testing and tracing, prioritize vulnerable populations, reduce diagnosis-to-surgery time, recognize stress symptoms, and improve testing accuracy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_347.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Contact tracing and monitoring technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_537.md)
 * [Increase testing capacity, implement contact tracing strategies, invest in surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2274.md)
 * [Develop and utilize digital contact tracing tools, emphasize privacy and security of data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2287.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Ineffective contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2079.md)
 

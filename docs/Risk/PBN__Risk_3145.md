@@ -2,9 +2,9 @@
 
 # __Knowledge gap__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Employee training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1570.md)
+* [Fragmented global governance, reduced aid, ethical concerns, educational disruption, impacts on peace and justice, and inadequate coordination between stakeholders.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_115.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of Knowledge and Awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3229.md)
 * [Data gaps, limited research effect](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2623.md)
 * [Low public knowledge and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2009.md)
+
+## Mitigations of this risk
+
+* [Employee training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1570.md)
 

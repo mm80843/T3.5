@@ -2,9 +2,9 @@
 
 # __Provide reliable and constant ICT connections__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [PC1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2217.md)
+* [Facilitate transparent communication, enabling reliable information sharing through standardized protocols and effective channels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_0.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Reliable electrical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_614.md)
 * [Centralized communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1443.md)
 * [Regular updates and validation of data sources, collaboration with reliable sources for real-time information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3001.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [PC1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2217.md)
 

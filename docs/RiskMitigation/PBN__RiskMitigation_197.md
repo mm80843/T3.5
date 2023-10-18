@@ -2,13 +2,9 @@
 
 # __Improve cold chain logistics__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Limited vaccine storage capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_154.md)
-
-## Property: has_MitigationBenefit
-
-* [Optimized storage capacity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_211.md)
+* [Implementing a comprehensive package of measures to ensure the smooth functioning and safety of essential services and activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_6.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Build redundancies in supply chains and critical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2817.md)
 * [Implement alternative delivery methods, adapt supply chains](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2057.md)
 * [Strengthen supply chain resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1041.md)
+
+## Property: has_MitigationBenefit
+
+* [Optimized storage capacity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_211.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limited vaccine storage capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_154.md)
 

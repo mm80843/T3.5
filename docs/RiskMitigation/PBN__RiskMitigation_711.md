@@ -2,13 +2,9 @@
 
 # __Adoption of safety measures__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Client confidence in project completion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_501.md)
-
-## Property: has_MitigationBenefit
-
-* [Client satisfaction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_714.md)
+* [Enforce safety measures, promote responsible behavior, utilize PPE, and prioritize risk prevention to ensure adequate protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_342.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Risk prevention measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_412.md)
 * [Focus on safety and security issues](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_254.md)
 * [Implement safety protocols, provide protective equipment, increase training and awareness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1532.md)
+
+## Property: has_MitigationBenefit
+
+* [Client satisfaction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_714.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Client confidence in project completion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_501.md)
 

@@ -2,9 +2,9 @@
 
 # __Conduct validation studies to compare social media data with external data sources for validation and reliability__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Reliability of social media data for research](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1591.md)
+* [Promote accurate and reliable information, combat misinformation, and increase media and public health literacy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_343.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Verify sources and rely on accurate, evidence-based information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2044.md)
 * [Monitoring social media](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_694.md)
 * [Provide accurate and evidence-based information through trusted sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2371.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Reliability of social media data for research](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1591.md)
 

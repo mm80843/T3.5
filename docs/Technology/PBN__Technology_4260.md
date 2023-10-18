@@ -2,9 +2,9 @@
 
 # __water usage reduction__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Use of water-efficient appliances/fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2139.md)
+* [Improvements in wastewater, waste management, sanitation, water purification, and plumbing technologies aim for sustainable and efficient infrastructure development.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_234.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [improved water treatment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_998.md)
 * [Improved water treatment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2791.md)
 * [water treatment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_975.md)
+
+## This Technology enables the following mitigations
+
+* [Use of water-efficient appliances/fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2139.md)
 

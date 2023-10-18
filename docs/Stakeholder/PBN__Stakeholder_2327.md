@@ -2,13 +2,9 @@
 
 # __individual in charge of building maintenance and operation__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q57260671](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q57260671.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Individuals involved in the design, construction, management, and occupation of various types of buildings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_367.md)
 
 ## Closest similar item
 
@@ -26,4 +22,12 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Work and Occupational Context](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_108.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q57260671](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q57260671.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 

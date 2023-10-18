@@ -2,13 +2,17 @@
 
 # __residents of residential environments__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q18587469](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q18587469.md)
+* [People residing in densely populated districts or neighborhoods, including those in high-risk, low-income, or underserved areas, as well as visitors and tenants in urban locations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_384.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
+* [Recontamination of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_865.md)
+* [Limited efficacy against specific viruses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1512.md)
+* [Inefficacy of liquid disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1510.md)
+* [Contamination of fomites](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1509.md)
+* [Insufficient self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1511.md)
 
 ## Closest similar item
 
@@ -23,15 +27,15 @@
 * [apartment residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_356.md)
 * [residents of inadequately designed housing](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1161.md)
 
-## Risk affecting this stakeholder
-
-* [Recontamination of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_865.md)
-* [Limited efficacy against specific viruses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1512.md)
-* [Inefficacy of liquid disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1510.md)
-* [Contamination of fomites](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1509.md)
-* [Insufficient self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1511.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Residents](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_72.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q18587469](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q18587469.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
 

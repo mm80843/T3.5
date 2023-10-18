@@ -2,9 +2,9 @@
 
 # __communities near wastewater treatment plants__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Spread of COVID-19 through wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_576.md)
+* [Individuals and organizations involved in the management and treatment of water, waste, and wastewater.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_397.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [wastewater treatment plant worker](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2686.md)
 * [wastewater treatment authority](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2679.md)
 * [wastewater treatment plant operator](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2705.md)
+
+## Risk affecting this stakeholder
+
+* [Spread of COVID-19 through wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_576.md)
 

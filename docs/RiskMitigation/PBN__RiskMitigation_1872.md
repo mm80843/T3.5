@@ -2,9 +2,9 @@
 
 # __Enhance ventilation systems, increase fresh air intake, use air purifiers, and wear masks.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Transmission through aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1376.md)
+* [Enhance airflow, increase fresh air intake, and optimize ventilation systems to improve air quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_329.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Improve natural ventilation, use control systems for windows and air vents, increase air circulation.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2553.md)
 * [Improve indoor ventilation systems, increase air exchange rates, and use of air purifiers or filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2259.md)
 * [Improve ventilation systems, use HEPA filters, maintain proper humidity levels](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2143.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Transmission through aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1376.md)
 

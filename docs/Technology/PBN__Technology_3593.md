@@ -2,10 +2,9 @@
 
 # __social capital__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Relational Capability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1023.md)
-* [Access to Social Capital](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1037.md)
+* [A range of community-centered initiatives, programs, and strategies foster participation, collaboration, and social support for diverse groups.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_236.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [online social platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1404.md)
 * [social networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1537.md)
 * [Social Networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4545.md)
+
+## This Technology enables the following mitigations
+
+* [Relational Capability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1023.md)
+* [Access to Social Capital](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1037.md)
 

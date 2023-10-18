@@ -2,9 +2,9 @@
 
 # __Vulnerability of high-density districts to Covid-19__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Zone-based lockdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_36.md)
+* [The far-reaching consequences of COVID-19 include its transmission through various settings, impact on urban areas, and scarcity of resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Spread of COVID-19 on construction sites](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_771.md)
 * [Spatial spillover effects of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_140.md)
 * [Impact of Covid-19 on streets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_30.md)
+
+## Mitigations of this risk
+
+* [Zone-based lockdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_36.md)
 

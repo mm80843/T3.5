@@ -2,13 +2,9 @@
 
 # __Fiscal policy measures__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Economic and social impact of pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_701.md)
-
-## Property: has_MitigationBenefit
-
-* [Financial support](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_794.md)
+* [Promote sustainable development through infrastructure investments, training, diversification, financial support, and government partnerships.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_315.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Policy reforms and increased investment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_533.md)
 * [Monitoring and evaluating policy response](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_555.md)
 * [Continuation of effective measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_97.md)
+
+## Property: has_MitigationBenefit
+
+* [Financial support](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_794.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Economic and social impact of pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_701.md)
 

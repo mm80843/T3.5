@@ -2,9 +2,9 @@
 
 # __Negative pressure isolation rooms__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [negative pressure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1746.md)
+* [Spatial separation, closure, containment, barrier implementation, and control of movements to prevent the spread of infection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_150.md)
 
 ## Closest similar item
 
@@ -19,14 +19,18 @@
 * [Vertical Isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1917.md)
 * [Airborne infection isolation rooms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1518.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Isolating infected individuals in rooms with negative air pressure to prevent the spread of airborne particles from the room
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [COVID-19 and its Modes of Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_225.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [negative pressure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1746.md)
 

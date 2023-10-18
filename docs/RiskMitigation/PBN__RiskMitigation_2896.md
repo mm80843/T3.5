@@ -2,9 +2,9 @@
 
 # __Improve living conditions, access to natural light and ventilation__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [General health risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2224.md)
+* [Optimize indoor environment by maximizing natural light, ventilation, and incorporating efficient lighting systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_348.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Improve ventilation systems, increase outdoor air intake, use air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2477.md)
 * [Proper ventilation, air filtration, natural daylighting, indoor plantings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3080.md)
 * [Increasing ventilation rates, using natural ventilation, regularly maintaining and cleaning ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2387.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [General health risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2224.md)
 

@@ -2,13 +2,9 @@
 
 # __Develop predictive models using SIR and vaccination data__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Unreliable prediction of pandemic evolution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_157.md)
-
-## Property: has_MitigationBenefit
-
-* [Accurate pandemic forecasting](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_214.md)
+* [Maximizing vaccine efficacy and ensuring equitable access through research, development, distribution, and targeted outreach.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_337.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Design and implement mass vaccination clinics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_198.md)
 * [Vaccine development](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_598.md)
 * [Ensuring global coverage of vaccination](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_726.md)
+
+## Property: has_MitigationBenefit
+
+* [Accurate pandemic forecasting](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_214.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Unreliable prediction of pandemic evolution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_157.md)
 

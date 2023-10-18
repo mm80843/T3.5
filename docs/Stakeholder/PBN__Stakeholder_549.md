@@ -2,13 +2,13 @@
 
 # __vulnerable population__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q3376054](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3376054.md)
+* [A diverse array of groups and individuals, encompassing all segments of society and the natural world.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_363.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Contagious disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1021.md)
 
 ## Closest similar item
 
@@ -23,11 +23,15 @@
 * [vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_115.md)
 * [vulnerable households](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_254.md)
 
-## Risk affecting this stakeholder
-
-* [Contagious disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1021.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Vulnerable Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_82.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q3376054](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3376054.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 

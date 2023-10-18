@@ -2,9 +2,9 @@
 
 # __multimodal devices__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Multimodal and Multiplexed Measurements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_165.md)
+* [A comprehensive range of advanced, interconnected devices that offer efficiency, convenience, and enhanced functionality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_238.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Digital devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2653.md)
 * [technology devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3579.md)
 * [digital and smart devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3269.md)
+
+## This Technology enables the following mitigations
+
+* [Multimodal and Multiplexed Measurements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_165.md)
 

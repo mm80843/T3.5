@@ -2,9 +2,9 @@
 
 # __surface classification__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Self-cleaning spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2121.md)
+* [Explore a diverse range of materials, from sound-absorbing to eco-friendly, that contribute to innovative building solutions and educational resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_222.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [machine learning algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3165.md)
 * [vision algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4489.md)
 * [computer vision](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3762.md)
+
+## This Technology enables the following mitigations
+
+* [Self-cleaning spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2121.md)
 

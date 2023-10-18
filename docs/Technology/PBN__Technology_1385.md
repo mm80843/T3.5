@@ -2,9 +2,9 @@
 
 # __simplified user interfaces__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q47146](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q47146.md)
+* [Measures promoting accountability, media control, real-time updates, and virtual experiences for physical distancing and education.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [electronic products for human-computer interaction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2948.md)
 * [flexible layout](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1780.md)
 * [flexible design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3262.md)
+
+## This Technology is identified by the following QID
+
+* [Q47146](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q47146.md)
 

@@ -2,9 +2,9 @@
 
 # __Implement wealth redistribution measures, provide social safety nets, invest in education and training opportunities__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Inequality gap widening](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1440.md)
+* [Promote sustainable development through infrastructure investments, training, diversification, financial support, and government partnerships.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_315.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement measures to support employment, provide income support, and promote economic recovery.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2667.md)
 * [Reduce tax cuts and increase public social expenditure to improve health and education.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2949.md)
 * [Provide economic support packages and develop appropriate social protection measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3053.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inequality gap widening](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1440.md)
 

@@ -6,6 +6,10 @@
 
 * [Reduced financial losses](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_634.md)
 
+## Category to which it belongs
+
+* [A diverse array of entities dedicated to various industries, causes, or services, promoting growth and welfare in society.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_369.md)
+
 ## Closest similar item
 
 * [business organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_598.md)

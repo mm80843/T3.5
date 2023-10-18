@@ -2,9 +2,9 @@
 
 # __Quality of greenspace in high-socioeconomic status neighborhoods__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Improve park quality in low-socioeconomic status neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_211.md)
+* [Limited access, funding, and maintenance of green spaces exacerbate inequalities, allergies, and negative perceptions in urban areas.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_121.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Neglected or poorly maintained green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3387.md)
 * [Lack of green spaces in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1686.md)
 * [Inadequate access to urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1822.md)
+
+## Mitigations of this risk
+
+* [Improve park quality in low-socioeconomic status neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_211.md)
 

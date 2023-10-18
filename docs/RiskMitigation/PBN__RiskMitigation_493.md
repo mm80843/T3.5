@@ -2,13 +2,9 @@
 
 # __Targeted Support__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Automation Disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_370.md)
-
-## Property: has_MitigationBenefit
-
-* [Protecting lives and livelihoods](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_478.md)
+* [Implement comprehensive measures to ensure support, protection, and assistance for vulnerable populations during the pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_349.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Targeted, tailored messages](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_51.md)
 * [Implement targeted interventions and resources in areas with high risk factors, such as increased access to healthcare services, targeted education campaigns, and economic support for affected populations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1853.md)
 * [Information and support services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_789.md)
+
+## Property: has_MitigationBenefit
+
+* [Protecting lives and livelihoods](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_478.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Automation Disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_370.md)
 

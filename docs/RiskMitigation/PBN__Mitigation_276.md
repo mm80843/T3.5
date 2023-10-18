@@ -2,9 +2,9 @@
 
 # __Photocatalytic Oxidation__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [photocatalyst (e.g. tio2)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3108.md)
+* [Maximizing the use of natural light and UV radiation for germicidal purposes in indoor spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_176.md)
 
 ## Closest similar item
 
@@ -19,14 +19,18 @@
 * [Wastewater treatment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1220.md)
 * [Monitoring wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1437.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Using light-activated catalysts to accelerate the oxidation of airborne pathogens and neutralizing their ability to cause infections
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Methods for air cleaning and protection of building occupants from airborne pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_240.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [photocatalyst (e.g. tio2)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3108.md)
 

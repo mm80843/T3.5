@@ -2,10 +2,9 @@
 
 # __central banks__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Volatility in financial markets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1976.md)
-* [Declining yields on treasury instruments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1978.md)
+* [All actors in the economic and political landscape, including policymakers, governments, and regulatory bodies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_357.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [financial team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_932.md)
 * [finance department](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_990.md)
 * [global economic and financial systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_24.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Volatility in financial markets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1976.md)
+* [Declining yields on treasury instruments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1978.md)
 

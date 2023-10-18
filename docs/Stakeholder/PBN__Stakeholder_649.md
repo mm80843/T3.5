@@ -2,9 +2,9 @@
 
 # __acoustical engineers__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Noise Pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1120.md)
+* [Entities and individuals who interact with or are affected by a system, organization, or public facility.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_1.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [IT engineer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2603.md)
 * [construction industry professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1308.md)
 * [hvac engineers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_924.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Noise Pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1120.md)
 

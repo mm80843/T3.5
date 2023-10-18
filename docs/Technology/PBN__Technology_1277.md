@@ -2,9 +2,9 @@
 
 # __incorporate operable windows and natural ventilation for passive survivability__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q855172](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q855172.md)
+* [Improved ventilation and air purification methods are implemented, incorporating natural and mechanical systems, upgraded technologies, regular maintenance, and smart controls.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_200.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [natural ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1012.md)
 * [Natural ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2673.md)
 * [natural/forced ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4069.md)
+
+## This Technology is identified by the following QID
+
+* [Q855172](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q855172.md)
 

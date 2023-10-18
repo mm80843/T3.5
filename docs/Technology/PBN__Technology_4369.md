@@ -2,10 +2,9 @@
 
 # __molecular technologies__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Vaccine development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2246.md)
-* [Medicine 4.0](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2252.md)
+* [Technological advancements encompass a wide range of innovations, such as blockchain, touchless, renewable energy, and communication technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Biosensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2814.md)
 * [emerging technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_281.md)
 * [membrane technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4434.md)
+
+## This Technology enables the following mitigations
+
+* [Vaccine development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2246.md)
+* [Medicine 4.0](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2252.md)
 

@@ -2,26 +2,9 @@
 
 # __Inadequate maintenance and management of urban green spaces__
 
-## Property: has_RiskHealth
+## Category to which it belongs
 
-* [physical and mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_7.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Description of the risk
-
-Poor maintenance and management of urban green spaces, leading to neglected and unsafe environments
-
-## Property: has_RiskType
-
-* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
-* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
-
-## Articles mentionning the risk
-
-* [The impact of the COVID-19 pandemic on the importance of urban green spaces to the public](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_203.md)
+* [Limited access, funding, and maintenance of green spaces exacerbate inequalities, allergies, and negative perceptions in urban areas.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_121.md)
 
 ## Closest similar item
 
@@ -36,14 +19,33 @@ Poor maintenance and management of urban green spaces, leading to neglected and 
 * [Limited green spaces in highly urbanized areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1546.md)
 * [Lack of green space in cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1415.md)
 
-## People affected by this risk
+## Description of the risk
 
-* [users of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1235.md)
-* [including residents and visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1236.md)
+Poor maintenance and management of urban green spaces, leading to neglected and unsafe environments
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Property: has_RiskHealth
+
+* [physical and mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_7.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_4.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+
+## Mitigations of this risk
+
+* [Improve maintenance and management practices, allocate sufficient resources for upkeep and maintenance, establish regular inspections and maintenance schedules](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2412.md)
+
+## Name of the risk
+
+Reduced usability and enjoyment of urban green spaces, increased safety concerns, decreased satisfaction with green spaces
 
 ## Stakeholders who can mitigate this risk
 
@@ -51,21 +53,23 @@ Poor maintenance and management of urban green spaces, leading to neglected and 
 * [community organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_150.md)
 * [urban green space management organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1231.md)
 
-## Name of the risk
+## Articles mentionning the risk
 
-Reduced usability and enjoyment of urban green spaces, increased safety concerns, decreased satisfaction with green spaces
+* [The impact of the COVID-19 pandemic on the importance of urban green spaces to the public](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_203.md)
 
-## Mitigations of this risk
+## People affected by this risk
 
-* [Improve maintenance and management practices, allocate sufficient resources for upkeep and maintenance, establish regular inspections and maintenance schedules](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2412.md)
-
-## Property: has_RiskISO_Purpose
-
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+* [users of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1235.md)
+* [including residents and visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1236.md)
 
 ## Technologies linked to the risk
 
 * [community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_51.md)
 * [maintenance and inspection protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1184.md)
 * [adequate funding and staffing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1185.md)
+
+## Property: has_RiskType
+
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
+* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 

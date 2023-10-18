@@ -2,9 +2,9 @@
 
 # __it experts__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Centralized vs. federated approaches to data infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2157.md)
+* [Experts from various fields including research, risk assessment, education, science, HVAC, and IT.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_356.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [communication experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_831.md)
 * [IT professional](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2612.md)
 * [it engineers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1467.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Centralized vs. federated approaches to data infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2157.md)
 

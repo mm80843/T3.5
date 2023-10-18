@@ -2,9 +2,9 @@
 
 # __property matching__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Entity alignment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2308.md)
+* [Measures promoting accountability, media control, real-time updates, and virtual experiences for physical distancing and education.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [rule-based system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3175.md)
 * [neighborhood control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4135.md)
 * [rule-based methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1148.md)
+
+## This Technology enables the following mitigations
+
+* [Entity alignment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2308.md)
 

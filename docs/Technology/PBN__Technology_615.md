@@ -2,12 +2,9 @@
 
 # __public health agencies__
 
-## Risks linked to this technology
+## Category to which it belongs
 
-* [Insufficient social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2145.md)
-* [Inconsistent implementation of interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1393.md)
-* [Perceived susceptibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1615.md)
-* [Perceived severity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1614.md)
+* [Improved healthcare infrastructure and resources enable public health authorities to implement effective messaging and interventions, ensuring equitable access to healthcare facilities and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_209.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [Public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2222.md)
 * [public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_167.md)
 * [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2169.md)
+
+## Risks linked to this technology
+
+* [Insufficient social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2145.md)
+* [Inconsistent implementation of interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1393.md)
+* [Perceived susceptibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1615.md)
+* [Perceived severity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1614.md)
 

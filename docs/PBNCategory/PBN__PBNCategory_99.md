@@ -1,0 +1,42 @@
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_99 
+
+# __Supply chain disruptions and logistical challenges have caused global supply chains to be heavily impacted.__
+
+## Items covered in this category
+
+* [Supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_10.md)
+* [Supply chain disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1400.md)
+* [Disruption of supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_524.md)
+* [Disruption of supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1130.md)
+* [Disruption in the supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_480.md)
+* [Disruption in supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_500.md)
+* [Disrupted supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2336.md)
+* [Disruptions in global supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_767.md)
+* [Global supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_456.md)
+* [Disruption in global supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2909.md)
+* [Supply disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3035.md)
+* [Shocks in global value chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_251.md)
+* [Negative impact on supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_23.md)
+* [Imbalance of supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3297.md)
+* [Disruption of global supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2265.md)
+* [Disruptions to global and national supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2125.md)
+* [Disruption in petroleum and oil industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1809.md)
+* [Increase in demand, logistical challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3082.md)
+* [Increased demand, logistical challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3084.md)
+* [Food supply disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1858.md)
+* [Food supply disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3356.md)
+* [Reliance on global supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1995.md)
+* [Shortages in supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_491.md)
+* [Disruption of global settlement system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1468.md)
+* [Production disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3039.md)
+* [Disruption of main system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3365.md)
+* [Impact on food industry supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_411.md)
+* [Supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_993.md)
+* [Losses in supply and demand](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_770.md)
+* [Obstacles in production or transportation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3369.md)
+* [Logistics inefficiency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3420.md)
+* [Supply chain complexity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1774.md)
+* [Lack of supply chain visibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1773.md)
+* [Disruption of energy supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2112.md)
+* [Lack of redundancy in supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2154.md)
+

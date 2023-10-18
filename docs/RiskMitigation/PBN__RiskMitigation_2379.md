@@ -2,9 +2,9 @@
 
 # __Utilize AI methods for faster drug testing and discovery__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Delayed drug development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1801.md)
+* [Advancements in bioinformatics, divestment, automated sample collection, and artificial intelligence are facilitating early disease detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_336.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Drug development](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_599.md)
 * [AI algorithms for screening and triage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1328.md)
 * [AI-powered applications for diagnosis and treatment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1435.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Delayed drug development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1801.md)
 

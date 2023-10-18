@@ -2,9 +2,9 @@
 
 # __health records__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Correlating health issues with movement patterns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2346.md)
+* [Improved healthcare infrastructure and resources enable public health authorities to implement effective messaging and interventions, ensuring equitable access to healthcare facilities and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_209.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_336.md)
 * [Public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2511.md)
 * [access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4119.md)
+
+## This Technology enables the following mitigations
+
+* [Correlating health issues with movement patterns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2346.md)
 

@@ -2,13 +2,9 @@
 
 # __Operate HVAC systems for longer hours or 24/7__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [SARS-CoV-2 transmission in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_152.md)
-
-## Property: has_MitigationBenefit
-
-* [Increased air circulation and filtration](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_204.md)
+* [Optimize indoor environments, regulate temperature and humidity, control air quality, and extend HVAC system operations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_341.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Regular maintenance and cleaning of HVAC systems, improved ventilation and filtration.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2181.md)
 * [HVAC system modifications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1350.md)
 * [Implementation of adaptable HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1086.md)
+
+## Property: has_MitigationBenefit
+
+* [Increased air circulation and filtration](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_204.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [SARS-CoV-2 transmission in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_152.md)
 

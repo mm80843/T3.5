@@ -2,9 +2,9 @@
 
 # __Rapid expansion of AIIR capacity is critical in centers that treat severely affected patients__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Shortage of AIIRs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_313.md)
+* [Efforts include RNA monitoring, occupant exposure modeling, targeted messages, adoption of principles, copper coating, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_311.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Increase healthcare capacity, ensure availability of medical supplies and equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1456.md)
 * [Improve healthcare facilities, increase capacity and resources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2474.md)
 * [Increase healthcare system capacity, implement triage protocols, and prioritize care for severe cases](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2317.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Shortage of AIIRs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_313.md)
 

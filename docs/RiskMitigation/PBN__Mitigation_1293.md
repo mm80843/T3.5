@@ -2,8 +2,9 @@
 
 # __Flexibility and Transformation__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Optimizing the global trade network and supply chains through decentralization, cost concern, and integrated management, while promoting resilience and equity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_146.md)
 
 ## Closest similar item
 
@@ -18,14 +19,17 @@
 * [Flexible building](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1662.md)
 * [Resilience, flexibility, and emotional regulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_210.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Design buildings with adaptable and flexible spaces that can easily be transformed to meet changing needs and requirements during pandemics.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Antivirus-built environment: Lessons learned from Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_298.md)
+
+## This Mitigation is enabled by the following technologies
+
 

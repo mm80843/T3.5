@@ -2,9 +2,9 @@
 
 # __Social and psychological interventions__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Resilience training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1183.md)
+* [The ramifications of social distancing include inconsistent recommendations, increased violence, changes in social practices, and lack of interaction, among other social issues.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_96.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Psycho-social effects of NPIs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1790.md)
 * [Social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2463.md)
 * [Inconsistent implementation of interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1393.md)
+
+## Mitigations of this risk
+
+* [Resilience training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1183.md)
 

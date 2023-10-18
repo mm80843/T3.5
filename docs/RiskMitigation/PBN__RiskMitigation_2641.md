@@ -2,9 +2,9 @@
 
 # __Promote the use of cleaner and more efficient cooking and heating fuels, improve access to modern energy sources.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Use of biomass fuels](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2018.md)
+* [Transition to sustainable energy sources, implement energy-efficient measures, and absorb increased service demand.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_351.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement energy-efficient appliances, promote alternative energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2942.md)
 * [Improved cooking systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1345.md)
 * [Implement energy-efficient technologies, promote renewable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2897.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Use of biomass fuels](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2018.md)
 

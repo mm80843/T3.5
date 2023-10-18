@@ -2,9 +2,9 @@
 
 # __virtual tourism platforms__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q2915546](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2915546.md)
+* [Digital platforms and online resources facilitate collaboration, communication, and information sharing among individuals and organizations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_193.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Virtual learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2631.md)
 * [virtual learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1422.md)
 * [expansion of digital platforms and virtual experiences](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2738.md)
+
+## This Technology is identified by the following QID
+
+* [Q2915546](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2915546.md)
 

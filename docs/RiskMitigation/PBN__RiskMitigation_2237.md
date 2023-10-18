@@ -2,9 +2,9 @@
 
 # __Social distancing, hand hygiene, mask wearing, vaccination.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Spread of Covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1682.md)
+* [Encouraging the use of masks, practicing social distancing, and promoting good hygiene practices are vital preventive measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_345.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Use of face masks, social distancing, and proper hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2082.md)
 * [Implementing physical distancing measures, providing access to hand hygiene facilities, promoting mask-wearing, regular cleaning and disinfection of surfaces, and limiting the capacity of public spaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2232.md)
 * [Public health measures such as quarantine, social distancing, and wearing masks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2609.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of Covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1682.md)
 

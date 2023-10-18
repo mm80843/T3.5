@@ -2,10 +2,9 @@
 
 # __wastewater testing laboratories__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Decay of SARS-CoV-2 in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1450.md)
-* [Temperature impact on virus detectability in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1447.md)
+* [Individuals and organizations involved in the management and treatment of water, waste, and wastewater.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_397.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [wastewater treatment plant operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1050.md)
 * [wastewater treatment authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1140.md)
 * [wastewater treatment authority](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2679.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Decay of SARS-CoV-2 in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1450.md)
+* [Temperature impact on virus detectability in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1447.md)
 

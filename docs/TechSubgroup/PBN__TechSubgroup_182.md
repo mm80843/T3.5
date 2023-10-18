@@ -2,10 +2,9 @@
 
 # __Resilient Design__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [Far-UVC light sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2659.md)
-* [Use building materials and systems that are resilient to emergencies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2679.md)
+* [Strategic approaches that promote adaptability and durability in the field of design.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_55.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Green Spaces and Urban Design](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_84.md)
 * [Building Materials](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_180.md)
 * [Infrastructure and Resource Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_126.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [Far-UVC light sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2659.md)
+* [Use building materials and systems that are resilient to emergencies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2679.md)
 

@@ -2,9 +2,9 @@
 
 # __Simplify supply chain structures, build collaborative relationships, enhance communication and coordination among stakeholders__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Supply chain complexity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1774.md)
+* [Promote flexibility and resilience in supply chains through diversification, local production, and proactive strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_320.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Diversify supply chains, localize production, enhance transparency and resilience in supply chains.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2905.md)
 * [Effective supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_672.md)
 * [Minimize supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3124.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Supply chain complexity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1774.md)
 

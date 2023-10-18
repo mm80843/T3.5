@@ -2,9 +2,9 @@
 
 # __Diversifying supply chains and promoting domestic production__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Reliance on global supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1995.md)
+* [Promote flexibility and resilience in supply chains through diversification, local production, and proactive strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_320.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Promote diversification of suppliers and reduce dependence on a few key suppliers.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2423.md)
 * [Diversification of supply chains, local production capabilities, and contingency planning for disruptions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2776.md)
 * [Promote diversification of supplies and improve flexibility in sourcing inputs across multiple suppliers and countries.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2426.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Reliance on global supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1995.md)
 

@@ -2,13 +2,13 @@
 
 # __individuals with different gender identities__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q48264](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q48264.md)
+* [A diverse range of individuals, including citizens, pedestrians, people with disabilities, and those in crowded environments, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_368.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Gender differences in green space benefits](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2117.md)
 
 ## Closest similar item
 
@@ -23,11 +23,15 @@
 * [Particularly females](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2326.md)
 * [individuals from stigmatized groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1240.md)
 
-## Risk affecting this stakeholder
-
-* [Gender differences in green space benefits](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2117.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [General Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_88.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q48264](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q48264.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 

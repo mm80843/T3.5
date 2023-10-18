@@ -2,11 +2,9 @@
 
 # __ontology experts__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Lack of ontology interoperability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1453.md)
-* [Incomplete coverage of information in ontologies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1454.md)
-* [Rapidly changing understanding of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1455.md)
+* [Experts from various fields including research, risk assessment, education, science, HVAC, and IT.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_356.md)
 
 ## Closest similar item
 
@@ -20,4 +18,10 @@
 * [communication expert](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1843.md)
 * [it experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1470.md)
 * [IT experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2631.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Lack of ontology interoperability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1453.md)
+* [Incomplete coverage of information in ontologies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1454.md)
+* [Rapidly changing understanding of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1455.md)
 

@@ -2,13 +2,9 @@
 
 # __Using appropriate protective equipment__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Airborne transmission via aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_799.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction in virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_917.md)
+* [Enforce safety measures, promote responsible behavior, utilize PPE, and prioritize risk prevention to ensure adequate protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_342.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Use of personal protective measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1048.md)
 * [Increase production and distribution of protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2945.md)
 * [Personal Protective Equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_415.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction in virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_917.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Airborne transmission via aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_799.md)
 

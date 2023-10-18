@@ -2,12 +2,9 @@
 
 # __Germicidal ultraviolet (GUV)__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-
-## Property: has_MitigationBenefit
-
-* [Inactivation of airborne microorganisms](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_614.md)
+* [Utilize UVGI technology to disinfect air, surfaces, and clothing, ensuring proper installation, training, and research to optimize effectiveness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_352.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [UVGI technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1358.md)
 * [Upper-room UV light](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_522.md)
 * [UV-based technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_994.md)
+
+## Property: has_MitigationBenefit
+
+* [Inactivation of airborne microorganisms](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_614.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

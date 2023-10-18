@@ -2,9 +2,9 @@
 
 # __Public announcements__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
-* [Public Health Measures and Education](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_47.md)
+* [Government actions and regulations addressing various aspects of society, including policy changes, ethical frameworks, governance mechanisms, and public announcements.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_216.md)
 
 ## Closest similar item
 
@@ -19,12 +19,16 @@
 * [public awareness](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4160.md)
 * [press releases](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1176.md)
 
+## This Technology is identified by the following QID
+
+* [Q1196567](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1196567.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Public Health Measures and Education](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_47.md)
+
 ## This Technology belongs to this TechGroup
 
 * [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
 * [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
-
-## This Technology is identified by the following QID
-
-* [Q1196567](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1196567.md)
 

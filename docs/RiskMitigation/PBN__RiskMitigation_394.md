@@ -2,13 +2,9 @@
 
 # __Generating Negative Pressure__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Insufficient negative pressure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_315.md)
-
-## Property: has_MitigationBenefit
-
-* [Maintaining Pressure Differentials](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_391.md)
+* [Efforts include RNA monitoring, occupant exposure modeling, targeted messages, adoption of principles, copper coating, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_311.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Seal walls, ceilings, and windows, and use negative air machines with HEPA filters to maintain pressure differentials and prevent pathogen spread](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2188.md)
 * [Total volume air distribution](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1168.md)
 * [Phase III relaxation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_430.md)
+
+## Property: has_MitigationBenefit
+
+* [Maintaining Pressure Differentials](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_391.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Insufficient negative pressure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_315.md)
 

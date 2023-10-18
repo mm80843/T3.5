@@ -2,9 +2,9 @@
 
 # __Conduct empirical studies to measure the effects of policies on infection rates, combine numerical simulations with direct measurements__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Unknown effects of policies on infection rates](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1492.md)
+* [Implement comprehensive strategies to control virus transmission, improve surveillance, develop antiviral coatings, and enhance infection control measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_309.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Improve access to testing and healthcare facilities, promote and enforce proper infection control measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3093.md)
 * [Infection tracking / monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3121.md)
 * [Incorporate small-scale heterogeneity in epidemic models to account for neighborhood-level processes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1665.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Unknown effects of policies on infection rates](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1492.md)
 

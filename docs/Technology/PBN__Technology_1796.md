@@ -2,9 +2,9 @@
 
 # __fiscal policy measures__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q187021](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q187021.md)
+* [Maximizing economic efficiency while promoting financial stability through innovative strategies, investments, and partnerships at various levels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_195.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [policy frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1494.md)
 * [policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_482.md)
 * [tariff reforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_88.md)
+
+## This Technology is identified by the following QID
+
+* [Q187021](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q187021.md)
 

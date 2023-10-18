@@ -2,9 +2,9 @@
 
 # __Inadequate communication and spread of misinformation__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Facilitating transparent communication and preventing spread of fake news](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1107.md)
+* [The proliferation of false and misleading information, misinformation, and inaccurate news during pandemics creates confusion and a lack of trust in reliable sources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_127.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of awareness, misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2918.md)
 * [Security risks, spread of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3224.md)
 * [Inadequate means of communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1092.md)
+
+## Mitigations of this risk
+
+* [Facilitating transparent communication and preventing spread of fake news](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1107.md)
 

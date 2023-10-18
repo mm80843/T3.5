@@ -2,9 +2,9 @@
 
 # __Implement a regular cleaning and disinfection schedule for commonly touched surfaces, tools, and equipment on construction sites.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Failure to Disinfect and Clean Work Areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1205.md)
+* [Implement rigorous cleaning and disinfection measures, including the use of antimicrobial materials and advanced technologies, to maintain a safe and hygienic environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_2.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Regular and thorough disinfection of frequently touched surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2077.md)
 * [Implement thorough and regular cleaning and disinfection protocols, use effective cleaning products, and train cleaning staff on proper techniques.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3108.md)
 * [Routine cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_264.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Failure to Disinfect and Clean Work Areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1205.md)
 

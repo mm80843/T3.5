@@ -2,9 +2,9 @@
 
 # __media monitoring__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q6805844](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6805844.md)
+* [Enhanced monitoring and surveillance technologies enable real-time tracking, video conferencing, and improved detection methods.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_214.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Monitoring devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2544.md)
 * [monitoring devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1745.md)
 * [digital monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4445.md)
+
+## This Technology is identified by the following QID
+
+* [Q6805844](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6805844.md)
 

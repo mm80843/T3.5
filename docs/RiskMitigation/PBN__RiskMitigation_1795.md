@@ -2,9 +2,9 @@
 
 # __Seek financial assistance, manage cashflow, renegotiate contracts, diversify revenue sources.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Insolvency risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1307.md)
+* [Promote sustainable development through infrastructure investments, training, diversification, financial support, and government partnerships.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_315.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Seek alternative markets and partners, adapt business models, leverage social capital.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2133.md)
 * [Seek funding and support from government and private sector, explore cost-saving measures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1551.md)
 * [Seek financial aids, revise contracts to claim losses](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2110.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Insolvency risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1307.md)
 

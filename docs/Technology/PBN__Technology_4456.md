@@ -2,9 +2,9 @@
 
 # __insecticides__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Indoor residual spraying (IRS)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2389.md)
+* [Advancements in molecular biology, diagnostics, vaccines, antiviral technologies, and disease surveillance for pathogen detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_223.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [pest control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3902.md)
 * [mosquito control operations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4049.md)
 * [planting insect-pollinated plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3700.md)
+
+## This Technology enables the following mitigations
+
+* [Indoor residual spraying (IRS)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2389.md)
 

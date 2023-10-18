@@ -2,9 +2,9 @@
 
 # __Implementing crowd control measures such as capacity limits, timed entry systems, one-way circulation, and designated waiting areas.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Insufficient crowd management measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1681.md)
+* [Implement travel restrictions, promote active transportation, streamline processes, provide accurate information, and develop sustainable transport options.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_325.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Limit the number of occupants, enforce capacity limits, stagger schedules](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2340.md)
 * [Implementing crowd management measures, promoting social distancing, providing hand hygiene stations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1999.md)
 * [Limit capacity, enforce social distancing measures, provide clear signage and guidelines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1816.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Insufficient crowd management measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1681.md)
 

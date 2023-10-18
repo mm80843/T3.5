@@ -2,9 +2,9 @@
 
 # __outdoor spaces within apartment buildings__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q116893334](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q116893334.md)
+* [Promotion of environmentally-friendly practices, green infrastructure, sustainable housing, renewable energy, and responsible building to enhance spaces and mitigate climate change.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_224.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [indoor environmental quality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4482.md)
 * [outdoor seating areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2991.md)
 * [public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3580.md)
+
+## This Technology is identified by the following QID
+
+* [Q116893334](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q116893334.md)
 

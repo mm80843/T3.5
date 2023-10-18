@@ -2,9 +2,9 @@
 
 # __Descriptive statistics__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [statistical analysis software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3333.md)
+* [Synthesis of statistical analysis, machine learning, artificial intelligence, and data visualization for informed decision-making and pattern discovery.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_184.md)
 
 ## Closest similar item
 
@@ -19,14 +19,18 @@
 * [Long-Term Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1043.md)
 * [Data aggregation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2404.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Utilizing descriptive statistics can provide a clear overview of HIV prevalence in different provinces, aiding in identifying regional disparities and targeting interventions accordingly
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Multilevel Analysis of Personal, Non-Medical COVID-19-Related Impact Worldwide](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_39.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [statistical analysis software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3333.md)
 

@@ -2,13 +2,9 @@
 
 # __Education and training on infection control measures__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Environmental contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_923.md)
-
-## Property: has_MitigationBenefit
-
-* [Increased awareness and adherence](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1260.md)
+* [Implement comprehensive strategies to control virus transmission, improve surveillance, develop antiviral coatings, and enhance infection control measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_309.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implement measures to control the spread of infectious diseases, such as social distancing, improved hygiene practices, and vaccination programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2243.md)
 * [Implement infection control measures, promote hygiene practices, and enforce social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1815.md)
 * [Implement strict infection prevention and control measures in care facilities, including regular testing, isolation of infected individuals, and robust vaccination programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1851.md)
+
+## Property: has_MitigationBenefit
+
+* [Increased awareness and adherence](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1260.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Environmental contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_923.md)
 

@@ -2,9 +2,9 @@
 
 # __air distribution evaluation__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Ventilation effectiveness Ez](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2041.md)
+* [Improved air quality can be achieved through the use of various technologies such as air purifiers and monitoring systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_221.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [outdoor air circulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1164.md)
 * [personalized air supply combined with specific air distribution system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4208.md)
 * [adequate airflow](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3054.md)
+
+## This Technology enables the following mitigations
+
+* [Ventilation effectiveness Ez](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2041.md)
 

@@ -2,9 +2,9 @@
 
 # __Better healthcare protection__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_211.md)
+* [Enhancing healthcare access, facilities, and systems while promoting affordability and strengthening healthcare infrastructure through various strategies and initiatives.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_165.md)
 
 ## Closest similar item
 
@@ -19,14 +19,18 @@
 * [Healthcare Access and Early Treatment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1864.md)
 * [Enhancing healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1124.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Blockchain technology can improve healthcare protection by tracking and monitoring the spread of the virus and ensuring timely treatment for infected individuals.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Blockchain technology and its applications to combat COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_219.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_211.md)
 

@@ -2,9 +2,9 @@
 
 # __Inadequate home automation, poor internet connectivity__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Housing automation and electromagnetic fields](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_501.md)
+* [Limited monitoring, technical limitations, language barriers, expensive optimization, lack of connection with nature, and limited sensor diversity hinder effective response and resource allocation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_107.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Limited connectivity challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2096.md)
 * [Technical limitations and limited connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_26.md)
 * [Ineffective home isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2704.md)
+
+## Mitigations of this risk
+
+* [Housing automation and electromagnetic fields](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_501.md)
 

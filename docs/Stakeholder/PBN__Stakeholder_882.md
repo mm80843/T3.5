@@ -2,9 +2,9 @@
 
 # __online users__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Misinformation and fake news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1372.md)
+* [All those involved in the management, access, and utilization of data in various communities and industries.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_358.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [individuals without internet access or limited digital literacy](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1238.md)
 * [users of digital tools and platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_881.md)
 * [individual without internet acces or limited digital literacy](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2337.md)
+
+## Risk affecting this stakeholder
+
+* [Misinformation and fake news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1372.md)
 

@@ -2,13 +2,9 @@
 
 # __Monitor and control indoor air pollution__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [ozone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1909.md)
-* [pm](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4250.md)
-* [temperature](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1063.md)
-* [humidity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3133.md)
-* [co2 concentration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4251.md)
+* [Promote clean, fresh air by monitoring and controlling indoor pollution, using portable air cleaners, and increasing outdoor air flow.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_172.md)
 
 ## Closest similar item
 
@@ -23,15 +19,23 @@
 * [Use of smart/innovative air quality controls technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2599.md)
 * [Develop non-centralized building systems, utilize air purifiers and air quality monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2600.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Air pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_148.md)
-
 ## Property: has_MitigationPrinciple
 
 Monitor and control indoor air conditions to improve air quality
 
+## Risks possibly mitigated by this Mitigation
+
+* [Air pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_148.md)
+
 ## Property: has_MitigationSource
 
 * [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [ozone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1909.md)
+* [pm](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4250.md)
+* [temperature](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1063.md)
+* [humidity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3133.md)
+* [co2 concentration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4251.md)
 

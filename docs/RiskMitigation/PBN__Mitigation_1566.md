@@ -2,8 +2,9 @@
 
 # __Longer project timelines__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Enhancing safety and efficiency through comprehensive measures, technology integration, diverse environments, and behavioral adjustments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_157.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Sustainable Design and Construction of Projects](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_944.md)
 * [Detailed and better task planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_506.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Time constraints](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3143.md)
-
 ## Property: has_MitigationPrinciple
 
 Extend project timelines to accommodate for slower work pace and safety measures
 
+## Risks possibly mitigated by this Mitigation
+
+* [Time constraints](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3143.md)
+
 ## Property: has_MitigationSource
 
 * [Impacts of COVID-19 on Health and Safety of Workforce in Construction Industry](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_49.md)
+
+## This Mitigation is enabled by the following technologies
+
 

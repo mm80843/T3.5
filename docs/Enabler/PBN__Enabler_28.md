@@ -2,13 +2,13 @@
 
 # __Face and voice recognition__
 
-## Property: has_TechEquivalent
-
-* [Face and voice recognition](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4553.md)
-
 ## Property: has_BP_EnablerTitle
 
 enabler_029
+
+## Category to which it belongs
+
+* [Biometric identification technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_88.md)
 
 ## Closest similar item
 
@@ -22,4 +22,8 @@ enabler_029
 * [voice recognition technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_294.md)
 * [automated face recognition systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_295.md)
 * [Automated face recognition systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_296.md)
+
+## Property: has_TechEquivalent
+
+* [Face and voice recognition](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4553.md)
 

@@ -2,9 +2,9 @@
 
 # __Shortage of medical equipment and medication__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Medical supply chain optimization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_968.md)
+* [Healthcare systems overwhelmed with limited resources, shortage of personnel, and inadequate infrastructure face challenges in providing accessible and quality care.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_101.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Insufficient healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1326.md)
 * [Shortage of experienced healthcare personnel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_317.md)
 * [Shortage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3418.md)
+
+## Mitigations of this risk
+
+* [Medical supply chain optimization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_968.md)
 

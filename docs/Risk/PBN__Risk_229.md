@@ -2,9 +2,9 @@
 
 # __Inadequate airflow in apartment buildings__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Addition of external communication corridors and emphasis on stair usage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_273.md)
+* [Insufficient ventilation and indoor air pollution pose a risk to air quality and respiratory health, exacerbated by inadequate airflow control, limited natural ventilation, and air recirculation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_128.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Airflow issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3022.md)
 * [Lack of adequate indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_341.md)
 * [Poor Indoor Air Quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1121.md)
+
+## Mitigations of this risk
+
+* [Addition of external communication corridors and emphasis on stair usage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_273.md)
 

@@ -2,13 +2,9 @@
 
 # __Fatty acids__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Cell entry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_427.md)
-
-## Property: has_MitigationBenefit
-
-* [Receptor interaction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_592.md)
+* [Efforts include RNA monitoring, occupant exposure modeling, targeted messages, adoption of principles, copper coating, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_311.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Improved cooking systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1345.md)
 * [Increase availability and affordability of healthy food options, support urban agriculture, and provide nutritional education and guidance.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2443.md)
 * [Energy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_491.md)
+
+## Property: has_MitigationBenefit
+
+* [Receptor interaction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_592.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Cell entry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_427.md)
 

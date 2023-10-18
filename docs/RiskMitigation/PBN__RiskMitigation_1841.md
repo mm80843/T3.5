@@ -2,9 +2,9 @@
 
 # __Improve resource allocation and healthcare infrastructure in provinces with high prevalence, promote education and awareness on HIV prevention__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Spatial variation in HIV prevalence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1347.md)
+* [Enhancing healthcare infrastructure, increasing capacity, and ensuring access to medical resources and services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_330.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Increase investment in healthcare infrastructure, establish temporary medical facilities during outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1577.md)
 * [Implement public awareness campaigns, provide education on disease prevention and transmission](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2201.md)
 * [Improved access to healthcare, public awareness and education, targeted interventions for vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2682.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Spatial variation in HIV prevalence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1347.md)
 

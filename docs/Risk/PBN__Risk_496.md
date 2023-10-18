@@ -2,9 +2,9 @@
 
 # __Air control__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Ventilation, filtration, and humidification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_704.md)
+* [Insufficient ventilation and indoor air pollution pose a risk to air quality and respiratory health, exacerbated by inadequate airflow control, limited natural ventilation, and air recirculation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_128.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Monitor and control indoor air pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3530.md)
 * [Monitor and control indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3531.md)
 * [Use of smart/innovative air quality controls technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3532.md)
+
+## Mitigations of this risk
+
+* [Ventilation, filtration, and humidification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_704.md)
 

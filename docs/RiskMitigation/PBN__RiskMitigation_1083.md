@@ -2,13 +2,9 @@
 
 # __Standardization of car parking design guidelines__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Variation in car parking standards](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_789.md)
-
-## Property: has_MitigationBenefit
-
-* [Consistency in parking standards](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1076.md)
+* [Designing affordable, adaptable, and sustainable housing with improved building environments and optimized spatial layouts, while incorporating flexible and human-centric design elements and considering health, safety, and environmental parameters.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_326.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Increase park access](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1319.md)
 * [Strict implementation of hygiene measures, such as mask-wearing, hand sanitizing, and regular cleaning of vehicles](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2534.md)
 * [Clearly define and communicate the concept of "park" in data collection methods.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2159.md)
+
+## Property: has_MitigationBenefit
+
+* [Consistency in parking standards](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1076.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Variation in car parking standards](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_789.md)
 

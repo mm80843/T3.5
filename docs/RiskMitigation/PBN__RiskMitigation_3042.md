@@ -2,9 +2,9 @@
 
 # __Improve specificity of PCR assays to distinguish between SARS-CoV-2 and other coronaviruses.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Presence of other coronaviruses in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2340.md)
+* [Efforts to study, detect, and control the spread of SARS-CoV-2 in various environments and populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_353.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Conduct comprehensive phylogenetic analysis to identify the original host animal of SARS-CoV-2.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3060.md)
 * [Development and implementation of validated methodological protocols for the quantitative analysis of SARS-CoV-2 in wastewater.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1603.md)
 * [Quantification of SARS-CoV-2 in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_989.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Presence of other coronaviruses in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2340.md)
 

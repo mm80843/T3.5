@@ -2,13 +2,9 @@
 
 # __Regular cleaning and disinfection of surfaces__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Virus Transmission through touch](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_508.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduced risk of surface contamination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_719.md)
+* [Effective surface disinfection through regular cleaning and use of self-cleaning materials and antimicrobial coatings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_334.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Regular and thorough cleaning and disinfection of frequently touched surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2657.md)
 * [Regular surface disinfection and use of self-disinfecting surfaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2034.md)
 * [Self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1189.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced risk of surface contamination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_719.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Virus Transmission through touch](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_508.md)
 

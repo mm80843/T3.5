@@ -2,9 +2,9 @@
 
 # __online platforms__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Disinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1272.md)
+* [All those involved in the management, access, and utilization of data in various communities and industries.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_358.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [online platforms and social media](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2967.md)
 * [online social platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2971.md)
 * [web platform](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3035.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Disinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1272.md)
 

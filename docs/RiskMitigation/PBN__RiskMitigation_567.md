@@ -2,13 +2,9 @@
 
 # __Timely implementation__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Community mitigation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_405.md)
-
-## Property: has_MitigationBenefit
-
-* [Delayed outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_553.md)
+* [Implementing a comprehensive package of measures to ensure the smooth functioning and safety of essential services and activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_6.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Promptly repair and maintain infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2531.md)
 * [Development of efficient algorithms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2203.md)
 * [Ensure timely and appropriate distribution of supplies and address needs effectively.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2690.md)
+
+## Property: has_MitigationBenefit
+
+* [Delayed outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_553.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Community mitigation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_405.md)
 

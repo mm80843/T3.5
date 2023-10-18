@@ -2,9 +2,9 @@
 
 # __Increase in pests and disease vectors__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Increased Urban Biodiversity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1145.md)
+* [The challenge lies in the lack of knowledge, limited consideration, and inherent limitations in representing disease transmission mechanisms, mobility patterns, and heterogeneity in macroscopic epidemiological models.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_97.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Increased contact with disease vectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3117.md)
 * [Vector-borne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_273.md)
 * [Introduction of new disease vectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2049.md)
+
+## Mitigations of this risk
+
+* [Increased Urban Biodiversity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1145.md)
 

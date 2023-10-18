@@ -2,9 +2,9 @@
 
 # __Research and develop new materials for insulation and building performance, enhance construction methods__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Opportunities for new materials for performative insulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_245.md)
+* [Designing affordable, adaptable, and sustainable housing with improved building environments and optimized spatial layouts, while incorporating flexible and human-centric design elements and considering health, safety, and environmental parameters.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_326.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Improved building environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_276.md)
 * [Sustainable design and construction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1291.md)
 * [Hygienic building materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1440.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Opportunities for new materials for performative insulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_245.md)
 

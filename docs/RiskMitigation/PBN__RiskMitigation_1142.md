@@ -2,13 +2,9 @@
 
 # __Development of a mobile application with an expert system for early detection__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of public understanding of COVID-19 mitigation and early detection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_835.md)
-
-## Property: has_MitigationBenefit
-
-* [Increased awareness of COVID-19 risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1139.md)
+* [Enhanced surveillance, monitoring, and real-time tracking for improved control and response to various situations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_312.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Testing and validation of the expert system’s performance and accuracy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3370.md)
 * [Implementation of smartphone-based apps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1422.md)
 * [AI for rapid identification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_650.md)
+
+## Property: has_MitigationBenefit
+
+* [Increased awareness of COVID-19 risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1139.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of public understanding of COVID-19 mitigation and early detection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_835.md)
 

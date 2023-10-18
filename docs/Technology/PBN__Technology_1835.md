@@ -2,9 +2,9 @@
 
 # __space planning software__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q60054001](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q60054001.md)
+* [A list of diverse software tools, including financial management, construction technology, project management, communication, and monitoring software.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_219.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [green space planning strategies and design guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_725.md)
 * [Green space planning strategies and design guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2745.md)
 * [gis software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3828.md)
+
+## This Technology is identified by the following QID
+
+* [Q60054001](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q60054001.md)
 

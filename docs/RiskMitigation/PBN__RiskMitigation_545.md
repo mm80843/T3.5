@@ -2,13 +2,9 @@
 
 # __Retrofitting HVAC systems__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Inadequate ventilation in existing buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_388.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved Indoor Air Quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_533.md)
+* [Optimize indoor environments, regulate temperature and humidity, control air quality, and extend HVAC system operations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_341.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Installation of efficient HVAC systems, proper insulation, and controls for temperature regulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1566.md)
 * [Optimize HVAC system operations, implement energy-efficient measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2984.md)
 * [Improve HVAC systems and thermal insulation to achieve a balance between supply and demand.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1913.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved Indoor Air Quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_533.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inadequate ventilation in existing buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_388.md)
 

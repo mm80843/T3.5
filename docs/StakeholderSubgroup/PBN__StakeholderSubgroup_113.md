@@ -2,9 +2,9 @@
 
 # __Personal Safety and Security__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [victims of domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_7.md)
+* [Protection and well-being in relation to personal safety, security, and access to food.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_240.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Vulnerable Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_82.md)
 * [Quarantine Facilities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_124.md)
 * [Insurance](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_60.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [victims of domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_7.md)
 

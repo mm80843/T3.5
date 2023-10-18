@@ -2,9 +2,9 @@
 
 # __particularly those who rely on accurate information and guidance__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Lack of communication and transparency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1297.md)
+* [Individuals in low-income or low-education groups, crowded/poorly ventilated spaces, lockdown areas, and densely populated places are particularly affected/risked by various factors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_364.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [such as employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_668.md)
 * [low education level individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1508.md)
 * [especially those who work in open office or noisy environment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2268.md)
+
+## Risk affecting this stakeholder
+
+* [Lack of communication and transparency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1297.md)
 

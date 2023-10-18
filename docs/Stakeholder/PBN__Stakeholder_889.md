@@ -2,13 +2,14 @@
 
 # __individuals with underlying health conditions__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q52558626](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q52558626.md)
+* [Public health stakeholders and individuals alike are concerned about health, seeking information and guidance from trusted sources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_354.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Population susceptibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_429.md)
+* [Risk of high fatality rate in vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1378.md)
 
 ## Closest similar item
 
@@ -23,12 +24,15 @@
 * [especially vulnerable population and individual with pre-existing health condition](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2124.md)
 * [people with preexisting medical conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1413.md)
 
-## Risk affecting this stakeholder
-
-* [Population susceptibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_429.md)
-* [Risk of high fatality rate in vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1378.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Individuals with Health Conditions](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_76.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q52558626](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q52558626.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 

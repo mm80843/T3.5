@@ -2,9 +2,9 @@
 
 # __meteorologists__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Meteorological conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1482.md)
+* [Experts from various fields including research, risk assessment, education, science, HVAC, and IT.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_356.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [environmental researcher](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2673.md)
 * [conservationists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_935.md)
 * [radiologists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_783.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Meteorological conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1482.md)
 

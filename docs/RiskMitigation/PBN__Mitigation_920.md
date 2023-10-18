@@ -2,10 +2,9 @@
 
 # __Benchmarking Mobility Metrics__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [iot sensing infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3534.md)
-* [mobility data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3538.md)
+* [Mapping, tracking, and monitoring tools for contact tracing and tracking movements and transmission through various apps and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_158.md)
 
 ## Closest similar item
 
@@ -20,14 +19,19 @@
 * [Active transportation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1050.md)
 * [Maintaining physical distance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1558.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Comparing current mobility metrics to previous years to inform urban governance policies
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Smart cities and a data-driven response to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_164.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [iot sensing infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3534.md)
+* [mobility data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3538.md)
 

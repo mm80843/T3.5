@@ -2,13 +2,9 @@
 
 # __Contagious Diseases__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Social Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_35.md)
-* [Retail Store Signs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1257.md)
-* [Informal Signs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1258.md)
-* [Professional Signs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1259.md)
-* [Duct Tape](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1260.md)
+* [The dissemination of infectious diseases, characterized by outbreaks from various sources, inadequate preparedness, and insufficient reporting and understanding, poses a global threat.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_106.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Contagious disease propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2915.md)
 * [Spread of contagious epidemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_936.md)
 * [Risk of rapid spread and cross-sectorial impact of contagious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2118.md)
+
+## Mitigations of this risk
+
+* [Social Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_35.md)
+* [Retail Store Signs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1257.md)
+* [Informal Signs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1258.md)
+* [Professional Signs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1259.md)
+* [Duct Tape](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1260.md)
 

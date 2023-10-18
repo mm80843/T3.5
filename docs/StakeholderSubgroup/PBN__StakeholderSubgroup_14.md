@@ -2,12 +2,9 @@
 
 # __Educational Administration__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [school administrators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1282.md)
-* [education institution](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1632.md)
-* [educational organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1638.md)
-* [school administrator](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1640.md)
+* [Overseeing and managing health services, communities, and education at large.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_263.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [Education and Research](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_15.md)
 * [Students](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_19.md)
 * [Learners](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_17.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [school administrators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1282.md)
+* [education institution](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1632.md)
+* [educational organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1638.md)
+* [school administrator](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1640.md)
 

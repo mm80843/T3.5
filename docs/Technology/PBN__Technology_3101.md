@@ -2,9 +2,9 @@
 
 # __polyurethane__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Anti-SARS-CoV-2 coating](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_264.md)
+* [The range of materials and techniques listed includes various disinfectants, nanomaterials, manufacturing methods, coatings, sustainability measures, and analytical tools.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_237.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Better materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2656.md)
 * [material support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3464.md)
 * [eco-friendly materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2014.md)
+
+## This Technology enables the following mitigations
+
+* [Anti-SARS-CoV-2 coating](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_264.md)
 

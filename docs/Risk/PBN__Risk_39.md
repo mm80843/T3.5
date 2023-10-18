@@ -2,9 +2,9 @@
 
 # __Need for standardized representation of coronavirus knowledge__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Development of CIDO ontology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_56.md)
+* [The Impact of Domestic Violence and the Spreading of the Virus Create Challenges in Preventing Virus Propagation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_94.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Need for reliable and up-to-date data on COVID-19 outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_765.md)
 * [Lack of understanding and data on virus spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2825.md)
 * [Lack of public understanding of COVID-19 mitigation and early detection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_835.md)
+
+## Mitigations of this risk
+
+* [Development of CIDO ontology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_56.md)
 

@@ -2,9 +2,9 @@
 
 # __Online supervised exercise__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [internet access](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1211.md)
+* [Synthesis of statistical analysis, machine learning, artificial intelligence, and data visualization for informed decision-making and pattern discovery.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_184.md)
 
 ## Closest similar item
 
@@ -19,14 +19,18 @@
 * [Exercise programs for specific groups](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_79.md)
 * [Regular Exercise](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1240.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Utilizing online platforms and programs for supervised exercise to help improve mental health during the pandemic, especially for those who have limited access to in-person supervision and mentoring.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Mental Health and the Role of Physical Activity During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_242.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [internet access](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1211.md)
 

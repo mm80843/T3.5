@@ -2,13 +2,13 @@
 
 # __workers with mid-level skills__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q12713481](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q12713481.md)
+* [Employees across various industries, including laboratories, maintenance personnel, cleaning staff, and workers in the informal sector.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_359.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
+* [Increased inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2012.md)
 
 ## Closest similar item
 
@@ -23,10 +23,14 @@
 * [workers in routine and manual tasks](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1350.md)
 * [construction industry workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_828.md)
 
-## Risk affecting this stakeholder
-
-* [Increased inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2012.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
+
+## This Stakeholder is identified by the following QID
+
+* [Q12713481](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q12713481.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
 

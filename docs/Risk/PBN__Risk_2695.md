@@ -2,9 +2,9 @@
 
 # __Inadequate pressure levels in existing HVAC systems__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Filtration and Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_712.md)
+* [Insufficient ventilation and indoor air pollution pose a risk to air quality and respiratory health, exacerbated by inadequate airflow control, limited natural ventilation, and air recirculation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_128.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [High energy consumption of HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_600.md)
 * [Challenges in ventilation and air conditioning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_792.md)
 * [Inadequate airflow in apartment buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_229.md)
+
+## Mitigations of this risk
+
+* [Filtration and Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_712.md)
 

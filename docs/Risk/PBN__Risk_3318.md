@@ -2,9 +2,9 @@
 
 # __Financial viability of clean energy sectors__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Incentives for clean energy manufacturing and deployment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1987.md)
+* [Financial vulnerability and instability permeate various sectors and industries, hindering growth, sustainability, and access to resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_114.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Energy poverty](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3313.md)
 * [Negative impact on renewable energy sector](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2113.md)
 * [Financial viability of suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3316.md)
+
+## Mitigations of this risk
+
+* [Incentives for clean energy manufacturing and deployment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1987.md)
 

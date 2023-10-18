@@ -2,13 +2,9 @@
 
 # __Balcony design and biophilic design__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Limited connection to nature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_957.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved mental and physical health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_889.md)
+* [Designing affordable, adaptable, and sustainable housing with improved building environments and optimized spatial layouts, while incorporating flexible and human-centric design elements and considering health, safety, and environmental parameters.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_326.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Design apartments with views of the sky and natural elements, incorporate green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2489.md)
 * [Design apartments with windows that offer views of nature and the sky.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2486.md)
 * [Green building design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1392.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved mental and physical health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_889.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limited connection to nature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_957.md)
 

@@ -2,9 +2,9 @@
 
 # __surface coatings__
 
-## Risks linked to this technology
+## Category to which it belongs
 
-* [Limited efficacy against specific viruses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1512.md)
+* [The range of materials and techniques listed includes various disinfectants, nanomaterials, manufacturing methods, coatings, sustainability measures, and analytical tools.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_237.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [self-disinfecting coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3483.md)
 * [surface sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3141.md)
 * [copper alloy coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3853.md)
+
+## Risks linked to this technology
+
+* [Limited efficacy against specific viruses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1512.md)
 

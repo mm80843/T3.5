@@ -2,12 +2,9 @@
 
 # __european union__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Lack of preparedness for pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1584.md)
-* [Limited EU mandate in public health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1583.md)
-* [Economic disparities among Member States](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1587.md)
-* [Fragmented political responses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1585.md)
+* [All actors in the economic and political landscape, including policymakers, governments, and regulatory bodies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_357.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 * [national governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_51.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Lack of preparedness for pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1584.md)
+* [Limited EU mandate in public health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1583.md)
+* [Economic disparities among Member States](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1587.md)
+* [Fragmented political responses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1585.md)
 

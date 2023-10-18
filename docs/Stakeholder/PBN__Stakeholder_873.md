@@ -2,9 +2,9 @@
 
 # __care facility administrators__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Spread of COVID-19 through institutions for care of the elderly](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1355.md)
+* [Those involved in the provision and management of healthcare services, including workers, professionals, facilities, and users.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_355.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [facility manager](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2061.md)
 * [facility owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_847.md)
 * [hospital staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_369.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Spread of COVID-19 through institutions for care of the elderly](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1355.md)
 

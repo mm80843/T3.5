@@ -2,15 +2,9 @@
 
 # __law enforcement agencies__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Increased wildlife exploitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2177.md)
-* [Restricted movement in and out of cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2335.md)
-* [Risk of non-compliance with stay-at-home orders and social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2119.md)
-* [Hoarding of essential commodities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1074.md)
-* [Curfew](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1888.md)
-* [Gender-based violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1877.md)
-* [Lack of Deterrence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2278.md)
+* [Government and non-governmental organizations responsible for a wide range of services, including health, development, regulation, and emergency response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_382.md)
 
 ## Closest similar item
 
@@ -24,4 +18,14 @@
 * [safety department](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1454.md)
 * [government departments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_577.md)
 * [social protection agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1570.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Increased wildlife exploitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2177.md)
+* [Restricted movement in and out of cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2335.md)
+* [Risk of non-compliance with stay-at-home orders and social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2119.md)
+* [Hoarding of essential commodities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1074.md)
+* [Curfew](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1888.md)
+* [Gender-based violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1877.md)
+* [Lack of Deterrence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2278.md)
 

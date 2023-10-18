@@ -2,9 +2,9 @@
 
 # __Lack of reliable information on COVID-19 transmission__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Implementation of AI technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_463.md)
+* [The far-reaching consequences of COVID-19 include its transmission through various settings, impact on urban areas, and scarcity of resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inaccurate or unreliable COVID-19 information disseminated](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1783.md)
 * [Risk of COVID-19 transmission in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2045.md)
 * [Infection risk of COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_601.md)
+
+## Mitigations of this risk
+
+* [Implementation of AI technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_463.md)
 

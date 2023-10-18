@@ -2,27 +2,9 @@
 
 # __Fragmented political responses__
 
-## Property: has_RiskHealth
+## Category to which it belongs
 
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_4.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Description of the risk
-
-Member States have different political priorities and approaches to addressing the COVID-19 crisis, leading to fragmented and inconsistent responses
-
-## Property: has_RiskType
-
-* [political](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_1.md)
-* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
-
-## Articles mentionning the risk
-
-* [Borders and Catastrophe: lessons from COVID-19 for the European Green Deal](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_156.md)
+* [Fragmented global governance, reduced aid, ethical concerns, educational disruption, impacts on peace and justice, and inadequate coordination between stakeholders.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_115.md)
 
 ## Closest similar item
 
@@ -37,33 +19,55 @@ Member States have different political priorities and approaches to addressing t
 * [Fragmented data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2440.md)
 * [Inadequate community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2356.md)
 
-## People affected by this risk
+## Description of the risk
 
-* [none](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_629.md)
+Member States have different political priorities and approaches to addressing the COVID-19 crisis, leading to fragmented and inconsistent responses
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_4.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
+## Mitigations of this risk
+
+* [Strengthen EU-level coordination and cooperation, establish common protocols and guidelines, and promote information sharing between Member States](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2117.md)
+
+## Name of the risk
+
+Ineffective coordination and cooperation, slower implementation of necessary measures, and increased public confusion and distrust
 
 ## Stakeholders who can mitigate this risk
 
 * [member states](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_315.md)
 * [european union](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1019.md)
 
-## Name of the risk
+## Articles mentionning the risk
 
-Ineffective coordination and cooperation, slower implementation of necessary measures, and increased public confusion and distrust
+* [Borders and Catastrophe: lessons from COVID-19 for the European Green Deal](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_156.md)
 
-## Mitigations of this risk
+## People affected by this risk
 
-* [Strengthen EU-level coordination and cooperation, establish common protocols and guidelines, and promote information sharing between Member States](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2117.md)
-
-## Property: has_RiskISO_Purpose
-
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_629.md)
 
 ## Technologies linked to the risk
 
 * [improved communication and decision-making tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_889.md)
 * [standardized protocols and guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_890.md)
+
+## Property: has_RiskType
+
+* [political](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_1.md)
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 

@@ -2,9 +2,13 @@
 
 # __coastal communities__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q5138249](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5138249.md)
+* [All those involved in the management, access, and utilization of data in various communities and industries.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_358.md)
+
+## Risk affecting this stakeholder
+
+* [Clean beaches](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2387.md)
 
 ## Closest similar item
 
@@ -19,11 +23,11 @@
 * [rural areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_879.md)
 * [community residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_527.md)
 
-## Risk affecting this stakeholder
-
-* [Clean beaches](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2387.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Clean beaches](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1145.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q5138249](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5138249.md)
 

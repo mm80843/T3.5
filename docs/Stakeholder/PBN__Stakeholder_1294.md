@@ -2,13 +2,9 @@
 
 # __vaccine manufacturers__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q1335294](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1335294.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+* [Stakeholders in various industries, from manufacturing to retail, including users and suppliers, with a focus on wearables.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_371.md)
 
 ## Closest similar item
 
@@ -23,10 +19,18 @@
 * [medical equipment manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_548.md)
 * [device manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1435.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
-
-
 ## Risks that can be mitigated by this stakeholder
 
 * [Inadequate vaccine efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1911.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+
+## This Stakeholder is identified by the following QID
+
+* [Q1335294](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1335294.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 

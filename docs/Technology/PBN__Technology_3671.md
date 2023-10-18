@@ -2,9 +2,9 @@
 
 # __population flow data__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Reducing population flow](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1119.md)
+* [Data-driven insights and analysis for decision making, anonymized data, transparency, visualization, and advanced techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_205.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2037.md)
 * [use of data analytics to identify high-risk areas and populations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_563.md)
 * [epidemiological data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4002.md)
+
+## This Technology enables the following mitigations
+
+* [Reducing population flow](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1119.md)
 

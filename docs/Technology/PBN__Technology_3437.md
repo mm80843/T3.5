@@ -2,9 +2,9 @@
 
 # __drug development and testing__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Therapeutic Drugs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_763.md)
+* [Enhanced diagnostic techniques and screening methods, including the development of rapid and reliable testing technologies and increased availability of diagnostic tools and kits.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_211.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [testing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3933.md)
 * [rapid testing and vaccine development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1624.md)
 * [research and testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1161.md)
+
+## This Technology enables the following mitigations
+
+* [Therapeutic Drugs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_763.md)
 

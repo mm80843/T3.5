@@ -2,9 +2,9 @@
 
 # __led lighting__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1108259](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1108259.md)
+* [Innovative lighting solutions harnessing ultraviolet technology for optimal germicidal sterilization and energy efficiency, while maximizing natural light.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_235.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [advanced lighting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1844.md)
 * [lighting controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1257.md)
 * [natural lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3265.md)
+
+## This Technology is identified by the following QID
+
+* [Q1108259](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1108259.md)
 

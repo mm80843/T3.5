@@ -2,13 +2,9 @@
 
 # __Increased testing and contact tracing__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [COVID-19 diffusion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_623.md)
-
-## Property: has_MitigationBenefit
-
-* [Early detection and containment of cases](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_865.md)
+* [Promote comprehensive testing and tracing, prioritize vulnerable populations, reduce diagnosis-to-surgery time, recognize stress symptoms, and improve testing accuracy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_347.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Increase testing capacity, implement contact tracing strategies, invest in surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2274.md)
 * [Improve surveillance and reporting systems; faster testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1891.md)
 * [Contact tracing and monitoring technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_537.md)
+
+## Property: has_MitigationBenefit
+
+* [Early detection and containment of cases](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_865.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [COVID-19 diffusion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_623.md)
 

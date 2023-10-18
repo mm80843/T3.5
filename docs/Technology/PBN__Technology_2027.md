@@ -2,9 +2,9 @@
 
 # __molecular diagnostics__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q16257937](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q16257937.md)
+* [Advancements in biotechnology, clinical research, and innovative therapies contribute to the development of medical solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [diagnostic testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1309.md)
 * [Diagnostic testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2778.md)
 * [diagnostic tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_611.md)
+
+## This Technology is identified by the following QID
+
+* [Q16257937](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q16257937.md)
 

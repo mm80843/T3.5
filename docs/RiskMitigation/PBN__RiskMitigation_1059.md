@@ -2,13 +2,9 @@
 
 # __Blockchain-based secure cross-platform sharing__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Need for effective online education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_769.md)
-
-## Property: has_MitigationBenefit
-
-* [Secure environment for online education](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1057.md)
+* [Enable transparent and secure data management, traceability, and efficient distribution while promoting accurate information dissemination and verification.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_321.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Blockchain-based medical record management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1058.md)
 * [Store donation process in blockchain for transparency and verification, reducing corruption and improving social trust](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1699.md)
 * [Improved data sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_526.md)
+
+## Property: has_MitigationBenefit
+
+* [Secure environment for online education](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1057.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Need for effective online education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_769.md)
 

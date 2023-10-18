@@ -2,9 +2,9 @@
 
 # __signage and communication tools__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1211272](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1211272.md)
+* [Enhanced connectivity and diverse communication platforms enable the dissemination of reliable information and promote open communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_225.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [signage for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1823.md)
 * [clear signage and reminders](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_290.md)
 * [communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_168.md)
+
+## This Technology is identified by the following QID
+
+* [Q1211272](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1211272.md)
 

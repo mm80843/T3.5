@@ -2,9 +2,9 @@
 
 # __Spread of COVID-19 through contaminated surfaces__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Antiviral surface coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_917.md)
+* [The wide-ranging transmission, survival, and spread of infectious respiratory viruses and pathogens indoors and on surfaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_122.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Virus spread through contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1131.md)
 * [Spread of COVID-19 due to air pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_146.md)
 * [Spread of COVID-19 through sewage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_932.md)
+
+## Mitigations of this risk
+
+* [Antiviral surface coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_917.md)
 

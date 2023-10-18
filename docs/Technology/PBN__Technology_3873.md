@@ -2,9 +2,9 @@
 
 # __trained cleaning personnel__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Proper cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1429.md)
+* [Enhanced hygiene practices and strict adherence to cleaning protocols ensure rigorous sanitation and disinfection measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_196.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [cleaning services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1355.md)
 * [Cleaning services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2551.md)
 * [cleaning agents](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3292.md)
+
+## This Technology enables the following mitigations
+
+* [Proper cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1429.md)
 

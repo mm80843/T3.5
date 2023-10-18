@@ -2,13 +2,13 @@
 
 # __GPS__
 
-## Property: has_TechEquivalent
-
-* [GPS](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4536.md)
-
 ## Property: has_BP_EnablerTitle
 
 enabler_011
+
+## Category to which it belongs
+
+* [Navigational system.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_70.md)
 
 ## Closest similar item
 
@@ -26,4 +26,8 @@ enabler_011
 ## Thees blueprints use this enabler
 
 * [Controls at key checkpoints](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_6.md)
+
+## Property: has_TechEquivalent
+
+* [GPS](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4536.md)
 

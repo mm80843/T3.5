@@ -2,9 +2,9 @@
 
 # __Wildlife conservation__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Reduced human interference](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_186.md)
+* [The proliferation of diseases carried by ticks and mosquitoes, exacerbated by climate change, inadequate control measures, and wildlife disturbance, causing increased prevalence and spread of various illnesses.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_119.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Loss of biodiversity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3265.md)
 * [Declines in conservation revenue](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_772.md)
 * [Limited understanding of complex conservation challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3342.md)
+
+## Mitigations of this risk
+
+* [Reduced human interference](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_186.md)
 

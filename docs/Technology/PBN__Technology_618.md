@@ -2,9 +2,9 @@
 
 # __ai-based monitoring systems__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q41567412](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q41567412.md)
+* [Advanced monitoring systems and sensor integration for IoT devices and biosensor technology facilitate environmental monitoring and facility usage tracking.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_229.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [advanced monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1129.md)
 * [Advanced monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2454.md)
 * [AI-backed systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2069.md)
+
+## This Technology is identified by the following QID
+
+* [Q41567412](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q41567412.md)
 

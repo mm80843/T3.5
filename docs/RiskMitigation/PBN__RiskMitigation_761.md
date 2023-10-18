@@ -2,13 +2,9 @@
 
 # __Provide accurate__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Avoidance of news about](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_537.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduced anxiety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_768.md)
+* [Implementing a comprehensive package of measures to ensure the smooth functioning and safety of essential services and activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_6.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Transparent and consistent communication, providing accurate and timely information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1797.md)
 * [Provide accurate information, address fears and concerns through education and communication.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2686.md)
 * [Media should accurately and responsibly report on preprints, and the public should rely on trusted sources for information.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3032.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced anxiety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_768.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Avoidance of news about](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_537.md)
 

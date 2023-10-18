@@ -2,9 +2,9 @@
 
 # __resilient and decentralized economic systems__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q188961](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q188961.md)
+* [Maximizing economic efficiency while promoting financial stability through innovative strategies, investments, and partnerships at various levels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_195.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [economic policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_806.md)
 * [Economic policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2630.md)
 * [use building materials and systems that are resilient to emergencies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1380.md)
+
+## This Technology is identified by the following QID
+
+* [Q188961](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q188961.md)
 

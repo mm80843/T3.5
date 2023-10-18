@@ -2,13 +2,9 @@
 
 # __Adoption of emerging technologies__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of protective suits and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_420.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced protection for healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_577.md)
+* [Accelerate the shift to digitalization by embracing emerging technologies and implementing innovative solutions across various sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_346.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implement smart/innovative technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2861.md)
 * [Adoption of smart communities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_898.md)
 * [Deploying latest technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_584.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced protection for healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_577.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of protective suits and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_420.md)
 

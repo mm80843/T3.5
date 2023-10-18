@@ -2,13 +2,9 @@
 
 # __Real-time passenger information__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Overcrowding on public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_528.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduced overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_559.md)
+* [Enhanced surveillance, monitoring, and real-time tracking for improved control and response to various situations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_312.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [People monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1419.md)
 * [Safe pedestrian navigation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_970.md)
 * [Collect and analyze data on human movement patterns using mobile phone call data records and other sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2830.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_559.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Overcrowding on public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_528.md)
 

@@ -2,9 +2,9 @@
 
 # __Lack of comprehensive and coordinated climate action__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Green New Deals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1994.md)
+* [The interconnectedness of environmental degradation, social inequalities, and the need for climate action and conservation efforts.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_104.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of control of environmental conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1250.md)
 * [Lack of proper environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1142.md)
 * [Inadequate implementation of environmental adjustments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1516.md)
+
+## Mitigations of this risk
+
+* [Green New Deals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1994.md)
 

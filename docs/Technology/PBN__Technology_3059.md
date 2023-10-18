@@ -2,9 +2,9 @@
 
 # __video conferences__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Virtual ways of educating the general population and high-risk groups](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_211.md)
+* [Enhanced monitoring and surveillance technologies enable real-time tracking, video conferencing, and improved detection methods.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_214.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [video conferencing tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_428.md)
 * [Video conferencing tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2140.md)
 * [video conferencing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3526.md)
+
+## This Technology enables the following mitigations
+
+* [Virtual ways of educating the general population and high-risk groups](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_211.md)
 

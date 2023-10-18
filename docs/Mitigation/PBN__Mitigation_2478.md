@@ -2,9 +2,9 @@
 
 # __Ventilator Innovations__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [automation technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4522.md)
+* [Optimal air circulation and fresh airflow to enhance indoor environment and promote health in buildings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_177.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_265.md)
 * [Improved Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1228.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [None](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2827.md)
-
 ## Property: has_MitigationPrinciple
 
 Developing scalable and innovative ventilators to address the high demand and improve patient care.
 
+## Risks possibly mitigated by this Mitigation
+
+* [None](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2827.md)
+
 ## Property: has_MitigationSource
 
 * [Supporting Technologies for COVID-19 Prevention: Systemized Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_266.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [automation technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4522.md)
 

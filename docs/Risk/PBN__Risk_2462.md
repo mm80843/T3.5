@@ -2,9 +2,9 @@
 
 # __Community transmission__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Neighbourhood Hygiene Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_144.md)
+* [The spread of diseases through various methods, including contact, droplets, and contaminated surfaces, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_137.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Local transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1595.md)
 * [Transmission clusters](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2620.md)
 * [Community spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2409.md)
+
+## Mitigations of this risk
+
+* [Neighbourhood Hygiene Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_144.md)
 

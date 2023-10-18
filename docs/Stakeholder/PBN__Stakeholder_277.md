@@ -2,13 +2,13 @@
 
 # __authorities__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q36524](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q36524.md)
+* [Various organizations and professionals responsible for overseeing specific areas of governance, infrastructure, protection, and creativity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_395.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
+* [Spread of false information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_848.md)
 
 ## Closest similar item
 
@@ -23,14 +23,6 @@
 * [government authority](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1614.md)
 * [government officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_333.md)
 
-## Risk affecting this stakeholder
-
-* [Spread of false information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_848.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Government and Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_8.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Increased citizen cooperation and trust](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_669.md)
@@ -39,4 +31,16 @@
 
 * [Noncompliance with public health directives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1897.md)
 * [Spread of false information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_848.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Government and Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_8.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q36524](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q36524.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
 

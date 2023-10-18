@@ -2,15 +2,9 @@
 
 # __uv lamps__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [UV-Light radiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1813.md)
-* [UV radiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_378.md)
-* [UV air disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2293.md)
-* [UVGI](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1325.md)
-* [UV susceptibility of bacterial aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2295.md)
-* [UV susceptibility of viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2294.md)
-* [UV susceptibility of pathogenic viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2297.md)
+* [Innovative lighting solutions harnessing ultraviolet technology for optimal germicidal sterilization and energy efficiency, while maximizing natural light.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_235.md)
 
 ## Closest similar item
 
@@ -24,4 +18,14 @@
 * [uv-c germicidal lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1007.md)
 * [UV-C germicidal lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2221.md)
 * [254 nm uv lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4392.md)
+
+## This Technology enables the following mitigations
+
+* [UV-Light radiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1813.md)
+* [UV radiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_378.md)
+* [UV air disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2293.md)
+* [UVGI](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1325.md)
+* [UV susceptibility of bacterial aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2295.md)
+* [UV susceptibility of viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2294.md)
+* [UV susceptibility of pathogenic viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2297.md)
 

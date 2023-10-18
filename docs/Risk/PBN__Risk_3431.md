@@ -2,9 +2,9 @@
 
 # __Overfitted models__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Machine learning models](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2369.md)
+* [A list of challenges and uncertainties surrounding the impact and response to various events and crises in different sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_124.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Health care system overload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_12.md)
 * [Healthcare system overload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2134.md)
 * [Healthcare overload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2419.md)
+
+## Mitigations of this risk
+
+* [Machine learning models](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2369.md)
 

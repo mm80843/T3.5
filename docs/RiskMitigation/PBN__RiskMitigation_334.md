@@ -2,13 +2,9 @@
 
 # __Development of novel vector control tools__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Vector-borne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_273.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved effectiveness of control measures](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_338.md)
+* [Enhanced surveillance, monitoring, and real-time tracking for improved control and response to various situations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_312.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Increased funding for vector control programs, allocation of resources to priority areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3056.md)
 * [Digital tracking tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_633.md)
 * [Implement ecosystem-based approaches to control vectors, such as maintaining natural habitats and reducing breeding sites.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2433.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved effectiveness of control measures](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_338.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Vector-borne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_273.md)
 

@@ -2,13 +2,9 @@
 
 # __COVID-19 tracking apps__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Geographical spread of virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_844.md)
-
-## Property: has_MitigationBenefit
-
-* [Contact tracing and notification](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1165.md)
+* [Enhanced surveillance, monitoring, and real-time tracking for improved control and response to various situations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_312.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Establish standardized accuracy measures specific to COVID-19 detection and adoption for evaluating the performance of wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1720.md)
 * [Use of WBE for tracking COVID-19 prevalence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1208.md)
 * [Mobile phone tracking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1408.md)
+
+## Property: has_MitigationBenefit
+
+* [Contact tracing and notification](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1165.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Geographical spread of virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_844.md)
 

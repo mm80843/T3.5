@@ -2,8 +2,9 @@
 
 # __aerosol irradiation chamber__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Maximizing the use of natural light and UV radiation for germicidal purposes in indoor spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_176.md)
 
 ## Closest similar item
 
@@ -18,14 +19,17 @@
 * [Air filtration and purification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1277.md)
 * [Implement UV germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_730.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 The chamber creates aerosolized viruses similar to those generated during sneezing and coughing for testing the efficacy of far-UVC light in inactivating airborne viruses.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Far-UVC light (222 nm) efficiently and safely inactivates airborne human coronaviruses](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_182.md)
+
+## This Mitigation is enabled by the following technologies
+
 

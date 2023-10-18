@@ -2,9 +2,9 @@
 
 # __Digital RT-qPCR__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [digital rt-qpcr assay](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4006.md)
+* [Monitoring and integrating various sensors and devices in smart homes and healthcare settings for real-time health tracking and early detection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_181.md)
 
 ## Closest similar item
 
@@ -19,14 +19,18 @@
 * [Real-time updates and communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1256.md)
 * [Improved communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2160.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Digital RT-qPCR is a highly sensitive method that can be used to quantify samples with low viral loads, providing more accurate measurements of viral RNA in wastewater samples for surveillance purposes.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [SARS-CoV-2 RNA in wastewater anticipated COVID-19 occurrence in a low prevalence area](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_96.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [digital rt-qpcr assay](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4006.md)
 

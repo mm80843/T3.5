@@ -2,9 +2,9 @@
 
 # __digital health technologies__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Sustainable and equitable tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_576.md)
+* [Technological advancements encompass a wide range of innovations, such as blockchain, touchless, renewable energy, and communication technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Electronic health records](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2299.md)
 * [mobile health technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1691.md)
 * [electronic health record systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_515.md)
+
+## This Technology enables the following mitigations
+
+* [Sustainable and equitable tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_576.md)
 

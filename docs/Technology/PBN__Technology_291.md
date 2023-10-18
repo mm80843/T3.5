@@ -2,13 +2,13 @@
 
 # __use of technology for contact tracing__
 
+## Category to which it belongs
+
+* [Enhanced connectivity and diverse communication platforms enable the dissemination of reliable information and promote open communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_225.md)
+
 ## Risks linked to this technology
 
 * [Lack of Social Distancing Implementation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1203.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Public Health and Safety Measures](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_52.md)
 
 ## Closest similar item
 
@@ -23,11 +23,15 @@
 * [Digital contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2867.md)
 * [manual contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3091.md)
 
-## This Technology belongs to this TechGroup
-
-* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1128437](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1128437.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Public Health and Safety Measures](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_52.md)
+
+## This Technology belongs to this TechGroup
+
+* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
 

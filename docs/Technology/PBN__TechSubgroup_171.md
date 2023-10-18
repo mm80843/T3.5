@@ -2,9 +2,9 @@
 
 # __Payment and Transaction Systems__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [Digital payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2610.md)
+* [Secure systems for user verification, protection against cyber threats, detecting risks, and ensuring safe transactions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_35.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Financial Measures](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_160.md)
 * [Economic and Financial Support](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_102.md)
 * [Data Management and Recording Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_148.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [Digital payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2610.md)
 

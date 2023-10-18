@@ -2,10 +2,9 @@
 
 # __nucleic acid extraction__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Wastewater-based surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2410.md)
-* [Viral enrichment protocol](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2411.md)
+* [Advancements in biotechnology, clinical research, and innovative therapies contribute to the development of medical solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [pcr assay](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3073.md)
 * [desk-based extraction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4186.md)
 * [molecular testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3634.md)
+
+## This Technology enables the following mitigations
+
+* [Wastewater-based surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2410.md)
+* [Viral enrichment protocol](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2411.md)
 

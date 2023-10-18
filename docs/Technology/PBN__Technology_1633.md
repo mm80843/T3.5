@@ -2,9 +2,9 @@
 
 # __automation in production and distribution__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q184199](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q184199.md)
+* [Efficiently manage and optimize the flow of goods, data, and suppliers for resilient local supply chains.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_191.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [building automation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_202.md)
 * [treatment plant automation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3968.md)
 * [automated devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3944.md)
+
+## This Technology is identified by the following QID
+
+* [Q184199](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q184199.md)
 

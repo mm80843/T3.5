@@ -2,13 +2,9 @@
 
 # __community organizers__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q3269648](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3269648.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
+* [A diverse array of entities dedicated to various industries, causes, or services, promoting growth and welfare in society.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_369.md)
 
 ## Closest similar item
 
@@ -23,11 +19,19 @@
 * [attendees of mass gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_861.md)
 * [social gathering](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2483.md)
 
+## Risks that can be mitigated by this stakeholder
+
+* [Dependence on non-contact interaction activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2327.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Community Leaders/Organizers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_127.md)
 
-## Risks that can be mitigated by this stakeholder
+## This Stakeholder is identified by the following QID
 
-* [Dependence on non-contact interaction activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2327.md)
+* [Q3269648](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3269648.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
 

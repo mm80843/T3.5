@@ -2,9 +2,9 @@
 
 # __Policy measures to support startups__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Enhanced availability of financial capital](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_790.md)
+* [Fragmented global governance, reduced aid, ethical concerns, educational disruption, impacts on peace and justice, and inadequate coordination between stakeholders.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_115.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Ineffective mitigation policies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_542.md)
 * [Supporting essential sectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2559.md)
 * [Lack of real-time data for policy intervention](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_580.md)
+
+## Mitigations of this risk
+
+* [Enhanced availability of financial capital](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_790.md)
 

@@ -2,13 +2,9 @@
 
 # __Blockchain-based medical record management__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Misdiagnosis and fake news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_768.md)
-
-## Property: has_MitigationBenefit
-
-* [Scrutiny of data accuracy and real-time updates](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1056.md)
+* [Enable transparent and secure data management, traceability, and efficient distribution while promoting accurate information dissemination and verification.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_321.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Collaborate with blockchain companies for secure and timely medication delivery with accurate tracking.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2859.md)
 * [Patient-controlled access to medical records](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_400.md)
 * [Blockchain-enabled system for EHR exchange](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_401.md)
+
+## Property: has_MitigationBenefit
+
+* [Scrutiny of data accuracy and real-time updates](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1056.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Misdiagnosis and fake news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_768.md)
 

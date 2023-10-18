@@ -2,9 +2,9 @@
 
 # __Surge demands of critical care facilities__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Increase investment in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_582.md)
+* [Healthcare systems overwhelmed with limited resources, shortage of personnel, and inadequate infrastructure face challenges in providing accessible and quality care.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_101.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Insufficient medical facilities and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1315.md)
 * [Shortage of critical supplies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3337.md)
 * [Inadequate healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1488.md)
+
+## Mitigations of this risk
+
+* [Increase investment in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_582.md)
 

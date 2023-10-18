@@ -2,13 +2,9 @@
 
 # __Conversion of public venues into makeshift hospitals__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of capacity in traditional hospitals during a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_441.md)
-
-## Property: has_MitigationBenefit
-
-* [Increased healthcare capacity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_618.md)
+* [Promote equitable, sustainable, and inclusive urban planning to enhance living conditions, mitigate overcrowding, and reduce disparities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_324.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Increase healthcare capacity, establish additional temporary facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2993.md)
 * [Increase healthcare resources and facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2008.md)
 * [Implement public health measures, reduce indoor gatherings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1707.md)
+
+## Property: has_MitigationBenefit
+
+* [Increased healthcare capacity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_618.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of capacity in traditional hospitals during a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_441.md)
 

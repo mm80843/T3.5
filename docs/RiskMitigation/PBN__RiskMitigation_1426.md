@@ -2,13 +2,9 @@
 
 # __Development of next-generation wearable devices with sufficient reliability and robustness__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Limited functionality and reliability of wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1004.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced functionality and reliability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1396.md)
+* [Monitoring, analysis, and standardization of various technologies and protocols for accurate and reliable healthcare data collection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_310.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Smart Personal Protective Equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1280.md)
 * [Establish standardized accuracy measures specific to COVID-19 detection and adoption for evaluating the performance of wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1720.md)
 * [Implement robust data security measures, ethical guidelines, and regulatory frameworks for collecting and utilizing wearable device data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1563.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced functionality and reliability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1396.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limited functionality and reliability of wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1004.md)
 

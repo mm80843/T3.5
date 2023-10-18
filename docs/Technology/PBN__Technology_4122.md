@@ -2,9 +2,9 @@
 
 # __teleworking__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Accelerating Transition towards Digitalization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1875.md)
+* [Virtual healthcare and remote communication technology including telemedicine, telehealth platforms, teletherapy, teleconferencing, and tele-operation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_202.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [tele-devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4147.md)
 * [telehealth technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1652.md)
 * [Telehealth technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2289.md)
+
+## This Technology enables the following mitigations
+
+* [Accelerating Transition towards Digitalization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1875.md)
 

@@ -2,12 +2,13 @@
 
 # __online platforms for sharing information__
 
+## Category to which it belongs
+
+* [Digital platforms and online resources facilitate collaboration, communication, and information sharing among individuals and organizations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_193.md)
+
 ## Risks linked to this technology
 
 * [Lack of awareness and education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1165.md)
-
-## This Technology belongs to this TechSubgroup
-
 
 ## Closest similar item
 
@@ -22,11 +23,14 @@
 * [online social platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1404.md)
 * [collaborative platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1132.md)
 
-## This Technology belongs to this TechGroup
-
-* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
-
 ## This Technology is identified by the following QID
 
 * [Q6031064](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6031064.md)
+
+## This Technology belongs to this TechSubgroup
+
+
+## This Technology belongs to this TechGroup
+
+* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
 

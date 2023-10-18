@@ -2,9 +2,9 @@
 
 # __urban researchers__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [New typology for public space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1461.md)
+* [Areas inhabited by people in cities, focusing on residents, professionals, researchers, decision-makers, and institutions involved in urban planning and development.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_376.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [urban community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2487.md)
 * [urban managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_518.md)
 * [city planners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_752.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [New typology for public space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1461.md)
 

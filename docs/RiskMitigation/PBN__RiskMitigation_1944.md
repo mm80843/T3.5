@@ -2,9 +2,9 @@
 
 # __Improve project management and supervision, provide proper training to workforce, implement quality control measures.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Improper implementation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_297.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Foster collaboration and clear communication among stakeholders, establish effective project governance structure.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1946.md)
 * [Develop cost-effective solutions, provide financial incentives, and promote collaboration.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2784.md)
 * [Continuously monitor and adjust project plans and schedules to minimize delays, cost overruns, and scope changes.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2617.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Improper implementation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_297.md)
 

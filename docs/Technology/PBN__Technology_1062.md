@@ -2,9 +2,9 @@
 
 # __rh__
 
-## Risks linked to this technology
+## Category to which it belongs
 
-* [Relationship between AH, RH, and temperature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1706.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [nfv](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4150.md)
 * [its](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3997.md)
 * [bathroom)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3447.md)
+
+## Risks linked to this technology
+
+* [Relationship between AH, RH, and temperature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1706.md)
 

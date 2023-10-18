@@ -2,9 +2,9 @@
 
 # __Risk of misdiagnosis or false results__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Testing and validation of the expert system’s performance and accuracy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1146.md)
+* [The proliferation of false and misleading information, misinformation, and inaccurate news during pandemics creates confusion and a lack of trust in reliable sources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_127.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Diagnostic Accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3291.md)
 * [Amplification of flawed data through meta-analyses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2333.md)
 * [Amplification of flawed trial data in meta-analyses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_618.md)
+
+## Mitigations of this risk
+
+* [Testing and validation of the expert system’s performance and accuracy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1146.md)
 

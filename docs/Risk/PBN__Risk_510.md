@@ -2,9 +2,9 @@
 
 # __Virus Transmission through hidden carriers__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Widespread testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_720.md)
+* [The wide-ranging transmission, survival, and spread of infectious respiratory viruses and pathogens indoors and on surfaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_122.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Virus Transmission through touch](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_508.md)
 * [Virus transmission in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_89.md)
 * [Viral Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2817.md)
+
+## Mitigations of this risk
+
+* [Widespread testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_720.md)
 

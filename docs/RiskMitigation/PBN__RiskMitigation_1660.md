@@ -2,9 +2,9 @@
 
 # __Develop strategies to address general travel anxiety__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [General anxiety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1208.md)
+* [Implement travel restrictions, promote active transportation, streamline processes, provide accurate information, and develop sustainable transport options.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_325.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Travel restrictions, testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2127.md)
 * [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_564.md)
 * [Travel Restrictions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1194.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [General anxiety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1208.md)
 

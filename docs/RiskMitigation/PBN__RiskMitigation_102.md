@@ -2,13 +2,9 @@
 
 # __Promoting safe and responsible behavior__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Social Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_85.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction in social risks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_115.md)
+* [Enforce safety measures, promote responsible behavior, utilize PPE, and prioritize risk prevention to ensure adequate protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_342.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Provide regular safety training and updates, enforce universal precautions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2812.md)
 * [Increase perceived threat](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1211.md)
 * [Maintain clear communication, demonstrate safety measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2058.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction in social risks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_115.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Social Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_85.md)
 

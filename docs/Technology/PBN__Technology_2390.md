@@ -2,9 +2,9 @@
 
 # __Renewable energy sources__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
-* [Sustainable Practices and Renewable Energy](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_131.md)
+* [Promotion of environmentally-friendly practices, green infrastructure, sustainable housing, renewable energy, and responsible building to enhance spaces and mitigate climate change.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_224.md)
 
 ## Closest similar item
 
@@ -23,4 +23,8 @@
 
 * [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 * [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Sustainable Practices and Renewable Energy](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_131.md)
 

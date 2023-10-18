@@ -2,9 +2,9 @@
 
 # __Difficulty in adapting to new rules and regulations__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Reimagining post-lockdown workplace rules](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_906.md)
+* [Fragmented global governance, reduced aid, ethical concerns, educational disruption, impacts on peace and justice, and inadequate coordination between stakeholders.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_115.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Barriers to progress, existing challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2639.md)
 * [Compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3219.md)
 * [Challenges of new](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_902.md)
+
+## Mitigations of this risk
+
+* [Reimagining post-lockdown workplace rules](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_906.md)
 

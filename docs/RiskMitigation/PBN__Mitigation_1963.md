@@ -2,9 +2,9 @@
 
 # __Portable Awnings__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [portable awnings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4171.md)
+* [Synthesizing, standardizing, and disseminating evidence to enhance accessibility and harmonize protocols for seamless communication and provision of public places.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_186.md)
 
 ## Closest similar item
 
@@ -19,14 +19,18 @@
 * [Safety Wearables and Carry-ons](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_304.md)
 * [Flexible building](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1662.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Installing portable exterior partitions with minimum thermal transmittance values to control heat exchange and maintain temperature in the adapted spaces.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Building Transformation for Precautionary Measures against COVID-19 Pandemic: Case of Off-Street Car Parking of Campuses](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_224.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [portable awnings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4171.md)
 

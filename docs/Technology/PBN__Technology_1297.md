@@ -2,9 +2,9 @@
 
 # __social distancing signage__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1211272](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1211272.md)
+* [Measures promoting accountability, media control, real-time updates, and virtual experiences for physical distancing and education.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Digital signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4556.md)
 * [social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_906.md)
 * [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2212.md)
+
+## This Technology is identified by the following QID
+
+* [Q1211272](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1211272.md)
 

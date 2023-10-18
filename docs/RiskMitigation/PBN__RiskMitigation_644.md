@@ -2,13 +2,9 @@
 
 # __Resilient approach__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Black swan events](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_454.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved continuity of essential services](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_647.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Affordable housing with resilient design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_23.md)
 * [Promote resilience through education, social support, and fostering a sense of hope.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2693.md)
 * [Improve capacity and resilience in the health sector, enhance surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2160.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved continuity of essential services](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_647.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Black swan events](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_454.md)
 

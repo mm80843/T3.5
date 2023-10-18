@@ -2,9 +2,9 @@
 
 # __Data sharing ethics, accuracy__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Big data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1249.md)
+* [Protection of sensitive information and prevention of unauthorized access or breaches in various technological contexts.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_117.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Data security, encryption, ethics, and regulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1115.md)
 * [Misuse of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_50.md)
 * [Poor compliance, concern over data misuse](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2637.md)
+
+## Mitigations of this risk
+
+* [Big data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1249.md)
 

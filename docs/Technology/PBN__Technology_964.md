@@ -2,9 +2,9 @@
 
 # __bird deterrent devices__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q685629](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q685629.md)
+* [Urban green space solutions include tree planting, zoning regulations, landscape architecture, community gardens, outdoor furniture, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_231.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Risk detection systems and drones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2452.md)
 * [drones for monitoring overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_416.md)
 * [Drones for monitoring overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2455.md)
+
+## This Technology is identified by the following QID
+
+* [Q685629](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q685629.md)
 

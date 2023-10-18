@@ -2,13 +2,9 @@
 
 # __Data Storage and Backup Systems__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [secure server networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_347.md)
-* [secure servers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1071.md)
-* [secure data storage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_576.md)
-* [Data protection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2421.md)
-* [Backup systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2423.md)
+* [Efficient systems for exchanging, managing, storing, recording, and sharing information and facilitating collaboration and validation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_12.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Encryption and Security Algorithms](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_136.md)
 * [Security Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_133.md)
 * [Data Collection and Analysis](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_162.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [secure server networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_347.md)
+* [secure servers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1071.md)
+* [secure data storage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_576.md)
+* [Data protection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2421.md)
+* [Backup systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2423.md)
 

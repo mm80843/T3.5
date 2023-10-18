@@ -2,11 +2,9 @@
 
 # __Psychological impact of fear and anxiety__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Implement community-based strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_50.md)
-* [Targeted, tailored messages](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_51.md)
-* [Implement mental health supporting strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_52.md)
+* [The toll of mental health harms, health harming behaviors, and the psychological impact of quarantine, fear, and anxiety has increased, affecting various populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_95.md)
 
 ## Closest similar item
 
@@ -20,4 +18,10 @@
 * [Psychological Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_84.md)
 * [General anxiety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1208.md)
 * [Psychological impact of quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_33.md)
+
+## Mitigations of this risk
+
+* [Implement community-based strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_50.md)
+* [Targeted, tailored messages](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_51.md)
+* [Implement mental health supporting strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_52.md)
 

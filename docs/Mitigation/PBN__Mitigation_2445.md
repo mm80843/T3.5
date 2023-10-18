@@ -2,10 +2,9 @@
 
 # __Access to accurate and reliable information__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [media sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4507.md)
-* [internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3058.md)
+* [Improved data management and sharing for efficient and secure information exchange and analysis across various platforms and stakeholders.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_182.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Real-time Information Sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1932.md)
 * [Accurate evidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_891.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Lack of knowledge and attitudes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3459.md)
-
 ## Property: has_MitigationPrinciple
 
 Ensuring access to accurate and reliable information through internet and various media sources to improve knowledge and attitudes towards COVID-19
 
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of knowledge and attitudes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3459.md)
+
 ## Property: has_MitigationSource
 
 * [Knowledge, attitudes, and practices of Indonesian residents regarding COVID-19: A national cross-sectional survey](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_176.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [media sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4507.md)
+* [internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3058.md)
 

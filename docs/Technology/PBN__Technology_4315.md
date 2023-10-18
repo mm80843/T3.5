@@ -2,9 +2,9 @@
 
 # __simulation and training programs__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Exercises and Trainings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2188.md)
+* [Advanced technologies and algorithms for modeling, simulation, optimization, and artificial intelligence in various applications, including robotics and computational fluid dynamics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_239.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [simulation equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3225.md)
 * [simulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_389.md)
 * [training resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3894.md)
+
+## This Technology enables the following mitigations
+
+* [Exercises and Trainings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2188.md)
 

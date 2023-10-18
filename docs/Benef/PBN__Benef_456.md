@@ -2,19 +2,19 @@
 
 # __Professional networking__
 
+## Name of the Benefit
+
+Facilitates knowledge sharing, learning from international colleagues, and updates on essential topics such as the use/availability of personal protective equipment and self-isolation procedures.
+
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Enhances professional development and resource access, leading to more informed decision-making.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_492.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [healthcare staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_139.md)
 
 ## Articles mentionning this Benefit
 
 * [COVID-19: A new digital dawn?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_93.md)
 
-## Name of the Benefit
+## Stakeholders benefitting from this Benefit
 
-Facilitates knowledge sharing, learning from international colleagues, and updates on essential topics such as the use/availability of personal protective equipment and self-isolation procedures.
+* [healthcare staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_139.md)
 

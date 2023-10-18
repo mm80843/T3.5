@@ -2,9 +2,9 @@
 
 # __WM2: Waste management__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Disinfection of household waste](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_237.md)
+* [The challenges of urban water management include water contamination, waste management, inadequate water storage, and poor drainage.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_120.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inadequate waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1067.md)
 * [Solid waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_575.md)
 * [Environmental impact and waste management challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1623.md)
+
+## Mitigations of this risk
+
+* [Disinfection of household waste](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_237.md)
 

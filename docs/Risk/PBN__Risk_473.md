@@ -2,9 +2,9 @@
 
 # __Embedding health-related indicators in sustainable development goals__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Integration of health in development policies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_663.md)
+* [The intersection of human activity and health, integrating databases, limited healthcare access, sedentary lifestyles, neglecting public health requirements, and disparities in urban design contribute to public health concerns.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_116.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2235.md)
 * [Emotional distress, unhealthy behaviors, noncompliance with public health directives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3155.md)
 * [Positive health effects (reduced environmental pollution, fewer accidents, lower ARI incidence)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_103.md)
+
+## Mitigations of this risk
+
+* [Integration of health in development policies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_663.md)
 

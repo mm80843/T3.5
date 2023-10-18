@@ -2,9 +2,14 @@
 
 # __medical personnel__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q11974939](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11974939.md)
+* [Various individuals in the healthcare industry, including epidemiologists, medical personnel, clinicians, surgeons, and patients in need of medical care.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_360.md)
+
+## Risk affecting this stakeholder
+
+* [Overwhelmed healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1007.md)
+* [Shortage of AIIRs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_313.md)
 
 ## Closest similar item
 
@@ -18,11 +23,6 @@
 * [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
 * [physicians](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1485.md)
 * [hospital staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_369.md)
-
-## Risk affecting this stakeholder
-
-* [Overwhelmed healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1007.md)
-* [Shortage of AIIRs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_313.md)
 
 ## This Stakeholder can get these Benefits from mitigation measures
 
@@ -39,4 +39,8 @@
 * [Inadequate room selection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1640.md)
 * [Lack of anterooms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1641.md)
 * [Inadequate door-lock device](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1643.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q11974939](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11974939.md)
 

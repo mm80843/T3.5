@@ -2,13 +2,9 @@
 
 # __Employment protections__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Unemployment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_857.md)
-
-## Property: has_MitigationBenefit
-
-* [Job security](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1180.md)
+* [Ensuring equitable access, promoting flexible work, implementing safety measures, and providing support for remote work and flexible schedules.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_323.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Adoption of better working conditions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_901.md)
 * [Improved Occupational Safety and Health Administration (OSHA) compliance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_671.md)
 * [Alignment of data protection laws](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1117.md)
+
+## Property: has_MitigationBenefit
+
+* [Job security](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1180.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Unemployment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_857.md)
 

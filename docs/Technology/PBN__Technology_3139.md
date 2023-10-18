@@ -2,9 +2,9 @@
 
 # __walkie-talkies__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Human Interactions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_300.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [radio](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3805.md)
 * [parks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1740.md)
 * [fitbits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3014.md)
+
+## This Technology enables the following mitigations
+
+* [Human Interactions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_300.md)
 

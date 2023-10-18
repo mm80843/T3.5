@@ -2,9 +2,9 @@
 
 # __Ineffective dissemination__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Leverage multiple dissemination channels](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_612.md)
+* [The challenges include reduced surgical education, loss of control, limited diagnostics, slow drug development, inadequate patient monitoring, and lack of drug therapy options.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_110.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Flawed communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_829.md)
 * [Inadequate means of communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1092.md)
 * [Spread of inaccurate news on social media](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1015.md)
+
+## Mitigations of this risk
+
+* [Leverage multiple dissemination channels](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_612.md)
 

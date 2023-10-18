@@ -2,13 +2,9 @@
 
 # __smart meters__
 
-## Risks linked to this technology
+## Category to which it belongs
 
-* [Energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_745.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Internet of Things (IoT) and Smart Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_94.md)
+* [A comprehensive range of advanced, interconnected devices that offer efficiency, convenience, and enhanced functionality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_238.md)
 
 ## Closest similar item
 
@@ -27,7 +23,15 @@
 
 * [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
 
+## This Technology belongs to this TechSubgroup
+
+* [Internet of Things (IoT) and Smart Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_94.md)
+
 ## This Technology enables the following mitigations
 
 * [Two-way Communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_381.md)
+
+## Risks linked to this technology
+
+* [Energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_745.md)
 

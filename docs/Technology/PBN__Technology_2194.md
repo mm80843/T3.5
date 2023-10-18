@@ -2,10 +2,9 @@
 
 # __Mental health apps__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
-* [Mental Health Support](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_63.md)
-* [Mental Health Resources and Support](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_68.md)
+* [A comprehensive list of mobile applications, including contact-tracing apps, mental health apps, mobile banking, and fitness tracking devices, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_197.md)
 
 ## Closest similar item
 
@@ -20,12 +19,17 @@
 * [mental health interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1288.md)
 * [online mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1242.md)
 
+## This Technology is identified by the following QID
+
+* [Q67076049](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q67076049.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Mental Health Support](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_63.md)
+* [Mental Health Resources and Support](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_68.md)
+
 ## This Technology belongs to this TechGroup
 
 * [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
 * [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
-
-## This Technology is identified by the following QID
-
-* [Q67076049](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q67076049.md)
 

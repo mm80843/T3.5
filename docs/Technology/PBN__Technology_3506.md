@@ -2,9 +2,9 @@
 
 # __improved airflow__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Enhanced Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_869.md)
+* [Improved air quality can be achieved through the use of various technologies such as air purifiers and monitoring systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_221.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [air circulation devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1662.md)
 * [air circulation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_259.md)
 * [increased outside air fractions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_502.md)
+
+## This Technology enables the following mitigations
+
+* [Enhanced Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_869.md)
 

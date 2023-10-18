@@ -2,13 +2,9 @@
 
 # __Investment in education__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Economic impact of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_386.md)
-
-## Property: has_MitigationBenefit
-
-* [Increased educational opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_529.md)
+* [Promote sustainable development through infrastructure investments, training, diversification, financial support, and government partnerships.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_315.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [impact investment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3337.md)
 * [education and training programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3338.md)
 * [Education and training programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3339.md)
+
+## Property: has_MitigationBenefit
+
+* [Increased educational opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_529.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Economic impact of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_386.md)
 

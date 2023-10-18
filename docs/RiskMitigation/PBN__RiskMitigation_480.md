@@ -2,13 +2,9 @@
 
 # __Enhanced cleanliness and sanitation measures__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Risk of COVID-19 transmission in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_364.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_468.md)
+* [Promote and enforce hygiene practices, implement sanitation measures, and provide education on proper handwashing techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_332.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implement strategies for reduced contact and improved hygiene, provide access to water and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3051.md)
 * [Implement strict hygiene and sanitation measures, promote social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2471.md)
 * [Improvement of sanitation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_757.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_468.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Risk of COVID-19 transmission in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_364.md)
 

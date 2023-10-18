@@ -2,9 +2,9 @@
 
 # __insecticide-treated screens__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Urban housing improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1116.md)
+* [Advancements in biotechnology, clinical research, and innovative therapies contribute to the development of medical solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [screens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4292.md)
 * [plastic tubes with insecticide-laden electrostatic netting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4469.md)
 * [integrated pest management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1213.md)
+
+## This Technology enables the following mitigations
+
+* [Urban housing improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1116.md)
 

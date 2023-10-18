@@ -2,9 +2,9 @@
 
 # __Water circulation and aeration, mosquito control measures, public education on mosquito prevention__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Increased risk of mosquito-borne diseases from bodies of water](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1669.md)
+* [Promote understanding and knowledge sharing through educational campaigns, dissemination of accurate information, and public awareness initiatives.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_318.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Improve water and food safety measures, implement vector control strategies, strengthen health systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2193.md)
 * [Design buildings with optimized size, location, and orientation of openings to minimize mosquito access.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2419.md)
 * [Promote recycling and upcycling of construction and demolition waste to prevent the creation of mosquito breeding sites.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2422.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Increased risk of mosquito-borne diseases from bodies of water](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1669.md)
 

@@ -2,9 +2,9 @@
 
 # __Impact on financial stability__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Short-term cash flow management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_712.md)
+* [Financial vulnerability and instability permeate various sectors and industries, hindering growth, sustainability, and access to resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_114.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Impact on economy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1596.md)
 * [Economic instability and overreliance on certain revenue streams](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3340.md)
 * [Financial problems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_415.md)
+
+## Mitigations of this risk
+
+* [Short-term cash flow management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_712.md)
 

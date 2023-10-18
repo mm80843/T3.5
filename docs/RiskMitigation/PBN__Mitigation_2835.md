@@ -2,6 +2,10 @@
 
 # __Determining citizens’ preferences__
 
+## Category to which it belongs
+
+* [Promoting equality, understanding nature, norms, perceived usefulness, and fostering social interactions for positive societal change.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_175.md)
+
 ## Closest similar item
 
 * [Assessing citizens’ willingness to pay](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2834.md)

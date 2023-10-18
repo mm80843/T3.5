@@ -2,9 +2,9 @@
 
 # __Lack of sanitation__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Soap and water access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1824.md)
+* [Insufficient awareness, limited resources, inadequate communication, and lack of preparedness contribute to various challenges and deficiencies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_118.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inadequate sanitation and hygiene facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1680.md)
 * [Inadequate sanitation and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1163.md)
 * [Insufficient Sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1456.md)
+
+## Mitigations of this risk
+
+* [Soap and water access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1824.md)
 

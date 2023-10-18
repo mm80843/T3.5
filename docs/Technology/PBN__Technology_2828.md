@@ -2,9 +2,9 @@
 
 # __IoT__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
-* [Internet of Things (IoT) and Smart Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_94.md)
+* [Advanced monitoring systems and sensor integration for IoT devices and biosensor technology facilitate environmental monitoring and facility usage tracking.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_229.md)
 
 ## Closest similar item
 
@@ -19,12 +19,16 @@
 * [internet of things](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2919.md)
 * [internet of things (iot)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1710.md)
 
-## This Technology belongs to this TechGroup
-
-* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
-
 ## This Technology is identified by the following QID
 
 * [Q251212](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q251212.md)
 * [Q105702391](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q105702391.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Internet of Things (IoT) and Smart Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_94.md)
+
+## This Technology belongs to this TechGroup
+
+* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
 

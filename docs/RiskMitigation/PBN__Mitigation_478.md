@@ -2,8 +2,9 @@
 
 # __Social interaction__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Promoting equality, understanding nature, norms, perceived usefulness, and fostering social interactions for positive societal change.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_175.md)
 
 ## Closest similar item
 
@@ -18,14 +19,17 @@
 * [Reduced social interaction, economic impact](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2851.md)
 * [Reduced social interaction due to social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2562.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Social interaction in gardens promotes a sense of community and social ties, which is beneficial for psychological wellbeing.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Home garden use during COVID-19: Associations with physical and mental wellbeing in older adults](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_244.md)
+
+## This Mitigation is enabled by the following technologies
+
 

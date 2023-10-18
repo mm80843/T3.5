@@ -2,11 +2,9 @@
 
 # __Mobility restrictions,__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-
-## Property: has_MitigationBenefit
-
+* [Implement travel restrictions, promote active transportation, streamline processes, provide accurate information, and develop sustainable transport options.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_325.md)
 
 ## Closest similar item
 
@@ -20,4 +18,10 @@
 * [Imposing travel restrictions, implementing comprehensive screening and testing protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1467.md)
 * [Implement travel restrictions, quarantine measures, and health screenings for individuals moving between cities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2199.md)
 * [Implement border control measures and travel restrictions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3011.md)
+
+## Property: has_MitigationBenefit
+
+
+## Risks possibly mitigated by this Mitigation
+
 

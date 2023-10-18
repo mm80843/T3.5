@@ -2,6 +2,10 @@
 
 # __Shift controls (occupancy control of total users)__
 
+## Category to which it belongs
+
+* [Implement travel restrictions, promote active transportation, streamline processes, provide accurate information, and develop sustainable transport options.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_325.md)
+
 ## Closest similar item
 
 * [Administrative controls (online meetings, shift arrangements)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_515.md)

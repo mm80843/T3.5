@@ -2,9 +2,9 @@
 
 # __interior-point method__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Circle packing algorithm](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2223.md)
+* [Design and construction professionals use innovative techniques and strategies to create adaptable, sustainable, and inclusive buildings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_217.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [rule-based methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1148.md)
 * [separation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4353.md)
 * [optimization algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_988.md)
+
+## This Technology enables the following mitigations
+
+* [Circle packing algorithm](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2223.md)
 

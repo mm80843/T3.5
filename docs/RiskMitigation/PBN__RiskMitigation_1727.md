@@ -2,9 +2,9 @@
 
 # __Transforming public places for essential uses, such as food distribution, medical support, etc.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Flexible public places to support essential sectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_268.md)
+* [Promote public health through policy implementation, strengthened systems, health literacy, and targeted interventions for vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_314.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Promote public health](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_767.md)
 * [Upgrading site facilities, providing handwashing stations, increasing access to restroom facilities.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2566.md)
 * [Implementing strict social distancing measures, promoting urban planning for public health, and improving access to healthcare services in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2717.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Flexible public places to support essential sectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_268.md)
 

@@ -2,9 +2,9 @@
 
 # __cctv systems__
 
-## Risks linked to this technology
+## Category to which it belongs
 
-* [Close contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2140.md)
+* [Enhanced monitoring and surveillance technologies enable real-time tracking, video conferencing, and improved detection methods.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_214.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2434.md)
 * [Image acquisition & CCTV](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4538.md)
 * [digital surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1560.md)
+
+## Risks linked to this technology
+
+* [Close contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2140.md)
 

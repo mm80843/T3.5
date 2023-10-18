@@ -2,8 +2,9 @@
 
 # __Preventive and therapeutic measures__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [A comprehensive set of actions and rules aimed at protecting individuals and controlling the spread of COVID-19.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_173.md)
 
 ## Closest similar item
 
@@ -18,14 +19,17 @@
 * [Strengthening ongoing prevention efforts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2446.md)
 * [Non-Pharmaceutical Interventions (NPIs)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2419.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Along with vaccines, additional measures contribute to the mitigation of the COVID-19 pandemic
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Contributions to the mitigation of the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_245.md)
+
+## This Mitigation is enabled by the following technologies
+
 

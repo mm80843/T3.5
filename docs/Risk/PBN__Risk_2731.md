@@ -2,9 +2,9 @@
 
 # __Manual contact with surfaces during door opening__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Hands-free door opening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_773.md)
+* [A list of challenges and uncertainties surrounding the impact and response to various events and crises in different sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_124.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Contamination, transmission through close contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2490.md)
 * [Ineffective contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2079.md)
 * [Close contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2507.md)
+
+## Mitigations of this risk
+
+* [Hands-free door opening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_773.md)
 

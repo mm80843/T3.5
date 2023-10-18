@@ -2,13 +2,9 @@
 
 # __Effective response to cruise ship case__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Temporary public panic from cruise ship docking](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_79.md)
-
-## Property: has_MitigationBenefit
-
-* [Community containment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_109.md)
+* [Implementing a comprehensive package of measures to ensure the smooth functioning and safety of essential services and activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_6.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Evaluate claims critically, rely on accurate and evidence-based information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2050.md)
 * [Evaluate efficacy differences based on symptoms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1187.md)
 * [Immediate response](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1233.md)
+
+## Property: has_MitigationBenefit
+
+* [Community containment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_109.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Temporary public panic from cruise ship docking](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_79.md)
 

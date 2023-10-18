@@ -2,9 +2,9 @@
 
 # __marketing strategy__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Promotion of green roofs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1188.md)
+* [Maximizing economic efficiency while promoting financial stability through innovative strategies, investments, and partnerships at various levels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_195.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [market competition](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3170.md)
 * [destination marketing campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_995.md)
 * [advertising](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3641.md)
+
+## This Technology enables the following mitigations
+
+* [Promotion of green roofs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1188.md)
 

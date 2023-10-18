@@ -2,9 +2,9 @@
 
 # __Implement financial support programs and resources for individuals and businesses; promote job creation and stability; provide financial education and counseling.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Loss of income and economic instability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1991.md)
+* [Promote sustainable development through infrastructure investments, training, diversification, financial support, and government partnerships.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_315.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Provide mental health support services, promote healthy coping mechanisms, and ensure access to healthcare resources.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1523.md)
 * [Increase access to mental health services, promote mental health awareness and support, provide coping mechanisms and resources.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2913.md)
 * [Provide job retention schemes and financial support for affected industries, promote job transitions and reskilling opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2431.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Loss of income and economic instability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1991.md)
 

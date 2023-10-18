@@ -2,9 +2,9 @@
 
 # __statistical techniques for data quality verification__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Enhancing data quality verification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1634.md)
+* [Data-driven insights and analysis for decision making, anonymized data, transparency, visualization, and advanced techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_205.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [data validation and quality control nan techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1575.md)
 * [quality control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_83.md)
 * [data validation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1319.md)
+
+## This Technology enables the following mitigations
+
+* [Enhancing data quality verification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1634.md)
 

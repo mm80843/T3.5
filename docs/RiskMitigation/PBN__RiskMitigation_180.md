@@ -2,13 +2,9 @@
 
 # __Civil right to counsel in eviction cases__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Eviction increases the risk of COVID-19 acquisition and transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_147.md)
-
-## Property: has_MitigationBenefit
-
-* [Decreased eviction rates](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_197.md)
+* [Implement comprehensive measures to ensure support, protection, and assistance for vulnerable populations during the pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_349.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Development of clear legal and ethical guidelines, establishment of ethical review committees.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2603.md)
 * [Ensuring equitable access](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2978.md)
 * [Contractual arrangements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_581.md)
+
+## Property: has_MitigationBenefit
+
+* [Decreased eviction rates](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_197.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Eviction increases the risk of COVID-19 acquisition and transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_147.md)
 

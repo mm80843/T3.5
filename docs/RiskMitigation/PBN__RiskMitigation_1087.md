@@ -2,13 +2,9 @@
 
 # __Integration of adaptable finishing materials__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Variation in interior finishing materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_793.md)
-
-## Property: has_MitigationBenefit
-
-* [Versatile interior design](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1079.md)
+* [Efforts include RNA monitoring, occupant exposure modeling, targeted messages, adoption of principles, copper coating, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_311.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Increased use of copper and stainless steel surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_82.md)
 * [Improve construction techniques and standards, ensure the use of high-quality building materials.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1500.md)
 * [Development of new materials for better insulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_294.md)
+
+## Property: has_MitigationBenefit
+
+* [Versatile interior design](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1079.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Variation in interior finishing materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_793.md)
 

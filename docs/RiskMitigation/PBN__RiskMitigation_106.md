@@ -2,17 +2,9 @@
 
 # __Multi-agent occupancy simulation__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Virus transmission in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_89.md)
-
-## Property: has_MitigationBenefit
-
-* [Flexible customization](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_119.md)
-* [Visualizing virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_120.md)
-* [Configurable simulation parameters](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_121.md)
-* [Analysis of large-scale and longitudinal aspects](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_122.md)
-* [Evaluation of design decisions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_123.md)
+* [Promote equitable, sustainable, and inclusive urban planning to enhance living conditions, mitigate overcrowding, and reduce disparities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_324.md)
 
 ## Closest similar item
 
@@ -26,4 +18,16 @@
 * [Manage occupant density, promote physical distancing and use space management strategies to control occupancy rates.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3109.md)
 * [Occupancy-sensed lighting](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1253.md)
 * [Improve energy modeling tools and methodologies to account for changes in occupancy behavior and energy consumption patterns.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2098.md)
+
+## Property: has_MitigationBenefit
+
+* [Flexible customization](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_119.md)
+* [Visualizing virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_120.md)
+* [Configurable simulation parameters](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_121.md)
+* [Analysis of large-scale and longitudinal aspects](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_122.md)
+* [Evaluation of design decisions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_123.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Virus transmission in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_89.md)
 

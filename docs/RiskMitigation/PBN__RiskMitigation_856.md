@@ -2,13 +2,9 @@
 
 # __Rigorous data scrutiny and review__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Amplification of flawed trial data in meta-analyses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_618.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved accuracy of meta-analyses](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_860.md)
+* [Promote standardized data collection, ontology-based representation, and enhanced data sharing to improve decision-making processes and data quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_319.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Improving data quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_773.md)
 * [Ensuring critical evaluation of information, considering multiple sources, promoting evidence-based decision making](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2101.md)
 * [Provide accurate and evidence-based information through trusted sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2371.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved accuracy of meta-analyses](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_860.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Amplification of flawed trial data in meta-analyses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_618.md)
 

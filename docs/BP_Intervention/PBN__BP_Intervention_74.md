@@ -2,11 +2,11 @@
 
 # __Absorb resource shortages__
 
-## Property: has_BP_InterventionTitle
-
-Absorb resource shortages
-
 ## Property: has_BP_InterventionKey
 
 MC3
+
+## Property: has_BP_InterventionTitle
+
+Absorb resource shortages
 

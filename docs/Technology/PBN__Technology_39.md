@@ -2,9 +2,9 @@
 
 # __digital platforms and online resources for reporting and seeking help__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q7314108](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7314108.md)
+* [Digital platforms and online resources facilitate collaboration, communication, and information sharing among individuals and organizations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_193.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [digital platforms for counseling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_42.md)
 * [Digital platforms for counseling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2649.md)
 * [digital platforms for financial assistance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_217.md)
+
+## This Technology is identified by the following QID
+
+* [Q7314108](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7314108.md)
 

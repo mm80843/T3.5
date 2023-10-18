@@ -2,10 +2,9 @@
 
 # __Transparency of data usage__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [data policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2970.md)
-* [control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2971.md)
+* [Improved data management and sharing for efficient and secure information exchange and analysis across various platforms and stakeholders.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_182.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Data activism](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1956.md)
 * [Incremental gains in data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_573.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Lack of trust](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2441.md)
-
 ## Property: has_MitigationPrinciple
 
 Increased transparency in data usage and clear policies can address concerns and improve trust in the way data is utilized.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of trust](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2441.md)
+
 ## Property: has_MitigationSource
 
 * [The Emergence of Anti-Privacy and Control at the Nexus between the Concepts of Safe City and Smart City](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_15.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [data policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2970.md)
+* [control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2971.md)
 

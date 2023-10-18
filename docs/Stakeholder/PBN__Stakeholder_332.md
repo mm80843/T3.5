@@ -6,6 +6,10 @@
 
 * [Improved air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_192.md)
 
+## Category to which it belongs
+
+* [Areas inhabited by people in cities, focusing on residents, professionals, researchers, decision-makers, and institutions involved in urban planning and development.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_376.md)
+
 ## Closest similar item
 
 * [urban residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_209.md)

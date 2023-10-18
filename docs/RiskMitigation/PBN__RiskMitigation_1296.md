@@ -2,13 +2,9 @@
 
 # __Development of drug therapies__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of drug therapies for COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_935.md)
-
-## Property: has_MitigationBenefit
-
-* [Treatment options for COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1278.md)
+* [Efforts include RNA monitoring, occupant exposure modeling, targeted messages, adoption of principles, copper coating, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_311.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Blockchain medication delivery](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1331.md)
 * [Investment in research and development for vaccines and agent-specific drugs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2069.md)
 * [Implementation of non-pharmaceutical interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_723.md)
+
+## Property: has_MitigationBenefit
+
+* [Treatment options for COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1278.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of drug therapies for COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_935.md)
 

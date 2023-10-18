@@ -2,13 +2,9 @@
 
 # __Installation of backup energy sources__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Energy use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_614.md)
-
-## Property: has_MitigationBenefit
-
-* [Energy demand management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_855.md)
+* [Transition to sustainable energy sources, implement energy-efficient measures, and absorb increased service demand.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_351.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Diversify suppliers and establish backup systems to ensure a steady supply](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2900.md)
 * [Implement energy-efficient appliances, promote alternative energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2942.md)
 * [Implement energy-efficient systems and equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1374.md)
+
+## Property: has_MitigationBenefit
+
+* [Energy demand management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_855.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Energy use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_614.md)
 

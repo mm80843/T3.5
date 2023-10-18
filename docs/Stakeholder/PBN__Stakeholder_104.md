@@ -2,9 +2,15 @@
 
 # __parents__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q7566](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7566.md)
+* [Individuals of different ages, including children, parents, migrants, and vulnerable groups, such as women and racial minorities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_389.md)
+
+## Risk affecting this stakeholder
+
+* [Disruption of education system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2234.md)
+* [Disruption in education system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1811.md)
+* [Schoolchildren and children in day care](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1354.md)
 
 ## Closest similar item
 
@@ -19,12 +25,6 @@
 * [Education](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1630.md)
 * [education](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1647.md)
 
-## Risk affecting this stakeholder
-
-* [Disruption of education system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2234.md)
-* [Disruption in education system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1811.md)
-* [Schoolchildren and children in day care](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1354.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Reduction in infection risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_184.md)
@@ -34,4 +34,8 @@
 * [Lack of physical activity in children and adolescents during quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1279.md)
 * [Disruption of education system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2234.md)
 * [Mother-to-child transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_803.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q7566](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7566.md)
 

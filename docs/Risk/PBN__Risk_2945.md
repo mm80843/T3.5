@@ -2,9 +2,9 @@
 
 # __Gnawing damage, spread of diseases__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Rat Management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1147.md)
+* [The proliferation of diseases carried by ticks and mosquitoes, exacerbated by climate change, inadequate control measures, and wildlife disturbance, causing increased prevalence and spread of various illnesses.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_119.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Disease outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_161.md)
 * [Spatial variations in disease spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_287.md)
 * [Spread of contagious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_20.md)
+
+## Mitigations of this risk
+
+* [Rat Management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1147.md)
 

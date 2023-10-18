@@ -2,9 +2,9 @@
 
 # __lightweight security algorithms__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Lightweight security solutions for IoT devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1185.md)
+* [Various security measures, such as encryption, authentication protocols, secure data storage, and blockchain, are used to protect digital platforms and ensure privacy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_201.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [secure server networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_347.md)
 * [cybersecurity protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_579.md)
 * [encryption techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_821.md)
+
+## This Technology enables the following mitigations
+
+* [Lightweight security solutions for IoT devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1185.md)
 

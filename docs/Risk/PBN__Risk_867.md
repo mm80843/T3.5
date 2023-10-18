@@ -2,10 +2,9 @@
 
 # __Spread of coronavirus__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Continuously active antimicrobial coating](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1190.md)
-* [Face mask detection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1278.md)
+* [The Impact of Domestic Violence and the Spreading of the Virus Create Challenges in Preventing Virus Propagation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_94.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Spread of Covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1682.md)
 * [Virus Spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2522.md)
 * [Persistence of coronavirus on inanimate surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1548.md)
+
+## Mitigations of this risk
+
+* [Continuously active antimicrobial coating](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1190.md)
+* [Face mask detection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1278.md)
 

@@ -2,6 +2,10 @@
 
 # __Social media use during COVID-19 affects decision-makers’ decisions__
 
+## Category to which it belongs
+
+* [The far-reaching consequences of COVID-19 include its transmission through various settings, impact on urban areas, and scarcity of resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
+
 ## Closest similar item
 
 * [Social media use during COVID-19 increases public awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_650.md)

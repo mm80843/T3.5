@@ -2,9 +2,9 @@
 
 # __poorest people__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_571.md)
+* [A diverse array of groups and individuals, encompassing all segments of society and the natural world.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_363.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [lower-income individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1515.md)
 * [low-income individuals and families](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_409.md)
 * [people facing economic hardship](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_712.md)
+
+## Risk affecting this stakeholder
+
+* [Overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_571.md)
 

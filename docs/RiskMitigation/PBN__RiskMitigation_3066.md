@@ -2,9 +2,9 @@
 
 # __Continued research and development of drugs for the treatment of COVID-19.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Development of drugs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_431.md)
+* [Implement comprehensive strategies to control virus transmission, improve surveillance, develop antiviral coatings, and enhance infection control measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_309.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Utilize WBE for early-warning ability, establish baselines for incidence of Covid-19 before re-opening](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1799.md)
 * [Train AI algorithms to accurately and quickly identify COVID-19 cases](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2375.md)
 * [Support research and development of vaccine and antiviral treatments, promote preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2316.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Development of drugs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_431.md)
 

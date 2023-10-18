@@ -2,9 +2,9 @@
 
 # __Clearly define and communicate the concept of "park" in data collection methods.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Misinterpretation of park use data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1620.md)
+* [Promote standardized data collection, ontology-based representation, and enhanced data sharing to improve decision-making processes and data quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_319.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Standardizing data collection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1007.md)
 * [Implement standardized data collection methods, invest in data integration platforms and tools.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1543.md)
 * [Improve park quality in low-socioeconomic status neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_211.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Misinterpretation of park use data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1620.md)
 

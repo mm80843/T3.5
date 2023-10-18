@@ -2,9 +2,9 @@
 
 # __Stresses exacerbating disease__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Centralize environmental quality improvement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_691.md)
+* [The proliferation of diseases carried by ticks and mosquitoes, exacerbated by climate change, inadequate control measures, and wildlife disturbance, causing increased prevalence and spread of various illnesses.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_119.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Increase in disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2284.md)
 * [Psychological stress and mental health issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_532.md)
 * [Emotional stress](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3334.md)
+
+## Mitigations of this risk
+
+* [Centralize environmental quality improvement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_691.md)
 

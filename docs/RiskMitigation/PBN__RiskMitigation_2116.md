@@ -2,9 +2,9 @@
 
 # __Enhance preparedness and response plans, stockpile essential medical supplies, and improve coordination between Member States and EU institutions__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of preparedness for pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1584.md)
+* [Enhancing healthcare infrastructure, increasing capacity, and ensuring access to medical resources and services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_330.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Strengthen EU-level institutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_775.md)
 * [Stocking up on necessary medical supplies, personal protective equipment, and establishing protocols for infection control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1991.md)
 * [Strengthening international cooperation in public health, implementing risk assessments and contingency plans for global trade, and diversifying supply chains](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2718.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of preparedness for pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1584.md)
 

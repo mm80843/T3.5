@@ -2,12 +2,9 @@
 
 # __Transparency and Public Awareness Measures__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_102.md)
-* [transparency measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_103.md)
-* [public consultation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_105.md)
-* [transparent communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_104.md)
+* [Promoting knowledge, understanding, and openness through educational campaigns, communication tools, privacy techniques, and information sharing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_24.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [Physical Barriers and Signage](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_132.md)
 * [Enforcement and Regulation Measures](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_158.md)
 * [Public Spaces and Transportation](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_128.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_102.md)
+* [transparency measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_103.md)
+* [public consultation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_105.md)
+* [transparent communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_104.md)
 

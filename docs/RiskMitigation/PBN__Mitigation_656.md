@@ -2,8 +2,9 @@
 
 # __Adjusting research design__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Promoting effective communication, education, and trust through transparency, clear guidelines, and innovative strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_144.md)
 
 ## Closest similar item
 
@@ -18,14 +19,17 @@
 * [Rethinking, replanning, redesigning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_34.md)
 * [Reporting study conditions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_657.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Anticipate and mitigate potential threats to internal and external validity in study design and methods
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Validity of energy social research during and after COVID-19: challenges, considerations, and responses](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_289.md)
+
+## This Mitigation is enabled by the following technologies
+
 

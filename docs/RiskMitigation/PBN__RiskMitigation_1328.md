@@ -2,13 +2,9 @@
 
 # __AI algorithms for screening and triage__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [COVID-19 outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_302.md)
-
-## Property: has_MitigationBenefit
-
-* [Efficient patient triage](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1309.md)
+* [Advancements in bioinformatics, divestment, automated sample collection, and artificial intelligence are facilitating early disease detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_336.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [AI for rapid identification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_650.md)
 * [Artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_500.md)
 * [AI-powered diagnosis applications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1431.md)
+
+## Property: has_MitigationBenefit
+
+* [Efficient patient triage](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1309.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [COVID-19 outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_302.md)
 

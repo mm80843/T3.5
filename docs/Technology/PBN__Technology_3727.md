@@ -2,9 +2,9 @@
 
 # __flexible mechanical__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Rapid conversion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1210.md)
+* [Measures promoting accountability, media control, real-time updates, and virtual experiences for physical distancing and education.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [actuators](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4130.md)
 * [lightweight materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4302.md)
 * [flexibility policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4105.md)
+
+## This Technology enables the following mitigations
+
+* [Rapid conversion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1210.md)
 

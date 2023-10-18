@@ -2,9 +2,13 @@
 
 # __teams__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q28406404](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q28406404.md)
+* [A diverse array of collaborative and specialized groups in various fields working together towards specific goals.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_5.md)
+
+## Risk affecting this stakeholder
+
+* [Decreased collaboration and social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1478.md)
 
 ## Closest similar item
 
@@ -19,11 +23,11 @@
 * [sport organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1941.md)
 * [sports organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1222.md)
 
-## Risk affecting this stakeholder
-
-* [Decreased collaboration and social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1478.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Improved communication](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_455.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q28406404](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q28406404.md)
 

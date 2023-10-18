@@ -2,13 +2,9 @@
 
 # __Health harming behaviors__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Rent controls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_736.md)
-* [Regulatory measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_737.md)
-* [Building regulations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_733.md)
-* [Addressing precarity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_742.md)
-* [Fire safety improvements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_738.md)
+* [The toll of mental health harms, health harming behaviors, and the psychological impact of quarantine, fear, and anxiety has increased, affecting various populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_95.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Link between human activity and health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_46.md)
 * [Health risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2014.md)
 * [Human health risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3013.md)
+
+## Mitigations of this risk
+
+* [Rent controls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_736.md)
+* [Regulatory measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_737.md)
+* [Building regulations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_733.md)
+* [Addressing precarity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_742.md)
+* [Fire safety improvements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_738.md)
 

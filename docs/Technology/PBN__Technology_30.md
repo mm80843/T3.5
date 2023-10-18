@@ -2,9 +2,9 @@
 
 # __sanitation technologies__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q949149](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q949149.md)
+* [Improvements in wastewater, waste management, sanitation, water purification, and plumbing technologies aim for sustainable and efficient infrastructure development.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_234.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [sanitation protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1497.md)
 * [Sanitation protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2564.md)
 * [sanitation infrastructure and services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2906.md)
+
+## This Technology is identified by the following QID
+
+* [Q949149](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q949149.md)
 

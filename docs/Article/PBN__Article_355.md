@@ -2,6 +2,10 @@
 
 # __Impacts of COVID-19 on construction project management: a life cycle perspective__
 
+## DOI of the article
+
+10.1108/ecam-10-2021-0873
+
 ## Referenced by other articles
 
 * [Pandemic stricken cities on lockdown. Where are our planning and design professionals [now, then and into the future]?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_147.md)
@@ -13,10 +17,6 @@
 * [COVID-19 Could Leverage a Sustainable Built Environment](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_316.md)
 * [Identifying Actions to Control and Mitigate the Effects of the COVID-19 Pandemic on Construction Organizations: Preliminary Findings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_220.md)
 * [The Effects of Pandemic on Construction Industry in the UK](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_75.md)
-
-## DOI of the article
-
-10.1108/ecam-10-2021-0873
 
 ## Title of the article
 

@@ -2,9 +2,9 @@
 
 # __simulation equipment__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Simulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_430.md)
+* [Safety and operational tools for various fields, including healthcare, cleaning, maintenance, and emergency preparation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_212.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [testing equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1067.md)
 * [simulation models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1458.md)
 * [testing and analysis equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_765.md)
+
+## This Technology enables the following mitigations
+
+* [Simulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_430.md)
 

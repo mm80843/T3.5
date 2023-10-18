@@ -2,9 +2,9 @@
 
 # __Difficulty in contact tracing and cluster identification__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Implementation of smartphone-based apps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1422.md)
+* [Limited monitoring, technical limitations, language barriers, expensive optimization, lack of connection with nature, and limited sensor diversity hinder effective response and resource allocation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_107.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Ineffective disease screening and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1800.md)
 * [Monitoring of confirmed cases and close contacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2141.md)
 * [Insufficient Contact Information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1725.md)
+
+## Mitigations of this risk
+
+* [Implementation of smartphone-based apps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1422.md)
 

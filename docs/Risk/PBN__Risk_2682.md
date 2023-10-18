@@ -2,12 +2,9 @@
 
 # __Higher COVID-19 mortality rate__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Active transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_677.md)
-* [Improved access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_679.md)
-* [Increase in green space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_676.md)
-* [Promotion of healthier lifestyles](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_678.md)
+* [The far-reaching consequences of COVID-19 include its transmission through various settings, impact on urban areas, and scarcity of resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [Limited understanding of the spread and impact of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2985.md)
 * [Spread of Covid-19 in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_690.md)
 * [Social inequalities and COVID-19 incidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_485.md)
+
+## Mitigations of this risk
+
+* [Active transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_677.md)
+* [Improved access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_679.md)
+* [Increase in green space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_676.md)
+* [Promotion of healthier lifestyles](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_678.md)
 

@@ -2,13 +2,9 @@
 
 # __Information dissemination through public places__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Public places as informative nodes in the city](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_267.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced public awareness and knowledge](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_329.md)
+* [Facilitate transparent communication, enabling reliable information sharing through standardized protocols and effective channels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_0.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Public education campaigns, dissemination of accurate information, and awareness programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1695.md)
 * [Implement communication campaigns, provide clear instructions and guidelines, and promote public awareness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2263.md)
 * [Transforming public places for essential uses, such as food distribution, medical support, etc.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1727.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced public awareness and knowledge](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_329.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Public places as informative nodes in the city](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_267.md)
 

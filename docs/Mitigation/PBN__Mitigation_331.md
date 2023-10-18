@@ -2,10 +2,9 @@
 
 # __Machine learning__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [machine learning algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3165.md)
-* [artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_358.md)
+* [Synthesis of statistical analysis, machine learning, artificial intelligence, and data visualization for informed decision-making and pattern discovery.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_184.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [deep learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2806.md)
 * [ai and machine learning for data processing and modeling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2807.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Analyzes large quantities of data from wearables to identify physiological signals and predict infections or diseases. Can be combined with self-reported symptoms for more accurate predictions.
+
+## Risks possibly mitigated by this Mitigation
+
 
 ## Property: has_MitigationSource
 
 * [Wearable technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_195.md)
 * [The Rise of Wearable Devices during the COVID-19 Pandemic: A Systematic Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_99.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [machine learning algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3165.md)
+* [artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_358.md)
 

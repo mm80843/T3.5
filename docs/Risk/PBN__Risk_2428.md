@@ -2,9 +2,9 @@
 
 # __Lack of behavior change__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Occupant awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_87.md)
+* [The ramifications of social distancing include inconsistent recommendations, increased violence, changes in social practices, and lack of interaction, among other social issues.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_96.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Limited understanding of human behavior](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_583.md)
 * [Poor compliance with interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1541.md)
 * [Lack of coordination and communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2908.md)
+
+## Mitigations of this risk
+
+* [Occupant awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_87.md)
 

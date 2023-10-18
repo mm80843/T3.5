@@ -2,13 +2,9 @@
 
 # __Mobile technology for surveillance__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Geographical spread of virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_844.md)
-
-## Property: has_MitigationBenefit
-
-* [Rapid reporting and response](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1167.md)
+* [The trend towards remote and digital healthcare is encompassing telecommuting, telehealth, teleconferencing, wearable technology, touchless technologies, and mobile applications.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_328.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Surveillance measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1223.md)
 * [Mobile phone tracking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1408.md)
 * [Mobile technology in tracking patients](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1163.md)
+
+## Property: has_MitigationBenefit
+
+* [Rapid reporting and response](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1167.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Geographical spread of virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_844.md)
 

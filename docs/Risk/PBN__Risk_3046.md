@@ -2,9 +2,9 @@
 
 # __Lack of evidence in LMIC__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [AI-driven tools for prevention, diagnosis, and treatment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1398.md)
+* [The proliferation of false and misleading information, misinformation, and inaccurate news during pandemics creates confusion and a lack of trust in reliable sources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_127.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Healthcare inequalities in LMIC](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_467.md)
 * [Vulnerability to COVID-19 in LMICs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1709.md)
 * [Lack of timely information and evidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2794.md)
+
+## Mitigations of this risk
+
+* [AI-driven tools for prevention, diagnosis, and treatment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1398.md)
 

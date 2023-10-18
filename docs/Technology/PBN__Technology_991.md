@@ -2,9 +2,9 @@
 
 # __kalman filter algorithm__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q846780](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q846780.md)
+* [Advanced technologies and algorithms for modeling, simulation, optimization, and artificial intelligence in various applications, including robotics and computational fluid dynamics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_239.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [information filtering systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1287.md)
 * [tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1543.md)
 * [ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_149.md)
+
+## This Technology is identified by the following QID
+
+* [Q846780](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q846780.md)
 

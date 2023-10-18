@@ -2,9 +2,9 @@
 
 # __individuals in areas with high virus prevalence__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Emerging local hot spots](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2368.md)
+* [Individuals and communities affected by pandemics, particularly in Kalimantan and Papua, individuals infected with HIV, vulnerable populations, and countries reliant on specific suppliers and participating in global value chains face various risks.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_365.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [individuals infected with COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2157.md)
 * [individuals in close proximity to infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_741.md)
 * [resident of underserved area and area with high disease transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2148.md)
+
+## Risk affecting this stakeholder
+
+* [Emerging local hot spots](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2368.md)
 

@@ -2,12 +2,9 @@
 
 # __Data Sharing and Validation Platforms__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [open data policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_823.md)
-* [Data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2412.md)
-* [Data validation techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2613.md)
-* [digital platforms for trade monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1551.md)
+* [Efficient systems for exchanging, managing, storing, recording, and sharing information and facilitating collaboration and validation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_12.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [Data Storage and Backup Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_138.md)
 * [Video Recording and Conferencing Platforms](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_114.md)
 * [Data Collection and Reporting Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_175.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [open data policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_823.md)
+* [Data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2412.md)
+* [Data validation techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2613.md)
+* [digital platforms for trade monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1551.md)
 

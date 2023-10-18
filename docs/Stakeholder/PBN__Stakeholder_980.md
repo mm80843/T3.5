@@ -2,12 +2,9 @@
 
 # __responsible owner__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Recruitment challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1528.md)
-* [Difficulties in management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1526.md)
-* [Induction process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1529.md)
-* [Cash flow management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1533.md)
+* [Property stakeholders ranging from investors, homeowners, and tenants to entrepreneurs and commercial space owners.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_7.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [business owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_728.md)
 * [product owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1994.md)
 * [property owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_177.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Recruitment challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1528.md)
+* [Difficulties in management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1526.md)
+* [Induction process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1529.md)
+* [Cash flow management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1533.md)
 

@@ -2,13 +2,9 @@
 
 # __Water consumption and wastewater management__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Water and wastewater management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_574.md)
-
-## Property: has_MitigationBenefit
-
-* [Safe water supply and waste management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_806.md)
+* [Implement wastewater surveillance techniques to detect viral presence, optimize treatment processes, and inform public health interventions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_308.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Establish measures to control water quality and availability](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2939.md)
 * [Proper treatment and disinfection of water and wastewater systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2300.md)
 * [Wastewater-based epidemiology (WBE)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_988.md)
+
+## Property: has_MitigationBenefit
+
+* [Safe water supply and waste management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_806.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Water and wastewater management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_574.md)
 

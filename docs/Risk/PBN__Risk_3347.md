@@ -2,9 +2,9 @@
 
 # __Physical activity__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Household-level activity/sports spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2128.md)
+* [A list of challenges and uncertainties surrounding the impact and response to various events and crises in different sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_124.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Impact of control measures on diet and physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_283.md)
 * [and physical health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2293.md)
 * [Exposure to greenspace and physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_172.md)
+
+## Mitigations of this risk
+
+* [Household-level activity/sports spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2128.md)
 

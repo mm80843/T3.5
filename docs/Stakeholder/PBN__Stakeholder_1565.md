@@ -2,9 +2,9 @@
 
 # __those with restricted access to resources__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Privacy invasion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2343.md)
+* [All those involved in the management, access, and utilization of data in various communities and industries.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_358.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [particularly those with low income or low education](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_267.md)
 * [individuals with limited access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_803.md)
 * [areas with limited healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1272.md)
+
+## Risk affecting this stakeholder
+
+* [Privacy invasion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2343.md)
 

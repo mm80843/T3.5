@@ -2,9 +2,9 @@
 
 # __Develop standardized tests and protocols for UVGI efficacy, ensure testing reflects real-world conditions__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of standardized tests and protocols for UVGI efficacy and testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1758.md)
+* [Utilize UVGI technology to disinfect air, surfaces, and clothing, ensuring proper installation, training, and research to optimize effectiveness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_352.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [UVGI](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_315.md)
 * [Direct UVGI](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_316.md)
 * [Train and certify more UV technicians](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2372.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of standardized tests and protocols for UVGI efficacy and testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1758.md)
 

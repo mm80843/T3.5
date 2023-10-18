@@ -2,9 +2,9 @@
 
 # __Lack of overview__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Analysis Visualization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1105.md)
+* [Insufficient awareness, limited resources, inadequate communication, and lack of preparedness contribute to various challenges and deficiencies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_118.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of awareness or understanding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2896.md)
 * [Lack of knowledge](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2652.md)
 * [Lack of Knowledge](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3248.md)
+
+## Mitigations of this risk
+
+* [Analysis Visualization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1105.md)
 

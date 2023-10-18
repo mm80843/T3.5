@@ -2,8 +2,9 @@
 
 # __Developing sectoral roadmaps for a green recovery__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Promoting sustainable and eco-friendly practices that enhance urban green spaces, energy efficiency, and renewable energy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_180.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Green and Blue Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1144.md)
 * [Availability of urban green space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2283.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Balancing climate objectives with economic recovery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2856.md)
-
 ## Property: has_MitigationPrinciple
 
 Ensure green recovery and align economic activities with climate goals
 
+## Risks possibly mitigated by this Mitigation
+
+* [Balancing climate objectives with economic recovery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2856.md)
+
 ## Property: has_MitigationSource
 
 * [Borders and Catastrophe: lessons from COVID-19 for the European Green Deal](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_156.md)
+
+## This Mitigation is enabled by the following technologies
+
 

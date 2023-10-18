@@ -2,13 +2,9 @@
 
 # __Better views from apartments__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lockdown Impact on Mental Health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_886.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduced depressive symptoms](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1215.md)
+* [Strengthen collaborations, implement behavioral change, deploy social robots, and promote sustainable content consumption for community-based strategies, holistic research, and positive media representation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_316.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Optimize space and improve spatial layout](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_454.md)
 * [Optimize room layout, create flexible and multipurpose spaces, maximize use of natural light and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2227.md)
 * [Provide or improve outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_455.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced depressive symptoms](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1215.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lockdown Impact on Mental Health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_886.md)
 

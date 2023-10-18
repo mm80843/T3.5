@@ -2,13 +2,9 @@
 
 # __Embrace transparency and reproducibility practices__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Validity concerns in energy social science research during the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_983.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced research practices](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1356.md)
+* [Promote accurate and reliable information, combat misinformation, and increase media and public health literacy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_343.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Improve information disclosure and transparency](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3101.md)
 * [Transparent and responsible preprint publishing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_854.md)
 * [Ensure consistent and transparent communication, address public concerns and questions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2406.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced research practices](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1356.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Validity concerns in energy social science research during the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_983.md)
 

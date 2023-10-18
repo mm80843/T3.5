@@ -2,9 +2,9 @@
 
 # __indigenous groups__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Livelihood and trade disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_774.md)
+* [Individuals of different ages, including children, parents, migrants, and vulnerable groups, such as women and racial minorities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_389.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [individuals and communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_106.md)
 * [local populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1156.md)
 * [social groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_640.md)
+
+## Risk affecting this stakeholder
+
+* [Livelihood and trade disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_774.md)
 

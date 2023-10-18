@@ -2,9 +2,9 @@
 
 # __Thermal Screening Systems__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [thermal screening systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_137.md)
+* [Temperature detection devices for identifying and monitoring heat levels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_42.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Monitoring Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_31.md)
 * [Diagnostic and Testing Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_12.md)
 * [Firewalls and Intrusion Detection Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_144.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [thermal screening systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_137.md)
 

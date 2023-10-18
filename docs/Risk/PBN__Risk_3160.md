@@ -2,9 +2,9 @@
 
 # __Microbiological contaminants__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Water and Sanitary System Safety](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1613.md)
+* [The widespread presence and transfer of harmful pathogens and contaminants on various surfaces and environments pose serious risks to public health and the ecosystem.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_100.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Variation in built environment microbiome](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_207.md)
 * [Contaminated Environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3286.md)
 * [Exposure to pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2424.md)
+
+## Mitigations of this risk
+
+* [Water and Sanitary System Safety](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1613.md)
 

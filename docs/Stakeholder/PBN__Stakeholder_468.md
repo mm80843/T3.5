@@ -6,6 +6,10 @@
 
 * [Support for vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1202.md)
 
+## Category to which it belongs
+
+* [Individuals at risk, including vulnerable populations, individuals in quarantine or isolation, and those in close proximity to infected individuals or contaminated surfaces, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_392.md)
+
 ## Closest similar item
 
 * [vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_127.md)

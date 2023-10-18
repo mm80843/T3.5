@@ -2,13 +2,13 @@
 
 # __Robots__
 
-## Property: has_TechEquivalent
-
-* [Robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2879.md)
-
 ## Property: has_BP_EnablerTitle
 
 enabler_015
+
+## Category to which it belongs
+
+* [Automated machines that can perform tasks autonomously.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_74.md)
 
 ## Closest similar item
 
@@ -22,4 +22,8 @@ enabler_015
 * [industrial robots](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_166.md)
 * [robotic systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_160.md)
 * [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_153.md)
+
+## Property: has_TechEquivalent
+
+* [Robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2879.md)
 

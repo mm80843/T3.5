@@ -2,13 +2,13 @@
 
 # __women and children in developing countries__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q177323](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q177323.md)
+* [Global disadvantaged populations, particularly those in developing and non-English speaking countries, including women, children, rural households, and individuals.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_399.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Indoor Air Pollution (IAP)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2017.md)
 
 ## Closest similar item
 
@@ -23,11 +23,15 @@
 * [individual in developing country](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2141.md)
 * [person in developing country](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2369.md)
 
-## Risk affecting this stakeholder
-
-* [Indoor Air Pollution (IAP)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2017.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Work and Occupational Context](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_108.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q177323](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q177323.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 

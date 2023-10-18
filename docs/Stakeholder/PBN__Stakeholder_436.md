@@ -6,6 +6,10 @@
 
 * [Enhanced coordination and cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1096.md)
 
+## Category to which it belongs
+
+* [Various individuals and organizations involved in ethical project management, environmental preservation, community engagement, and non-governmental initiatives.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_372.md)
+
 ## Closest similar item
 
 * [community stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2444.md)

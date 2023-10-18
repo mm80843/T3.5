@@ -2,9 +2,9 @@
 
 # __open biological and biomedical ontology (obo) foundry__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Reuse of ontological terms and models](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1655.md)
+* [Advanced analytics, fact-checking, project management, reliable sources, knowledge extraction, and collaboration ensure accurate information dissemination and effective decision-making.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_192.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [biomedical literature](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2933.md)
 * [ontology matching](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4399.md)
 * [ontology search engines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1345.md)
+
+## This Technology enables the following mitigations
+
+* [Reuse of ontological terms and models](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1655.md)
 

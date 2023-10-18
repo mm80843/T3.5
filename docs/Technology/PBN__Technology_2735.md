@@ -2,9 +2,9 @@
 
 # __Multilingual communication platforms__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
-* [Communication and Information Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_46.md)
+* [Digital platforms and online resources facilitate collaboration, communication, and information sharing among individuals and organizations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_193.md)
 
 ## Closest similar item
 
@@ -19,11 +19,15 @@
 * [translation services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1259.md)
 * [Translation services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2067.md)
 
-## This Technology belongs to this TechGroup
-
-* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
-
 ## This Technology is identified by the following QID
 
 * [Q20923490](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q20923490.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Communication and Information Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_46.md)
+
+## This Technology belongs to this TechGroup
+
+* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
 

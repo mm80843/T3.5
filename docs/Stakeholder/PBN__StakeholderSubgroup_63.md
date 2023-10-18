@@ -2,13 +2,9 @@
 
 # __Transportation__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [vehicle manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_737.md)
-* [vehicle manufacturer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1898.md)
-* [transportation company](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1963.md)
-* [transportation companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_864.md)
-* [car-sharing companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_736.md)
+* [Mobile individuals who belong to the field of welcoming guests, accommodating tourists, assisting migrants, transiting people](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_255.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Energy](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_30.md)
 * [Sector/Industry](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_57.md)
 * [Hospitality and Tourism](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_32.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [vehicle manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_737.md)
+* [vehicle manufacturer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1898.md)
+* [transportation company](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1963.md)
+* [transportation companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_864.md)
+* [car-sharing companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_736.md)
 

@@ -2,9 +2,9 @@
 
 # __animal surveillance__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q2699839](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2699839.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2434.md)
 * [video surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3661.md)
 * [surveillance system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3926.md)
+
+## This Technology is identified by the following QID
+
+* [Q2699839](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2699839.md)
 

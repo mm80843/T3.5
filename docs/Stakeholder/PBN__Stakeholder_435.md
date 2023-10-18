@@ -2,13 +2,9 @@
 
 # __private__
 
-## This Stakeholder can get these Benefits from mitigation measures
+## Category to which it belongs
 
-* [Enhanced coordination and cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1096.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q158668](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q158668.md)
+* [Entities and individuals who interact with or are affected by a system, organization, or public facility.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_1.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [individual with private green space](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2317.md)
 * [private investors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_89.md)
 * [private sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_57.md)
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Enhanced coordination and cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1096.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q158668](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q158668.md)
 

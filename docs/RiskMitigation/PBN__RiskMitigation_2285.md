@@ -2,9 +2,9 @@
 
 # __Improve data standardization and interoperability, increase data quality and availability__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of reliable AI forecasting models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1720.md)
+* [Promote standardized data collection, ontology-based representation, and enhanced data sharing to improve decision-making processes and data quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_319.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Establish standardized data collection protocols, promote data sharing, address structural and cultural barriers to data sharing.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1830.md)
 * [Promote transparency, standardization, and collaboration for data sharing across geographies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1510.md)
 * [Adoption of standard protocols and interfaces, development of interoperability standards.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2782.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of reliable AI forecasting models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1720.md)
 

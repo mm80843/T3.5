@@ -2,10 +2,9 @@
 
 # __Adequate ventilation__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
-* [opening windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3061.md)
+* [Optimal air flow to reduce airborne contaminants and ensure fresh, clean air in enclosed spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_170.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Proper ventilation in indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2657.md)
 * [Enhanced ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1085.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Poor indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_294.md)
-
 ## Property: has_MitigationPrinciple
 
 Ventilation helps dilute and remove infectious aerosols from the air, reducing the risk of transmission.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Poor indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_294.md)
+
 ## Property: has_MitigationSource
 
 * [Environmental factors involved in SARS-CoV-2 transmission: effect and role of indoor environmental quality in the strategy for COVID-19 infection control](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_249.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
+* [opening windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3061.md)
 

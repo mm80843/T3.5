@@ -2,9 +2,9 @@
 
 # __geographical information systems__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Spatial mapping of COVID-19 hotspots](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_284.md)
+* [Data-driven insights and analysis for decision making, anonymized data, transparency, visualization, and advanced techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_205.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [geographic information systems (gis) software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4319.md)
 * [Geographic Information System (GIS) mapping technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2322.md)
 * [geographic information systems (gis) can be used to analyze community needs and optimize facility placement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1913.md)
+
+## This Technology enables the following mitigations
+
+* [Spatial mapping of COVID-19 hotspots](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_284.md)
 

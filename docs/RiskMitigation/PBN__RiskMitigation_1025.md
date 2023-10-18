@@ -2,13 +2,9 @@
 
 # __International coordination and collaboration__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Incomplete knowledge and research gaps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_743.md)
-
-## Property: has_MitigationBenefit
-
-* [Knowledge sharing and research development](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1022.md)
+* [Strengthen collaborations, implement behavioral change, deploy social robots, and promote sustainable content consumption for community-based strategies, holistic research, and positive media representation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_316.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Developing collaborative partnerships](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_11.md)
 * [Increasing international support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_131.md)
 * [Strengthening international cooperation in public health, implementing risk assessments and contingency plans for global trade, and diversifying supply chains](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2718.md)
+
+## Property: has_MitigationBenefit
+
+* [Knowledge sharing and research development](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1022.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Incomplete knowledge and research gaps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_743.md)
 

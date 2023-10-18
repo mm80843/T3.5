@@ -2,9 +2,9 @@
 
 # __anti-human coronavirus spike glycoprotein__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Immunofluorescence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_326.md)
+* [Advancements in molecular biology, diagnostics, vaccines, antiviral technologies, and disease surveillance for pathogen detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_223.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Research on viral cell entry mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2794.md)
 * [viral survival](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1959.md)
 * [attenuated/inactivated virus](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4471.md)
+
+## This Technology enables the following mitigations
+
+* [Immunofluorescence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_326.md)
 

@@ -2,8 +2,9 @@
 
 # __Creation of funds and other support measures to suppliers__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Promoting well-being and resilience through various forms of support, resources, and assistance for individuals in need.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_143.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Upstream agreements for supply chain re-purposing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1492.md)
 * [Improved supply chain management for medical parts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1890.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Financial viability of suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3316.md)
-
 ## Property: has_MitigationPrinciple
 
 Establish funds and other resources to support energy suppliers and ensure their continued operation
 
+## Risks possibly mitigated by this Mitigation
+
+* [Financial viability of suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3316.md)
+
 ## Property: has_MitigationSource
 
 * [Contextualizing the Covid-19 pandemic for a carbon-constrained world: Insights for sustainability transitions, energy justice, and research methodology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_123.md)
+
+## This Mitigation is enabled by the following technologies
+
 

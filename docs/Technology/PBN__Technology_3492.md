@@ -2,9 +2,9 @@
 
 # __phosphate buffered saline__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Phosphate buffered saline (PBS)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_849.md)
+* [Advancements in biotechnology, clinical research, and innovative therapies contribute to the development of medical solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [ultrafiltration units](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4432.md)
 * [membrane technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4434.md)
 * [sodium dichloroisocyanurate](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3909.md)
+
+## This Technology enables the following mitigations
+
+* [Phosphate buffered saline (PBS)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_849.md)
 

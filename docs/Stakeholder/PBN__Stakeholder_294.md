@@ -2,9 +2,13 @@
 
 # __existing workforce__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q13440398](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q13440398.md)
+* [Individuals engaged in various types of work, from employees and office workers to agricultural and hospitality workers.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_379.md)
+
+## Risk affecting this stakeholder
+
+* [Workforce protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1531.md)
 
 ## Closest similar item
 
@@ -19,11 +23,11 @@
 * [employer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2014.md)
 * [worker in the service industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1785.md)
 
-## Risk affecting this stakeholder
-
-* [Workforce protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1531.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Employee safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_711.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q13440398](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q13440398.md)
 

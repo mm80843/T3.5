@@ -2,14 +2,9 @@
 
 # __Management of increased waste__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [WWM3: Waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_192.md)
-* [WM3: Waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_198.md)
-
-## Property: has_MitigationBenefit
-
-* [Efficient waste management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_243.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -23,4 +18,13 @@
 * [Urban Solid Waste Management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_803.md)
 * [Adopt energy-efficient practices, implement recycling and waste management programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2788.md)
 * [Promoting sustainable design and construction practices, proper waste management.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2092.md)
+
+## Property: has_MitigationBenefit
+
+* [Efficient waste management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_243.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [WWM3: Waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_192.md)
+* [WM3: Waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_198.md)
 

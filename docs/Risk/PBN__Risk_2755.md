@@ -2,9 +2,9 @@
 
 # __Uneven air distribution and stagnant air__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Balancing Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_814.md)
+* [Insufficient ventilation and indoor air pollution pose a risk to air quality and respiratory health, exacerbated by inadequate airflow control, limited natural ventilation, and air recirculation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_128.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inadequate airflow in apartment buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_229.md)
 * [Airflow issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3022.md)
 * [Air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3349.md)
+
+## Mitigations of this risk
+
+* [Balancing Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_814.md)
 

@@ -2,13 +2,15 @@
 
 # __individuals living alone__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q1307276](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1307276.md)
+* [A diverse range of individuals, including citizens, pedestrians, people with disabilities, and those in crowded environments, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_368.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Loneliness during COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_664.md)
+* [Isolation and Lack of Social Interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1080.md)
+* [Isolation and loneliness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1291.md)
 
 ## Closest similar item
 
@@ -23,12 +25,14 @@
 * [individual in self-isolation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2251.md)
 * [individuals living in apartments without outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_827.md)
 
-## Risk affecting this stakeholder
-
-* [Loneliness during COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_664.md)
-* [Isolation and Lack of Social Interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1080.md)
-* [Isolation and loneliness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1291.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
+
+## This Stakeholder is identified by the following QID
+
+* [Q1307276](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1307276.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 

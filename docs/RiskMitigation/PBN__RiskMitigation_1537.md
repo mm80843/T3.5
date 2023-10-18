@@ -2,9 +2,9 @@
 
 # __Properly design and allocate washing areas in houses and buildings__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Inefficient washing area](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1090.md)
+* [Designing affordable, adaptable, and sustainable housing with improved building environments and optimized spatial layouts, while incorporating flexible and human-centric design elements and considering health, safety, and environmental parameters.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_326.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implementing proper sanitation measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_888.md)
 * [Implement hygiene measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_571.md)
 * [Self-cleaning spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_216.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inefficient washing area](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1090.md)
 

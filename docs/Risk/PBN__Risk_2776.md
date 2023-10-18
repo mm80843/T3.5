@@ -2,9 +2,9 @@
 
 # __Restriction of large events, economic impact__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Mass gathering containment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_837.md)
+* [The ramifications of global connectivity include economic instability, impacts of the pandemic, unemployment, poverty, reduced tourism revenue, and decline in public budgets.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_103.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Economic impacts, shortage of essential goods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2919.md)
 * [Extreme events](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_132.md)
 * [Extreme Events](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2488.md)
+
+## Mitigations of this risk
+
+* [Mass gathering containment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_837.md)
 

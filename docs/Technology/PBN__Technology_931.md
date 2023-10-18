@@ -2,13 +2,13 @@
 
 # __microgrids__
 
+## Category to which it belongs
+
+* [Improved and energy-efficient HVAC systems, along with advanced technologies, for efficient energy management and environmental control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_227.md)
+
 ## Risks linked to this technology
 
 * [Inequitable access to clean energy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1610.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Energy Systems and Sustainability](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_116.md)
 
 ## Closest similar item
 
@@ -23,11 +23,15 @@
 * [off-grid solar systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_932.md)
 * [energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_324.md)
 
-## This Technology belongs to this TechGroup
-
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
-
 ## This Technology is identified by the following QID
 
 * [Q861135](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q861135.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Energy Systems and Sustainability](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_116.md)
+
+## This Technology belongs to this TechGroup
+
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 

@@ -2,9 +2,9 @@
 
 # __geolocation data__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Monitoring of agglomerations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_621.md)
+* [Data-driven insights and analysis for decision making, anonymized data, transparency, visualization, and advanced techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_205.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [geographical information systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3116.md)
 * [gps technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3164.md)
 * [geographical information system (gis)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3334.md)
+
+## This Technology enables the following mitigations
+
+* [Monitoring of agglomerations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_621.md)
 

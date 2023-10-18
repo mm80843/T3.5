@@ -2,8 +2,9 @@
 
 # __Household Size__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Promoting community involvement and awareness through various initiatives such as education programs, engagement campaigns, and urban farming.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_142.md)
 
 ## Closest similar item
 
@@ -18,14 +19,17 @@
 * [Housing Layout](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1294.md)
 * [Home offices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2203.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Influence willingness to pay based on household size
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Coronavirus comes home? Energy use, home energy management, and the social-psychological factors of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_119.md)
+
+## This Mitigation is enabled by the following technologies
+
 

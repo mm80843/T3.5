@@ -2,9 +2,9 @@
 
 # __Development of expert systems and mobile applications for early detection__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Inefficient early detection of COVID-19 infection risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1782.md)
+* [Enhanced surveillance, monitoring, and real-time tracking for improved control and response to various situations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_312.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Mobile technology for surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1166.md)
 * [Mobile technology applications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1149.md)
 * [Implement AI algorithms for accurate screening and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2378.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inefficient early detection of COVID-19 infection risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1782.md)
 

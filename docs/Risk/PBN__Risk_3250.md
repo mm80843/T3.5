@@ -2,9 +2,9 @@
 
 # __Secondhand Smoke Exposure__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Active Smoke-Free Policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1780.md)
+* [Insufficient ventilation and indoor air pollution pose a risk to air quality and respiratory health, exacerbated by inadequate airflow control, limited natural ventilation, and air recirculation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_128.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Air Pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1879.md)
 * [Decreased Exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1262.md)
 * [High concentrations of air contaminants in specific locations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3056.md)
+
+## Mitigations of this risk
+
+* [Active Smoke-Free Policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1780.md)
 

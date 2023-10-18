@@ -2,9 +2,9 @@
 
 # __investment in emerging sectors__
 
-## Risks linked to this technology
+## Category to which it belongs
 
-* [Increase in unemployment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2230.md)
+* [Maximizing economic efficiency while promoting financial stability through innovative strategies, investments, and partnerships at various levels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_195.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [investment in local production](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_945.md)
 * [investments in clean energy and sustainable industries](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4384.md)
 * [investments in education and training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1473.md)
+
+## Risks linked to this technology
+
+* [Increase in unemployment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2230.md)
 

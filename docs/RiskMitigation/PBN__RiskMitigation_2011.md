@@ -2,9 +2,9 @@
 
 # __Communicate and educate the public about the health benefits of policies, use evidence-based arguments to justify policy decisions__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Visible costs of policies versus unseen health benefits](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1491.md)
+* [Promote public health through policy implementation, strengthened systems, health literacy, and targeted interventions for vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_314.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Conducting public health campaigns, providing educational materials and resources, promoting accurate information.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1617.md)
 * [Increase public health education, fact-check before sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2448.md)
 * [Educational campaigns on public health measures, improving communication and dissemination of information.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1805.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Visible costs of policies versus unseen health benefits](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1491.md)
 

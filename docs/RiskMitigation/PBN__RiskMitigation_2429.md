@@ -2,9 +2,9 @@
 
 # __Improve access to healthcare for immigrants, address language barriers, provide targeted interventions for high-risk immigrant groups.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Higher COVID-19 hospitalizations and mortality among immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1843.md)
+* [Promote public health through policy implementation, strengthened systems, health literacy, and targeted interventions for vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_314.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Improve access to healthcare, address health disparities, implement equity-focused policies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1638.md)
 * [Implement targeted interventions and resources in areas with high risk factors, such as increased access to healthcare services, targeted education campaigns, and economic support for affected populations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1853.md)
 * [Engage diverse clinical research groups, improve data accessibility in low-income countries, address racial biases in data collection and reporting.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1833.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Higher COVID-19 hospitalizations and mortality among immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1843.md)
 

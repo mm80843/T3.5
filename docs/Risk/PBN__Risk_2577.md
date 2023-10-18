@@ -2,9 +2,9 @@
 
 # __Increased risk of sudden cardiac death__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Avoiding physical activity during viral infection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_458.md)
+* [Health and safety concerns, risk communication strategy, and inadequate personal protective equipment are all indicative of potential hazards and vulnerabilities in various settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_126.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Health Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_83.md)
 * [Overall health risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2458.md)
 * [General health risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2224.md)
+
+## Mitigations of this risk
+
+* [Avoiding physical activity during viral infection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_458.md)
 

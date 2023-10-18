@@ -2,13 +2,9 @@
 
 # __Isolation and quarantine of confirmed cases and contacts__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Global containment strategy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_333.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction in disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_426.md)
+* [Enforcing strict measures such as containment strategies, isolation, quarantine, and travel restrictions to prevent the spread of diseases.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_333.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Quarantine for high-risk individuals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_93.md)
 * [Quarantines,](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_976.md)
 * [Quarantine support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3136.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction in disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_426.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Global containment strategy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_333.md)
 

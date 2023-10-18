@@ -2,9 +2,9 @@
 
 # __Rise of authoritarian powers in EU Member States__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Strengthening European democracy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_778.md)
+* [Fragmented global governance, reduced aid, ethical concerns, educational disruption, impacts on peace and justice, and inadequate coordination between stakeholders.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_115.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inadequate governance and leadership](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1344.md)
 * [Inadequate governance models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_631.md)
 * [Governance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1099.md)
+
+## Mitigations of this risk
+
+* [Strengthening European democracy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_778.md)
 

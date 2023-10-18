@@ -2,17 +2,9 @@
 
 # __research groups__
 
-## This Stakeholder can get these Benefits from mitigation measures
+## Category to which it belongs
 
-* [Improved accuracy of model results](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_357.md)
-* [Increased collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1009.md)
-* [Enhanced data quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1007.md)
-* [Enhanced research effect](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1008.md)
-* [Enhanced data comparability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1010.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q7836899](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7836899.md)
+* [A diverse array of collaborative and specialized groups in various fields working together towards specific goals.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_5.md)
 
 ## Closest similar item
 
@@ -26,4 +18,16 @@
 * [research staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1054.md)
 * [research projects](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1468.md)
 * [research institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_413.md)
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Improved accuracy of model results](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_357.md)
+* [Increased collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1009.md)
+* [Enhanced data quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1007.md)
+* [Enhanced research effect](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1008.md)
+* [Enhanced data comparability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1010.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q7836899](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7836899.md)
 

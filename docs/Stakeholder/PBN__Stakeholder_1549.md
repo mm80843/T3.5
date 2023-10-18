@@ -2,9 +2,9 @@
 
 # __staff of__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Healthcare-](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2322.md)
+* [Employees across various industries, including laboratories, maintenance personnel, cleaning staff, and workers in the informal sector.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_359.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [new staff members](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_985.md)
 * [technical staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_747.md)
 * [front desk staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_968.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Healthcare-](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2322.md)
 

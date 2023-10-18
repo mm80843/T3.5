@@ -2,13 +2,9 @@
 
 # __wastewater treatment facilities__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q20127660](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q20127660.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Environmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_13.md)
+* [Individuals and organizations involved in the management and treatment of water, waste, and wastewater.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_397.md)
 
 ## Closest similar item
 
@@ -23,11 +19,19 @@
 * [wastewater treatment workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_688.md)
 * [communities near wastewater treatment plants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1139.md)
 
+## Risks that can be mitigated by this stakeholder
+
+* [Presence of COVID-19 in sewage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1147.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Waste and Wastewater Management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_161.md)
 
-## Risks that can be mitigated by this stakeholder
+## This Stakeholder is identified by the following QID
 
-* [Presence of COVID-19 in sewage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1147.md)
+* [Q20127660](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q20127660.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Environmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_13.md)
 

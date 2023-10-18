@@ -2,9 +2,9 @@
 
 # __Lack of long-lasting antimicrobial coatings__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Development of robust antiviral coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_920.md)
+* [The widespread presence and transfer of harmful pathogens and contaminants on various surfaces and environments pose serious risks to public health and the ecosystem.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_100.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Poor air and surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2504.md)
 * [Insufficient knowledge of COVID-19 inactivation mechanisms on copper coatings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1496.md)
 * [High infection rate via contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_657.md)
+
+## Mitigations of this risk
+
+* [Development of robust antiviral coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_920.md)
 

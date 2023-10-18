@@ -2,13 +2,9 @@
 
 # __Social distancing of the elderly and at-risk individuals__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_133.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduced morbidity and mortality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_405.md)
+* [Promotion and enforcement of physical separation measures to prevent the spread of disease.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_327.md)
 
 ## Closest similar item
 
@@ -21,4 +17,12 @@
 * [Accessible open green space and adherence to social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1227.md)
 * [Provide guidance on social distancing measures, improve living conditions in crowded areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1611.md)
 * [Implement measures to decrease occupant density and increase social distancing.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1821.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced morbidity and mortality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_405.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_133.md)
 

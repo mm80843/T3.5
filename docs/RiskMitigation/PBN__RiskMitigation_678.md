@@ -2,13 +2,9 @@
 
 # __Implementation of virtual house tours__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Real estate industry uncertainty](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_481.md)
-
-## Property: has_MitigationBenefit
-
-* [Minimized risk of infection spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_685.md)
+* [Enrich education through digital tools, virtual experiences, remote learning, and alternative forms of exercise and interaction.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_3.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Multi-agent occupancy simulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_106.md)
 * [Implement occupancy limits, encourage social distancing, provide adequate facilities and services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1576.md)
 * [Implement occupancy limits and manage crowd flow. Design layouts with spacious areas and efficient use of space.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2635.md)
+
+## Property: has_MitigationBenefit
+
+* [Minimized risk of infection spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_685.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Real estate industry uncertainty](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_481.md)
 

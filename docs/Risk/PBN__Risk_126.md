@@ -2,9 +2,9 @@
 
 # __Thermal discomfort__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Optimal thermal environments](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_150.md)
+* [Limited physical/social distancing, thermal discomfort, poor lighting, and inadequate air quality negatively impact personal comfort.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_130.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Poor Thermal Conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1118.md)
 * [Inadequate thermal environment control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1407.md)
 * [Improved thermal comfort of occupants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_606.md)
+
+## Mitigations of this risk
+
+* [Optimal thermal environments](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_150.md)
 

@@ -2,9 +2,9 @@
 
 # __public health officers__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Lack of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1302.md)
+* [Public health stakeholders and individuals alike are concerned about health, seeking information and guidance from trusted sources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_354.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [public health practitioners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_404.md)
 * [Public health agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1866.md)
 * [public health agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1878.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Lack of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1302.md)
 

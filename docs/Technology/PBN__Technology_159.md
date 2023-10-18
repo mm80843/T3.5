@@ -2,9 +2,9 @@
 
 # __legal advocacy__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q380075](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q380075.md)
+* [Government actions and regulations addressing various aspects of society, including policy changes, ethical frameworks, governance mechanisms, and public announcements.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_216.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [legal counsel](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1644.md)
 * [Legal counsel](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2616.md)
 * [legal advice](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4162.md)
+
+## This Technology is identified by the following QID
+
+* [Q380075](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q380075.md)
 

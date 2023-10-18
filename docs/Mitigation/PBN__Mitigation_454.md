@@ -2,11 +2,9 @@
 
 # __Exercising on treadmills and stationary bikes__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [stationary bikes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3242.md)
-* [heart rate monitors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3243.md)
-* [treadmills](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3241.md)
+* [Promoting exercise and physical activity through various strategies, monitoring, guidelines, programs, and adaptations, while considering barriers and analyzing movement patterns.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_159.md)
 
 ## Closest similar item
 
@@ -21,14 +19,20 @@
 * [Home-based exercise](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_66.md)
 * [Frequency of physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_75.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Performing aerobic exercises using exercise equipment to improve cardiovascular fitness.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Staying Physically Active During the Quarantine and Self-Isolation Period for Controlling and Mitigating the COVID-19 Pandemic: A Systematic Overview of the Literature](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_181.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [stationary bikes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3242.md)
+* [heart rate monitors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3243.md)
+* [treadmills](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3241.md)
 

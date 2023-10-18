@@ -2,9 +2,9 @@
 
 # __unbiased sampling__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Unbiased data collection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_889.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [surveys](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_900.md)
 * [improved sample collection and handling protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2030.md)
 * [Improved sample collection and handling protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2297.md)
+
+## This Technology enables the following mitigations
+
+* [Unbiased data collection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_889.md)
 

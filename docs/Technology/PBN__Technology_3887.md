@@ -2,9 +2,9 @@
 
 # __public awareness platforms__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1482.md)
+* [Various campaigns and programs to inform and engage the public, raise awareness, educate, and promote reliable information.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_207.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Public education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2135.md)
 * [public awareness and education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4071.md)
 * [public engagement and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_732.md)
+
+## This Technology enables the following mitigations
+
+* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1482.md)
 

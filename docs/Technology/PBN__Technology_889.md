@@ -2,9 +2,9 @@
 
 # __improved communication and decision-making tools__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q24965456](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q24965456.md)
+* [Advanced analytics, fact-checking, project management, reliable sources, knowledge extraction, and collaboration ensure accurate information dissemination and effective decision-making.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_192.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [online communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4031.md)
 * [Decision support systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2114.md)
 * [decision support systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1317.md)
+
+## This Technology is identified by the following QID
+
+* [Q24965456](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q24965456.md)
 

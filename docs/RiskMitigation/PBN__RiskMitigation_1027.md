@@ -2,13 +2,9 @@
 
 # __Optimized operation of HVAC systems__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_745.md)
-
-## Property: has_MitigationBenefit
-
-* [Energy efficiency improvement](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1024.md)
+* [Optimize indoor environments, regulate temperature and humidity, control air quality, and extend HVAC system operations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_341.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Optimizing ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_247.md)
 * [Proper design and maintenance of HVAC systems, use of individual controls, insulation, and shading.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1570.md)
 * [Optimize occupant presence schedules, improve energy efficiency of HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2339.md)
+
+## Property: has_MitigationBenefit
+
+* [Energy efficiency improvement](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1024.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_745.md)
 

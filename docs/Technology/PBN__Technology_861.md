@@ -2,9 +2,9 @@
 
 # __wearable devices for social distancing monitoring__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q30314010](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q30314010.md)
+* [Advanced monitoring systems and sensor integration for IoT devices and biosensor technology facilitate environmental monitoring and facility usage tracking.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_229.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3189.md)
 * [signage for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1823.md)
 * [physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_411.md)
+
+## This Technology is identified by the following QID
+
+* [Q30314010](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q30314010.md)
 

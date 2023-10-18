@@ -2,9 +2,9 @@
 
 # __Improve ventilation systems, ensure regular maintenance and cleaning__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Inadequate Ventilation in Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1442.md)
+* [Enhance airflow, increase fresh air intake, and optimize ventilation systems to improve air quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_329.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Improve building ventilation systems and air circulation, ensure proper maintenance of HVAC systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2549.md)
 * [Improve ventilation systems, use air purifiers, increase fresh air intake](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1817.md)
 * [Improving ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_517.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inadequate Ventilation in Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1442.md)
 

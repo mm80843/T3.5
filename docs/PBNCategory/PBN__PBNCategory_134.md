@@ -1,0 +1,41 @@
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_134 
+
+# __A list of various types and aspects of virus propagation, local services, water quality, waste management, and prioritization.__
+
+## Items covered in this category
+
+* [PVP1: Virus propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_174.md)
+* [PVP2: Virus propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_175.md)
+* [PVP3: Virus propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_176.md)
+* [PVP4: Virus propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_177.md)
+* [PVP5: Virus propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_178.md)
+* [PVP6: Virus propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_179.md)
+* [PVP1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2190.md)
+* [AQ3](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2202.md)
+* [WQ1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2204.md)
+* [WQ2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2205.md)
+* [WM1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2212.md)
+* [WC1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2215.md)
+* [WC2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2216.md)
+* [PC1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2217.md)
+* [PC2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2218.md)
+* [PC3](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2219.md)
+* [PC4](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2220.md)
+* [LC1: Local services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_205.md)
+* [LC2: Local services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_206.md)
+* [LS1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2221.md)
+* [LS2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2222.md)
+* [AQ2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2201.md)
+* [AQ1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2200.md)
+* [AQ4](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2203.md)
+* [PVP2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2191.md)
+* [PVP3](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2192.md)
+* [PVP4](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2193.md)
+* [PVP5](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2194.md)
+* [PVP6](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2195.md)
+* [WWM1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2206.md)
+* [WM2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2213.md)
+* [WWM2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2207.md)
+* [WM3](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2214.md)
+* [WWM3](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2208.md)
+

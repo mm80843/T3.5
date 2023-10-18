@@ -2,9 +2,9 @@
 
 # __safety barriers__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q24906](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q24906.md)
+* [Explore a diverse range of materials, from sound-absorbing to eco-friendly, that contribute to innovative building solutions and educational resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_222.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Safety awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2187.md)
 * [physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_343.md)
 * [Physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2396.md)
+
+## This Technology is identified by the following QID
+
+* [Q24906](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q24906.md)
 

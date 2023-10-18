@@ -2,9 +2,9 @@
 
 # __Quick and accurate disease reporting__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_94.md)
+* [Effective management of viral outbreaks through control measures, viral detection, disease tracking, and public awareness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_149.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Tracing and Tracking of Infected Individuals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1871.md)
 * [Clinical data collection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1523.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Delayed reporting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2539.md)
-
 ## Property: has_MitigationPrinciple
 
 Automatic reporting to the final authority without intermediary processing
 
+## Risks possibly mitigated by this Mitigation
+
+* [Delayed reporting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2539.md)
+
 ## Property: has_MitigationSource
 
 * [How Can Blockchain Help People in the Event of Pandemics Such as the COVID-19?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_241.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_94.md)
 

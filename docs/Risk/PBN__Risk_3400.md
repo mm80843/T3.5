@@ -2,9 +2,9 @@
 
 # __Job and income loss__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Providing income and support to impacted workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2262.md)
+* [The impact of various factors on the workforce, including job insecurity, changes in work schedules, unemployment, and decreased productivity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_4.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Loss of income and economic instability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1991.md)
 * [Unemployment and income decline](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_239.md)
 * [Job loss and exploitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2501.md)
+
+## Mitigations of this risk
+
+* [Providing income and support to impacted workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2262.md)
 

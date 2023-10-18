@@ -2,9 +2,9 @@
 
 # __health-focused design considerations and standards__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Use of health and hygiene focus](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_781.md)
+* [Improved healthcare infrastructure and resources enable public health authorities to implement effective messaging and interventions, ensuring equitable access to healthcare facilities and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_209.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [workplace design guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4106.md)
 * [improved healthcare technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_940.md)
 * [mobile health technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1691.md)
+
+## This Technology enables the following mitigations
+
+* [Use of health and hygiene focus](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_781.md)
 

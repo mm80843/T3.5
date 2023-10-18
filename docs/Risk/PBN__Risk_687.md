@@ -2,9 +2,9 @@
 
 # __Reducing inequalities in access to wearables__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Lowering prices of wearables and ensuring equal access across socioeconomic groups](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_951.md)
+* [Restricted availability of various resources, services, and data creates inequalities and obstacles in accessing them.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_132.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inequality of access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1232.md)
 * [Limited access to physical activity environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1857.md)
 * [Disparities in access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3433.md)
+
+## Mitigations of this risk
+
+* [Lowering prices of wearables and ensuring equal access across socioeconomic groups](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_951.md)
 

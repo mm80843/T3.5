@@ -2,13 +2,9 @@
 
 # __Comparison of deaths averted with and without interventions__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Impact of interventions on deaths](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_588.md)
-
-## Property: has_MitigationBenefit
-
-* [Quantification of deaths averted](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_829.md)
+* [Enforce safety measures, promote responsible behavior, utilize PPE, and prioritize risk prevention to ensure adequate protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_342.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Emphasize the importance of multiple preventive measures and the need for continued vigilance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2416.md)
 * [Prevention efforts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_827.md)
 * [Combine direct measurements with numerical simulations to inform decision-making, conduct rigorous study on intervention effectiveness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2010.md)
+
+## Property: has_MitigationBenefit
+
+* [Quantification of deaths averted](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_829.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Impact of interventions on deaths](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_588.md)
 

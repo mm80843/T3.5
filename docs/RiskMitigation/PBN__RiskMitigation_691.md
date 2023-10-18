@@ -2,13 +2,9 @@
 
 # __Centralize environmental quality improvement__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Stresses exacerbating disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_490.md)
-
-## Property: has_MitigationBenefit
-
-* [Reducing environmental contamination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_699.md)
+* [Promote environmentally-friendly waste management, sanitation, and maintenance practices, including rodent control, decontamination, and segregation of waste.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_340.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Establish measures to control water quality and availability](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2939.md)
 * [Implement measures to reduce air pollution, promote clean energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2140.md)
 * [Develop non-centralized building systems, utilize air purifiers and air quality monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1740.md)
+
+## Property: has_MitigationBenefit
+
+* [Reducing environmental contamination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_699.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Stresses exacerbating disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_490.md)
 

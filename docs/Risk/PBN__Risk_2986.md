@@ -2,9 +2,9 @@
 
 # __Physical health issues__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Regular Exercise](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1240.md)
+* [The intersection of human activity and health, integrating databases, limited healthcare access, sedentary lifestyles, neglecting public health requirements, and disparities in urban design contribute to public health concerns.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_116.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Health effects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3017.md)
 * [Mental and physical health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2460.md)
 * [Inadequate health-oriented features](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2739.md)
+
+## Mitigations of this risk
+
+* [Regular Exercise](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1240.md)
 

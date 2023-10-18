@@ -2,9 +2,9 @@
 
 # __Variation in lighting standards__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Incorporation of adaptable lighting solutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1085.md)
+* [A list of challenges and uncertainties surrounding the impact and response to various events and crises in different sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_124.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inadequate natural light](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1088.md)
 * [Inadequate ventilation and lighting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1303.md)
 * [Lack of natural light](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1804.md)
+
+## Mitigations of this risk
+
+* [Incorporation of adaptable lighting solutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1085.md)
 

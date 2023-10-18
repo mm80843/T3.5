@@ -2,9 +2,9 @@
 
 # __better laboratory equipment__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q834028](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q834028.md)
+* [Safety and operational tools for various fields, including healthcare, cleaning, maintenance, and emergency preparation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_212.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [diagnostic testing equipment and supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2904.md)
 * [medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_108.md)
 * [Medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2245.md)
+
+## This Technology is identified by the following QID
+
+* [Q834028](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q834028.md)
 

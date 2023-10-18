@@ -2,13 +2,9 @@
 
 # __saudi government__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q18600381](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q18600381.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [City Officials](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_0.md)
+* [All actors in the economic and political landscape, including policymakers, governments, and regulatory bodies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_357.md)
 
 ## Closest similar item
 
@@ -23,14 +19,22 @@
 * [national governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_51.md)
 * [government officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_333.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Governmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_5.md)
-
 ## Risks that can be mitigated by this stakeholder
 
 * [Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1889.md)
 * [Religious pilgrimages](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1886.md)
 * [Curfew](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1888.md)
 * [High population of foreign nationals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1885.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Governmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_5.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q18600381](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q18600381.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [City Officials](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_0.md)
 

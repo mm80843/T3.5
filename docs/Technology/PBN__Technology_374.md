@@ -2,9 +2,9 @@
 
 # __construction technology and software__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q2674423](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2674423.md)
+* [A list of diverse software tools, including financial management, construction technology, project management, communication, and monitoring software.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_219.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Building material technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2657.md)
 * [building engineers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_385.md)
 * [Building engineers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2335.md)
+
+## This Technology is identified by the following QID
+
+* [Q2674423](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2674423.md)
 

@@ -2,9 +2,9 @@
 
 # __Retailers should provide clear and updated information through signage, online channels, and verbal communication.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Confusion and Uncertainty](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1723.md)
+* [Facilitate transparent communication, enabling reliable information sharing through standardized protocols and effective channels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_0.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Retailers should implement strict monitoring and enforcement procedures, such as regular inspections, staff training, and the use of surveillance technology, to ensure compliance with social distancing measures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2292.md)
 * [Transparent and consistent communication, providing accurate and timely information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1797.md)
 * [Establish effective communication channels, provide clear and transparent information, address concerns and questions, promote trust and understanding.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1779.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Confusion and Uncertainty](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1723.md)
 

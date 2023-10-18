@@ -2,9 +2,9 @@
 
 # __Designate areas for relaxation within built environment, create outdoor spaces__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of relaxation space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1094.md)
+* [Promote the integration of natural elements and communal areas, enhance accessibility and quality, and foster positive perception and functionality of public and private green and outdoor spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_331.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Provide access to outdoor spaces, create opportunities for physical activity and social interaction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2941.md)
 * [Access to outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_849.md)
 * [Natural outdoor environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_733.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of relaxation space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1094.md)
 

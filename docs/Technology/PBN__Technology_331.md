@@ -2,9 +2,9 @@
 
 # __regular calibration__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q736777](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q736777.md)
+* [Various technologies and devices are used to measure and regulate temperature, including cameras, scanners, sensors, and thermostats.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_220.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Temperature scanners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2449.md)
 * [regular testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1753.md)
 * [regular inspection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4514.md)
+
+## This Technology is identified by the following QID
+
+* [Q736777](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q736777.md)
 

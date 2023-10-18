@@ -2,9 +2,9 @@
 
 # __regular inspection__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Proper maintenance of drainage system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2470.md)
+* [Enhanced diagnostic techniques and screening methods, including the development of rapid and reliable testing technologies and increased availability of diagnostic tools and kits.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_211.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [regular maintenance and inspection of ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1113.md)
 * [regular physical examination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3784.md)
 * [compliance checks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1055.md)
+
+## This Technology enables the following mitigations
+
+* [Proper maintenance of drainage system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2470.md)
 

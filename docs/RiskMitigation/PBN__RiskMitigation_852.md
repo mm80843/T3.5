@@ -2,13 +2,9 @@
 
 # __Self-dependent services and urban farming__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_282.md)
-
-## Property: has_MitigationBenefit
-
-* [Ensured access to necessities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_856.md)
+* [Enhance local self-sufficiency in shopping, recreation, and food production, while promoting sustainable practices and supporting resilient economies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_344.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Improve self-sufficiency by enhancing shopping and recreation facilities within communities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1556.md)
 * [Ensure adequate food production, import, storage, and transportation, prioritize vulnerable families, establish neighborhood food markets.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2445.md)
 * [Establishing makeshift neighborhood food markets](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_356.md)
+
+## Property: has_MitigationBenefit
+
+* [Ensured access to necessities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_856.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_282.md)
 

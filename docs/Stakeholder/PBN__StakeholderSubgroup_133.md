@@ -2,15 +2,9 @@
 
 # __Community Support Networks/Services__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [support network](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2459.md)
-* [support networks](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1150.md)
-* [support organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_791.md)
-* [community support services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1425.md)
-* [community support service](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2454.md)
-* [community support networks](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1268.md)
-* [community support network](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2473.md)
+* [Residents, locals, civic groups, support systems, and builders in a neighborhood.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_258.md)
 
 ## Closest similar item
 
@@ -24,4 +18,14 @@
 * [General Community](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_139.md)
 * [Vulnerable and Underserved Communities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_102.md)
 * [Community Leaders/Organizers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_127.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [support network](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2459.md)
+* [support networks](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1150.md)
+* [support organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_791.md)
+* [community support services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1425.md)
+* [community support service](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2454.md)
+* [community support networks](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1268.md)
+* [community support network](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2473.md)
 

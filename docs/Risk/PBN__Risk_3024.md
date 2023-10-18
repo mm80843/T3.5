@@ -2,9 +2,9 @@
 
 # __Contamination from respiratory droplets__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Covering mouth and nose](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1329.md)
+* [The widespread presence and transfer of harmful pathogens and contaminants on various surfaces and environments pose serious risks to public health and the ecosystem.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_100.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Poor air and surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2504.md)
 * [Indoor air contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_125.md)
 * [Contamination, transmission through air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2489.md)
+
+## Mitigations of this risk
+
+* [Covering mouth and nose](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1329.md)
 

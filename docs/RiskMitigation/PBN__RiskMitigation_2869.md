@@ -2,9 +2,9 @@
 
 # __Provide safe and social spaces__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [MH3](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2198.md)
+* [Implement comprehensive measures to ensure support, protection, and assistance for vulnerable populations during the pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_349.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Redesign public spaces to allow for social distancing, implement improved sanitization measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2305.md)
 * [Design and develop public spaces that encourage social interaction and physical activity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2144.md)
 * [Providing integrated spaces for social interaction and relaxation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_961.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [MH3](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2198.md)
 

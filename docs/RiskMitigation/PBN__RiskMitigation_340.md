@@ -2,13 +2,9 @@
 
 # __Upper room GUV air disinfection__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of air disinfection in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_274.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction in airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_341.md)
+* [Implement rigorous cleaning and disinfection measures, including the use of antimicrobial materials and advanced technologies, to maintain a safe and hygienic environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_2.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [UVGI systems for air disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1199.md)
 * [Effective disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_265.md)
 * [Regular disinfection and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_324.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction in airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_341.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of air disinfection in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_274.md)
 

@@ -2,13 +2,13 @@
 
 # __access control__
 
+## Category to which it belongs
+
+* [These resources aim to enhance security, convenience, and efficiency in managing access, spaces, and systems within various environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_206.md)
+
 ## Risks linked to this technology
 
 * [Privacy protection issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2093.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Authentication and Access Control](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_140.md)
 
 ## Closest similar item
 
@@ -23,13 +23,17 @@
 * [administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3947.md)
 * [access to windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3067.md)
 
-## This Technology belongs to this TechGroup
-
-* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_5.md)
-
 ## This Technology is identified by the following QID
 
 * [Q228502](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q228502.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Authentication and Access Control](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_140.md)
+
+## This Technology belongs to this TechGroup
+
+* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_5.md)
 
 ## This Technology enables the following mitigations
 

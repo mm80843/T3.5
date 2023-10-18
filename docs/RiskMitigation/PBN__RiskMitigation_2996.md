@@ -2,9 +2,9 @@
 
 # __Implement economic stimulus, financial aid, and support programs__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Economic downturn](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_525.md)
+* [Promote sustainable development through infrastructure investments, training, diversification, financial support, and government partnerships.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_315.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Economic stimulus, support for affected industries](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2130.md)
 * [Seek financial assistance or stimulus packages, explore cost-saving measures, diversify revenue streams.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1904.md)
 * [Financial support, loans, grants, and stimulus packages for businesses. Support for transitioning to online sales and remote work.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2839.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Economic downturn](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_525.md)
 

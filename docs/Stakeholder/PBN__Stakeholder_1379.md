@@ -2,9 +2,9 @@
 
 # __blood recipients__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Contamination of blood products](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2053.md)
+* [Individuals affected by various medical conditions, including COVID-19, seeking information and care.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_394.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [hospital workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_432.md)
 * [clinicians](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_274.md)
 * [hospital patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1061.md)
+
+## Risk affecting this stakeholder
+
+* [Contamination of blood products](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2053.md)
 

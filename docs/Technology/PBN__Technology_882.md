@@ -2,9 +2,9 @@
 
 # __uv light systems__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q11391](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11391.md)
+* [Innovative lighting solutions harnessing ultraviolet technology for optimal germicidal sterilization and energy efficiency, while maximizing natural light.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_235.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [UV irradiation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2709.md)
 * [ultraviolet light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4402.md)
 * [cost-effective uv systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1162.md)
+
+## This Technology is identified by the following QID
+
+* [Q11391](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11391.md)
 

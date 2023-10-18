@@ -2,9 +2,9 @@
 
 # __climate-smart agriculture methods__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Resilient agricultural practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1071.md)
+* [Urban green space solutions include tree planting, zoning regulations, landscape architecture, community gardens, outdoor furniture, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_231.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [sustainable farming practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1507.md)
 * [urban farming technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1221.md)
 * [smart temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4279.md)
+
+## This Technology enables the following mitigations
+
+* [Resilient agricultural practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1071.md)
 

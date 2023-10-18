@@ -2,9 +2,9 @@
 
 # __Digital communication tools for cross-regional collaboration__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
-* [Communication Technologies and Channels](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_27.md)
+* [The digital revolution encompasses various aspects, from online promotion to contactless payment systems and virtual learning platforms.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_190.md)
 
 ## Closest similar item
 
@@ -19,12 +19,16 @@
 * [collaboration tools (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3119.md)
 * [Online collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2131.md)
 
+## This Technology is identified by the following QID
+
+* [Q5145802](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5145802.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Communication Technologies and Channels](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_27.md)
+
 ## This Technology belongs to this TechGroup
 
 * [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
 * [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
-
-## This Technology is identified by the following QID
-
-* [Q5145802](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5145802.md)
 

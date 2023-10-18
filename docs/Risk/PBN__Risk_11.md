@@ -2,9 +2,9 @@
 
 # __Deterioration of biodiversity__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Prevent tropical deforestation and limit wildlife trade](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_15.md)
+* [The widespread presence and transfer of harmful pathogens and contaminants on various surfaces and environments pose serious risks to public health and the ecosystem.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_100.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Environmental degradation and social inequalities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_15.md)
 * [Declines in conservation revenue](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_772.md)
 * [Lack of natural outdoor environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2116.md)
+
+## Mitigations of this risk
+
+* [Prevent tropical deforestation and limit wildlife trade](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_15.md)
 

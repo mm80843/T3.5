@@ -2,9 +2,9 @@
 
 # __Environmental impact of construction industry__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Use of local and sustainable materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_784.md)
+* [Challenges in building industry include lack of understanding, high costs, inadequate preparedness, and slow adoption of new technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_98.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [COVID-19 impact on construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_987.md)
 * [Financial crisis in the construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_303.md)
 * [High impact of COVID-19 on construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1998.md)
+
+## Mitigations of this risk
+
+* [Use of local and sustainable materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_784.md)
 

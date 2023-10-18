@@ -2,10 +2,9 @@
 
 # __Increased Funding for Vaccine Research__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [financial resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3637.md)
-* [collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_151.md)
+* [A comprehensive approach to disease prevention through widespread immunization, research, and education.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_153.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Equitable vaccine distribution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1502.md)
 * [Community vaccination programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1511.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Uncertainty of vaccine effectiveness, time-consuming research process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3080.md)
-
 ## Property: has_MitigationPrinciple
 
 Accelerate research and development of a vaccine for COVID-19
 
+## Risks possibly mitigated by this Mitigation
+
+* [Uncertainty of vaccine effectiveness, time-consuming research process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3080.md)
+
 ## Property: has_MitigationSource
 
 * [The socio-economic implications of the coronavirus pandemic (COVID-19): A review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_135.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [financial resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3637.md)
+* [collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_151.md)
 

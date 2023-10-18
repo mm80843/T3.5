@@ -2,9 +2,9 @@
 
 # __Implement wastewater-based epidemiology (WBE), target specific subpopulations, improve testing capacity__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Inadequate monitoring of the spread of Covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1309.md)
+* [Implement wastewater surveillance techniques to detect viral presence, optimize treatment processes, and inform public health interventions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_308.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Sewage epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1001.md)
 * [Develop quantitative models that consider various factors affecting wastewater surveillance data to improve interpretation and estimation of prevalence.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2562.md)
 * [Increase testing capacity and use alternative surveillance methods such as sewage surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2301.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inadequate monitoring of the spread of Covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1309.md)
 

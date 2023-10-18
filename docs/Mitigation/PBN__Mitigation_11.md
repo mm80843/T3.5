@@ -2,13 +2,9 @@
 
 # __Travel restrictions__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [travel management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2899.md)
-* [travel monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4042.md)
-* [travel bans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_702.md)
-* [border control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3642.md)
-* [border controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3092.md)
+* [Movement and accessibility constraints, including travel bans, visitor restrictions, and limitations on gatherings and travel.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_160.md)
 
 ## Closest similar item
 
@@ -23,6 +19,10 @@
 * [accessible transportation options](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2545.md)
 * [travel advisories](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2546.md)
 
+## Property: has_MitigationPrinciple
+
+Restrict and control travel to and from areas with high infection rates to minimize the spread of infectious diseases
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Transmission of the disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3308.md)
@@ -36,10 +36,6 @@
 * [Importation of cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1594.md)
 * [Introduction of new cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2621.md)
 * [Contagion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2685.md)
-
-## Property: has_MitigationPrinciple
-
-Restrict and control travel to and from areas with high infection rates to minimize the spread of infectious diseases
 
 ## Property: has_MitigationSource
 
@@ -57,4 +53,12 @@ Restrict and control travel to and from areas with high infection rates to minim
 * [Should I Stay or Should I Go? Tourists’ COVID-19 Risk Perception and Vacation Behavior Shift](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_81.md)
 * [COVID-19: Lessons for an Urban(izing) World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_85.md)
 * [An e-mental health intervention to support burdened people in times of the COVID-19 pandemic: CoPE It](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_209.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [travel management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2899.md)
+* [travel monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4042.md)
+* [travel bans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_702.md)
+* [border control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3642.md)
+* [border controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3092.md)
 

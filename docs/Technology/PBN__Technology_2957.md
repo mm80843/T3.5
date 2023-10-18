@@ -2,9 +2,9 @@
 
 # __thick walls__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Climatically compatible house designs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_86.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [protective barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_229.md)
 * [Protective barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2549.md)
 * [plastic barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4200.md)
+
+## This Technology enables the following mitigations
+
+* [Climatically compatible house designs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_86.md)
 

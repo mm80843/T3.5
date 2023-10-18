@@ -2,13 +2,9 @@
 
 # __Use of personal protective equipment__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Transmission through saliva and urine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_802.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction in transmission via body fluids](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1087.md)
+* [Enforce safety measures, promote responsible behavior, utilize PPE, and prioritize risk prevention to ensure adequate protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_342.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [personal protective equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3415.md)
 * [personal protective equipment (masks)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3416.md)
 * [medical equipment and personnel](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3417.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction in transmission via body fluids](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1087.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Transmission through saliva and urine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_802.md)
 

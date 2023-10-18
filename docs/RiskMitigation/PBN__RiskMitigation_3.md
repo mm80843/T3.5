@@ -2,13 +2,9 @@
 
 # __Quantification using reference materials and digital droplet PCR__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Spread of SARS-CoV-2 through sewage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved quantification capability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_7.md)
+* [Monitoring, analysis, and standardization of various technologies and protocols for accurate and reliable healthcare data collection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_310.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Integration of new technologies (digital PCR, CSRPP, LOC/POC, biosensors)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_878.md)
 * [Improvement of PCR methods in terms of sensitivity and comparability, optimization of RNA extraction protocol.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1601.md)
 * [Developing sensitive RT-qPCR assays for wastewater](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_991.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved quantification capability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_7.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of SARS-CoV-2 through sewage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1.md)
 

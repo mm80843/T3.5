@@ -2,15 +2,9 @@
 
 # __Access to common building spaces__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_611.md)
-* [MH3: Mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_182.md)
-
-## Property: has_MitigationBenefit
-
-* [Socialization](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_234.md)
-* [Improved social connection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_853.md)
+* [Promote the integration of natural elements and communal areas, enhance accessibility and quality, and foster positive perception and functionality of public and private green and outdoor spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_331.md)
 
 ## Closest similar item
 
@@ -24,4 +18,14 @@
 * [Restrictions on shared facilities and uses](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_327.md)
 * [Educating building occupants](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_892.md)
 * [Incorporating outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1323.md)
+
+## Property: has_MitigationBenefit
+
+* [Socialization](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_234.md)
+* [Improved social connection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_853.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_611.md)
+* [MH3: Mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_182.md)
 

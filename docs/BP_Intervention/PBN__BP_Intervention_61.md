@@ -2,11 +2,11 @@
 
 # __Personal hygiene (eg handwashing)__
 
-## Property: has_BP_InterventionTitle
-
-Personal hygiene (eg handwashing)
-
 ## Property: has_BP_InterventionKey
 
 HU2
+
+## Property: has_BP_InterventionTitle
+
+Personal hygiene (eg handwashing)
 

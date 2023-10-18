@@ -2,13 +2,9 @@
 
 # __Utilize informal education systems__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Interrupted education for children and adults](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_780.md)
-
-## Property: has_MitigationBenefit
-
-* [Continued access to education](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_287.md)
+* [Enrich education through digital tools, virtual experiences, remote learning, and alternative forms of exercise and interaction.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_3.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implement remote learning strategies, provide support for students and families during closures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2483.md)
 * [Investment in education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_540.md)
 * [Ensure equitable access to remote work and education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_17.md)
+
+## Property: has_MitigationBenefit
+
+* [Continued access to education](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_287.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Interrupted education for children and adults](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_780.md)
 

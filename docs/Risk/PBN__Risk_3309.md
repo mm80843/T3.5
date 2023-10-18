@@ -2,9 +2,9 @@
 
 # __Displacement and strain on resources__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Evacuations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1975.md)
+* [Challenges in building industry include lack of understanding, high costs, inadequate preparedness, and slow adoption of new technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_98.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Limited resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3306.md)
 * [Inefficient use of resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2583.md)
 * [Eviction and Housing Displacement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1182.md)
+
+## Mitigations of this risk
+
+* [Evacuations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1975.md)
 

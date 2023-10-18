@@ -2,13 +2,9 @@
 
 # __Implementation of proper disinfection technologies for hospital wastes__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Increase in hospital waste generation during COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_667.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction of disease spread and contamination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_937.md)
+* [Implement rigorous cleaning and disinfection measures, including the use of antimicrobial materials and advanced technologies, to maintain a safe and hygienic environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_2.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Development of sustainable disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1295.md)
 * [Regular disinfection, high-level hygiene practices, waste management.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1725.md)
 * [Develop waste management strategies, including proper waste segregation and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2940.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction of disease spread and contamination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_937.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Increase in hospital waste generation during COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_667.md)
 

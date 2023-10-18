@@ -2,13 +2,9 @@
 
 # __Occupants of buildings with poor indoor air quality__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q905504](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q905504.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Building Occupants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_11.md)
+* [Individuals in poorly ventilated indoor environments, especially those in enclosed spaces with limited air flow, such as offices, homes, and buildings with inadequate air filtration, are at risk of exposure to poor indoor air quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_398.md)
 
 ## Closest similar item
 
@@ -26,4 +22,12 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Building Conditions](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_67.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q905504](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q905504.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Building Occupants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_11.md)
 

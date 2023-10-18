@@ -2,9 +2,9 @@
 
 # __retrofitting and equipment installation__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Conversion of existing spaces into medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_110.md)
+* [Design and construction professionals use innovative techniques and strategies to create adaptable, sustainable, and inclusive buildings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_217.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Maintenance equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2362.md)
 * [prefabricated components](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4300.md)
 * [hardware](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3931.md)
+
+## This Technology enables the following mitigations
+
+* [Conversion of existing spaces into medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_110.md)
 

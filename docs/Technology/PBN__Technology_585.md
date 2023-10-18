@@ -2,14 +2,14 @@
 
 # __respiratory hygiene practices__
 
+## Category to which it belongs
+
+* [Enhanced hygiene practices and strict adherence to cleaning protocols ensure rigorous sanitation and disinfection measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_196.md)
+
 ## Risks linked to this technology
 
 * [Spread through respiratory droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1745.md)
 * [Transmission through respiratory droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1373.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Physical Health Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_59.md)
 
 ## Closest similar item
 
@@ -24,12 +24,16 @@
 * [personal hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_831.md)
 * [proper sanitation practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3508.md)
 
+## This Technology is identified by the following QID
+
+* [Q189603](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q189603.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Physical Health Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_59.md)
+
 ## This Technology belongs to this TechGroup
 
 * [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 * [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
-
-## This Technology is identified by the following QID
-
-* [Q189603](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q189603.md)
 

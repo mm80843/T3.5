@@ -2,9 +2,9 @@
 
 # __designated zones__
 
-## Risks linked to this technology
+## Category to which it belongs
 
-* [Provision of community-level designated zones as key public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_271.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [designated social spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3051.md)
 * [green areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4038.md)
 * [community areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1849.md)
+
+## Risks linked to this technology
+
+* [Provision of community-level designated zones as key public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_271.md)
 

@@ -2,9 +2,9 @@
 
 # __microalgae structures__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Biofiltration technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1306.md)
+* [Explore a diverse range of materials, from sound-absorbing to eco-friendly, that contribute to innovative building solutions and educational resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_222.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4396.md)
 * [anti-microbial materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4237.md)
 * [structural foundations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3731.md)
+
+## This Technology enables the following mitigations
+
+* [Biofiltration technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1306.md)
 

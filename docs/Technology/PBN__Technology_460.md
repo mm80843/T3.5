@@ -2,9 +2,9 @@
 
 # __contract management software__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q831677](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q831677.md)
+* [A list of diverse software tools, including financial management, construction technology, project management, communication, and monitoring software.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_219.md)
 
 ## Risks linked to this technology
 
@@ -23,4 +23,8 @@
 * [contract review systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4126.md)
 * [software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4165.md)
 * [smart contracts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1234.md)
+
+## This Technology is identified by the following QID
+
+* [Q831677](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q831677.md)
 

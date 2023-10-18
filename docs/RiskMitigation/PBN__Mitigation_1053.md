@@ -2,11 +2,9 @@
 
 # __Green stimulus__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [energy efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3595.md)
-* [renewable energy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_534.md)
-* [clean energy infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3596.md)
+* [Promoting sustainable and eco-friendly practices that enhance urban green spaces, energy efficiency, and renewable energy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_180.md)
 
 ## Closest similar item
 
@@ -21,15 +19,21 @@
 * [Access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_125.md)
 * [Economic stimulus, support for affected industries](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3978.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Economic recovery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2888.md)
-
 ## Property: has_MitigationPrinciple
 
 Government investments in green energy projects and infrastructure to stimulate economic growth and reduce environmental impact.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Economic recovery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2888.md)
+
 ## Property: has_MitigationSource
 
 * [Covid-19 and the politics of sustainable energy transitions](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_14.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [energy efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3595.md)
+* [renewable energy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_534.md)
+* [clean energy infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3596.md)
 

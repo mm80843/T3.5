@@ -2,13 +2,13 @@
 
 # __businesses and industries with localized supply chains__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q17154120](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q17154120.md)
+* [Various industries, businesses, and supply chain partners rely on suppliers and supply chain professionals for their products and services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_370.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+* [Limited flexibility in adjusting to shocks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1840.md)
 
 ## Closest similar item
 
@@ -23,11 +23,15 @@
 * [countries heavily reliant on specific suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1243.md)
 * [supply chain professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_16.md)
 
-## Risk affecting this stakeholder
-
-* [Limited flexibility in adjusting to shocks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1840.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Business and Financial Services](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_58.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q17154120](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q17154120.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 

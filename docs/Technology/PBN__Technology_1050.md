@@ -2,9 +2,9 @@
 
 # __hot water supply__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1061108](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1061108.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [water filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4259.md)
 * [water storage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2961.md)
 * [water treatment facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_666.md)
+
+## This Technology is identified by the following QID
+
+* [Q1061108](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1061108.md)
 

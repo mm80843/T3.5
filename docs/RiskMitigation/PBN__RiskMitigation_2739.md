@@ -2,9 +2,9 @@
 
 # __Use virtual reality to educate patients__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of patient education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2090.md)
+* [Enrich education through digital tools, virtual experiences, remote learning, and alternative forms of exercise and interaction.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_3.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Virtual reality pain management and physical therapy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1129.md)
 * [Establish virtual clinics for remote consultations and utilize telemedicine and e-learning platforms.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2857.md)
 * [Virtual clinics and tele-medicine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1329.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of patient education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2090.md)
 

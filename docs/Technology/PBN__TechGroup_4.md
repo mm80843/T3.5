@@ -2,6 +2,23 @@
 
 # __Infrastructure__
 
+## Category to which it belongs
+
+* [The framework that supports and connects various systems for efficient functioning.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_291.md)
+
+## Closest similar item
+
+* [infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_28.md)
+* [infrastructure development](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_29.md)
+* [Infrastructure development](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_30.md)
+* [technology infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_31.md)
+* [it infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_32.md)
+* [infrastructure support](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_33.md)
+* [transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_34.md)
+* [network infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_35.md)
+* [infrastructure improvement](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_36.md)
+* [improved infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_37.md)
+
 ## This Technology belongs to this TechnologyGroup
 
 * [air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_203.md)
@@ -210,17 +227,4 @@
 * [cellular network](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1778.md)
 * [loaner devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1939.md)
 * [free Wi-Fi hotspots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2367.md)
-
-## Closest similar item
-
-* [infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_28.md)
-* [infrastructure development](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_29.md)
-* [Infrastructure development](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_30.md)
-* [technology infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_31.md)
-* [it infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_32.md)
-* [infrastructure support](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_33.md)
-* [transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_34.md)
-* [network infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_35.md)
-* [infrastructure improvement](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_36.md)
-* [improved infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_37.md)
 

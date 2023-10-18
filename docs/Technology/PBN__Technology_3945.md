@@ -2,9 +2,9 @@
 
 # __iot networks__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Touch-free Technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1612.md)
+* [Enhanced connectivity and diverse communication platforms enable the dissemination of reliable information and promote open communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_225.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [IoT devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2429.md)
 * [internet of things (iot)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1710.md)
 * [Internet of Things (IoT)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2844.md)
+
+## This Technology enables the following mitigations
+
+* [Touch-free Technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1612.md)
 

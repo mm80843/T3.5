@@ -2,6 +2,10 @@
 
 # __contact tracing__
 
+## Category to which it belongs
+
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
+
 ## Risks linked to this technology
 
 * [Spread of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_642.md)
@@ -10,10 +14,6 @@
 * [Spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
 * [High positivity rate](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_540.md)
 * [Transmission rebound after easing interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2304.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Contact Tracing Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_23.md)
 
 ## Closest similar item
 
@@ -28,13 +28,17 @@
 * [Contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2145.md)
 * [contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
 
-## This Technology belongs to this TechGroup
-
-* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1128437](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1128437.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Contact Tracing Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_23.md)
+
+## This Technology belongs to this TechGroup
+
+* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
 
 ## This Technology enables the following mitigations
 

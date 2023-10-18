@@ -2,9 +2,9 @@
 
 # __pesticides__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Larvicides and adulticides](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1751.md)
+* [Advancements in molecular biology, diagnostics, vaccines, antiviral technologies, and disease surveillance for pathogen detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_223.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [disinfectant sprays](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_672.md)
 * [Disinfectant sprays](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2220.md)
 * [insecticide-treated bed nets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4455.md)
+
+## This Technology enables the following mitigations
+
+* [Larvicides and adulticides](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1751.md)
 

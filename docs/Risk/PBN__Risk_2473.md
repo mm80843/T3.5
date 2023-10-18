@@ -2,9 +2,9 @@
 
 # __Uncomfortable temperature__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Thermal conditions control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_172.md)
+* [Limited physical/social distancing, thermal discomfort, poor lighting, and inadequate air quality negatively impact personal comfort.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_130.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inadequate temperature screening](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2033.md)
 * [Excessive cooling/heating](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2430.md)
 * [High indoor temperatures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_783.md)
+
+## Mitigations of this risk
+
+* [Thermal conditions control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_172.md)
 

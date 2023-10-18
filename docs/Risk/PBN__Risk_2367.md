@@ -2,25 +2,9 @@
 
 # __Invasive individual testing__
 
-## Property: has_RiskHealth
+## Category to which it belongs
 
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Description of the risk
-
-Individual testing methods for COVID-19 require invasive procedures such as nasopharyngeal swabs, which can be uncomfortable and inconvenient.
-
-## Property: has_RiskType
-
-* [health](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_4.md)
-
-## Articles mentionning the risk
-
-* [SARS-CoV-2 Titers in Wastewater Are Higher than Expected from Clinically Confirmed Cases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_251.md)
+* [The challenges include inadequate testing capacity, slow identification of cases, limited evidence, and variability in PCR methods.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_140.md)
 
 ## Closest similar item
 
@@ -35,34 +19,54 @@ Individual testing methods for COVID-19 require invasive procedures such as naso
 * [Low testing frequency in previously infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_864.md)
 * [Safety of laboratory personnel and environment during sample handling and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1628.md)
 
-## People affected by this risk
+## Description of the risk
 
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-* [individuals with symptoms or high-risk exposures](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1575.md)
+Individual testing methods for COVID-19 require invasive procedures such as nasopharyngeal swabs, which can be uncomfortable and inconvenient.
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
+## Mitigations of this risk
+
+* [Develop and promote non-invasive testing methods, such as saliva or wastewater-based surveillance, to increase testing uptake.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3074.md)
+
+## Name of the risk
+
+Decreased willingness to get tested, leading to underreporting of cases and limited knowledge of the true prevalence of the virus.
 
 ## Stakeholders who can mitigate this risk
 
 * [healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_193.md)
 * [public health officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_310.md)
 
-## Name of the risk
+## Articles mentionning the risk
 
-Decreased willingness to get tested, leading to underreporting of cases and limited knowledge of the true prevalence of the virus.
+* [SARS-CoV-2 Titers in Wastewater Are Higher than Expected from Clinically Confirmed Cases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_251.md)
 
-## Mitigations of this risk
+## People affected by this risk
 
-* [Develop and promote non-invasive testing methods, such as saliva or wastewater-based surveillance, to increase testing uptake.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3074.md)
-
-## Property: has_RiskISO_Purpose
-
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [individuals with symptoms or high-risk exposures](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1575.md)
 
 ## Technologies linked to the risk
 
 * [development of non-invasive testing techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1972.md)
 * [improvement of testing accuracy and reliability](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1973.md)
+
+## Property: has_RiskType
+
+* [health](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_4.md)
 

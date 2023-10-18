@@ -2,9 +2,9 @@
 
 # __advanced modeling techniques__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q17143560](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q17143560.md)
+* [Advanced technologies and algorithms for modeling, simulation, optimization, and artificial intelligence in various applications, including robotics and computational fluid dynamics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_239.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [simulation models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1458.md)
 * [statistical modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3724.md)
 * [mathematical models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2929.md)
+
+## This Technology is identified by the following QID
+
+* [Q17143560](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q17143560.md)
 

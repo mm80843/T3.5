@@ -2,9 +2,9 @@
 
 # __Economic recession for informal workers__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Addressing the impact on the informal street economy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_795.md)
+* [The impact of various factors on the workforce, including job insecurity, changes in work schedules, unemployment, and decreased productivity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_4.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Unemployment and income decline](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_239.md)
 * [Economic downturn](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_525.md)
 * [Labour shortages](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_730.md)
+
+## Mitigations of this risk
+
+* [Addressing the impact on the informal street economy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_795.md)
 

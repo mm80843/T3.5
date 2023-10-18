@@ -2,13 +2,9 @@
 
 # __Lean construction__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Improper implementation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_297.md)
-
-## Property: has_MitigationBenefit
-
-* [Increased value](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_367.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Incorporate opportunities for physical activity into building design, such as active workstations or fitness facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2571.md)
 * [Measures in design and construction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_109.md)
 * [Support local production, enhance capacity building](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2163.md)
+
+## Property: has_MitigationBenefit
+
+* [Increased value](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_367.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Improper implementation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_297.md)
 

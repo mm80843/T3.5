@@ -2,9 +2,9 @@
 
 # __use modular design systems and adjustable walls/screens in apartment layouts__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q323611](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q323611.md)
+* [Design and construction professionals use innovative techniques and strategies to create adaptable, sustainable, and inclusive buildings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_217.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [integrated building systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3217.md)
 * [urban layout planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3212.md)
 * [modular construction techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3772.md)
+
+## This Technology is identified by the following QID
+
+* [Q323611](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q323611.md)
 

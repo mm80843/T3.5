@@ -2,13 +2,9 @@
 
 # __Augmented surveillance, prompt voluntary reporting, and provision of separate spaces for isolation and quarantine__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Difficulties in ensuring social distancing in densely populated areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_728.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction in disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_426.md)
+* [Enforcing strict measures such as containment strategies, isolation, quarantine, and travel restrictions to prevent the spread of diseases.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_333.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Establish protocols for monitoring confirmed cases and close contacts, ensure compliance with quarantine and isolation measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2800.md)
 * [Isolation and quarantine of confirmed cases and contacts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_438.md)
 * [Quarantine support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3136.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction in disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_426.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Difficulties in ensuring social distancing in densely populated areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_728.md)
 

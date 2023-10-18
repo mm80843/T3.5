@@ -2,10 +2,9 @@
 
 # __lower-income individuals__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Cutting public social expenditures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2263.md)
-* [Neoliberalism](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2262.md)
+* [Vulnerable and economically disadvantaged individuals and communities, including low-income workers, renters, and households, particularly in urban areas and minority communities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_375.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [low-income populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_110.md)
 * [Low-income populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2219.md)
 * [low-income households](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_219.md)
+
+## Risk affecting this stakeholder
+
+* [Cutting public social expenditures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2263.md)
+* [Neoliberalism](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2262.md)
 

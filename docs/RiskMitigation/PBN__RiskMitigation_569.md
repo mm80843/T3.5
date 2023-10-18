@@ -2,13 +2,9 @@
 
 # __Implement safety measures__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Decline in public transport usage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_406.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced feeling of safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_555.md)
+* [Enforce safety measures, promote responsible behavior, utilize PPE, and prioritize risk prevention to ensure adequate protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_342.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Focus on safety and security issues](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_254.md)
 * [Address safety concerns through research, testing, and regulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2373.md)
 * [Implement safety protocols, increase hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2059.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced feeling of safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_555.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Decline in public transport usage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_406.md)
 

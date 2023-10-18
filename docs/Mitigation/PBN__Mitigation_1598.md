@@ -2,10 +2,9 @@
 
 # __Natural ventilation and thermal comfort at home__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
-* [operable windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3938.md)
+* [Optimal air circulation and fresh airflow to enhance indoor environment and promote health in buildings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_177.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Improved Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1228.md)
 * [Natural ventilation through window openings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1152.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Poor indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_294.md)
-
 ## Property: has_MitigationPrinciple
 
 Ensuring proper airflow, ventilation, and thermal comfort in homes to improve occupant comfort, productivity, and health
 
+## Risks possibly mitigated by this Mitigation
+
+* [Poor indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_294.md)
+
 ## Property: has_MitigationSource
 
 * [How our homes impact our health: using a COVID-19 informed approach to examine urban apartment housing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_279.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
+* [operable windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3938.md)
 

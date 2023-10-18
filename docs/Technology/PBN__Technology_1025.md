@@ -2,9 +2,9 @@
 
 # __antimicrobial coatings for surfaces__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1570182](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1570182.md)
+* [The implementation of various disinfection methods, improved cleaning and sanitization protocols, and the use of eco-friendly disinfectants and advanced technologies have been prioritized.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_199.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [surface coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_793.md)
 * [antimicrobial materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3442.md)
 * [antimicrobial paint](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3852.md)
+
+## This Technology is identified by the following QID
+
+* [Q1570182](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1570182.md)
 

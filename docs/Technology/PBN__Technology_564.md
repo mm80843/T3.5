@@ -2,9 +2,9 @@
 
 # __implementation of targeted public health interventions based on regional characteristics__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1814351](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1814351.md)
+* [Improved healthcare infrastructure and resources enable public health authorities to implement effective messaging and interventions, ensuring equitable access to healthcare facilities and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_209.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [targeted outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1339.md)
 * [targeted outreach to disadvantaged communities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1830.md)
 * [public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_615.md)
+
+## This Technology is identified by the following QID
+
+* [Q1814351](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1814351.md)
 

@@ -2,10 +2,9 @@
 
 # __Eviction__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Eviction diversion programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_271.md)
-* [Civil right to counsel](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_272.md)
+* [The challenges and consequences of the global pandemic include poor acoustics, noise pollution, food security, increase in inequality, waste, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_131.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Contractual issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_556.md)
 * [Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1889.md)
 * [Curfew](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1888.md)
+
+## Mitigations of this risk
+
+* [Eviction diversion programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_271.md)
+* [Civil right to counsel](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_272.md)
 

@@ -2,9 +2,9 @@
 
 # __Poor acoustics__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Improved acoustic design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_152.md)
+* [The challenges and consequences of the global pandemic include poor acoustics, noise pollution, food security, increase in inequality, waste, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_131.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Poor ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1426.md)
 * [Poor Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2668.md)
 * [Poor Housing Quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1078.md)
+
+## Mitigations of this risk
+
+* [Improved acoustic design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_152.md)
 

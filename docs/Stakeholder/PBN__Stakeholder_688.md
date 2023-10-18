@@ -2,10 +2,9 @@
 
 # __wastewater treatment workers__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Transmission of COVID-19 through wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1807.md)
-* [Presence of COVID-19 in sewage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1147.md)
+* [Individuals and organizations involved in the management and treatment of water, waste, and wastewater.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_397.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [wastewater treatment facility](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2704.md)
 * [wastewater treatment plant operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1050.md)
 * [wastewater treatment authority](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2679.md)
+
+## Risk affecting this stakeholder
+
+* [Transmission of COVID-19 through wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1807.md)
+* [Presence of COVID-19 in sewage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1147.md)
 

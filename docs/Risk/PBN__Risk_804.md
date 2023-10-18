@@ -2,9 +2,9 @@
 
 # __Limited pre-event preparations__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Preparing and providing smart city infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1105.md)
+* [A list of challenges and uncertainties surrounding the impact and response to various events and crises in different sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_124.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of comprehensive pandemic preparedness and response planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1026.md)
 * [Gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3215.md)
 * [Future "black swan" events](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3373.md)
+
+## Mitigations of this risk
+
+* [Preparing and providing smart city infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1105.md)
 

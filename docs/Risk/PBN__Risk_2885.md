@@ -2,9 +2,9 @@
 
 # __Increased contact in public transportation__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Active transportation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1050.md)
+* [The changing landscape of travel and transportation has led to concerns over safety, reduced demand, and inadequate infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_125.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Increased traffic congestion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2564.md)
 * [Increased contact in crowded shops](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2884.md)
 * [Impact on public transit](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_916.md)
+
+## Mitigations of this risk
+
+* [Active transportation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1050.md)
 

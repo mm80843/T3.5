@@ -2,8 +2,9 @@
 
 # __Window opening__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Enabling technology and tools for connectivity, privacy, convenience, and efficient communication in a digital age.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_156.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Separate Entrance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2012.md)
 * [Automatic doors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1858.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Increased air change rates](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2752.md)
-
 ## Property: has_MitigationPrinciple
 
 Opening windows in homes significantly affects air change rates and indoor concentrations of pollutants.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Increased air change rates](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2752.md)
+
 ## Property: has_MitigationSource
 
 * [howard-reed_effect_2002 howard-reed_effect_2002](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_307.md)
+
+## This Mitigation is enabled by the following technologies
+
 

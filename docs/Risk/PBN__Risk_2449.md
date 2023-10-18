@@ -2,9 +2,9 @@
 
 # __Disjointed insights and privacy concerns__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Standardization of protocols for seamless communication and privacy protection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_115.md)
+* [Concerns about the protection of personal information, surveillance, data security, and risks of privacy infringement.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_108.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Security and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2083.md)
 * [Privacy and data security concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2065.md)
 * [Privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1097.md)
+
+## Mitigations of this risk
+
+* [Standardization of protocols for seamless communication and privacy protection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_115.md)
 

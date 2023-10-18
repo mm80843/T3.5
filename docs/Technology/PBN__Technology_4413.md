@@ -2,9 +2,9 @@
 
 # __daily press briefings__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Reassure and educate the public](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2324.md)
+* [Various campaigns and programs to inform and engage the public, raise awareness, educate, and promote reliable information.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_207.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [public announcements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_372.md)
 * [announcements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_778.md)
 * [public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_102.md)
+
+## This Technology enables the following mitigations
+
+* [Reassure and educate the public](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2324.md)
 

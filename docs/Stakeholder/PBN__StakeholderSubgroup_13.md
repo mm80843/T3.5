@@ -2,13 +2,9 @@
 
 # __Educational Authorities and Departments__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [education authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1498.md)
-* [education ministries](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1363.md)
-* [education departments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1252.md)
-* [education ministry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1636.md)
-* [education department](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1634.md)
+* [Overseeing and managing health services, communities, and education at large.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_263.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Education in General](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_12.md)
 * [Education and Research](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_15.md)
 * [Training Organizations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_18.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [education authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1498.md)
+* [education ministries](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1363.md)
+* [education departments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1252.md)
+* [education ministry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1636.md)
+* [education department](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1634.md)
 

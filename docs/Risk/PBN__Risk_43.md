@@ -2,9 +2,9 @@
 
 # __Falling investment in fossil fuels__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Divestment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_60.md)
+* [Financial vulnerability and instability permeate various sectors and industries, hindering growth, sustainability, and access to resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_114.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Decreased carbon emissions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1254.md)
 * [Use of biomass fuels](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2018.md)
 * [Carbon emissions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_149.md)
+
+## Mitigations of this risk
+
+* [Divestment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_60.md)
 

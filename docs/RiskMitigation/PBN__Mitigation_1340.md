@@ -2,9 +2,9 @@
 
 # __Training for healthcare professionals in psychosocial skills__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_82.md)
+* [Enhancing healthcare access, facilities, and systems while promoting affordability and strengthening healthcare infrastructure through various strategies and initiatives.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_165.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Psychoeducation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1601.md)
 * [Health education programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2442.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Mental health issues among healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3032.md)
-
 ## Property: has_MitigationPrinciple
 
 To equip healthcare professionals with the necessary skills to cope with stress and support their own mental wellbeing
 
+## Risks possibly mitigated by this Mitigation
+
+* [Mental health issues among healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3032.md)
+
 ## Property: has_MitigationSource
 
 * [COVID-19: The forgotten priorities of the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_236.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_82.md)
 

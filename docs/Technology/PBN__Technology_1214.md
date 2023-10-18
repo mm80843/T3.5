@@ -2,9 +2,9 @@
 
 # __geographic information systems__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q483130](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q483130.md)
+* [Data-driven insights and analysis for decision making, anonymized data, transparency, visualization, and advanced techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_205.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [geographic information systems (gis) software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4319.md)
 * [Geographic Information System (GIS) mapping technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2322.md)
 * [geographic information systems (gis) can be used to analyze community needs and optimize facility placement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1913.md)
+
+## This Technology is identified by the following QID
+
+* [Q483130](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q483130.md)
 

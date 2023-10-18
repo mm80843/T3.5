@@ -2,13 +2,9 @@
 
 # __Adoption of universal standards for data sharing__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Privacy and data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_960.md)
-
-## Property: has_MitigationBenefit
-
-* [Increased processing capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1321.md)
+* [Promote standardized data collection, ontology-based representation, and enhanced data sharing to improve decision-making processes and data quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_319.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Improve data standardization and interoperability, increase data quality and availability](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2285.md)
 * [Meta-harmonization of common data standards, standardized processes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2820.md)
 * [Meta-harmonization of data standards](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1118.md)
+
+## Property: has_MitigationBenefit
+
+* [Increased processing capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1321.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Privacy and data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_960.md)
 

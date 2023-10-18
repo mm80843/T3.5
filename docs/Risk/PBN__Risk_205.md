@@ -2,9 +2,9 @@
 
 # __LC1: Local services__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Availability of self-dependent services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_244.md)
+* [A list of various types and aspects of virus propagation, local services, water quality, waste management, and prioritization.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_134.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [LS1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2221.md)
 * [Flexible public places to support essential sectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_268.md)
 * [High cost, limited infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2988.md)
+
+## Mitigations of this risk
+
+* [Availability of self-dependent services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_244.md)
 

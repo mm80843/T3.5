@@ -2,13 +2,9 @@
 
 # __Closure of non-essential public places__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Closure of secondary public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_270.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduced pressure on secondary services](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_332.md)
+* [Implementing a comprehensive package of measures to ensure the smooth functioning and safety of essential services and activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_6.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Develop new typologies to describe public spaces in terms of social distancing and health risks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1977.md)
 * [Promote the use of public spaces through targeted campaigns, activities, and events](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1981.md)
 * [Compartmentalization of private and communal spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_746.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced pressure on secondary services](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_332.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Closure of secondary public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_270.md)
 

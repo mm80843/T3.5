@@ -2,9 +2,9 @@
 
 # __Conduct qualitative analysis and evaluation of proposed ontologies based on existing criteria__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of rigor in evaluating proposed ontologies based on existing ontology quality evaluation literature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1049.md)
+* [Promote standardized data collection, ontology-based representation, and enhanced data sharing to improve decision-making processes and data quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_319.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Foster ontology interoperability and collaboration among developers.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1965.md)
 * [Explore the use of established ontological models such as EQ or REA to fill the gap.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2547.md)
 * [Adopt ontology formalism and upper-level ontologies to resolve inconsistencies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2546.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of rigor in evaluating proposed ontologies based on existing ontology quality evaluation literature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1049.md)
 

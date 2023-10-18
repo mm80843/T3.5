@@ -2,13 +2,9 @@
 
 # __Travel Restrictions and Monitoring__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [Travel advisories and restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2488.md)
-* [Implementation of border controls and travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2490.md)
-* [border control technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1549.md)
-* [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2485.md)
-* [mobile phone tracking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1685.md)
+* [Healthcare services using technology to monitor and manage patients remotely amidst travel limitations and restrictions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_20.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Mobile and Remote Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_107.md)
 * [Monitoring Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_31.md)
 * [Infrastructure and Transportation](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_115.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [Travel advisories and restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2488.md)
+* [Implementation of border controls and travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2490.md)
+* [border control technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1549.md)
+* [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2485.md)
+* [mobile phone tracking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1685.md)
 

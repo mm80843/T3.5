@@ -2,9 +2,9 @@
 
 # __Installation of efficient HVAC systems, proper insulation, and controls for temperature regulation__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Poor Thermal Conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1118.md)
+* [Optimize indoor environments, regulate temperature and humidity, control air quality, and extend HVAC system operations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_341.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implementation of adaptable HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1086.md)
 * [Improve insulation, adjust HVAC systems, provide personal comfort devices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2478.md)
 * [HVAC system modifications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1350.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Poor Thermal Conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1118.md)
 

@@ -2,9 +2,9 @@
 
 # __Expand research to include non-English social media platforms and languages__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Exclusion of non-English speaking populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1590.md)
+* [Strengthen collaborations, implement behavioral change, deploy social robots, and promote sustainable content consumption for community-based strategies, holistic research, and positive media representation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_316.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Use of social media for information retrieval](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_910.md)
 * [Provide social support and promote social connections through technology.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2689.md)
 * [Monitoring social media](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_694.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Exclusion of non-English speaking populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1590.md)
 

@@ -2,9 +2,9 @@
 
 # __improved water supply__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Water management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1114.md)
+* [Improvements in wastewater, waste management, sanitation, water purification, and plumbing technologies aim for sustainable and efficient infrastructure development.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_234.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [water usage reduction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4260.md)
 * [water-saving technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4280.md)
 * [water treatment facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_666.md)
+
+## This Technology enables the following mitigations
+
+* [Water management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1114.md)
 

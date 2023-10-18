@@ -2,14 +2,9 @@
 
 # __Environmental and Outdoor Monitoring__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [ecological monitoring and regulation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1672.md)
-* [green infrastructure design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1032.md)
-* [remote sensing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_279.md)
-* [Environmental monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2533.md)
-* [meteorological monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_749.md)
-* [Beach monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2448.md)
+* [Tools and technologies for observing, measuring, and controlling various aspects of the environment, including noise levels and physical distancing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_10.md)
 
 ## Closest similar item
 
@@ -23,4 +18,13 @@
 * [Surveillance and Monitoring Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_147.md)
 * [Green and Outdoor Spaces](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_83.md)
 * [Environmental Controls](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_185.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [ecological monitoring and regulation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1672.md)
+* [green infrastructure design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1032.md)
+* [remote sensing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_279.md)
+* [Environmental monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2533.md)
+* [meteorological monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_749.md)
+* [Beach monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2448.md)
 

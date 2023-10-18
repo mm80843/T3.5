@@ -2,9 +2,9 @@
 
 # __Optimize HVAC system operations, implement energy-efficient measures__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Increased energy consumption in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2296.md)
+* [Optimize indoor environments, regulate temperature and humidity, control air quality, and extend HVAC system operations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_341.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [HVAC system modifications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1350.md)
 * [Install high-efficiency filters in HVAC systems, regularly clean and replace filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1643.md)
 * [Implementation of adaptable HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1086.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Increased energy consumption in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2296.md)
 

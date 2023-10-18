@@ -2,9 +2,9 @@
 
 # __Controlling temperature__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_375.md)
+* [Limited physical/social distancing, thermal discomfort, poor lighting, and inadequate air quality negatively impact personal comfort.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_130.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Temperature fluctuations, Lack of infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3169.md)
 * [Excessive cooling/heating](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2430.md)
 * [Poor Thermal Conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1118.md)
+
+## Mitigations of this risk
+
+* [Temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_375.md)
 

@@ -2,15 +2,9 @@
 
 # __project developers__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Suspension of projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_595.md)
-
-## Risk affecting this stakeholder
-
-* [Supply chain disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1400.md)
-* [Financial impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_599.md)
-* [Suspension of projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_595.md)
+* [A diverse group specializing in the creation and implementation of various technological projects.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_383.md)
 
 ## Closest similar item
 
@@ -24,4 +18,14 @@
 * [Project managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1659.md)
 * [software developer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2626.md)
 * [project owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_346.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Suspension of projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_595.md)
+
+## Risk affecting this stakeholder
+
+* [Supply chain disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1400.md)
+* [Financial impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_599.md)
+* [Suspension of projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_595.md)
 

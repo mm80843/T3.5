@@ -2,9 +2,9 @@
 
 # __telephone__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Cognitive behavioral therapy (CBT), acceptance and commitment-based therapy (ACT), mindfulness-based stress reduction interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_209.md)
+* [Virtual healthcare and remote communication technology including telemedicine, telehealth platforms, teletherapy, teleconferencing, and tele-operation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_202.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [smartphone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4146.md)
 * [smartphones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3002.md)
 * [SmartPhones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4544.md)
+
+## This Technology enables the following mitigations
+
+* [Cognitive behavioral therapy (CBT), acceptance and commitment-based therapy (ACT), mindfulness-based stress reduction interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_209.md)
 

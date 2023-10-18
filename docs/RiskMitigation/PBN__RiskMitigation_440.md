@@ -2,13 +2,9 @@
 
 # __Regular testing and contact tracing__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Mass testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_335.md)
-
-## Property: has_MitigationBenefit
-
-* [Early diagnosis and treatment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_429.md)
+* [Promote comprehensive testing and tracing, prioritize vulnerable populations, reduce diagnosis-to-surgery time, recognize stress symptoms, and improve testing accuracy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_347.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Promoting regular testing, contact tracing, and adherence to preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1704.md)
 * [Contact tracing and monitoring technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_537.md)
 * [Close contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_513.md)
+
+## Property: has_MitigationBenefit
+
+* [Early diagnosis and treatment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_429.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Mass testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_335.md)
 

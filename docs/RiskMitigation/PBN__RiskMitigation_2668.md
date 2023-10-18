@@ -2,9 +2,9 @@
 
 # __Implement policies and initiatives to reduce inequality, promote social inclusion.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Inequality exacerbation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2039.md)
+* [Implement comprehensive measures to ensure support, protection, and assistance for vulnerable populations during the pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_349.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement measures to support employment, provide income support, and promote economic recovery.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2667.md)
 * [Reduce tax cuts and increase public social expenditure to improve health and education.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2949.md)
 * [Implement social safety nets, equitable distribution of resources, invest in education and healthcare.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2910.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inequality exacerbation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2039.md)
 

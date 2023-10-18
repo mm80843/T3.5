@@ -2,9 +2,9 @@
 
 # __Hygienic building materials__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [easy-to-sanitize materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4303.md)
+* [Promotion and implementation of rigorous hygiene protocols and use of sanitary facilities and materials.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_166.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Adaptation of building envelope materials and techniques](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4240.md)
 * [Provision of safe water, sanitation, and hygienic conditions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2576.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3332.md)
-
 ## Property: has_MitigationPrinciple
 
 Use building materials that are easy to sanitize and promote hygienic conditions
 
+## Risks possibly mitigated by this Mitigation
+
+* [Virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3332.md)
+
 ## Property: has_MitigationSource
 
 * [How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [easy-to-sanitize materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4303.md)
 

@@ -2,9 +2,9 @@
 
 # __Respiratory transmission__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Mask-wearing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_247.md)
+* [The spread of diseases through various methods, including contact, droplets, and contaminated surfaces, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_137.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Transmission in poorly ventilated rooms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2879.md)
 * [Influenza transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_215.md)
 * [Respiratory illnesses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2902.md)
+
+## Mitigations of this risk
+
+* [Mask-wearing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_247.md)
 

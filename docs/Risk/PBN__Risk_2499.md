@@ -2,9 +2,9 @@
 
 # __Increased domestic violence__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Supporting domestic violence victims](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_205.md)
+* [The Impact of Domestic Violence and the Spreading of the Virus Create Challenges in Preventing Virus Propagation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_94.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Increase in mental diseases and domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_101.md)
 * [Domestic violence threat](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2223.md)
 * [Limited capacity of domestic violence services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3085.md)
+
+## Mitigations of this risk
+
+* [Supporting domestic violence victims](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_205.md)
 

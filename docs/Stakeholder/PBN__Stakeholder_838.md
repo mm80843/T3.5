@@ -2,9 +2,9 @@
 
 # __workers in enclosed indoor spaces__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Insufficient use of outdoor air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1320.md)
+* [Individuals in various types of spaces, including public, indoor, and confined areas, with varying access to green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_378.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [workers in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1106.md)
 * [occupants of indoor spaces such as offices](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1107.md)
 * [Occupants of indoor spaces such as offices](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2593.md)
+
+## Risk affecting this stakeholder
+
+* [Insufficient use of outdoor air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1320.md)
 

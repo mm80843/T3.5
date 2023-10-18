@@ -2,9 +2,9 @@
 
 # __Proper rodent control measures, public education on disease prevention__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Increased risk of zoonotic diseases from urban rats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1668.md)
+* [Promote understanding and knowledge sharing through educational campaigns, dissemination of accurate information, and public awareness initiatives.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_318.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement targeted prevention measures and public health campaigns.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2541.md)
 * [Promote a holistic approach to disease control, emphasize the importance of other preventive measures (e.g., hand hygiene, social distancing), integrate mobile technology with existing public health measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2578.md)
 * [Implement measures to control the spread of infectious diseases, such as social distancing, improved hygiene practices, and vaccination programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2243.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Increased risk of zoonotic diseases from urban rats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1668.md)
 

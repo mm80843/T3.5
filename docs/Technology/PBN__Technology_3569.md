@@ -2,9 +2,9 @@
 
 # __hand hygiene products and facilities__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Implement hand hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_982.md)
+* [Enhanced hygiene practices and strict adherence to cleaning protocols ensure rigorous sanitation and disinfection measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_196.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Education and training on hand hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2822.md)
 * [hand-washing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3140.md)
 * [hygiene supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_768.md)
+
+## This Technology enables the following mitigations
+
+* [Implement hand hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_982.md)
 

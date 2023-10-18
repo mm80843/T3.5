@@ -2,10 +2,9 @@
 
 # __Screening techniques for patient severity__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1069.md)
-* [ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
+* [Expansive array of methods, including biomarkers, self-reported symptoms, and AI-powered diagnostics, used for widespread and rapid testing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_179.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Quick and accurate disease reporting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_364.md)
 * [Screening for mental health problems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1603.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3422.md)
-
 ## Property: has_MitigationPrinciple
 
 Developing screening techniques to prioritize patients based on the severity of their condition during admission logistics, optimizing resource allocation in healthcare facilities.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3422.md)
+
 ## Property: has_MitigationSource
 
 * [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1069.md)
+* [ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
 

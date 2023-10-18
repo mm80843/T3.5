@@ -2,8 +2,9 @@
 
 # __Urban farming__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Promoting community involvement and awareness through various initiatives such as education programs, engagement campaigns, and urban farming.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_142.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Garden access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_739.md)
 * [Urban Green Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1202.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Increased risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2956.md)
-
 ## Property: has_MitigationPrinciple
 
 Encouraging urban farming to reduce dependency on external food supply and increase self-sufficiency, thus mitigating the impacts of pandemics on the food chain and ensuring food security.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Increased risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2956.md)
+
 ## Property: has_MitigationSource
 
 * [Impact of Covid-19 on the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_10.md)
+
+## This Mitigation is enabled by the following technologies
+
 

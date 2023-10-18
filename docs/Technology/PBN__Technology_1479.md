@@ -2,9 +2,9 @@
 
 # __hands-free fixtures__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q10863071](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q10863071.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [touchless faucets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1481.md)
 * [hand hygiene stations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_247.md)
 * [Hand hygiene stations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2550.md)
+
+## This Technology is identified by the following QID
+
+* [Q10863071](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q10863071.md)
 

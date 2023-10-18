@@ -2,10 +2,9 @@
 
 # __mobile positioning technology__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Mobile phone tracking for contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2343.md)
-* [Crime reduction through mobile phone identification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2345.md)
+* [Technological advancements encompass a wide range of innovations, such as blockchain, touchless, renewable energy, and communication technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [mobile app technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3152.md)
 * [mobile phone tracking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1685.md)
 * [gps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3000.md)
+
+## This Technology enables the following mitigations
+
+* [Mobile phone tracking for contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2343.md)
+* [Crime reduction through mobile phone identification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2345.md)
 

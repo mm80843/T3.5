@@ -2,13 +2,9 @@
 
 # __Leverage multiple dissemination channels__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Ineffective dissemination channels](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_404.md)
-
-## Property: has_MitigationBenefit
-
-* [Disseminating evidence through various mediums](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_549.md)
+* [Facilitate transparent communication, enabling reliable information sharing through standardized protocols and effective channels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_0.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Development of reliable communication channels, sharing accurate information, coordination platforms.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2600.md)
 * [Facilitating transparent communication and preventing spread of fake news](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1107.md)
 * [Digital communication strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_472.md)
+
+## Property: has_MitigationBenefit
+
+* [Disseminating evidence through various mediums](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_549.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Ineffective dissemination channels](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_404.md)
 

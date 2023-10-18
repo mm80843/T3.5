@@ -2,13 +2,13 @@
 
 # __wastewater sampling personnel__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q336191](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q336191.md)
+* [Individuals and organizations involved in the management and treatment of water, waste, and wastewater.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_397.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Environmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_13.md)
+* [Safety risks for wastewater sampling personnel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1053.md)
 
 ## Closest similar item
 
@@ -23,14 +23,18 @@
 * [laboratories performing wastewater testing](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1053.md)
 * [wastewater treatment authority](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2679.md)
 
-## Risk affecting this stakeholder
+## Risks that can be mitigated by this stakeholder
 
 * [Safety risks for wastewater sampling personnel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1053.md)
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 
-## Risks that can be mitigated by this stakeholder
+## This Stakeholder is identified by the following QID
 
-* [Safety risks for wastewater sampling personnel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1053.md)
+* [Q336191](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q336191.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Environmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_13.md)
 

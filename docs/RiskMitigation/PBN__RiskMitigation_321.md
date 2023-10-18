@@ -2,13 +2,9 @@
 
 # __Limiting access nodes__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Limited access nodes for better management of Public Places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_263.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved monitoring of human circulation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_325.md)
+* [Implementing a comprehensive package of measures to ensure the smooth functioning and safety of essential services and activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_6.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implement safety protocols, limit number of workers on site](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2054.md)
 * [Restrict mass gatherings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_563.md)
 * [Enforcing lockdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1406.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved monitoring of human circulation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_325.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limited access nodes for better management of Public Places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_263.md)
 

@@ -2,9 +2,9 @@
 
 # __Inefficient emergency response__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Emergency Plan Development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1616.md)
+* [Health and safety concerns, risk communication strategy, and inadequate personal protective equipment are all indicative of potential hazards and vulnerabilities in various settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_126.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Insufficient electrical infrastructure in makeshift hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_444.md)
 * [Effective crisis management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3376.md)
 * [Inadequate crisis preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1961.md)
+
+## Mitigations of this risk
+
+* [Emergency Plan Development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1616.md)
 

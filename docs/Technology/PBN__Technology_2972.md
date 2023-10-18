@@ -2,9 +2,9 @@
 
 # __uniformity of protocols__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Standardization of protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_101.md)
+* [Consistent oversight and regulation ensure compliance, as standardized protocols are enforced by enforcement personnel and regulatory bodies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_228.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [authentication protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_400.md)
 * [blockchain security protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_399.md)
 * [Blockchain security protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2606.md)
+
+## This Technology enables the following mitigations
+
+* [Standardization of protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_101.md)
 

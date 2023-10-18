@@ -2,12 +2,13 @@
 
 # __interoperability guidelines__
 
+## Category to which it belongs
+
+* [Consistent oversight and regulation ensure compliance, as standardized protocols are enforced by enforcement personnel and regulatory bodies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_228.md)
+
 ## Risks linked to this technology
 
 * [Lack of data standardization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1942.md)
-
-## This Technology belongs to this TechSubgroup
-
 
 ## Closest similar item
 
@@ -22,11 +23,14 @@
 * [ontology engineering best practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1344.md)
 * [electronic health records (ehr) interoperability solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_398.md)
 
-## This Technology belongs to this TechGroup
-
-* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
-
 ## This Technology is identified by the following QID
 
 * [Q749647](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q749647.md)
+
+## This Technology belongs to this TechSubgroup
+
+
+## This Technology belongs to this TechGroup
+
+* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
 

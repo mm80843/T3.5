@@ -2,9 +2,9 @@
 
 # __Retailers should prioritize the use of professional signs for important and standardized messaging, and remove or update informal signs to avoid confusion.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Mixed Messaging](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1726.md)
+* [Strengthen collaborations, implement behavioral change, deploy social robots, and promote sustainable content consumption for community-based strategies, holistic research, and positive media representation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_316.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Early serving of notices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1015.md)
 * [Targeted, tailored messages](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_51.md)
 * [Limit capacity, enforce social distancing measures, provide clear signage and guidelines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1816.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Mixed Messaging](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1726.md)
 

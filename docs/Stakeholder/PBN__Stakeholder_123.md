@@ -6,6 +6,10 @@
 
 * [Improved data collection and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_215.md)
 
+## Category to which it belongs
+
+* [Public health stakeholders and individuals alike are concerned about health, seeking information and guidance from trusted sources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_354.md)
+
 ## Closest similar item
 
 * [researchers/public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_138.md)

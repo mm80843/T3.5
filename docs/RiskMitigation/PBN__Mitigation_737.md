@@ -2,10 +2,9 @@
 
 # __Regulatory measures__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [inspections](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_84.md)
-* [regulatory policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3417.md)
+* [A comprehensive set of actions and rules aimed at protecting individuals and controlling the spread of COVID-19.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_173.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Preventive Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1870.md)
 * [Monitoring and compliance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2039.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Health harming behaviors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2708.md)
-
 ## Property: has_MitigationPrinciple
 
 Reduce harm through stricter regulations and inspections to ensure homes meet health and safety standards and promote healthy behaviors
 
+## Risks possibly mitigated by this Mitigation
+
+* [Health harming behaviors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2708.md)
+
 ## Property: has_MitigationSource
 
 * [Dangerous liaisons? Applying the social harm perspective to the social inequality, housing and health trifecta during the Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_2.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [inspections](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_84.md)
+* [regulatory policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3417.md)
 

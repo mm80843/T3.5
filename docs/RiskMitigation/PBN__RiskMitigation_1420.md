@@ -2,13 +2,9 @@
 
 # __Preparedness procedures__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Future city planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_996.md)
-
-## Property: has_MitigationBenefit
-
-* [Efficient crisis response](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1389.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Strengthened public health preparedness and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1020.md)
 * [Safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_781.md)
 * [Adoption of spatial planning strategies for pandemic preparedness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_296.md)
+
+## Property: has_MitigationBenefit
+
+* [Efficient crisis response](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1389.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Future city planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_996.md)
 

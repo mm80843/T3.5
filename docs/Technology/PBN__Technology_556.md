@@ -2,9 +2,9 @@
 
 # __implementation of ventilation systems__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q584049](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q584049.md)
+* [Improved ventilation and air purification methods are implemented, incorporating natural and mechanical systems, upgraded technologies, regular maintenance, and smart controls.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_200.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [mechanical ventilation system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4036.md)
 * [ventilation system modifications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3822.md)
 * [improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_249.md)
+
+## This Technology is identified by the following QID
+
+* [Q584049](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q584049.md)
 

@@ -2,9 +2,9 @@
 
 # __Misinformed decisions__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Optimal decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_873.md)
+* [A list of challenges and uncertainties surrounding the impact and response to various events and crises in different sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_124.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Misinformation and lack of awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3147.md)
 * [Inaccurate results or bias](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3044.md)
 * [Inaccurate or sensationalized information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2797.md)
+
+## Mitigations of this risk
+
+* [Optimal decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_873.md)
 

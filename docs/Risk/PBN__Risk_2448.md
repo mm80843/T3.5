@@ -2,9 +2,9 @@
 
 # __Inadequate preparedness for biological disasters__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Bio-risk management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_114.md)
+* [The widespread presence and transfer of harmful pathogens and contaminants on various surfaces and environments pose serious risks to public health and the ecosystem.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_100.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of comprehensive pandemic preparedness and response planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1026.md)
 * [Vulnerability to natural hazards](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2229.md)
 * [Inadequate response and preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2912.md)
+
+## Mitigations of this risk
+
+* [Bio-risk management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_114.md)
 

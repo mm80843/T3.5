@@ -2,20 +2,20 @@
 
 # __Faster identification__
 
+## Name of the Benefit
+
+AI algorithms can identify COVID-19 on CT chest much faster than radiologists, resulting in quicker diagnosis and treatment.
+
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors in healthcare facilities would see improved patient flow and potentially faster treatment outcomes, leading to increased efficiency and revenue.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_703.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
-* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
 
 ## Articles mentionning this Benefit
 
 * [Exploring the Potential of Artificial Intelligence and Machine Learning to Combat COVID-19 and Existing Opportunities for LMIC: A Scoping Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_131.md)
 
-## Name of the Benefit
+## Stakeholders benefitting from this Benefit
 
-AI algorithms can identify COVID-19 on CT chest much faster than radiologists, resulting in quicker diagnosis and treatment.
+* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
+* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
 

@@ -2,9 +2,9 @@
 
 # __Conflicting results at low concentrations__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Robust RT-qPCR assays](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_64.md)
+* [A list of challenges and uncertainties surrounding the impact and response to various events and crises in different sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_124.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Poor air mixing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2513.md)
 * [Inadequate mixing of room air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1365.md)
 * [High indoor pollutant concentrations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2756.md)
+
+## Mitigations of this risk
+
+* [Robust RT-qPCR assays](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_64.md)
 

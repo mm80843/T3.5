@@ -2,13 +2,9 @@
 
 # __Disinfection of household waste__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [WM2: Waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_197.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduced virus spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_248.md)
+* [Implement rigorous cleaning and disinfection measures, including the use of antimicrobial materials and advanced technologies, to maintain a safe and hygienic environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_2.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Use of disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_721.md)
 * [Effective disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_265.md)
 * [Develop waste management strategies, including proper waste segregation and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2940.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced virus spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_248.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [WM2: Waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_197.md)
 

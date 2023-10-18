@@ -2,10 +2,9 @@
 
 # __unemployed individuals__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Job losses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2173.md)
-* [Financial constraints](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1294.md)
+* [All people, especially those at risk or facing various circumstances, including age, health conditions, or unemployment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_374.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [low-income individuals)](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_470.md)
 * [people facing economic hardship](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_712.md)
 * [People facing economic hardship](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2306.md)
+
+## Risk affecting this stakeholder
+
+* [Job losses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2173.md)
+* [Financial constraints](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1294.md)
 

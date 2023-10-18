@@ -2,9 +2,9 @@
 
 # __Lack of holistic strategic planning__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Integrated and holistic strategic planning processes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_876.md)
+* [Fragmented global governance, reduced aid, ethical concerns, educational disruption, impacts on peace and justice, and inadequate coordination between stakeholders.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_115.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of evaluation planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2655.md)
 * [Lack of coordination and duplicative efforts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2609.md)
 * [Lack of effective partnerships](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3260.md)
+
+## Mitigations of this risk
+
+* [Integrated and holistic strategic planning processes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_876.md)
 

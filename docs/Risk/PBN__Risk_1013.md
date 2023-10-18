@@ -2,9 +2,9 @@
 
 # __Information overload during pandemic__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Establish reliable filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1444.md)
+* [The proliferation of false and misleading information, misinformation, and inaccurate news during pandemics creates confusion and a lack of trust in reliable sources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_127.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Limited resources for pandemic mitigation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_879.md)
 * [Pandemic modelling](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_607.md)
 * [Increased HVAC loads during pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1565.md)
+
+## Mitigations of this risk
+
+* [Establish reliable filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1444.md)
 

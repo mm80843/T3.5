@@ -2,9 +2,9 @@
 
 # __Limited awareness and expertise in germicidal UV technology__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Increased awareness and training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_344.md)
+* [The impact of UV light on bacteria, the need for proper installation and maintenance of UVGI systems, and the risks associated with UV-C exposure.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_139.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Safety of far-UVC light exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1229.md)
 * [UVGI systems may not be a reliable method for preventing surgical site infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1759.md)
 * [Lack of definitive epidemiologic data on the ability of UVGI systems to prevent healthcare-associated infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1762.md)
+
+## Mitigations of this risk
+
+* [Increased awareness and training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_344.md)
 

@@ -2,13 +2,9 @@
 
 # __Cross-population AI models__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of data in LMIC](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_463.md)
-
-## Property: has_MitigationBenefit
-
-* [Automated detection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_660.md)
+* [Advancements in bioinformatics, divestment, automated sample collection, and artificial intelligence are facilitating early disease detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_336.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [AI for health equity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_657.md)
 * [AI for rapid identification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_650.md)
 * [AI for diagnosis and screening](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_651.md)
+
+## Property: has_MitigationBenefit
+
+* [Automated detection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_660.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of data in LMIC](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_463.md)
 

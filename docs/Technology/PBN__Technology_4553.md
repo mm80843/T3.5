@@ -2,6 +2,10 @@
 
 # __Face and voice recognition__
 
+## Category to which it belongs
+
+* [Measures promoting accountability, media control, real-time updates, and virtual experiences for physical distancing and education.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
+
 ## Closest similar item
 
 * [voice and face recognition](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4293.md)

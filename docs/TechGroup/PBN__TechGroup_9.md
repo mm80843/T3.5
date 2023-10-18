@@ -2,6 +2,23 @@
 
 # __Hygiene protocols__
 
+## Category to which it belongs
+
+* [Ensuring cleanliness and preventing the spread of germs through standardized procedures and practices.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_303.md)
+
+## Closest similar item
+
+* [hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_133.md)
+* [strict adherence to hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_134.md)
+* [personal hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_135.md)
+* [hygiene measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_136.md)
+* [sanitation protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_137.md)
+* [Sanitation protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_138.md)
+* [enhanced cleaning and sanitation protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_139.md)
+* [Enhanced cleaning and sanitation protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_140.md)
+* [increased cleaning and sanitation protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_141.md)
+* [proper cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_142.md)
+
 ## This Technology belongs to this TechnologyGroup
 
 * [air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_203.md)
@@ -149,17 +166,4 @@
 * [Proper sealing of pipes and sinks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2599.md)
 * [Ozonation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2565.md)
 * [Infectivity tests](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2567.md)
-
-## Closest similar item
-
-* [hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_133.md)
-* [strict adherence to hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_134.md)
-* [personal hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_135.md)
-* [hygiene measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_136.md)
-* [sanitation protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_137.md)
-* [Sanitation protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_138.md)
-* [enhanced cleaning and sanitation protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_139.md)
-* [Enhanced cleaning and sanitation protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_140.md)
-* [increased cleaning and sanitation protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_141.md)
-* [proper cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_142.md)
 

@@ -2,8 +2,9 @@
 
 # __Containment measures__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [A comprehensive set of actions and rules aimed at protecting individuals and controlling the spread of COVID-19.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_173.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Organizational measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3925.md)
 * [Enhance containment measures, strengthen healthcare systems, improve coordination and communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3926.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Ineffective containment measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2782.md)
-
 ## Property: has_MitigationPrinciple
 
 Evaluating the effectiveness of various containment measures and implementing those with proven efficacy in reducing the spread of contagious diseases.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Ineffective containment measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2782.md)
+
 ## Property: has_MitigationSource
 
 * [Coronavirus disease 2019: The harms of exaggerated information and non‐evidence‐based measures](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_101.md)
+
+## This Mitigation is enabled by the following technologies
+
 

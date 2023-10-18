@@ -2,9 +2,9 @@
 
 # __Disable recirculation systems or maximize outdoor air supply.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Air recirculation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1319.md)
+* [Optimize indoor environments, regulate temperature and humidity, control air quality, and extend HVAC system operations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_341.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Improve ventilation systems, increase fresh air supply, and use air filters to reduce the spread of airborne particles.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2502.md)
 * [Increase ventilation rates, modify ventilation systems, avoid air recirculation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2349.md)
 * [Increase the amount of outdoor air in ventilation systems, open windows for natural ventilation, and ensure proper ventilation design and operation.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1935.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Air recirculation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1319.md)
 

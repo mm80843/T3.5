@@ -2,9 +2,9 @@
 
 # __translators__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Exclusion of non-English speaking populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1590.md)
+* [Entities and individuals who interact with or are affected by a system, organization, or public facility.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_1.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [traveler](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2533.md)
 * [individual in non-English speaking country](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2385.md)
 * [migrants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_446.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Exclusion of non-English speaking populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1590.md)
 

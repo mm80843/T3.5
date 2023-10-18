@@ -2,15 +2,9 @@
 
 # __Widespread testing and contact tracing__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
-* [Virus Transmission through hidden carriers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_510.md)
-
-## Property: has_MitigationBenefit
-
-* [Early identification and isolation of cases](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_721.md)
-* [Early identification and containment of cases](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1102.md)
+* [Promote comprehensive testing and tracing, prioritize vulnerable populations, reduce diagnosis-to-surgery time, recognize stress symptoms, and improve testing accuracy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_347.md)
 
 ## Closest similar item
 
@@ -24,4 +18,14 @@
 * [Contact tracing tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_636.md)
 * [Promoting regular testing, contact tracing, and adherence to preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1704.md)
 * [Self-isolation and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_30.md)
+
+## Property: has_MitigationBenefit
+
+* [Early identification and isolation of cases](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_721.md)
+* [Early identification and containment of cases](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1102.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
+* [Virus Transmission through hidden carriers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_510.md)
 

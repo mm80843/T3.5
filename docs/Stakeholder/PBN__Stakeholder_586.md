@@ -2,9 +2,9 @@
 
 # __architectural associations__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Improper architectural designs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1060.md)
+* [Individuals involved in the design, construction, management, and occupation of various types of buildings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_367.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [urban planning and architectural institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_308.md)
 * [neighborhood associations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2482.md)
 * [organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_186.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Improper architectural designs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1060.md)
 

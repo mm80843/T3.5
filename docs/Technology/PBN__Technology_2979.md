@@ -2,9 +2,9 @@
 
 # __sustainable development goals__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Expansion of SDG 11 to include pandemic preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_116.md)
+* [Promotion of environmentally-friendly practices, green infrastructure, sustainable housing, renewable energy, and responsible building to enhance spaces and mitigate climate change.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_224.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [environmental policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3328.md)
 * [sustainable farming practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1507.md)
 * [sustainable manufacturing and disposal methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1648.md)
+
+## This Technology enables the following mitigations
+
+* [Expansion of SDG 11 to include pandemic preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_116.md)
 

@@ -2,13 +2,9 @@
 
 # __Hand hygiene and respiratory etiquette__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Virus Transmission through close contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_507.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduced transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_207.md)
+* [Promote and enforce hygiene practices, implement sanitation measures, and provide education on proper handwashing techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_332.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Regular hand hygiene practices, cleaning and disinfection of frequently touched surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1703.md)
 * [Implement strict environmental and hand hygiene practices.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2438.md)
 * [Hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_985.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_207.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Virus Transmission through close contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_507.md)
 

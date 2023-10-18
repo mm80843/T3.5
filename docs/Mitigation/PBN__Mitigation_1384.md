@@ -2,8 +2,9 @@
 
 # __Face masking__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Facial coverings and detection for risk reduction in face-to-face communication and prevention of transmission.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_161.md)
 
 ## Closest similar item
 
@@ -18,14 +19,17 @@
 * [Wearing Masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_922.md)
 * [Mask prevention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1471.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Reduces transmission of respiratory diseases by preventing droplet transmission from an infected individual to others
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Effects of non-pharmaceutical interventions against COVID-19 on the incidence of other diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_30.md)
+
+## This Mitigation is enabled by the following technologies
+
 

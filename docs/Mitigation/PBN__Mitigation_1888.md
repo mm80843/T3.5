@@ -2,10 +2,9 @@
 
 # __Simplified loan and insurance services during the crisis__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_211.md)
-* [smart contracts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1234.md)
+* [Promoting financial stability and inclusivity through diverse funding sources, transparent donations, and innovative investment incentives.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_174.md)
 
 ## Closest similar item
 
@@ -20,14 +19,19 @@
 * [Provide financial aids](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_990.md)
 * [Financial reforms to enable innovative and socially directed investment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_998.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Blockchain technology can simplify the application and approval process for loans and insurance services, ensuring faster and more efficient financial support.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Blockchain technology and its applications to combat COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_219.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_211.md)
+* [smart contracts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1234.md)
 

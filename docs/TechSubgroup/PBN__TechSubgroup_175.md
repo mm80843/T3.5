@@ -2,11 +2,9 @@
 
 # __Data Collection and Reporting Systems__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [Digital data collection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2648.md)
-* [research methodology improvement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_841.md)
-* [Reporting guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2622.md)
+* [Efficient systems for exchanging, managing, storing, recording, and sharing information and facilitating collaboration and validation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_12.md)
 
 ## Closest similar item
 
@@ -20,4 +18,10 @@
 * [Data Governance and Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_142.md)
 * [Communication and Data Sharing](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_3.md)
 * [Surveillance and Monitoring Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_147.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [Digital data collection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2648.md)
+* [research methodology improvement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_841.md)
+* [Reporting guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2622.md)
 

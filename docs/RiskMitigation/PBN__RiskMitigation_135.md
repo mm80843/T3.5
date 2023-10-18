@@ -2,13 +2,9 @@
 
 # __Incorporating nature into living spaces__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of self-sufficient living spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_111.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_153.md)
+* [Promote the integration of natural elements and communal areas, enhance accessibility and quality, and foster positive perception and functionality of public and private green and outdoor spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_331.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Increase biodiversity of urban environments](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_76.md)
 * [Natural outdoor environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_733.md)
 * [Incorporating outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1323.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_153.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of self-sufficient living spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_111.md)
 

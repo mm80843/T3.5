@@ -2,9 +2,9 @@
 
 # __social robots__
 
-## Risks linked to this technology
+## Category to which it belongs
 
-* [Limited social interactions and mental health impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2375.md)
+* [Advanced technologies and algorithms for modeling, simulation, optimization, and artificial intelligence in various applications, including robotics and computational fluid dynamics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_239.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [robot systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3756.md)
 * [medical robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4090.md)
 * [social media algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1452.md)
+
+## Risks linked to this technology
+
+* [Limited social interactions and mental health impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2375.md)
 

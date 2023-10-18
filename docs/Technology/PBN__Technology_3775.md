@@ -2,10 +2,9 @@
 
 # __uvgi__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [UV-based technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1304.md)
-* [Purification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1328.md)
+* [Innovative lighting solutions harnessing ultraviolet technology for optimal germicidal sterilization and energy efficiency, while maximizing natural light.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_235.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [design and engineering solutions for upper-room uvgi systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_257.md)
 * [Design and engineering solutions for upper-room UVGI systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2773.md)
 * [uv light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3055.md)
+
+## This Technology enables the following mitigations
+
+* [UV-based technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1304.md)
+* [Purification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1328.md)
 

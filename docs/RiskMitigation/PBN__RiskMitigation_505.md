@@ -2,13 +2,9 @@
 
 # __Safe work practices in healthcare settings__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [COVID-19 transmission in healthcare workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_372.md)
-
-## Property: has_MitigationBenefit
-
-* [Infection control measures](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_491.md)
+* [Ensuring equitable access, promoting flexible work, implementing safety measures, and providing support for remote work and flexible schedules.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_323.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implement remote work, flexible schedules, prioritize worker safety](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1531.md)
 * [Provide regular safety training and updates, enforce universal precautions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2812.md)
 * [Implementing measures for staff protection, monitoring and support, flexible work arrangements.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2596.md)
+
+## Property: has_MitigationBenefit
+
+* [Infection control measures](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_491.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [COVID-19 transmission in healthcare workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_372.md)
 

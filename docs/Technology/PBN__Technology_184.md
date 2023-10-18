@@ -2,10 +2,9 @@
 
 # __regulatory bodies__
 
-## Risks linked to this technology
+## Category to which it belongs
 
-* [Safety of far-UVC light exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1229.md)
-* [Data security, encryption, ethics, and regulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1115.md)
+* [Consistent oversight and regulation ensure compliance, as standardized protocols are enforced by enforcement personnel and regulatory bodies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_228.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [government regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_919.md)
 * [policy and regulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3597.md)
 * [compliance with regulatory changes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3533.md)
+
+## Risks linked to this technology
+
+* [Safety of far-UVC light exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1229.md)
+* [Data security, encryption, ethics, and regulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1115.md)
 

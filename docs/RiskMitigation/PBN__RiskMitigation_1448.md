@@ -2,9 +2,9 @@
 
 # __Enhance containment measures, strengthen healthcare systems, improve coordination and communication__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Failure in containment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1017.md)
+* [Enhancing healthcare infrastructure, increasing capacity, and ensuring access to medical resources and services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_330.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Strengthen healthcare infrastructure, implement strict quarantine measures, develop vaccines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1948.md)
 * [Increase healthcare capacity, optimize resource allocation, and enhance emergency preparedness.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2467.md)
 * [Increase the capacity of medical facilities, allocate resources efficiently.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1518.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Failure in containment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1017.md)
 

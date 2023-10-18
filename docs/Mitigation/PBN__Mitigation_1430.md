@@ -2,9 +2,9 @@
 
 # __Removal of wet or contaminated insulation__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [proper cleaning procedures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1727.md)
+* [Enhancing cleanliness and sanitation through various methods such as UV light, chemicals, and routine cleaning.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_169.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [UV disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1052.md)
 * [Improved Building Insulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1782.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Contamination and microbial growth in insulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3068.md)
-
 ## Property: has_MitigationPrinciple
 
 Removal of wet or contaminated insulation reduces the risk of contamination and microbial growth in the HVAC system and minimizes the spread of contaminants through ventilation
 
+## Risks possibly mitigated by this Mitigation
+
+* [Contamination and microbial growth in insulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3068.md)
+
 ## Property: has_MitigationSource
 
 * [Ventilation use in nonmedical settings during COVID-19: Cleaning protocol, maintenance, and recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_104.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [proper cleaning procedures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1727.md)
 

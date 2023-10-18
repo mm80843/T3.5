@@ -2,14 +2,9 @@
 
 # __Integration of green infrastructure__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Neglected green space quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_533.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved mental health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_442.md)
-* [Wildlife support](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_757.md)
+* [Promote biodiversity and sustainable urban development through the establishment and accessibility of green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_322.md)
 
 ## Closest similar item
 
@@ -23,4 +18,13 @@
 * [Create and maintain green spaces, establish green infrastructure policies in urban planning, promote nature-based solutions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1897.md)
 * [Incorporating green infrastructure and UGS in urban planning and development, implementing green roof and wall initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2936.md)
 * [Upgrade and maintain urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_460.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved mental health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_442.md)
+* [Wildlife support](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_757.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Neglected green space quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_533.md)
 

@@ -2,9 +2,9 @@
 
 # __Educate residents about the benefits of HEMS, provide financial incentives and subsidies__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of willingness to pay for HEMS](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1255.md)
+* [Promote sustainable development through infrastructure investments, training, diversification, financial support, and government partnerships.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_315.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement social safety nets, equitable distribution of resources, invest in education and healthcare.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2910.md)
 * [Implement fiscal stimulus, provide financial support to affected businesses and individuals, invest in job creation and training programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2904.md)
 * [Improve access to vaccination for immigrants, provide targeted outreach and education on the importance of vaccination.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2430.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of willingness to pay for HEMS](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1255.md)
 

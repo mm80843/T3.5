@@ -2,13 +2,9 @@
 
 # __SPARQL endpoint__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Limited availability of up-to-date information on COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_92.md)
-
-## Property: has_MitigationBenefit
-
-* [Structured query capability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_133.md)
+* [Promote the integration of natural elements and communal areas, enhance accessibility and quality, and foster positive perception and functionality of public and private green and outdoor spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_331.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [using OWL 2](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1243.md)
 * [Implement standardized data collection methods, invest in data integration platforms and tools.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1543.md)
 * [Improve data standardization and interoperability, increase data quality and availability](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2285.md)
+
+## Property: has_MitigationBenefit
+
+* [Structured query capability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_133.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limited availability of up-to-date information on COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_92.md)
 

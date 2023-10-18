@@ -2,9 +2,9 @@
 
 # __job retention programs__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Job retention schemes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1505.md)
+* [Government programs and initiatives provide support, training, and financial assistance for education, healthcare, employment, and overall well-being.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_210.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_82.md)
 * [Training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2618.md)
 * [workforce training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3613.md)
+
+## This Technology enables the following mitigations
+
+* [Job retention schemes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1505.md)
 

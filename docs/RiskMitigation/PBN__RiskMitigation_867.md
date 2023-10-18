@@ -2,13 +2,9 @@
 
 # __Education and Awareness Campaigns__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of knowledge on COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_624.md)
-
-## Property: has_MitigationBenefit
-
-* [Increased Knowledge](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_868.md)
+* [Promote understanding and knowledge sharing through educational campaigns, dissemination of accurate information, and public awareness initiatives.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_318.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implement public awareness campaigns, provide education on disease prevention and transmission](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2201.md)
 * [Disseminating accurate and up-to-date information, providing education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1765.md)
 * [Increase public and professional awareness through education and training programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2370.md)
+
+## Property: has_MitigationBenefit
+
+* [Increased Knowledge](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_868.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of knowledge on COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_624.md)
 

@@ -2,10 +2,9 @@
 
 # __Possible pathways of SARS-CoV-2 transmission__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [UVGI systems for air disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1199.md)
-* [Enhancing ventilation and air filtration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1198.md)
+* [The widespread transmission and persistence of the SARS-CoV-2 virus in various environments and the challenges in detecting and removing it.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_93.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Spread of SARS-CoV-2 virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_0.md)
 * [Transmission of SARS-CoV-2 through respiratory droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_223.md)
 * [Transmission of SARS-CoV-2 through contact with contaminated objects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_221.md)
+
+## Mitigations of this risk
+
+* [UVGI systems for air disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1199.md)
+* [Enhancing ventilation and air filtration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1198.md)
 

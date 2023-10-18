@@ -2,9 +2,9 @@
 
 # __advanced molecular biology techniques for pathogen detection and monitoring__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q170065](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q170065.md)
+* [Advancements in molecular biology, diagnostics, vaccines, antiviral technologies, and disease surveillance for pathogen detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_223.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [rapid diagnostics for targeted antimicrobial therapy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1563.md)
 * [technology for disease surveillance and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1031.md)
 * [Technology for disease surveillance and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2468.md)
+
+## This Technology is identified by the following QID
+
+* [Q170065](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q170065.md)
 

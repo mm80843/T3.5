@@ -2,9 +2,9 @@
 
 # __Incorporate more windows and skylights, use light shelves and light pipes__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of natural light](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1804.md)
+* [Optimize indoor environment by maximizing natural light, ventilation, and incorporating efficient lighting systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_348.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement efficient lighting systems with timers or sensors, reduce unnecessary lighting, and optimize vital load usage.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1918.md)
 * [Incorporate ventilation systems and optimize natural lighting in building design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1788.md)
 * [Design units with provisions for natural light, ventilation, access to nature, and personal gardening spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2569.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of natural light](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1804.md)
 

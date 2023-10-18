@@ -2,11 +2,9 @@
 
 # __Thermal and Temperature Scanners__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [Temperature screening devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2436.md)
-* [Temperature scanners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2449.md)
-* [thermal scanners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1603.md)
+* [Temperature detection devices for identifying and monitoring heat levels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_42.md)
 
 ## Closest similar item
 
@@ -20,4 +18,10 @@
 * [Environmental and Outdoor Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_91.md)
 * [Monitoring Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_31.md)
 * [Surveillance and Monitoring Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_147.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [Temperature screening devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2436.md)
+* [Temperature scanners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2449.md)
+* [thermal scanners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1603.md)
 

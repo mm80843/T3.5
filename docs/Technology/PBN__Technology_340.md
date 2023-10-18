@@ -2,9 +2,9 @@
 
 # __city governments__
 
-## Risks linked to this technology
+## Category to which it belongs
 
-* [Inadequate public infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1239.md)
+* [Government actions and regulations addressing various aspects of society, including policy changes, ethical frameworks, governance mechanisms, and public announcements.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_216.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2378.md)
 * [government programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3638.md)
 * [national and local policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3602.md)
+
+## Risks linked to this technology
+
+* [Inadequate public infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1239.md)
 

@@ -2,9 +2,9 @@
 
 # __Proper management of ICT infrastructure__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [reliable and constant ict connection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4263.md)
+* [Optimizing the global trade network and supply chains through decentralization, cost concern, and integrated management, while promoting resilience and equity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_146.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Improvement of Sanitary Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_528.md)
 * [Policies for green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1191.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [ICT service disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3354.md)
-
 ## Property: has_MitigationPrinciple
 
 Ensure access to stable and reliable ICT infrastructure
 
+## Risks possibly mitigated by this Mitigation
+
+* [ICT service disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3354.md)
+
 ## Property: has_MitigationSource
 
 * [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [reliable and constant ict connection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4263.md)
 

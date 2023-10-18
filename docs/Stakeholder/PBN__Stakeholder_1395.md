@@ -2,10 +2,9 @@
 
 # __general nan public__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Security and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2083.md)
-* [Connectivity issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2084.md)
+* [Entities and individuals who interact with or are affected by a system, organization, or public facility.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_1.md)
 
 ## Closest similar item
 
@@ -18,4 +17,9 @@
 * [national authority](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2407.md)
 * [National authority](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2424.md)
 * [nan iot industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1402.md)
+
+## Risk affecting this stakeholder
+
+* [Security and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2083.md)
+* [Connectivity issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2084.md)
 

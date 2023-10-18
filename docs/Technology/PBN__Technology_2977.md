@@ -2,9 +2,9 @@
 
 # __biosafety measures and protocols__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Bio-risk management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_114.md)
+* [Consistent oversight and regulation ensure compliance, as standardized protocols are enforced by enforcement personnel and regulatory bodies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_228.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Health-focused design principles and guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2744.md)
 * [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2554.md)
 * [hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4102.md)
+
+## This Technology enables the following mitigations
+
+* [Bio-risk management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_114.md)
 

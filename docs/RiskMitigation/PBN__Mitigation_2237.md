@@ -2,10 +2,9 @@
 
 # __Noise insulation and acoustics__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [soundproof materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4358.md)
-* [acoustic design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4359.md)
+* [Prioritizing safety measures, personal protective equipment, reliability, cybersecurity, risk perception, and general prevention to ensure protection and resilience in various domains.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_168.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Consideration of noise levels](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_653.md)
 * [Consideration of Noise Levels](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1764.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Personal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3355.md)
-
 ## Property: has_MitigationPrinciple
 
 Regulate noise insulation and acoustics in the building to enhance personal comfort
 
+## Risks possibly mitigated by this Mitigation
+
+* [Personal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3355.md)
+
 ## Property: has_MitigationSource
 
 * [How to Make Green Building Certification \& Rating Systems More Pandemic-Sustainable?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_172.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [soundproof materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4358.md)
+* [acoustic design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4359.md)
 

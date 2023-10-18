@@ -2,9 +2,9 @@
 
 # __Unreliable information__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Social media filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1547.md)
+* [The proliferation of false and misleading information, misinformation, and inaccurate news during pandemics creates confusion and a lack of trust in reliable sources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_127.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Incomplete or inaccurate data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3049.md)
 * [Inconsistent information disclosure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_629.md)
 * [Inaccurate information on social media](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1827.md)
+
+## Mitigations of this risk
+
+* [Social media filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1547.md)
 

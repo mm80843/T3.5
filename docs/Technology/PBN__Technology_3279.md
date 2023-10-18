@@ -2,9 +2,9 @@
 
 # __sewage monitoring__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Wastewater-Based Epidemiology (WBE)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_512.md)
+* [Improvements in wastewater, waste management, sanitation, water purification, and plumbing technologies aim for sustainable and efficient infrastructure development.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_234.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [wastewater sampling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3432.md)
 * [development and implementation of wastewater sampling and analysis techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1974.md)
 * [Development and implementation of wastewater sampling and analysis techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2800.md)
+
+## This Technology enables the following mitigations
+
+* [Wastewater-Based Epidemiology (WBE)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_512.md)
 

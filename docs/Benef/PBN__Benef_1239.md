@@ -2,18 +2,18 @@
 
 # __reasoning__
 
+## Name of the Benefit
+
+in the field of epidemiology.
+
 ## Description of Benefits pertaining to Beneficiaries
 
 * [integration across different datasets](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1390.md)
-
-## Stakeholders benefitting from this Benefit
-
 
 ## Articles mentionning this Benefit
 
 * [The COVID-19 epidemiology and monitoring ontology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_259.md)
 
-## Name of the Benefit
+## Stakeholders benefitting from this Benefit
 
-in the field of epidemiology.
 

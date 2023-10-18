@@ -2,15 +2,9 @@
 
 # __Remote Work__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [remote communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3880.md)
-* [telecommunication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3060.md)
-* [internet)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3466.md)
-* [collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_567.md)
-* [internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3058.md)
-* [technology for telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4035.md)
-* [telecommunication technology (laptops](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3465.md)
+* [Embracing flexible work arrangements, such as remote work and staggered schedules, to enhance productivity and adapt to digital transformation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_171.md)
 
 ## Closest similar item
 
@@ -25,16 +19,16 @@
 * [Remote Work and Distance Learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1714.md)
 * [Adoption of remote working](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_131.md)
 
+## Property: has_MitigationPrinciple
+
+Allow individuals to work from home and minimize contact with others in the workplace.
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Job loss](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2683.md)
 * [Decreased productivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2750.md)
 * [Technological limitations, lack of productivity, isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3073.md)
 * [Contagion transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3241.md)
-
-## Property: has_MitigationPrinciple
-
-Allow individuals to work from home and minimize contact with others in the workplace.
 
 ## Property: has_MitigationSource
 
@@ -44,4 +38,14 @@ Allow individuals to work from home and minimize contact with others in the work
 * [The Impact of Pandemic Crisis on the Survival of Construction Industry: A Case of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_168.md)
 * [Pandemics and Automation: Will the Lost Jobs Come Back?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_98.md)
 * [COVID-19 Pandemic: Prevention and Protection Measures to Be Adopted at the Workplace](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_284.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [remote communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3880.md)
+* [telecommunication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3060.md)
+* [internet)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3466.md)
+* [collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_567.md)
+* [internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3058.md)
+* [technology for telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4035.md)
+* [telecommunication technology (laptops](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3465.md)
 

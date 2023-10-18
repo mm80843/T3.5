@@ -2,9 +2,9 @@
 
 # __Implement adaptive policies based on surveillance data to trigger interventions__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Rebound in transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1388.md)
+* [Enhanced surveillance, monitoring, and real-time tracking for improved control and response to various situations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_312.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implementing public health interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1111.md)
 * [Monitoring and evaluating policy response](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_555.md)
 * [Surveillance measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1223.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Rebound in transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1388.md)
 

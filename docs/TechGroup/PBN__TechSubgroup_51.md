@@ -2,10 +2,9 @@
 
 # __Public Health and Awareness Campaigns__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_102.md)
-* [Use of digital platforms for public health education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2460.md)
+* [Efforts to promote and protect community well-being through education, engagement, regulations, and behavior change.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_19.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Health Education and Community Outreach](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_41.md)
 * [Transparency and Public Awareness Measures](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_48.md)
 * [Local Government and Health Organizations](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_98.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_102.md)
+* [Use of digital platforms for public health education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2460.md)
 

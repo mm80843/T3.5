@@ -2,9 +2,9 @@
 
 # __Improving healthcare access and affordability, addressing systemic inequities in healthcare.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Inequitable access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1317.md)
+* [Enhancing healthcare infrastructure, increasing capacity, and ensuring access to medical resources and services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_330.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Strengthening healthcare infrastructure, increasing hospital capacity, and ensuring adequate medical supplies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2720.md)
 * [Increase investment in healthcare infrastructure and disease surveillance systems, improve access to healthcare services.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2730.md)
 * [Design interventions to improve access to healthcare services in underserved areas and mitigate disease transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1667.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inequitable access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1317.md)
 

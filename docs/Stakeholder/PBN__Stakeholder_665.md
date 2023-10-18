@@ -2,9 +2,9 @@
 
 # __gyms__
 
-## This Stakeholder belongs to this StakeholderGroup
+## Category to which it belongs
 
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+* [Entities and individuals who interact with or are affected by a system, organization, or public facility.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_1.md)
 
 ## Closest similar item
 
@@ -19,11 +19,15 @@
 * [online fitness programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3016.md)
 * [virtual fitness classes](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3017.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderGroup
 
-* [Contagious transmission in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1140.md)
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Fitness and Sports](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_56.md)
+
+## Risk affecting this stakeholder
+
+* [Contagious transmission in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1140.md)
 

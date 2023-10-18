@@ -8,6 +8,10 @@
 * [Decreased eviction rates](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_197.md)
 * [Reduced eviction rates](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_198.md)
 
+## Category to which it belongs
+
+* [Individuals and communities experiencing socioeconomic disparities, economic hardship, housing instability, and social disadvantage.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_393.md)
+
 ## Closest similar item
 
 * [individuals facing eviction](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_714.md)

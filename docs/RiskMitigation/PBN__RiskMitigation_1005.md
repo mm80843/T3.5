@@ -2,13 +2,9 @@
 
 # __Improved data collection__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Challenges with data capture](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_722.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced data quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1007.md)
+* [Promote standardized data collection, ontology-based representation, and enhanced data sharing to improve decision-making processes and data quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_319.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Improved data sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_526.md)
 * [Data quality improvement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_527.md)
 * [Establish robust data collection and analysis systems, enhance data sharing and collaboration among countries](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2009.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced data quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1007.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Challenges with data capture](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_722.md)
 

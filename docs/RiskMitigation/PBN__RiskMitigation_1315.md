@@ -2,13 +2,9 @@
 
 # __Implement green infrastructure__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of environmental management and green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_946.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced environmental quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1295.md)
+* [Promote biodiversity and sustainable urban development through the establishment and accessibility of green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_322.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implementation of green construction practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_670.md)
 * [Increase access to outdoor spaces through the integration of green infrastructure in urban environments](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2242.md)
 * [Facilitate citizen participation in green area management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1316.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced environmental quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1295.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of environmental management and green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_946.md)
 

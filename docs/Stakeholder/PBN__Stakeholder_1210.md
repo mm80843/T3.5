@@ -2,13 +2,15 @@
 
 # __waste management workers__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q180388](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q180388.md)
+* [Individuals and organizations involved in the management and treatment of water, waste, and wastewater.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_397.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Environmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_13.md)
+* [Increased waste](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_842.md)
+* [Reduction in waste recycling](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2389.md)
+* [Spread of COVID-19 through waste materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_809.md)
 
 ## Closest similar item
 
@@ -23,13 +25,15 @@
 * [waste management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1488.md)
 * [waste management agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2437.md)
 
-## Risk affecting this stakeholder
-
-* [Increased waste](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_842.md)
-* [Reduction in waste recycling](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2389.md)
-* [Spread of COVID-19 through waste materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_809.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Waste and Wastewater Management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_161.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q180388](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q180388.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Environmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_13.md)
 

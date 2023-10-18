@@ -2,9 +2,9 @@
 
 # __Data synchronization__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [synchronization of massive and long-term ieq measurements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3393.md)
+* [Improved data management and sharing for efficient and secure information exchange and analysis across various platforms and stakeholders.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_182.md)
 
 ## Closest similar item
 
@@ -19,14 +19,18 @@
 * [Enhanced data accuracy and real-time updates](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1891.md)
 * [Common data infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_566.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Support flexible synchronization of continuous IEQ measurements at a low cost
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [An Intelligent IEQ Monitoring and Feedback System: Development and Applications](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_62.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [synchronization of massive and long-term ieq measurements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3393.md)
 

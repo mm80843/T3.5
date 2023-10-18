@@ -2,9 +2,9 @@
 
 # __Lack of credibility as a source of evidence__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Position the KT platform as a credible source](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_557.md)
+* [The proliferation of false and misleading information, misinformation, and inaccurate news during pandemics creates confusion and a lack of trust in reliable sources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_127.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Ineffective dissemination of evidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_395.md)
 * [Lack of awareness, misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2918.md)
 * [Lack of Trust in Information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_973.md)
+
+## Mitigations of this risk
+
+* [Position the KT platform as a credible source](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_557.md)
 

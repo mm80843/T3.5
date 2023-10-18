@@ -2,9 +2,9 @@
 
 # __Neglecting public health requirements__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Human-centric design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_139.md)
+* [The intersection of human activity and health, integrating databases, limited healthcare access, sedentary lifestyles, neglecting public health requirements, and disparities in urban design contribute to public health concerns.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_116.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Noncompliance with public health directives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1897.md)
 * [Limited EU mandate on public health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_548.md)
 * [Limited EU mandate in public health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1583.md)
+
+## Mitigations of this risk
+
+* [Human-centric design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_139.md)
 

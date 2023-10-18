@@ -2,9 +2,9 @@
 
 # __Implement physical distancing measures and enforce face mask usage in public transportation. Promote alternative modes of transportation such as biking and walking.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Urban Mobility and Commute Patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2379.md)
+* [Encouraging the use of masks, practicing social distancing, and promoting good hygiene practices are vital preventive measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_345.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Use of face masks, social distancing, and proper hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2082.md)
 * [Wearing face masks, practicing social distancing, and promoting good respiratory hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1702.md)
 * [Maintain social distancing, practice good hygiene, wear masks in public, and follow public health guidelines.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1920.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Urban Mobility and Commute Patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2379.md)
 

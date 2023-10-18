@@ -2,13 +2,13 @@
 
 # __widespread testing programs__
 
+## Category to which it belongs
+
+* [Enhanced diagnostic techniques and screening methods, including the development of rapid and reliable testing technologies and increased availability of diagnostic tools and kits.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_211.md)
+
 ## Risks linked to this technology
 
 * [Limited effectiveness of digital systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2347.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Healthcare and Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_19.md)
 
 ## Closest similar item
 
@@ -23,11 +23,15 @@
 * [testing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3527.md)
 * [widening testing networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1337.md)
 
-## This Technology belongs to this TechGroup
-
-* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
-
 ## This Technology is identified by the following QID
 
 * [Q188522](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q188522.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Healthcare and Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_19.md)
+
+## This Technology belongs to this TechGroup
+
+* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
 

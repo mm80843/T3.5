@@ -2,13 +2,9 @@
 
 # __Strengthen EU-level institutions__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Limited EU mandate on public health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_548.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved coordination and response](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_778.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Strengthen governance structures, promote transparency and accountability, and invest in strong leadership](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1839.md)
 * [Standardized protocols and governance structures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_68.md)
 * [Implement policies that address social and economic inequalities, ensure equal access to essential services, and support vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1836.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved coordination and response](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_778.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limited EU mandate on public health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_548.md)
 

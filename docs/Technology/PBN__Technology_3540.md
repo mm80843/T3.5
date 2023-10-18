@@ -2,9 +2,9 @@
 
 # __data integration technology__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Data Integration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_915.md)
+* [Data-driven insights and analysis for decision making, anonymized data, transparency, visualization, and advanced techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_205.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [digital integration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4417.md)
 * [data integration and validation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1894.md)
 * [data sharing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3837.md)
+
+## This Technology enables the following mitigations
+
+* [Data Integration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_915.md)
 

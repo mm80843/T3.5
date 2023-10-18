@@ -2,9 +2,9 @@
 
 # __standardized protocols and guidelines__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1630279](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1630279.md)
+* [Consistent oversight and regulation ensure compliance, as standardized protocols are enforced by enforcement personnel and regulatory bodies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_228.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [health and safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_695.md)
 * [standardization of testing protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1104.md)
 * [Standardization of testing protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2825.md)
+
+## This Technology is identified by the following QID
+
+* [Q1630279](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1630279.md)
 

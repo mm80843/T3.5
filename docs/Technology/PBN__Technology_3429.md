@@ -2,9 +2,9 @@
 
 # __crowd control__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Social Distancing Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_521.md)
+* [Effective management and surveillance of crowds through advanced technologies, tools, and strategic measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_233.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Crowd management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2766.md)
 * [crowd-management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1868.md)
 * [crowd management measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_303.md)
+
+## This Technology enables the following mitigations
+
+* [Social Distancing Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_521.md)
 

@@ -2,13 +2,9 @@
 
 # __Prevent tropical deforestation and limit wildlife trade__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Deterioration of biodiversity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_11.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduced risk of future zoonotic outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_23.md)
+* [Promote biodiversity and sustainable urban development through the establishment and accessibility of green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_322.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Incorporate wildlife support into green space design and management, create diverse habitats and food sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1879.md)
 * [Reduce wildlife urban interfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_688.md)
 * [Lobby for continued or increased budget allocations, integrate biodiversity benefits into national development strategies, and prioritize conservation in recovery packages.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1782.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced risk of future zoonotic outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_23.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Deterioration of biodiversity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_11.md)
 

@@ -2,10 +2,9 @@
 
 # __lighting designers__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Poor lighting conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2251.md)
-* [Inadequate Lighting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1119.md)
+* [Individuals involved in the design, construction, management, and occupation of various types of buildings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_367.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [urban planners and designers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1229.md)
 * [building professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_98.md)
 * [architect](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_364.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Poor lighting conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2251.md)
+* [Inadequate Lighting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1119.md)
 

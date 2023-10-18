@@ -2,9 +2,9 @@
 
 # __Implement regular medical check-ups following minimum requirements for each job position__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Pre-employment and periodic medical check-ups (MCUs)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2135.md)
+* [Enhancing healthcare infrastructure, increasing capacity, and ensuring access to medical resources and services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_330.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Health screening of workers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1060.md)
 * [Increase healthcare capacity, ensure availability of medical supplies and equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1456.md)
 * [Implement online meetings and shift arrangements, provide training and company policies, enforce health protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2802.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Pre-employment and periodic medical check-ups (MCUs)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2135.md)
 

@@ -2,13 +2,9 @@
 
 # __Adapt green area management to "new normal" lifestyle__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Changes in access and use of green areas during COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_949.md)
-
-## Property: has_MitigationBenefit
-
-* [Resilient green area management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1298.md)
+* [Promote biodiversity and sustainable urban development through the establishment and accessibility of green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_322.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Create and maintain green spaces, parks, and public gardens in urban areas.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1923.md)
 * [Increase access to private gardens, allocate dedicated time slots for outdoor activities, create temporary green spaces in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1770.md)
 * [Increase access to greenspaces and promote outdoor activity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2914.md)
+
+## Property: has_MitigationBenefit
+
+* [Resilient green area management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1298.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Changes in access and use of green areas during COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_949.md)
 

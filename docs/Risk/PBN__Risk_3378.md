@@ -2,9 +2,9 @@
 
 # __Decline in commercial spaces__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Manage placemaking paths](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2192.md)
+* [Insufficient, cramped, and unsanitary conditions in various types of spaces are hindering access, health, and well-being.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_141.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Overcrowding in living spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1128.md)
 * [Neglected or poorly maintained green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3387.md)
 * [Overcrowding, inadequate space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2592.md)
+
+## Mitigations of this risk
+
+* [Manage placemaking paths](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2192.md)
 

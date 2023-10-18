@@ -2,9 +2,9 @@
 
 # __debt management systems__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q540626](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q540626.md)
+* [Maximizing economic efficiency while promoting financial stability through innovative strategies, investments, and partnerships at various levels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_195.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [financial planning tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_463.md)
 * [automated treasury management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1415.md)
 * [inventory management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1134.md)
+
+## This Technology is identified by the following QID
+
+* [Q540626](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q540626.md)
 

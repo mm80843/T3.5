@@ -2,9 +2,9 @@
 
 # __Telehealth Services__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [telehealth technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1652.md)
+* [Enhanced connectivity for remote healthcare, consultations, work, conferences, and learning through telecommunication technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_167.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Telemedicine and telepsychology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_212.md)
 * [Telemedicine apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1703.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
-
 ## Property: has_MitigationPrinciple
 
 Providing remote medical care to minimize exposure to the virus
 
+## Risks possibly mitigated by this Mitigation
+
+* [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
+
 ## Property: has_MitigationSource
 
 * [COVID19-Routes: A Safe Pedestrian Navigation Service](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_201.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [telehealth technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1652.md)
 

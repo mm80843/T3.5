@@ -2,13 +2,9 @@
 
 # __Residential Characteristics__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [residents of informal settlements](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_95.md)
-* [resident of neighborhood with limited acces to activity hub and transportation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2319.md)
-* [residents of inadequately designed housing](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1161.md)
-* [all residents of buenos aires city](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1115.md)
-* [all resident of bueno aire city](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2368.md)
+* [People living or visiting areas, with specific traits, who travel by various means and possess specialized knowledge.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_254.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Tenants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_65.md)
 * [Occupants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_55.md)
 * [Real Estate and Construction](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_31.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [residents of informal settlements](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_95.md)
+* [resident of neighborhood with limited acces to activity hub and transportation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2319.md)
+* [residents of inadequately designed housing](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1161.md)
+* [all residents of buenos aires city](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1115.md)
+* [all resident of bueno aire city](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2368.md)
 

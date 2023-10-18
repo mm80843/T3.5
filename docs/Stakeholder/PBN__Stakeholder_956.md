@@ -2,9 +2,9 @@
 
 # __organizations and building managers__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Spread of contagious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_20.md)
+* [Managers responsible for overseeing various aspects of a building, including supply chain, facilities, construction projects, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_366.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [building owners and facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_916.md)
 * [employer and building manager](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1979.md)
 * [construction managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_983.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Spread of contagious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_20.md)
 

@@ -2,10 +2,9 @@
 
 # __Daylighting__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_140.md)
-* [skylights](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_141.md)
+* [Maximizing the use of natural light and UV radiation for germicidal purposes in indoor spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_176.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Enhancing natural lighting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_481.md)
 * [Natural light](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2123.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
-
 ## Property: has_MitigationPrinciple
 
 Sufficient natural light helps control and mitigate the transmission of contagious diseases like COVID-19.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
+
 ## Property: has_MitigationSource
 
 * [Adaptive Design of the Built Environment to Mitigate the Transmission Risk of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_151.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_140.md)
+* [skylights](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_141.md)
 

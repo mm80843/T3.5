@@ -2,13 +2,9 @@
 
 # __Teleoperation technology__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Need for remote access and telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_76.md)
-
-## Property: has_MitigationBenefit
-
-* [Remote healthcare and work](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_105.md)
+* [The trend towards remote and digital healthcare is encompassing telecommuting, telehealth, teleconferencing, wearable technology, touchless technologies, and mobile applications.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_328.md)
 
 ## Closest similar item
 
@@ -21,4 +17,12 @@
 * [Touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_345.md)
 * [Remote work](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_832.md)
 * [Robotics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_404.md)
+
+## Property: has_MitigationBenefit
+
+* [Remote healthcare and work](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_105.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Need for remote access and telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_76.md)
 

@@ -2,9 +2,9 @@
 
 # __public health authorities are responsible for regulating indoor environments to reduce influenza transmission__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Indoor influenza transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1705.md)
+* [Individuals in poorly ventilated indoor environments, especially those in enclosed spaces with limited air flow, such as offices, homes, and buildings with inadequate air filtration, are at risk of exposure to poor indoor air quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_398.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Particularly those in building with inadequate air disinfection measure](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2340.md)
 * [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
 * [occupants of buildings with poor indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1202.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Indoor influenza transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1705.md)
 

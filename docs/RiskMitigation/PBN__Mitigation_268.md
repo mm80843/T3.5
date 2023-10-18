@@ -2,8 +2,9 @@
 
 # __Public health campaigns/education__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Advocacy and initiatives promoting well-being, knowledge, equitable access to healthcare, and healthy lifestyles.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_188.md)
 
 ## Closest similar item
 
@@ -18,14 +19,17 @@
 * [Public health awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1517.md)
 * [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1482.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Informing and educating the public about preventive measures and promoting behaviors that reduce virus transmission
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [A Surface Coating that Rapidly Inactivates SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_199.md)
+
+## This Mitigation is enabled by the following technologies
+
 

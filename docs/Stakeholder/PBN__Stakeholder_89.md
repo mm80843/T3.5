@@ -31,6 +31,10 @@
 * [Improved public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1208.md)
 * [Energy-saving conscious attitude](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1241.md)
 
+## Category to which it belongs
+
+* [Property stakeholders ranging from investors, homeowners, and tenants to entrepreneurs and commercial space owners.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_7.md)
+
 ## Closest similar item
 
 * [investors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_49.md)

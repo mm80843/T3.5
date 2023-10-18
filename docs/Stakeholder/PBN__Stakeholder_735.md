@@ -2,13 +2,13 @@
 
 # __households without cars__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q59679511](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q59679511.md)
+* [Individuals and communities experiencing socioeconomic disparities, economic hardship, housing instability, and social disadvantage.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_393.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
+* [Lack of access to private car](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1219.md)
 
 ## Closest similar item
 
@@ -23,11 +23,15 @@
 * [household consumers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_248.md)
 * [large households](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1391.md)
 
-## Risk affecting this stakeholder
-
-* [Lack of access to private car](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1219.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Households](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_143.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q59679511](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q59679511.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
 

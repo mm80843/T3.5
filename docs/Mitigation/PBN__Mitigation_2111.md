@@ -2,9 +2,9 @@
 
 # __Modeling studies of viral activity__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [big data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2938.md)
+* [Effective management of viral outbreaks through control measures, viral detection, disease tracking, and public awareness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_149.md)
 
 ## Closest similar item
 
@@ -19,14 +19,18 @@
 * [Viral culture](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1526.md)
 * [Testing for the virus](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_896.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Using big data to perform modeling studies of viral activity to guide healthcare policymakers in preparing for the outbreak and planning public health measures.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Digital technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_278.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [big data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2938.md)
 

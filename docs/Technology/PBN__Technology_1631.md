@@ -2,9 +2,9 @@
 
 # __improvements in logistics__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q177777](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q177777.md)
+* [Technological advancements encompass a wide range of innovations, such as blockchain, touchless, renewable energy, and communication technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_767.md)
 * [supply chain optimization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1852.md)
 * [supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3600.md)
+
+## This Technology is identified by the following QID
+
+* [Q177777](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q177777.md)
 

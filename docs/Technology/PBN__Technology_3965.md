@@ -2,9 +2,9 @@
 
 # __voluntary participation__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Protecting privacy of citizens’ data](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1635.md)
+* [Government actions and regulations addressing various aspects of society, including policy changes, ethical frameworks, governance mechanisms, and public announcements.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_216.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [participatory platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1591.md)
 * [Participatory platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2623.md)
 * [community outreach](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1489.md)
+
+## This Technology enables the following mitigations
+
+* [Protecting privacy of citizens’ data](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1635.md)
 

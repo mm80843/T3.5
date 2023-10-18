@@ -2,13 +2,9 @@
 
 # __Cancellation of mass gatherings__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_332.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction in disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_426.md)
+* [Efforts include RNA monitoring, occupant exposure modeling, targeted messages, adoption of principles, copper coating, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_311.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Postpone events, provide financial support to organizations and athletes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2399.md)
 * [Restriction on crowding](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1417.md)
 * [Mobilize online fundraising campaigns, promote virtual conservation initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1951.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction in disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_426.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_332.md)
 

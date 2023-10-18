@@ -2,9 +2,9 @@
 
 # __Lack of global leadership__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Coordinated response and global cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2264.md)
+* [Insufficient awareness, limited resources, inadequate communication, and lack of preparedness contribute to various challenges and deficiencies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_118.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2467.md)
 * [Lack of government support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1929.md)
 * [Lack of supervision and accountability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1975.md)
+
+## Mitigations of this risk
+
+* [Coordinated response and global cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2264.md)
 

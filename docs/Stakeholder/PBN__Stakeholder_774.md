@@ -2,9 +2,9 @@
 
 # __construction project managers__
 
-## This Stakeholder belongs to this StakeholderGroup
+## Category to which it belongs
 
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+* [Managers responsible for overseeing various aspects of a building, including supply chain, facilities, construction projects, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_366.md)
 
 ## Closest similar item
 
@@ -19,11 +19,15 @@
 * [construction project teams](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1309.md)
 * [Project manager](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1726.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderGroup
 
-* [Push for information-based construction management methods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_243.md)
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Real Estate and Construction](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_31.md)
+
+## Risk affecting this stakeholder
+
+* [Push for information-based construction management methods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_243.md)
 

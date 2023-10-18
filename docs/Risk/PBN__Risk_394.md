@@ -2,9 +2,9 @@
 
 # __Lack of evidence synthesis and filtering__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Synthesising the best available evidence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_551.md)
+* [Insufficient air filtration, lack of evidence synthesis, shortages of protective equipment, and ineffective filtration highlight the concerns.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_135.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of filters for reliable information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1862.md)
 * [Lack of trust in evidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1360.md)
 * [Limited evidence available](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_402.md)
+
+## Mitigations of this risk
+
+* [Synthesising the best available evidence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_551.md)
 

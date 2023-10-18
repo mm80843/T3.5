@@ -2,9 +2,9 @@
 
 # __economic policies and planning__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Wellbeing economies and budgets](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1803.md)
+* [Maximizing economic efficiency while promoting financial stability through innovative strategies, investments, and partnerships at various levels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_195.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2378.md)
 * [regional planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4210.md)
 * [planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2988.md)
+
+## This Technology enables the following mitigations
+
+* [Wellbeing economies and budgets](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1803.md)
 

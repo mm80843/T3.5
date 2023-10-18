@@ -2,9 +2,9 @@
 
 # __online entrepreneurship communities__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q6576792](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6576792.md)
+* [Digital platforms and online resources facilitate collaboration, communication, and information sharing among individuals and organizations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_193.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [online platforms and social media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3363.md)
 * [online platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_67.md)
 * [online marketplaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1698.md)
+
+## This Technology is identified by the following QID
+
+* [Q6576792](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6576792.md)
 

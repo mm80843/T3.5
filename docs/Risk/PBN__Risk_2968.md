@@ -2,9 +2,9 @@
 
 # __Sterilization of equipment__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Decontamination and sterilization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1219.md)
+* [The widespread presence and transfer of harmful pathogens and contaminants on various surfaces and environments pose serious risks to public health and the ecosystem.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_100.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Ineffectiveness of disinfection system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1167.md)
 * [Contamination of blood products](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2053.md)
 * [Contaminated deliveries](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3141.md)
+
+## Mitigations of this risk
+
+* [Decontamination and sterilization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1219.md)
 

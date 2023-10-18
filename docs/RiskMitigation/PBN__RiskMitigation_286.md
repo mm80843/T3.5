@@ -2,13 +2,9 @@
 
 # __Addressing over-exposure of women__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Gender inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_237.md)
-
-## Property: has_MitigationBenefit
-
-* [Gender equality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_290.md)
+* [Implementing a comprehensive package of measures to ensure the smooth functioning and safety of essential services and activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_6.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Conduct gender-specific research on green space benefits, develop targeted interventions based on gender.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2768.md)
 * [Social distancing, hygiene measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2128.md)
 * [Use of personal protective measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1048.md)
+
+## Property: has_MitigationBenefit
+
+* [Gender equality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_290.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Gender inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_237.md)
 

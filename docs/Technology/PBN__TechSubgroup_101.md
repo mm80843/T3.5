@@ -2,10 +2,9 @@
 
 # __Research and Vaccine Development__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [Research and development of vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2247.md)
-* [Reduction of carbon emissions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2248.md)
+* [Advancements in medical solutions, such as immunization, treatment, and technological innovations, are explored and monitored.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_57.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Public Health and Awareness Campaigns](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_51.md)
 * [Preventive Measures and Public Health Initiatives](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_24.md)
 * [Biotechnological Techniques and Devices](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_29.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [Research and development of vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2247.md)
+* [Reduction of carbon emissions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2248.md)
 

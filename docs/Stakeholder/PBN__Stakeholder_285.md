@@ -6,6 +6,10 @@
 
 * [Minimized risk of infection spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_685.md)
 
+## Category to which it belongs
+
+* [Property stakeholders ranging from investors, homeowners, and tenants to entrepreneurs and commercial space owners.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_7.md)
+
 ## Closest similar item
 
 * [buyers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1217.md)

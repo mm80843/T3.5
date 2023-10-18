@@ -2,13 +2,9 @@
 
 # __Increase green space availability__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of access to urban green space during COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_346.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved mental health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_442.md)
+* [Promote biodiversity and sustainable urban development through the establishment and accessibility of green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_322.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Improve quality and maintenance of greenspaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2916.md)
 * [Increase the availability and accessibility of green spaces close to residential areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2580.md)
 * [Increase availability of green views](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_461.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved mental health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_442.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of access to urban green space during COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_346.md)
 

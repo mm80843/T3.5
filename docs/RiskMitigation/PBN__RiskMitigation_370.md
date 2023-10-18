@@ -2,13 +2,9 @@
 
 # __Integrated project delivery model__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Less collaboration between stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_299.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_369.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implement alternative delivery methods, adapt supply chains](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2057.md)
 * [Collaborative projects](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1121.md)
 * [Continuously monitor and adjust project plans and schedules to minimize delays, cost overruns, and scope changes.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2617.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_369.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Less collaboration between stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_299.md)
 

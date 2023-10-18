@@ -2,10 +2,9 @@
 
 # __Limited resources in LMIC__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [AI for decision-making](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_654.md)
-* [AI-based tools for biomedical research and remote patient monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1407.md)
+* [Limited monitoring, technical limitations, language barriers, expensive optimization, lack of connection with nature, and limited sensor diversity hinder effective response and resource allocation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_107.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Lack of access to tests in LMIC](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3050.md)
 * [Inefficient use of resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2583.md)
 * [Ineffective resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2935.md)
+
+## Mitigations of this risk
+
+* [AI for decision-making](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_654.md)
+* [AI-based tools for biomedical research and remote patient monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1407.md)
 

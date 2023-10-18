@@ -2,9 +2,9 @@
 
 # __wastewater treatment plants__
 
-## This Stakeholder belongs to this StakeholderGroup
+## Category to which it belongs
 
-* [Environmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_13.md)
+* [Individuals and organizations involved in the management and treatment of water, waste, and wastewater.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_397.md)
 
 ## Closest similar item
 
@@ -19,11 +19,15 @@
 * [improved water treatment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3001.md)
 * [Improved water treatment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3002.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Waste and Wastewater Management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_161.md)
-
 ## Risks that can be mitigated by this stakeholder
 
 * [Inconsistent results between concentration methods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1051.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Environmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_13.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Waste and Wastewater Management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_161.md)
 

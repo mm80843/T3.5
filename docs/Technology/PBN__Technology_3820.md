@@ -2,9 +2,9 @@
 
 # __germicidal ultraviolet (guv)__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Air cleaning devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1363.md)
+* [Innovative lighting solutions harnessing ultraviolet technology for optimal germicidal sterilization and energy efficiency, while maximizing natural light.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_235.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [uv germicidal irradiation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1879.md)
 * [uv-c germicidal lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1007.md)
 * [UV-C germicidal lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2221.md)
+
+## This Technology enables the following mitigations
+
+* [Air cleaning devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1363.md)
 

@@ -2,9 +2,9 @@
 
 # __Implement policies to incentivize and require green space in urban planning, integrate green space into land use plans__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Deprioritization of green space in urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1043.md)
+* [Promote biodiversity and sustainable urban development through the establishment and accessibility of green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_322.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Urban greening initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_72.md)
 * [Incorporate green space quality assessments into urban planning, prioritize the preservation of high-quality green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1875.md)
 * [Incorporate green elements in urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1786.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Deprioritization of green space in urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1043.md)
 

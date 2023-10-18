@@ -2,9 +2,9 @@
 
 # __mobile health applications for remote monitoring__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q7312165](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7312165.md)
+* [A comprehensive list of mobile applications, including contact-tracing apps, mental health apps, mobile banking, and fitness tracking devices, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_197.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [mobile-health disease-monitoring data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3310.md)
 * [remote healthcare technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1099.md)
 * [Remote healthcare technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2278.md)
+
+## This Technology is identified by the following QID
+
+* [Q7312165](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7312165.md)
 

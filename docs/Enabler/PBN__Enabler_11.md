@@ -2,13 +2,13 @@
 
 # __Wearables__
 
-## Property: has_TechEquivalent
-
-* [Wearables](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4537.md)
-
 ## Property: has_BP_EnablerTitle
 
 enabler_012
+
+## Category to which it belongs
+
+* [Smart devices that can be worn for various purposes, such as fitness tracking or receiving notifications.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_71.md)
 
 ## Closest similar item
 
@@ -27,4 +27,8 @@ enabler_012
 
 * [Reducing contact points](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_15.md)
 * [Tracking and enforcing use of Personal Protective Equipment](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_19.md)
+
+## Property: has_TechEquivalent
+
+* [Wearables](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4537.md)
 

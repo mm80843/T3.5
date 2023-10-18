@@ -2,14 +2,9 @@
 
 # __Negative air ionization__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Airborne TB Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_378.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction in TB infection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_512.md)
-* [Reduction in TB disease](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_513.md)
+* [Optimize indoor environments, regulate temperature and humidity, control air quality, and extend HVAC system operations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_341.md)
 
 ## Closest similar item
 
@@ -23,4 +18,13 @@
 * [High-level air filtration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_342.md)
 * [Proper ventilation and filtration to reduce the concentration of airborne viral particles.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1823.md)
 * [Clean air](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_63.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction in TB infection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_512.md)
+* [Reduction in TB disease](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_513.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Airborne TB Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_378.md)
 

@@ -2,9 +2,9 @@
 
 # __healthcare facility planners__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Lack of green spaces in healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1547.md)
+* [Those involved in the provision and management of healthcare services, including workers, professionals, facilities, and users.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_355.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [facility management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_655.md)
 * [medical centers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1092.md)
 * [Occupant of commercial and healthcare facility](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2571.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Lack of green spaces in healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1547.md)
 

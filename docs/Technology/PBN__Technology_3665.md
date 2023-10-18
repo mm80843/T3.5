@@ -2,9 +2,9 @@
 
 # __housing quality__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Urban housing improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1116.md)
+* [Design and construction professionals use innovative techniques and strategies to create adaptable, sustainable, and inclusive buildings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_217.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [community amenities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_170.md)
 * [ratio of rooms to family members](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1781.md)
 * [number of building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4046.md)
+
+## This Technology enables the following mitigations
+
+* [Urban housing improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1116.md)
 

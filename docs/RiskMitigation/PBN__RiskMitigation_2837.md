@@ -2,9 +2,9 @@
 
 # __Regular testing and evaluation of the effectiveness of portable air filters in reducing SARS-CoV-2 transmission__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [False sense of security from portable air filters](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2171.md)
+* [Efforts to study, detect, and control the spread of SARS-CoV-2 in various environments and populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_353.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Development and implementation of validated methodological protocols for the quantitative analysis of SARS-CoV-2 in wastewater.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1603.md)
 * [Quantification of SARS-CoV-2 in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_989.md)
 * [Development of coatings that reduce the viability period of SARS-CoV-2 on solids](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1630.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [False sense of security from portable air filters](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2171.md)
 

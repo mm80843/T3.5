@@ -2,9 +2,9 @@
 
 # __Noise reduction measures__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
-* [Noise Control](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_168.md)
+* [Measures promoting accountability, media control, real-time updates, and virtual experiences for physical distancing and education.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
 
 ## Closest similar item
 
@@ -19,11 +19,15 @@
 * [noise-cancelling devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1833.md)
 * [risk reduction measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3631.md)
 
-## This Technology belongs to this TechGroup
-
-* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
-
 ## This Technology is identified by the following QID
 
 * [Q7047719](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7047719.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Noise Control](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_168.md)
+
+## This Technology belongs to this TechGroup
+
+* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
 

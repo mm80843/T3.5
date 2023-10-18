@@ -2,9 +2,9 @@
 
 # __ergonomic office furniture__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1021677](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1021677.md)
+* [Design and construction professionals use innovative techniques and strategies to create adaptable, sustainable, and inclusive buildings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_217.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [outdoor furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_145.md)
 * [adjustable desks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1398.md)
 * [modular furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1005.md)
+
+## This Technology is identified by the following QID
+
+* [Q1021677](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1021677.md)
 

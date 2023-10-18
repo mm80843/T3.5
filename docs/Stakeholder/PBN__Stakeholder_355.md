@@ -11,6 +11,10 @@
 * [Simplified and user-friendly analysis](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_885.md)
 * [Cost-effective and portable technology](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_886.md)
 
+## Category to which it belongs
+
+* [Experts from various fields including research, risk assessment, education, science, HVAC, and IT.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_356.md)
+
 ## Closest similar item
 
 * [scientists/researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_137.md)

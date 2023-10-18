@@ -2,9 +2,9 @@
 
 # __Ensure transparent communication, obtain public consent for projects__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Propaganda](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1071.md)
+* [Facilitate transparent communication, enabling reliable information sharing through standardized protocols and effective channels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_0.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Promote transparency, communication, and community engagement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2646.md)
 * [Foster collaboration and clear communication among stakeholders, establish effective project governance structure.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1946.md)
 * [Establish effective communication channels, provide clear and transparent information, address concerns and questions, promote trust and understanding.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1779.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Propaganda](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1071.md)
 

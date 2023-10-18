@@ -2,9 +2,9 @@
 
 # __Spreading inaccurate news__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Limit misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1544.md)
+* [The proliferation of false and misleading information, misinformation, and inaccurate news during pandemics creates confusion and a lack of trust in reliable sources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_127.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inadequate communication and spread of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_806.md)
 * [Inaccurate Information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_972.md)
 * [Misdiagnosis and fake news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_768.md)
+
+## Mitigations of this risk
+
+* [Limit misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1544.md)
 

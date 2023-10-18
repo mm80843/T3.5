@@ -2,8 +2,9 @@
 
 # __Social distancing of the entire population__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Promoting physical and spatial distancing, considering noise levels, and implementing strict measures are essential for social distancing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_147.md)
 
 ## Closest similar item
 
@@ -18,14 +19,17 @@
 * [Social Distancing Guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_145.md)
 * [Social distancing between occupants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1346.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Implementing social distancing measures for the entire population to reduce overall transmission.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [The impact of COVID-19 and strategies for mitigation and suppression in low- and middle-income countries](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_65.md)
+
+## This Mitigation is enabled by the following technologies
+
 

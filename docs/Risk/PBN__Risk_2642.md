@@ -2,9 +2,9 @@
 
 # __Fake news, rumors, panic__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Clear communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_594.md)
+* [The proliferation of false and misleading information, misinformation, and inaccurate news during pandemics creates confusion and a lack of trust in reliable sources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_127.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Fake news spread through social media during the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_648.md)
 * [Circulation of fake news and misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2840.md)
 * [Spread of inaccurate news on social media](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1015.md)
+
+## Mitigations of this risk
+
+* [Clear communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_594.md)
 

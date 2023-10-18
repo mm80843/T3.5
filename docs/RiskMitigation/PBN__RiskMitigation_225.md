@@ -2,13 +2,9 @@
 
 # __Monitor and control indoor air pollution__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [AQ2: Air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_185.md)
-
-## Property: has_MitigationBenefit
-
-* [Better air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_236.md)
+* [Optimize indoor environments, regulate temperature and humidity, control air quality, and extend HVAC system operations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_341.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Indoor humidity monitoring and control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_258.md)
 * [Use of smart/innovative air quality controls technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3263.md)
 * [Develop non-centralized building systems, utilize air purifiers and air quality monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1740.md)
+
+## Property: has_MitigationBenefit
+
+* [Better air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_236.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [AQ2: Air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_185.md)
 

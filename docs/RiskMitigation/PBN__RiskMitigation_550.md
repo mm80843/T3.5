@@ -2,13 +2,9 @@
 
 # __Engaging decision-makers and stakeholders in setting priorities__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of evidence-informed decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_393.md)
-
-## Property: has_MitigationBenefit
-
-* [Increased acceptability of evidence](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_538.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Establish standards and protocols, promote collaboration and knowledge sharing among stakeholders.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1546.md)
 * [Implement risk management strategies, establish contingency plans, enhance communication and collaboration among supply chain stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2347.md)
 * [Foster collaboration and clear communication among stakeholders, establish effective project governance structure.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1946.md)
+
+## Property: has_MitigationBenefit
+
+* [Increased acceptability of evidence](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_538.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of evidence-informed decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_393.md)
 

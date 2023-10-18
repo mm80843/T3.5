@@ -2,9 +2,9 @@
 
 # __contamination values__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Virus Transmission Simulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1106.md)
+* [Improvements in wastewater, waste management, sanitation, water purification, and plumbing technologies aim for sustainable and efficient infrastructure development.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_234.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [quality control in wastewater sampling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_711.md)
 * [wastewater sampling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3432.md)
 * [proper disposal of disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1751.md)
+
+## This Technology enables the following mitigations
+
+* [Virus Transmission Simulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1106.md)
 

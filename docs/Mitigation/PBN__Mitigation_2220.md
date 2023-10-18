@@ -2,9 +2,9 @@
 
 # __Sequence annotation__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [bioaider software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4338.md)
+* [Enhancing safety and efficiency through comprehensive measures, technology integration, diverse environments, and behavioral adjustments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_157.md)
 
 ## Closest similar item
 
@@ -19,14 +19,18 @@
 * [Machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_331.md)
 * [Data intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_58.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Using software for sequence annotation and mutation analysis to track transmission of viral-driven infectious diseases
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Social distancing enhanced automated optimal design of physical spaces in the wake of the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_186.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [bioaider software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4338.md)
 

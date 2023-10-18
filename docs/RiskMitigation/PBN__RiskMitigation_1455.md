@@ -2,9 +2,9 @@
 
 # __Strengthen urban governance structures, improve data collection and analysis, involve communities in decision-making processes__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of urban governance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1024.md)
+* [Promote standardized data collection, ontology-based representation, and enhanced data sharing to improve decision-making processes and data quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_319.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Urban planning and design interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_667.md)
 * [Implementation of community-level planning and design strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_298.md)
 * [Implement urban regeneration initiatives, incentivize the use of vacant spaces, support local businesses and entrepreneurship.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2908.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of urban governance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1024.md)
 

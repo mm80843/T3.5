@@ -2,9 +2,9 @@
 
 # __airport workers__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Spread through Air Travel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1441.md)
+* [Individuals engaged in various types of work, from employees and office workers to agricultural and hospitality workers.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_379.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [service workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1697.md)
 * [emergency workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_523.md)
 * [hospitality workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1216.md)
+
+## Risk affecting this stakeholder
+
+* [Spread through Air Travel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1441.md)
 

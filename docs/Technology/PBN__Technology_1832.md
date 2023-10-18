@@ -2,9 +2,9 @@
 
 # __smart lighting systems__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q17152351](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q17152351.md)
+* [Innovative lighting solutions harnessing ultraviolet technology for optimal germicidal sterilization and energy efficiency, while maximizing natural light.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_235.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [smart lighting controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_722.md)
 * [Smart lighting controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2756.md)
 * [energy-efficient lighting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1256.md)
+
+## This Technology is identified by the following QID
+
+* [Q17152351](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q17152351.md)
 

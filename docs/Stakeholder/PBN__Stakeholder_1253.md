@@ -2,13 +2,9 @@
 
 # __emergency management agencies__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q6866662](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6866662.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Crisis Management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_14.md)
+* [Government and non-governmental organizations responsible for a wide range of services, including health, development, regulation, and emergency response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_382.md)
 
 ## Closest similar item
 
@@ -23,13 +19,21 @@
 * [emergency service](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2715.md)
 * [disaster management agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_245.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Emergency Services and Management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_166.md)
-
 ## Risks that can be mitigated by this stakeholder
 
 * [Inadequate crisis preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1961.md)
 * [Extreme weather events](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1849.md)
 * [Healthcare system capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2031.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Emergency Services and Management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_166.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q6866662](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6866662.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Crisis Management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_14.md)
 

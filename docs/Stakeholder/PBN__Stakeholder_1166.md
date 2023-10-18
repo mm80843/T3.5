@@ -2,9 +2,9 @@
 
 # __particularly those in buildings with inadequate air disinfection measures__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Lack of air disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1743.md)
+* [Individuals in poorly ventilated indoor environments, especially those in enclosed spaces with limited air flow, such as offices, homes, and buildings with inadequate air filtration, are at risk of exposure to poor indoor air quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_398.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Particularly those in building with inadequate ventilation system](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2209.md)
 * [occupants of buildings with poor indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1202.md)
 * [Occupants of buildings with poor indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2564.md)
+
+## Risk affecting this stakeholder
+
+* [Lack of air disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1743.md)
 

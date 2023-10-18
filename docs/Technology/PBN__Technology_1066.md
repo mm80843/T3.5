@@ -2,9 +2,9 @@
 
 # __wastewater treatment technology__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q20127660](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q20127660.md)
+* [Improvements in wastewater, waste management, sanitation, water purification, and plumbing technologies aim for sustainable and efficient infrastructure development.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_234.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [advanced wastewater treatment technologies such as uv disinfection or ozonation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1358.md)
 * [water purification technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1510.md)
 * [Water purification technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2786.md)
+
+## This Technology is identified by the following QID
+
+* [Q20127660](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q20127660.md)
 

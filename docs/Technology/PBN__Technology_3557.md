@@ -2,9 +2,9 @@
 
 # __transportation and epidemiological models__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Virus Quantification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_948.md)
+* [Enhancing accessibility and support through a range of remote healthcare, counseling, transportation, and translation services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_213.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Alternative modes of transportation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2888.md)
 * [alternative transportation methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_111.md)
 * [transportation planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_661.md)
+
+## This Technology enables the following mitigations
+
+* [Virus Quantification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_948.md)
 

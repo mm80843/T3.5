@@ -2,9 +2,9 @@
 
 # __advanced laboratory techniques for virus detection and identification__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q478216](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q478216.md)
+* [Advancements in molecular biology, diagnostics, vaccines, antiviral technologies, and disease surveillance for pathogen detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_223.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [attenuated/inactivated virus](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4471.md)
 * [advanced laboratory testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1409.md)
 * [Advanced laboratory testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2777.md)
+
+## This Technology is identified by the following QID
+
+* [Q478216](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q478216.md)
 

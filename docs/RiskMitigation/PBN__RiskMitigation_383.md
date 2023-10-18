@@ -2,13 +2,9 @@
 
 # __Review and adjust contracts and service agreements__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Decline in housing construction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_304.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved protection against potential issues](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_380.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Seek financial aids, revise contracts to claim losses](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2110.md)
 * [Implementing collaborative agreements and policies for staff redistribution](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1990.md)
 * [Revise contracts to include virus outbreak as force majeure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2112.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved protection against potential issues](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_380.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Decline in housing construction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_304.md)
 

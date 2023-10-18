@@ -2,9 +2,9 @@
 
 # __Lack of dynamic information__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Government activity on social media](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_960.md)
+* [The proliferation of false and misleading information, misinformation, and inaccurate news during pandemics creates confusion and a lack of trust in reliable sources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_127.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of reliable information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2838.md)
 * [Lack of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2698.md)
 * [Fragmented information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1069.md)
+
+## Mitigations of this risk
+
+* [Government activity on social media](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_960.md)
 

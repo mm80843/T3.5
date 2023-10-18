@@ -2,9 +2,9 @@
 
 # __geographic information systems (gis) can help identify areas with low ugs access and guide planning efforts__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q483130](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q483130.md)
+* [Urban green space solutions include tree planting, zoning regulations, landscape architecture, community gardens, outdoor furniture, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_231.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Geographic information systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2385.md)
 * [geographic information systems (gis) can be used to analyze community needs and optimize facility placement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1913.md)
 * [Geographic Information System (GIS) mapping technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2322.md)
+
+## This Technology is identified by the following QID
+
+* [Q483130](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q483130.md)
 

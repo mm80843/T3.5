@@ -2,9 +2,9 @@
 
 # __Implement administrative control measures, environmental control measures, and personal respiratory protection__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Inadequate TB infection control measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1363.md)
+* [Optimize indoor environments, regulate temperature and humidity, control air quality, and extend HVAC system operations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_341.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement proper ventilation systems in buildings, maintain good airflow and air exchange rates.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2640.md)
 * [Maintain physical distance, wear masks, ensure proper ventilation, and practice good respiratory hygiene.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1869.md)
 * [Implement infection control measures, improve ventilation systems, implement air filtration and UV light sterilisation technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1768.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inadequate TB infection control measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1363.md)
 

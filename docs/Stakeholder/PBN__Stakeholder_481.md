@@ -2,9 +2,15 @@
 
 # __pedestrians__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q221488](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q221488.md)
+* [A diverse range of individuals, including citizens, pedestrians, people with disabilities, and those in crowded environments, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_368.md)
+
+## Risk affecting this stakeholder
+
+* [Limited access to active travel options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1217.md)
+* [Streets re-designed](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1458.md)
+* [Inefficient navigation routes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1238.md)
 
 ## Closest similar item
 
@@ -19,14 +25,12 @@
 * [individuals in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2534.md)
 * [individuals in crowded](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_663.md)
 
-## Risk affecting this stakeholder
-
-* [Limited access to active travel options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1217.md)
-* [Streets re-designed](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1458.md)
-* [Inefficient navigation routes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1238.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Improved accessibility and safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1242.md)
 * [Increased livability and sustainability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1246.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q221488](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q221488.md)
 

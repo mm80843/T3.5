@@ -2,9 +2,9 @@
 
 # __Spread of infection in the workplace__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Facilitating remote work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2278.md)
+* [The dissemination of infectious diseases, characterized by outbreaks from various sources, inadequate preparedness, and insufficient reporting and understanding, poses a global threat.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_106.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Spread of virus among construction workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1558.md)
 * [Spread of infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_744.md)
 * [COVID-19 outbreaks in workplace settings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_887.md)
+
+## Mitigations of this risk
+
+* [Facilitating remote work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2278.md)
 

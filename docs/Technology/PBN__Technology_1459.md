@@ -2,9 +2,9 @@
 
 # __contingency planning frameworks__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q2340208](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2340208.md)
+* [Safety protocols, emergency response plans, risk assessment tools, and comprehensive risk communication strategies ensure workplace safety and crisis management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_232.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2378.md)
 * [urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_922.md)
 * [economic planning tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1493.md)
+
+## This Technology is identified by the following QID
+
+* [Q2340208](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2340208.md)
 

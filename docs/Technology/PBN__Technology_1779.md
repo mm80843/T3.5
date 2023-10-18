@@ -2,13 +2,13 @@
 
 # __adjustable area ratio__
 
+## Category to which it belongs
+
+* [Design and construction professionals use innovative techniques and strategies to create adaptable, sustainable, and inclusive buildings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_217.md)
+
 ## Risks linked to this technology
 
 * [PC2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2218.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Housing and Building Design](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_157.md)
 
 ## Closest similar item
 
@@ -23,13 +23,17 @@
 * [provide larger units and flexible housing options to support physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1276.md)
 * [increased outside air fractions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_502.md)
 
-## This Technology belongs to this TechGroup
-
-* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1370687](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1370687.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Housing and Building Design](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_157.md)
+
+## This Technology belongs to this TechGroup
+
+* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
 
 ## This Technology enables the following mitigations
 

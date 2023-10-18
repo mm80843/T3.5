@@ -2,13 +2,9 @@
 
 # __Spatial analysis__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [HIV prevalence in South Africa](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_136.md)
-
-## Property: has_MitigationBenefit
-
-* [Identification of high prevalence areas](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_180.md)
+* [Advancements in bioinformatics, divestment, automated sample collection, and artificial intelligence are facilitating early disease detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_336.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Allocation of entry and exit points, signage, and wayfinding.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1723.md)
 * [Spatial variety in window design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1333.md)
 * [Implementation of regional containment measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_166.md)
+
+## Property: has_MitigationBenefit
+
+* [Identification of high prevalence areas](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_180.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [HIV prevalence in South Africa](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_136.md)
 

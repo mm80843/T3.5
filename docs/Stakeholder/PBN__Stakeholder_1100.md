@@ -2,9 +2,9 @@
 
 # __pest control companies__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Increased population of urban rats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1667.md)
+* [These companies span a wide array of industries, including renewable energy, construction, pharmaceuticals, logistics, and technology.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_387.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [vector-control organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1348.md)
 * [manufacturing companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1152.md)
 * [Manufacturing companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2029.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Increased population of urban rats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1667.md)
 

@@ -2,9 +2,9 @@
 
 # __Property developers__
 
-## This Stakeholder belongs to this StakeholderGroup
+## Category to which it belongs
 
-* [Housing And Property](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_10.md)
+* [A diverse group specializing in the creation and implementation of various technological projects.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_383.md)
 
 ## Closest similar item
 
@@ -18,6 +18,10 @@
 * [Property owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2556.md)
 * [property management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_626.md)
 * [Property management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2552.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Housing And Property](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_10.md)
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 

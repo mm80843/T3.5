@@ -2,9 +2,9 @@
 
 # __variants of the virus__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [for measurements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1245.md)
+* [The Impact of Domestic Violence and the Spreading of the Virus Create Challenges in Preventing Virus Propagation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_94.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Unknown viral shedding routes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2606.md)
 * [Spread of Virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2518.md)
 * [Spread of virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2684.md)
+
+## Mitigations of this risk
+
+* [for measurements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1245.md)
 

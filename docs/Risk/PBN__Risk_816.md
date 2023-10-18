@@ -2,9 +2,9 @@
 
 # __Challenges in centralized and federated approaches__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Strengthening local support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1122.md)
+* [Limited monitoring, technical limitations, language barriers, expensive optimization, lack of connection with nature, and limited sensor diversity hinder effective response and resource allocation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_107.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Limited awareness, interoperability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2991.md)
 * [Lack of consensus on interoperability standards](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_812.md)
 * [Global containment strategy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_333.md)
+
+## Mitigations of this risk
+
+* [Strengthening local support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1122.md)
 

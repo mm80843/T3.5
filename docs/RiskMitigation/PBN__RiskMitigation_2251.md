@@ -2,9 +2,9 @@
 
 # __Implement regular maintenance schedules and allocate sufficient resources for UGS upkeep.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Inadequate maintenance of UGS](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1693.md)
+* [Promote environmentally-friendly waste management, sanitation, and maintenance practices, including rodent control, decontamination, and segregation of waste.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_340.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Regular maintenance and inspections, backup systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2341.md)
 * [Provide appropriate PPE and ensure proper usage and maintenance.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1814.md)
 * [Measures in operation and maintenance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_108.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inadequate maintenance of UGS](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1693.md)
 

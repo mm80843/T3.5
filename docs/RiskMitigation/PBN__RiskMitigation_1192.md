@@ -2,13 +2,9 @@
 
 # __Improved sound__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Increase in neighbour noise](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_869.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduced neighbour noise](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1196.md)
+* [Enhance acoustics and reduce noise through design, materials, insulation, regulations, and community engagement.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_350.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Sound insulation, use of acoustic materials, noise control measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1568.md)
 * [Implement noise reduction measures, regulate noise levels in urban areas, promote soundproofing measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2459.md)
 * [Improved air quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1114.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced neighbour noise](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1196.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Increase in neighbour noise](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_869.md)
 

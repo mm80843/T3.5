@@ -2,9 +2,9 @@
 
 # __Monitor air conditions__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [AQ2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2201.md)
+* [Optimize indoor environments, regulate temperature and humidity, control air quality, and extend HVAC system operations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_341.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Improve indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_452.md)
 * [Monitoring changes in environmental and climatic conditions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1018.md)
 * [Indoor humidity monitoring and control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_258.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [AQ2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2201.md)
 

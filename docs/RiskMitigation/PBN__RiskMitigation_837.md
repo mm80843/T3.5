@@ -2,15 +2,9 @@
 
 # __Optimum occupant presence schedule__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Infection risk of COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_601.md)
-* [High energy consumption of HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_600.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduced energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_246.md)
-* [Reduced number of infected people](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_839.md)
+* [Ensuring equitable access, promoting flexible work, implementing safety measures, and providing support for remote work and flexible schedules.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_323.md)
 
 ## Closest similar item
 
@@ -24,4 +18,14 @@
 * [Implement occupancy limits, encourage social distancing, provide adequate facilities and services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1576.md)
 * [Reduce occupancy rates, enforce physical distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1969.md)
 * [Limit occupancy numbers, maintain physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2354.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_246.md)
+* [Reduced number of infected people](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_839.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Infection risk of COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_601.md)
+* [High energy consumption of HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_600.md)
 

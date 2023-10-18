@@ -2,9 +2,9 @@
 
 # __soap and water or hand sanitizer__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Frequent handwashing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1330.md)
+* [Enhanced hygiene practices and strict adherence to cleaning protocols ensure rigorous sanitation and disinfection measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_196.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Hand washing with soap and water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2821.md)
 * [soap and clean water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2984.md)
 * [use of soap and hot water for handwashing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_504.md)
+
+## This Technology enables the following mitigations
+
+* [Frequent handwashing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1330.md)
 

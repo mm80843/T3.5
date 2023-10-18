@@ -2,9 +2,9 @@
 
 # __pet owners__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Increased risk of zoonotic diseases from urban rats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1668.md)
+* [Property stakeholders ranging from investors, homeowners, and tenants to entrepreneurs and commercial space owners.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_7.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Property owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2556.md)
 * [product owner](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2079.md)
 * [responsible owner](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_980.md)
+
+## Risk affecting this stakeholder
+
+* [Increased risk of zoonotic diseases from urban rats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1668.md)
 

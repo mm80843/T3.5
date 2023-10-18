@@ -2,9 +2,9 @@
 
 # __Foster collaboration and coordination among stakeholders, align governance models with common public health goals__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Conflicting interests and governance models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1196.md)
+* [Promote public health through policy implementation, strengthened systems, health literacy, and targeted interventions for vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_314.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Foster multi-sectoral collaboration, align policies and climate services, prioritize urban health in climate change planning.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2196.md)
 * [Integration of health in development policies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_663.md)
 * [Prioritize participatory governance structures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_693.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Conflicting interests and governance models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1196.md)
 

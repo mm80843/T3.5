@@ -2,9 +2,9 @@
 
 # __Heat treatment__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [heat source](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3192.md)
+* [Achieving comfort through temperature management, monitoring, and control while implementing climate-sensitive design and utilizing thermal imaging technology for screening and measurement purposes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_185.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Ventilation Improvements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1913.md)
 * [Regular HVAC Maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1779.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Heating surfaces and objects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2547.md)
-
 ## Property: has_MitigationPrinciple
 
 Using heat treatment to disinfect surfaces and objects that may be contaminated with the virus
 
+## Risks possibly mitigated by this Mitigation
+
+* [Heating surfaces and objects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2547.md)
+
 ## Property: has_MitigationSource
 
 * [Climate and the spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_145.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [heat source](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3192.md)
 

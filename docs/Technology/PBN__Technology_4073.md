@@ -2,9 +2,9 @@
 
 # __fostering community__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Trust and cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1796.md)
+* [A range of community-centered initiatives, programs, and strategies foster participation, collaboration, and social support for diverse groups.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_236.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [community initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2909.md)
 * [community planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2994.md)
 * [community education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1340.md)
+
+## This Technology enables the following mitigations
+
+* [Trust and cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1796.md)
 

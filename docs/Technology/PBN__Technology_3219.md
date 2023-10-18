@@ -2,9 +2,9 @@
 
 # __closed facebook group__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Social Media Group for Daily Practice Questions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_427.md)
+* [A range of community-centered initiatives, programs, and strategies foster participation, collaboration, and social support for diverse groups.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_236.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Virtual support groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2284.md)
 * [online support groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_124.md)
 * [community organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1073.md)
+
+## This Technology enables the following mitigations
+
+* [Social Media Group for Daily Practice Questions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_427.md)
 

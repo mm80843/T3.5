@@ -2,9 +2,9 @@
 
 # __secure telepsychiatry platforms__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1630941](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1630941.md)
+* [Virtual healthcare and remote communication technology including telemedicine, telehealth platforms, teletherapy, teleconferencing, and tele-operation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_202.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [tele-devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4147.md)
 * [teleconferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_392.md)
 * [teleconferencing tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4025.md)
+
+## This Technology is identified by the following QID
+
+* [Q1630941](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1630941.md)
 

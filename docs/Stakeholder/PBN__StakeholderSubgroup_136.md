@@ -2,9 +2,9 @@
 
 # __Social Gatherings__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [social gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_683.md)
+* [Collective networks supporting and advocating for underrepresented communities and fostering social engagement and welfare.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_260.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Public](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_147.md)
 * [Park and Recreation](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_28.md)
 * [General Community](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_139.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [social gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_683.md)
 

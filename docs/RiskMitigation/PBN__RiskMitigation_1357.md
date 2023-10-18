@@ -2,15 +2,9 @@
 
 # __Modular construction__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Spread of infections and diseases in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1010.md)
-* [Reducing transmission in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_970.md)
-
-## Property: has_MitigationBenefit
-
-* [Rapid construction of emergency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1335.md)
-* [Flexibility and adaptability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1408.md)
+* [Efforts include RNA monitoring, occupant exposure modeling, targeted messages, adoption of principles, copper coating, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_311.md)
 
 ## Closest similar item
 
@@ -24,4 +18,14 @@
 * [Use of off-site construction methods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_293.md)
 * [Retrofitting existing buildings with containment space, additional wet cells, and compartmentalization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_274.md)
 * [Sustainable design and construction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1291.md)
+
+## Property: has_MitigationBenefit
+
+* [Rapid construction of emergency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1335.md)
+* [Flexibility and adaptability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1408.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of infections and diseases in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1010.md)
+* [Reducing transmission in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_970.md)
 

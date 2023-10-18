@@ -2,9 +2,9 @@
 
 # __copper alloy coatings__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1409.md)
+* [The range of materials and techniques listed includes various disinfectants, nanomaterials, manufacturing methods, coatings, sustainability measures, and analytical tools.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_237.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [safe coating materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_266.md)
 * [carbon-based coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3856.md)
 * [cu2o](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3100.md)
+
+## This Technology enables the following mitigations
+
+* [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1409.md)
 

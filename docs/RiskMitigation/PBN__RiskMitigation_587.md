@@ -2,13 +2,9 @@
 
 # __Integration of Industry 4.0 technologies__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Need for innovative and modern technologies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_424.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved response to public health challenges](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_581.md)
+* [Accelerate the shift to digitalization by embracing emerging technologies and implementing innovative solutions across various sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_346.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Integration of smart city technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1343.md)
 * [Industry-specific working procedures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1014.md)
 * [Integration of digital solutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1433.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved response to public health challenges](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_581.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Need for innovative and modern technologies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_424.md)
 

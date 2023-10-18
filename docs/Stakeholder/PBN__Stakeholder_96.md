@@ -2,14 +2,9 @@
 
 # __informal workers__
 
-## This Stakeholder can get these Benefits from mitigation measures
+## Category to which it belongs
 
-* [Continued income and employment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_163.md)
-* [Increased economic opportunities and social inclusion](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1251.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q944235](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q944235.md)
+* [Individuals engaged in various types of work, from employees and office workers to agricultural and hospitality workers.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_379.md)
 
 ## Closest similar item
 
@@ -23,4 +18,13 @@
 * [low-income workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1262.md)
 * [informal settlements](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_920.md)
 * [essential workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1387.md)
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Continued income and employment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_163.md)
+* [Increased economic opportunities and social inclusion](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1251.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q944235](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q944235.md)
 

@@ -2,9 +2,9 @@
 
 # __Individualized dosing for vaccines__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Monitoring the effects of vaccination on the body using wearables](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_946.md)
+* [The challenges in vaccination include limited storage capacity, high patient demand, inefficient resource use, distribution difficulties, waning vaccine effectiveness, and unequal access.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_113.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Demand for vaccine development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_423.md)
 * [Inadequate vaccine efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1911.md)
 * [Expectations for vaccine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_430.md)
+
+## Mitigations of this risk
+
+* [Monitoring the effects of vaccination on the body using wearables](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_946.md)
 

@@ -2,9 +2,9 @@
 
 # __Need for sustainable travel options__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Development of sustainable transport modes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_742.md)
+* [The changing landscape of travel and transportation has led to concerns over safety, reduced demand, and inadequate infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_125.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Increased recreational use in urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_892.md)
 * [Inadequate global travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1028.md)
 * [Increased travel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3004.md)
+
+## Mitigations of this risk
+
+* [Development of sustainable transport modes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_742.md)
 

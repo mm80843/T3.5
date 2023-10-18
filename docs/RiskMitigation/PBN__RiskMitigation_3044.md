@@ -2,9 +2,9 @@
 
 # __Conduct infectivity tests to determine whether the genetic material is present in intact virus particles or as free nucleic acids.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of knowledge on the infectivity of wastewater-borne genetic material](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2342.md)
+* [Implement comprehensive strategies to control virus transmission, improve surveillance, develop antiviral coatings, and enhance infection control measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_309.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Characterization of UV susceptibility of viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_449.md)
 * [Improve wastewater treatment and disinfection processes, monitor wastewater for viral fragments](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2273.md)
 * [Early deployment of viral testing for asymptomatic and frontline healthcare staff](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_674.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of knowledge on the infectivity of wastewater-borne genetic material](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2342.md)
 

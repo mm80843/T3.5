@@ -2,10 +2,9 @@
 
 # __Increase in inequality__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Taking steps to reduce inequality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_289.md)
-* [Social and economic equality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1828.md)
+* [The challenges and consequences of the global pandemic include poor acoustics, noise pollution, food security, increase in inequality, waste, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_131.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Increased poverty and inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2905.md)
 * [Social inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_858.md)
 * [Urban inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_19.md)
+
+## Mitigations of this risk
+
+* [Taking steps to reduce inequality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_289.md)
+* [Social and economic equality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1828.md)
 

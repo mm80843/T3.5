@@ -2,9 +2,9 @@
 
 # __scientific integrity__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q91248609](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q91248609.md)
+* [Advanced analytics, fact-checking, project management, reliable sources, knowledge extraction, and collaboration ensure accurate information dissemination and effective decision-making.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_192.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [ethical review boards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_183.md)
 * [Ethical review boards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2240.md)
 * [development of storage protocols for maintaining sample integrity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1976.md)
+
+## This Technology is identified by the following QID
+
+* [Q91248609](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q91248609.md)
 

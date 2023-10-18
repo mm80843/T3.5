@@ -2,8 +2,9 @@
 
 # __Climbing stairs__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Promoting exercise and physical activity through various strategies, monitoring, guidelines, programs, and adaptations, while considering barriers and analyzing movement patterns.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_159.md)
 
 ## Closest similar item
 
@@ -18,14 +19,17 @@
 * [Wider doorways and corridors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_779.md)
 * [Exercises and Trainings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2188.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Utilizing stairs instead of elevators to increase physical activity while at home.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Staying Physically Active During the Quarantine and Self-Isolation Period for Controlling and Mitigating the COVID-19 Pandemic: A Systematic Overview of the Literature](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_181.md)
+
+## This Mitigation is enabled by the following technologies
+
 

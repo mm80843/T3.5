@@ -2,9 +2,9 @@
 
 # __Increase ventilation rates, use proper air distribution patterns__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Protection by ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1194.md)
+* [Enhance airflow, increase fresh air intake, and optimize ventilation systems to improve air quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_329.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Increase ventilation rates and use air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2005.md)
 * [Improve ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_606.md)
 * [Increase ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1075.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Protection by ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1194.md)
 

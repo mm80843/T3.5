@@ -2,9 +2,9 @@
 
 # __epidermal tattoos__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Emerging Low-Cost Wearable Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_164.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Alcohol-based hand rubs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2820.md)
 * [surgical masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3503.md)
 * [uv](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3835.md)
+
+## This Technology enables the following mitigations
+
+* [Emerging Low-Cost Wearable Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_164.md)
 

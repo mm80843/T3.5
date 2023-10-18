@@ -2,13 +2,9 @@
 
 # __Alignment to longitudinal characteristics__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Limitations of anonymization conversions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_818.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved pseudonymization process](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1113.md)
+* [Advancements in bioinformatics, divestment, automated sample collection, and artificial intelligence are facilitating early disease detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_336.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implement integrated and holistic strategic planning processes, improve vertical and horizontal alignment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1650.md)
 * [Patient tracking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1411.md)
 * [Permanent transformations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1236.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved pseudonymization process](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1113.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limitations of anonymization conversions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_818.md)
 

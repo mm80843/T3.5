@@ -2,11 +2,9 @@
 
 # __Human Interactions__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [online meetings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3138.md)
-* [shift alteration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3137.md)
-* [walkie-talkies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3139.md)
+* [Promoting equality, understanding nature, norms, perceived usefulness, and fostering social interactions for positive societal change.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_175.md)
 
 ## Closest similar item
 
@@ -21,15 +19,21 @@
 * [Human movement analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2087.md)
 * [Physical Contact](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1746.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Increased Interactions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2523.md)
-
 ## Property: has_MitigationPrinciple
 
 Minimize human interactions through measures such as altering shifts, breaks and modes of communication, dividing employees into small groups, and providing contactless communication tools.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Increased Interactions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2523.md)
+
 ## Property: has_MitigationSource
 
 * [Analysis of COVID-19 Concerns Raised by the Construction Workforce and Development of Mitigation Practices](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_82.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [online meetings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3138.md)
+* [shift alteration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3137.md)
+* [walkie-talkies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3139.md)
 

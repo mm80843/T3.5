@@ -2,19 +2,19 @@
 
 # __Clean water supply__
 
+## Name of the Benefit
+
+Proper water filtration and disinfection measures ensure a clean and safe water supply in the building
+
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Ensuring a clean water supply can enhance tenant satisfaction and create a healthier living environment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_251.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
 
 ## Articles mentionning this Benefit
 
 * [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
 
-## Name of the Benefit
+## Stakeholders benefitting from this Benefit
 
-Proper water filtration and disinfection measures ensure a clean and safe water supply in the building
+* [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
 

@@ -2,9 +2,9 @@
 
 # __Internet Companies__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [internet company](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2632.md)
+* [Titans of the online realm.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_289.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Agencies/Providers/Associations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_66.md)
 * [Domain Experts](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_154.md)
 * [Vector-Control Organizations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_125.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [internet company](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2632.md)
 

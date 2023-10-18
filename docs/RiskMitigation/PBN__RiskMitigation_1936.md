@@ -2,9 +2,9 @@
 
 # __Ensure correct direction of airflow, maintain proper pressure differentials, increase ventilation rates, and implement portable room air cleaners with HEPA filters.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Bad use of air-conditioning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1427.md)
+* [Enhancing air quality through effective air filtration, ventilation, and pollution reduction strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_338.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Improve ventilation systems, increase fresh air supply, and use air filters to reduce the spread of airborne particles.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2502.md)
 * [Improve ventilation systems in buildings, increase air flow, open windows if possible, and use air purifiers.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1922.md)
 * [Improve ventilation systems, use air purifiers, increase fresh air intake](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1817.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Bad use of air-conditioning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1427.md)
 

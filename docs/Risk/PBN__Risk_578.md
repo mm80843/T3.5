@@ -2,9 +2,9 @@
 
 # __Economic and social costs of COVID-19__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Water digitalization and IoT](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_805.md)
+* [The far-reaching consequences of COVID-19 include its transmission through various settings, impact on urban areas, and scarcity of resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Social inequalities and COVID-19 incidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_485.md)
 * [Impact of COVID-19 on urban economies and employment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_755.md)
 * [Spread of COVID-19 in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1980.md)
+
+## Mitigations of this risk
+
+* [Water digitalization and IoT](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_805.md)
 

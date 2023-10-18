@@ -2,9 +2,9 @@
 
 # __Use appropriate personal protective equipment (PPE) and adhere to hygiene protocols.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Contamination of healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1334.md)
+* [Promote and enforce hygiene practices, implement sanitation measures, and provide education on proper handwashing techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_332.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Ensure adequate ventilation, maintain physical distancing, wear masks, practice good hand hygiene, and clean and disinfect surfaces regularly.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1589.md)
 * [Hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_985.md)
 * [Regular disinfection of surfaces, hand hygiene, and use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2083.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Contamination of healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1334.md)
 

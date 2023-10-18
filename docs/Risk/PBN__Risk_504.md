@@ -2,9 +2,9 @@
 
 # __Cultural change in remote working__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Change management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_714.md)
+* [The impact of various factors on the workforce, including job insecurity, changes in work schedules, unemployment, and decreased productivity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_4.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Challenges in adopting a digital culture](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_318.md)
 * [Disparities in economic, political, and cultural contexts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2690.md)
 * [Changes in social practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_45.md)
+
+## Mitigations of this risk
+
+* [Change management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_714.md)
 

@@ -2,9 +2,9 @@
 
 # __Inadequate patient monitoring__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [AI for patient management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_655.md)
+* [The challenges include reduced surgical education, loss of control, limited diagnostics, slow drug development, inadequate patient monitoring, and lack of drug therapy options.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_110.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of quick and accurate diagnostics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2981.md)
 * [Limited Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2486.md)
 * [Lack of patient control over medical data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_321.md)
+
+## Mitigations of this risk
+
+* [AI for patient management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_655.md)
 

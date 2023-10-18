@@ -2,9 +2,9 @@
 
 # __vaccination distribution systems__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Equitable vaccine distribution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1502.md)
+* [Advancements in molecular biology, diagnostics, vaccines, antiviral technologies, and disease surveillance for pathogen detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_223.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [vaccine tracking technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1301.md)
 * [community-based vaccination campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1342.md)
 * [vaccine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3085.md)
+
+## This Technology enables the following mitigations
+
+* [Equitable vaccine distribution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1502.md)
 

@@ -2,9 +2,9 @@
 
 # __cooling devices__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Cooling Systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1767.md)
+* [Various technologies and devices are used to measure and regulate temperature, including cameras, scanners, sensors, and thermostats.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_220.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [quieter fan technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2020.md)
 * [Quieter fan technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2693.md)
 * [technology devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3579.md)
+
+## This Technology enables the following mitigations
+
+* [Cooling Systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1767.md)
 

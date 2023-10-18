@@ -2,9 +2,9 @@
 
 # __Availability of self-dependent services__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [availability of local services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4266.md)
+* [Promoting well-being and resilience through various forms of support, resources, and assistance for individuals in need.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_143.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Support for people who cannot stop working and provide essential services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3520.md)
 * [Provide mental health support services, such as counseling and helplines, to individuals in self-isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3521.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Supply chain disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1400.md)
-
 ## Property: has_MitigationPrinciple
 
 Provide access to local services for sustainability during quarantine
 
+## Risks possibly mitigated by this Mitigation
+
+* [Supply chain disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1400.md)
+
 ## Property: has_MitigationSource
 
 * [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [availability of local services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4266.md)
 

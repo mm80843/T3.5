@@ -2,13 +2,9 @@
 
 # __Promoting remote work for office workers__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Concerns about job security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_165.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved job security](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_221.md)
+* [Ensuring equitable access, promoting flexible work, implementing safety measures, and providing support for remote work and flexible schedules.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_323.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Providing appropriate resources and support for remote work, implementing flexible working hours, and utilizing technology for virtual collaboration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1996.md)
 * [Provide necessary equipment and support for remote work.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2464.md)
 * [Implementing remote work, flexible scheduling, and virtual meetings.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2453.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved job security](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_221.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Concerns about job security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_165.md)
 

@@ -2,9 +2,9 @@
 
 # __encrypted data transmission__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Security challenges](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1950.md)
+* [Various security measures, such as encryption, authentication protocols, secure data storage, and blockchain, are used to protect digital platforms and ensure privacy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_201.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [data encryption techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_826.md)
 * [encryption technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1070.md)
 * [Encryption technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2414.md)
+
+## This Technology enables the following mitigations
+
+* [Security challenges](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1950.md)
 

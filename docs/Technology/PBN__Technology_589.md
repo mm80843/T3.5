@@ -2,9 +2,9 @@
 
 # __promotion of alternative greetings and social distancing measures__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q625671](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q625671.md)
+* [Measures promoting accountability, media control, real-time updates, and virtual experiences for physical distancing and education.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [wearable devices for social distancing monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_861.md)
 * [social distancing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1097.md)
 * [Social distancing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2437.md)
+
+## This Technology is identified by the following QID
+
+* [Q625671](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q625671.md)
 

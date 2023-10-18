@@ -2,9 +2,9 @@
 
 # __facemasks or respirators__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_535.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [masks (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4503.md)
 * [face mask usage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1991.md)
 * [n95 respirators](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3504.md)
+
+## This Technology enables the following mitigations
+
+* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_535.md)
 

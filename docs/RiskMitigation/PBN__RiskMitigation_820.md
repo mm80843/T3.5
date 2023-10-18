@@ -2,13 +2,9 @@
 
 # __Privacy measures for balconies__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Contagious diseases propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_153.md)
-
-## Property: has_MitigationBenefit
-
-* [Visual and auditory privacy](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_824.md)
+* [Data privacy and security are prioritized through encryption, access controls, consent, and robust cybersecurity measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_335.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implement strong data protection measures, obtain consent, and ensure data anonymity.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2779.md)
 * [Implement social distancing measures, case isolation, and home quarantine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1885.md)
 * [Implement robust security measures, use encryption and anonymization techniques, obtain informed consent from users, comply with data protection regulations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2574.md)
+
+## Property: has_MitigationBenefit
+
+* [Visual and auditory privacy](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_824.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Contagious diseases propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_153.md)
 

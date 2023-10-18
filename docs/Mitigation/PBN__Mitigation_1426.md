@@ -2,9 +2,9 @@
 
 # __Proper system configuration__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_185.md)
+* [Maximizing control and efficiency in various domains through advanced technology and strategic planning.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_163.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Guideline recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_590.md)
 * [Good maintenance practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_343.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Improper system configuration and settings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3064.md)
-
 ## Property: has_MitigationPrinciple
 
 Ensuring proper system configuration, including airflow, temperature, humidity, and fan settings, can optimize the performance of the ventilation system
 
+## Risks possibly mitigated by this Mitigation
+
+* [Improper system configuration and settings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3064.md)
+
 ## Property: has_MitigationSource
 
 * [Ventilation use in nonmedical settings during COVID-19: Cleaning protocol, maintenance, and recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_104.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_185.md)
 

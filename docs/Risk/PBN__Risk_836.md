@@ -2,9 +2,9 @@
 
 # __Incomplete COVID-19 prevention and mitigation information__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Inclusion of COVID-19 prevention and mitigation information in the mobile application using web scraping](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1143.md)
+* [The far-reaching consequences of COVID-19 include its transmission through various settings, impact on urban areas, and scarcity of resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Limited understanding of the spread and impact of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2985.md)
 * [Wide-ranging impacts of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_363.md)
 * [COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_324.md)
+
+## Mitigations of this risk
+
+* [Inclusion of COVID-19 prevention and mitigation information in the mobile application using web scraping](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1143.md)
 

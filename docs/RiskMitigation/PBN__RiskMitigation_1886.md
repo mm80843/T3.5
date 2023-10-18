@@ -2,9 +2,9 @@
 
 # __Implement policies and measures to reduce case numbers and flatten the curve__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Overwhelming healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1387.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Design interventions to evenly distribute activity hubs and transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1663.md)
 * [Implementation of flexible work policies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_891.md)
 * [Implement measures to enforce physical distancing.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2462.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Overwhelming healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1387.md)
 

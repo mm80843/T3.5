@@ -2,9 +2,9 @@
 
 # __targeted interventions__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1671448](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1671448.md)
+* [Measures promoting accountability, media control, real-time updates, and virtual experiences for physical distancing and education.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [implementation of targeted public health interventions based on regional characteristics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_564.md)
 * [mental health interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1288.md)
 * [targeted outreach to disadvantaged communities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1830.md)
+
+## This Technology is identified by the following QID
+
+* [Q1671448](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1671448.md)
 

@@ -2,9 +2,9 @@
 
 # __or vacant lots__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q6501349](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6501349.md)
+* [Urban green space solutions include tree planting, zoning regulations, landscape architecture, community gardens, outdoor furniture, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_231.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2230.md)
 * [closed streets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1040.md)
 * [and plumbing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3729.md)
+
+## This Technology is identified by the following QID
+
+* [Q6501349](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6501349.md)
 

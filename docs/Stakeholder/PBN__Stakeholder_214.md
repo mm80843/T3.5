@@ -6,6 +6,10 @@
 
 * [Reduction in infection transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_488.md)
 
+## Category to which it belongs
+
+* [Employees across various industries, including laboratories, maintenance personnel, cleaning staff, and workers in the informal sector.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_359.md)
+
 ## Closest similar item
 
 * [workers in public-facing roles](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1778.md)

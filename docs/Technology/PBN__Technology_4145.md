@@ -2,15 +2,9 @@
 
 # __connectivity__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Quarantine Monitoring System](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1927.md)
-* [Compliance of Quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1939.md)
-* [Contact Tracing Application](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1929.md)
-* [Real-time Health Data Capture](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1928.md)
-* [Real-time Information Sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1932.md)
-* [Integration of Medical Tools and Devices through the Internet](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1935.md)
-* [Cluster Identification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1938.md)
+* [Enhanced connectivity and diverse communication platforms enable the dissemination of reliable information and promote open communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_225.md)
 
 ## Closest similar item
 
@@ -24,4 +18,14 @@
 * [network infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2316.md)
 * [internet connection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4022.md)
 * [telephone network](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3364.md)
+
+## This Technology enables the following mitigations
+
+* [Quarantine Monitoring System](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1927.md)
+* [Compliance of Quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1939.md)
+* [Contact Tracing Application](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1929.md)
+* [Real-time Health Data Capture](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1928.md)
+* [Real-time Information Sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1932.md)
+* [Integration of Medical Tools and Devices through the Internet](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1935.md)
+* [Cluster Identification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1938.md)
 

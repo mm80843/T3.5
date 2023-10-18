@@ -2,9 +2,9 @@
 
 # __Lack of monitoring of Indoor Environmental Quality (IEQ)__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [SAMBA monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_797.md)
+* [Limited physical/social distancing, thermal discomfort, poor lighting, and inadequate air quality negatively impact personal comfort.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_130.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Indoor Air Pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1116.md)
 * [Low indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1417.md)
 * [Poor Indoor Air Quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1121.md)
+
+## Mitigations of this risk
+
+* [SAMBA monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_797.md)
 

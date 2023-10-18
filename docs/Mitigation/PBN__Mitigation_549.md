@@ -2,9 +2,9 @@
 
 # __Maintaining indoor relative humidity between 40% and 60%__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [humidification systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3297.md)
+* [Promote clean, fresh air by monitoring and controlling indoor pollution, using portable air cleaners, and increasing outdoor air flow.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_172.md)
 
 ## Closest similar item
 
@@ -19,14 +19,18 @@
 * [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_775.md)
 * [Improved Indoor Climate Quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1762.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Reduces the survival of SARS-CoV-2 and other viruses, while minimizing the risk of mold growth.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [2019 Novel Coronavirus (COVID-19) Pandemic: Built Environment Considerations To Reduce Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_288.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [humidification systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3297.md)
 

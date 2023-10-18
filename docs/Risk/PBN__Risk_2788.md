@@ -2,9 +2,9 @@
 
 # __Undetected infections__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_882.md)
+* [The dissemination of infectious diseases, characterized by outbreaks from various sources, inadequate preparedness, and insufficient reporting and understanding, poses a global threat.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_106.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of knowledge of infection status](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2801.md)
 * [Transmission of Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2812.md)
 * [Infections from asymptomatic individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2110.md)
+
+## Mitigations of this risk
+
+* [Testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_882.md)
 

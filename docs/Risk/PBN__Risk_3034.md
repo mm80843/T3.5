@@ -2,9 +2,9 @@
 
 # __Psychological impact of social isolation__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Community action](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1342.md)
+* [The ramifications of social distancing include inconsistent recommendations, increased violence, changes in social practices, and lack of interaction, among other social issues.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_96.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Negative impact of prolonged self-isolation on mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1714.md)
 * [Isolation and lack of human interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_167.md)
 * [Lack of social support and social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1992.md)
+
+## Mitigations of this risk
+
+* [Community action](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1342.md)
 

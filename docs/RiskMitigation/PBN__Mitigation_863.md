@@ -2,10 +2,9 @@
 
 # __Outbreak Investigation and Response__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_403.md)
-* [contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_404.md)
+* [Effective management of viral outbreaks through control measures, viral detection, disease tracking, and public awareness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_149.md)
 
 ## Closest similar item
 
@@ -20,14 +19,19 @@
 * [Virus Quantification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_948.md)
 * [Testing for the virus](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_896.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Identifying and testing close contacts of COVID-19 cases, quarantining potentially infected individuals, and isolating confirmed cases.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [COVID-19 Prevention and Control Measures in Workplace Settings: A Rapid Review and Meta-Analysis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_255.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_403.md)
+* [contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_404.md)
 

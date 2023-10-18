@@ -2,9 +2,9 @@
 
 # __Inaccurate symptom screening__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Development of wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_934.md)
+* [The challenges include reduced surgical education, loss of control, limited diagnostics, slow drug development, inadequate patient monitoring, and lack of drug therapy options.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_110.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Limited diagnostic and screening tests](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2185.md)
 * [Limited diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2604.md)
 * [False-positive results](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2423.md)
+
+## Mitigations of this risk
+
+* [Development of wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_934.md)
 

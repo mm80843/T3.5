@@ -2,12 +2,9 @@
 
 # __gated and non-gated community residents__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Feeling of isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1109.md)
-* [Limited access to essential services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1108.md)
-* [Overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_571.md)
-* [Lack of adherence to preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1107.md)
+* [Collective inhabitants of various social groups, including rural women with ovarian cancer, who reside within different types of communities and rely on diverse support networks for community engagement.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_386.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [residents of low-income neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_132.md)
 * [other residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_513.md)
 * [residents of neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_39.md)
+
+## Risk affecting this stakeholder
+
+* [Feeling of isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1109.md)
+* [Limited access to essential services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1108.md)
+* [Overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_571.md)
+* [Lack of adherence to preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1107.md)
 

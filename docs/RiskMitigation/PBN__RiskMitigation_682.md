@@ -2,13 +2,9 @@
 
 # __Differential testing rates__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Social inequalities and COVID-19 incidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_485.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved equity in testing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_689.md)
+* [Promote comprehensive testing and tracing, prioritize vulnerable populations, reduce diagnosis-to-surgery time, recognize stress symptoms, and improve testing accuracy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_347.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Increase testing capacity; develop and deploy widespread testing strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1890.md)
 * [Increase production and distribution of testing kits](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2284.md)
 * [Improve testing frequency and accuracy, conduct seroprevalence surveys.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2514.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved equity in testing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_689.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Social inequalities and COVID-19 incidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_485.md)
 

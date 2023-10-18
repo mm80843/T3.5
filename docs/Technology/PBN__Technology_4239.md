@@ -2,9 +2,9 @@
 
 # __visible transmittance__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Natural light](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2123.md)
+* [Innovative lighting solutions harnessing ultraviolet technology for optimal germicidal sterilization and energy efficiency, while maximizing natural light.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_235.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Wireless data transmission](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2865.md)
 * [light sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_723.md)
 * [physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_411.md)
+
+## This Technology enables the following mitigations
+
+* [Natural light](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2123.md)
 

@@ -2,9 +2,9 @@
 
 # __noise filtering algorithms__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1879301](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1879301.md)
+* [Advanced technologies and algorithms for modeling, simulation, optimization, and artificial intelligence in various applications, including robotics and computational fluid dynamics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_239.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [noise-cancelling technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_960.md)
 * [noise-cancelling devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1833.md)
 * [kalman filter algorithm](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_991.md)
+
+## This Technology is identified by the following QID
+
+* [Q1879301](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1879301.md)
 

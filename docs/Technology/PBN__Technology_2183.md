@@ -2,9 +2,9 @@
 
 # __Online mental health services__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
-* [Mental Health Support](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_63.md)
+* [Enhancing accessibility and support through a range of remote healthcare, counseling, transportation, and translation services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_213.md)
 
 ## Closest similar item
 
@@ -19,11 +19,15 @@
 * [online counseling services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1626.md)
 * [mental health support services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1121.md)
 
-## This Technology belongs to this TechGroup
-
-* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
-
 ## This Technology is identified by the following QID
 
 * [Q67076049](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q67076049.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Mental Health Support](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_63.md)
+
+## This Technology belongs to this TechGroup
+
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 

@@ -2,9 +2,9 @@
 
 # __Lack of coordination and duplicative efforts__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Global coordination and cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_516.md)
+* [Insufficient awareness, limited resources, inadequate communication, and lack of preparedness contribute to various challenges and deficiencies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_118.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Poor communication and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1763.md)
 * [Lack of coordination between sectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3098.md)
 * [Lack of strategic planning and alignment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1198.md)
+
+## Mitigations of this risk
+
+* [Global coordination and cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_516.md)
 

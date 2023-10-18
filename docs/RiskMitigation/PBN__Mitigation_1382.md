@@ -2,9 +2,9 @@
 
 # __Restricted Travel__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_36.md)
+* [Movement and accessibility constraints, including travel bans, visitor restrictions, and limitations on gatherings and travel.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_160.md)
 
 ## Closest similar item
 
@@ -19,14 +19,18 @@
 * [Internal travel constraints](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1572.md)
 * [Travel prohibition in and out of cities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2104.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Limit travel between regions to prevent the introduction and spread of the disease from high-risk areas.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Mitigation strategies and compliance in the COVID-19 fight; how much compliance is enough?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_154.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_36.md)
 

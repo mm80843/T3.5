@@ -2,9 +2,9 @@
 
 # __Design separate spaces for different functions__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [space planning and layout](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3566.md)
+* [Creating resilient urban environments through strategic planning, adaptable design, reduced density, and improved building infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_164.md)
 
 ## Closest similar item
 
@@ -19,14 +19,18 @@
 * [Multi-functional Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_717.md)
 * [Incorporating green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2149.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Designing separate spaces for different functions to minimize the cross-contamination between different activities
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Architectural Design Drives the Biogeography of Indoor Bacterial Communities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_52.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [space planning and layout](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3566.md)
 

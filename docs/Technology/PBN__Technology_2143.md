@@ -2,8 +2,9 @@
 
 # __Peer-review systems__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
+* [Digital platforms and online resources facilitate collaboration, communication, and information sharing among individuals and organizations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_193.md)
 
 ## Closest similar item
 
@@ -18,11 +19,14 @@
 * [contract review systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4126.md)
 * [review committees](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1433.md)
 
-## This Technology belongs to this TechGroup
-
-* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
-
 ## This Technology is identified by the following QID
 
 * [Q215028](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q215028.md)
+
+## This Technology belongs to this TechSubgroup
+
+
+## This Technology belongs to this TechGroup
+
+* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
 

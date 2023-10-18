@@ -2,13 +2,9 @@
 
 # __Risk mapping process__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Malaria case risk mapping](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_312.md)
-
-## Property: has_MitigationBenefit
-
-* [Prioritization of high-risk areas](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_388.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Provide information to reduce perceived risk](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1662.md)
 * [Infuse risk communication into policy decisions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_922.md)
 * [Risk-adjusted performance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1297.md)
+
+## Property: has_MitigationBenefit
+
+* [Prioritization of high-risk areas](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_388.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Malaria case risk mapping](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_312.md)
 

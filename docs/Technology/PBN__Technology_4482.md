@@ -2,9 +2,9 @@
 
 # __indoor environmental quality__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Green building design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2415.md)
+* [Promotion of environmentally-friendly practices, green infrastructure, sustainable housing, renewable energy, and responsible building to enhance spaces and mitigate climate change.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_224.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [indoor vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3046.md)
 * [outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1848.md)
 * [Outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2230.md)
+
+## This Technology enables the following mitigations
+
+* [Green building design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2415.md)
 

@@ -2,13 +2,9 @@
 
 # __Accelerated digital transformation of healthcare delivery__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Shortages of protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_478.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved healthcare delivery](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_682.md)
+* [Enhancing healthcare infrastructure, increasing capacity, and ensuring access to medical resources and services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_330.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Strengthen healthcare systems and ensure access to essential healthcare services through telemedicine and mobile clinics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2365.md)
 * [Increase healthcare capacity, prioritize resources, telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2171.md)
 * [Increased healthcare capacity, resource allocation planning, telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2793.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved healthcare delivery](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_682.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Shortages of protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_478.md)
 

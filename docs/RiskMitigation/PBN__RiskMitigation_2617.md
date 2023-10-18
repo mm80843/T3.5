@@ -2,9 +2,9 @@
 
 # __Continuously monitor and adjust project plans and schedules to minimize delays, cost overruns, and scope changes.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Concerns about project time, cost, and scope](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1999.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Prioritize essential research and monitoring activities, develop remote monitoring techniques, enhance capacity-building efforts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2845.md)
 * [Continuously monitor and evaluate the impact of interventions, adjust policies accordingly](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1888.md)
 * [Continuous monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1000.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Concerns about project time, cost, and scope](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1999.md)
 

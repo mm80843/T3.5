@@ -2,9 +2,9 @@
 
 # __Risk of resurgence and rebound__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [WBE for monitoring Covid-19](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1024.md)
+* [A list of challenges and uncertainties surrounding the impact and response to various events and crises in different sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_124.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_985.md)
 * [Time Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_88.md)
 * [Exposure to foreign shocks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1838.md)
+
+## Mitigations of this risk
+
+* [WBE for monitoring Covid-19](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1024.md)
 

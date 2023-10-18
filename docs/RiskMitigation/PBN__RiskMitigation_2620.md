@@ -2,9 +2,9 @@
 
 # __Collect more data on disease transmission mechanisms and spatial separation__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of data support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2002.md)
+* [Implement comprehensive strategies to control virus transmission, improve surveillance, develop antiviral coatings, and enhance infection control measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_309.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Increased investment in disease prevention infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_677.md)
 * [Strengthen border health surveillance, develop rapid response protocols, promote international cooperation in disease control.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2729.md)
 * [Incorporate small-scale heterogeneity in epidemic models to account for neighborhood-level processes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1665.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of data support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2002.md)
 

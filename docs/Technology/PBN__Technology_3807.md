@@ -2,9 +2,9 @@
 
 # __apps)__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Clear and inclusive communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1341.md)
+* [A comprehensive list of mobile applications, including contact-tracing apps, mental health apps, mobile banking, and fitness tracking devices, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_197.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [smartphone app](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4163.md)
 * [phone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1094.md)
 * [twitter)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4231.md)
+
+## This Technology enables the following mitigations
+
+* [Clear and inclusive communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1341.md)
 

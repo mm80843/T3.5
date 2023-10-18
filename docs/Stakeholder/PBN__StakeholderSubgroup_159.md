@@ -2,9 +2,9 @@
 
 # __Data Protection Authorities__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [data protection authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_786.md)
+* [Ensuring confidentiality and safeguarding information with oversight from regulatory bodies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_272.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [City Officials and Administrators](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_4.md)
 * [Agencies/Providers/Associations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_66.md)
 * [Educational Authorities and Departments](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_13.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [data protection authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_786.md)
 

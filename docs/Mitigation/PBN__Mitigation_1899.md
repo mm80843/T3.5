@@ -2,9 +2,9 @@
 
 # __Cleaning and disinfecting frequently touched surfaces and items__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [cleaning and disinfection supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4125.md)
+* [Enhancing cleanliness and sanitation through various methods such as UV light, chemicals, and routine cleaning.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_169.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Regular cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_540.md)
 * [Routine cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2326.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Contagious disease propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2915.md)
-
 ## Property: has_MitigationPrinciple
 
 Regular cleaning and disinfection of frequently touched surfaces and items to prevent the spread of contagious diseases.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Contagious disease propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2915.md)
+
 ## Property: has_MitigationSource
 
 * [The Effects of Pandemic on Construction Industry in the UK](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_75.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [cleaning and disinfection supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4125.md)
 

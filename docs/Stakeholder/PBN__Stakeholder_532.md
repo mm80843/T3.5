@@ -2,9 +2,14 @@
 
 # __commuters__
 
-## This Stakeholder belongs to this StakeholderGroup
+## This Stakeholder can get these Benefits from mitigation measures
 
-* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
+* [Improved transport optimization](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1374.md)
+* [Enhanced transport capacity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1386.md)
+
+## Category to which it belongs
+
+* [Entities and individuals who interact with or are affected by a system, organization, or public facility.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_1.md)
 
 ## Closest similar item
 
@@ -18,6 +23,14 @@
 * [passengers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_499.md)
 * [transportation worker](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1688.md)
 * [Transportation worker](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1742.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Commuters/Cyclists](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_144.md)
 
 ## Risk affecting this stakeholder
 
@@ -37,13 +50,4 @@
 * [Limited access to active travel options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1217.md)
 * [Inefficient navigation routes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1238.md)
 * [Crowded railway stations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1650.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Commuters/Cyclists](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_144.md)
-
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Improved transport optimization](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1374.md)
-* [Enhanced transport capacity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1386.md)
 

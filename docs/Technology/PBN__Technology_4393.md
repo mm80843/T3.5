@@ -2,9 +2,9 @@
 
 # __measuring rh__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [RH effect on UV inactivation of bacterial aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2296.md)
+* [Advancements in biotechnology, clinical research, and innovative therapies contribute to the development of medical solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [experimental apparatus](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1883.md)
 * [Experimental apparatus](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2884.md)
 * [laboratory standardization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1320.md)
+
+## This Technology enables the following mitigations
+
+* [RH effect on UV inactivation of bacterial aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2296.md)
 

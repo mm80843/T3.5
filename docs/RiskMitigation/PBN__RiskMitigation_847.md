@@ -2,13 +2,9 @@
 
 # __Occupancy density and social distancing management__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Droplet transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_253.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction in droplet transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_850.md)
+* [Promotion and enforcement of physical separation measures to prevent the spread of disease.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_327.md)
 
 ## Closest similar item
 
@@ -21,4 +17,12 @@
 * [Implement measures to decrease occupant density and increase social distancing.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1821.md)
 * [Manage occupant density, promote physical distancing and use space management strategies to control occupancy rates.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3109.md)
 * [Social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_416.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction in droplet transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_850.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Droplet transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_253.md)
 

@@ -2,9 +2,9 @@
 
 # __reverse transcription-quantitative polymerase chain reaction (rt-qpcr)__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Wastewater-based monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2363.md)
+* [Advancements in biotechnology, clinical research, and innovative therapies contribute to the development of medical solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [rt-qpcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4479.md)
 * [taqman rt-qpcr assay](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4004.md)
 * [nucleic acid-based polymerase chain reaction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3071.md)
+
+## This Technology enables the following mitigations
+
+* [Wastewater-based monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2363.md)
 

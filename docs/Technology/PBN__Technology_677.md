@@ -2,13 +2,13 @@
 
 # __use of outdoor air and natural ventilation__
 
+## Category to which it belongs
+
+* [Improved ventilation and air purification methods are implemented, incorporating natural and mechanical systems, upgraded technologies, regular maintenance, and smart controls.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_200.md)
+
 ## Risks linked to this technology
 
 * [Poor ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1426.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [HVAC and Air Quality Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_90.md)
 
 ## Closest similar item
 
@@ -23,11 +23,15 @@
 * [natural or mechanical ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3834.md)
 * [natural/forced ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4069.md)
 
-## This Technology belongs to this TechGroup
-
-* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1427418](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1427418.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [HVAC and Air Quality Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_90.md)
+
+## This Technology belongs to this TechGroup
+
+* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
 

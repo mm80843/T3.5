@@ -2,9 +2,9 @@
 
 # __government intervention__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Censorship of fake news](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_963.md)
+* [Government actions and regulations addressing various aspects of society, including policy changes, ethical frameworks, governance mechanisms, and public announcements.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_216.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [government programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3638.md)
 * [targeted interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1279.md)
 * [open government mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_282.md)
+
+## This Technology enables the following mitigations
+
+* [Censorship of fake news](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_963.md)
 

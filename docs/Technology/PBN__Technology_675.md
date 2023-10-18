@@ -2,13 +2,13 @@
 
 # __isolation protocols__
 
+## Category to which it belongs
+
+* [Various security measures, such as encryption, authentication protocols, secure data storage, and blockchain, are used to protect digital platforms and ensure privacy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_201.md)
+
 ## Risks linked to this technology
 
 * [Inadequate protective measures in ICU](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1423.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Hygiene and Sanitation Practices and Protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_60.md)
 
 ## Closest similar item
 
@@ -23,11 +23,15 @@
 * [standardized protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_115.md)
 * [safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_812.md)
 
-## This Technology belongs to this TechGroup
-
-* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1674502](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1674502.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Hygiene and Sanitation Practices and Protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_60.md)
+
+## This Technology belongs to this TechGroup
+
+* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
 

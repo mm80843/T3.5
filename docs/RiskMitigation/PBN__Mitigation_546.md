@@ -2,9 +2,9 @@
 
 # __Chemical deactivation of viral particles on surfaces__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [62-71% ethanol solution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3294.md)
+* [Effective management of viral outbreaks through control measures, viral detection, disease tracking, and public awareness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_149.md)
 
 ## Closest similar item
 
@@ -19,14 +19,18 @@
 * [UV susceptibility of viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2294.md)
 * [Wiping surfaces with disinfectant](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2329.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Eliminates viral particles on surfaces, reducing the risk of transmission.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [2019 Novel Coronavirus (COVID-19) Pandemic: Built Environment Considerations To Reduce Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_288.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [62-71% ethanol solution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3294.md)
 

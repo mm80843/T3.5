@@ -2,13 +2,9 @@
 
 # __financial institution__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q650241](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q650241.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+* [The community, including residents, educators, healthcare institutions, and government research institutions, is involved in education and healthcare.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_377.md)
 
 ## Closest similar item
 
@@ -26,4 +22,12 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Business and Financial Services](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_58.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q650241](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q650241.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 

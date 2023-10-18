@@ -2,14 +2,9 @@
 
 # __Mobile Health Apps and Services__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [mental health apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_117.md)
-* [mobile clinics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_20.md)
-* [Mobile clinics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2282.md)
-* [mobile health clinics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_477.md)
-* [Telemedicine and mobile health clinics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2280.md)
-* [mobile health apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1552.md)
+* [Connected technology for medical facilities, as well as applications and services for mobile healthcare.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_23.md)
 
 ## Closest similar item
 
@@ -23,4 +18,13 @@
 * [Public Health and Awareness Campaigns](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_51.md)
 * [Electronic Health Records and Data Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_8.md)
 * [Digital Platforms and Apps](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_54.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [mental health apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_117.md)
+* [mobile clinics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_20.md)
+* [Mobile clinics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2282.md)
+* [mobile health clinics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_477.md)
+* [Telemedicine and mobile health clinics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2280.md)
+* [mobile health apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1552.md)
 

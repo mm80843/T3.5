@@ -2,10 +2,9 @@
 
 # __Spread of SARS-CoV-2 through aerosols__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_84.md)
-* [Regular disinfection of indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_81.md)
+* [The widespread transmission and persistence of the SARS-CoV-2 virus in various environments and the challenges in detecting and removing it.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_93.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Transmission of SARS-CoV-2 through respiratory droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_223.md)
 * [Airborne transmission of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1286.md)
 * [Spread of SARS-CoV-2 through contact with contaminated solids](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_698.md)
+
+## Mitigations of this risk
+
+* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_84.md)
+* [Regular disinfection of indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_81.md)
 

@@ -2,13 +2,9 @@
 
 # __Enforcing lockdown__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [City lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_988.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction in virus spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1371.md)
+* [Implementing a comprehensive package of measures to ensure the smooth functioning and safety of essential services and activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_6.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Social lockdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_182.md)
 * [virtual access to green spaces during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2981.md)
 * [Enforce strict adherence to guidelines and protocols through monitoring and enforcement mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2265.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction in virus spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1371.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [City lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_988.md)
 

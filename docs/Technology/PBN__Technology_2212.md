@@ -2,9 +2,9 @@
 
 # __Social distancing__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
-* [Physical Distancing Tools and Measures](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_70.md)
+* [A range of community-centered initiatives, programs, and strategies foster participation, collaboration, and social support for diverse groups.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_236.md)
 
 ## Closest similar item
 
@@ -19,11 +19,15 @@
 * [Physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2224.md)
 * [signage for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1823.md)
 
-## This Technology belongs to this TechGroup
-
-* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
-
 ## This Technology is identified by the following QID
 
 * [Q30314010](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q30314010.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Physical Distancing Tools and Measures](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_70.md)
+
+## This Technology belongs to this TechGroup
+
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 

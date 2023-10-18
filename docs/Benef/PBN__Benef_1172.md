@@ -2,20 +2,20 @@
 
 # __Prevention of false information spread__
 
+## Name of the Benefit
+
+Storing information on blockchain prevents alteration and makes it traceable, making it easier to prevent the development and spread of false information.
+
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Reduced confusion and anxiety, prevention of economic loss caused by false information.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1306.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
-* [media outlets](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_455.md)
 
 ## Articles mentionning this Benefit
 
 * [How Can Blockchain Help People in the Event of Pandemics Such as the COVID-19?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_241.md)
 
-## Name of the Benefit
+## Stakeholders benefitting from this Benefit
 
-Storing information on blockchain prevents alteration and makes it traceable, making it easier to prevent the development and spread of false information.
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+* [media outlets](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_455.md)
 

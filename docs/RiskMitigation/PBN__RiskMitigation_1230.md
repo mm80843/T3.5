@@ -2,13 +2,9 @@
 
 # __Trails that are more remote__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Increased recreational use on more remote trails](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_891.md)
-
-## Property: has_MitigationBenefit
-
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1224.md)
+* [Advancements in bioinformatics, divestment, automated sample collection, and artificial intelligence are facilitating early disease detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_336.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Remote exercise monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1175.md)
 * [Increase park access](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1319.md)
 * [Continue promoting remote work and sustainable transportation options.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3098.md)
+
+## Property: has_MitigationBenefit
+
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1224.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Increased recreational use on more remote trails](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_891.md)
 

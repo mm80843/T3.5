@@ -2,13 +2,9 @@
 
 # __Indoor humidity measurements__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_218.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved understanding of indoor-outdoor relationship](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_273.md)
+* [Optimize indoor environments, regulate temperature and humidity, control air quality, and extend HVAC system operations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_341.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1029.md)
 * [Improve indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_452.md)
 * [Maintaining optimum temperature and humidity levels](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_257.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved understanding of indoor-outdoor relationship](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_273.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_218.md)
 

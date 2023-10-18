@@ -2,13 +2,9 @@
 
 # __Reduced occupancy__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Minimization of the number of people in indoor environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_440.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduced concentration of virus-laden microdroplets](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_617.md)
+* [Efforts include RNA monitoring, occupant exposure modeling, targeted messages, adoption of principles, copper coating, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_311.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Occupancy control (eg separating at/risk contaminated population)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3122.md)
 * [Limiting occupancy levels, implementing crowd control measures, staggering schedules](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2022.md)
 * [Implement measures to control occupancy and enforce physical distancing rules in the facility](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2026.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced concentration of virus-laden microdroplets](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_617.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Minimization of the number of people in indoor environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_440.md)
 

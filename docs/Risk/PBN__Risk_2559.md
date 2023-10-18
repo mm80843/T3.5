@@ -2,9 +2,9 @@
 
 # __Supporting essential sectors__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Flexible public places](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_411.md)
+* [Fragmented global governance, reduced aid, ethical concerns, educational disruption, impacts on peace and justice, and inadequate coordination between stakeholders.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_115.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Economic impacts, shortage of essential goods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2919.md)
 * [Limited collaboration and communication across sectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3341.md)
 * [Essential goods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3398.md)
+
+## Mitigations of this risk
+
+* [Flexible public places](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_411.md)
 

@@ -2,13 +2,9 @@
 
 # __Surveillance measures__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [COVID-19 outbreaks in workplace settings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_887.md)
-
-## Property: has_MitigationBenefit
-
-* [Identification of coronavirus-positive environmental surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1218.md)
+* [Enhanced surveillance, monitoring, and real-time tracking for improved control and response to various situations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_312.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Integrated surveillance of human cases and vectors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1019.md)
 * [Strengthening public health surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_727.md)
 * [Improve surveillance and detection systems at borders, increase public awareness of risks.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2625.md)
+
+## Property: has_MitigationBenefit
+
+* [Identification of coronavirus-positive environmental surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1218.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [COVID-19 outbreaks in workplace settings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_887.md)
 

@@ -2,13 +2,9 @@
 
 # __Improve housing dimensions__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lockdown Impact on Mental Health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_886.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduced depressive symptoms](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1215.md)
+* [Promote equitable, sustainable, and inclusive urban planning to enhance living conditions, mitigate overcrowding, and reduce disparities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_324.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Promote medium density housing, create mixed-use neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2142.md)
 * [Redesign and allocate more space for street open spaces in densely populated areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2582.md)
 * [Medium density housing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_703.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced depressive symptoms](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1215.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lockdown Impact on Mental Health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_886.md)
 

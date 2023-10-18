@@ -2,13 +2,9 @@
 
 # __Fast-moving digital-oriented continuity plans__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Challenges in adopting a digital culture](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_318.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced operational efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_394.md)
+* [Implementing a comprehensive package of measures to ensure the smooth functioning and safety of essential services and activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_6.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Continuous collection and processing of individualized data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1427.md)
 * [Digital transformation technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1432.md)
 * [Digital communication strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_472.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced operational efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_394.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Challenges in adopting a digital culture](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_318.md)
 

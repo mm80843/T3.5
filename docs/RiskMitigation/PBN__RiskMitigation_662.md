@@ -2,13 +2,9 @@
 
 # __Community outreach programs__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Community participation in control policies and preventative measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_472.md)
-
-## Property: has_MitigationBenefit
-
-* [Increased citizen cooperation and trust](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_669.md)
+* [Strengthen collaborations, implement behavioral change, deploy social robots, and promote sustainable content consumption for community-based strategies, holistic research, and positive media representation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_316.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [outreach campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3367.md)
 * [Outreach campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3368.md)
 * [community support programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3369.md)
+
+## Property: has_MitigationBenefit
+
+* [Increased citizen cooperation and trust](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_669.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Community participation in control policies and preventative measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_472.md)
 

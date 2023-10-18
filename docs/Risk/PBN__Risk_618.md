@@ -2,9 +2,9 @@
 
 # __Amplification of flawed trial data in meta-analyses__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Rigorous data scrutiny and review](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_856.md)
+* [The proliferation of false and misleading information, misinformation, and inaccurate news during pandemics creates confusion and a lack of trust in reliable sources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_127.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Limited data, efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2998.md)
 * [Inadequate reporting and method quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1542.md)
 * [Circulation of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2832.md)
+
+## Mitigations of this risk
+
+* [Rigorous data scrutiny and review](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_856.md)
 

@@ -2,9 +2,9 @@
 
 # __public space managers__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Perceptions of public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1466.md)
+* [Managers responsible for overseeing various aspects of a building, including supply chain, facilities, construction projects, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_366.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [urban managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_518.md)
 * [park managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1046.md)
 * [Park managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2699.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Perceptions of public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1466.md)
 

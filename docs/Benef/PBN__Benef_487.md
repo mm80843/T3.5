@@ -2,20 +2,20 @@
 
 # __Data storage and analysis__
 
+## Name of the Benefit
+
+Cloud, edge, and fog computing enable efficient storage and analysis of wearable data, facilitating research and decision-making
+
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investment in cloud, edge, and fog computing infrastructure can enhance research capabilities, accelerate knowledge generation, and improve healthcare outcomes](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_530.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
-* [healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_193.md)
 
 ## Articles mentionning this Benefit
 
 * [The Rise of Wearable Devices during the COVID-19 Pandemic: A Systematic Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_99.md)
 
-## Name of the Benefit
+## Stakeholders benefitting from this Benefit
 
-Cloud, edge, and fog computing enable efficient storage and analysis of wearable data, facilitating research and decision-making
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_193.md)
 

@@ -2,13 +2,9 @@
 
 # __Indoor humidity monitoring and control__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Influenza transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_215.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduced transmission indoors](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_269.md)
+* [Optimize indoor environments, regulate temperature and humidity, control air quality, and extend HVAC system operations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_341.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implement temperature and humidity adjustability](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2866.md)
 * [Monitor air conditions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2872.md)
 * [Maintaining optimum temperature and humidity levels](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_257.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced transmission indoors](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_269.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Influenza transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_215.md)
 

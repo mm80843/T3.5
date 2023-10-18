@@ -2,9 +2,9 @@
 
 # __urban planning and design strategies to manage population density and promote a well-distributed urban development__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q13138136](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q13138136.md)
+* [Optimizing urban spaces through inclusive strategies and technologies, integrating green spaces, and managing population density and transportation systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_226.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [urban planning and design techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_296.md)
 * [Urban planning and design techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2731.md)
 * [urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1178.md)
+
+## This Technology is identified by the following QID
+
+* [Q13138136](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q13138136.md)
 

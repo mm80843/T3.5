@@ -2,9 +2,9 @@
 
 # __continuous monitoring system based on wireless sensor network__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Continuous monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_698.md)
+* [Advanced monitoring systems and sensor integration for IoT devices and biosensor technology facilitate environmental monitoring and facility usage tracking.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_229.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [sensor-based systems for monitoring facility usage and cleanliness](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1369.md)
 * [Sensor-based systems for monitoring facility usage and cleanliness](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2523.md)
 * [advanced monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1129.md)
+
+## This Technology enables the following mitigations
+
+* [Continuous monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_698.md)
 

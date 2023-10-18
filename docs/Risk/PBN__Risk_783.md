@@ -2,9 +2,9 @@
 
 # __High indoor temperatures__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Implement cooling systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1079.md)
+* [Limited physical/social distancing, thermal discomfort, poor lighting, and inadequate air quality negatively impact personal comfort.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_130.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Poor Indoor Air Quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1121.md)
 * [Poor indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_294.md)
 * [Inappropriate humidity levels in indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3063.md)
+
+## Mitigations of this risk
+
+* [Implement cooling systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1079.md)
 

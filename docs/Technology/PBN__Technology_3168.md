@@ -2,9 +2,9 @@
 
 # __data ownership policies__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Data ownership decentralization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_335.md)
+* [Government actions and regulations addressing various aspects of society, including policy changes, ethical frameworks, governance mechanisms, and public announcements.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_216.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2410.md)
 * [privacy policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1589.md)
 * [Privacy policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2425.md)
+
+## This Technology enables the following mitigations
+
+* [Data ownership decentralization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_335.md)
 

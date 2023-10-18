@@ -2,9 +2,14 @@
 
 # __developing countries__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q177323](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q177323.md)
+* [Global disadvantaged populations, particularly those in developing and non-English speaking countries, including women, children, rural households, and individuals.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_399.md)
+
+## Risk affecting this stakeholder
+
+* [Lack of resources in disease surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2082.md)
+* [Lack of access to pharmaceutical interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1158.md)
 
 ## Closest similar item
 
@@ -19,13 +24,12 @@
 * [countries heavily reliant on specific suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1243.md)
 * [rural households in developing countries](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1357.md)
 
-## Risk affecting this stakeholder
-
-* [Lack of resources in disease surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2082.md)
-* [Lack of access to pharmaceutical interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1158.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Reduced poverty](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_528.md)
 * [Mitigated poverty and inequality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_631.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q177323](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q177323.md)
 

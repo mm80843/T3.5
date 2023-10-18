@@ -2,9 +2,9 @@
 
 # __Dissemination of false information__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Monitoring social media](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_694.md)
+* [The proliferation of false and misleading information, misinformation, and inaccurate news during pandemics creates confusion and a lack of trust in reliable sources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_127.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Spread of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_396.md)
 * [Ineffective dissemination channels](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_404.md)
 * [Spreading inaccurate news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3131.md)
+
+## Mitigations of this risk
+
+* [Monitoring social media](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_694.md)
 

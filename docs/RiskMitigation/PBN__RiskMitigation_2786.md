@@ -2,9 +2,9 @@
 
 # __Invest in research and development, address technical challenges, encourage innovation.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Technological](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2131.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Invest time and effort in supporting faculty and increasing familiarity with technology.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1750.md)
 * [Seek alternative markets and partners, adapt business models, leverage social capital.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2133.md)
 * [Explore alternative funding options, build strong investor relationships.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2134.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Technological](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2131.md)
 

@@ -2,9 +2,9 @@
 
 # __Raise awareness about energy conservation and promote energy-saving behaviors.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Unconscious occupant behavior](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1062.md)
+* [Transition to sustainable energy sources, implement energy-efficient measures, and absorb increased service demand.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_351.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Continue implementing social distancing measures and transitioning to cleaner energy sources.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3096.md)
 * [Implement energy-saving measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_456.md)
 * [Encourage energy efficiency practices, educate households on thermostat settings and HVAC maintenance, and promote the use of energy-efficient HVAC systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2095.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Unconscious occupant behavior](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1062.md)
 

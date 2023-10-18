@@ -2,9 +2,9 @@
 
 # __Financial sustainability of energy providers__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Energy bill reductions or cancellations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1983.md)
+* [Financial vulnerability and instability permeate various sectors and industries, hindering growth, sustainability, and access to resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_114.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Financial impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_553.md)
 * [Financial viability of businesses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3315.md)
 * [Need for sustainable travel options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_530.md)
+
+## Mitigations of this risk
+
+* [Energy bill reductions or cancellations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1983.md)
 

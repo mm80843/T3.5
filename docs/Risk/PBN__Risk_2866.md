@@ -2,9 +2,9 @@
 
 # __Changes in sales and markets__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Adaptability and Flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1028.md)
+* [The ramifications of global connectivity include economic instability, impacts of the pandemic, unemployment, poverty, reduced tourism revenue, and decline in public budgets.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_103.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Losses in supply and demand](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_770.md)
 * [Impact on economy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1596.md)
 * [Disruptions to global and national supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2125.md)
+
+## Mitigations of this risk
+
+* [Adaptability and Flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1028.md)
 

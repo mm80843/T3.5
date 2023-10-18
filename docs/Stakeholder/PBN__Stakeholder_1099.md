@@ -2,12 +2,9 @@
 
 # __park visitors__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Increased occurrence of ticks and tick-borne diseases in urban locations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1666.md)
-* [Increased risk of mosquito-borne diseases from bodies of water](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1669.md)
-* [Increased growth of algae and cyanobacteria in urban ponds](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1670.md)
-* [Increased population of urban rats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1667.md)
+* [Foreign nationals residing in or visiting various destinations for tourism, with a focus on travelers during the pandemic and the industries reliant on tourism, such as hotels, tourism operators, and tourism boards.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_380.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [Park authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2703.md)
 * [visitors to green areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1509.md)
 * [park managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1046.md)
+
+## Risk affecting this stakeholder
+
+* [Increased occurrence of ticks and tick-borne diseases in urban locations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1666.md)
+* [Increased risk of mosquito-borne diseases from bodies of water](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1669.md)
+* [Increased growth of algae and cyanobacteria in urban ponds](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1670.md)
+* [Increased population of urban rats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1667.md)
 

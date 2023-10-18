@@ -2,9 +2,9 @@
 
 # __Provide job retention schemes and financial support for affected industries, promote job transitions and reskilling opportunities.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Disruption of immigrant employment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1845.md)
+* [Promote sustainable development through infrastructure investments, training, diversification, financial support, and government partnerships.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_315.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Provide financial support and assistance programs, promote job creation and training opportunities, offer financial education and counseling services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1775.md)
 * [Provide financial support to affected businesses, encourage e-commerce and online sales, promote local shopping.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2907.md)
 * [Provide financial support to affected individuals and businesses, maintain access to essential services.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2485.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Disruption of immigrant employment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1845.md)
 

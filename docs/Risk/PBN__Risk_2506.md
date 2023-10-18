@@ -2,10 +2,9 @@
 
 # __Respiratory droplets__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Wearing masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_218.md)
-* [Respiratory etiquette](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_537.md)
+* [The dispersion of respiratory particles through the air can lead to the transmission of diseases.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_138.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Respiratory](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3406.md)
 * [Spread of COVID-19 through respiratory droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_52.md)
 * [Respiratory transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2510.md)
+
+## Mitigations of this risk
+
+* [Wearing masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_218.md)
+* [Respiratory etiquette](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_537.md)
 

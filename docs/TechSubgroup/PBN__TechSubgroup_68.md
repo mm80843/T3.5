@@ -2,12 +2,9 @@
 
 # __Mental Health Resources and Support__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [Mental health apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2194.md)
-* [online support forums](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1248.md)
-* [psychological interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1541.md)
-* [online mental health resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1887.md)
+* [Accessible digital platforms providing support and resources for mental health counseling and therapy services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_37.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [Emergency Support and Safety](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_67.md)
 * [Health Education and Community Outreach](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_41.md)
 * [Healthcare and Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_19.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [Mental health apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2194.md)
+* [online support forums](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1248.md)
+* [psychological interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1541.md)
+* [online mental health resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1887.md)
 

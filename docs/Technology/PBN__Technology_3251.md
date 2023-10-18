@@ -2,9 +2,9 @@
 
 # __uv light sterilisation__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Enhanced ventilation with provision of UV light sterilisation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_471.md)
+* [Innovative lighting solutions harnessing ultraviolet technology for optimal germicidal sterilization and energy efficiency, while maximizing natural light.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_235.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [uv irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_235.md)
 * [UV irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2703.md)
 * [uv light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3055.md)
+
+## This Technology enables the following mitigations
+
+* [Enhanced ventilation with provision of UV light sterilisation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_471.md)
 

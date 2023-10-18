@@ -2,9 +2,9 @@
 
 # __industries reliant on tourism and travel__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Economic impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_124.md)
+* [Foreign nationals residing in or visiting various destinations for tourism, with a focus on travelers during the pandemic and the industries reliant on tourism, such as hotels, tourism operators, and tourism boards.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_380.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [tourism destinations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1079.md)
 * [workers in the tourism industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1777.md)
 * [tourism operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2009.md)
+
+## Risk affecting this stakeholder
+
+* [Economic impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_124.md)
 

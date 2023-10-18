@@ -2,9 +2,9 @@
 
 # __Changes in use and regulation of interior public spaces__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Redesigning and reorganizing interior spaces to accommodate for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1263.md)
+* [Insufficient, cramped, and unsanitary conditions in various types of spaces are hindering access, health, and well-being.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_141.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Crowded public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1325.md)
 * [Insufficient public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1738.md)
 * [Limited access to public green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_522.md)
+
+## Mitigations of this risk
+
+* [Redesigning and reorganizing interior spaces to accommodate for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1263.md)
 

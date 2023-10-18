@@ -2,9 +2,9 @@
 
 # __responsive leadership__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q6508643](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6508643.md)
+* [Government actions and regulations addressing various aspects of society, including policy changes, ethical frameworks, governance mechanisms, and public announcements.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_216.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [rapid response team](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3458.md)
 * [control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2971.md)
 * [policy interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3423.md)
+
+## This Technology is identified by the following QID
+
+* [Q6508643](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6508643.md)
 

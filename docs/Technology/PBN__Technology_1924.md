@@ -2,9 +2,9 @@
 
 # __responsible reporting by media__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q11033](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11033.md)
+* [Consistent oversight and regulation ensure compliance, as standardized protocols are enforced by enforcement personnel and regulatory bodies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_228.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [media sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4507.md)
 * [reporting standards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_521.md)
 * [reports](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3355.md)
+
+## This Technology is identified by the following QID
+
+* [Q11033](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11033.md)
 

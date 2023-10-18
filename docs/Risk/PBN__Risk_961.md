@@ -2,9 +2,9 @@
 
 # __Economic impacts__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Collaborative and proactive measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1344.md)
+* [The ramifications of global connectivity include economic instability, impacts of the pandemic, unemployment, poverty, reduced tourism revenue, and decline in public budgets.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_103.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Economic impacts, shortage of essential goods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2919.md)
 * [Negative effects on the economy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1791.md)
 * [Economic impacts, Compliance issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3167.md)
+
+## Mitigations of this risk
+
+* [Collaborative and proactive measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1344.md)
 

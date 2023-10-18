@@ -2,12 +2,9 @@
 
 # __information__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_538.md)
-
-## Property: has_MitigationBenefit
-
+* [Promote accurate and reliable information, combat misinformation, and increase media and public health literacy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_343.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_766.md)
 * [Dissemination of accurate information through reliable sources, fact-checking of information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3092.md)
 * [Disseminating accurate and up-to-date information, providing education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1765.md)
+
+## Property: has_MitigationBenefit
+
+
+## Risks possibly mitigated by this Mitigation
+
+* [COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_538.md)
 

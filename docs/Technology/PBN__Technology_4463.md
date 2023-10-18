@@ -2,9 +2,9 @@
 
 # __such as crispr/cas9__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Genetic manipulation of mosquitoes (Gene drive)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2392.md)
+* [Advancements in biotechnology, clinical research, and innovative therapies contribute to the development of medical solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [pathogen reduction technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1535.md)
 * [Pathogen reduction technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2440.md)
 * [vaccine development technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_917.md)
+
+## This Technology enables the following mitigations
+
+* [Genetic manipulation of mosquitoes (Gene drive)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2392.md)
 

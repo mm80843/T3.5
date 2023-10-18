@@ -2,8 +2,9 @@
 
 # __Transparent Governance__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Spatial separation, closure, containment, barrier implementation, and control of movements to prevent the spread of infection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_150.md)
 
 ## Closest similar item
 
@@ -18,14 +19,17 @@
 * [Strong institutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1831.md)
 * [Government regulations and policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2443.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Promotes transparency in decision-making and governance models, increasing trust and accountability
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Health Information Exchange with Blockchain amid Covid-19-like Pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_78.md)
+
+## This Mitigation is enabled by the following technologies
+
 

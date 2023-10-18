@@ -2,9 +2,9 @@
 
 # __Educate occupants about the impact of window-opening behavior on air change rates__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Occupant behavior](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1481.md)
+* [Optimize indoor environments, regulate temperature and humidity, control air quality, and extend HVAC system operations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_341.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Upgrading ventilation systems to meet recommended air exchange rates and introducing measures such as air filtration, use of portable air cleaners, and opening windows for natural ventilation.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2234.md)
 * [Increase ventilation rates, use proper air distribution patterns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1646.md)
 * [Natural ventilation and operable windows](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1337.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Occupant behavior](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1481.md)
 

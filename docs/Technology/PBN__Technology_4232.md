@@ -2,9 +2,9 @@
 
 # __thermal imaging technology__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Thermal imaging-enabled facial recognition](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2113.md)
+* [Various technologies and devices are used to measure and regulate temperature, including cameras, scanners, sensors, and thermostats.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_220.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [thermographic cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4088.md)
 * [thermal screening systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_137.md)
 * [temperature scanners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_361.md)
+
+## This Technology enables the following mitigations
+
+* [Thermal imaging-enabled facial recognition](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2113.md)
 

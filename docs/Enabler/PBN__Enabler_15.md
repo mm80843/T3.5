@@ -2,13 +2,13 @@
 
 # __UV/UVGI/Irradation__
 
-## Property: has_TechEquivalent
-
-* [UV/UVGI/Irradation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4540.md)
-
 ## Property: has_BP_EnablerTitle
 
 enabler_016
+
+## Category to which it belongs
+
+* [Ultraviolet radiation used for disinfection and sterilization purposes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_75.md)
 
 ## Closest similar item
 
@@ -26,4 +26,8 @@ enabler_016
 ## Thees blueprints use this enabler
 
 * [Installing UV in ductwork](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_10.md)
+
+## Property: has_TechEquivalent
+
+* [UV/UVGI/Irradation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4540.md)
 

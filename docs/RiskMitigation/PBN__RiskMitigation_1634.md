@@ -2,9 +2,9 @@
 
 # __Implement eviction moratoria, provide rental assistance, and support eviction prevention programs.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Eviction and Housing Displacement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1182.md)
+* [Implement comprehensive measures to ensure support, protection, and assistance for vulnerable populations during the pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_349.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Offer mortgage holidays, provide financial support for individuals, delay negotiations during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2398.md)
 * [Implement urban regeneration initiatives, incentivize the use of vacant spaces, support local businesses and entrepreneurship.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2908.md)
 * [Improve housing conditions, address mold and pest issues, provide resources for housing maintenance.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1637.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Eviction and Housing Displacement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1182.md)
 

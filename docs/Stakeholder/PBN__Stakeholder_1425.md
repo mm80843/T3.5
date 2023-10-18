@@ -2,13 +2,9 @@
 
 # __community support services__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q112206160](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q112206160.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
+* [Collective inhabitants of various social groups, including rural women with ovarian cancer, who reside within different types of communities and rely on diverse support networks for community engagement.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_386.md)
 
 ## Closest similar item
 
@@ -23,11 +19,19 @@
 * [individuals in need of mental health support; individuals with pre-existing mental health conditions; marginalized communities with limited access to mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2349.md)
 * [communities and healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_403.md)
 
+## Risks that can be mitigated by this stakeholder
+
+* [Risk of mental health issues during and after a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2121.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Community Support Networks/Services](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_133.md)
 
-## Risks that can be mitigated by this stakeholder
+## This Stakeholder is identified by the following QID
 
-* [Risk of mental health issues during and after a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2121.md)
+* [Q112206160](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q112206160.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
 

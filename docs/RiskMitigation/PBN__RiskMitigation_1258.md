@@ -2,13 +2,9 @@
 
 # __Repurposing large public spaces for emergency health purposes__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Future of large public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_912.md)
-
-## Property: has_MitigationBenefit
-
-* [Increased resilience and flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1244.md)
+* [Promote equitable, sustainable, and inclusive urban planning to enhance living conditions, mitigate overcrowding, and reduce disparities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_324.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Transformation of public places for essential uses](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_326.md)
 * [Including health considerations in public space design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1256.md)
 * [Increase investment in healthcare infrastructure, establish temporary medical facilities during outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1577.md)
+
+## Property: has_MitigationBenefit
+
+* [Increased resilience and flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1244.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Future of large public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_912.md)
 

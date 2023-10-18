@@ -6,6 +6,10 @@
 
 * [Enhanced access to integrated UGS](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_966.md)
 
+## Category to which it belongs
+
+* [People residing in densely populated districts or neighborhoods, including those in high-risk, low-income, or underserved areas, as well as visitors and tenants in urban locations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_384.md)
+
 ## Closest similar item
 
 * [especially those living in areas with extreme population densities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_376.md)

@@ -2,9 +2,9 @@
 
 # __Need for a new typology for public space__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Creating a new vocabulary or typology to describe public spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1259.md)
+* [Insufficient, cramped, and unsanitary conditions in various types of spaces are hindering access, health, and well-being.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_141.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inequities and exclusions in public space design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_918.md)
 * [Public places as informative nodes in the city](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_267.md)
 * [Making social spaces safe and viable](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_266.md)
+
+## Mitigations of this risk
+
+* [Creating a new vocabulary or typology to describe public spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1259.md)
 

@@ -2,9 +2,9 @@
 
 # __Control for confounding factors in analysis, use multivariable regression__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Confounding factors in transmission analysis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1251.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Use multiple data collection methods, record limitations specific to each method to account for their influence on validity.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1882.md)
 * [Provide training and support for stakeholders in data analysis and interpretation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2066.md)
 * [Developing robust contingency plans and alternative timelines.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2089.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Confounding factors in transmission analysis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1251.md)
 

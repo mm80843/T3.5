@@ -2,13 +2,13 @@
 
 # __user education__
 
+## Category to which it belongs
+
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
+
 ## Risks linked to this technology
 
 * [Unnecessary stand-by loads](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1409.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Software and Applications](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_122.md)
 
 ## Closest similar item
 
@@ -23,11 +23,15 @@
 * [community education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1340.md)
 * [public education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_804.md)
 
-## This Technology belongs to this TechGroup
-
-* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
-
 ## This Technology is identified by the following QID
 
 * [Q8434](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q8434.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Software and Applications](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_122.md)
+
+## This Technology belongs to this TechGroup
+
+* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
 

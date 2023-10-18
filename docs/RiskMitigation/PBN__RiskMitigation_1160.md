@@ -2,13 +2,9 @@
 
 # __Mobile technology in education__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Geographical spread of virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_844.md)
-
-## Property: has_MitigationBenefit
-
-* [Online learning and virtual classes](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1161.md)
+* [Accelerate the shift to digitalization by embracing emerging technologies and implementing innovative solutions across various sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_346.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implement distance learning solutions, provide technology and internet access to students.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2664.md)
 * [Mobile technology in tracking patients](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1163.md)
 * [Digital educational initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_473.md)
+
+## Property: has_MitigationBenefit
+
+* [Online learning and virtual classes](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1161.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Geographical spread of virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_844.md)
 

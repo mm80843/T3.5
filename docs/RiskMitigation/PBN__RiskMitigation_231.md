@@ -2,13 +2,9 @@
 
 # __Availability of separate toilets__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [WWM2: Waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_191.md)
-
-## Property: has_MitigationBenefit
-
-* [Prevent virus spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_242.md)
+* [Promote environmentally-friendly waste management, sanitation, and maintenance practices, including rodent control, decontamination, and segregation of waste.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_340.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implement separate collection of medical waste](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2883.md)
 * [Ensure the availability of clean and well-maintained restroom facilities. Implement hygiene promotion campaigns.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2637.md)
 * [Proper waste management and segregation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_349.md)
+
+## Property: has_MitigationBenefit
+
+* [Prevent virus spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_242.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [WWM2: Waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_191.md)
 

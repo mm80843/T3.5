@@ -2,9 +2,9 @@
 
 # __wristbands__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Emerging Low-Cost Wearable Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_164.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [apple watches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3015.md)
 * [gloves)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3684.md)
 * [wearable electronic devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3012.md)
+
+## This Technology enables the following mitigations
+
+* [Emerging Low-Cost Wearable Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_164.md)
 

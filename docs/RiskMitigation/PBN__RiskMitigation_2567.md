@@ -2,9 +2,9 @@
 
 # __Diversifying project portfolios, focusing on shovel-ready projects, seeking government support.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Uncertainty in Construction Market](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1956.md)
+* [Promote sustainable development through infrastructure investments, training, diversification, financial support, and government partnerships.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_315.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Diversify supply sources, strengthen local production capabilities, implement emergency stockpiling measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1578.md)
 * [Explore cost-effective solutions and funding options](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2374.md)
 * [Foster economic resilience through improved risk management and diversification strategies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2424.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Uncertainty in Construction Market](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1956.md)
 

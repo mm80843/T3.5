@@ -2,9 +2,9 @@
 
 # __Material shortage__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Supplier diversification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_782.md)
+* [The challenges and consequences of the global pandemic include poor acoustics, noise pollution, food security, increase in inequality, waste, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_131.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Shortages in supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_491.md)
 * [Resistance to new materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2567.md)
 * [Shortage of medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_764.md)
+
+## Mitigations of this risk
+
+* [Supplier diversification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_782.md)
 

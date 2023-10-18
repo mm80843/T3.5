@@ -2,9 +2,9 @@
 
 # __Concentration method__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [aluminum hydroxide adsorption-precipitation protocol](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4003.md)
+* [Enhanced disease investigation and prevention methods, including biomarkers, antimicrobial coatings, and AI-driven tools, advance public health.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_155.md)
 
 ## Closest similar item
 
@@ -19,14 +19,18 @@
 * [Density reduction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_675.md)
 * [Occupant Density Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1761.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 The concentration method using aluminum hydroxide can effectively concentrate enteric viruses, including SARS-CoV-2, from wastewater samples, aiding in their detection and analysis.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [SARS-CoV-2 RNA in wastewater anticipated COVID-19 occurrence in a low prevalence area](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_96.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [aluminum hydroxide adsorption-precipitation protocol](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4003.md)
 

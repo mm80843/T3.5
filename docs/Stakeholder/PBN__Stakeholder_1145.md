@@ -2,13 +2,9 @@
 
 # __fitness industry__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q69940813](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q69940813.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+* [Various industries, businesses, and supply chain partners rely on suppliers and supply chain professionals for their products and services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_370.md)
 
 ## Closest similar item
 
@@ -23,12 +19,20 @@
 * [sport company](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2036.md)
 * [industries](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_389.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Fitness and Sports](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_56.md)
-
 ## Risks that can be mitigated by this stakeholder
 
 * [Reduction of physical activity during quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1713.md)
 * [Lack of access to regular sporting or exercise routines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1716.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Fitness and Sports](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_56.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q69940813](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q69940813.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 

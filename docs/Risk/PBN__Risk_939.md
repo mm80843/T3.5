@@ -2,9 +2,9 @@
 
 # __Indoor air pollution__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_476.md)
+* [Insufficient ventilation and indoor air pollution pose a risk to air quality and respiratory health, exacerbated by inadequate airflow control, limited natural ventilation, and air recirculation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_128.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inadequate indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1295.md)
 * [Air pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_148.md)
 * [Air Pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1879.md)
+
+## Mitigations of this risk
+
+* [Improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_476.md)
 

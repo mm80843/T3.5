@@ -2,13 +2,9 @@
 
 # __AI for decision-making__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Limited resources in LMIC](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_464.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_661.md)
+* [Advancements in bioinformatics, divestment, automated sample collection, and artificial intelligence are facilitating early disease detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_336.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Artificial intelligence and machine learning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_808.md)
 * [AI for health equity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_657.md)
 * [AI for testing optimization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_652.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_661.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limited resources in LMIC](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_464.md)
 

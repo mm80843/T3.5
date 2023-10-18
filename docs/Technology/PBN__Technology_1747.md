@@ -2,6 +2,10 @@
 
 # __self-closing doors__
 
+## Category to which it belongs
+
+* [These resources aim to enhance security, convenience, and efficiency in managing access, spaces, and systems within various environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_206.md)
+
 ## Risks linked to this technology
 
 * [AQ3](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2202.md)

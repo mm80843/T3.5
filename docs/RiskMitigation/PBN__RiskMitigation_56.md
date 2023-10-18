@@ -2,13 +2,9 @@
 
 # __Development of CIDO ontology__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Need for standardized representation of coronavirus knowledge](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_39.md)
-
-## Property: has_MitigationBenefit
-
-* [Standardized knowledge representation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_63.md)
+* [Promote standardized data collection, ontology-based representation, and enhanced data sharing to improve decision-making processes and data quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_319.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Ontological reasoning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_842.md)
 * [Follow OBO Foundry guidelines for term requests and updating of ontologies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1967.md)
 * [Re-use ontological terms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1240.md)
+
+## Property: has_MitigationBenefit
+
+* [Standardized knowledge representation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_63.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Need for standardized representation of coronavirus knowledge](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_39.md)
 

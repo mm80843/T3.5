@@ -2,13 +2,13 @@
 
 # __residents who primarily rely on non-contact interactions for community engagement__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q5154950](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5154950.md)
+* [Collective inhabitants of various social groups, including rural women with ovarian cancer, who reside within different types of communities and rely on diverse support networks for community engagement.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_386.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
+* [Dependence on non-contact interaction activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2327.md)
 
 ## Closest similar item
 
@@ -23,11 +23,15 @@
 * [low-income communities in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_588.md)
 * [Low-income communities in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2187.md)
 
-## Risk affecting this stakeholder
-
-* [Dependence on non-contact interaction activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2327.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Residents](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_72.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q5154950](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5154950.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
 

@@ -2,11 +2,9 @@
 
 # __are at risk__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Indoor influenza transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1705.md)
-* [Influenza virus survival](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1704.md)
-* [Effect of humidity on virus viability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1707.md)
+* [Individuals at risk, including vulnerable populations, individuals in quarantine or isolation, and those in close proximity to infected individuals or contaminated surfaces, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_392.md)
 
 ## Closest similar item
 
@@ -20,4 +18,10 @@
 * [individual in high-risk area](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2235.md)
 * [high-risk individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_69.md)
 * [specific at-risk groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_698.md)
+
+## Risk affecting this stakeholder
+
+* [Indoor influenza transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1705.md)
+* [Influenza virus survival](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1704.md)
+* [Effect of humidity on virus viability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1707.md)
 

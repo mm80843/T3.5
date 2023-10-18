@@ -2,9 +2,9 @@
 
 # __research team__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Contamination of glass coverslips](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1168.md)
+* [A diverse array of collaborative and specialized groups in various fields working together towards specific goals.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_5.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [management team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_292.md)
 * [research projects](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1468.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Contamination of glass coverslips](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1168.md)
 

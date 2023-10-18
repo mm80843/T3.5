@@ -2,9 +2,9 @@
 
 # __public health authorities are responsible for regulating humidity levels in the built environment__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Effect of humidity on virus viability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1707.md)
+* [Individuals in poorly ventilated indoor environments, especially those in enclosed spaces with limited air flow, such as offices, homes, and buildings with inadequate air filtration, are at risk of exposure to poor indoor air quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_398.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [particularly those in buildings with inadequate air disinfection measures](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1166.md)
 * [Particularly those in buildings with inadequate air disinfection measures](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2382.md)
 * [occupants of buildings with poor indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1202.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Effect of humidity on virus viability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1707.md)
 

@@ -2,9 +2,9 @@
 
 # __Continuously monitor and evaluate the impact of interventions, adjust policies accordingly__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Negative impact of interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1389.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Harmonize and coordinate interventions across countries; monitor and enforce adherence to guidelines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1892.md)
 * [Combine direct measurements with numerical simulations to inform decision-making, conduct rigorous study on intervention effectiveness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2010.md)
 * [Ensure timely implementation of control measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2849.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Negative impact of interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1389.md)
 

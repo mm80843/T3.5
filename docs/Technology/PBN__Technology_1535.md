@@ -2,9 +2,9 @@
 
 # __pathogen reduction technology__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q170065](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q170065.md)
+* [Advancements in molecular biology, diagnostics, vaccines, antiviral technologies, and disease surveillance for pathogen detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_223.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [cleaning and disinfection technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3568.md)
 * [improved cleaning and disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1293.md)
 * [Improved cleaning and disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2517.md)
+
+## This Technology is identified by the following QID
+
+* [Q170065](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q170065.md)
 

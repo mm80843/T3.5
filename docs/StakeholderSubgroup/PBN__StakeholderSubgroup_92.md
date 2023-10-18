@@ -2,9 +2,9 @@
 
 # __Individuals in Developing Countries__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [individual in developing country](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2141.md)
+* [People in emerging nations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_287.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Individuals with Specific Conditions](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_86.md)
 * [Homeless Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_96.md)
 * [Migrants and Minorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_111.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [individual in developing country](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2141.md)
 

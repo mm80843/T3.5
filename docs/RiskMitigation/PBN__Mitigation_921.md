@@ -2,10 +2,9 @@
 
 # __Analysis of Root Causes__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [data analysis technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3546.md)
-* [behavior change analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3547.md)
+* [Enhanced disease investigation and prevention methods, including biomarkers, antimicrobial coatings, and AI-driven tools, advance public health.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_155.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Extensive testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1791.md)
 * [Reporting study conditions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_657.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_47.md)
-
 ## Property: has_MitigationPrinciple
 
 Integrating quantitative data with analysis of root causes of behavior change to deepen understanding of urban science developments
 
+## Risks possibly mitigated by this Mitigation
+
+* [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_47.md)
+
 ## Property: has_MitigationSource
 
 * [Smart cities and a data-driven response to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_164.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [data analysis technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3546.md)
+* [behavior change analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3547.md)
 

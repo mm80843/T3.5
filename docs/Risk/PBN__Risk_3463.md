@@ -2,9 +2,9 @@
 
 # __Lack of understanding, fear__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Cultural sensitivity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2463.md)
+* [Insufficient awareness, limited resources, inadequate communication, and lack of preparedness contribute to various challenges and deficiencies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_118.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of Knowledge and Awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3229.md)
 * [Lack of knowledge and attitudes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3459.md)
 * [Lack of awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_49.md)
+
+## Mitigations of this risk
+
+* [Cultural sensitivity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2463.md)
 

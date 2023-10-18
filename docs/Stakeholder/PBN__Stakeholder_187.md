@@ -7,6 +7,10 @@
 * [Disinfection of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_399.md)
 * [Fever detection and screening](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_400.md)
 
+## Category to which it belongs
+
+* [Various individuals in the healthcare industry, including epidemiologists, medical personnel, clinicians, surgeons, and patients in need of medical care.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_360.md)
+
 ## Closest similar item
 
 * [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)

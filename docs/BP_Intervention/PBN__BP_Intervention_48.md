@@ -2,11 +2,11 @@
 
 # __Managing drinking water safety measures__
 
-## Property: has_BP_InterventionTitle
-
-Managing drinking water safety measures
-
 ## Property: has_BP_InterventionKey
 
 PW1
+
+## Property: has_BP_InterventionTitle
+
+Managing drinking water safety measures
 

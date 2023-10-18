@@ -2,16 +2,9 @@
 
 # __Improved access to preventive measures__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Social inequalities and COVID-19 testing rates](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_486.md)
-
-## Property: has_MitigationBenefit
-
-* [Equity in preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_694.md)
-* [Reduced transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_232.md)
-* [Improved public health outcomes](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_691.md)
-* [Enhanced resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_693.md)
+* [Implementing a comprehensive package of measures to ensure the smooth functioning and safety of essential services and activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_6.md)
 
 ## Closest similar item
 
@@ -25,4 +18,15 @@
 * [Implement strict control measures, protect vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1460.md)
 * [Implement safety measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_569.md)
 * [Improve monitoring and enforcement of mitigation measures, increase public awareness and understanding of the importance of measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2363.md)
+
+## Property: has_MitigationBenefit
+
+* [Equity in preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_694.md)
+* [Reduced transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_232.md)
+* [Improved public health outcomes](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_691.md)
+* [Enhanced resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_693.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Social inequalities and COVID-19 testing rates](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_486.md)
 

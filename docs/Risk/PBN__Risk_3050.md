@@ -2,9 +2,9 @@
 
 # __Lack of access to tests in LMIC__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [AI technology for accurate and cost-effective tests](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1403.md)
+* [Restricted availability of various resources, services, and data creates inequalities and obstacles in accessing them.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_132.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of qualified staff for testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2374.md)
 * [Limited data collection in LMIC](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3052.md)
 * [Lack of AI implementation in LMIC](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1799.md)
+
+## Mitigations of this risk
+
+* [AI technology for accurate and cost-effective tests](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1403.md)
 

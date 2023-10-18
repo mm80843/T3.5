@@ -2,9 +2,9 @@
 
 # __Reliance on fossil fuels__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Renewable energy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1827.md)
+* [The interconnectedness of environmental degradation, social inequalities, and the need for climate action and conservation efforts.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_104.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inefficient energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2427.md)
 * [Inefficient energy usage and high energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_345.md)
 * [Lack of access to clean cooking fuels](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_964.md)
+
+## Mitigations of this risk
+
+* [Renewable energy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1827.md)
 

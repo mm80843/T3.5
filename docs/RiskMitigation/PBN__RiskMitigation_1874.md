@@ -2,9 +2,9 @@
 
 # __Prioritize vaccination for vulnerable populations, implement protective measures in healthcare settings, provide support and resources for at-risk individuals.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Risk of high fatality rate in vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1378.md)
+* [Maximizing vaccine efficacy and ensuring equitable access through research, development, distribution, and targeted outreach.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_337.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implementing strict hygiene protocols, social distancing measures, and vaccination programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2451.md)
 * [Establish cold chain management systems, including proper storage and transport facilities, temperature monitoring, and staff training. Prioritize high-risk populations for vaccination.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2509.md)
 * [Prioritize testing and protection for vulnerable populations, such as the elderly and those with underlying health conditions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3063.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Risk of high fatality rate in vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1378.md)
 

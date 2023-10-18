@@ -2,9 +2,9 @@
 
 # __Closure signs__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
-* [Physical Barriers and Signage](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_132.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -19,11 +19,15 @@
 * [signs and information boards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_417.md)
 * [Signs and information boards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2737.md)
 
-## This Technology belongs to this TechGroup
-
-* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
-
 ## This Technology is identified by the following QID
 
 * [Q2979672](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2979672.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Physical Barriers and Signage](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_132.md)
+
+## This Technology belongs to this TechGroup
+
+* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
 

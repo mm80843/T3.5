@@ -2,9 +2,9 @@
 
 # __Determine which workers with comorbidities can work from home, provide necessary accommodations__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Comorbid workers working from home (WFH)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2136.md)
+* [Ensuring equitable access, promoting flexible work, implementing safety measures, and providing support for remote work and flexible schedules.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_323.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement health and safety measures, adapt project plans to pandemic restrictions, provide support to affected workers.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1947.md)
 * [Implement policies and programs to prevent long-term sickness absence, such as workplace wellness programs and early intervention strategies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2673.md)
 * [Implementing proper hygiene measures, encouraging social distancing, and promoting remote work options](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1995.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Comorbid workers working from home (WFH)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2136.md)
 

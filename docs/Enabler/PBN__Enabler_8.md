@@ -2,13 +2,13 @@
 
 # __AI/ML__
 
-## Property: has_TechEquivalent
-
-* [AI/ML](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4534.md)
-
 ## Property: has_BP_EnablerTitle
 
 enabler_009
+
+## Category to which it belongs
+
+* [Artificial intelligence and machine learning.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_68.md)
 
 ## Closest similar item
 
@@ -28,4 +28,8 @@ enabler_009
 * [Managing user flows in building and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_4.md)
 * [Controls at key checkpoints](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_6.md)
 * [Access control, limitation, or lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_7.md)
+
+## Property: has_TechEquivalent
+
+* [AI/ML](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4534.md)
 

@@ -2,22 +2,9 @@
 
 # __visitors__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q2528360](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2528360.md)
-
-## Closest similar item
-
-* [residents and visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2507.md)
-* [tourists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_72.md)
-* [visitors to public places](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_767.md)
-* [park visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1099.md)
-* [Park visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2689.md)
-* [visitors to social spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_769.md)
-* [tourist](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2518.md)
-* [all residents and visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_511.md)
-* [resident and visitor](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2528.md)
-* [visitors in indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1288.md)
+* [Foreign nationals residing in or visiting various destinations for tourism, with a focus on travelers during the pandemic and the industries reliant on tourism, such as hotels, tourism operators, and tourism boards.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_380.md)
 
 ## Risk affecting this stakeholder
 
@@ -74,6 +61,19 @@
 * [Lack of sanitization protocols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1501.md)
 * [Insufficient crowd management measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1681.md)
 
+## Closest similar item
+
+* [residents and visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2507.md)
+* [tourists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_72.md)
+* [visitors to public places](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_767.md)
+* [park visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1099.md)
+* [Park visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2689.md)
+* [visitors to social spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_769.md)
+* [tourist](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2518.md)
+* [all residents and visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_511.md)
+* [resident and visitor](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2528.md)
+* [visitors in indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1288.md)
+
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Improved air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_192.md)
@@ -83,4 +83,8 @@
 * [Enhanced sense of safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_267.md)
 * [Reduced airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_997.md)
 * [Reduced surface contamination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1199.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q2528360](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2528360.md)
 

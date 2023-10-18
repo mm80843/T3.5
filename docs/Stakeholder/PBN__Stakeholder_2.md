@@ -2,22 +2,9 @@
 
 # __researchers__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q1650915](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1650915.md)
-
-## Closest similar item
-
-* [scientists and researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_355.md)
-* [scientists/researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_137.md)
-* [medical researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_687.md)
-* [healthcare researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1168.md)
-* [laboratory researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1562.md)
-* [scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_46.md)
-* [urban researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_946.md)
-* [environmental researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2669.md)
-* [research team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_701.md)
-* [research groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_172.md)
+* [Experts from various fields including research, risk assessment, education, science, HVAC, and IT.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_356.md)
 
 ## Risk affecting this stakeholder
 
@@ -121,6 +108,19 @@
 * [Outdated information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2308.md)
 * [Misalignment of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2311.md)
 * [Inconsistent data sources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2363.md)
+
+## Closest similar item
+
+* [scientists and researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_355.md)
+* [scientists/researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_137.md)
+* [medical researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_687.md)
+* [healthcare researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1168.md)
+* [laboratory researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1562.md)
+* [scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_46.md)
+* [urban researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_946.md)
+* [environmental researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2669.md)
+* [research team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_701.md)
+* [research groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_172.md)
 
 ## This Stakeholder can get these Benefits from mitigation measures
 
@@ -333,4 +333,8 @@
 * [Lack of microscale representation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2004.md)
 * [Inefficient VOC removal by plants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2306.md)
 * [Inconsistent data sources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2363.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q1650915](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1650915.md)
 

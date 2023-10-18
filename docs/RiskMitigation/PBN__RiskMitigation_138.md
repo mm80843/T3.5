@@ -2,13 +2,9 @@
 
 # __Integration of natural elements__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of connection with nature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_114.md)
-
-## Property: has_MitigationBenefit
-
-* [Sense of belonging and security](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_156.md)
+* [Efforts include RNA monitoring, occupant exposure modeling, targeted messages, adoption of principles, copper coating, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_311.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Integration of information and technology solutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_615.md)
 * [Increase access to outdoor spaces through the integration of green infrastructure in urban environments](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2242.md)
 * [Natural outdoor environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_733.md)
+
+## Property: has_MitigationBenefit
+
+* [Sense of belonging and security](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_156.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of connection with nature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_114.md)
 

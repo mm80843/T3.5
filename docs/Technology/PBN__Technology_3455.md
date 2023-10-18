@@ -2,9 +2,9 @@
 
 # __ethical considerations and responsible building practices__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Value-driven design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_785.md)
+* [Promotion of environmentally-friendly practices, green infrastructure, sustainable housing, renewable energy, and responsible building to enhance spaces and mitigate climate change.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_224.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [ethical frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_320.md)
 * [building management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3395.md)
 * [building codes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1495.md)
+
+## This Technology enables the following mitigations
+
+* [Value-driven design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_785.md)
 

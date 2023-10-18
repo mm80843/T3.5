@@ -2,9 +2,9 @@
 
 # __gloves)__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Use of personal protective equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_538.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2560.md)
 * [apps)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3807.md)
 * [protective clothing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3337.md)
+
+## This Technology enables the following mitigations
+
+* [Use of personal protective equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_538.md)
 

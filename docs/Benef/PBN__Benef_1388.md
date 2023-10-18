@@ -2,20 +2,20 @@
 
 # __Early detection of potential outbreaks__
 
+## Name of the Benefit
+
+Monitoring high temperatures or other indicators to identify individuals who may be unwell
+
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Early response to health emergencies, improved public health and safety](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1575.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-* [public health officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_310.md)
 
 ## Articles mentionning this Benefit
 
 * [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
 
-## Name of the Benefit
+## Stakeholders benefitting from this Benefit
 
-Monitoring high temperatures or other indicators to identify individuals who may be unwell
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [public health officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_310.md)
 

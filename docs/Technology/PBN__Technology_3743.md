@@ -2,10 +2,9 @@
 
 # __dehumidifiers__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Humidity Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1226.md)
-* [Control of Moisture and Humidity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1787.md)
+* [Improvements in wastewater, waste management, sanitation, water purification, and plumbing technologies aim for sustainable and efficient infrastructure development.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_234.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3132.md)
 * [air cleaner](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3407.md)
 * [humidity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3133.md)
+
+## This Technology enables the following mitigations
+
+* [Humidity Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1226.md)
+* [Control of Moisture and Humidity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1787.md)
 

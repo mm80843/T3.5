@@ -2,8 +2,9 @@
 
 # __Increased use of single-use packaging__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Enhancing safety and efficiency through comprehensive measures, technology integration, diverse environments, and behavioral adjustments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_157.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Distribution of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1976.md)
 * [Increased use of technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1565.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Increased waste](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_842.md)
-
 ## Property: has_MitigationPrinciple
 
 Leads to more waste generated from packaging materials
 
+## Risks possibly mitigated by this Mitigation
+
+* [Increased waste](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_842.md)
+
 ## Property: has_MitigationSource
 
 * [Indirect effects of COVID-19 on the environment](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_238.md)
+
+## This Mitigation is enabled by the following technologies
+
 

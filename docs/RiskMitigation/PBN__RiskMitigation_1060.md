@@ -2,13 +2,9 @@
 
 # __Health screening of workers__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Spread of COVID-19 on construction sites](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_771.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduced transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_207.md)
+* [Promote public health through policy implementation, strengthened systems, health literacy, and targeted interventions for vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_314.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Combining multiple screening methods, widespread testing programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3049.md)
 * [Implement strict public health measures in schools and day care facilities, such as mask-wearing, hand hygiene, physical distancing, and regular testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1850.md)
 * [Prioritize testing and protection for vulnerable populations, such as the elderly and those with underlying health conditions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3063.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_207.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of COVID-19 on construction sites](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_771.md)
 

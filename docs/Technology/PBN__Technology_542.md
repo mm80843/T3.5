@@ -2,9 +2,9 @@
 
 # __spatial analysis tools__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1938983](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1938983.md)
+* [Data-driven insights and analysis for decision making, anonymized data, transparency, visualization, and advanced techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_205.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Geographic information systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2385.md)
 * [data collection and analysis tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_616.md)
 * [data analysis software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1534.md)
+
+## This Technology is identified by the following QID
+
+* [Q1938983](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1938983.md)
 

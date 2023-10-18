@@ -2,9 +2,9 @@
 
 # __laboratory management__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Contamination of glass coverslips](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1168.md)
+* [Managers responsible for overseeing various aspects of a building, including supply chain, facilities, construction projects, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_366.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [medical laboratories](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1580.md)
 * [testing laboratories](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1159.md)
 * [laboratories performing wastewater testing](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1053.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Contamination of glass coverslips](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1168.md)
 

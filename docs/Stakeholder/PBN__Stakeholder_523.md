@@ -6,6 +6,10 @@
 
 * [buildings](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1336.md)
 
+## Category to which it belongs
+
+* [Individuals engaged in various types of work, from employees and office workers to agricultural and hospitality workers.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_379.md)
+
 ## Closest similar item
 
 * [emergency responders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_484.md)

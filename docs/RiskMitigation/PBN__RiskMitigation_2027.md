@@ -2,9 +2,9 @@
 
 # __Facilitate the availability and use of PPE such as masks, gloves, and hand sanitizers for all individuals in the facility__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of personal protective equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1502.md)
+* [Encouraging the use of masks, practicing social distancing, and promoting good hygiene practices are vital preventive measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_345.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Promote and enforce proper hand hygiene practices, provide hand sanitizing stations throughout the building.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2183.md)
 * [Adhere to established safety procedures including the use of personal protective equipment (PPE) and adherence to safe work practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1486.md)
 * [Increase frequency of cleaning, provide hand sanitizers, promote personal hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1575.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of personal protective equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1502.md)
 

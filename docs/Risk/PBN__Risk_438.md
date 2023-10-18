@@ -2,9 +2,9 @@
 
 # __Inadequate ventilation systems in workplaces__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Improve ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_606.md)
+* [Insufficient ventilation and indoor air pollution pose a risk to air quality and respiratory health, exacerbated by inadequate airflow control, limited natural ventilation, and air recirculation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_128.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inadequate ventilation in makeshift hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_443.md)
 * [Inadequate ventilation in existing buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_388.md)
 * [Inadequate natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_275.md)
+
+## Mitigations of this risk
+
+* [Improve ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_606.md)
 

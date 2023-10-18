@@ -2,9 +2,9 @@
 
 # __Anticipate how the pandemic may affect variables of interest, measure and test these additional variables to assess their impact on study results.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Confounding variables](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1384.md)
+* [Promote public health through policy implementation, strengthened systems, health literacy, and targeted interventions for vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_314.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Collect more data from countries at earlier stages of the epidemic; account for potential differences in intervention impacts across countries](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1894.md)
 * [Develop international strategies that integrate the built environment in pandemic response plans](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2139.md)
 * [Develop comprehensive pandemic preparedness plans and invest in healthcare infrastructure; conduct regular simulations and training exercises](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2695.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Confounding variables](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1384.md)
 

@@ -2,9 +2,9 @@
 
 # __Enhance waste management systems__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Environmental impact and waste management challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1623.md)
+* [Promote environmentally-friendly waste management, sanitation, and maintenance practices, including rodent control, decontamination, and segregation of waste.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_340.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement proper waste management and recycling systems, encourage environmentally-friendly consumer behavior.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3099.md)
 * [Adopt energy-efficient practices, implement recycling and waste management programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2788.md)
 * [Sustainable alternatives, proper disposal of waste](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2792.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Environmental impact and waste management challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1623.md)
 

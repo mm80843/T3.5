@@ -2,9 +2,9 @@
 
 # __Medical equipment__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
-* [Mobile and Healthcare Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_99.md)
+* [Safety and operational tools for various fields, including healthcare, cleaning, maintenance, and emergency preparation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_212.md)
 
 ## Closest similar item
 
@@ -19,12 +19,16 @@
 * [exercise equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3238.md)
 * [medical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2897.md)
 
+## This Technology is identified by the following QID
+
+* [Q6657015](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6657015.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Mobile and Healthcare Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_99.md)
+
 ## This Technology belongs to this TechGroup
 
 * [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 * [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
-
-## This Technology is identified by the following QID
-
-* [Q6657015](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6657015.md)
 

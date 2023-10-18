@@ -2,9 +2,9 @@
 
 # __Ensure consistent and transparent communication, address public concerns and questions__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of official communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1820.md)
+* [Facilitate transparent communication, enabling reliable information sharing through standardized protocols and effective channels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_0.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Facilitate transparent communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3138.md)
 * [Implement communication campaigns, provide clear instructions and guidelines, and promote public awareness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2263.md)
 * [Providing clear and transparent information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_101.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of official communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1820.md)
 

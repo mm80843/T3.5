@@ -2,9 +2,9 @@
 
 # __criminalization__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Regulation of DV](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_740.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [legal advice](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4162.md)
 * [legislation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3420.md)
 * [surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1963.md)
+
+## This Technology enables the following mitigations
+
+* [Regulation of DV](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_740.md)
 

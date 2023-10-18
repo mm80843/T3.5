@@ -2,9 +2,9 @@
 
 # __Implement crowd control measures, promote social distancing in crowded areas__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Population Density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1880.md)
+* [Promotion and enforcement of physical separation measures to prevent the spread of disease.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_327.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Crowd management, capacity limits, physical distancing measures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2240.md)
 * [Limiting occupancy levels, implementing crowd control measures, staggering schedules](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2022.md)
 * [Implementing crowd management measures, promoting social distancing, providing hand hygiene stations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1999.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Population Density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1880.md)
 

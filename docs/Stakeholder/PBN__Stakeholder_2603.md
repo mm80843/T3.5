@@ -2,13 +2,9 @@
 
 # __IT engineer__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q56285767](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q56285767.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Technology Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_12.md)
+* [Entities and individuals who interact with or are affected by a system, organization, or public facility.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_1.md)
 
 ## Closest similar item
 
@@ -26,4 +22,12 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Information Technology and Technical Support](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_150.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q56285767](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q56285767.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Technology Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_12.md)
 

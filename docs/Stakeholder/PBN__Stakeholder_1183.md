@@ -2,12 +2,9 @@
 
 # __administrators__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Inadequate ventilation in public buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1776.md)
-* [Use of air cleaning and disinfection devices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1780.md)
-* [Minimizing the number of people in indoor environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1781.md)
-* [Insufficient air circulation and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1779.md)
+* [Experts who oversee and manage various aspects of public and private administration, including cybersecurity, commerce, education, and infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_400.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [school administrator](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1640.md)
 * [network administrators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1433.md)
 * [Network administrators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1663.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Inadequate ventilation in public buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1776.md)
+* [Use of air cleaning and disinfection devices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1780.md)
+* [Minimizing the number of people in indoor environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1781.md)
+* [Insufficient air circulation and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1779.md)
 

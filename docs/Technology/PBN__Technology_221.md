@@ -2,9 +2,9 @@
 
 # __community health centers__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q569500](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q569500.md)
+* [Improved healthcare infrastructure and resources enable public health authorities to implement effective messaging and interventions, ensuring equitable access to healthcare facilities and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_209.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1088.md)
 * [Healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2246.md)
 * [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_336.md)
+
+## This Technology is identified by the following QID
+
+* [Q569500](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q569500.md)
 

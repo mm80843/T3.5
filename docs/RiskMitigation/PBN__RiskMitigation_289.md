@@ -2,13 +2,9 @@
 
 # __Taking steps to reduce inequality__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Increase in inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_240.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduced inequality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_293.md)
+* [Efforts include RNA monitoring, occupant exposure modeling, targeted messages, adoption of principles, copper coating, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_311.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Reduction in traffic volumes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_814.md)
 * [Reduce opportunities to violate measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1216.md)
 * [Mitigation measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1290.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced inequality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_293.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Increase in inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_240.md)
 

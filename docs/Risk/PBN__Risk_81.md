@@ -2,9 +2,9 @@
 
 # __Lunar New Year travel season__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Specific approaches for containment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_98.md)
+* [The changing landscape of travel and transportation has led to concerns over safety, reduced demand, and inadequate infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_125.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Need for sustainable travel options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_530.md)
 * [Religious pilgrimages](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1886.md)
 * [Decline in tourism revenue](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2586.md)
+
+## Mitigations of this risk
+
+* [Specific approaches for containment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_98.md)
 

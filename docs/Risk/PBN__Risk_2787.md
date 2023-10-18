@@ -2,9 +2,9 @@
 
 # __Airborne transmission of diseases__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Facemasks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_881.md)
+* [The dispersion of respiratory particles through the air can lead to the transmission of diseases.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_138.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Spread of other airborne pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2298.md)
 * [Airborne pathogen generation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1188.md)
 * [Airborne transmission of infectious microorganisms indoors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_336.md)
+
+## Mitigations of this risk
+
+* [Facemasks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_881.md)
 

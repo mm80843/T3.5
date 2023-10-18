@@ -2,9 +2,9 @@
 
 # __print media__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Public health education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1014.md)
+* [The digital revolution encompasses various aspects, from online promotion to contactless payment systems and virtual learning platforms.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_190.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [improved 3d printing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2015.md)
 * [Improved 3D printing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2717.md)
 * [media monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1286.md)
+
+## This Technology enables the following mitigations
+
+* [Public health education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1014.md)
 

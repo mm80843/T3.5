@@ -2,9 +2,9 @@
 
 # __bipolar ionization technology__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Bipolar ionization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1307.md)
+* [The range of materials and techniques listed includes various disinfectants, nanomaterials, manufacturing methods, coatings, sustainability measures, and analytical tools.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_237.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [irradiation chambers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_312.md)
 * [electrochemical reactions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3078.md)
 * [air disinfector based on plasma](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4415.md)
+
+## This Technology enables the following mitigations
+
+* [Bipolar ionization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1307.md)
 

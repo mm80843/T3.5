@@ -2,13 +2,9 @@
 
 # __Decentralizing economic activities__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Spatial variations in disease spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_287.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction in epidemic growth](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_356.md)
+* [Promote sustainable development through infrastructure investments, training, diversification, financial support, and government partnerships.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_315.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implementation of circular economy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_669.md)
 * [Implement wealth redistribution measures, provide social safety nets, invest in education and training opportunities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1952.md)
 * [Implement measures to reduce population density, such as decentralization and expanding horizontally](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2303.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction in epidemic growth](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_356.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Spatial variations in disease spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_287.md)
 

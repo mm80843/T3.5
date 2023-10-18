@@ -2,9 +2,9 @@
 
 # __cyber-physical systems__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Industry 4.0 technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1621.md)
+* [Advanced technologies and algorithms for modeling, simulation, optimization, and artificial intelligence in various applications, including robotics and computational fluid dynamics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_239.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [digital control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1315.md)
 * [communication systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1057.md)
 * [security systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1881.md)
+
+## This Technology enables the following mitigations
+
+* [Industry 4.0 technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1621.md)
 

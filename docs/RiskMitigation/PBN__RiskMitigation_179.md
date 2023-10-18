@@ -2,13 +2,9 @@
 
 # __Eviction diversion programs__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Eviction increases the risk of COVID-19 acquisition and transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_147.md)
-
-## Property: has_MitigationBenefit
-
-* [Decreased eviction rates](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_197.md)
+* [Implement comprehensive measures to ensure support, protection, and assistance for vulnerable populations during the pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_349.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implement social protection programs and financial incentives to support vulnerable families](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1494.md)
 * [Establish alternative support systems such as online counseling and helplines, ensure shelters remain open and accessible during lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1470.md)
 * [Temporary closure of non-essential public places until recovery is reached.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1729.md)
+
+## Property: has_MitigationBenefit
+
+* [Decreased eviction rates](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_197.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Eviction increases the risk of COVID-19 acquisition and transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_147.md)
 

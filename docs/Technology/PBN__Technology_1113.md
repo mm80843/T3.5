@@ -2,14 +2,13 @@
 
 # __regular maintenance and inspection of ventilation systems__
 
+## Category to which it belongs
+
+* [Improved ventilation and air purification methods are implemented, incorporating natural and mechanical systems, upgraded technologies, regular maintenance, and smart controls.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_200.md)
+
 ## Risks linked to this technology
 
 * [Inefficient ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1741.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Ventilation Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_77.md)
-* [Hygiene and Sanitation Practices and Protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_60.md)
 
 ## Closest similar item
 
@@ -24,12 +23,17 @@
 * [ventilation system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3194.md)
 * [ventilation system modifications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3822.md)
 
+## This Technology is identified by the following QID
+
+* [Q584049](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q584049.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Ventilation Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_77.md)
+* [Hygiene and Sanitation Practices and Protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_60.md)
+
 ## This Technology belongs to this TechGroup
 
 * [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
 * [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_13.md)
-
-## This Technology is identified by the following QID
-
-* [Q584049](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q584049.md)
 

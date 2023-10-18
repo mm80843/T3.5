@@ -2,9 +2,9 @@
 
 # __patients in need of medical care__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Overwhelming healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1387.md)
+* [Various individuals in the healthcare industry, including epidemiologists, medical personnel, clinicians, surgeons, and patients in need of medical care.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_360.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [healthcare workers and patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_215.md)
 * [healthcare professionals in healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1002.md)
 * [health care personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1064.md)
+
+## Risk affecting this stakeholder
+
+* [Overwhelming healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1387.md)
 

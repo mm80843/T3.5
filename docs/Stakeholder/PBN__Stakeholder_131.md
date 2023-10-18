@@ -7,6 +7,10 @@
 * [Improved mental health and well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_223.md)
 * [Enhanced mental health support](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_224.md)
 
+## Category to which it belongs
+
+* [Individuals engaged in various types of work, from employees and office workers to agricultural and hospitality workers.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_379.md)
+
 ## Closest similar item
 
 * [workers in all industries](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_841.md)

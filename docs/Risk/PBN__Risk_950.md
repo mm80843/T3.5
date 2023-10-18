@@ -2,9 +2,9 @@
 
 # __Decline in urban park visitation during COVID-19__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Increase park access](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1319.md)
+* [The far-reaching consequences of COVID-19 include its transmission through various settings, impact on urban areas, and scarcity of resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Social vulnerability and park use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1618.md)
 * [Changing behaviors and perceptions towards urban green space during COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_349.md)
 * [Spread of COVID-19 in public housing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_383.md)
+
+## Mitigations of this risk
+
+* [Increase park access](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1319.md)
 

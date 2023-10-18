@@ -2,13 +2,9 @@
 
 # __Reduced human interference__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Wildlife conservation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_151.md)
-
-## Property: has_MitigationBenefit
-
-* [Protection of wildlife](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_201.md)
+* [Efforts include RNA monitoring, occupant exposure modeling, targeted messages, adoption of principles, copper coating, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_311.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Maintaining social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_251.md)
 * [Reduced noise levels](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_185.md)
 * [Maintain clear communication, demonstrate safety measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2058.md)
+
+## Property: has_MitigationBenefit
+
+* [Protection of wildlife](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_201.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Wildlife conservation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_151.md)
 

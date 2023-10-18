@@ -2,9 +2,9 @@
 
 # __travel management systems__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_11.md)
+* [Enhancing accessibility and support through a range of remote healthcare, counseling, transportation, and translation services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_213.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [travel policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4040.md)
 * [travel regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4116.md)
 * [travel advisories and restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1567.md)
+
+## This Technology enables the following mitigations
+
+* [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_11.md)
 

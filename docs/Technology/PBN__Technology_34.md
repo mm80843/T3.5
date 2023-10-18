@@ -2,9 +2,9 @@
 
 # __stockpiling technologies__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q3761396](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3761396.md)
+* [Technological advancements encompass a wide range of innovations, such as blockchain, touchless, renewable energy, and communication technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Targeted investments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2733.md)
 * [technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3618.md)
 * [inventory management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1134.md)
+
+## This Technology is identified by the following QID
+
+* [Q3761396](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3761396.md)
 

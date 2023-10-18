@@ -2,9 +2,9 @@
 
 # __Lack of quantitative understanding of the impact of social distancing measures on building occupant exposure__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Universal occupant exposure model](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_9.md)
+* [Challenges in building industry include lack of understanding, high costs, inadequate preparedness, and slow adoption of new technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_98.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Individual exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3271.md)
 * [Importance of social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1159.md)
 * [Non-compliance with social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3200.md)
+
+## Mitigations of this risk
+
+* [Universal occupant exposure model](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_9.md)
 

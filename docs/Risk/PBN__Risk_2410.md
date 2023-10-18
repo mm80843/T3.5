@@ -2,9 +2,9 @@
 
 # __Infection control__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [High-rise density](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_22.md)
+* [The dissemination of infectious diseases, characterized by outbreaks from various sources, inadequate preparedness, and insufficient reporting and understanding, poses a global threat.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_106.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Variation in protection against re-infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1914.md)
 * [Infectious disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2938.md)
 * [Infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_711.md)
+
+## Mitigations of this risk
+
+* [High-rise density](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_22.md)
 

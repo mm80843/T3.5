@@ -2,22 +2,9 @@
 
 # __low-income populations__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q191159](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q191159.md)
-
-## Closest similar item
-
-* [Low-income populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2219.md)
-* [Low-income population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2300.md)
-* [low-income individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_21.md)
-* [Low-income individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2117.md)
-* [individuals in low-income areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1566.md)
-* [low-income citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_510.md)
-* [Low-income citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2324.md)
-* [affected populations in low-income areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_280.md)
-* [Low-income community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2373.md)
-* [low-income residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_490.md)
+* [A diverse array of groups and individuals, encompassing all segments of society and the natural world.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_363.md)
 
 ## Risk affecting this stakeholder
 
@@ -33,7 +20,24 @@
 * [Sample bias in wearable device studies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1111.md)
 * [Eviction and Housing Displacement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1182.md)
 
+## Closest similar item
+
+* [Low-income populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2219.md)
+* [Low-income population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2300.md)
+* [low-income individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_21.md)
+* [Low-income individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2117.md)
+* [individuals in low-income areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1566.md)
+* [low-income citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_510.md)
+* [Low-income citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2324.md)
+* [affected populations in low-income areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_280.md)
+* [Low-income community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2373.md)
+* [low-income residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_490.md)
+
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Reduced COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_195.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q191159](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q191159.md)
 

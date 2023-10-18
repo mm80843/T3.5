@@ -2,9 +2,9 @@
 
 # __Spread of SARS-CoV-2 virus__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Wastewater-based monitoring (WBE)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_0.md)
+* [The widespread transmission and persistence of the SARS-CoV-2 virus in various environments and the challenges in detecting and removing it.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_93.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Spread of SARS-CoV-2 through contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_70.md)
 * [Spread of SARS-CoV-2 through contact with contaminated solids](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_698.md)
 * [Spread of SARS-CoV-2 through aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_69.md)
+
+## Mitigations of this risk
+
+* [Wastewater-based monitoring (WBE)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_0.md)
 

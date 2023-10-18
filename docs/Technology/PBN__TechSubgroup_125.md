@@ -2,10 +2,9 @@
 
 # __Urban Planning and Zoning__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [Zoning regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2493.md)
-* [Building codes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2355.md)
+* [Connected technologies for monitoring, tracking, and planning in urban areas and homes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_21.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Smart City and Occupancy Tracking Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_150.md)
 * [Crowd and Occupancy Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_13.md)
 * [Building Systems and Design](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_89.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [Zoning regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2493.md)
+* [Building codes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2355.md)
 

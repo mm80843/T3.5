@@ -2,9 +2,9 @@
 
 # __Improve working conditions and support for healthcare professionals__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Inadequate working conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2025.md)
+* [Enhancing healthcare infrastructure, increasing capacity, and ensuring access to medical resources and services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_330.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Promoting communication, collaboration, and providing material support and resources to healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1994.md)
 * [Safe work practices in healthcare settings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_505.md)
 * [Strengthen primary healthcare](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1072.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inadequate working conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2025.md)
 

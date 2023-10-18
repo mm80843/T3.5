@@ -2,9 +2,9 @@
 
 # __Physical interaction__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Increased use of technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1565.md)
+* [The ramifications of social distancing include inconsistent recommendations, increased violence, changes in social practices, and lack of interaction, among other social issues.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_96.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Airborne or close contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3002.md)
 * [Communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3216.md)
 * [Reduced social interaction due to social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_853.md)
+
+## Mitigations of this risk
+
+* [Increased use of technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1565.md)
 

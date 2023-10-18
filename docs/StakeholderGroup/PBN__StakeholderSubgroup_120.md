@@ -2,10 +2,9 @@
 
 # __Research Institutions__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [government research institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_994.md)
-* [wbe research community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2408.md)
+* [Entities within a community that inhabit, educate, employ, and contribute to the advancement of knowledge.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_244.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Training Organizations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_18.md)
 * [Environmental Management and Research](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_162.md)
 * [Regulatory Bodies](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_2.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [government research institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_994.md)
+* [wbe research community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2408.md)
 

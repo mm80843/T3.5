@@ -2,9 +2,9 @@
 
 # __Limited capacity of domestic violence services__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Increased Support for Domestic Violence Services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1457.md)
+* [The ramifications of social distancing include inconsistent recommendations, increased violence, changes in social practices, and lack of interaction, among other social issues.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_96.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1766.md)
 * [Domestic violence threat](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2223.md)
 * [Impact on families and domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_833.md)
+
+## Mitigations of this risk
+
+* [Increased Support for Domestic Violence Services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1457.md)
 

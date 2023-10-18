@@ -2,13 +2,9 @@
 
 # __Blockchain technology__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
-
-## Property: has_MitigationBenefit
-
-* [Secure data sharing and transparency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1094.md)
+* [Enable transparent and secure data management, traceability, and efficient distribution while promoting accurate information dissemination and verification.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_321.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Blockchain security protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3220.md)
 * [blockchain security protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3221.md)
 * [financial technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3222.md)
+
+## Property: has_MitigationBenefit
+
+* [Secure data sharing and transparency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1094.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
 

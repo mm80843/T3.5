@@ -2,10 +2,9 @@
 
 # __Musculoskeletal disorders__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Ergonomic design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1304.md)
-* [Ergonomic design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_174.md)
+* [A compilation of topics including energy use, mechanisms, gender inequality, contractual issues, musculoskeletal disorders, and mental health among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_136.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3347.md)
 * [Lack of access to regular sporting or exercise routines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1716.md)
 * [Lack of flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2699.md)
+
+## Mitigations of this risk
+
+* [Ergonomic design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1304.md)
+* [Ergonomic design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_174.md)
 

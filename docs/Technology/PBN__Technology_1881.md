@@ -2,9 +2,9 @@
 
 # __security systems__
 
-## Risks linked to this technology
+## Category to which it belongs
 
-* [Bioterrorism threats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2299.md)
+* [Various security measures, such as encryption, authentication protocols, secure data storage, and blockchain, are used to protect digital platforms and ensure privacy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_201.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [smart systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3256.md)
 * [surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_0.md)
 * [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2434.md)
+
+## Risks linked to this technology
+
+* [Bioterrorism threats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2299.md)
 

@@ -2,9 +2,9 @@
 
 # __delivery services__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Promoting online shopping and delivery services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2279.md)
+* [Enhancing accessibility and support through a range of remote healthcare, counseling, transportation, and translation services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_213.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [coordinated services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4080.md)
 * [food delivery apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1219.md)
 * [logistics systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1539.md)
+
+## This Technology enables the following mitigations
+
+* [Promoting online shopping and delivery services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2279.md)
 

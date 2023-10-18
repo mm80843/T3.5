@@ -2,14 +2,9 @@
 
 # __construction firms__
 
-## This Stakeholder can get these Benefits from mitigation measures
+## Category to which it belongs
 
-* [Business continuity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_679.md)
-* [Risk mitigation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_680.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q13405640](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q13405640.md)
+* [Individuals involved in the design, construction, management, and occupation of various types of buildings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_367.md)
 
 ## Closest similar item
 
@@ -23,4 +18,13 @@
 * [construction industry professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1308.md)
 * [builders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_585.md)
 * [construction industry stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_345.md)
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Business continuity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_679.md)
+* [Risk mitigation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_680.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q13405640](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q13405640.md)
 

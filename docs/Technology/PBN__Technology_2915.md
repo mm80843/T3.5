@@ -2,9 +2,9 @@
 
 # __vaccination__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Herd Immunity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_37.md)
+* [Advancements in molecular biology, diagnostics, vaccines, antiviral technologies, and disease surveillance for pathogen detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_223.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [vaccine development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_837.md)
 * [vaccination distribution systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3892.md)
 * [vaccine development and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1604.md)
+
+## This Technology enables the following mitigations
+
+* [Herd Immunity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_37.md)
 

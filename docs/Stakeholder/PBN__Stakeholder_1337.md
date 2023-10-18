@@ -2,9 +2,9 @@
 
 # __particularly females__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Impact of social distancing and home confinement on mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1989.md)
+* [Entities and individuals who interact with or are affected by a system, organization, or public facility.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_1.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [women](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_23.md)
 * [especially urban dwellers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1038.md)
 * [especially the younger population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_458.md)
+
+## Risk affecting this stakeholder
+
+* [Impact of social distancing and home confinement on mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1989.md)
 

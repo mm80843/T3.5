@@ -2,9 +2,9 @@
 
 # __free wi-fi hotspots__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q334765](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q334765.md)
+* [Enhanced connectivity and diverse communication platforms enable the dissemination of reliable information and promote open communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_225.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [high-speed internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4282.md)
 * [fifth-generation wireless networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3879.md)
 * [broadband access](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1938.md)
+
+## This Technology is identified by the following QID
+
+* [Q334765](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q334765.md)
 

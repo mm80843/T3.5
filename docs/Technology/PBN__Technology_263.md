@@ -2,9 +2,9 @@
 
 # __anti-sars-cov-2 coatings__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q82069695](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q82069695.md)
+* [Advancements in molecular biology, diagnostics, vaccines, antiviral technologies, and disease surveillance for pathogen detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_223.md)
 
 ## Risks linked to this technology
 
@@ -24,4 +24,8 @@
 * [antimicrobial coating](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3484.md)
 * [Antimicrobial coating](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4551.md)
 * [carbon-based coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3856.md)
+
+## This Technology is identified by the following QID
+
+* [Q82069695](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q82069695.md)
 

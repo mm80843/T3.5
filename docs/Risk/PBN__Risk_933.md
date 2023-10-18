@@ -2,9 +2,9 @@
 
 # __Air pollution and COVID-19 infections__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Improvement of air quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1294.md)
+* [The far-reaching consequences of COVID-19 include its transmission through various settings, impact on urban areas, and scarcity of resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Spread of COVID-19 through sewage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_932.md)
 * [Wide-ranging impacts of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_363.md)
 * [Spread of COVID-19 through contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_653.md)
+
+## Mitigations of this risk
+
+* [Improvement of air quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1294.md)
 

@@ -2,9 +2,9 @@
 
 # __3D Printing__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [Improved 3D printing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2717.md)
+* [Additive manufacturing process that creates objects by layering materials according to digital designs.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_58.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Building Design and Construction](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_181.md)
 * [Contact Tracing Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_23.md)
 * [Hardware and Devices](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_117.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [Improved 3D printing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2717.md)
 

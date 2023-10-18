@@ -2,9 +2,9 @@
 
 # __Develop models that integrate crowd dynamics with epidemiological modeling__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Incomplete macroscopic models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2003.md)
+* [Promotion and enforcement of physical separation measures to prevent the spread of disease.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_327.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement crowd management strategies, such as appointment systems, queue management, and social distancing measures. Increase the number of vaccination sites and healthcare personnel.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2508.md)
 * [Implement crowd control measures, promote social distancing, expand infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1955.md)
 * [Less crowded living environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_444.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Incomplete macroscopic models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2003.md)
 

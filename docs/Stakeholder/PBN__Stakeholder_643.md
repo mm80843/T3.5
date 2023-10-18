@@ -2,13 +2,13 @@
 
 # __hvac technicians__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q1798773](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1798773.md)
+* [Experts from various fields including research, risk assessment, education, science, HVAC, and IT.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_356.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
+* [HVAC characteristics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1484.md)
 
 ## Closest similar item
 
@@ -23,13 +23,6 @@
 * [Professionals in HVAC and engineering fields](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1806.md)
 * [Professional in HVAC and engineering field](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1775.md)
 
-## Risk affecting this stakeholder
-
-* [HVAC characteristics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1484.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-
 ## Risks that can be mitigated by this stakeholder
 
 * [Inadequate Ventilation in Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1442.md)
@@ -42,4 +35,15 @@
 * [Inadequate Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1117.md)
 * [Lack of proper ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1575.md)
 * [Virus transmission via air circulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1637.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+
+## This Stakeholder is identified by the following QID
+
+* [Q1798773](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1798773.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
 

@@ -2,9 +2,9 @@
 
 # __smartwatch data__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Self-Reported Symptoms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_163.md)
+* [Advanced monitoring systems and sensor integration for IoT devices and biosensor technology facilitate environmental monitoring and facility usage tracking.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_229.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [cell phone data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3998.md)
 * [smart meters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_668.md)
 * [Smart meters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2843.md)
+
+## This Technology enables the following mitigations
+
+* [Self-Reported Symptoms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_163.md)
 

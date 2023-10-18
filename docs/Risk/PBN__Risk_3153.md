@@ -2,9 +2,9 @@
 
 # __Inability to physically distance__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Appropriate unit sizes and layouts that support physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1600.md)
+* [The challenges include reduced surgical education, loss of control, limited diagnostics, slow drug development, inadequate patient monitoring, and lack of drug therapy options.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_110.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of awareness and safe distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3205.md)
 * [Ineffective reachability to patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_997.md)
 * [Lack of control over movement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3208.md)
+
+## Mitigations of this risk
+
+* [Appropriate unit sizes and layouts that support physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1600.md)
 

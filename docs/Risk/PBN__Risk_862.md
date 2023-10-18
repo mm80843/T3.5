@@ -2,9 +2,9 @@
 
 # __Higher risk of reinfection in unvaccinated individuals__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Increase vaccination coverage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1186.md)
+* [The challenges in vaccination include limited storage capacity, high patient demand, inefficient resource use, distribution difficulties, waning vaccine effectiveness, and unequal access.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_113.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Exposure to pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2424.md)
 * [Lack of vaccine or cure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1748.md)
 * [Risk of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2469.md)
+
+## Mitigations of this risk
+
+* [Increase vaccination coverage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1186.md)
 

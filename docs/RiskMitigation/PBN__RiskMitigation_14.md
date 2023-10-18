@@ -2,13 +2,9 @@
 
 # __Implementing data-driven decision-making processes__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_10.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced supply chain performance and risk management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_22.md)
+* [Promote standardized data collection, ontology-based representation, and enhanced data sharing to improve decision-making processes and data quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_319.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Rigorous data validation processes, integration of multiple reliable data sources, expert review and validation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3002.md)
 * [Implement standardized data collection methods, invest in data integration platforms and tools.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1543.md)
 * [Provide training and support for stakeholders in data analysis and interpretation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2066.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced supply chain performance and risk management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_22.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_10.md)
 

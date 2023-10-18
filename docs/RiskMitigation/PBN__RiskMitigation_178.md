@@ -2,13 +2,9 @@
 
 # __Rental assistance programs__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Eviction increases the risk of COVID-19 acquisition and transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_147.md)
-
-## Property: has_MitigationBenefit
-
-* [Increased housing stability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_196.md)
+* [Implement comprehensive measures to ensure support, protection, and assistance for vulnerable populations during the pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_349.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Provide financial assistance and resources to individuals and families facing economic hardship, promote economic empowerment programs for women](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1471.md)
 * [Provide financial assistance programs, energy efficiency upgrades, and education on energy-saving practices for low-income households.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2097.md)
 * [Social protection programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1071.md)
+
+## Property: has_MitigationBenefit
+
+* [Increased housing stability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_196.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Eviction increases the risk of COVID-19 acquisition and transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_147.md)
 

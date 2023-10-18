@@ -2,11 +2,9 @@
 
 # __climate change communicators__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Lack of emphasis on public health impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1402.md)
-* [Misunderstanding of the permanence of climate change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1403.md)
-* [Lack of immediate threat perception](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1401.md)
+* [The realm of nature and its impact on humanity, from researchers and scientists to workers and individuals.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_373.md)
 
 ## Closest similar item
 
@@ -20,4 +18,10 @@
 * [communication agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1829.md)
 * [hvac professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1164.md)
 * [environmental researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2669.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Lack of emphasis on public health impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1402.md)
+* [Misunderstanding of the permanence of climate change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1403.md)
+* [Lack of immediate threat perception](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1401.md)
 

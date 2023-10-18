@@ -2,9 +2,9 @@
 
 # __Fraudulent research activities, lack of reproducibility__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Reproducible analytics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_567.md)
+* [The proliferation of false and misleading information, misinformation, and inaccurate news during pandemics creates confusion and a lack of trust in reliable sources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_127.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Amplification of flawed data through meta-analyses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2333.md)
 * [Misleading peer-reviewed publications](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1518.md)
 * [Loss of monitoring and research activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2175.md)
+
+## Mitigations of this risk
+
+* [Reproducible analytics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_567.md)
 

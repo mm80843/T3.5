@@ -2,9 +2,9 @@
 
 # __telecommunication tools__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1780509](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1780509.md)
+* [Enhanced connectivity and diverse communication platforms enable the dissemination of reliable information and promote open communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_225.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_168.md)
 * [Communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2301.md)
 * [teleconferencing tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4025.md)
+
+## This Technology is identified by the following QID
+
+* [Q1780509](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1780509.md)
 

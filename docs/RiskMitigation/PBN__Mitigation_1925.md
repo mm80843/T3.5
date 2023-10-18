@@ -2,10 +2,9 @@
 
 # __Antimicrobial Resistance Gene Monitoring__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [qpcr techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4139.md)
-* [next generation sequencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4141.md)
+* [Enhanced disease investigation and prevention methods, including biomarkers, antimicrobial coatings, and AI-driven tools, advance public health.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_155.md)
 
 ## Closest similar item
 
@@ -20,14 +19,19 @@
 * [Modify the built environment microbiome](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_973.md)
 * [Bioinformatics Tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_766.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Broad perspective of resistance genes in a population, complement clinical data, monitor resistance trends, assess impacts of antimicrobial prescribing
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Future perspectives of wastewater-based epidemiology: Monitoring infectious disease spread and resistance to the community level](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_48.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [qpcr techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4139.md)
+* [next generation sequencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4141.md)
 

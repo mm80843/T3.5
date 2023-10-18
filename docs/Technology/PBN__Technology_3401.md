@@ -2,9 +2,9 @@
 
 # __building retrofits__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Retrofits](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_713.md)
+* [Design and construction professionals use innovative techniques and strategies to create adaptable, sustainable, and inclusive buildings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_217.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Advanced building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2662.md)
 * [use modular design systems and adjustable walls/screens in apartment layouts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1267.md)
 * [architecture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3431.md)
+
+## This Technology enables the following mitigations
+
+* [Retrofits](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_713.md)
 

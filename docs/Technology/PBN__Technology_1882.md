@@ -2,9 +2,9 @@
 
 # __environmental controls__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1295154](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1295154.md)
+* [Promotion of environmentally-friendly practices, green infrastructure, sustainable housing, renewable energy, and responsible building to enhance spaces and mitigate climate change.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_224.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Environmental monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2533.md)
 * [environmental monitoring and pollution control technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1674.md)
 * [environmental surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3632.md)
+
+## This Technology is identified by the following QID
+
+* [Q1295154](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1295154.md)
 

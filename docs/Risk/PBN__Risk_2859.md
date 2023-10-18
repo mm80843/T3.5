@@ -2,9 +2,9 @@
 
 # __Travel-related risk__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Travel Restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_710.md)
+* [The changing landscape of travel and transportation has led to concerns over safety, reduced demand, and inadequate infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_125.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Disruption in the travel and tourism industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_679.md)
 * [Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_985.md)
 * [Individual responsibility for travel choices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_531.md)
+
+## Mitigations of this risk
+
+* [Travel Restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_710.md)
 

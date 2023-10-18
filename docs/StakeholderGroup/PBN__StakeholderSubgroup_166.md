@@ -2,17 +2,9 @@
 
 # __Emergency Services and Management__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [disaster response teams](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2713.md)
-* [emergency management agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1253.md)
-* [emergency management agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2720.md)
-* [emergency response agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_558.md)
-* [emergency response agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2714.md)
-* [emergency responders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_484.md)
-* [emergency responder](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2722.md)
-* [emergency services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_539.md)
-* [emergency service](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2715.md)
+* [Managing essential resources, handling emergencies, and overseeing urban systems are all components of societal infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_267.md)
 
 ## Closest similar item
 
@@ -26,4 +18,16 @@
 * [Healthcare Providers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_51.md)
 * [Healthcare Administration](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_49.md)
 * [Departments and Teams](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_26.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [disaster response teams](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2713.md)
+* [emergency management agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1253.md)
+* [emergency management agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2720.md)
+* [emergency response agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_558.md)
+* [emergency response agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2714.md)
+* [emergency responders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_484.md)
+* [emergency responder](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2722.md)
+* [emergency services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_539.md)
+* [emergency service](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2715.md)
 

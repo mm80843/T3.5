@@ -2,9 +2,9 @@
 
 # __strengthen border control__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q218719](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q218719.md)
+* [Government actions and regulations addressing various aspects of society, including policy changes, ethical frameworks, governance mechanisms, and public announcements.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_216.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [protective barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_229.md)
 * [Protective barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2549.md)
 * [government intervention](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3561.md)
+
+## This Technology is identified by the following QID
+
+* [Q218719](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q218719.md)
 

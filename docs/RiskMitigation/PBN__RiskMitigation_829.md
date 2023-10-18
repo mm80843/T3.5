@@ -2,13 +2,9 @@
 
 # __Stress management and coping__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Psychological sequelae associated with mass home confinement directives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_592.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved stress management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_832.md)
+* [Enforce safety measures, promote responsible behavior, utilize PPE, and prioritize risk prevention to ensure adequate protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_342.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Increase access to mental health services, promote mental health awareness and support, provide coping mechanisms and resources.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2913.md)
 * [Psychosocial support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_828.md)
 * [Implement mental health supporting strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_52.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved stress management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_832.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Psychological sequelae associated with mass home confinement directives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_592.md)
 

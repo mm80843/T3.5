@@ -2,9 +2,9 @@
 
 # __geographic information systems (gis) software__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Land use data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2206.md)
+* [A list of diverse software tools, including financial management, construction technology, project management, communication, and monitoring software.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_219.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Geographic information systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2385.md)
 * [gis software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3828.md)
 * [geographical information systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3116.md)
+
+## This Technology enables the following mitigations
+
+* [Land use data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2206.md)
 

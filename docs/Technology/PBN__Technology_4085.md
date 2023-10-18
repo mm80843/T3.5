@@ -2,9 +2,9 @@
 
 # __fluorescent lamps__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [UV-Light radiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1813.md)
+* [Innovative lighting solutions harnessing ultraviolet technology for optimal germicidal sterilization and energy efficiency, while maximizing natural light.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_235.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [germicidal uv lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3833.md)
 * [filtered excimer lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3154.md)
 * [fluorescent staining protocol](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3158.md)
+
+## This Technology enables the following mitigations
+
+* [UV-Light radiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1813.md)
 

@@ -2,9 +2,9 @@
 
 # __Logistics inefficiency__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Tracking logistics in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2351.md)
+* [Supply chain disruptions and logistical challenges have caused global supply chains to be heavily impacted.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_99.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Increase in demand, logistical challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3082.md)
 * [Increased demand, logistical challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3084.md)
 * [Imbalance of supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3297.md)
+
+## Mitigations of this risk
+
+* [Tracking logistics in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2351.md)
 

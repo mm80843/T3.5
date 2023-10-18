@@ -2,13 +2,13 @@
 
 # __water management agencies__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q1501619](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1501619.md)
+* [Individuals and organizations involved in the management and treatment of water, waste, and wastewater.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_397.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
+* [Lack of multi-sectoral collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1648.md)
 
 ## Closest similar item
 
@@ -23,11 +23,15 @@
 * [water utilities/policy makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_400.md)
 * [water utilities/workforce](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_399.md)
 
-## Risk affecting this stakeholder
-
-* [Lack of multi-sectoral collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1648.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Water Management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_117.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q1501619](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1501619.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
 

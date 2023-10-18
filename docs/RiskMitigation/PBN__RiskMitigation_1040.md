@@ -2,13 +2,9 @@
 
 # __Enhance local production capacity__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Gaps in capacity and resilience across industries and organizations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_752.md)
-
-## Property: has_MitigationBenefit
-
-* [Increased self-sufficiency and resilience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1037.md)
+* [Promote flexibility and resilience in supply chains through diversification, local production, and proactive strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_320.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Develop alternative supply chains, increase production and distribution capacity.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1519.md)
 * [Implementing capacity limitations, optimizing space utilization, and promoting remote work](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1694.md)
 * [Strengthen supply chains, increase production capacity, improve stockpiling and distribution systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1451.md)
+
+## Property: has_MitigationBenefit
+
+* [Increased self-sufficiency and resilience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1037.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Gaps in capacity and resilience across industries and organizations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_752.md)
 

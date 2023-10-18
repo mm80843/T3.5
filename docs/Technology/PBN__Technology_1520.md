@@ -2,9 +2,9 @@
 
 # __iot devices for monitoring and controlling occupancy and airflow__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q7075748](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7075748.md)
+* [Advanced monitoring systems and sensor integration for IoT devices and biosensor technology facilitate environmental monitoring and facility usage tracking.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_229.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Occupancy tracking sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2861.md)
 * [occupancy tracking sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_334.md)
 * [iot sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3790.md)
+
+## This Technology is identified by the following QID
+
+* [Q7075748](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7075748.md)
 

@@ -2,13 +2,9 @@
 
 # __Strengthening planning mechanism__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Economic crisis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_231.md)
-
-## Property: has_MitigationBenefit
-
-* [Sustainable development](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_285.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implementing scenario planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_12.md)
 * [Improve urban planning to provide adequate housing, infrastructure, and services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1453.md)
 * [Incorporate design flexibility in the planning and construction process.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2252.md)
+
+## Property: has_MitigationBenefit
+
+* [Sustainable development](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_285.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Economic crisis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_231.md)
 

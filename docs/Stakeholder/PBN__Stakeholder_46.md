@@ -2,9 +2,21 @@
 
 # __scientists__
 
-## This Stakeholder belongs to this StakeholderGroup
+## This Stakeholder can get these Benefits from mitigation measures
 
-* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
+* [Data integration](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_60.md)
+* [Data analysis efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_61.md)
+* [Data sharing and integration](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_62.md)
+* [Standardized knowledge representation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_63.md)
+* [Thorough study of anti-coronavirus drugs](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_64.md)
+* [Vaccine design and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_65.md)
+* [Enhanced credibility and reputation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1020.md)
+* [Knowledge sharing and research development](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1022.md)
+* [Access to real-time data](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1050.md)
+
+## Category to which it belongs
+
+* [Experts from various fields including research, risk assessment, education, science, HVAC, and IT.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_356.md)
 
 ## Closest similar item
 
@@ -18,42 +30,6 @@
 * [scientific community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_348.md)
 * [medical researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_687.md)
 * [ecologists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1461.md)
-
-## Risk affecting this stakeholder
-
-* [Disintegrated and non-interoperable data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1451.md)
-* [Lack of ontology interoperability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1453.md)
-* [Lack of bioinformatics tools](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1452.md)
-* [Incomplete coverage of information in ontologies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1454.md)
-* [Rapidly changing understanding of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1455.md)
-* [Lack of control of environmental conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1250.md)
-* [Insufficient knowledge of COVID-19 inactivation mechanisms on copper coatings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1496.md)
-* [Confounding variables](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1384.md)
-* [Lack of real-time data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_762.md)
-* [Cell entry of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2359.md)
-* [Spread of fraudulent studies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_615.md)
-* [Loss of validity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1383.md)
-* [Effects of nebulization and impingement on viral survival](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2301.md)
-* [Contextual factors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1386.md)
-* [Poor solubility and processing of graphene materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1133.md)
-* [Relationship between AH, RH, and temperature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1706.md)
-* [Loss of monitoring and research activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2175.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Scientific Research](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_39.md)
-
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Data integration](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_60.md)
-* [Data analysis efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_61.md)
-* [Data sharing and integration](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_62.md)
-* [Standardized knowledge representation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_63.md)
-* [Thorough study of anti-coronavirus drugs](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_64.md)
-* [Vaccine design and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_65.md)
-* [Enhanced credibility and reputation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1020.md)
-* [Knowledge sharing and research development](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1022.md)
-* [Access to real-time data](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1050.md)
 
 ## Risks that can be mitigated by this stakeholder
 
@@ -83,4 +59,32 @@
 * [UV dosage levels required under different conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2302.md)
 * [Unclear origin of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2358.md)
 * [Inefficient VOC removal by plants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2306.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Scientific Research](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_39.md)
+
+## Risk affecting this stakeholder
+
+* [Disintegrated and non-interoperable data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1451.md)
+* [Lack of ontology interoperability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1453.md)
+* [Lack of bioinformatics tools](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1452.md)
+* [Incomplete coverage of information in ontologies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1454.md)
+* [Rapidly changing understanding of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1455.md)
+* [Lack of control of environmental conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1250.md)
+* [Insufficient knowledge of COVID-19 inactivation mechanisms on copper coatings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1496.md)
+* [Confounding variables](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1384.md)
+* [Lack of real-time data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_762.md)
+* [Cell entry of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2359.md)
+* [Spread of fraudulent studies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_615.md)
+* [Loss of validity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1383.md)
+* [Effects of nebulization and impingement on viral survival](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2301.md)
+* [Contextual factors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1386.md)
+* [Poor solubility and processing of graphene materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1133.md)
+* [Relationship between AH, RH, and temperature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1706.md)
+* [Loss of monitoring and research activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2175.md)
 

@@ -2,13 +2,9 @@
 
 # __Implement effective communication__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Psychological impact of quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_33.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction of anxiety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_54.md)
+* [Facilitate transparent communication, enabling reliable information sharing through standardized protocols and effective channels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_0.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Centralized communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1443.md)
 * [Facilitate transparent communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3138.md)
 * [Improve communication channels, provide clear and consistent information.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2691.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction of anxiety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_54.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Psychological impact of quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_33.md)
 

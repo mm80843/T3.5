@@ -2,9 +2,9 @@
 
 # __Shortage of experienced healthcare personnel__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Relocation of healthcare personnel](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_396.md)
+* [Healthcare systems overwhelmed with limited resources, shortage of personnel, and inadequate infrastructure face challenges in providing accessible and quality care.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_101.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Healthcare workers at risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_477.md)
 * [Difficulty of access for medical personnel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2930.md)
 * [Lack of access to healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2503.md)
+
+## Mitigations of this risk
+
+* [Relocation of healthcare personnel](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_396.md)
 

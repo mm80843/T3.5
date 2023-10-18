@@ -2,9 +2,9 @@
 
 # __smart infrastructure__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [IoT-enabled hospital](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1178.md)
+* [The built environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_230.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [infrastructure support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2953.md)
 * [Smart city technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2734.md)
 * [smart city technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_471.md)
+
+## This Technology enables the following mitigations
+
+* [IoT-enabled hospital](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1178.md)
 

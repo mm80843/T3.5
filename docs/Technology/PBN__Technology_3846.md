@@ -2,9 +2,9 @@
 
 # __cross-population ai models__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Cross-population train/test-based AI models for virus detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1404.md)
+* [Advanced technologies and algorithms for modeling, simulation, optimization, and artificial intelligence in various applications, including robotics and computational fluid dynamics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_239.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [ai technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3771.md)
 * [AI technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2044.md)
 * [ai-backed systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1314.md)
+
+## This Technology enables the following mitigations
+
+* [Cross-population train/test-based AI models for virus detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1404.md)
 

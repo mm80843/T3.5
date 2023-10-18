@@ -2,10 +2,9 @@
 
 # __Blockchain and Quantum Cryptography__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_94.md)
-* [quantum cryptography](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_95.md)
+* [Ensuring secure and anonymous data storage and transmission through advanced cryptographic techniques like blockchain and encryption.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_34.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Cybersecurity and Security Protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_135.md)
 * [Internet of Things (IoT) and Smart Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_94.md)
 * [Communication and Data Sharing](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_3.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_94.md)
+* [quantum cryptography](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_95.md)
 

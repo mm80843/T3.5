@@ -2,8 +2,9 @@
 
 # __Accessibility to private green spaces__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Enhancing availability and inclusivity of diverse, inviting, well-maintained and accessible natural environments and communal areas.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_145.md)
 
 ## Closest similar item
 
@@ -18,14 +19,17 @@
 * [Provide green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2486.md)
 * [Incorporating green spaces in building design, promoting access to public parks and gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3199.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Having access to private green spaces is associated with a lower increase in anxiety, anger, fear, confusion, moodiness, boredom, irritability, poor concentration, and sleep disturbance during the COVID-19 lockdown.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Association between indoor-outdoor green features and psychological health during the COVID-19 lockdown in Italy: A cross-sectional nationwide study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_146.md)
+
+## This Mitigation is enabled by the following technologies
+
 

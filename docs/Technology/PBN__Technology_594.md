@@ -2,9 +2,9 @@
 
 # __targeted healthcare services__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q55645123](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q55645123.md)
+* [Enhancing accessibility and support through a range of remote healthcare, counseling, transportation, and translation services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_213.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [healthcare funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1854.md)
 * [access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4119.md)
 * [healthcare resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1998.md)
+
+## This Technology is identified by the following QID
+
+* [Q55645123](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q55645123.md)
 

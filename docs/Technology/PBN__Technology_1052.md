@@ -2,9 +2,9 @@
 
 # __specialized waste treatment__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q132580](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q132580.md)
+* [Improvements in wastewater, waste management, sanitation, water purification, and plumbing technologies aim for sustainable and efficient infrastructure development.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_234.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [safe management of medical waste](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1767.md)
 * [waste management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3440.md)
 * [waste management measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4257.md)
+
+## This Technology is identified by the following QID
+
+* [Q132580](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q132580.md)
 

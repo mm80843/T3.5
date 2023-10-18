@@ -2,9 +2,9 @@
 
 # __uvc and uvgi lights__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [UV light disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_552.md)
+* [Innovative lighting solutions harnessing ultraviolet technology for optimal germicidal sterilization and energy efficiency, while maximizing natural light.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_235.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [uvgi systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3062.md)
 * [ultraviolet (uv) lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3408.md)
 * [uvgi system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4510.md)
+
+## This Technology enables the following mitigations
+
+* [UV light disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_552.md)
 

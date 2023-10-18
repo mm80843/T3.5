@@ -2,10 +2,9 @@
 
 # __Rural Individuals__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [rural women with ovarian cancer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_859.md)
-* [rural woman with ovarian cancer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2101.md)
+* [A compilation of various groups of people distinguished by location, socio-economic status, and gender, related to real estate and housing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_242.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Community Associations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_137.md)
 * [General Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_88.md)
 * [Community Members](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_130.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [rural women with ovarian cancer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_859.md)
+* [rural woman with ovarian cancer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2101.md)
 

@@ -2,9 +2,9 @@
 
 # __improved healthcare technology__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1519843](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1519843.md)
+* [Technological advancements encompass a wide range of innovations, such as blockchain, touchless, renewable energy, and communication technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [access to healthcare technologies and facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1944.md)
 * [mobile health technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1691.md)
 * [remote healthcare technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1099.md)
+
+## This Technology is identified by the following QID
+
+* [Q1519843](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1519843.md)
 

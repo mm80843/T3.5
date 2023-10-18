@@ -2,9 +2,9 @@
 
 # __correct orientation__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Re-appropriation of the basic principles and archetypes of sustainable architecture, thermal comfort and Indoor Air Quality (IAQ)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_498.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [landscape ground](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4242.md)
 * [positioning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4371.md)
 * [flexible layout](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1780.md)
+
+## This Technology enables the following mitigations
+
+* [Re-appropriation of the basic principles and archetypes of sustainable architecture, thermal comfort and Indoor Air Quality (IAQ)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_498.md)
 

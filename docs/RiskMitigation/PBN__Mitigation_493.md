@@ -2,8 +2,9 @@
 
 # __Including local communities in PCA governance and benefits__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Promoting community involvement and awareness through various initiatives such as education programs, engagement campaigns, and urban farming.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_142.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Reducing Community Environmental Impacts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_382.md)
 * [Incentives to the local economy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_620.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Exclusion of local communities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2588.md)
-
 ## Property: has_MitigationPrinciple
 
 Ensure local communities benefit from PCAs through linkage of conservation and local economic and social development
 
+## Risks possibly mitigated by this Mitigation
+
+* [Exclusion of local communities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2588.md)
+
 ## Property: has_MitigationSource
 
 * [Building sustainable finance for resilient protected and conserved areas: lessons from COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_33.md)
+
+## This Mitigation is enabled by the following technologies
+
 

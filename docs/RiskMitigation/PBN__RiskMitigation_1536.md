@@ -2,9 +2,9 @@
 
 # __Promote regular handwashing, hygiene education and awareness__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of personal cleanliness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1089.md)
+* [Promote and enforce hygiene practices, implement sanitation measures, and provide education on proper handwashing techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_332.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Increase frequency of cleaning, provide hand sanitizers, promote personal hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1575.md)
 * [Implement regular cleaning and disinfection protocols, promote good hand hygiene, and encourage the use of protective barriers and personal protective equipment.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1590.md)
 * [Personal hygiene (eg handwashing)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3191.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of personal cleanliness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1089.md)
 

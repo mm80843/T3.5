@@ -2,9 +2,9 @@
 
 # __high bandwidth networks__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Scalability of IoT devices in IoMT](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1186.md)
+* [Enhanced connectivity and diverse communication platforms enable the dissemination of reliable information and promote open communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_225.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [high-speed communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4496.md)
 * [small cell networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4157.md)
 * [networking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3037.md)
+
+## This Technology enables the following mitigations
+
+* [Scalability of IoT devices in IoMT](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1186.md)
 

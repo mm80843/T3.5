@@ -2,9 +2,9 @@
 
 # __Social Media Users__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [social media users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_82.md)
+* [The digital realm where individuals connect and share publicly, utilizing blockchain technology for social interactions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_241.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Social Gatherings](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_136.md)
 * [Media and News Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_37.md)
 * [Owners](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_59.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [social media users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_82.md)
 

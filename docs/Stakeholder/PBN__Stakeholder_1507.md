@@ -2,9 +2,9 @@
 
 # __general public in need of pfa__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Restriction in delivery capability for PFA interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2244.md)
+* [All actors in the economic and political landscape, including policymakers, governments, and regulatory bodies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_357.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [public administrators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_717.md)
 * [Public administrators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1681.md)
 * [workers and general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_214.md)
+
+## Risk affecting this stakeholder
+
+* [Restriction in delivery capability for PFA interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2244.md)
 

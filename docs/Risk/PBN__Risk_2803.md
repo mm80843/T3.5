@@ -2,9 +2,9 @@
 
 # __Inability to conduct in-person induction__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Induction process online](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_898.md)
+* [The challenges include reduced surgical education, loss of control, limited diagnostics, slow drug development, inadequate patient monitoring, and lack of drug therapy options.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_110.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Poor communication and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1763.md)
 * [Lack of knowledge and inhibitions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3097.md)
 * [Inadequate communication and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1503.md)
+
+## Mitigations of this risk
+
+* [Induction process online](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_898.md)
 

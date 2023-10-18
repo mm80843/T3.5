@@ -2,9 +2,9 @@
 
 # __Continued implementation of NPIs, vaccination campaigns, promote hygiene practices__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Reduction in infectious disease incidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1793.md)
+* [Maximizing vaccine efficacy and ensuring equitable access through research, development, distribution, and targeted outreach.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_337.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement safety protocols, increase hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2059.md)
 * [Implementing social distancing measures, investing in healthcare infrastructure, promoting hygiene practices.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1802.md)
 * [Building and maintaining adequate public health infrastructure, promoting hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1697.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Reduction in infectious disease incidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1793.md)
 

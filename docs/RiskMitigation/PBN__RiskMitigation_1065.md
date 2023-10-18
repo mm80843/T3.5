@@ -2,13 +2,9 @@
 
 # __Diversifying income streams__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Declines in conservation revenue](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_772.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced financial resilience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1060.md)
+* [Promote sustainable development through infrastructure investments, training, diversification, financial support, and government partnerships.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_315.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Diversifying suppliers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_941.md)
 * [Diversify supply sources, strengthen local production capabilities, implement emergency stockpiling measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1578.md)
 * [Seek alternative sources of funding, diversify revenue streams, engage in partnerships and collaborations for financial support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2843.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced financial resilience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1060.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Declines in conservation revenue](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_772.md)
 

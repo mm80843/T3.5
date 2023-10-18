@@ -2,9 +2,9 @@
 
 # __Limited data coverage, geographical disparities__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Commercial real-world data services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_565.md)
+* [The challenges include disintegrated and non-interoperable data, limited data access, data quality issues, and lack of standardized data sharing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_111.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Potential socioeconomic disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2535.md)
 * [Limited data availability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2987.md)
 * [Lack of spatial variety and privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_952.md)
+
+## Mitigations of this risk
+
+* [Commercial real-world data services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_565.md)
 

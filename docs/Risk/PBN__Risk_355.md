@@ -2,9 +2,9 @@
 
 # __Overcrowding and poor community behavior__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Adoption of emerging technologies (e.g., virtual reality)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_466.md)
+* [Dense urban environments face challenges with population growth, inequality, biodiversity, mobility, and poor housing conditions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_105.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Overcrowding in living spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1128.md)
 * [Transiency and Overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1183.md)
 * [Overcrowding, lack of green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2591.md)
+
+## Mitigations of this risk
+
+* [Adoption of emerging technologies (e.g., virtual reality)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_466.md)
 

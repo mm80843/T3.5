@@ -2,14 +2,9 @@
 
 # __Heat and sunlight exposure in summer__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Temperature and COVID-19 spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_521.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction in COVID-19 spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_738.md)
-* [Reduction in epidemic resurgence](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_739.md)
+* [Optimize indoor environment by maximizing natural light, ventilation, and incorporating efficient lighting systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_348.md)
 
 ## Closest similar item
 
@@ -23,4 +18,13 @@
 * [UV-Light radiation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_402.md)
 * [Optimal thermal environments](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_150.md)
 * [Improve living conditions, access to natural light and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2896.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction in COVID-19 spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_738.md)
+* [Reduction in epidemic resurgence](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_739.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Temperature and COVID-19 spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_521.md)
 

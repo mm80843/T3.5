@@ -2,9 +2,9 @@
 
 # __Long turnaround time, invasive, discomfort__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Routine testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_404.md)
+* [The challenges include reduced surgical education, loss of control, limited diagnostics, slow drug development, inadequate patient monitoring, and lack of drug therapy options.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_110.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Time of recovery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3367.md)
 * [Accuracy, skin irritation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2553.md)
 * [Thermal discomfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_126.md)
+
+## Mitigations of this risk
+
+* [Routine testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_404.md)
 

@@ -2,9 +2,9 @@
 
 # __improved location tracking algorithms__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q2699839](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2699839.md)
+* [Enhanced monitoring and surveillance technologies enable real-time tracking, video conferencing, and improved detection methods.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_214.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [occupancy tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_775.md)
 * [Occupancy tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2453.md)
 * [travel tracking and monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3583.md)
+
+## This Technology is identified by the following QID
+
+* [Q2699839](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2699839.md)
 

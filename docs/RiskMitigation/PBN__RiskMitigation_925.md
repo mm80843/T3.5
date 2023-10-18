@@ -2,13 +2,9 @@
 
 # __Account for the uncertainty inherent in risk__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Handling uncertain risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_661.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced public perception](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_924.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Risk mapping process](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_391.md)
 * [Infuse risk communication into policy decisions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_922.md)
 * [Strengthen risk management and cooperation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_309.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced public perception](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_924.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Handling uncertain risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_661.md)
 

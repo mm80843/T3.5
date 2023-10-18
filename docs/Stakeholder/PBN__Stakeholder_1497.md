@@ -2,9 +2,9 @@
 
 # __arts organizations__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Loss of cultural and creative industries](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2233.md)
+* [A diverse array of entities dedicated to various industries, causes, or services, promoting growth and welfare in society.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_369.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [community organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_150.md)
 * [business organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_598.md)
 * [civil society organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_232.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Loss of cultural and creative industries](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2233.md)
 

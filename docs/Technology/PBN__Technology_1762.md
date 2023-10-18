@@ -2,9 +2,9 @@
 
 # __solar panels__
 
-## Risks linked to this technology
+## Category to which it belongs
 
-* [EU2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2210.md)
+* [Innovative lighting solutions harnessing ultraviolet technology for optimal germicidal sterilization and energy efficiency, while maximizing natural light.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_235.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Renewable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2390.md)
 * [sun tubes)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1614.md)
 * [renewable energy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_534.md)
+
+## Risks linked to this technology
+
+* [EU2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2210.md)
 

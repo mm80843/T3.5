@@ -2,14 +2,13 @@
 
 # __online mental health resources__
 
+## Category to which it belongs
+
+* [Digital platforms and online resources facilitate collaboration, communication, and information sharing among individuals and organizations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_193.md)
+
 ## Risks linked to this technology
 
 * [Negative impact on mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2305.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Online Counseling and Therapy Platforms](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_65.md)
-* [Mental Health Resources and Support](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_68.md)
 
 ## Closest similar item
 
@@ -24,11 +23,16 @@
 * [such as mental health apps and online interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1515.md)
 * [mental health apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_117.md)
 
-## This Technology belongs to this TechGroup
-
-* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
-
 ## This Technology is identified by the following QID
 
 * [Q6817416](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6817416.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Online Counseling and Therapy Platforms](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_65.md)
+* [Mental Health Resources and Support](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_68.md)
+
+## This Technology belongs to this TechGroup
+
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
 

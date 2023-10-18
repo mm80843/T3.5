@@ -2,11 +2,9 @@
 
 # __vegetation__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Green rooftops](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2156.md)
-* [Green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1513.md)
-* [Green roofs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1187.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -20,4 +18,10 @@
 * [potted plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4243.md)
 * [gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1736.md)
 * [landscape ground](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4242.md)
+
+## This Technology enables the following mitigations
+
+* [Green rooftops](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2156.md)
+* [Green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1513.md)
+* [Green roofs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1187.md)
 

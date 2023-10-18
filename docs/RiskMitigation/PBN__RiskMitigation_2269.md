@@ -2,9 +2,9 @@
 
 # __Conduct further research to better understand the relationship between AH, RH, and temperature. Develop models and guidelines for regulating AH and RH levels based on temperature.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Relationship between AH, RH, and temperature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1706.md)
+* [Optimize indoor environments, regulate temperature and humidity, control air quality, and extend HVAC system operations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_341.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Temperature and humidity control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_194.md)
 * [Check and control pressure differentials, increase ventilation rates, and monitor and maintain the operation of heat recovery systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1939.md)
 * [Maintaining optimum temperature and humidity levels](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_257.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Relationship between AH, RH, and temperature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1706.md)
 

@@ -2,9 +2,9 @@
 
 # __Patients with limited internet access and technologic capabilities, lack of physical exam, ambiguity about information security__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Telehealth Clinics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_429.md)
+* [The challenges of implementing a digital culture include lack of interoperability, missing information, emerging technologies, and technological limitations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_112.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3194.md)
 * [Lack of access to healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2503.md)
 * [Lack of monitoring system for high-risk patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_999.md)
+
+## Mitigations of this risk
+
+* [Telehealth Clinics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_429.md)
 

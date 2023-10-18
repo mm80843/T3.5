@@ -2,9 +2,9 @@
 
 # __Increase healthcare capacity, provide additional resources and support to healthcare workers.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Healthcare system collapse](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2036.md)
+* [Enhancing healthcare infrastructure, increasing capacity, and ensuring access to medical resources and services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_330.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Strengthening healthcare infrastructure, increasing hospital capacity, and ensuring adequate medical supplies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2720.md)
 * [Improve healthcare infrastructure, increase funding for healthcare services, implement telemedicine and mobile healthcare solutions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1898.md)
 * [Increase healthcare capacity, optimize resource allocation, and enhance emergency preparedness.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2467.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Healthcare system collapse](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2036.md)
 

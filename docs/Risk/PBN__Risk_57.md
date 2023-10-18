@@ -2,9 +2,9 @@
 
 # __Emergence of mosquito-borne diseases__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_70.md)
+* [The proliferation of diseases carried by ticks and mosquitoes, exacerbated by climate change, inadequate control measures, and wildlife disturbance, causing increased prevalence and spread of various illnesses.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_119.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Increased risk of mosquito-borne diseases from bodies of water](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1669.md)
 * [Increased mosquito breeding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2933.md)
 * [Spread of invasive mosquito spp](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1646.md)
+
+## Mitigations of this risk
+
+* [Urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_70.md)
 

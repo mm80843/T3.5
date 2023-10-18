@@ -2,9 +2,9 @@
 
 # __Regular cleaning and disinfection, maintaining good hygiene practices.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Decay rate of SARS-CoV-2 in the environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2273.md)
+* [Implement rigorous cleaning and disinfection measures, including the use of antimicrobial materials and advanced technologies, to maintain a safe and hygienic environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_2.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Routine cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_264.md)
 * [Implement effective infection control measures, such as regular cleaning and disinfection, ventilation systems, and promoting personal hygiene practices.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2507.md)
 * [Develop and implement regular cleaning and disinfection protocols, provide proper training and resources.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2107.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Decay rate of SARS-CoV-2 in the environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2273.md)
 

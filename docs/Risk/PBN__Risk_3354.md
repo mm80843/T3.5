@@ -2,9 +2,9 @@
 
 # __ICT service disruption__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Proper management of ICT infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2143.md)
+* [The challenges of implementing a digital culture include lack of interoperability, missing information, emerging technologies, and technological limitations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_112.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Loss of data transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1234.md)
 * [Data breaches, technological limitations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3071.md)
 * [Production disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3039.md)
+
+## Mitigations of this risk
+
+* [Proper management of ICT infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2143.md)
 

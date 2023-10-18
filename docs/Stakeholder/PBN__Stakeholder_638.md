@@ -2,13 +2,9 @@
 
 # __community administrators__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q16532929](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q16532929.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
+* [Experts who oversee and manage various aspects of public and private administration, including cybersecurity, commerce, education, and infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_400.md)
 
 ## Closest similar item
 
@@ -23,11 +19,19 @@
 * [network administrators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1433.md)
 * [Network administrators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1663.md)
 
+## Risks that can be mitigated by this stakeholder
+
+* [Limited access to essential services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1108.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Community Administrators](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_129.md)
 
-## Risks that can be mitigated by this stakeholder
+## This Stakeholder is identified by the following QID
 
-* [Limited access to essential services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1108.md)
+* [Q16532929](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q16532929.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
 

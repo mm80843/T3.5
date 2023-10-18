@@ -2,13 +2,9 @@
 
 # __Spread of COVID-19 due to air pollution__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Implementation of public transportation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_176.md)
-* [Reduction of air pollution levels](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_172.md)
-* [Implementation of air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_173.md)
-* [Increase in green spaces and tree coverage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_174.md)
-* [Adoption of cleaner and renewable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_175.md)
+* [The far-reaching consequences of COVID-19 include its transmission through various settings, impact on urban areas, and scarcity of resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Spread of COVID-19 through contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_653.md)
 * [Spread of Covid-19 in urban public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_27.md)
 * [Inadequate monitoring of the spread of Covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1309.md)
+
+## Mitigations of this risk
+
+* [Implementation of public transportation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_176.md)
+* [Reduction of air pollution levels](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_172.md)
+* [Implementation of air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_173.md)
+* [Increase in green spaces and tree coverage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_174.md)
+* [Adoption of cleaner and renewable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_175.md)
 

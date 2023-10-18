@@ -2,9 +2,9 @@
 
 # __patients receiving care outside of digitized healthcare systems__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Incomplete data capture](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1337.md)
+* [Those involved in the provision and management of healthcare services, including workers, professionals, facilities, and users.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_355.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [hospital patients and staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_309.md)
 * [healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_70.md)
 * [hospital patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1061.md)
+
+## Risk affecting this stakeholder
+
+* [Incomplete data capture](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1337.md)
 

@@ -2,9 +2,9 @@
 
 # __occupancy tracking systems can be used to monitor and enforce compliance with social distancing measures__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q7075748](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7075748.md)
+* [Enhanced monitoring and surveillance technologies enable real-time tracking, video conferencing, and improved detection methods.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_214.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [real-time occupancy monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2010.md)
 * [Real-time occupancy monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2475.md)
 * [occupancy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_248.md)
+
+## This Technology is identified by the following QID
+
+* [Q7075748](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7075748.md)
 

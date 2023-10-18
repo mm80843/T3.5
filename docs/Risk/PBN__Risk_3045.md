@@ -2,9 +2,9 @@
 
 # __Identification of effective drug compounds__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Deep learning-based drug discovery pipeline](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1397.md)
+* [The challenges include inadequate testing capacity, slow identification of cases, limited evidence, and variability in PCR methods.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_140.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Chemical pollutants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2019.md)
 * [Need for alternative detection methods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1152.md)
 * [Improper disposal of pharmaceutical wastes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2315.md)
+
+## Mitigations of this risk
+
+* [Deep learning-based drug discovery pipeline](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1397.md)
 

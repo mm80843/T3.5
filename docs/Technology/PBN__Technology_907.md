@@ -2,9 +2,9 @@
 
 # __testing capacity__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q584804](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q584804.md)
+* [Enhanced diagnostic techniques and screening methods, including the development of rapid and reliable testing technologies and increased availability of diagnostic tools and kits.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_211.md)
 
 ## Risks linked to this technology
 
@@ -24,4 +24,8 @@
 * [testing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3527.md)
 * [capacity building](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_451.md)
 * [rapid and widespread testing capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1364.md)
+
+## This Technology is identified by the following QID
+
+* [Q584804](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q584804.md)
 

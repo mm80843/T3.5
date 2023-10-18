@@ -2,13 +2,13 @@
 
 # __emergency responders__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q19693316](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q19693316.md)
+* [A diverse array of collaborative and specialized groups in various fields working together towards specific goals.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_5.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Crisis Management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_14.md)
+* [Inadequate crisis preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1961.md)
 
 ## Closest similar item
 
@@ -23,15 +23,19 @@
 * [emergency management agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2720.md)
 * [emergency response teams](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_471.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder can get these Benefits from mitigation measures
 
-* [Inadequate crisis preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1961.md)
+* [Increased resilience and flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1244.md)
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Emergency Services and Management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_166.md)
 
-## This Stakeholder can get these Benefits from mitigation measures
+## This Stakeholder is identified by the following QID
 
-* [Increased resilience and flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1244.md)
+* [Q19693316](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q19693316.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Crisis Management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_14.md)
 

@@ -2,13 +2,9 @@
 
 # __research institutions__
 
-## Risks linked to this technology
+## Category to which it belongs
 
-* [Lack of medication and vaccines for COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1495.md)
-* [Comparability of far-UVC light with conventional germicidal UV light](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1230.md)
-
-## This Technology belongs to this TechSubgroup
-
+* [Advanced analytics, fact-checking, project management, reliable sources, knowledge extraction, and collaboration ensure accurate information dissemination and effective decision-making.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_192.md)
 
 ## Closest similar item
 
@@ -26,4 +22,12 @@
 ## This Technology belongs to this TechGroup
 
 * [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
+
+## This Technology belongs to this TechSubgroup
+
+
+## Risks linked to this technology
+
+* [Lack of medication and vaccines for COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1495.md)
+* [Comparability of far-UVC light with conventional germicidal UV light](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1230.md)
 

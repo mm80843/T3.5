@@ -2,8 +2,9 @@
 
 # __Knowledge-engineering best practices__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Promoting effective communication, education, and trust through transparency, clear guidelines, and innovative strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_144.md)
 
 ## Closest similar item
 
@@ -18,14 +19,17 @@
 * [Good maintenance practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_343.md)
 * [Guideline recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_590.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Apply principles and guidelines for well-formed ontological models
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [The COVID-19 epidemiology and monitoring ontology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_259.md)
+
+## This Mitigation is enabled by the following technologies
+
 

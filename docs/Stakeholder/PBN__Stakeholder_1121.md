@@ -2,9 +2,9 @@
 
 # __emergency authorities__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Inadequate emergency preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1703.md)
+* [Various organizations and professionals responsible for overseeing specific areas of governance, infrastructure, protection, and creativity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_395.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [emergency response agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2714.md)
 * [emergency workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_523.md)
 * [emergency response teams](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_471.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Inadequate emergency preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1703.md)
 

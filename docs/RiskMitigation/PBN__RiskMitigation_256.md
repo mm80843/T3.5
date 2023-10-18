@@ -2,13 +2,9 @@
 
 # __Campus law enforcement introduction__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of familiarity with campus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_214.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced sense of safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_267.md)
+* [Enforce safety measures, promote responsible behavior, utilize PPE, and prioritize risk prevention to ensure adequate protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_342.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Focus on safety and security issues](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_254.md)
 * [Strengthening enforcement, increasing certainty of punishment, awareness of penalties and consequences](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2966.md)
 * [Public education, awareness campaigns, and enforcement of preventive measures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2070.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced sense of safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_267.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of familiarity with campus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_214.md)
 

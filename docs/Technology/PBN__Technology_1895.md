@@ -2,9 +2,9 @@
 
 # __collaboration platforms for information sharing__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q6031064](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6031064.md)
+* [Digital platforms and online resources facilitate collaboration, communication, and information sharing among individuals and organizations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_193.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [information sharing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3570.md)
 * [data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_152.md)
 * [Data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2412.md)
+
+## This Technology is identified by the following QID
+
+* [Q6031064](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6031064.md)
 

@@ -2,9 +2,16 @@
 
 # __public transport users__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q7257647](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7257647.md)
+* [The realm of those involved in the movement of people and goods, including workers, authorities, and operators.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_390.md)
+
+## Risk affecting this stakeholder
+
+* [Safety concerns and anxiety among public transport users](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1932.md)
+* [Risk of transmission in enclosed and communal spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2120.md)
+* [Inadequate public transport capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1216.md)
+* [Fear of using public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1218.md)
 
 ## Closest similar item
 
@@ -19,13 +26,6 @@
 * [city transport authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_531.md)
 * [transport authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_733.md)
 
-## Risk affecting this stakeholder
-
-* [Safety concerns and anxiety among public transport users](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1932.md)
-* [Risk of transmission in enclosed and communal spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2120.md)
-* [Inadequate public transport capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1216.md)
-* [Fear of using public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1218.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Improved accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_554.md)
@@ -33,4 +33,8 @@
 * [Enhanced feeling of safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_555.md)
 * [Improved cleanliness](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_557.md)
 * [Enhanced social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_558.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q7257647](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7257647.md)
 

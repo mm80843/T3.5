@@ -2,10 +2,9 @@
 
 # __Green Open Spaces__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_922.md)
-* [landscaping](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_965.md)
+* [Enhancing availability and inclusivity of diverse, inviting, well-maintained and accessible natural environments and communal areas.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_145.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Incorporation of green areas in available spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1203.md)
 * [Green space design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1048.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_571.md)
-
 ## Property: has_MitigationPrinciple
 
 Providing accessible green open spaces in urban areas allows individuals to practice social distancing and enjoy outdoor activities while reducing the risk of transmission.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_571.md)
+
 ## Property: has_MitigationSource
 
 * [Urban Green Infrastructure and Green Open Spaces: An Issue of Social Fairness in Times of COVID-19 Crisis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_83.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_922.md)
+* [landscaping](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_965.md)
 

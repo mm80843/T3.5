@@ -2,9 +2,9 @@
 
 # __VPN__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
-* [Encryption and Authentication Techniques](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_6.md)
+* [Enhanced connectivity and diverse communication platforms enable the dissemination of reliable information and promote open communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_225.md)
 
 ## Closest similar item
 
@@ -19,12 +19,16 @@
 * [sensor networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4053.md)
 * [telephone network](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3364.md)
 
-## This Technology belongs to this TechGroup
-
-* [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_10.md)
-
 ## This Technology is identified by the following QID
 
 * [Q170963](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q170963.md)
 * [Q2875989](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2875989.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Encryption and Authentication Techniques](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_6.md)
+
+## This Technology belongs to this TechGroup
+
+* [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_10.md)
 

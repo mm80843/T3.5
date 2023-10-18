@@ -2,9 +2,9 @@
 
 # __Lack of patient education for COVID-19__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Virtual reality patient education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1127.md)
+* [The far-reaching consequences of COVID-19 include its transmission through various settings, impact on urban areas, and scarcity of resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Difficulty in confinement of COVID-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_704.md)
 * [Poor practices for COVID-19 prevention](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_626.md)
 * [Hospital-acquired COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_824.md)
+
+## Mitigations of this risk
+
+* [Virtual reality patient education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1127.md)
 

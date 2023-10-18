@@ -2,8 +2,9 @@
 
 # __Privacy policies__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
+* [Government actions and regulations addressing various aspects of society, including policy changes, ethical frameworks, governance mechanisms, and public announcements.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_216.md)
 
 ## Closest similar item
 
@@ -21,4 +22,7 @@
 ## This Technology belongs to this TechGroup
 
 * [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_5.md)
+
+## This Technology belongs to this TechSubgroup
+
 

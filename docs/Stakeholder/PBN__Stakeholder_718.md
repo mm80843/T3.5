@@ -2,13 +2,13 @@
 
 # __technical experts__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q569612](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q569612.md)
+* [Experts from various fields including research, risk assessment, education, science, HVAC, and IT.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_356.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Technology Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_12.md)
+* [Lack of effective technical systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1197.md)
 
 ## Closest similar item
 
@@ -23,11 +23,15 @@
 * [communication expert](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1843.md)
 * [technicians](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_167.md)
 
-## Risk affecting this stakeholder
-
-* [Lack of effective technical systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1197.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Information Technology and Technical Support](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_150.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q569612](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q569612.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Technology Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_12.md)
 

@@ -2,8 +2,9 @@
 
 # __Engaging decision-makers in setting priorities__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Promoting effective communication, education, and trust through transparency, clear guidelines, and innovative strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_144.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Value management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1221.md)
 * [Individual responsibility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1548.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Uncertainty](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2417.md)
-
 ## Property: has_MitigationPrinciple
 
 KT platforms can prioritize relevant issues, identify knowledge gaps, and align research and evidence synthesis with policy needs.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Uncertainty](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2417.md)
+
 ## Property: has_MitigationSource
 
 * [Amplifying the role of knowledge translation platforms in the COVID-19 pandemic response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_111.md)
+
+## This Mitigation is enabled by the following technologies
+
 

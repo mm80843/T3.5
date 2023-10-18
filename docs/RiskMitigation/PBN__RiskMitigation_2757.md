@@ -2,9 +2,9 @@
 
 # __Develop climate-specific adaptations and technologies, incorporate renewable energy sources.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Environmental-based](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2107.md)
+* [Transition to sustainable energy sources, implement energy-efficient measures, and absorb increased service demand.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_351.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Promote the use of cleaner and more efficient cooking and heating fuels, improve access to modern energy sources.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2641.md)
 * [Promote energy-saving practices, provide energy efficiency advice and incentives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1712.md)
 * [Stricter regulations on emissions, adoption of clean and sustainable technologies, promotion of renewable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2458.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Environmental-based](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2107.md)
 

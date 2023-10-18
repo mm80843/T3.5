@@ -2,9 +2,9 @@
 
 # __Temperature and COVID-19 spread__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Heat and sunlight exposure in summer](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_728.md)
+* [The far-reaching consequences of COVID-19 include its transmission through various settings, impact on urban areas, and scarcity of resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [COVID-19 propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_453.md)
 * [COVID-19 spread via aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1144.md)
 * [Spread of COVID-19 through respiratory droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_52.md)
+
+## Mitigations of this risk
+
+* [Heat and sunlight exposure in summer](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_728.md)
 

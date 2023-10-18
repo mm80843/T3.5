@@ -2,13 +2,9 @@
 
 # __Economic diversification__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Financial sustainability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_719.md)
-
-## Property: has_MitigationBenefit
-
-* [Additional revenue](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1005.md)
+* [Promote sustainable development through infrastructure investments, training, diversification, financial support, and government partnerships.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_315.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Promote diversification of suppliers and reduce dependence on a few key suppliers.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2423.md)
 * [Diversifying supply chains and promoting domestic production](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2611.md)
 * [Foster competition and diversification in GVCs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_308.md)
+
+## Property: has_MitigationBenefit
+
+* [Additional revenue](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1005.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Financial sustainability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_719.md)
 

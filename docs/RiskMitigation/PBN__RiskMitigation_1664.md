@@ -2,9 +2,9 @@
 
 # __Decentralize economic activities to distribute economic opportunities more evenly throughout the city__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Centralization of economic activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1212.md)
+* [Promote sustainable development through infrastructure investments, training, diversification, financial support, and government partnerships.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_315.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Prioritize green space in deprived areas, consider equitable distribution in urban planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1474.md)
 * [Diversify and strengthen economic and financial systems, reduce interdependencies, and promote local and regional self-sufficiency](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1837.md)
 * [Implement urban regeneration initiatives, incentivize the use of vacant spaces, support local businesses and entrepreneurship.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2908.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Centralization of economic activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1212.md)
 

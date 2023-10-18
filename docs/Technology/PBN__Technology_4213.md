@@ -2,9 +2,9 @@
 
 # __participatory planning__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Prioritize participatory governance structures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2058.md)
+* [A range of community-centered initiatives, programs, and strategies foster participation, collaboration, and social support for diverse groups.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_236.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [planners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_384.md)
 * [urban planning strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_49.md)
 * [Urban planning strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2341.md)
+
+## This Technology enables the following mitigations
+
+* [Prioritize participatory governance structures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2058.md)
 

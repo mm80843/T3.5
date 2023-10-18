@@ -2,9 +2,9 @@
 
 # __Energy supply disruption__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Access to backup energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2140.md)
+* [Issues related to energy use, including increased consumption, inefficient usage, and lack of understanding, have various implications in different settings and sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_133.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Disruption of supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1130.md)
 * [Fall in energy demand](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1607.md)
 * [Disruption in supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_500.md)
+
+## Mitigations of this risk
+
+* [Access to backup energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2140.md)
 

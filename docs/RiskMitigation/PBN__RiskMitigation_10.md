@@ -2,13 +2,9 @@
 
 # __Investing in infrastructure and training__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_10.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved supply chain resilience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_18.md)
+* [Promote sustainable development through infrastructure investments, training, diversification, financial support, and government partnerships.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_315.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Invest in research and development](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1042.md)
 * [Invest in training and education programs, promote interdisciplinary collaboration.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1547.md)
 * [Tailoring interventions to target regions, investment in technology and infrastructure, subsidised mobile phone plans, free Wi-Fi hotspots, training programs, use of devices that do not require continuous network access.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3046.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved supply chain resilience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_18.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_10.md)
 

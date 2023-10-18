@@ -2,8 +2,9 @@
 
 # __Open communication channels__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
+* [Enhanced connectivity and diverse communication platforms enable the dissemination of reliable information and promote open communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_225.md)
 
 ## Closest similar item
 
@@ -18,11 +19,14 @@
 * [diverse communication channels (e.g. television](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3804.md)
 * [communication systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1057.md)
 
-## This Technology belongs to this TechGroup
-
-* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
-
 ## This Technology is identified by the following QID
 
 * [Q733553](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q733553.md)
+
+## This Technology belongs to this TechSubgroup
+
+
+## This Technology belongs to this TechGroup
+
+* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
 

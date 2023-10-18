@@ -2,9 +2,9 @@
 
 # __Water supply disruption__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Access to alternative water sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2138.md)
+* [The challenges of urban water management include water contamination, waste management, inadequate water storage, and poor drainage.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_120.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Supply chain disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1400.md)
 * [Disruption of energy supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2112.md)
 * [Inadequate water and sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1304.md)
+
+## Mitigations of this risk
+
+* [Access to alternative water sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2138.md)
 

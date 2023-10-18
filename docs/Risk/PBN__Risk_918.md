@@ -2,9 +2,9 @@
 
 # __Inequities and exclusions in public space design__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Incorporating the needs of vulnerable groups in public space design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1264.md)
+* [Challenges in building industry include lack of understanding, high costs, inadequate preparedness, and slow adoption of new technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_98.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Need for a new typology for public space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_913.md)
 * [Future of large public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_912.md)
 * [Fewer people in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1464.md)
+
+## Mitigations of this risk
+
+* [Incorporating the needs of vulnerable groups in public space design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1264.md)
 

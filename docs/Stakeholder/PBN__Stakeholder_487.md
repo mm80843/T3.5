@@ -6,6 +6,10 @@
 
 * [Increased safety and flexibility in interior spaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1249.md)
 
+## Category to which it belongs
+
+* [Individuals in various types of spaces, including public, indoor, and confined areas, with varying access to green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_378.md)
+
 ## Closest similar item
 
 * [public and users of public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_37.md)

@@ -2,9 +2,9 @@
 
 # __Data accuracy__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Geographic Information System (GIS)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1376.md)
+* [The challenges include disintegrated and non-interoperable data, limited data access, data quality issues, and lack of standardized data sharing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_111.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Performance, scalability, accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2422.md)
 * [Inaccurate measurement data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1657.md)
 * [Inaccuracy of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1231.md)
+
+## Mitigations of this risk
+
+* [Geographic Information System (GIS)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1376.md)
 

@@ -2,10 +2,9 @@
 
 # __Energy poverty__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Enhancement of energy assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1982.md)
-* [Direct energy assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1980.md)
+* [Issues related to energy use, including increased consumption, inefficient usage, and lack of understanding, have various implications in different settings and sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_133.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Lack of reliable energy access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3321.md)
 * [Mismatched energy demand](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1253.md)
 * [Energy Consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1768.md)
+
+## Mitigations of this risk
+
+* [Enhancement of energy assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1982.md)
+* [Direct energy assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1980.md)
 

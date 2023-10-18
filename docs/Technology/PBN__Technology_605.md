@@ -2,9 +2,9 @@
 
 # __allocate resources efficiently__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q287260](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q287260.md)
+* [Maximizing economic efficiency while promoting financial stability through innovative strategies, investments, and partnerships at various levels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_195.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [capacity management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1329.md)
 * [scaling up production capacity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1628.md)
 * [utilization of available infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1049.md)
+
+## This Technology is identified by the following QID
+
+* [Q287260](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q287260.md)
 

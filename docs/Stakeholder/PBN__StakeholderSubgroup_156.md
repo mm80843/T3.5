@@ -2,9 +2,9 @@
 
 # __AI and Machine Learning__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [AI companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2619.md)
+* [Advancements in AI, machine learning, and ecological practices are driving technological innovation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_265.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Education and Research](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_15.md)
 * [Cybersecurity](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_155.md)
 * [Blockchain](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_157.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [AI companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2619.md)
 

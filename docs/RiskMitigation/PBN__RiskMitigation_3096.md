@@ -2,9 +2,9 @@
 
 # __Continue implementing social distancing measures and transitioning to cleaner energy sources.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Decreased concentrations of NO2 and PM2.5](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2386.md)
+* [Transition to sustainable energy sources, implement energy-efficient measures, and absorb increased service demand.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_351.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement measures to enforce physical distancing.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2462.md)
 * [Promote energy-saving practices, provide energy efficiency advice and incentives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1712.md)
 * [Conduct energy-saving education and awareness campaigns, provide energy feedback to occupants, and implement behavior change programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1919.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Decreased concentrations of NO2 and PM2.5](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2386.md)
 

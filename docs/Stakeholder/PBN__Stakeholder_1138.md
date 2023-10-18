@@ -2,9 +2,9 @@
 
 # __public health authorities and meteorological agencies are responsible for monitoring and regulating indoor and outdoor conditions to reduce influenza seasonality__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Impact of indoor and outdoor conditions on influenza seasonality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1708.md)
+* [Individuals in poorly ventilated indoor environments, especially those in enclosed spaces with limited air flow, such as offices, homes, and buildings with inadequate air filtration, are at risk of exposure to poor indoor air quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_398.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [local health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1376.md)
 * [Local health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1863.md)
 * [public health officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_310.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Impact of indoor and outdoor conditions on influenza seasonality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1708.md)
 

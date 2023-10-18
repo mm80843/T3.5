@@ -2,14 +2,9 @@
 
 # __property developer__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q17487600](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q17487600.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
-* [Housing And Property](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_10.md)
+* [A diverse group specializing in the creation and implementation of various technological projects.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_383.md)
 
 ## Closest similar item
 
@@ -28,4 +23,13 @@
 
 * [Real Estate and Construction](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_31.md)
 * [Developers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_64.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q17487600](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q17487600.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+* [Housing And Property](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_10.md)
 

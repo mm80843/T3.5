@@ -2,9 +2,9 @@
 
 # __increased provision of hand washing stations__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q13446365](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q13446365.md)
+* [Enhanced hygiene practices and strict adherence to cleaning protocols ensure rigorous sanitation and disinfection measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_196.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [hand hygiene products and facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3569.md)
 * [hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_509.md)
 * [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2560.md)
+
+## This Technology is identified by the following QID
+
+* [Q13446365](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q13446365.md)
 

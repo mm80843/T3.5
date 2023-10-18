@@ -2,13 +2,9 @@
 
 # __Government financial programs__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Financial vulnerability of SMEs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_678.md)
-
-## Property: has_MitigationBenefit
-
-* [Business liquidity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_949.md)
+* [Promote sustainable development through infrastructure investments, training, diversification, financial support, and government partnerships.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_315.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Financial support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_780.md)
 * [Provide financial support to individuals and businesses, encourage investment and economic stimulus measures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2955.md)
 * [Government financial assistance, subsidies, or relief programs for public transport operators](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2537.md)
+
+## Property: has_MitigationBenefit
+
+* [Business liquidity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_949.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Financial vulnerability of SMEs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_678.md)
 

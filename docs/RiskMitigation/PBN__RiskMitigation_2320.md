@@ -2,9 +2,9 @@
 
 # __Improve system interoperability and data sharing mechanisms__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Interoperability and access to real-time data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1751.md)
+* [Promote standardized data collection, ontology-based representation, and enhanced data sharing to improve decision-making processes and data quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_319.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Promote data sharing initiatives and create integrated platforms and open-source structures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2321.md)
 * [Seamless data sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1340.md)
 * [Adoption of universal standards for data sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1342.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Interoperability and access to real-time data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1751.md)
 

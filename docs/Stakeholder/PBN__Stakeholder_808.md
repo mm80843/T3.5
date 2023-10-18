@@ -2,13 +2,13 @@
 
 # __indoor workers__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q105764136](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q105764136.md)
+* [Individuals engaged in various types of work, from employees and office workers to agricultural and hospitality workers.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_379.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Building Occupants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_11.md)
+* [Lack of sunlight and fresh air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1292.md)
 
 ## Closest similar item
 
@@ -23,11 +23,15 @@
 * [people in indoor environments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1126.md)
 * [People in indoor environments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2297.md)
 
-## Risk affecting this stakeholder
-
-* [Lack of sunlight and fresh air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1292.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Indoor Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_24.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q105764136](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q105764136.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Building Occupants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_11.md)
 

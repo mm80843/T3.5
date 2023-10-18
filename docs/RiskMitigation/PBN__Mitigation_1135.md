@@ -2,10 +2,9 @@
 
 # __Remote work and online meetings__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [video conferencing tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_428.md)
-* [internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3058.md)
+* [Embracing flexible work arrangements, such as remote work and staggered schedules, to enhance productivity and adapt to digital transformation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_171.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Telecommuting/remote work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1011.md)
 * [Remote work and online education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1088.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_133.md)
-
 ## Property: has_MitigationPrinciple
 
 Minimize in-person contact by working remotely and conducting meetings online
 
+## Risks possibly mitigated by this Mitigation
+
+* [COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_133.md)
+
 ## Property: has_MitigationSource
 
 * [Seeing the invisible hand: Underlying effects of COVID-19 on tourists’ behavioral patterns](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_25.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [video conferencing tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_428.md)
+* [internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3058.md)
 

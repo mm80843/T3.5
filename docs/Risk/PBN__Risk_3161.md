@@ -2,9 +2,9 @@
 
 # __Non-compliance with protocols__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Workplace Safety Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1614.md)
+* [A list of challenges and uncertainties surrounding the impact and response to various events and crises in different sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_124.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Importance of compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1787.md)
 * [Inadequate Compliance Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1727.md)
 * [Low compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_541.md)
+
+## Mitigations of this risk
+
+* [Workplace Safety Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1614.md)
 

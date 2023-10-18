@@ -2,9 +2,9 @@
 
 # __monitoring techniques for rna degradation__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q14911527](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q14911527.md)
+* [Advancements in biotechnology, clinical research, and innovative therapies contribute to the development of medical solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [dna analyzer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4430.md)
 * [molecular testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3634.md)
 * [nucleic acid extraction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4480.md)
+
+## This Technology is identified by the following QID
+
+* [Q14911527](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q14911527.md)
 

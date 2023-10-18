@@ -2,13 +2,9 @@
 
 # __Increase biodiversity of urban environments__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Unintended urban biodiversity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_64.md)
-
-## Property: has_MitigationBenefit
-
-* [Dilution effect](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_89.md)
+* [Promote equitable, sustainable, and inclusive urban planning to enhance living conditions, mitigate overcrowding, and reduce disparities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_324.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Upgrade and maintain urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_460.md)
 * [Increase the availability and accessibility of urban green spaces, create new green spaces, and improve existing ones](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2408.md)
 * [Implement urban greening initiatives to create and enhance green spaces in highly urbanized areas, consider green roofs and vertical gardens](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2075.md)
+
+## Property: has_MitigationBenefit
+
+* [Dilution effect](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_89.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Unintended urban biodiversity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_64.md)
 

@@ -2,8 +2,9 @@
 
 # __Extension of Time (EOT)__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Enhancing safety and efficiency through comprehensive measures, technology integration, diverse environments, and behavioral adjustments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_157.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Altering assignments and schedules](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1605.md)
 * [Zoning and Staggered Work Schedules](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1737.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Delay in project](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2842.md)
-
 ## Property: has_MitigationPrinciple
 
 Allow contractors to claim an extension of time for project delays caused by the impact of contagious diseases
 
+## Risks possibly mitigated by this Mitigation
+
+* [Delay in project](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2842.md)
+
 ## Property: has_MitigationSource
 
 * [Mechanisms for addressing the impact of COVID-19 on infrastructure projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_115.md)
+
+## This Mitigation is enabled by the following technologies
+
 

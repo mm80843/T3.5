@@ -2,9 +2,9 @@
 
 # __nan promotion of outdoor nan nan activities during lockdown__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1014345](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1014345.md)
+* [Urban green space solutions include tree planting, zoning regulations, landscape architecture, community gardens, outdoor furniture, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_231.md)
 
 ## Risks linked to this technology
 
@@ -21,4 +21,8 @@
 * [social nan distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1869.md)
 * [nan nan nan sound-activated nan nan nan nan elevator design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3991.md)
 * [hands-free light nan switches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3989.md)
+
+## This Technology is identified by the following QID
+
+* [Q1014345](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1014345.md)
 

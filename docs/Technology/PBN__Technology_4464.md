@@ -2,9 +2,9 @@
 
 # __introduction of wolbachia bacteria into mosquitoes__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Wolbachia intervention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2393.md)
+* [Advancements in molecular biology, diagnostics, vaccines, antiviral technologies, and disease surveillance for pathogen detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_223.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Investigate material science to develop mosquito-resistant alternative building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2324.md)
 * [anti-malaria drugs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_237.md)
 * [insecticides](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4456.md)
+
+## This Technology enables the following mitigations
+
+* [Wolbachia intervention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2393.md)
 

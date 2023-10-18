@@ -2,9 +2,9 @@
 
 # __maintenance and landscaping equipment__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1494647](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1494647.md)
+* [Urban green space solutions include tree planting, zoning regulations, landscape architecture, community gardens, outdoor furniture, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_231.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [maintenance needs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3719.md)
 * [maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3785.md)
 * [routine maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4254.md)
+
+## This Technology is identified by the following QID
+
+* [Q1494647](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1494647.md)
 

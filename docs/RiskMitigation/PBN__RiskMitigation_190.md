@@ -2,13 +2,9 @@
 
 # __Use portable room air cleaners with HEPA filters__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [SARS-CoV-2 transmission in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_152.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced air cleaning in specific areas](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_205.md)
+* [Enhancing air quality through effective air filtration, ventilation, and pollution reduction strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_338.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Seal walls, ceilings, and windows, and use negative air machines with HEPA filters to maintain pressure differentials and prevent pathogen spread](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2188.md)
 * [Use high-efficiency air filters in ventilation systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1811.md)
 * [Use high-efficiency air filters, regularly replace filters, and properly maintain air filtration systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2310.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced air cleaning in specific areas](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_205.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [SARS-CoV-2 transmission in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_152.md)
 

@@ -2,9 +2,9 @@
 
 # __financial practices__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Fossil fuel divestment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1055.md)
+* [Maximizing economic efficiency while promoting financial stability through innovative strategies, investments, and partnerships at various levels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_195.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [financial support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_607.md)
 * [industrial practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3599.md)
 * [financial planning tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_463.md)
+
+## This Technology enables the following mitigations
+
+* [Fossil fuel divestment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1055.md)
 

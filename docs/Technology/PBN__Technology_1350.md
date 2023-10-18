@@ -2,9 +2,9 @@
 
 # __high-efficiency air filtration systems__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q948441](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q948441.md)
+* [Various systems and technologies that purify and clean the air, including air filters, HEPA filters, and filtration systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_198.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [use of high-efficiency air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_501.md)
 * [air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3770.md)
 * [portable air filtration devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3249.md)
+
+## This Technology is identified by the following QID
+
+* [Q948441](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q948441.md)
 

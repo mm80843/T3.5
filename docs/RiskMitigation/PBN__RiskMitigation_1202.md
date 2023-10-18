@@ -2,13 +2,9 @@
 
 # __Community action networks__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Inadequate support for vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_878.md)
-
-## Property: has_MitigationBenefit
-
-* [Support for vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1202.md)
+* [Strengthen collaborations, implement behavioral change, deploy social robots, and promote sustainable content consumption for community-based strategies, holistic research, and positive media representation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_316.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implement wastewater-based surveillance systems to detect and monitor viral presence in communities, identify local hot spots, and deploy targeted interventions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3075.md)
 * [Implement crowd control measures, promote social distancing, expand infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1955.md)
 * [Knowledge exchange](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1068.md)
+
+## Property: has_MitigationBenefit
+
+* [Support for vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1202.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inadequate support for vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_878.md)
 

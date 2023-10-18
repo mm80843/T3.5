@@ -2,12 +2,9 @@
 
 # __Robotics in healthcare__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-
-## Property: has_MitigationBenefit
-
-* [Patient care and disease containment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_814.md)
+* [The trend towards remote and digital healthcare is encompassing telecommuting, telehealth, teleconferencing, wearable technology, touchless technologies, and mobile applications.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_328.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [Development of medical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_755.md)
 * [Robot-assisted swabbing and blood testing can speed up the process and free up staff for other tasks.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3083.md)
 * [Teleoperation technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_91.md)
+
+## Property: has_MitigationBenefit
+
+* [Patient care and disease containment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_814.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

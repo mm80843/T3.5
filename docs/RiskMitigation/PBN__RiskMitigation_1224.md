@@ -2,13 +2,9 @@
 
 # __Outbreak investigations and response__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [COVID-19 outbreaks in workplace settings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_887.md)
-
-## Property: has_MitigationBenefit
-
-* [Swift contact tracing and case isolation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1219.md)
+* [Implement comprehensive strategies to control virus transmission, improve surveillance, develop antiviral coatings, and enhance infection control measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_309.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Incorporate small-scale heterogeneity in epidemic models to account for neighborhood-level processes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1665.md)
 * [Control the virus outbreak and promote economic stability](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2114.md)
 * [Improve data collection and analysis, enhance understanding of the virus and its transmission, validate models with real-world data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2013.md)
+
+## Property: has_MitigationBenefit
+
+* [Swift contact tracing and case isolation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1219.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [COVID-19 outbreaks in workplace settings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_887.md)
 

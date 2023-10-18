@@ -2,9 +2,9 @@
 
 # __Enteric involvement studies__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3346.md)
+* [Enhanced disease investigation and prevention methods, including biomarkers, antimicrobial coatings, and AI-driven tools, advance public health.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_155.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Access to adequate sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_25.md)
 * [Sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1659.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Gastrointestinal symptoms in COVID-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2941.md)
-
 ## Property: has_MitigationPrinciple
 
 Identifies the prevalence of gastrointestinal symptoms in COVID-19 patients
 
+## Risks possibly mitigated by this Mitigation
+
+* [Gastrointestinal symptoms in COVID-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2941.md)
+
 ## Property: has_MitigationSource
 
 * [SARS-CoV-2 in wastewater: potential health risk, but also data source](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_70.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3346.md)
 

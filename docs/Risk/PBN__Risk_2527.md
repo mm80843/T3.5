@@ -2,9 +2,9 @@
 
 # __Lack of Protection__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Safety Wearables and Carry-ons](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_304.md)
+* [Insufficient awareness, limited resources, inadequate communication, and lack of preparedness contribute to various challenges and deficiencies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_118.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inadequate Safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2670.md)
 * [Lack of immunity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2771.md)
 * [Personal protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2493.md)
+
+## Mitigations of this risk
+
+* [Safety Wearables and Carry-ons](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_304.md)
 

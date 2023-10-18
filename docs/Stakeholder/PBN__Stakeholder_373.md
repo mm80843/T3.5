@@ -6,6 +6,10 @@
 
 * [Improved symptom management through pacing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_955.md)
 
+## Category to which it belongs
+
+* [Individuals affected by various medical conditions, including COVID-19, seeking information and care.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_394.md)
+
 ## Closest similar item
 
 * [individuals infected with covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_686.md)

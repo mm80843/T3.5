@@ -2,9 +2,9 @@
 
 # __Implement privacy-by-design principles, utilize encryption and access control methods__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Privacy protection issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2093.md)
+* [Data privacy and security are prioritized through encryption, access controls, consent, and robust cybersecurity measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_335.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement strong security measures, anonymize and encrypt data, and obtain user consent for data collection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1705.md)
 * [Implement data protection and privacy regulations, ensure transparency and consent in data collection and usage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2062.md)
 * [Implement privacy protection measures, obtain consent, anonymize data.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2714.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Privacy protection issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2093.md)
 

@@ -2,6 +2,23 @@
 
 # __AI tools__
 
+## Category to which it belongs
+
+* [Intelligent technologies that assist with tasks and decision-making processes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_292.md)
+
+## Closest similar item
+
+* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
+* [ai](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_38.md)
+* [AI](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_39.md)
+* [AI technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_40.md)
+* [ai technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_41.md)
+* [ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_42.md)
+* [AI algorithms](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_43.md)
+* [AI support systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_44.md)
+* [artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_45.md)
+* [Artificial Intelligence](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_46.md)
+
 ## This Technology belongs to this TechnologyGroup
 
 * [contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
@@ -146,17 +163,4 @@
 * [digital PCR](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2103.md)
 * [ELISA](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2122.md)
 * [mass spectrometry](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2123.md)
-
-## Closest similar item
-
-* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
-* [ai](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_38.md)
-* [AI](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_39.md)
-* [AI technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_40.md)
-* [ai technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_41.md)
-* [ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_42.md)
-* [AI algorithms](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_43.md)
-* [AI support systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_44.md)
-* [artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_45.md)
-* [Artificial Intelligence](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_46.md)
 

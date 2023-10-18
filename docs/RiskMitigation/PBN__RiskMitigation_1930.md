@@ -2,9 +2,9 @@
 
 # __Adequate disinfection of masks before discarding__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Contamination of masks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1422.md)
+* [Implement rigorous cleaning and disinfection measures, including the use of antimicrobial materials and advanced technologies, to maintain a safe and hygienic environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_2.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Air disinfection strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_993.md)
 * [Mandatory use of masks,](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_972.md)
 * [Disinfection of air](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3190.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Contamination of masks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1422.md)
 

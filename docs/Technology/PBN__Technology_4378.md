@@ -2,9 +2,9 @@
 
 # __social security payments__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Providing income and support to impacted workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2262.md)
+* [Government programs and initiatives provide support, training, and financial assistance for education, healthcare, employment, and overall well-being.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_210.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [virtual payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_129.md)
 * [mobile payment applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4436.md)
 * [legal measures and social support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2907.md)
+
+## This Technology enables the following mitigations
+
+* [Providing income and support to impacted workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2262.md)
 

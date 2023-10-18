@@ -2,9 +2,9 @@
 
 # __Economic divisions in the EU due to COVID-19__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Mutualized debt through corona bonds](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_777.md)
+* [The far-reaching consequences of COVID-19 include its transmission through various settings, impact on urban areas, and scarcity of resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Impact of COVID-19 on commercial and artisanal spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_757.md)
 * [Limited understanding of the spread and impact of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2985.md)
 * [Spread of COVID-19 in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1980.md)
+
+## Mitigations of this risk
+
+* [Mutualized debt through corona bonds](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_777.md)
 

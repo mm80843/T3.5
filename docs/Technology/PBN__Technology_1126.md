@@ -2,9 +2,9 @@
 
 # __data cleansing and validation tools__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1172378](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1172378.md)
+* [Data-driven insights and analysis for decision making, anonymized data, transparency, visualization, and advanced techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_205.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Data validation algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2058.md)
 * [data quality assessment tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1087.md)
 * [Data quality assessment tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2244.md)
+
+## This Technology is identified by the following QID
+
+* [Q1172378](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1172378.md)
 

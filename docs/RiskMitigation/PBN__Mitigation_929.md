@@ -2,9 +2,9 @@
 
 # __Physical Activity__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3551.md)
+* [Promoting exercise and physical activity through various strategies, monitoring, guidelines, programs, and adaptations, while considering barriers and analyzing movement patterns.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_159.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Comparative research on exercise behaviors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_80.md)
 * [Regular Exercise](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1240.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Increased risk of obesity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2813.md)
-
 ## Property: has_MitigationPrinciple
 
 Promoting physical activities in green spaces to reduce the risk of obesity, which is associated with higher infection risk.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Increased risk of obesity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2813.md)
+
 ## Property: has_MitigationSource
 
 * [Green spaces, especially forest, linked to lower SARS-CoV-2 infection rates: A one-year nationwide study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_130.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3551.md)
 

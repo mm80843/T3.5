@@ -2,9 +2,9 @@
 
 # __evidence base__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Health insurance coverage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_337.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Fact-checking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2049.md)
 * [credible sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3913.md)
 * [reliable sources of information](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_582.md)
+
+## This Technology enables the following mitigations
+
+* [Health insurance coverage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_337.md)
 

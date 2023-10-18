@@ -2,9 +2,9 @@
 
 # __Slow adoption of new technologies in buildings sector__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [SAMBA monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_797.md)
+* [Challenges in building industry include lack of understanding, high costs, inadequate preparedness, and slow adoption of new technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_98.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of understanding of factors influencing building energy use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_977.md)
 * [Need for innovative and modern technologies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_424.md)
 * [Inefficiency in building systems and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_979.md)
+
+## Mitigations of this risk
+
+* [SAMBA monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_797.md)
 

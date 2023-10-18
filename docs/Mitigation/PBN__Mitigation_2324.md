@@ -2,10 +2,9 @@
 
 # __Reassure and educate the public__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [public service announcements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4414.md)
-* [daily press briefings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4413.md)
+* [Promoting effective communication, education, and trust through transparency, clear guidelines, and innovative strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_144.md)
 
 ## Closest similar item
 
@@ -20,14 +19,19 @@
 * [Trust and transparency](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_102.md)
 * [Trust in Official Governmental Media](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1466.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Provides accurate and transparent information to reassure and educate the public on preventive measures against COVID-19
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Response to COVID-19 in Taiwan: Big Data Analytics, New Technology, and Proactive Testing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_24.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [public service announcements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4414.md)
+* [daily press briefings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4413.md)
 

@@ -2,9 +2,9 @@
 
 # __data encryption technologies__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q135035](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q135035.md)
+* [Various security measures, such as encryption, authentication protocols, secure data storage, and blockchain, are used to protect digital platforms and ensure privacy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_201.md)
 
 ## Risks linked to this technology
 
@@ -23,4 +23,8 @@
 * [encryption technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1070.md)
 * [Encryption technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2414.md)
 * [data encryption tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1901.md)
+
+## This Technology is identified by the following QID
+
+* [Q135035](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q135035.md)
 

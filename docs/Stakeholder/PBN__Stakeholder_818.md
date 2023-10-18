@@ -2,10 +2,9 @@
 
 # __advocacy groups__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Impact of economic recovery responses on PCAs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1301.md)
-* [Reduction in domestic public budgets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_106.md)
+* [A diverse array of collaborative and specialized groups in various fields working together towards specific goals.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_5.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [social groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_640.md)
 * [community organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_150.md)
 * [companies and research groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_496.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Impact of economic recovery responses on PCAs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1301.md)
+* [Reduction in domestic public budgets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_106.md)
 

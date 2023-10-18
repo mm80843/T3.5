@@ -2,9 +2,9 @@
 
 # __education resources__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Education programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_47.md)
+* [Measures promoting accountability, media control, real-time updates, and virtual experiences for physical distancing and education.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [educational websites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1145.md)
 * [Online educational materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2635.md)
 * [training resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3894.md)
+
+## This Technology enables the following mitigations
+
+* [Education programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_47.md)
 

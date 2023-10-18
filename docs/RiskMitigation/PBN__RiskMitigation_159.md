@@ -2,13 +2,9 @@
 
 # __Holistic and interdisciplinary approach to building research__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Future research](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_135.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved understanding and evaluation of health impacts](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_179.md)
+* [Strengthen collaborations, implement behavioral change, deploy social robots, and promote sustainable content consumption for community-based strategies, holistic research, and positive media representation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_316.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Invest in research and development](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1042.md)
 * [Facilitating collaborative and integrated planning and management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1106.md)
 * [Prioritize essential research and monitoring activities, develop remote monitoring techniques, enhance capacity-building efforts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2845.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved understanding and evaluation of health impacts](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_179.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Future research](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_135.md)
 

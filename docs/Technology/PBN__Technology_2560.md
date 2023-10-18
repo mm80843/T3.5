@@ -2,9 +2,9 @@
 
 # __Hand hygiene__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
-* [Hygiene and Sanitation Practices and Protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_60.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -19,11 +19,15 @@
 * [personal hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_831.md)
 * [hand soap](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4021.md)
 
-## This Technology belongs to this TechGroup
-
-* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
-
 ## This Technology is identified by the following QID
 
 * [Q552461](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q552461.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Hygiene and Sanitation Practices and Protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_60.md)
+
+## This Technology belongs to this TechGroup
+
+* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
 

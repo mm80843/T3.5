@@ -2,13 +2,9 @@
 
 # __Artificial intelligence and touchless technologies__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Spread of infections and diseases in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1010.md)
-
-## Property: has_MitigationBenefit
-
-* [Contactless interaction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1410.md)
+* [The trend towards remote and digital healthcare is encompassing telecommuting, telehealth, teleconferencing, wearable technology, touchless technologies, and mobile applications.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_328.md)
 
 ## Closest similar item
 
@@ -21,4 +17,12 @@
 * [Artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_500.md)
 * [Artificial intelligence and machine learning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_808.md)
 * [Implement touchless technologies, promote regular sanitization and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2894.md)
+
+## Property: has_MitigationBenefit
+
+* [Contactless interaction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1410.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of infections and diseases in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1010.md)
 

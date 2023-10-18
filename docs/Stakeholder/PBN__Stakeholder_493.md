@@ -2,9 +2,9 @@
 
 # __municipalities__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q15284](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q15284.md)
+* [Entities and individuals who interact with or are affected by a system, organization, or public facility.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_1.md)
 
 ## Closest similar item
 
@@ -37,4 +37,8 @@
 * [Seasonal changes in wastewater temperature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1448.md)
 * [Cost and practicability of clinical testing and WBE](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1449.md)
 * [Lack of awareness and knowledge about green roofs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1688.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q15284](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q15284.md)
 

@@ -2,11 +2,9 @@
 
 # __Gaps in capacity and resilience across industries and organizations__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Invest in research and development](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1042.md)
-* [Strengthen supply chain resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1041.md)
-* [Enhance local production capacity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1040.md)
+* [The ramifications of global connectivity include economic instability, impacts of the pandemic, unemployment, poverty, reduced tourism revenue, and decline in public budgets.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_103.md)
 
 ## Closest similar item
 
@@ -20,4 +18,10 @@
 * [Lack of capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3240.md)
 * [Support at organizational level](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1475.md)
 * [Lack of coordination between sectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3098.md)
+
+## Mitigations of this risk
+
+* [Invest in research and development](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1042.md)
+* [Strengthen supply chain resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1041.md)
+* [Enhance local production capacity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1040.md)
 

@@ -2,9 +2,9 @@
 
 # __Personalized health management through pacing__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Using wearables to manage symptoms and identify overexertion in individuals with long COVID](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_949.md)
+* [Healthcare systems overwhelmed with limited resources, shortage of personnel, and inadequate infrastructure face challenges in providing accessible and quality care.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_101.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Limited space for healthcare operations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1697.md)
 * [Fragmented healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2024.md)
 * [Healthcare system overload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2134.md)
+
+## Mitigations of this risk
+
+* [Using wearables to manage symptoms and identify overexertion in individuals with long COVID](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_949.md)
 

@@ -2,9 +2,9 @@
 
 # __Bacterial growth and transmission__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Use of anti-bacterial materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_774.md)
+* [The spread of diseases through various methods, including contact, droplets, and contaminated surfaces, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_137.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Infection propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2259.md)
 * [Transmission of pathogens within a confined space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2716.md)
 * [Transmission from infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3331.md)
+
+## Mitigations of this risk
+
+* [Use of anti-bacterial materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_774.md)
 

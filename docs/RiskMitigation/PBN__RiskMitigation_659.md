@@ -2,13 +2,9 @@
 
 # __Improved urban planning__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Urban crowding and poor housing facilitates spread of VBDs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_469.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved living conditions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_666.md)
+* [Promote equitable, sustainable, and inclusive urban planning to enhance living conditions, mitigate overcrowding, and reduce disparities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_324.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Including green space in urban planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_167.md)
 * [Spatial planning considerations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_35.md)
 * [Urban planning and infrastructure to accommodate growing populations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1503.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved living conditions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_666.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Urban crowding and poor housing facilitates spread of VBDs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_469.md)
 

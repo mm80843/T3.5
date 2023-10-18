@@ -2,13 +2,9 @@
 
 # __Restructuring workforce__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Delay in works due to staff members at high risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_499.md)
-
-## Property: has_MitigationBenefit
-
-* [Employee safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_711.md)
+* [Ensuring equitable access, promoting flexible work, implementing safety measures, and providing support for remote work and flexible schedules.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_323.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Job retention schemes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1379.md)
 * [Softening Labor Market Impact](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_496.md)
 * [Change management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_714.md)
+
+## Property: has_MitigationBenefit
+
+* [Employee safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_711.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Delay in works due to staff members at high risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_499.md)
 

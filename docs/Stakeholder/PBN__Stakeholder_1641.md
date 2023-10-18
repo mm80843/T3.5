@@ -2,9 +2,9 @@
 
 # __Kindergartens__
 
-## This Stakeholder belongs to this StakeholderGroup
+## Category to which it belongs
 
-* [Education](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_1.md)
+* [Individuals of different ages, including children, parents, migrants, and vulnerable groups, such as women and racial minorities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_389.md)
 
 ## Closest similar item
 
@@ -18,6 +18,10 @@
 * [school](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1639.md)
 * [teacher](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1643.md)
 * [Teacher](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1694.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Education](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_1.md)
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 

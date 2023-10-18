@@ -2,6 +2,10 @@
 
 # __personal protective equipment__
 
+## Category to which it belongs
+
+* [Safety and operational tools for various fields, including healthcare, cleaning, maintenance, and emergency preparation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_212.md)
+
 ## Risks linked to this technology
 
 * [Health risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2014.md)
@@ -13,11 +17,6 @@
 * [Inadequate protective measures in ICU](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1423.md)
 * [Transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1087.md)
 * [Health risks from UV-C radiation exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2297.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Personal Protective Equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_58.md)
-* [Physical Health Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_59.md)
 
 ## Closest similar item
 
@@ -32,14 +31,19 @@
 * [use of personal protective equipment in schools and day care facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_555.md)
 * [protective clothing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3337.md)
 
+## This Technology is identified by the following QID
+
+* [Q1333024](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1333024.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Personal Protective Equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_58.md)
+* [Physical Health Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_59.md)
+
 ## This Technology belongs to this TechGroup
 
 * [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 * [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
-
-## This Technology is identified by the following QID
-
-* [Q1333024](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1333024.md)
 
 ## This Technology enables the following mitigations
 

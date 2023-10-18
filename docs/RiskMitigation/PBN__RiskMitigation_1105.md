@@ -2,13 +2,9 @@
 
 # __Preparing and providing smart city infrastructure__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Limited pre-event preparations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_804.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced response capacity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1095.md)
+* [Promote equitable, sustainable, and inclusive urban planning to enhance living conditions, mitigate overcrowding, and reduce disparities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_324.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Urban planning and infrastructure to accommodate growing populations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1503.md)
 * [Improve digital infrastructure and provide equal access to reliable internet connection for all residents.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3026.md)
 * [Integration of smart building technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_158.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced response capacity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1095.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limited pre-event preparations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_804.md)
 

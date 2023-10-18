@@ -2,9 +2,9 @@
 
 # __data sharing__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Enhanced coordination and cooperation among institutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1076.md)
+* [Data-driven insights and analysis for decision making, anonymized data, transparency, visualization, and advanced techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_205.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [inclusive data sharing initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_519.md)
 * [Inclusive data sharing initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2413.md)
 * [information sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1898.md)
+
+## This Technology enables the following mitigations
+
+* [Enhanced coordination and cooperation among institutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1076.md)
 

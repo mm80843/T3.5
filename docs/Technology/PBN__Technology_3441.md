@@ -2,9 +2,9 @@
 
 # __access to natural light__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Exposure to sunlight](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_477.md)
+* [Innovative lighting solutions harnessing ultraviolet technology for optimal germicidal sterilization and energy efficiency, while maximizing natural light.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_235.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4296.md)
 * [Energy-efficient lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2251.md)
 * [energy-efficient lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_118.md)
+
+## This Technology enables the following mitigations
+
+* [Exposure to sunlight](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_477.md)
 

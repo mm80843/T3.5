@@ -2,8 +2,9 @@
 
 # __Inclusion of young people and women__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Promoting equality, understanding nature, norms, perceived usefulness, and fostering social interactions for positive societal change.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_175.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Restricted Gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_681.md)
 * [Gender](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_402.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Exclusion and inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3258.md)
-
 ## Property: has_MitigationPrinciple
 
 Ensure representation and participation of all individuals
 
+## Risks possibly mitigated by this Mitigation
+
+* [Exclusion and inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3258.md)
+
 ## Property: has_MitigationSource
 
 * [COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_58.md)
+
+## This Mitigation is enabled by the following technologies
+
 

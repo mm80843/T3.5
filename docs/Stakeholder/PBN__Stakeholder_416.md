@@ -2,13 +2,13 @@
 
 # __small and medium-sized businesses__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q622439](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q622439.md)
+* [Local enterprises and establishments, encompassing various sectors, sizes, and ownership types.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_381.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+* [Economic instability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2026.md)
 
 ## Closest similar item
 
@@ -23,15 +23,19 @@
 * [local businesses,](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_385.md)
 * [retail businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_418.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder can get these Benefits from mitigation measures
 
-* [Economic instability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2026.md)
+* [Strengthening of local economies and employment opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1042.md)
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Business and Financial Services](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_58.md)
 
-## This Stakeholder can get these Benefits from mitigation measures
+## This Stakeholder is identified by the following QID
 
-* [Strengthening of local economies and employment opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1042.md)
+* [Q622439](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q622439.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 

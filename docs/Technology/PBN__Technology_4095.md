@@ -2,9 +2,9 @@
 
 # __carbon reduction technologies__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Climate change mitigation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1829.md)
+* [The range of materials and techniques listed includes various disinfectants, nanomaterials, manufacturing methods, coatings, sustainability measures, and analytical tools.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_237.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [energy-efficient technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2312.md)
 * [energy-efficient technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2960.md)
 * [greenhouse technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4012.md)
+
+## This Technology enables the following mitigations
+
+* [Climate change mitigation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1829.md)
 

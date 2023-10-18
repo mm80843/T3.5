@@ -2,9 +2,9 @@
 
 # __Improve capacity of vector control organizations through funding and training.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of capacity for vector control operations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2008.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Vector control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_331.md)
 * [Improve project management and supervision, provide proper training to workforce, implement quality control measures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1944.md)
 * [Improve water and food safety measures, implement vector control strategies, strengthen health systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2193.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of capacity for vector control operations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2008.md)
 

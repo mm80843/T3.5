@@ -2,9 +2,9 @@
 
 # __iot protocols__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q251212](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q251212.md)
+* [Enhanced connectivity and diverse communication platforms enable the dissemination of reliable information and promote open communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_225.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [IoT devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2429.md)
 * [iot sensing infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3534.md)
 * [internet of things (iot)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1710.md)
+
+## This Technology is identified by the following QID
+
+* [Q251212](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q251212.md)
 

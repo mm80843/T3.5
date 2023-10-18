@@ -2,24 +2,9 @@
 
 # __Noise in big data sets__
 
-## Property: has_RiskHealth
+## Category to which it belongs
 
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Description of the risk
-
-Social media and online traffic can create noise in big data sets used for forecasting and tracking, potentially leading to inaccurate trends and projections.
-
-## Property: has_RiskType
-
-* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
-
-## Articles mentionning the risk
-
-* [Applications of digital technology in COVID-19 pandemic planning and response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_127.md)
+* [The challenges include disintegrated and non-interoperable data, limited data access, data quality issues, and lack of standardized data sharing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_111.md)
 
 ## Closest similar item
 
@@ -34,34 +19,53 @@ Social media and online traffic can create noise in big data sets used for forec
 * [Data accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3042.md)
 * [Data Accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3289.md)
 
-## People affected by this risk
+## Description of the risk
 
-* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
-* [data analysts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_479.md)
+Social media and online traffic can create noise in big data sets used for forecasting and tracking, potentially leading to inaccurate trends and projections.
+
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Property: has_RiskHealth
+
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+
+## Mitigations of this risk
+
+* [Filtering noise from big data sets, assessing accuracy and reliability of AI forecasts.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3048.md)
+
+## Name of the risk
+
+Inaccurate predictions, difficulty in interpreting trends.
 
 ## Stakeholders who can mitigate this risk
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [data analysts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_479.md)
 
-## Name of the risk
+## Articles mentionning the risk
 
-Inaccurate predictions, difficulty in interpreting trends.
+* [Applications of digital technology in COVID-19 pandemic planning and response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_127.md)
 
-## Mitigations of this risk
+## People affected by this risk
 
-* [Filtering noise from big data sets, assessing accuracy and reliability of AI forecasts.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3048.md)
-
-## Property: has_RiskISO_Purpose
-
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [data analysts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_479.md)
 
 ## Technologies linked to the risk
 
 * [noise filtering algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1941.md)
 * [data validation techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_824.md)
+
+## Property: has_RiskType
+
+* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 

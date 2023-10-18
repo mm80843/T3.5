@@ -2,9 +2,9 @@
 
 # __workshops)__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Collaborative networks and partnerships](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_292.md)
+* [Design and construction professionals use innovative techniques and strategies to create adaptable, sustainable, and inclusive buildings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_217.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [collaboration tools)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4387.md)
 * [meetings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3124.md)
 * [courses](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3040.md)
+
+## This Technology enables the following mitigations
+
+* [Collaborative networks and partnerships](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_292.md)
 

@@ -2,14 +2,14 @@
 
 # __fact-checking websites__
 
+## Category to which it belongs
+
+* [Advanced analytics, fact-checking, project management, reliable sources, knowledge extraction, and collaboration ensure accurate information dissemination and effective decision-making.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_192.md)
+
 ## Risks linked to this technology
 
 * [Inaccurate or unreliable COVID-19 information disseminated](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1783.md)
 * [Spread of inaccurate medical information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1861.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Fact-Checking and Information Verification](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_17.md)
 
 ## Closest similar item
 
@@ -24,11 +24,15 @@
 * [fact-checking organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_937.md)
 * [fact-checking mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_581.md)
 
-## This Technology belongs to this TechGroup
-
-* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
-
 ## This Technology is identified by the following QID
 
 * [Q59555084](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q59555084.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Fact-Checking and Information Verification](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_17.md)
+
+## This Technology belongs to this TechGroup
+
+* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
 

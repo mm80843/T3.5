@@ -2,9 +2,9 @@
 
 # __equitable distribution of resources__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q7315823](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7315823.md)
+* [Maximizing economic efficiency while promoting financial stability through innovative strategies, investments, and partnerships at various levels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_195.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Equitable urban planning and policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2255.md)
 * [efficient allocation strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3517.md)
 * [digital platforms for resource allocation and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_15.md)
+
+## This Technology is identified by the following QID
+
+* [Q7315823](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7315823.md)
 

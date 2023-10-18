@@ -2,9 +2,9 @@
 
 # __furniture__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Comfortable and isolated workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2171.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [ergonomic office furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_127.md)
 * [rearrangement of furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_498.md)
 * [rooms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4202.md)
+
+## This Technology enables the following mitigations
+
+* [Comfortable and isolated workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2171.md)
 

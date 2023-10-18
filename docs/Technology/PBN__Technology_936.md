@@ -2,9 +2,9 @@
 
 # __information filtering tools__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q6031077](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6031077.md)
+* [Data-driven insights and analysis for decision making, anonymized data, transparency, visualization, and advanced techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_205.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [data filtering and processing nan techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1577.md)
 * [data tracking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3479.md)
 * [information sharing tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4076.md)
+
+## This Technology is identified by the following QID
+
+* [Q6031077](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6031077.md)
 

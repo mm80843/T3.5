@@ -2,9 +2,9 @@
 
 # __Psychological distress in healthcare providers__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Ultrabrief psychological interventions (UBPI)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1237.md)
+* [The toll of mental health harms, health harming behaviors, and the psychological impact of quarantine, fear, and anxiety has increased, affecting various populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_95.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Emotional distress, psychiatric illness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3156.md)
 * [Psychological stress and mental health issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_532.md)
 * [Stress on individual providers and general operations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3157.md)
+
+## Mitigations of this risk
+
+* [Ultrabrief psychological interventions (UBPI)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1237.md)
 

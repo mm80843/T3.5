@@ -2,9 +2,9 @@
 
 # __Lack of standardised measurement protocol for IEQ__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [SAMBA monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_797.md)
+* [Limited monitoring, technical limitations, language barriers, expensive optimization, lack of connection with nature, and limited sensor diversity hinder effective response and resource allocation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_107.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of IAQ monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2020.md)
 * [Lack of standardisation, data format limitations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2633.md)
 * [Need for common standards in health data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_817.md)
+
+## Mitigations of this risk
+
+* [SAMBA monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_797.md)
 

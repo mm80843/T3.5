@@ -2,10 +2,9 @@
 
 # __Preparedness for future pandemics__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [research priorities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3523.md)
-* [lessons learned](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3522.md)
+* [Promoting effective communication, education, and trust through transparency, clear guidelines, and innovative strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_144.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Expansion of SDG 11 to include pandemic preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_116.md)
 * [Disease awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1944.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Unpreparedness for future pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2796.md)
-
 ## Property: has_MitigationPrinciple
 
 Learning from the current pandemic to enhance preparedness for future pandemics by addressing critical research priorities, developing effective preventive measures and treatments, and ensuring access to accurate and unbiased information for informed decision-making.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Unpreparedness for future pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2796.md)
+
 ## Property: has_MitigationSource
 
 * [Coronavirus disease 2019: The harms of exaggerated information and non‐evidence‐based measures](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_101.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [research priorities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3523.md)
+* [lessons learned](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3522.md)
 

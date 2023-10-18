@@ -2,8 +2,9 @@
 
 # __Improving spending effectiveness and efficiency__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Promoting financial stability and inclusivity through diverse funding sources, transparent donations, and innovative investment incentives.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_174.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Healthcare access and affordability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1484.md)
 * [Financial-incentive based models](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_82.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Inefficient use of resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2583.md)
-
 ## Property: has_MitigationPrinciple
 
 Use existing resources effectively and efficiently by improving planning and management systems and capacities
 
+## Risks possibly mitigated by this Mitigation
+
+* [Inefficient use of resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2583.md)
+
 ## Property: has_MitigationSource
 
 * [Building sustainable finance for resilient protected and conserved areas: lessons from COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_33.md)
+
+## This Mitigation is enabled by the following technologies
+
 

@@ -2,9 +2,9 @@
 
 # __Economic recovery__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Green stimulus](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1053.md)
+* [The ramifications of global connectivity include economic instability, impacts of the pandemic, unemployment, poverty, reduced tourism revenue, and decline in public budgets.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_103.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Impact on economy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1596.md)
 * [Loss of income and economic instability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1991.md)
 * [Economic downfall](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_707.md)
+
+## Mitigations of this risk
+
+* [Green stimulus](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1053.md)
 

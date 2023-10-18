@@ -2,9 +2,9 @@
 
 # __Spread of Virus__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Controlling Access Points](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_294.md)
+* [The Impact of Domestic Violence and the Spreading of the Virus Create Challenges in Preventing Virus Propagation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_94.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Virus Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2525.md)
 * [Virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3332.md)
 * [Virus propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1032.md)
+
+## Mitigations of this risk
+
+* [Controlling Access Points](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_294.md)
 

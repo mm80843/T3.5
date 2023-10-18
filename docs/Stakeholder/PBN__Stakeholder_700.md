@@ -2,13 +2,9 @@
 
 # __laboratory technicians__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Degradation of viral signal in storage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2369.md)
-
-## Risk affecting this stakeholder
-
-* [Contamination of glass coverslips](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1168.md)
+* [Experts from various fields including research, risk assessment, education, science, HVAC, and IT.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_356.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [clinical laboratory](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1847.md)
 * [testing laboratories](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1159.md)
 * [clinical laboratories](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1384.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Degradation of viral signal in storage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2369.md)
+
+## Risk affecting this stakeholder
+
+* [Contamination of glass coverslips](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1168.md)
 

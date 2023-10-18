@@ -2,9 +2,9 @@
 
 # __Identify and assess vulnerabilities, implement risk mitigation measures__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Vulnerability to natural hazards](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2229.md)
+* [Enforce safety measures, promote responsible behavior, utilize PPE, and prioritize risk prevention to ensure adequate protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_342.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement strict control measures, protect vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1460.md)
 * [Strengthen cybersecurity measures and awareness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2970.md)
 * [Focus on safety and security issues](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_254.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Vulnerability to natural hazards](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2229.md)
 

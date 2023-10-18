@@ -2,12 +2,9 @@
 
 # __Digital twins and modeling__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-
-## Property: has_MitigationBenefit
-
-* [Simulation and prediction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_812.md)
+* [Accelerate the shift to digitalization by embracing emerging technologies and implementing innovative solutions across various sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_346.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [and models](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1241.md)
 * [Integration of digital solutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1433.md)
 * [Digital educational initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_473.md)
+
+## Property: has_MitigationBenefit
+
+* [Simulation and prediction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_812.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

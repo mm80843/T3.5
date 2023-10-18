@@ -2,9 +2,9 @@
 
 # __design processes that prioritize self-sufficiency and sustainability__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1341794](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1341794.md)
+* [Design and construction professionals use innovative techniques and strategies to create adaptable, sustainable, and inclusive buildings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_217.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [effective decision-making processes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_538.md)
 * [opt-in systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1937.md)
 * [inclusive design principles and social equity considerations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_735.md)
+
+## This Technology is identified by the following QID
+
+* [Q1341794](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1341794.md)
 

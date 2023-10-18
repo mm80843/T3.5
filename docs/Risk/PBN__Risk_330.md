@@ -2,14 +2,9 @@
 
 # __Uncontrolled SARS-CoV-2 transmission__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_427.md)
-* [Isolate and Test with School Closure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_425.md)
-* [Phase III relaxation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_430.md)
-* [Curfew](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_426.md)
-* [Phase I relaxation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_428.md)
-* [Phase II relaxation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_429.md)
+* [The widespread transmission and persistence of the SARS-CoV-2 virus in various environments and the challenges in detecting and removing it.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_93.md)
 
 ## Closest similar item
 
@@ -23,4 +18,13 @@
 * [Airborne transmission of SARS-CoV-2 in built environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_439.md)
 * [Transmission of SARS-CoV-2 through contact with contaminated objects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_221.md)
 * [Spread of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_642.md)
+
+## Mitigations of this risk
+
+* [Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_427.md)
+* [Isolate and Test with School Closure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_425.md)
+* [Phase III relaxation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_430.md)
+* [Curfew](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_426.md)
+* [Phase I relaxation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_428.md)
+* [Phase II relaxation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_429.md)
 

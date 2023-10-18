@@ -2,12 +2,9 @@
 
 # __high-speed internet__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Remote therapy services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2165.md)
-* [Improved communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2160.md)
-* [Remote workspaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2157.md)
-* [Improved internet connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2170.md)
+* [Enhanced connectivity and diverse communication platforms enable the dissemination of reliable information and promote open communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_225.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [internet connection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4022.md)
 * [internet access](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1211.md)
 * [internet-based communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_23.md)
+
+## This Technology enables the following mitigations
+
+* [Remote therapy services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2165.md)
+* [Improved communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2160.md)
+* [Remote workspaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2157.md)
+* [Improved internet connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2170.md)
 

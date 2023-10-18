@@ -2,9 +2,9 @@
 
 # __infrared thermal camera technology__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Infrared Thermal Cameras](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_355.md)
+* [Various technologies and devices are used to measure and regulate temperature, including cameras, scanners, sensors, and thermostats.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_220.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [infrared thermometers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3246.md)
 * [infrared thermometer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3474.md)
 * [thermographic cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4088.md)
+
+## This Technology enables the following mitigations
+
+* [Infrared Thermal Cameras](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_355.md)
 

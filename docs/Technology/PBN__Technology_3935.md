@@ -2,9 +2,9 @@
 
 # __daylighting__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Designing variety in visual and thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1595.md)
+* [Innovative lighting solutions harnessing ultraviolet technology for optimal germicidal sterilization and energy efficiency, while maximizing natural light.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_235.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [skylights](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_141.md)
 * [energy-efficient lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_118.md)
 * [Energy-efficient lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2251.md)
+
+## This Technology enables the following mitigations
+
+* [Designing variety in visual and thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1595.md)
 

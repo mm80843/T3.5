@@ -2,9 +2,9 @@
 
 # __coordinated services__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Person-centered integrated care](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1800.md)
+* [Enhancing accessibility and support through a range of remote healthcare, counseling, transportation, and translation services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_213.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3614.md)
 * [network infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2316.md)
 * [communication and coordination platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1151.md)
+
+## This Technology enables the following mitigations
+
+* [Person-centered integrated care](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1800.md)
 

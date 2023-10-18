@@ -2,10 +2,9 @@
 
 # __Lack of global response to climate change__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [International Cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_688.md)
-* [Global Response](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_692.md)
+* [The interconnectedness of environmental degradation, social inequalities, and the need for climate action and conservation efforts.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_104.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Climate change adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1924.md)
 * [Climate change and environmental damage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3405.md)
 * [Perception of climate change as distant](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2686.md)
+
+## Mitigations of this risk
+
+* [International Cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_688.md)
+* [Global Response](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_692.md)
 

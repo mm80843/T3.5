@@ -2,6 +2,10 @@
 
 # __Develop sound credit guarantee schemes with varying guarantee ratios based on banks’ financial profile__
 
+## Category to which it belongs
+
+* [Enhance acoustics and reduce noise through design, materials, insulation, regulations, and community engagement.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_350.md)
+
 ## Closest similar item
 
 * [Credit guarantee schemes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1398.md)

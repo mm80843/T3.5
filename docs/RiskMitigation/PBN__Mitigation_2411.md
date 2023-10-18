@@ -2,10 +2,9 @@
 
 # __Viral enrichment protocol__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [rt-qpcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4479.md)
-* [nucleic acid extraction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4480.md)
+* [Effective management of viral outbreaks through control measures, viral detection, disease tracking, and public awareness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_149.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Control and stop virus outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_992.md)
 * [Outbreak tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1877.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Limited access to testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2366.md)
-
 ## Property: has_MitigationPrinciple
 
 This protocol enables the detection and quantification of genetic material from SARS-CoV-2 in wastewater by enriching the viral content and extracting the nucleic acids.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Limited access to testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2366.md)
+
 ## Property: has_MitigationSource
 
 * [SARS-CoV-2 Titers in Wastewater Are Higher than Expected from Clinically Confirmed Cases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_251.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [rt-qpcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4479.md)
+* [nucleic acid extraction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4480.md)
 

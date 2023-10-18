@@ -2,9 +2,9 @@
 
 # __public transportation users__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Urban Mobility and Commute Patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2379.md)
+* [The realm of those involved in the movement of people and goods, including workers, authorities, and operators.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_390.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [public transport authority](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1619.md)
 * [transportation workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1362.md)
 * [Transportation workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1653.md)
+
+## Risk affecting this stakeholder
+
+* [Urban Mobility and Commute Patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2379.md)
 

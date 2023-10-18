@@ -2,9 +2,9 @@
 
 # __scalability in production__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q727490](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q727490.md)
+* [The range of materials and techniques listed includes various disinfectants, nanomaterials, manufacturing methods, coatings, sustainability measures, and analytical tools.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_237.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [capacity building](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_451.md)
 * [production optimization tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_10.md)
 * [localization of production](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1798.md)
+
+## This Technology is identified by the following QID
+
+* [Q727490](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q727490.md)
 

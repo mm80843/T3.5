@@ -6,6 +6,10 @@
 
 * [Reduction in disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_426.md)
 
+## Category to which it belongs
+
+* [Collective inhabitants of various social groups, including rural women with ovarian cancer, who reside within different types of communities and rely on diverse support networks for community engagement.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_386.md)
+
 ## Closest similar item
 
 * [communities with limited healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_961.md)

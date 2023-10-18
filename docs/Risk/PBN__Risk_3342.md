@@ -2,9 +2,9 @@
 
 # __Limited understanding of complex conservation challenges__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Conduct interdisciplinary research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2094.md)
+* [A list of challenges and uncertainties surrounding the impact and response to various events and crises in different sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_124.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Loss of biodiversity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3265.md)
 * [Water conservation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3352.md)
 * [Lack of proper environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1142.md)
+
+## Mitigations of this risk
+
+* [Conduct interdisciplinary research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2094.md)
 

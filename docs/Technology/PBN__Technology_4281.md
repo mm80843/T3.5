@@ -2,9 +2,9 @@
 
 # __solar energy__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Solar chargers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2155.md)
+* [Innovative lighting solutions harnessing ultraviolet technology for optimal germicidal sterilization and energy efficiency, while maximizing natural light.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_235.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Renewable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2390.md)
 * [energy efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3595.md)
 * [off-grid solar systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_932.md)
+
+## This Technology enables the following mitigations
+
+* [Solar chargers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2155.md)
 

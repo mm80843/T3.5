@@ -2,13 +2,13 @@
 
 # __Design COVID-19 Ontology: A Healthcare and Safety Perspective__
 
-## Title of the article
-
-Design COVID-19 Ontology: A Healthcare and Safety Perspective
-
 ## DOI of the article
 
 10.1007/978-3-031-09593-1_11
+
+## Title of the article
+
+Design COVID-19 Ontology: A Healthcare and Safety Perspective
 
 ## Year of publication
 

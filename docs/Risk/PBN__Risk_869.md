@@ -2,9 +2,9 @@
 
 # __Increase in neighbour noise__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Improved sound](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1192.md)
+* [Dense urban environments face challenges with population growth, inequality, biodiversity, mobility, and poor housing conditions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_105.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Noise pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_150.md)
 * [Noise Pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1120.md)
 * [Increase in outdoor noise during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1631.md)
+
+## Mitigations of this risk
+
+* [Improved sound](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1192.md)
 

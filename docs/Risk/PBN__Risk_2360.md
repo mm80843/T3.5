@@ -2,25 +2,9 @@
 
 # __Tissue tropism and pathogenesis of SARS-CoV-2__
 
-## Property: has_RiskHealth
+## Category to which it belongs
 
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Description of the risk
-
-The tissue tropism and pathogenesis of SARS-CoV-2 are not fully understood.
-
-## Property: has_RiskType
-
-* [medical](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_15.md)
-
-## Articles mentionning the risk
-
-* [Current knowledge of COVID-19: Advances, challenges and future perspectives](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_118.md)
+* [The widespread transmission and persistence of the SARS-CoV-2 virus in various environments and the challenges in detecting and removing it.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_93.md)
 
 ## Closest similar item
 
@@ -35,34 +19,54 @@ The tissue tropism and pathogenesis of SARS-CoV-2 are not fully understood.
 * [Rapid spread of SARS-CoV-2 virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_828.md)
 * [Exposure to SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2614.md)
 
-## People affected by this risk
+## Description of the risk
 
-* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
-* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
+The tissue tropism and pathogenesis of SARS-CoV-2 are not fully understood.
+
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+
+## Mitigations of this risk
+
+* [Conduct research to understand the tissue tropism and pathogenesis of SARS-CoV-2.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3062.md)
+
+## Name of the risk
+
+Impaired ability to predict and prevent organ damage and complications caused by SARS-CoV-2.
 
 ## Stakeholders who can mitigate this risk
 
 * [scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_46.md)
 * [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
 
-## Name of the risk
+## Articles mentionning the risk
 
-Impaired ability to predict and prevent organ damage and complications caused by SARS-CoV-2.
+* [Current knowledge of COVID-19: Advances, challenges and future perspectives](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_118.md)
 
-## Mitigations of this risk
+## People affected by this risk
 
-* [Conduct research to understand the tissue tropism and pathogenesis of SARS-CoV-2.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3062.md)
-
-## Property: has_RiskISO_Purpose
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
+* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
 
 ## Technologies linked to the risk
 
 * [identification of potential therapeutic targets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1956.md)
 * [research on tissue tropism and pathogenesis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1955.md)
+
+## Property: has_RiskType
+
+* [medical](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_15.md)
 

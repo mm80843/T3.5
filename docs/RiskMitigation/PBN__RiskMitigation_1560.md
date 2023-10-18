@@ -2,9 +2,9 @@
 
 # __Develop strategies to streamline the process of training algorithms using large datasets__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Large datasets and lengthy studies required for algorithm training](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1112.md)
+* [Advancements in bioinformatics, divestment, automated sample collection, and artificial intelligence are facilitating early disease detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_336.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Utilize AI methods for faster drug testing and discovery](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2379.md)
 * [Invest in scalable infrastructure, optimize data storage and processing.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1548.md)
 * [Improved data collection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1005.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Large datasets and lengthy studies required for algorithm training](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1112.md)
 

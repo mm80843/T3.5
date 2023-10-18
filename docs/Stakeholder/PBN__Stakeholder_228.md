@@ -2,9 +2,20 @@
 
 # __practitioners__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q39631](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q39631.md)
+* [Entities and individuals who interact with or are affected by a system, organization, or public facility.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_1.md)
+
+## Risk affecting this stakeholder
+
+* [Limited automation and tool support for ontology models and applications for COVID-19 analytics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1047.md)
+* [Lack of rigor in evaluating proposed ontologies based on existing ontology quality evaluation literature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1049.md)
+* [Inconsistent use of research evidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1358.md)
+* [Inadequate collaboration and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1361.md)
+* [Information overload and misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1359.md)
+* [Limited access to actionable evidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1362.md)
+* [Lack of concrete implementations and real-world validations of proposed solutions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1045.md)
+* [Incomplete evaluation of proposed solutions with lack of concrete implementations and real-world validations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1048.md)
 
 ## Closest similar item
 
@@ -18,17 +29,6 @@
 * [health professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_595.md)
 * [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
 * [clinicians](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_274.md)
-
-## Risk affecting this stakeholder
-
-* [Limited automation and tool support for ontology models and applications for COVID-19 analytics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1047.md)
-* [Lack of rigor in evaluating proposed ontologies based on existing ontology quality evaluation literature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1049.md)
-* [Inconsistent use of research evidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1358.md)
-* [Inadequate collaboration and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1361.md)
-* [Information overload and misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1359.md)
-* [Limited access to actionable evidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1362.md)
-* [Lack of concrete implementations and real-world validations of proposed solutions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1045.md)
-* [Incomplete evaluation of proposed solutions with lack of concrete implementations and real-world validations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1048.md)
 
 ## This Stakeholder can get these Benefits from mitigation measures
 
@@ -52,4 +52,8 @@
 * [Lack of concrete implementations and real-world validations of proposed solutions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1045.md)
 * [Incomplete evaluation of proposed solutions with lack of concrete implementations and real-world validations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1048.md)
 * [Lack of quantitative evidence for the effectiveness of UBPI](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2242.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q39631](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q39631.md)
 

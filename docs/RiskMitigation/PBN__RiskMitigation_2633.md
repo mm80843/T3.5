@@ -2,9 +2,9 @@
 
 # __Address underlying socioeconomic disparities, promote inclusive economic growth, strengthen social safety nets, and engage in dialogue and reconciliation processes.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Social unrest](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2015.md)
+* [Implement comprehensive measures to ensure support, protection, and assistance for vulnerable populations during the pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_349.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Addressing socioeconomic factors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_687.md)
 * [Implement social safety nets, equitable distribution of resources, invest in education and healthcare.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2910.md)
 * [Promote resilience through education, social support, and fostering a sense of hope.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2693.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Social unrest](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2015.md)
 

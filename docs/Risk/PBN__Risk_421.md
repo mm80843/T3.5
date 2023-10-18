@@ -2,9 +2,9 @@
 
 # __Failure to judge the magnitude of the problem__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Deploying latest technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_584.md)
+* [Fragmented global governance, reduced aid, ethical concerns, educational disruption, impacts on peace and justice, and inadequate coordination between stakeholders.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_115.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Flawed communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_829.md)
 * [Misinformed decisions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2779.md)
 * [Uncertainty and lack of direction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2808.md)
+
+## Mitigations of this risk
+
+* [Deploying latest technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_584.md)
 

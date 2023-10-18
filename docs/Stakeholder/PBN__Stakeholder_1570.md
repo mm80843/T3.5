@@ -2,13 +2,9 @@
 
 # __social protection agencies__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q7551332](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7551332.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
+* [Government and non-governmental organizations responsible for a wide range of services, including health, development, regulation, and emergency response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_382.md)
 
 ## Closest similar item
 
@@ -23,11 +19,19 @@
 * [social welfare organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1844.md)
 * [law enforcement agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_603.md)
 
+## Risks that can be mitigated by this stakeholder
+
+* [Vulnerability to Control Measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2351.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Social Services](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_40.md)
 
-## Risks that can be mitigated by this stakeholder
+## This Stakeholder is identified by the following QID
 
-* [Vulnerability to Control Measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2351.md)
+* [Q7551332](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7551332.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
 

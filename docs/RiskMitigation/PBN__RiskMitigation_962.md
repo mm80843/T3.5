@@ -2,13 +2,9 @@
 
 # __Incorporation of sustainability criteria for urban design__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Underestimation of UGS in urban design and environmental management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_696.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved integration of UGS in urban design](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_967.md)
+* [Promote equitable, sustainable, and inclusive urban planning to enhance living conditions, mitigate overcrowding, and reduce disparities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_324.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implement compact design principles, preserve existing green spaces, create new green spaces in urban developments](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1876.md)
 * [Promoting sustainable design and construction practices, proper waste management.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2092.md)
 * [Incorporate diverse types of green spaces in urban planning and design, prioritize the creation of green spaces with diverse vegetation and design features](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2073.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved integration of UGS in urban design](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_967.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Underestimation of UGS in urban design and environmental management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_696.md)
 

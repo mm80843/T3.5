@@ -2,13 +2,9 @@
 
 # __Encouraging effective communication__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Isolation and lack of human interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_167.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved mental health and well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_223.md)
+* [Facilitate transparent communication, enabling reliable information sharing through standardized protocols and effective channels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_0.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Establish effective communication channels, provide clear and transparent information, address concerns and questions, promote trust and understanding.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1779.md)
 * [Implement communication campaigns, provide clear instructions and guidelines, and promote public awareness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2263.md)
 * [Clear communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_562.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved mental health and well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_223.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Isolation and lack of human interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_167.md)
 

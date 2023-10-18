@@ -2,9 +2,9 @@
 
 # __vision algorithms__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Mobile robots for temperature measurement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2421.md)
+* [Advanced technologies and algorithms for modeling, simulation, optimization, and artificial intelligence in various applications, including robotics and computational fluid dynamics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_239.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [facial recognition](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3864.md)
 * [machine learning algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3165.md)
 * [algorithm](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3914.md)
+
+## This Technology enables the following mitigations
+
+* [Mobile robots for temperature measurement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2421.md)
 

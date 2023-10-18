@@ -2,9 +2,9 @@
 
 # __Increase production and distribution of testing kits__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Shortage of COVID-19 testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_353.md)
+* [Promote comprehensive testing and tracing, prioritize vulnerable populations, reduce diagnosis-to-surgery time, recognize stress symptoms, and improve testing accuracy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_347.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Increased testing access](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1377.md)
 * [Widespread testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_441.md)
 * [Develop standardized and optimized testing protocols, enhance coordination and cooperation at national and international levels](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1796.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Shortage of COVID-19 testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_353.md)
 

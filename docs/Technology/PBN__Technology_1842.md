@@ -2,9 +2,9 @@
 
 # __vegetation management techniques__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1387972](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1387972.md)
+* [Urban green space solutions include tree planting, zoning regulations, landscape architecture, community gardens, outdoor furniture, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_231.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [landscaping materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4325.md)
 * [maintenance and landscaping equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_844.md)
 * [Maintenance and landscaping equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2319.md)
+
+## This Technology is identified by the following QID
+
+* [Q1387972](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1387972.md)
 

@@ -2,9 +2,17 @@
 
 # __medical professionals__
 
-## This Stakeholder belongs to this StakeholderGroup
+## This Stakeholder can get these Benefits from mitigation measures
 
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+* [Scrutiny of data accuracy and real-time updates](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1056.md)
+* [Reduction of inter-personal communication](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1089.md)
+* [Harmonized messaging](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1411.md)
+* [Increased signal-to-noise ratio](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1412.md)
+* [Improved treatment guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1413.md)
+
+## Category to which it belongs
+
+* [Various individuals in the healthcare industry, including epidemiologists, medical personnel, clinicians, surgeons, and patients in need of medical care.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_360.md)
 
 ## Closest similar item
 
@@ -19,14 +27,10 @@
 * [healthcare professional](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1873.md)
 * [clinicians](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_274.md)
 
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
-
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Scrutiny of data accuracy and real-time updates](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1056.md)
-* [Reduction of inter-personal communication](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1089.md)
-* [Harmonized messaging](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1411.md)
-* [Increased signal-to-noise ratio](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1412.md)
-* [Improved treatment guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1413.md)
 

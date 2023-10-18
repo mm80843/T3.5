@@ -2,8 +2,9 @@
 
 # __Ensuring basic supplies__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Synthesizing, standardizing, and disseminating evidence to enhance accessibility and harmonize protocols for seamless communication and provision of public places.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_186.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Enhance healthcare capacity, stockpile medical supplies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3620.md)
 * [Preparedness procedures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4335.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Shortage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3418.md)
-
 ## Property: has_MitigationPrinciple
 
 Ensuring the availability and distribution of essential food and medical supplies within a neighbourhood to meet the needs of its residents during a lockdown or crisis situation.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Shortage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3418.md)
+
 ## Property: has_MitigationSource
 
 * [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
+
+## This Mitigation is enabled by the following technologies
+
 

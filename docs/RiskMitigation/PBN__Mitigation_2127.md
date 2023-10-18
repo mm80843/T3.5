@@ -2,10 +2,9 @@
 
 # __Access to common building spaces__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [social distancing rule](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4247.md)
-* [intermediate spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4246.md)
+* [Enhancing availability and inclusivity of diverse, inviting, well-maintained and accessible natural environments and communal areas.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_145.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Educating building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4276.md)
 * [Incorporating outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3190.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Socializing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3346.md)
-
 ## Property: has_MitigationPrinciple
 
 Provide common spaces for socializing while maintaining social distancing
 
+## Risks possibly mitigated by this Mitigation
+
+* [Socializing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3346.md)
+
 ## Property: has_MitigationSource
 
 * [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [social distancing rule](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4247.md)
+* [intermediate spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4246.md)
 

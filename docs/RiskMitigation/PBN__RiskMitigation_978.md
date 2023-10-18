@@ -2,13 +2,9 @@
 
 # __Domestic-based supply chain__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Economic downfall](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_707.md)
-
-## Property: has_MitigationBenefit
-
-* [Cost reduction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_983.md)
+* [Promote flexibility and resilience in supply chains through diversification, local production, and proactive strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_320.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Develop supply chain resilience, establish proactive response strategies, diversify supply chains, build collaborative relationships with suppliers and customers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2343.md)
 * [Develop alternative supply chains, increase production and distribution capacity.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1519.md)
 * [Diversify supply chains, establish backup suppliers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2147.md)
+
+## Property: has_MitigationBenefit
+
+* [Cost reduction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_983.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Economic downfall](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_707.md)
 

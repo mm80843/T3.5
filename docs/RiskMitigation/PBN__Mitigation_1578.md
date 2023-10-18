@@ -2,9 +2,9 @@
 
 # __IoT__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [internet of things](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2919.md)
+* [The rapid proliferation of cutting-edge technologies, from lab-on-a-chip and wearable devices to AI, IoT, and blockchain, is revolutionizing various industries.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_187.md)
 
 ## Closest similar item
 
@@ -19,14 +19,18 @@
 * [internet of things](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2838.md)
 * [internet of things (iot)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3116.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Proliferation of network-addressable devices embedded in everyday objects for invisible interaction and cooperation.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Continuous IEQ monitoring system: Context and development](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_160.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [internet of things](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2919.md)
 

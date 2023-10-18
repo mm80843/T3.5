@@ -2,9 +2,9 @@
 
 # __Asymptomatic infections__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Development of wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_934.md)
+* [The dissemination of infectious diseases, characterized by outbreaks from various sources, inadequate preparedness, and insufficient reporting and understanding, poses a global threat.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_106.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Infection and disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2618.md)
 * [Unreported infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3174.md)
 * [Worsening infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3129.md)
+
+## Mitigations of this risk
+
+* [Development of wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_934.md)
 

@@ -2,9 +2,9 @@
 
 # __forecasting software and algorithms__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q7216332](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7216332.md)
+* [Advanced technologies and algorithms for modeling, simulation, optimization, and artificial intelligence in various applications, including robotics and computational fluid dynamics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_239.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [fast prediction models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4334.md)
 * [software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4165.md)
 * [scheduling software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_634.md)
+
+## This Technology is identified by the following QID
+
+* [Q7216332](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7216332.md)
 

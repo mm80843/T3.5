@@ -2,14 +2,9 @@
 
 # __Application of antimicrobial coatings__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Loss of healthcare workforce](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_408.md)
-* [Impact on food industry supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_411.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction in transmission of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_561.md)
+* [Implement comprehensive strategies to control virus transmission, improve surveillance, develop antiviral coatings, and enhance infection control measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_309.md)
 
 ## Closest similar item
 
@@ -23,4 +18,13 @@
 * [Antimicrobial paint](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1359.md)
 * [Antimicrobial indoor finishing materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_346.md)
 * [Use of coatings that have been proven safe for human health and the environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1632.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction in transmission of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_561.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Loss of healthcare workforce](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_408.md)
+* [Impact on food industry supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_411.md)
 

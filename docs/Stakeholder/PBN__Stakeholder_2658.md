@@ -2,13 +2,9 @@
 
 # __wearable user__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q1334829](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1334829.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Technology Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_12.md)
+* [Stakeholders in various industries, from manufacturing to retail, including users and suppliers, with a focus on wearables.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_371.md)
 
 ## Closest similar item
 
@@ -25,4 +21,12 @@
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 
+
+## This Stakeholder is identified by the following QID
+
+* [Q1334829](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1334829.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Technology Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_12.md)
 

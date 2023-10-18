@@ -2,9 +2,9 @@
 
 # __continued technological advancements__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q762702](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q762702.md)
+* [Technological advancements encompass a wide range of innovations, such as blockchain, touchless, renewable energy, and communication technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [innovation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3645.md)
 * [technology transfer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3577.md)
 * [technology devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3579.md)
+
+## This Technology is identified by the following QID
+
+* [Q762702](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q762702.md)
 

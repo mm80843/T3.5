@@ -2,9 +2,9 @@
 
 # __education materials__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Public health education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2227.md)
+* [Explore a diverse range of materials, from sound-absorbing to eco-friendly, that contribute to innovative building solutions and educational resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_222.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [educational websites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1145.md)
 * [Educational websites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2158.md)
 * [educational programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_839.md)
+
+## This Technology enables the following mitigations
+
+* [Public health education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2227.md)
 

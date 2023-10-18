@@ -2,9 +2,9 @@
 
 # __Ensure sufficient lighting that meets safety standards and enhances visibility__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Poor lighting conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2251.md)
+* [Optimize indoor environment by maximizing natural light, ventilation, and incorporating efficient lighting systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_348.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Improve lighting design, use daylighting strategies, provide task lighting](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2480.md)
 * [Proper lighting design, use of glare-reducing fixtures, adjustable lighting controls.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1571.md)
 * [Implement efficient lighting systems with timers or sensors, reduce unnecessary lighting, and optimize vital load usage.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1918.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Poor lighting conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2251.md)
 

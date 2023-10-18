@@ -2,13 +2,9 @@
 
 # __Managing and improving destination image__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Image Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_87.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhancement of destination image](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_117.md)
+* [Implement travel restrictions, promote active transportation, streamline processes, provide accurate information, and develop sustainable transport options.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_325.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Spatial planning considerations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_35.md)
 * [Transformation design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1080.md)
 * [Implementation of virtual house tours](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_678.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhancement of destination image](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_117.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Image Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_87.md)
 

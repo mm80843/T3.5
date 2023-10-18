@@ -2,9 +2,9 @@
 
 # __Gender inequalities__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Promote gender equality in recovery plans](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_624.md)
+* [A compilation of topics including energy use, mechanisms, gender inequality, contractual issues, musculoskeletal disorders, and mental health among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_136.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Gender disparities in knowledge, attitudes, and practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_627.md)
 * [Socioeconomic inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2344.md)
 * [Inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2236.md)
+
+## Mitigations of this risk
+
+* [Promote gender equality in recovery plans](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_624.md)
 

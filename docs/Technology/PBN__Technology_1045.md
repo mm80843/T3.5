@@ -2,9 +2,9 @@
 
 # __use of air purifiers__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1196206](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1196206.md)
+* [Improved air quality can be achieved through the use of various technologies such as air purifiers and monitoring systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_221.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [portable air purifiers with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3866.md)
 * [air purification systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_244.md)
 * [Air purification systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2555.md)
+
+## This Technology is identified by the following QID
+
+* [Q1196206](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1196206.md)
 

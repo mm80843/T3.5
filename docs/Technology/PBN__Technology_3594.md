@@ -2,10 +2,9 @@
 
 # __landscape design__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Green space design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1048.md)
-* [Public space design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1047.md)
+* [Urban green space solutions include tree planting, zoning regulations, landscape architecture, community gardens, outdoor furniture, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_231.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [spatial layout and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3567.md)
 * [park design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4500.md)
 * [terraces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4349.md)
+
+## This Technology enables the following mitigations
+
+* [Green space design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1048.md)
+* [Public space design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1047.md)
 

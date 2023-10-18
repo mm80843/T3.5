@@ -2,13 +2,14 @@
 
 # __ai developers__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q183888](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q183888.md)
+* [A diverse group specializing in the creation and implementation of various technological projects.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_383.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+* [Limited access to COVID-19 data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1719.md)
+* [Lack of reliable AI forecasting models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1720.md)
 
 ## Closest similar item
 
@@ -23,17 +24,20 @@
 * [project developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_905.md)
 * [Project developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1674.md)
 
-## Risk affecting this stakeholder
+## Risks that can be mitigated by this stakeholder
 
-* [Limited access to COVID-19 data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1719.md)
-* [Lack of reliable AI forecasting models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1720.md)
+* [Inefficient disease identification](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1797.md)
+* [Lack of data for AI models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1798.md)
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [AI and Technology](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_54.md)
 
-## Risks that can be mitigated by this stakeholder
+## This Stakeholder is identified by the following QID
 
-* [Inefficient disease identification](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1797.md)
-* [Lack of data for AI models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1798.md)
+* [Q183888](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q183888.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 

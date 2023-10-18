@@ -2,9 +2,9 @@
 
 # __Implement WBE surveillance as a cost-effective and rapid tool for population health assessment and monitoring.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Cost and practicability of clinical testing and WBE](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1449.md)
+* [Enhanced surveillance, monitoring, and real-time tracking for improved control and response to various situations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_312.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Wastewater-based epidemiology (WBE) surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_880.md)
 * [Utilize WBE for early-warning ability, establish baselines for incidence of Covid-19 before re-opening](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1799.md)
 * [Implement wastewater-based epidemiology (WBE), target specific subpopulations, improve testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1798.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Cost and practicability of clinical testing and WBE](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1449.md)
 

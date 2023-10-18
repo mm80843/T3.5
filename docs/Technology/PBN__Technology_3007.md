@@ -2,9 +2,9 @@
 
 # __access control system__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Controlled visitor access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_156.md)
+* [These resources aim to enhance security, convenience, and efficiency in managing access, spaces, and systems within various environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_206.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [access control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_329.md)
 * [administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3947.md)
 * [remote access software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1454.md)
+
+## This Technology enables the following mitigations
+
+* [Controlled visitor access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_156.md)
 

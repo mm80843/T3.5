@@ -2,9 +2,9 @@
 
 # __natural/forced ventilation__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Adequate Air Exchange](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1788.md)
+* [Improved ventilation and air purification methods are implemented, incorporating natural and mechanical systems, upgraded technologies, regular maintenance, and smart controls.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_200.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Natural ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2673.md)
 * [natural ventilation design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_703.md)
 * [mechanical ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_271.md)
+
+## This Technology enables the following mitigations
+
+* [Adequate Air Exchange](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1788.md)
 

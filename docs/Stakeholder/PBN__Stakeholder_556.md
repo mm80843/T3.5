@@ -2,9 +2,9 @@
 
 # __social media platforms__
 
-## This Stakeholder belongs to this StakeholderGroup
+## Category to which it belongs
 
-* [Media](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_3.md)
+* [Members of the public, including social media users, organizations promoting gender equality, and individuals in various social settings and groups.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_385.md)
 
 ## Closest similar item
 
@@ -19,14 +19,6 @@
 * [social media](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2972.md)
 * [media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2786.md)
 
-## Risk affecting this stakeholder
-
-* [Misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1033.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Social Media](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_38.md)
-
 ## Risks that can be mitigated by this stakeholder
 
 * [Spread of inaccurate medical information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1861.md)
@@ -39,4 +31,16 @@
 * [Inaccurate information on social media](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1827.md)
 * [Spread of rumors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2280.md)
 * [Misinformation and ’infodemic’](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1990.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Media](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_3.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Social Media](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_38.md)
+
+## Risk affecting this stakeholder
+
+* [Misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1033.md)
 

@@ -2,9 +2,9 @@
 
 # __e-participation tools)__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1773152](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1773152.md)
+* [Advancements in biotechnology, clinical research, and innovative therapies contribute to the development of medical solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_567.md)
 * [virtual collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_131.md)
 * [electronic surveys](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1826.md)
+
+## This Technology is identified by the following QID
+
+* [Q1773152](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1773152.md)
 

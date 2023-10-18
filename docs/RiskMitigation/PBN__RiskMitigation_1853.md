@@ -2,9 +2,9 @@
 
 # __Implement targeted interventions and resources in areas with high risk factors, such as increased access to healthcare services, targeted education campaigns, and economic support for affected populations__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Socio-economic factors and regional characteristics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1357.md)
+* [Promote public health through policy implementation, strengthened systems, health literacy, and targeted interventions for vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_314.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Design interventions to improve access to healthcare services in underserved areas and mitigate disease transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1667.md)
 * [Ensure healthcare accessibility and affordability, address social determinants of health, provide targeted support to vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2276.md)
 * [Tailoring interventions to target regions, investment in technology and infrastructure, subsidised mobile phone plans, free Wi-Fi hotspots, training programs, use of devices that do not require continuous network access.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3046.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Socio-economic factors and regional characteristics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1357.md)
 

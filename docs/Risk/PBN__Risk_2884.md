@@ -2,9 +2,9 @@
 
 # __Increased contact in crowded shops__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Proximity shopping](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1049.md)
+* [Dense urban environments face challenges with population growth, inequality, biodiversity, mobility, and poor housing conditions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_105.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Crowded spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1499.md)
 * [Social disruptions, transmission in crowded spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2881.md)
 * [Overcrowding in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1022.md)
+
+## Mitigations of this risk
+
+* [Proximity shopping](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1049.md)
 

@@ -2,13 +2,9 @@
 
 # __Adoption of emerging technologies (e.g., virtual reality)__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Overcrowding and poor community behavior](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_355.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved training and education of healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_449.md)
+* [Accelerate the shift to digitalization by embracing emerging technologies and implementing innovative solutions across various sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_346.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Adoption of smart communities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_898.md)
 * [Adoption of telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_906.md)
 * [Virtual reality patient education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1127.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved training and education of healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_449.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Overcrowding and poor community behavior](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_355.md)
 

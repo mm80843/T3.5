@@ -2,13 +2,9 @@
 
 # __Adoption of spatial planning strategies for pandemic preparedness__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Spatial planning considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_247.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved emergency response and public health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_299.md)
+* [Promote equitable, sustainable, and inclusive urban planning to enhance living conditions, mitigate overcrowding, and reduce disparities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_324.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Proper handling of pandemic impact](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1405.md)
 * [Increase investment in healthcare infrastructure, establish temporary medical facilities during outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1577.md)
 * [Forming an ad hoc committee to establish a preparedness plan](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1986.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved emergency response and public health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_299.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Spatial planning considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_247.md)
 

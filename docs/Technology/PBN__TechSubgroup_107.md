@@ -2,17 +2,9 @@
 
 # __Mobile and Remote Monitoring__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [remote healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_12.md)
-* [remote monitoring of patients](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_21.md)
-* [Remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2541.md)
-* [Remote monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2525.md)
-* [Remote monitoring and tracking technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2344.md)
-* [remote monitoring and diagnosis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_470.md)
-* [Real-time monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2474.md)
-* [Mobile apps for monitoring and managing health behaviors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2540.md)
-* [Real-time tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2473.md)
+* [Healthcare services using technology to monitor and manage patients remotely amidst travel limitations and restrictions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_20.md)
 
 ## Closest similar item
 
@@ -26,4 +18,16 @@
 * [Remote Work Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_173.md)
 * [Sensor and Remote Sensing Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_153.md)
 * [Monitoring Systems and Maintenance Protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_155.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [remote healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_12.md)
+* [remote monitoring of patients](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_21.md)
+* [Remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2541.md)
+* [Remote monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2525.md)
+* [Remote monitoring and tracking technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2344.md)
+* [remote monitoring and diagnosis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_470.md)
+* [Real-time monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2474.md)
+* [Mobile apps for monitoring and managing health behaviors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2540.md)
+* [Real-time tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2473.md)
 

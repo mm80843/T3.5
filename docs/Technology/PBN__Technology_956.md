@@ -2,9 +2,9 @@
 
 # __mobile banking__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1941439](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1941439.md)
+* [A comprehensive list of mobile applications, including contact-tracing apps, mental health apps, mobile banking, and fitness tracking devices, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_197.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3470.md)
 * [mobile phones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4435.md)
 * [smartphone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4146.md)
+
+## This Technology is identified by the following QID
+
+* [Q1941439](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1941439.md)
 

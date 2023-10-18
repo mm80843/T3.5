@@ -2,13 +2,13 @@
 
 # __safe management of medical waste__
 
+## Category to which it belongs
+
+* [Safety protocols, emergency response plans, risk assessment tools, and comprehensive risk communication strategies ensure workplace safety and crisis management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_232.md)
+
 ## Risks linked to this technology
 
 * [WM1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2212.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Sanitation and Waste Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_121.md)
 
 ## Closest similar item
 
@@ -23,11 +23,15 @@
 * [waste management measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4257.md)
 * [waste separation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4289.md)
 
-## This Technology belongs to this TechGroup
-
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
-
 ## This Technology is identified by the following QID
 
 * [Q4915134](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4915134.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Sanitation and Waste Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_121.md)
+
+## This Technology belongs to this TechGroup
+
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 

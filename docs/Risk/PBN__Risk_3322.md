@@ -2,9 +2,9 @@
 
 # __Insufficient adoption of clean energy technologies__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Deployment of low-carbon technologies and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1991.md)
+* [Issues related to energy use, including increased consumption, inefficient usage, and lack of understanding, have various implications in different settings and sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_133.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of proper environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1142.md)
 * [Lack of access to clean cooking fuels](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_964.md)
 * [Inefficient energy usage and high energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_345.md)
+
+## Mitigations of this risk
+
+* [Deployment of low-carbon technologies and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1991.md)
 

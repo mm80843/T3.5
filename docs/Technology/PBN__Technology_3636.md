@@ -2,9 +2,9 @@
 
 # __crowd management techniques__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Crowd control measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1087.md)
+* [Effective management and surveillance of crowds through advanced technologies, tools, and strategic measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_233.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [crowd management measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_303.md)
 * [crowd control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3429.md)
 * [crowd control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_777.md)
+
+## This Technology enables the following mitigations
+
+* [Crowd control measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1087.md)
 

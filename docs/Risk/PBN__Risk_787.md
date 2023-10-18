@@ -2,9 +2,9 @@
 
 # __Increased expected number of deaths__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Transformation design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1080.md)
+* [A list of challenges and uncertainties surrounding the impact and response to various events and crises in different sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_124.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Increase in disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2284.md)
 * [Positive health effects (reduced environmental pollution, fewer accidents, lower ARI incidence)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_103.md)
 * [Increased risk of obesity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2813.md)
+
+## Mitigations of this risk
+
+* [Transformation design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1080.md)
 

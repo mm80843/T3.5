@@ -2,9 +2,9 @@
 
 # __Implement restrictions on intercity travel and enforce measures to reduce frequency and speed of travel__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Intercity travel frequency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1649.md)
+* [Implement travel restrictions, promote active transportation, streamline processes, provide accurate information, and develop sustainable transport options.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_325.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement measures to control and monitor human movement, such as travel restrictions and enhanced surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2831.md)
 * [Implementing safety measures to build passenger confidence, promoting the benefits of public transport (e.g. reduced traffic, lower emissions), offering flexible ticketing options](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2535.md)
 * [Travel Restrictions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1194.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Intercity travel frequency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1649.md)
 

@@ -2,9 +2,9 @@
 
 # __Transmission of COVID-19 in buildings__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Upper-room UVGI](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_310.md)
+* [The far-reaching consequences of COVID-19 include its transmission through various settings, impact on urban areas, and scarcity of resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Spread of Covid-19 in urban public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_27.md)
 * [Airborne transmission of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_967.md)
 * [Transmission of COVID-19 through surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_226.md)
+
+## Mitigations of this risk
+
+* [Upper-room UVGI](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_310.md)
 

@@ -2,9 +2,9 @@
 
 # __transportation providers__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Time Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_88.md)
+* [The realm of those involved in the movement of people and goods, including workers, authorities, and operators.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_390.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [transport authority](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1624.md)
 * [transportation departments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_773.md)
 * [city transport authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_531.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Time Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_88.md)
 

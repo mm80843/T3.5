@@ -2,8 +2,9 @@
 
 # __Physical distancing__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Promoting physical and spatial distancing, considering noise levels, and implementing strict measures are essential for social distancing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_147.md)
 
 ## Closest similar item
 
@@ -18,16 +19,16 @@
 * [wearable devices for social distancing monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2671.md)
 * [social distancing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2495.md)
 
+## Property: has_MitigationPrinciple
+
+Maintaining a safe distance from others to reduce the risk of transmission
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Contamination, transmission through close contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2490.md)
 * [Droplet transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_253.md)
 * [Poor infection control practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3457.md)
 * [Direct contact with infectious individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2617.md)
-
-## Property: has_MitigationPrinciple
-
-Maintaining a safe distance from others to reduce the risk of transmission
 
 ## Property: has_MitigationSource
 
@@ -42,4 +43,7 @@ Maintaining a safe distance from others to reduce the risk of transmission
 * [Towards the sustainable development of smart cities through mass video surveillance: A response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_117.md)
 * [Questioning the use of the balcony in apartments during the COVID-19 pandemic process](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_165.md)
 * [Knowledge, attitudes, and practices of Indonesian residents regarding COVID-19: A national cross-sectional survey](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_176.md)
+
+## This Mitigation is enabled by the following technologies
+
 

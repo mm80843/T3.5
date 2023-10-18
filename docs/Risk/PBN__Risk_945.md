@@ -2,9 +2,9 @@
 
 # __High entrance/membership fees for green areas__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Reduce entrance/membership fees for green areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1314.md)
+* [Limited access, funding, and maintenance of green spaces exacerbate inequalities, allergies, and negative perceptions in urban areas.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_121.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inadequate access to urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1822.md)
 * [Limited access to private green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1970.md)
 * [Inequality in access to green areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2249.md)
+
+## Mitigations of this risk
+
+* [Reduce entrance/membership fees for green areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1314.md)
 

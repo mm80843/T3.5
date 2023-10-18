@@ -2,13 +2,9 @@
 
 # __psychological interventions__
 
-## Risks linked to this technology
+## Category to which it belongs
 
-* [Alexithymia](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2060.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Mental Health Resources and Support](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_68.md)
+* [Measures promoting accountability, media control, real-time updates, and virtual experiences for physical distancing and education.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
 
 ## Closest similar item
 
@@ -26,4 +22,12 @@
 ## This Technology belongs to this TechGroup
 
 * [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Mental Health Resources and Support](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_68.md)
+
+## Risks linked to this technology
+
+* [Alexithymia](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2060.md)
 

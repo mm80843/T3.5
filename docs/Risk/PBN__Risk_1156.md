@@ -2,25 +2,9 @@
 
 # __Limited accuracy and specificity of biomarker measurements__
 
-## Property: has_RiskHealth
+## Category to which it belongs
 
-* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Description of the risk
-
-Biomarker measurements, such as ELISA and mass spectrometry, may lack accuracy and specificity for COVID-19 detection in wastewater.
-
-## Property: has_RiskType
-
-* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
-
-## Articles mentionning the risk
-
-* [Wastewater-Based Epidemiology to monitor COVID-19 outbreak: Present and future diagnostic methods to be in your radar](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_178.md)
+* [The challenges include inadequate testing capacity, slow identification of cases, limited evidence, and variability in PCR methods.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_140.md)
 
 ## Closest similar item
 
@@ -35,14 +19,33 @@ Biomarker measurements, such as ELISA and mass spectrometry, may lack accuracy a
 * [Lack of specific biomarkers for COVID-19 detection in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1154.md)
 * [Data accuracy and reliability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2466.md)
 
-## People affected by this risk
+## Description of the risk
 
-* [laboratory personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_690.md)
-* [researchers in wastewater analysis](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_691.md)
+Biomarker measurements, such as ELISA and mass spectrometry, may lack accuracy and specificity for COVID-19 detection in wastewater.
+
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Property: has_RiskHealth
+
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Mitigations of this risk
+
+* [Optimization and validation of biomarker measurement methods for wastewater analysis, including ELISA and mass spectrometry.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1608.md)
+
+## Name of the risk
+
+Potential false-positive or false-negative results in the detection and monitoring of COVID-19 outbreaks in wastewater using biomarkers.
 
 ## Stakeholders who can mitigate this risk
 
@@ -50,19 +53,20 @@ Biomarker measurements, such as ELISA and mass spectrometry, may lack accuracy a
 * [scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_46.md)
 * [laboratory personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_690.md)
 
-## Name of the risk
+## Articles mentionning the risk
 
-Potential false-positive or false-negative results in the detection and monitoring of COVID-19 outbreaks in wastewater using biomarkers.
+* [Wastewater-Based Epidemiology to monitor COVID-19 outbreak: Present and future diagnostic methods to be in your radar](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_178.md)
 
-## Mitigations of this risk
+## People affected by this risk
 
-* [Optimization and validation of biomarker measurement methods for wastewater analysis, including ELISA and mass spectrometry.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1608.md)
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+* [laboratory personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_690.md)
+* [researchers in wastewater analysis](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_691.md)
 
 ## Technologies linked to the risk
 
 * [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
+
+## Property: has_RiskType
+
+* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 

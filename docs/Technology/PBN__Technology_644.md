@@ -2,6 +2,10 @@
 
 # __sensor integration__
 
+## Category to which it belongs
+
+* [Advanced monitoring systems and sensor integration for IoT devices and biosensor technology facilitate environmental monitoring and facility usage tracking.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_229.md)
+
 ## Risks linked to this technology
 
 * [Information asymmetry between occupants and indoor environmental data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1406.md)

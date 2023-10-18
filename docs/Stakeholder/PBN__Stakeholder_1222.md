@@ -2,9 +2,9 @@
 
 # __sports organizations__
 
-## This Stakeholder belongs to this StakeholderGroup
+## Category to which it belongs
 
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+* [A diverse array of entities dedicated to various industries, causes, or services, promoting growth and welfare in society.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_369.md)
 
 ## Closest similar item
 
@@ -19,11 +19,15 @@
 * [professional organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1336.md)
 * [Professional organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1679.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderGroup
 
-* [Impact on sports industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1815.md)
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Fitness and Sports](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_56.md)
+
+## Risk affecting this stakeholder
+
+* [Impact on sports industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1815.md)
 

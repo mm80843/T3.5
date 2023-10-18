@@ -2,13 +2,9 @@
 
 # __Reduced greenhouse gas emissions__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Environmental impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_748.md)
-
-## Property: has_MitigationBenefit
-
-* [Emissions reduction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1027.md)
+* [Transition to sustainable energy sources, implement energy-efficient measures, and absorb increased service demand.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_351.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implement stricter air pollution regulations, reduce emissions from vehicles and industries](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1595.md)
 * [Promotion of sustainable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_234.md)
 * [Increase urban green infrastructure to counteract the urban heat island effect](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2581.md)
+
+## Property: has_MitigationBenefit
+
+* [Emissions reduction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1027.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Environmental impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_748.md)
 

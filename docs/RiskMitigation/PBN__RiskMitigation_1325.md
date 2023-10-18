@@ -2,13 +2,9 @@
 
 # __IoT data monitoring__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [COVID-19 outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_302.md)
-
-## Property: has_MitigationBenefit
-
-* [Real-time data collection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1306.md)
+* [Enhanced surveillance, monitoring, and real-time tracking for improved control and response to various situations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_312.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [IoT monitoring and alert systems; prioritization of activities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3039.md)
 * [IoT in healthcare (IoMT)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_142.md)
 * [Cloud-based remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_499.md)
+
+## Property: has_MitigationBenefit
+
+* [Real-time data collection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1306.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [COVID-19 outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_302.md)
 

@@ -2,9 +2,9 @@
 
 # __modeling and data analysis__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Modified Wells-Riley model](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2042.md)
+* [Data-driven insights and analysis for decision making, anonymized data, transparency, visualization, and advanced techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_205.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [data analysis algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1978.md)
 * [statistical models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1687.md)
 * [statistical analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_359.md)
+
+## This Technology enables the following mitigations
+
+* [Modified Wells-Riley model](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2042.md)
 

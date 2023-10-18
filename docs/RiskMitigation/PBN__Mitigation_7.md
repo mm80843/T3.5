@@ -2,10 +2,9 @@
 
 # __Quarantine__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [quarantine facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3549.md)
-* [isolation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2896.md)
+* [Enforcing strict regulations to separate and monitor individuals, ensuring public safety during a period of isolation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_152.md)
 
 ## Closest similar item
 
@@ -19,6 +18,10 @@
 * [Household quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_666.md)
 * [Mandatory quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1338.md)
 * [Compliance of Quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1939.md)
+
+## Property: has_MitigationPrinciple
+
+Isolate and restrict the movement of individuals who have been in contact with infected individuals or are infected
 
 ## Risks possibly mitigated by this Mitigation
 
@@ -34,10 +37,6 @@
 * [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
 * [Transmission from infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3331.md)
 * [Transmission of Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2812.md)
-
-## Property: has_MitigationPrinciple
-
-Isolate and restrict the movement of individuals who have been in contact with infected individuals or are infected
 
 ## Property: has_MitigationSource
 
@@ -60,4 +59,9 @@ Isolate and restrict the movement of individuals who have been in contact with i
 * [Questioning the use of the balcony in apartments during the COVID-19 pandemic process](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_165.md)
 * [How loneliness is talked about in social media during COVID-19 pandemic: Text mining of 4,492 Twitter feeds](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_190.md)
 * [Covid-19 and asset management in EU: a preliminary assessment of performance and investment styles](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_271.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [quarantine facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3549.md)
+* [isolation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2896.md)
 

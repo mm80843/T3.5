@@ -2,9 +2,9 @@
 
 # __Energy Saving and Conservation__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [energy-saving tips](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_86.md)
+* [Promoting sustainable practices for efficient management and utilization of energy resources while prioritizing conservation and renewable energy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_32.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Infrastructure and Resource Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_126.md)
 * [Urban Planning and Green Spaces](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_85.md)
 * [Environmental and Outdoor Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_91.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [energy-saving tips](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_86.md)
 

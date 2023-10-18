@@ -2,9 +2,9 @@
 
 # __Community participation in control policies and preventative measures__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Community outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_662.md)
+* [Fragmented global governance, reduced aid, ethical concerns, educational disruption, impacts on peace and justice, and inadequate coordination between stakeholders.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_115.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Failure to implement preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2260.md)
 * [Lack of community trust and empowerment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3404.md)
 * [Lack of community-level vector control capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_759.md)
+
+## Mitigations of this risk
+
+* [Community outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_662.md)
 

@@ -2,9 +2,9 @@
 
 # __targeted messaging__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q58199](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q58199.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [public health messaging systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_705.md)
 * [effective public health messaging](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3611.md)
 * [text and video messaging](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3056.md)
+
+## This Technology is identified by the following QID
+
+* [Q58199](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q58199.md)
 

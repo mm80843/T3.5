@@ -2,15 +2,9 @@
 
 # __public health practitioners__
 
-## This Stakeholder can get these Benefits from mitigation measures
+## Category to which it belongs
 
-* [Early detection of disease outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1015.md)
-* [Early warning system for emerging risks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1016.md)
-* [Bolstering European early warning for disease events](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1017.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q67130236](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q67130236.md)
+* [Public health stakeholders and individuals alike are concerned about health, seeking information and guidance from trusted sources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_354.md)
 
 ## Closest similar item
 
@@ -24,4 +18,14 @@
 * [practitioners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_228.md)
 * [public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_222.md)
 * [Public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1880.md)
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Early detection of disease outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1015.md)
+* [Early warning system for emerging risks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1016.md)
+* [Bolstering European early warning for disease events](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1017.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q67130236](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q67130236.md)
 

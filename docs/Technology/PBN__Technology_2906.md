@@ -2,9 +2,9 @@
 
 # __sanitation infrastructure and services__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Access to adequate sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_25.md)
+* [Improvements in wastewater, waste management, sanitation, water purification, and plumbing technologies aim for sustainable and efficient infrastructure development.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_234.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2556.md)
 * [sanitation supplies and facilities (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3445.md)
 * [sanitation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_30.md)
+
+## This Technology enables the following mitigations
+
+* [Access to adequate sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_25.md)
 

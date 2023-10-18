@@ -2,9 +2,9 @@
 
 # __Lack of ontology openness and interoperability__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Adoption of OBO Foundry principles](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_55.md)
+* [The challenges of implementing a digital culture include lack of interoperability, missing information, emerging technologies, and technological limitations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_112.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Incomplete coverage of information in ontologies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1454.md)
 * [Lack of interoperable data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2723.md)
 * [Limited awareness, interoperability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2991.md)
+
+## Mitigations of this risk
+
+* [Adoption of OBO Foundry principles](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_55.md)
 

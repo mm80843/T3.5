@@ -2,13 +2,9 @@
 
 # __healthcare industry__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q15067276](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q15067276.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+* [Those involved in the provision and management of healthcare services, including workers, professionals, facilities, and users.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_355.md)
 
 ## Closest similar item
 
@@ -23,10 +19,6 @@
 * [pharmaceutical industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1393.md)
 * [healthcare institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_269.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Healthcare](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_48.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Verifiable and secure data](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1053.md)
@@ -39,4 +31,16 @@
 * [Increased waste](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_842.md)
 * [Impact on information technology, media, and research & development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1816.md)
 * [Impact on healthcare systems and pharmaceutical industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1812.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Healthcare](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_48.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q15067276](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q15067276.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 

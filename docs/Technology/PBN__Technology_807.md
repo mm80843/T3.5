@@ -2,13 +2,13 @@
 
 # __support systems__
 
+## Category to which it belongs
+
+* [These resources aim to enhance security, convenience, and efficiency in managing access, spaces, and systems within various environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_206.md)
+
 ## Risks linked to this technology
 
 * [Economic and social disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1522.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Support Systems and Resources](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_42.md)
 
 ## Closest similar item
 
@@ -23,11 +23,15 @@
 * [financial support systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_71.md)
 * [infrastructure support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2953.md)
 
-## This Technology belongs to this TechGroup
-
-* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
-
 ## This Technology is identified by the following QID
 
 * [Q330268](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q330268.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Support Systems and Resources](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_42.md)
+
+## This Technology belongs to this TechGroup
+
+* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
 

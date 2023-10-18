@@ -2,9 +2,9 @@
 
 # __Implement strong security measures nan to protect data nan nan and privacy__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Security and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2083.md)
+* [Enable transparent and secure data management, traceability, and efficient distribution while promoting accurate information dissemination and verification.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_321.md)
 
 ## Closest similar item
 
@@ -17,4 +17,8 @@
 * [Implement strong data protection measures, ensure transparency and consent, use decentralized and secure systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2275.md)
 * [Ensure robust privacy and data protection measures; implement secure data encryption and storage systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2699.md)
 * [Implement strong encryption and access control measures, comply with data privacy regulations.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1544.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Security and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2083.md)
 

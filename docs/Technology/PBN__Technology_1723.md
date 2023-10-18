@@ -2,14 +2,9 @@
 
 # __motion sensors__
 
-## Risks linked to this technology
+## Category to which it belongs
 
-* [PVP2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2191.md)
-
-## This Technology enables the following mitigations
-
-* [Touchless technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1310.md)
-* [Touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2148.md)
+* [Advanced monitoring systems and sensor integration for IoT devices and biosensor technology facilitate environmental monitoring and facility usage tracking.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_229.md)
 
 ## Closest similar item
 
@@ -23,4 +18,13 @@
 * [wearable sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2949.md)
 * [sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3150.md)
 * [sensor devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3875.md)
+
+## This Technology enables the following mitigations
+
+* [Touchless technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1310.md)
+* [Touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2148.md)
+
+## Risks linked to this technology
+
+* [PVP2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2191.md)
 

@@ -2,17 +2,9 @@
 
 # __planners__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Poor environmental quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2153.md)
-* [Zoonotic disease emergence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_488.md)
-* [spaces during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2290.md)
-* [Inefficient washing area](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1090.md)
-* [Inequities in infrastructure access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2152.md)
-
-## Risk affecting this stakeholder
-
-* [Lack of design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2106.md)
+* [Experts from various fields including research, risk assessment, education, science, HVAC, and IT.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_356.md)
 
 ## Closest similar item
 
@@ -26,4 +18,16 @@
 * [urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2842.md)
 * [Urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2843.md)
 * [community planning](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2912.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Poor environmental quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2153.md)
+* [Zoonotic disease emergence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_488.md)
+* [spaces during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2290.md)
+* [Inefficient washing area](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1090.md)
+* [Inequities in infrastructure access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2152.md)
+
+## Risk affecting this stakeholder
+
+* [Lack of design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2106.md)
 

@@ -2,6 +2,10 @@
 
 # __energy storage__
 
+## Category to which it belongs
+
+* [Improved and energy-efficient HVAC systems, along with advanced technologies, for efficient energy management and environmental control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_227.md)
+
 ## Risks linked to this technology
 
 * [EU1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2209.md)

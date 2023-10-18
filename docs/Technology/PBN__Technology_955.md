@@ -2,9 +2,9 @@
 
 # __portable medical equipment__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q6657015](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6657015.md)
+* [Safety and operational tools for various fields, including healthcare, cleaning, maintenance, and emergency preparation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_212.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_136.md)
 * [mobile medical units](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1653.md)
 * [exercise equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3238.md)
+
+## This Technology is identified by the following QID
+
+* [Q6657015](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6657015.md)
 

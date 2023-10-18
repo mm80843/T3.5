@@ -2,13 +2,9 @@
 
 # __healthcare practitioners__
 
-## This Stakeholder can get these Benefits from mitigation measures
+## Category to which it belongs
 
-* [Discovery of unknown correlations and more accurate predictions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1398.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q39631](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q39631.md)
+* [Those involved in the provision and management of healthcare services, including workers, professionals, facilities, and users.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_355.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [health care providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_344.md)
 * [health professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_595.md)
 * [healthcare personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_185.md)
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Discovery of unknown correlations and more accurate predictions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1398.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q39631](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q39631.md)
 

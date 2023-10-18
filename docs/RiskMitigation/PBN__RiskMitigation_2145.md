@@ -2,9 +2,9 @@
 
 # __Promote energy efficiency measures and renewable energy production__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Fall in energy demand](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1607.md)
+* [Transition to sustainable energy sources, implement energy-efficient measures, and absorb increased service demand.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_351.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement energy-saving measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_456.md)
 * [Promoting sustainable production and consumption methods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_281.md)
 * [Implement energy-efficient appliances, promote alternative energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2942.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Fall in energy demand](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1607.md)
 

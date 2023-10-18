@@ -2,9 +2,9 @@
 
 # __Severe cases of COVID-19__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Steroids](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2398.md)
+* [The far-reaching consequences of COVID-19 include its transmission through various settings, impact on urban areas, and scarcity of resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [about COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_535.md)
 * [COVID-19 symptoms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3136.md)
 * [COVID-19 outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_302.md)
+
+## Mitigations of this risk
+
+* [Steroids](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2398.md)
 

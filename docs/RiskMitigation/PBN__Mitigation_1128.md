@@ -2,9 +2,9 @@
 
 # __Linear people movement models__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [extended kalman filter](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3678.md)
+* [Enhancing urban mobility through pedestrian-friendly infrastructure, optimized transportation, and improved public transportation systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_151.md)
 
 ## Closest similar item
 
@@ -19,14 +19,18 @@
 * [Reduction in Pedestrian Flow](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_910.md)
 * [Crowd control on public transport](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2358.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Estimating building occupancy based on linear people movement models and unknown parameters.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Building occupancy estimation with people flow modeling in AnyLogic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_29.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [extended kalman filter](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3678.md)
 

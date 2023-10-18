@@ -2,6 +2,23 @@
 
 # __Biology techs__
 
+## Category to which it belongs
+
+* [Laboratory professionals specializing in the study and analysis of living organisms and their processes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_297.md)
+
+## Closest similar item
+
+* [biotechnology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_74.md)
+* [scientific studies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_75.md)
+* [molecular technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_76.md)
+* [technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_77.md)
+* [biosensor](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_78.md)
+* [Bioinformatics tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_79.md)
+* [bioinformatics tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_80.md)
+* [biosensors](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_81.md)
+* [Research institutions](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_82.md)
+* [research institutions](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_83.md)
+
 ## This Technology belongs to this TechnologyGroup
 
 * [contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
@@ -115,17 +132,4 @@
 * [condom distribution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2810.md)
 * [CRISPR](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2811.md)
 * [lab-on-a-chip](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2812.md)
-
-## Closest similar item
-
-* [biotechnology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_74.md)
-* [scientific studies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_75.md)
-* [molecular technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_76.md)
-* [technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_77.md)
-* [biosensor](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_78.md)
-* [Bioinformatics tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_79.md)
-* [bioinformatics tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_80.md)
-* [biosensors](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_81.md)
-* [Research institutions](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_82.md)
-* [research institutions](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_83.md)
 

@@ -2,10 +2,9 @@
 
 # __Increased prevalence of respiratory diseases__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Increased Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_708.md)
-* [Occupant Density Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1761.md)
+* [The proliferation of diseases carried by ticks and mosquitoes, exacerbated by climate change, inadequate control measures, and wildlife disturbance, causing increased prevalence and spread of various illnesses.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_119.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Spread of respiratory viruses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_71.md)
 * [Respiratory viruses strain health services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1538.md)
 * [Influenza incidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_216.md)
+
+## Mitigations of this risk
+
+* [Increased Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_708.md)
+* [Occupant Density Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1761.md)
 

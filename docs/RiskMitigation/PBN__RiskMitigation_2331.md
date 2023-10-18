@@ -2,9 +2,9 @@
 
 # __Conduct further research and studies to determine the effectiveness of UVGI systems in preventing healthcare-associated infections__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of definitive epidemiologic data on the ability of UVGI systems to prevent healthcare-associated infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1762.md)
+* [Utilize UVGI technology to disinfect air, surfaces, and clothing, ensuring proper installation, training, and research to optimize effectiveness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_352.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Use of UVGI devices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_521.md)
 * [Provide appropriate training on the use of UV-C disinfection system and personal protective equipment for staff.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1623.md)
 * [Use UVGI systems in air ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1644.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of definitive epidemiologic data on the ability of UVGI systems to prevent healthcare-associated infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1762.md)
 

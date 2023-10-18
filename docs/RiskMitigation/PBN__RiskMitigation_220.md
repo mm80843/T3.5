@@ -2,13 +2,9 @@
 
 # __Availability of greenery and gardens__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [MH1: Mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_180.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_153.md)
+* [Promote biodiversity and sustainable urban development through the establishment and accessibility of green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_322.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implement urban greening initiatives to create and enhance green spaces in highly urbanized areas, consider green roofs and vertical gardens](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2075.md)
 * [Increase awareness of the value of green areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1317.md)
 * [Increase access to green spaces, promote urban greening initiatives, create more parks and gardens](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2141.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_153.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [MH1: Mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_180.md)
 

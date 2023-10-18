@@ -2,9 +2,9 @@
 
 # __City lockdown__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Enforcing lockdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1406.md)
+* [Lockdowns exacerbate social inequalities, limit access to green spaces, shift energy demands, cause delays, and impact mental health.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_102.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Limited accessibility to green spaces during lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_328.md)
 * [Lack of outdoor recreation during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1967.md)
 * [Increased recreational activity during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_889.md)
+
+## Mitigations of this risk
+
+* [Enforcing lockdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1406.md)
 

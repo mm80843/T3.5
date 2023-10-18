@@ -2,11 +2,11 @@
 
 # __Maintenance / decontamination of building water sytems__
 
-## Property: has_BP_InterventionTitle
-
-Maintenance / decontamination of building water sytems
-
 ## Property: has_BP_InterventionKey
 
 PW2
+
+## Property: has_BP_InterventionTitle
+
+Maintenance / decontamination of building water sytems
 

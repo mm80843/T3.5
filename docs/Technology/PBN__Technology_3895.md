@@ -2,9 +2,9 @@
 
 # __digital infrastructure__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Support for children’s education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1507.md)
+* [The built environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_230.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [digital platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_640.md)
 * [Digital platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2864.md)
 * [network infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2316.md)
+
+## This Technology enables the following mitigations
+
+* [Support for children’s education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1507.md)
 

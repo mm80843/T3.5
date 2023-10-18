@@ -2,9 +2,9 @@
 
 # __Age and Gender__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [women](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_23.md)
+* [Demographic characteristics that categorize individuals based on their age and gender, along with related concerns.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_243.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Responsible or Working Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_78.md)
 * [Students](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_19.md)
 * [Socioeconomic Defined Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_89.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [women](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_23.md)
 

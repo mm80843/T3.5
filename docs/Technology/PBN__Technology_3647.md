@@ -2,9 +2,9 @@
 
 # __public transport__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Green transportation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1099.md)
+* [Enhancing accessibility and support through a range of remote healthcare, counseling, transportation, and translation services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_213.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [transportation services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_544.md)
 * [transportation planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_661.md)
 * [active transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1155.md)
+
+## This Technology enables the following mitigations
+
+* [Green transportation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1099.md)
 

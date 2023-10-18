@@ -2,9 +2,9 @@
 
 # __community engagement initiatives__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q5154950](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5154950.md)
+* [A range of community-centered initiatives, programs, and strategies foster participation, collaboration, and social support for diverse groups.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_236.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [public engagement strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4314.md)
 * [community engagement platforms and participatory decision-making tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1675.md)
 * [public engagement and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_732.md)
+
+## This Technology is identified by the following QID
+
+* [Q5154950](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5154950.md)
 

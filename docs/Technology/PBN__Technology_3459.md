@@ -2,10 +2,9 @@
 
 # __supplies__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Healthcare system preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1015.md)
-* [Equipping the hospital](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_801.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3600.md)
 * [logistics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3644.md)
 * [procurement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3572.md)
+
+## This Technology enables the following mitigations
+
+* [Healthcare system preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1015.md)
+* [Equipping the hospital](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_801.md)
 

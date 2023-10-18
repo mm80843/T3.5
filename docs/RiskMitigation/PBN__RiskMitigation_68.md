@@ -2,13 +2,9 @@
 
 # __Standardized protocols and governance structures__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Loss of control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_51.md)
-
-## Property: has_MitigationBenefit
-
-* [Control and governance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_74.md)
+* [Promote standardized data collection, ontology-based representation, and enhanced data sharing to improve decision-making processes and data quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_319.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Adoption of common standards](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1123.md)
 * [Collaborating with healthcare professionals and authorities to develop and disseminate clear guidelines and protocols for property and facilities management.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2677.md)
 * [Meta-harmonization of common data standards, standardized processes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2820.md)
+
+## Property: has_MitigationBenefit
+
+* [Control and governance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_74.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Loss of control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_51.md)
 

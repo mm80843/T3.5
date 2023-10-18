@@ -2,9 +2,9 @@
 
 # __Data completion and vaccination tracking technologies__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
-* [Vaccine Development and Tracking Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_170.md)
+* [Data-driven insights and analysis for decision making, anonymized data, transparency, visualization, and advanced techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_205.md)
 
 ## Closest similar item
 
@@ -19,11 +19,15 @@
 * [technology for disease surveillance and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1031.md)
 * [Technology for disease surveillance and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2468.md)
 
-## This Technology belongs to this TechGroup
-
-* [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_10.md)
-
 ## This Technology is identified by the following QID
 
 * [Q70477194](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q70477194.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Vaccine Development and Tracking Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_170.md)
+
+## This Technology belongs to this TechGroup
+
+* [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_10.md)
 

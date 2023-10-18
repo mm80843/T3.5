@@ -2,12 +2,9 @@
 
 # __Local Government and Health Organizations__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [City governments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2512.md)
-* [Regulatory bodies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2241.md)
-* [public health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_313.md)
-* [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_341.md)
+* [Efforts to promote and protect community well-being through education, engagement, regulations, and behavior change.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_19.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [Financial Support and Community Initiatives](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_36.md)
 * [Mobile Health Apps and Services](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_34.md)
 * [Healthcare and Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_19.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [City governments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2512.md)
+* [Regulatory bodies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2241.md)
+* [public health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_313.md)
+* [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_341.md)
 

@@ -6,6 +6,10 @@
 
 * [Differentiation and market advantage](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_803.md)
 
+## Category to which it belongs
+
+* [Property stakeholders ranging from investors, homeowners, and tenants to entrepreneurs and commercial space owners.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_7.md)
+
 ## Closest similar item
 
 * [property owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_177.md)

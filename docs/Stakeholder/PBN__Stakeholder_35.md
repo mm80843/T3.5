@@ -6,6 +6,10 @@
 
 * [Improved monitoring and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_38.md)
 
+## Category to which it belongs
+
+* [All people, especially those at risk or facing various circumstances, including age, health conditions, or unemployment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_374.md)
+
 ## Closest similar item
 
 * [individuals in self-isolation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1146.md)

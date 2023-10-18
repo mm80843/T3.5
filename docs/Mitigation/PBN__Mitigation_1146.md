@@ -2,10 +2,9 @@
 
 # __Tick Control__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [pyrethrin-soaked cotton fibers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3689.md)
-* [ospa-based transmission-blocking vaccine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3690.md)
+* [Maximizing control and efficiency in various domains through advanced technology and strategic planning.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_163.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Sensory networks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1959.md)
 * [Administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_534.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Tick-borne infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2944.md)
-
 ## Property: has_MitigationPrinciple
 
 Decreasing the number of infected small mammals and vaccinating wild mice can reduce the prevalence of tick-borne diseases
 
+## Risks possibly mitigated by this Mitigation
+
+* [Tick-borne infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2944.md)
+
 ## Property: has_MitigationSource
 
 * [Making green infrastructure healthier infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_20.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [pyrethrin-soaked cotton fibers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3689.md)
+* [ospa-based transmission-blocking vaccine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3690.md)
 

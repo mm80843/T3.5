@@ -2,9 +2,9 @@
 
 # __Elevated healthcare expenditure__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Promoting mental health and well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_927.md)
+* [Healthcare systems overwhelmed with limited resources, shortage of personnel, and inadequate infrastructure face challenges in providing accessible and quality care.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_101.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Limited access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_122.md)
 * [Healthcare system capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2031.md)
 * [Healthcare system overload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2134.md)
+
+## Mitigations of this risk
+
+* [Promoting mental health and well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_927.md)
 

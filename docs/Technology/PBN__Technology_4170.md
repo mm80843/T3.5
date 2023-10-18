@@ -2,9 +2,9 @@
 
 # __tempfloor panels__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Tempfloor Panels](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1962.md)
+* [Various technologies and devices are used to measure and regulate temperature, including cameras, scanners, sensors, and thermostats.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_220.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [building insulation materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4062.md)
 * [temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4050.md)
 * [temperature screening](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_25.md)
+
+## This Technology enables the following mitigations
+
+* [Tempfloor Panels](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1962.md)
 

@@ -2,9 +2,9 @@
 
 # __Expansion of wearable technology in healthcare__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Exploring new applications of wearables in healthcare, such as smart facemasks and biomarker detection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_953.md)
+* [The intersection of human activity and health, integrating databases, limited healthcare access, sedentary lifestyles, neglecting public health requirements, and disparities in urban design contribute to public health concerns.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_116.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Shortage of medical equipment and medication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_703.md)
 * [Sample bias in wearable device studies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1111.md)
 * [Lack of Healthcare Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1881.md)
+
+## Mitigations of this risk
+
+* [Exploring new applications of wearables in healthcare, such as smart facemasks and biomarker detection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_953.md)
 

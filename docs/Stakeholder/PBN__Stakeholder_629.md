@@ -2,6 +2,23 @@
 
 # __none__
 
+## Category to which it belongs
+
+* [Entities and individuals who interact with or are affected by a system, organization, or public facility.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_1.md)
+
+## Closest similar item
+
+* [none specified](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2766.md)
+* [apps)](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2767.md)
+* [](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2768.md)
+* [bathroom)](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2769.md)
+* [products](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2770.md)
+* [internet)](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2771.md)
+* [pm](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2772.md)
+* [ml](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2773.md)
+* [surveys](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2774.md)
+* [rh](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1130.md)
+
 ## Risks that can be mitigated by this stakeholder
 
 * [Domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1766.md)
@@ -46,17 +63,4 @@
 * [Fragmented WBE data collection and reporting system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1311.md)
 * [Fragmented political responses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1585.md)
 * [Vulnerability to COVID-19 in LMICs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1709.md)
-
-## Closest similar item
-
-* [none specified](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2766.md)
-* [apps)](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2767.md)
-* [](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2768.md)
-* [bathroom)](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2769.md)
-* [products](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2770.md)
-* [internet)](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2771.md)
-* [pm](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2772.md)
-* [ml](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2773.md)
-* [surveys](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2774.md)
-* [rh](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1130.md)
 

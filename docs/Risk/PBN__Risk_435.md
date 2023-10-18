@@ -2,9 +2,9 @@
 
 # __Deficiencies in office buildings and layouts in regards to infection spreading propensity during the COVID-19 pandemic__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Modify office building design and layout](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_603.md)
+* [The far-reaching consequences of COVID-19 include its transmission through various settings, impact on urban areas, and scarcity of resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Spread of infection in crowded spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3410.md)
 * [Spread of Covid-19 in urban public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_27.md)
 * [Transmission of infectious diseases in indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_943.md)
+
+## Mitigations of this risk
+
+* [Modify office building design and layout](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_603.md)
 

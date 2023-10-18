@@ -2,13 +2,9 @@
 
 # __Improving access to safe drinking water__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of access to clean water](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_238.md)
-
-## Property: has_MitigationBenefit
-
-* [Clean water and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_291.md)
+* [Enforce safety measures, promote responsible behavior, utilize PPE, and prioritize risk prevention to ensure adequate protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_342.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Improve access to basic water and sanitation facilities in housing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1789.md)
 * [Scaling up provision of water and safe sanitation in settlements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_144.md)
 * [Ensure equitable access to housing, water, and healthcare](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2815.md)
+
+## Property: has_MitigationBenefit
+
+* [Clean water and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_291.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of access to clean water](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_238.md)
 

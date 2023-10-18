@@ -2,9 +2,9 @@
 
 # __practitioners and recipients of ubpi__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Lack of quantitative evidence for the effectiveness of UBPI](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2242.md)
+* [Various individuals in the healthcare industry, including epidemiologists, medical personnel, clinicians, surgeons, and patients in need of medical care.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_360.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [health professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_595.md)
 * [practitioners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_228.md)
 * [healthcare researcher](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1879.md)
+
+## Risk affecting this stakeholder
+
+* [Lack of quantitative evidence for the effectiveness of UBPI](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2242.md)
 

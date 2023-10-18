@@ -2,14 +2,9 @@
 
 # __Upper-room UV light__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Airborne TB Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_378.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction in TB infection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_512.md)
-* [Reduction in TB disease](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_513.md)
+* [Utilize UVGI technology to disinfect air, surfaces, and clothing, ensuring proper installation, training, and research to optimize effectiveness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_352.md)
 
 ## Closest similar item
 
@@ -23,4 +18,13 @@
 * [Incorporate far-UVC light as a disinfection measure in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1679.md)
 * [More research on UV susceptibility](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2988.md)
 * [Conduct further research and studies to compare the two types of UV light for disinfection purposes.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1681.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction in TB infection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_512.md)
+* [Reduction in TB disease](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_513.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Airborne TB Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_378.md)
 

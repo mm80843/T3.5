@@ -2,9 +2,9 @@
 
 # __power management systems__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Stand-by load](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_705.md)
+* [Improved and energy-efficient HVAC systems, along with advanced technologies, for efficient energy management and environmental control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_227.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Energy Management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4554.md)
 * [smart home energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3195.md)
 * [smart energy management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_326.md)
+
+## This Technology enables the following mitigations
+
+* [Stand-by load](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_705.md)
 

@@ -2,9 +2,9 @@
 
 # __essential staff__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Travel-related transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1034.md)
+* [Employees across various industries, including laboratories, maintenance personnel, cleaning staff, and workers in the informal sector.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_359.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Janitorial staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1757.md)
 * [cleaning staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_656.md)
 * [medical staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_93.md)
+
+## Risk affecting this stakeholder
+
+* [Travel-related transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1034.md)
 

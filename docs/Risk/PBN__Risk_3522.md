@@ -2,6 +2,10 @@
 
 # __Impact on workers’ health and safety__
 
+## Category to which it belongs
+
+* [Health and safety concerns, risk communication strategy, and inadequate personal protective equipment are all indicative of potential hazards and vulnerabilities in various settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_126.md)
+
 ## Closest similar item
 
 * [Safety risks for workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1086.md)

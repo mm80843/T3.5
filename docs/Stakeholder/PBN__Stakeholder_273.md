@@ -2,9 +2,17 @@
 
 # __critical infrastructure operators__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q373338](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q373338.md)
+* [All actors in the economic and political landscape, including policymakers, governments, and regulatory bodies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_357.md)
+
+## Risk affecting this stakeholder
+
+* [Lack of business continuity planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2226.md)
+* [Cascading disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_455.md)
+* [Dependence on global suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2227.md)
+* [Vulnerability to natural hazards](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2229.md)
+* [Cyber-attacks and disinformation campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2228.md)
 
 ## Closest similar item
 
@@ -18,14 +26,6 @@
 * [building owners and operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_525.md)
 * [transportation authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_947.md)
 * [network and system administrators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1404.md)
-
-## Risk affecting this stakeholder
-
-* [Lack of business continuity planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2226.md)
-* [Cascading disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_455.md)
-* [Dependence on global suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2227.md)
-* [Vulnerability to natural hazards](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2229.md)
-* [Cyber-attacks and disinformation campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2228.md)
 
 ## This Stakeholder can get these Benefits from mitigation measures
 
@@ -42,4 +42,8 @@
 * [Dependence on global suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2227.md)
 * [Vulnerability to natural hazards](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2229.md)
 * [Cyber-attacks and disinformation campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2228.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q373338](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q373338.md)
 

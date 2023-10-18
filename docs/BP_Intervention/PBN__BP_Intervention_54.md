@@ -2,11 +2,11 @@
 
 # __Wall and floors treatment__
 
-## Property: has_BP_InterventionTitle
-
-Wall and floors treatment
-
 ## Property: has_BP_InterventionKey
 
 PS3
+
+## Property: has_BP_InterventionTitle
+
+Wall and floors treatment
 

@@ -2,13 +2,9 @@
 
 # __Public education campaigns__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_49.md)
-
-## Property: has_MitigationBenefit
-
-* [Awareness and understanding](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_72.md)
+* [Promote understanding and knowledge sharing through educational campaigns, dissemination of accurate information, and public awareness initiatives.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_318.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [information and education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3157.md)
 * [education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3158.md)
 * [Education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3159.md)
+
+## Property: has_MitigationBenefit
+
+* [Awareness and understanding](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_72.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_49.md)
 

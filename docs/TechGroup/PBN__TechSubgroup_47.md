@@ -2,17 +2,9 @@
 
 # __Public Health Measures and Education__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_230.md)
-* [Public awareness programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2172.md)
-* [communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_568.md)
-* [Information pamphlets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2201.md)
-* [Public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2222.md)
-* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2169.md)
-* [Health education programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2168.md)
-* [Communication campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2171.md)
-* [Public announcements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2170.md)
+* [Efforts to promote and protect community well-being through education, engagement, regulations, and behavior change.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_19.md)
 
 ## Closest similar item
 
@@ -26,4 +18,16 @@
 * [Public Education and Awareness Campaigns](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_40.md)
 * [Healthcare and Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_19.md)
 * [Physical Health Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_59.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_230.md)
+* [Public awareness programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2172.md)
+* [communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_568.md)
+* [Information pamphlets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2201.md)
+* [Public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2222.md)
+* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2169.md)
+* [Health education programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2168.md)
+* [Communication campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2171.md)
+* [Public announcements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2170.md)
 

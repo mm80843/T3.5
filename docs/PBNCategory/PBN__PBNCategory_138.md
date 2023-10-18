@@ -1,0 +1,41 @@
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_138 
+
+# __The dispersion of respiratory particles through the air can lead to the transmission of diseases.__
+
+## Items covered in this category
+
+* [COVID-19 spread via aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1144.md)
+* [Airborne transmission of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_967.md)
+* [Airborne transmission of respiratory animal viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_337.md)
+* [Airborne transmission of the virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3112.md)
+* [Contamination, transmission through air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2489.md)
+* [Transmission of COVID-19 through aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_225.md)
+* [Transmission through airborne aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1805.md)
+* [Transmission through aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1376.md)
+* [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
+* [Airborne Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2976.md)
+* [Airborne and direct transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3040.md)
+* [Airborne transmission in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1330.md)
+* [Airborne transmission via aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_799.md)
+* [Airborne TB Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_378.md)
+* [Increased risk of airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2963.md)
+* [Transmission via aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1281.md)
+* [Aerosol transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1555.md)
+* [Respiratory droplet transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2767.md)
+* [Transmission via respiratory droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1733.md)
+* [Spread through Air Travel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1441.md)
+* [Airborne transmission of diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2787.md)
+* [Airborne transmission of disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2766.md)
+* [Airborne transmission of respiratory particles](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3053.md)
+* [Decoupling of larger aerosol particles from air stream in upper-room UVGI system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1175.md)
+* [Aerosol transmission in dry environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2880.md)
+* [Risk of airborne transmission during patient care](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1288.md)
+* [Airborne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3391.md)
+* [Spread through respiratory droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1745.md)
+* [Transmission of diseases through air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1126.md)
+* [Airborne or close contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3002.md)
+* [Transmission through respiratory droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1373.md)
+* [Contamination, transmission through respiratory droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2491.md)
+* [Respiratory droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2506.md)
+* [Airborne spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3011.md)
+

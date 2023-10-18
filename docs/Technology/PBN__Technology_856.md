@@ -2,9 +2,9 @@
 
 # __alcohol-based hand rubs__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q16392](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q16392.md)
+* [The range of materials and techniques listed includes various disinfectants, nanomaterials, manufacturing methods, coatings, sustainability measures, and analytical tools.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_237.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [hand sanitizer solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3510.md)
 * [Hand hygiene guidance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2568.md)
 * [hand hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1166.md)
+
+## This Technology is identified by the following QID
+
+* [Q16392](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q16392.md)
 

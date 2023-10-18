@@ -2,8 +2,9 @@
 
 # __Mental health care support__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
+* [Government programs and initiatives provide support, training, and financial assistance for education, healthcare, employment, and overall well-being.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_210.md)
 
 ## Closest similar item
 
@@ -18,11 +19,14 @@
 * [remote mental health care](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1278.md)
 * [mental health education programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1812.md)
 
-## This Technology belongs to this TechGroup
-
-* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
-
 ## This Technology is identified by the following QID
 
 * [Q67076049](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q67076049.md)
+
+## This Technology belongs to this TechSubgroup
+
+
+## This Technology belongs to this TechGroup
+
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 

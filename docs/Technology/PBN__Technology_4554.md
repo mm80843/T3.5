@@ -2,6 +2,10 @@
 
 # __Energy Management__
 
+## Category to which it belongs
+
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
+
 ## Closest similar item
 
 * [energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_324.md)

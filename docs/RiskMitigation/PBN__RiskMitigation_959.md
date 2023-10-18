@@ -2,13 +2,9 @@
 
 # __Distribution of UGS in a more homogenous way__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of accessibility to urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_693.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved accessibility to UGS](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_964.md)
+* [Efforts include RNA monitoring, occupant exposure modeling, targeted messages, adoption of principles, copper coating, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_311.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Reduction in transmission as measured by changes in reproduction number](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_826.md)
 * [Optimal occupant distribution](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_839.md)
 * [Incorporate small-scale heterogeneity in epidemic models to account for neighborhood-level processes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1665.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved accessibility to UGS](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_964.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of accessibility to urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_693.md)
 

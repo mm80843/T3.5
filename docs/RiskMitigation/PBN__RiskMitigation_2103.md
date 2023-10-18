@@ -2,9 +2,9 @@
 
 # __Promoting reliable sources, facilitating information sharing, engaging with the public through social media__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Impact on public awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1573.md)
+* [Promote accurate and reliable information, combat misinformation, and increase media and public health literacy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_343.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Promote and support social connections through digital platforms, encourage virtual social activities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2120.md)
 * [Best practices for information sharing on social media](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_909.md)
 * [Promote fact-checking and reliable sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2968.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Impact on public awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1573.md)
 

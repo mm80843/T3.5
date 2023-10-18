@@ -2,9 +2,9 @@
 
 # __Centralized reporting platforms__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
-* [Communication and Coordination Platforms](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_26.md)
+* [Digital platforms and online resources facilitate collaboration, communication, and information sharing among individuals and organizations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_193.md)
 
 ## Closest similar item
 
@@ -19,11 +19,15 @@
 * [Telecommunication systems for reporting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2443.md)
 * [data analytics platforms (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3122.md)
 
-## This Technology belongs to this TechGroup
-
-* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
-
 ## This Technology is identified by the following QID
 
 * [Q7314108](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7314108.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Communication and Coordination Platforms](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_26.md)
+
+## This Technology belongs to this TechGroup
+
+* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
 

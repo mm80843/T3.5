@@ -2,9 +2,9 @@
 
 # __data collection technologies__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q28454366](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q28454366.md)
+* [Data-driven insights and analysis for decision making, anonymized data, transparency, visualization, and advanced techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_205.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Data collection tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2091.md)
 * [data collection and sharing systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_941.md)
 * [research and data collection methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1123.md)
+
+## This Technology is identified by the following QID
+
+* [Q28454366](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q28454366.md)
 

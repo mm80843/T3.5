@@ -2,9 +2,9 @@
 
 # __disabled individuals__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Limited access to UGS for vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2256.md)
+* [All people, especially those at risk or facing various circumstances, including age, health conditions, or unemployment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_374.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [and people with disabilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_108.md)
 * [individuals in deprived areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_288.md)
 * [individual in deprived area](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2178.md)
+
+## Risk affecting this stakeholder
+
+* [Limited access to UGS for vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2256.md)
 

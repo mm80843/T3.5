@@ -2,9 +2,9 @@
 
 # __Promote healthy lifestyles, vaccination campaigns__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Host immunity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1731.md)
+* [Maximizing vaccine efficacy and ensuring equitable access through research, development, distribution, and targeted outreach.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_337.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Promote healthy habits through education and awareness campaigns, provide support systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1942.md)
 * [Improve access to vaccination through targeted distribution and community outreach.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2543.md)
 * [Implement targeted prevention measures and public health campaigns.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2541.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Host immunity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1731.md)
 

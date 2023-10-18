@@ -2,9 +2,9 @@
 
 # __language resources technology__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Language-appropriate resources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1643.md)
+* [Technological advancements encompass a wide range of innovations, such as blockchain, touchless, renewable energy, and communication technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Development of accurate language databases](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2620.md)
 * [translation services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1259.md)
 * [Translation services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2067.md)
+
+## This Technology enables the following mitigations
+
+* [Language-appropriate resources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1643.md)
 

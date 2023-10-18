@@ -2,9 +2,9 @@
 
 # __Mechanical ventilation__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [mechanical ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1013.md)
+* [Optimal air flow to reduce airborne contaminants and ensure fresh, clean air in enclosed spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_170.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Ventilation design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2000.md)
 * [Improvement of ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_530.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Poor air circulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2508.md)
-
 ## Property: has_MitigationPrinciple
 
 Mechanical ventilation systems ensure proper air circulation in enclosed spaces, reducing the risk of stagnant air and airborne transmission.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Poor air circulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2508.md)
+
 ## Property: has_MitigationSource
 
 * [Environmental factors involved in SARS-CoV-2 transmission: effect and role of indoor environmental quality in the strategy for COVID-19 infection control](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_249.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [mechanical ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1013.md)
 

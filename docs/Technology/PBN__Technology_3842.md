@@ -2,10 +2,9 @@
 
 # __cameras__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Space and occupancy management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2469.md)
-* [AI-assisted patient positioning for radiological imaging](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1401.md)
+* [Enhanced monitoring and surveillance technologies enable real-time tracking, video conferencing, and improved detection methods.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_214.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [video surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3661.md)
 * [ip surveillance cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4129.md)
 * [surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1263.md)
+
+## This Technology enables the following mitigations
+
+* [Space and occupancy management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2469.md)
+* [AI-assisted patient positioning for radiological imaging](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1401.md)
 

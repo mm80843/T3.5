@@ -2,13 +2,9 @@
 
 # __Universal asymptomatic RT-PCR testing__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [COVID-19 outbreaks in workplace settings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_887.md)
-
-## Property: has_MitigationBenefit
-
-* [Low employee positivity rates](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1217.md)
+* [Promote comprehensive testing and tracing, prioritize vulnerable populations, reduce diagnosis-to-surgery time, recognize stress symptoms, and improve testing accuracy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_347.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Quantification using reference materials and digital droplet PCR](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3.md)
 * [Validate and optimize PCR assays to ensure accurate detection of SARS-CoV-2 genetic material.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3041.md)
 * [CDR data analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_388.md)
+
+## Property: has_MitigationBenefit
+
+* [Low employee positivity rates](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1217.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [COVID-19 outbreaks in workplace settings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_887.md)
 

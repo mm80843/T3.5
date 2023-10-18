@@ -2,9 +2,9 @@
 
 # __grid optimization technologies__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q249999](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q249999.md)
+* [Advanced technologies and algorithms for modeling, simulation, optimization, and artificial intelligence in various applications, including robotics and computational fluid dynamics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_239.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [microgrid technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4179.md)
 * [process optimization tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_694.md)
 * [microgrids](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_931.md)
+
+## This Technology is identified by the following QID
+
+* [Q249999](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q249999.md)
 

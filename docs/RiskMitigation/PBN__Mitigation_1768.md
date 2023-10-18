@@ -2,8 +2,9 @@
 
 # __Modernizing Open-plan Offices__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Synthesizing, standardizing, and disseminating evidence to enhance accessibility and harmonize protocols for seamless communication and provision of public places.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_186.md)
 
 ## Closest similar item
 
@@ -18,14 +19,17 @@
 * [New opportunities for non-centralized building systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_424.md)
 * [Flexible working arrangements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_129.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Modernizing open-plan offices can improve their quality and efficiency, including the use of movable partitions between workstations
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [The effect of a redesigned floor plan, occupant density and the quality of indoor climate on the cost of space, productivity and sick leave in an office building–A case study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_223.md)
+
+## This Mitigation is enabled by the following technologies
+
 

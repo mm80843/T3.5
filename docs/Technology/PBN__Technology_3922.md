@@ -2,10 +2,9 @@
 
 # __thermometers__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Mobile temperature measurement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2373.md)
-* [Temperature checks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1559.md)
+* [Various technologies and devices are used to measure and regulate temperature, including cameras, scanners, sensors, and thermostats.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_220.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [thermographic cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4088.md)
 * [thermal sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4488.md)
 * [temperature scanners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_361.md)
+
+## This Technology enables the following mitigations
+
+* [Mobile temperature measurement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2373.md)
+* [Temperature checks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1559.md)
 

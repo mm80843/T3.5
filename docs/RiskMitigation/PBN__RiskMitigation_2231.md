@@ -2,9 +2,9 @@
 
 # __Optimize layout to provide separate spaces, utilize room dividers and soundproofing materials__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of privacy in apartments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1676.md)
+* [Designing affordable, adaptable, and sustainable housing with improved building environments and optimized spatial layouts, while incorporating flexible and human-centric design elements and considering health, safety, and environmental parameters.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_326.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Privacy considerations and flexible room layout](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_482.md)
 * [Partition rooms or corridors to create anterooms for each patient room, ensuring proper design and layout](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2187.md)
 * [Soundproofing, noise barriers, acoustic design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2479.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of privacy in apartments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1676.md)
 

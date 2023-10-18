@@ -2,9 +2,9 @@
 
 # __segregation boxes__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Solid waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2162.md)
+* [These resources aim to enhance security, convenience, and efficiency in managing access, spaces, and systems within various environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_206.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Waste segregation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2229.md)
 * [separate room](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3706.md)
 * [isolation areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3134.md)
+
+## This Technology enables the following mitigations
+
+* [Solid waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2162.md)
 

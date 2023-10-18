@@ -2,6 +2,10 @@
 
 # __Robots, Drones & Automated Vehicules__
 
+## Category to which it belongs
+
+* [Advanced technologies and algorithms for modeling, simulation, optimization, and artificial intelligence in various applications, including robotics and computational fluid dynamics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_239.md)
+
 ## Closest similar item
 
 * [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2869.md)

@@ -2,9 +2,9 @@
 
 # __Implement policies and interventions to support and protect victims of intimate partner violence during the pandemic__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Increased intimate partner violence during the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1035.md)
+* [Implement comprehensive measures to ensure support, protection, and assistance for vulnerable populations during the pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_349.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement health and safety measures, adapt project plans to pandemic restrictions, provide support to affected workers.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1947.md)
 * [Enhance support services for victims, raise awareness, and strengthen legal and policy frameworks.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2470.md)
 * [Increased support services for domestic abuse victims](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_680.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Increased intimate partner violence during the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1035.md)
 

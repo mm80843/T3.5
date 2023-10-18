@@ -2,9 +2,9 @@
 
 # __Monitor and manage gastrointestinal symptoms, enhance diagnostic capabilities__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Enteric involvement in COVID-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_292.md)
+* [Promote comprehensive testing and tracing, prioritize vulnerable populations, reduce diagnosis-to-surgery time, recognize stress symptoms, and improve testing accuracy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_347.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Promote awareness about asymptomatic transmission, encourage individuals to practice preventive measures regardless of symptoms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2315.md)
 * [Provide information and support, monitor mental health and stress reactions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2497.md)
 * [Monitor reactions, provide psychosocial support and assistance, modify expectations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2498.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Enteric involvement in COVID-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_292.md)
 

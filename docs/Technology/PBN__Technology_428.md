@@ -2,6 +2,10 @@
 
 # __video conferencing tools__
 
+## Category to which it belongs
+
+* [Enhanced monitoring and surveillance technologies enable real-time tracking, video conferencing, and improved detection methods.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_214.md)
+
 ## Risks linked to this technology
 
 * [Loneliness during COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_664.md)

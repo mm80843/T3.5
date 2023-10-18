@@ -2,9 +2,9 @@
 
 # __Allergic respiratory response to pollen__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Pollen Allergy Prevention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1150.md)
+* [Insufficient ventilation and indoor air pollution pose a risk to air quality and respiratory health, exacerbated by inadequate airflow control, limited natural ventilation, and air recirculation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_128.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Respiratory pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_476.md)
 * [Respiratory droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2506.md)
 * [Contamination from respiratory droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3024.md)
+
+## Mitigations of this risk
+
+* [Pollen Allergy Prevention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1150.md)
 

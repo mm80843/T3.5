@@ -2,9 +2,9 @@
 
 # __Promote inclusive policies for clean energy access, subsidize clean energy solutions for low-income households__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Inequitable access to clean energy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1610.md)
+* [Transition to sustainable energy sources, implement energy-efficient measures, and absorb increased service demand.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_351.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement energy-efficient appliances, promote alternative energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2942.md)
 * [Implement sustainable strategies for economic recovery, promote clean and renewable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2460.md)
 * [Stricter regulations on emissions, adoption of clean and sustainable technologies, promotion of renewable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2458.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inequitable access to clean energy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1610.md)
 

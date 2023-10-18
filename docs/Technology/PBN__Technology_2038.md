@@ -2,9 +2,9 @@
 
 # __Time management techniques__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
-* [Resource and Project Management Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_4.md)
+* [Measures promoting accountability, media control, real-time updates, and virtual experiences for physical distancing and education.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
 
 ## Closest similar item
 
@@ -19,11 +19,15 @@
 * [use digital management systems to track maintenance tasks and ensure timely completion](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1042.md)
 * [promotion of flexible visiting hours](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1822.md)
 
-## This Technology belongs to this TechGroup
-
-* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
-
 ## This Technology is identified by the following QID
 
 * [Q355217](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q355217.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Resource and Project Management Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_4.md)
+
+## This Technology belongs to this TechGroup
+
+* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
 

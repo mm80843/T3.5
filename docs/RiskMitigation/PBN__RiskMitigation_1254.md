@@ -2,13 +2,9 @@
 
 # __Occupancy sensing setback thermostat__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [High energy consumption in residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_908.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduced energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_246.md)
+* [Optimize indoor environments, regulate temperature and humidity, control air quality, and extend HVAC system operations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_341.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Adjustability of indoor temperature](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_219.md)
 * [Improve energy modeling tools and methodologies to account for changes in occupancy behavior and energy consumption patterns.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2098.md)
 * [Implement temperature and humidity adjustability](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2866.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_246.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [High energy consumption in residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_908.md)
 

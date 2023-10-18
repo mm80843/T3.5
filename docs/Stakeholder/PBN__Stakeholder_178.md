@@ -10,6 +10,10 @@
 * [Enhanced collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_369.md)
 * [Increased project resilience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_370.md)
 
+## Category to which it belongs
+
+* [Various individuals and organizations involved in ethical project management, environmental preservation, community engagement, and non-governmental initiatives.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_372.md)
+
 ## Closest similar item
 
 * [stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_230.md)

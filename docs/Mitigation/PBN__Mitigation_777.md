@@ -2,11 +2,9 @@
 
 # __Enhanced sanitation room__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [bathroom)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3447.md)
-* [sanitation supplies and facilities (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3445.md)
-* [sink](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3446.md)
+* [Promotion and implementation of rigorous hygiene protocols and use of sanitary facilities and materials.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_166.md)
 
 ## Closest similar item
 
@@ -21,15 +19,21 @@
 * [Improvement of Sanitary Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_528.md)
 * [Establishing building specific hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1842.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Lack of proper sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2735.md)
-
 ## Property: has_MitigationPrinciple
 
 Designate a dedicated room equipped with sanitation supplies and facilities, such as a sink or bathroom, to ensure proper hygiene practices and prevent the transmission of contagious diseases
 
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of proper sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2735.md)
+
 ## Property: has_MitigationSource
 
 * [Houses amid COVID-19: Environmental challenges and design adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_277.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [bathroom)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3447.md)
+* [sanitation supplies and facilities (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3445.md)
+* [sink](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3446.md)
 

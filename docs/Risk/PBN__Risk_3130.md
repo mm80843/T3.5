@@ -2,9 +2,9 @@
 
 # __Aggravating COVID-19__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Avoid ACE inhibitors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1543.md)
+* [The far-reaching consequences of COVID-19 include its transmission through various settings, impact on urban areas, and scarcity of resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Rapidly changing understanding of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1455.md)
 * [Spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
 * [Spread of Covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1682.md)
+
+## Mitigations of this risk
+
+* [Avoid ACE inhibitors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1543.md)
 

@@ -2,9 +2,9 @@
 
 # __location tracking technology__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Smart tracking of infected persons](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1175.md)
+* [Technological advancements encompass a wide range of innovations, such as blockchain, touchless, renewable energy, and communication technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [travel tracking and monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3583.md)
 * [gps technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3164.md)
 * [personnel tracking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4426.md)
+
+## This Technology enables the following mitigations
+
+* [Smart tracking of infected persons](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1175.md)
 

@@ -2,13 +2,9 @@
 
 # __Enhance public health education__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Health care, surveillance and monitoring gaps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_749.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved public health literacy](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1030.md)
+* [Promote public health through policy implementation, strengthened systems, health literacy, and targeted interventions for vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_314.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Enhance health literacy programs and improve access to health information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2647.md)
 * [Educational campaigns on public health measures, improving communication and dissemination of information.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1805.md)
 * [Promote public awareness campaigns, provide accurate information about diseases and preventive measures, invest in health education programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1900.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved public health literacy](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1030.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Health care, surveillance and monitoring gaps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_749.md)
 

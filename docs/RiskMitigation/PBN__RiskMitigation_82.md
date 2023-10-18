@@ -2,13 +2,9 @@
 
 # __Increased use of copper and stainless steel surfaces__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Spread of SARS-CoV-2 through contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_70.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction in virus viability on surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_94.md)
+* [Effective surface disinfection through regular cleaning and use of self-cleaning materials and antimicrobial coatings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_334.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Regular cleaning and disinfection of high-touch surfaces, use of anti-SARS-CoV-2 coatings on solids](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1629.md)
 * [Regular and thorough cleaning and disinfection of surfaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1825.md)
 * [Regular cleaning and disinfection of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_718.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction in virus viability on surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_94.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of SARS-CoV-2 through contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_70.md)
 

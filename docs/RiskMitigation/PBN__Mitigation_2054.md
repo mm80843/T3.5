@@ -2,8 +2,9 @@
 
 # __Reduce wildlife urban interfaces (WUIs)__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Creating resilient urban environments through strategic planning, adaptable design, reduced density, and improved building infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_164.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Redesigning Urban Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1647.md)
 * [Raising public support and interest in nature conservation and PCAs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_495.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Zoonotic disease emergence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_488.md)
-
 ## Property: has_MitigationPrinciple
 
 Prevent urban expansion encroaching on wildlife habitat, reduce human activities in buffer zones, maintain biodiversity to decrease disease transmission, regulate animal rearing practices in urban areas
 
+## Risks possibly mitigated by this Mitigation
+
+* [Zoonotic disease emergence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_488.md)
+
 ## Property: has_MitigationSource
 
 * [Learning from pandemics: Applying resilience thinking to identify priorities for planning urban settlements](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_137.md)
+
+## This Mitigation is enabled by the following technologies
+
 

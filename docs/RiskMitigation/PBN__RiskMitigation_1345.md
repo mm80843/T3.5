@@ -2,13 +2,9 @@
 
 # __Improved cooking systems__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Use of unprocessed biomass for cooking](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_962.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduced exposure to harmful pollutants](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1324.md)
+* [Enhance local self-sufficiency in shopping, recreation, and food production, while promoting sustainable practices and supporting resilient economies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_344.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Improved air quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1114.md)
 * [Ensuring supply and availability of food](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_285.md)
 * [Develop cost-effective and scalable production methods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1583.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced exposure to harmful pollutants](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1324.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Use of unprocessed biomass for cooking](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_962.md)
 

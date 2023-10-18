@@ -2,9 +2,9 @@
 
 # __Impact of Covid-19 on green spaces__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Incorporating green and pedestrian infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_39.md)
+* [The far-reaching consequences of COVID-19 include its transmission through various settings, impact on urban areas, and scarcity of resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Impact of Covid-19 on neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_29.md)
 * [Limited access to green views during COVID-19 containment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_350.md)
 * [Impact of COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2161.md)
+
+## Mitigations of this risk
+
+* [Incorporating green and pedestrian infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_39.md)
 

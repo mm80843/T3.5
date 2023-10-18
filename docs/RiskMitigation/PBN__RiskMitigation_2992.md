@@ -2,9 +2,9 @@
 
 # __Development and distribution of an effective vaccine__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of COVID-19 vaccine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2303.md)
+* [Maximizing vaccine efficacy and ensuring equitable access through research, development, distribution, and targeted outreach.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_337.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Annotating and modeling vaccine candidates](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_58.md)
 * [Vaccination uptake](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_508.md)
 * [Support ongoing research for vaccine development and antiviral medications, repurpose existing drugs for treatment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2457.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of COVID-19 vaccine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2303.md)
 

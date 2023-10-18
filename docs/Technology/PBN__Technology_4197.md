@@ -2,9 +2,9 @@
 
 # __medical equipment and personnel__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Pre-employment and periodic MCUs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2029.md)
+* [Improved healthcare infrastructure and resources enable public health authorities to implement effective messaging and interventions, ensuring equitable access to healthcare facilities and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_209.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [medical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2897.md)
 * [laboratory equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3829.md)
 * [medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2901.md)
+
+## This Technology enables the following mitigations
+
+* [Pre-employment and periodic MCUs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2029.md)
 

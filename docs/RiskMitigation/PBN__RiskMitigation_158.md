@@ -2,13 +2,9 @@
 
 # __Integration of smart building technologies__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Emerging technologies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_134.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced occupant experience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_178.md)
+* [Accelerate the shift to digitalization by embracing emerging technologies and implementing innovative solutions across various sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_346.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Integration of emerging technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_873.md)
 * [Preparing and providing smart city infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1105.md)
 * [Smart metering](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_999.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced occupant experience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_178.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Emerging technologies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_134.md)
 

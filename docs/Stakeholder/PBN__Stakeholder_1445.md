@@ -2,10 +2,9 @@
 
 # __occupational health department__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Pre-employment and periodic medical check-ups (MCUs)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2135.md)
-* [Comorbid workers working from home (WFH)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2136.md)
+* [Those involved in the provision and management of healthcare services, including workers, professionals, facilities, and users.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_355.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [public health officers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_821.md)
 * [human resource department](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1656.md)
 * [health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_422.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Pre-employment and periodic medical check-ups (MCUs)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2135.md)
+* [Comorbid workers working from home (WFH)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2136.md)
 

@@ -2,6 +2,10 @@
 
 # __project management software__
 
+## Category to which it belongs
+
+* [A list of diverse software tools, including financial management, construction technology, project management, communication, and monitoring software.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_219.md)
+
 ## Risks linked to this technology
 
 * [Remote collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1532.md)
@@ -14,10 +18,6 @@
 * [Lack of collaboration between stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1435.md)
 * [Concerns about project time, cost, and scope](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1999.md)
 * [Suspension of projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_595.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Data Management and Communication Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_18.md)
 
 ## Closest similar item
 
@@ -32,11 +32,15 @@
 * [Contract management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2639.md)
 * [software tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2930.md)
 
-## This Technology belongs to this TechGroup
-
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
-
 ## This Technology is identified by the following QID
 
 * [Q167035](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q167035.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Data Management and Communication Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_18.md)
+
+## This Technology belongs to this TechGroup
+
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 

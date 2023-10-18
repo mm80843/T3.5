@@ -2,8 +2,9 @@
 
 # __Broad sidewalks and pedestrian crossings__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Enhancing urban mobility through pedestrian-friendly infrastructure, optimized transportation, and improved public transportation systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_151.md)
 
 ## Closest similar item
 
@@ -18,14 +19,17 @@
 * [Walking, Cycling, and Public Transportation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1290.md)
 * [Marking 6’ distances and one-way traffic](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2791.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Widening sidewalks and redesigning pedestrian crossings to accommodate physical distancing and increase social activity while ensuring the safety of pedestrians and minimizing close contact.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Impact of Covid-19 on the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_10.md)
+
+## This Mitigation is enabled by the following technologies
+
 

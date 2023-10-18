@@ -2,10 +2,9 @@
 
 # __quarantine__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Travel-related Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_756.md)
-* [Global Containment Strategy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_36.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [isolation and quarantine room equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1657.md)
 * [disinfectant](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3736.md)
 * [Surveillance programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2458.md)
+
+## This Technology enables the following mitigations
+
+* [Travel-related Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_756.md)
+* [Global Containment Strategy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_36.md)
 

@@ -2,9 +2,9 @@
 
 # __PVP1: Virus propagation__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Use of new smart/innovative technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_214.md)
+* [A list of various types and aspects of virus propagation, local services, water quality, waste management, and prioritization.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_134.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Virus propagation risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_279.md)
 * [PVP1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2190.md)
 * [Virus Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2525.md)
+
+## Mitigations of this risk
+
+* [Use of new smart/innovative technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_214.md)
 

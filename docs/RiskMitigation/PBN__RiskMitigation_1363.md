@@ -2,13 +2,9 @@
 
 # __Improved Guidelines and Scientific Research__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Inaccurate Information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_972.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved Accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1339.md)
+* [Promote accurate and reliable information, combat misinformation, and increase media and public health literacy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_343.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Develop guidelines for data collection and harmonization, standardize reporting](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2822.md)
 * [Enforce strict adherence to guidelines and protocols through monitoring and enforcement mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2265.md)
 * [Research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_318.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved Accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1339.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inaccurate Information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_972.md)
 

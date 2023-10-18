@@ -2,9 +2,9 @@
 
 # __Poor waste management__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Effective waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_93.md)
+* [The challenges of urban water management include water contamination, waste management, inadequate water storage, and poor drainage.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_120.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [WM1: Waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_196.md)
 * [WWM3: Waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_192.md)
 * [WWM1: Waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_190.md)
+
+## Mitigations of this risk
+
+* [Effective waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_93.md)
 

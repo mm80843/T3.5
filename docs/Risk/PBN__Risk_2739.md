@@ -2,9 +2,9 @@
 
 # __Inadequate health-oriented features__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Use of health and hygiene focus](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_781.md)
+* [The challenges include reduced surgical education, loss of control, limited diagnostics, slow drug development, inadequate patient monitoring, and lack of drug therapy options.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_110.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Physical health issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2986.md)
 * [Inadequate healthcare resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3238.md)
 * [Inadequate healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1129.md)
+
+## Mitigations of this risk
+
+* [Use of health and hygiene focus](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_781.md)
 

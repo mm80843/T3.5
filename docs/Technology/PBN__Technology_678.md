@@ -2,9 +2,9 @@
 
 # __correct use and maintenance of air-conditioning systems__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q173725](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q173725.md)
+* [Improved air quality can be achieved through the use of various technologies such as air purifiers and monitoring systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_221.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [HVAC maintenance and calibration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2464.md)
 * [hvac maintenance and cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4059.md)
 * [hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_185.md)
+
+## This Technology is identified by the following QID
+
+* [Q173725](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q173725.md)
 

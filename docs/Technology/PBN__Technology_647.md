@@ -2,9 +2,9 @@
 
 # __upgrading hvac systems and improving thermal insulation__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q918306](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q918306.md)
+* [Improved and energy-efficient HVAC systems, along with advanced technologies, for efficient energy management and environmental control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_227.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [adaptive hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_194.md)
 * [adaptive HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2577.md)
 * [Energy-efficient HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2363.md)
+
+## This Technology is identified by the following QID
+
+* [Q918306](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q918306.md)
 

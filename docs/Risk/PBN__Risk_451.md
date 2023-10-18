@@ -2,9 +2,9 @@
 
 # __Labour market challenges__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Employment retraining and redeployment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_626.md)
+* [The impact of various factors on the workforce, including job insecurity, changes in work schedules, unemployment, and decreased productivity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_4.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Exploitation of workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3399.md)
 * [Increased demand, logistical challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3084.md)
 * [Recruitment challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1528.md)
+
+## Mitigations of this risk
+
+* [Employment retraining and redeployment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_626.md)
 

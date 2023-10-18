@@ -2,9 +2,9 @@
 
 # __Implement engineering and administrative controls, provide PPE.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Occupational exposure to coronavirus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1318.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement strict health and safety protocols on construction sites, provide personal protective equipment (PPE), and promote hygiene practices.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2618.md)
 * [Administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_375.md)
 * [Stocking up on PPE supplies, establishing protocols for PPE usage and disposal.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2565.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Occupational exposure to coronavirus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1318.md)
 

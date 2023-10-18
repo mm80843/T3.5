@@ -2,9 +2,9 @@
 
 # __Conduct comparative studies on disease severity between re-infected and initially infected patients.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Disease severity in re-infected patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1913.md)
+* [Implement comprehensive strategies to control virus transmission, improve surveillance, develop antiviral coatings, and enhance infection control measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_309.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Conducting training programs and educational sessions on COVID-19 protocols and infection control measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1992.md)
 * [Avoid close contact with infected individuals, practice good hand hygiene.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1871.md)
 * [Infection tracking / monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3121.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Disease severity in re-infected patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1913.md)
 

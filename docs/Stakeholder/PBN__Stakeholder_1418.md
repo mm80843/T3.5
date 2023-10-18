@@ -2,9 +2,9 @@
 
 # __interior designers__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Lack of indoor green features](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2115.md)
+* [Individuals involved in the design, construction, management, and occupation of various types of buildings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_367.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [architectural & Construction Materials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3107.md)
 * [building engineers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2805.md)
 * [Building engineers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2806.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Lack of indoor green features](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2115.md)
 

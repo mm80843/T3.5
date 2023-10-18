@@ -2,9 +2,9 @@
 
 # __system administrators__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Scalability and QoS provisioning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2095.md)
+* [Experts who oversee and manage various aspects of public and private administration, including cybersecurity, commerce, education, and infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_400.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Public administrators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1681.md)
 * [Network and system administrator](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1762.md)
 * [building administrators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1410.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Scalability and QoS provisioning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2095.md)
 

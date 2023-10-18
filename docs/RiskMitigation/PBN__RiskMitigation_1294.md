@@ -2,13 +2,9 @@
 
 # __Improvement of air quality__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Air pollution and COVID-19 infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_933.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction in COVID-19 infections](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1220.md)
+* [Optimize indoor environments, regulate temperature and humidity, control air quality, and extend HVAC system operations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_341.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Reduce sources of chemical pollutants, improve ventilation and air filtration systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2642.md)
 * [Improve ventilation, use air purifiers, control humidity, minimize pollution sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2381.md)
 * [Improve ventilation systems, increase outdoor air intake, use air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2477.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction in COVID-19 infections](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1220.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Air pollution and COVID-19 infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_933.md)
 

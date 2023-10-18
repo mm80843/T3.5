@@ -2,9 +2,9 @@
 
 # __hand hygiene protocols__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q552461](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q552461.md)
+* [Enhanced hygiene practices and strict adherence to cleaning protocols ensure rigorous sanitation and disinfection measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_196.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Hand hygiene stations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2550.md)
 * [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2554.md)
 * [hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4102.md)
+
+## This Technology is identified by the following QID
+
+* [Q552461](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q552461.md)
 

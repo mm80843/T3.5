@@ -2,9 +2,9 @@
 
 # __Improve test sensitivity and accuracy to minimize false-negative results__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [False-negative results in COVID-19 testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2403.md)
+* [Promote comprehensive testing and tracing, prioritize vulnerable populations, reduce diagnosis-to-surgery time, recognize stress symptoms, and improve testing accuracy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_347.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [AI for testing optimization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_652.md)
 * [Increase testing capacity, develop rapid and accurate test kits, promote widespread testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2723.md)
 * [Increase testing capacity, improved testing methods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2129.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [False-negative results in COVID-19 testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2403.md)
 

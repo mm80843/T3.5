@@ -2,13 +2,9 @@
 
 # __mobile phone network providers__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Limited data on human movement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2164.md)
-
-## Risk affecting this stakeholder
-
-* [Limited data on human movement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2164.md)
+* [All those involved in the management, access, and utilization of data in various communities and industries.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_358.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1707.md)
 * [providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1984.md)
 * [internet service providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1553.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Limited data on human movement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2164.md)
+
+## Risk affecting this stakeholder
+
+* [Limited data on human movement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2164.md)
 

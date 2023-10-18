@@ -2,9 +2,9 @@
 
 # __Impact of interventions on deaths__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Comparison of deaths averted with and without interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_825.md)
+* [The challenges include reduced surgical education, loss of control, limited diagnostics, slow drug development, inadequate patient monitoring, and lack of drug therapy options.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_110.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Insufficient attention to public health impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2688.md)
 * [Inconsistent implementation of interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1393.md)
 * [health effects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2533.md)
+
+## Mitigations of this risk
+
+* [Comparison of deaths averted with and without interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_825.md)
 

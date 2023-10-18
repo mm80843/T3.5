@@ -2,8 +2,9 @@
 
 # __Social distancing between occupants__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Promoting physical and spatial distancing, considering noise levels, and implementing strict measures are essential for social distancing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_147.md)
 
 ## Closest similar item
 
@@ -18,14 +19,17 @@
 * [Implementing social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1125.md)
 * [Reconsidering regulations and designs of interior spaces to accommodate for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_791.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Reduce the probability of virus transmission by maintaining physical distance between individuals
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [The effect of occupant distribution on energy consumption and COVID-19 infection in buildings: A case study of university building](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_169.md)
+
+## This Mitigation is enabled by the following technologies
+
 

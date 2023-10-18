@@ -2,9 +2,9 @@
 
 # __Inventory shortage__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Demand management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1354.md)
+* [The challenges and consequences of the global pandemic include poor acoustics, noise pollution, food security, increase in inequality, waste, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_131.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Supply disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3035.md)
 * [Disruption of supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1130.md)
 * [Material shortage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_555.md)
+
+## Mitigations of this risk
+
+* [Demand management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1354.md)
 

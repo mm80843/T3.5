@@ -2,15 +2,9 @@
 
 # __Regulation, Governance, and Policies__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [Ethical review boards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2240.md)
-* [Data quality assessment tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2244.md)
-* [Regulatory bodies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2241.md)
-* [Safety awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2187.md)
-* [Data standardization tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2243.md)
-* [Safety training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2186.md)
-* [Safety workshops and trainings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2188.md)
+* [Systems and actions related to control, supervision, influence, and management in various fields and sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_36.md)
 
 ## Closest similar item
 
@@ -24,4 +18,14 @@
 * [Advocacy and Lobbying Efforts](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_43.md)
 * [Financial Measures](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_160.md)
 * [Infrastructure and Resource Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_126.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [Ethical review boards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2240.md)
+* [Data quality assessment tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2244.md)
+* [Regulatory bodies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2241.md)
+* [Safety awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2187.md)
+* [Data standardization tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2243.md)
+* [Safety training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2186.md)
+* [Safety workshops and trainings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2188.md)
 

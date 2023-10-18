@@ -2,13 +2,9 @@
 
 # __individual seeking health information online__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q4930](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4930.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Public health stakeholders and individuals alike are concerned about health, seeking information and guidance from trusted sources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_354.md)
 
 ## Closest similar item
 
@@ -26,4 +22,12 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Digital and Information Access](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_105.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q4930](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4930.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 

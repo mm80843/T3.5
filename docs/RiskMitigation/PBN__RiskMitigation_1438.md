@@ -2,13 +2,9 @@
 
 # __Urban farming integrated approaches__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Spread of infections and diseases in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1010.md)
-
-## Property: has_MitigationBenefit
-
-* [Food security and sustainability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1406.md)
+* [Enhance local self-sufficiency in shopping, recreation, and food production, while promoting sustainable practices and supporting resilient economies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_344.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Create and maintain green spaces, establish green infrastructure policies in urban planning, promote nature-based solutions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1897.md)
 * [Implement urban greening initiatives to create and enhance green spaces in highly urbanized areas, consider green roofs and vertical gardens](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2075.md)
 * [Expansion of urban green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_420.md)
+
+## Property: has_MitigationBenefit
+
+* [Food security and sustainability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1406.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of infections and diseases in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1010.md)
 

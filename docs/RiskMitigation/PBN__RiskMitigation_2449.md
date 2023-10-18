@@ -2,9 +2,9 @@
 
 # __Implement peer-review process, encourage use of reputable sources__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of filters for reliable information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1862.md)
+* [Promote accurate and reliable information, combat misinformation, and increase media and public health literacy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_343.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Promote fact-checking and reliable sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2968.md)
 * [Promote reliable and verified sources of information, increase public awareness about trusted applications, implement strict review and approval processes for app stores](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2577.md)
 * [Journals should enhance their peer-review processes and address issues of transparency and scientific integrity.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3033.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of filters for reliable information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1862.md)
 

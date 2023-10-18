@@ -2,9 +2,9 @@
 
 # __experts__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q381160](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q381160.md)
+* [Experts from various fields including research, risk assessment, education, science, HVAC, and IT.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_356.md)
 
 ## Closest similar item
 
@@ -26,4 +26,8 @@
 ## Risks that can be mitigated by this stakeholder
 
 * [Societal issues and the human factor](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2097.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q381160](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q381160.md)
 

@@ -2,9 +2,9 @@
 
 # __Lower testing frequency__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [testing protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_265.md)
+* [Expansive array of methods, including biomarkers, self-reported symptoms, and AI-powered diagnostics, used for widespread and rapid testing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_179.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Increased testing access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1501.md)
 * [Increased Testing and Contact Tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_711.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Missed reinfections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3175.md)
-
 ## Property: has_MitigationPrinciple
 
 Considers the difference in testing frequency between previously infected and control participants to analyze the odds of hospitalization
 
+## Risks possibly mitigated by this Mitigation
+
+* [Missed reinfections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3175.md)
+
 ## Property: has_MitigationSource
 
 * [Contributions to the mitigation of the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_245.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [testing protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_265.md)
 

@@ -2,9 +2,9 @@
 
 # __Implement mosquito and tick control measures in urban greening initiatives and ensure proper maintenance of green spaces.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Urban heat island effect](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1850.md)
+* [Promote biodiversity and sustainable urban development through the establishment and accessibility of green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_322.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Create and maintain green spaces, establish green infrastructure policies in urban planning, promote nature-based solutions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1897.md)
 * [Proper tick control measures, public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2221.md)
 * [Encourage outdoor activities in green spaces, create more green spaces in urban areas, protect existing natural areas.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2767.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Urban heat island effect](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1850.md)
 

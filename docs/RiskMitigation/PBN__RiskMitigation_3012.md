@@ -2,9 +2,9 @@
 
 # __Strengthen border control measures and screening procedures.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [High number of flights](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2318.md)
+* [Enforce safety measures, promote responsible behavior, utilize PPE, and prioritize risk prevention to ensure adequate protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_342.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Imposing travel restrictions, implementing comprehensive screening and testing protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1467.md)
 * [Strengthen security measures such as identification checks and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1553.md)
 * [Strengthening surveillance and control programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1507.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [High number of flights](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2318.md)
 

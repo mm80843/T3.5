@@ -2,9 +2,9 @@
 
 # __Rigorous testing and evaluation of different coating materials and formulations__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Risk of ineffective anti-SARS-CoV-2 coatings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1179.md)
+* [Efforts include RNA monitoring, occupant exposure modeling, targeted messages, adoption of principles, copper coating, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_311.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Use of nanomaterials and graphene-based coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_919.md)
 * [Copper coating via cold-spray technique](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_69.md)
 * [Continuously active antimicrobial coating](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1190.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Risk of ineffective anti-SARS-CoV-2 coatings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1179.md)
 

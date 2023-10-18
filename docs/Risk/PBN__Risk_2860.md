@@ -2,9 +2,9 @@
 
 # __Underestimation risk__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Improved Testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1017.md)
+* [Health and safety concerns, risk communication strategy, and inadequate personal protective equipment are all indicative of potential hazards and vulnerabilities in various settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_126.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Psychological Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_84.md)
 * [Internal risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1775.md)
 * [Image Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_87.md)
+
+## Mitigations of this risk
+
+* [Improved Testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1017.md)
 

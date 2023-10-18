@@ -2,9 +2,9 @@
 
 # __Essential goods__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Self-dependent services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2238.md)
+* [The challenges and consequences of the global pandemic include poor acoustics, noise pollution, food security, increase in inequality, waste, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_131.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Reducing non-essential use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2561.md)
 * [Inadequate supplies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2058.md)
 * [Changing needs and capacities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2960.md)
+
+## Mitigations of this risk
+
+* [Self-dependent services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2238.md)
 

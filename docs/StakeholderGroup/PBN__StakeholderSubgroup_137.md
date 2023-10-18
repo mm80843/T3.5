@@ -2,12 +2,9 @@
 
 # __Community Associations__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [community associations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_639.md)
-* [community association](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2468.md)
-* [neighborhood associations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2482.md)
-* [neighborhood association](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2476.md)
+* [Residents, locals, civic groups, support systems, and builders in a neighborhood.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_258.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [Agencies/Providers/Associations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_66.md)
 * [Gardening Clubs/Members](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_140.md)
 * [Social Gatherings](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_136.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [community associations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_639.md)
+* [community association](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2468.md)
+* [neighborhood associations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2482.md)
+* [neighborhood association](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2476.md)
 

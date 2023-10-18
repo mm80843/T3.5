@@ -2,9 +2,9 @@
 
 # __community engagement and ownership models__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Promoting community voice and ownership](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2266.md)
+* [A range of community-centered initiatives, programs, and strategies foster participation, collaboration, and social support for diverse groups.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_236.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [community engagement platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_966.md)
 * [community engagement platforms and participatory decision-making tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1675.md)
 * [public engagement strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4314.md)
+
+## This Technology enables the following mitigations
+
+* [Promoting community voice and ownership](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2266.md)
 

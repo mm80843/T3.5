@@ -2,9 +2,9 @@
 
 # __Strengthen public health emergency preparedness and response systems to mitigate the impact of epidemics.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Extreme weather events](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1849.md)
+* [Promote public health through policy implementation, strengthened systems, health literacy, and targeted interventions for vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_314.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Increase investment in healthcare infrastructure, establish temporary medical facilities during outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1577.md)
 * [Adoption of pandemic preparedness protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_738.md)
 * [Prioritize vaccination for vulnerable populations, implement protective measures in healthcare settings, provide support and resources for at-risk individuals.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1874.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Extreme weather events](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1849.md)
 

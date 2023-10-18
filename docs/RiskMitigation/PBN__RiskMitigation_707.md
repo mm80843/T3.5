@@ -2,13 +2,9 @@
 
 # __Use of digital technologies__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Delay in works due to lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_498.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced communication](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_710.md)
+* [Accelerate the shift to digitalization by embracing emerging technologies and implementing innovative solutions across various sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_346.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Digital communication strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_472.md)
 * [Use of blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1053.md)
 * [Promote digital technologies in trade facilitation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_307.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced communication](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_710.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Delay in works due to lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_498.md)
 

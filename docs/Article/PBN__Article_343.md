@@ -2,13 +2,13 @@
 
 # __A call to action: Improving urban green spaces to reduce health inequalities exacerbated by COVID-19__
 
-## Title of the article
-
-A call to action: Improving urban green spaces to reduce health inequalities exacerbated by COVID-19
-
 ## DOI of the article
 
 10.1016/j.ypmed.2021.106425
+
+## Title of the article
+
+A call to action: Improving urban green spaces to reduce health inequalities exacerbated by COVID-19
 
 ## Year of publication
 

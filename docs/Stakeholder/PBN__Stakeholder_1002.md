@@ -2,9 +2,9 @@
 
 # __healthcare professionals in healthcare facilities__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Lack of green spaces in healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1547.md)
+* [Those involved in the provision and management of healthcare services, including workers, professionals, facilities, and users.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_355.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [healthcare providers and patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_120.md)
 * [healthcare workforce](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_207.md)
 * [healthcare workers and patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_215.md)
+
+## Risk affecting this stakeholder
+
+* [Lack of green spaces in healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1547.md)
 

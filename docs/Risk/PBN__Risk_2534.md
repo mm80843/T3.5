@@ -2,9 +2,9 @@
 
 # __Potential data breaches__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Data ownership decentralization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_335.md)
+* [Protection of sensitive information and prevention of unauthorized access or breaches in various technological contexts.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_117.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Privacy breach](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3305.md)
 * [Fraudulent data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3416.md)
 * [Misdiagnoses, privacy breaches, equipment malfunction, costs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3432.md)
+
+## Mitigations of this risk
+
+* [Data ownership decentralization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_335.md)
 

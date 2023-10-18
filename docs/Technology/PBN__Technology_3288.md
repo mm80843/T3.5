@@ -2,9 +2,9 @@
 
 # __barriers such as plexiglass__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_533.md)
+* [Promotion of environmentally-friendly practices, green infrastructure, sustainable housing, renewable energy, and responsible building to enhance spaces and mitigate climate change.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_224.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Plexiglass](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2663.md)
 * [plastic barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4200.md)
 * [safety barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1880.md)
+
+## This Technology enables the following mitigations
+
+* [Physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_533.md)
 

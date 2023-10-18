@@ -2,9 +2,9 @@
 
 # __Healthcare inequalities in LMIC__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [AI for health equity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_657.md)
+* [Healthcare systems overwhelmed with limited resources, shortage of personnel, and inadequate infrastructure face challenges in providing accessible and quality care.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_101.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2517.md)
 * [Insufficient healthcare capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1025.md)
 * [Inadequate healthcare capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2901.md)
+
+## Mitigations of this risk
+
+* [AI for health equity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_657.md)
 

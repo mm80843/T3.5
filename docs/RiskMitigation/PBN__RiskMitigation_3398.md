@@ -2,6 +2,10 @@
 
 # __Rethinking the city’s landscape and role of UGS in life quality__
 
+## Category to which it belongs
+
+* [Promote equitable, sustainable, and inclusive urban planning to enhance living conditions, mitigate overcrowding, and reduce disparities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_324.md)
+
 ## Closest similar item
 
 * [Raising awareness about the relevance of UGS in urban landscape](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_963.md)

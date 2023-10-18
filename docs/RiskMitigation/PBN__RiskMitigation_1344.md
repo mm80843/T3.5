@@ -2,13 +2,9 @@
 
 # __Collaborative and proactive measures__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Economic impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_961.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced economic stability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1323.md)
+* [Strengthen collaborations, implement behavioral change, deploy social robots, and promote sustainable content consumption for community-based strategies, holistic research, and positive media representation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_316.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Strengthen coordination and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1034.md)
 * [Collaborative projects](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1121.md)
 * [Improved access to preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_686.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced economic stability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1323.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Economic impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_961.md)
 

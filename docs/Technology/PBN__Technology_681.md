@@ -2,9 +2,9 @@
 
 # __installation and maintenance of high-efficiency filters__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q327754](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q327754.md)
+* [Various systems and technologies that purify and clean the air, including air filters, HEPA filters, and filtration systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_198.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Use of advanced HVAC systems with high-efficiency filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2891.md)
 * [high-efficiency particulate filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3250.md)
 * [efficient filter replacement mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2023.md)
+
+## This Technology is identified by the following QID
+
+* [Q327754](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q327754.md)
 

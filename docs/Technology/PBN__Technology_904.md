@@ -2,9 +2,9 @@
 
 # __comparative data analysis__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q58901591](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q58901591.md)
+* [Data-driven insights and analysis for decision making, anonymized data, transparency, visualization, and advanced techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_205.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [data collection and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3428.md)
 * [comparative analysis of genome sequences](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4470.md)
 * [data collection and analysis methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1817.md)
+
+## This Technology is identified by the following QID
+
+* [Q58901591](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q58901591.md)
 

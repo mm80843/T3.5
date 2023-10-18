@@ -2,9 +2,9 @@
 
 # __bathrooms__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Airborne infection isolation rooms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1518.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Sanitation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2406.md)
 * [separate toilets in every apartment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1756.md)
 * [proper sanitation facilities and practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_860.md)
+
+## This Technology enables the following mitigations
+
+* [Airborne infection isolation rooms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1518.md)
 

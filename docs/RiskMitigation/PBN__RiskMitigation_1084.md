@@ -2,13 +2,9 @@
 
 # __Adaptation of building envelope materials and techniques__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Challenges in adaptation of building envelope](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_790.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved thermal insulation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1077.md)
+* [Designing affordable, adaptable, and sustainable housing with improved building environments and optimized spatial layouts, while incorporating flexible and human-centric design elements and considering health, safety, and environmental parameters.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_326.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Proper selection of indoor materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_217.md)
 * [Retrofitting existing buildings with containment space, additional wet cells, and compartmentalization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_274.md)
 * [Green retrofit of buildings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_423.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved thermal insulation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1077.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Challenges in adaptation of building envelope](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_790.md)
 

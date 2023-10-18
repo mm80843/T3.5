@@ -2,9 +2,9 @@
 
 # __Risk of transmission during social gatherings__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Compartmentalization of internal spaces to separate sleeping and communal areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_272.md)
+* [Infectious spread through various modes such as close contact, social gatherings, fomites, bodily fluids, and respiratory droplets.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_123.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Increased risk from close contact, reduced social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2777.md)
 * [Increased risk of COVID-19 transmission in crowded public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1715.md)
 * [Risk of workplace transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1479.md)
+
+## Mitigations of this risk
+
+* [Compartmentalization of internal spaces to separate sleeping and communal areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_272.md)
 

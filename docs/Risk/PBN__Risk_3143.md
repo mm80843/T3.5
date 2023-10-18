@@ -2,9 +2,9 @@
 
 # __Time constraints__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Longer project timelines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1566.md)
+* [A list of challenges and uncertainties surrounding the impact and response to various events and crises in different sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_124.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Project delays](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_554.md)
 * [Slow timelines, lack of tools and standards](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2631.md)
 * [Lack of dynamic and timely information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2829.md)
+
+## Mitigations of this risk
+
+* [Longer project timelines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1566.md)
 

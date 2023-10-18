@@ -2,14 +2,9 @@
 
 # __mobile app__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_250.md)
-* [Aarogya Setu app](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1698.md)
-* [COVIDsafe app](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1702.md)
-* [GoK Direct app](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1701.md)
-* [TraceTogether app](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1699.md)
-* [Telemedicine apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1703.md)
+* [A comprehensive list of mobile applications, including contact-tracing apps, mental health apps, mobile banking, and fitness tracking devices, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_197.md)
 
 ## Closest similar item
 
@@ -23,4 +18,13 @@
 * [smartphone applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_65.md)
 * [smartphone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4146.md)
 * [mobile technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2902.md)
+
+## This Technology enables the following mitigations
+
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_250.md)
+* [Aarogya Setu app](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1698.md)
+* [COVIDsafe app](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1702.md)
+* [GoK Direct app](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1701.md)
+* [TraceTogether app](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1699.md)
+* [Telemedicine apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1703.md)
 

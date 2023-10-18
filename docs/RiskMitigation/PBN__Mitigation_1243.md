@@ -2,8 +2,9 @@
 
 # __Wearing of masks__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Facial coverings and detection for risk reduction in face-to-face communication and prevention of transmission.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_161.md)
 
 ## Closest similar item
 
@@ -18,14 +19,17 @@
 * [Use of face masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_938.md)
 * [Use of Face Masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_941.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Wear masks to prevent respiratory droplets from spreading
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [A critical review of emerging technologies for tackling COVID ‐19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_91.md)
+
+## This Mitigation is enabled by the following technologies
+
 

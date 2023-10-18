@@ -2,9 +2,9 @@
 
 # __Vector-borne diseases outbreaks__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Vector Surveillance and Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1860.md)
+* [The challenge lies in the lack of knowledge, limited consideration, and inherent limitations in representing disease transmission mechanisms, mobility patterns, and heterogeneity in macroscopic epidemiological models.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_97.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Vector-borne diseases (VBDs)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_937.md)
 * [Contagious disease outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_641.md)
 * [Tracking and containing outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2768.md)
+
+## Mitigations of this risk
+
+* [Vector Surveillance and Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1860.md)
 

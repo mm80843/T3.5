@@ -2,6 +2,10 @@
 
 # __telehealth services__
 
+## Category to which it belongs
+
+* [Virtual healthcare and remote communication technology including telemedicine, telehealth platforms, teletherapy, teleconferencing, and tele-operation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_202.md)
+
 ## Risks linked to this technology
 
 * [Mental Health Harms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1432.md)
@@ -11,10 +15,6 @@
 * [Insufficient healthcare capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1025.md)
 * [Population characteristics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2076.md)
 * [Inequities in disease vulnerability and access to care](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1860.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Telemedicine and Telehealth Services](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_28.md)
 
 ## Closest similar item
 
@@ -29,11 +29,15 @@
 * [telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
 * [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2101.md)
 
-## This Technology belongs to this TechGroup
-
-* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
-
 ## This Technology is identified by the following QID
 
 * [Q4923501](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4923501.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Telemedicine and Telehealth Services](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_28.md)
+
+## This Technology belongs to this TechGroup
+
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
 

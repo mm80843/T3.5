@@ -2,13 +2,9 @@
 
 # __COVID-19 impact on construction industry__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Improved remote work capabilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1404.md)
-* [Proper handling of pandemic impact](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1405.md)
-* [Increase in preparedness level](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1402.md)
-* [Reduction in perceived impact over time](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1403.md)
-* [Adoption of proper software and hardware](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1401.md)
+* [The far-reaching consequences of COVID-19 include its transmission through various settings, impact on urban areas, and scarcity of resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Environmental impacts of construction during pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1562.md)
 * [Workers’ vulnerability to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3520.md)
 * [Wide-ranging impacts of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_363.md)
+
+## Mitigations of this risk
+
+* [Improved remote work capabilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1404.md)
+* [Proper handling of pandemic impact](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1405.md)
+* [Increase in preparedness level](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1402.md)
+* [Reduction in perceived impact over time](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1403.md)
+* [Adoption of proper software and hardware](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1401.md)
 

@@ -2,9 +2,9 @@
 
 # __Environmental control systems__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
-* [Ventilation Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_77.md)
+* [Improved and energy-efficient HVAC systems, along with advanced technologies, for efficient energy management and environmental control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_227.md)
 
 ## Closest similar item
 
@@ -22,4 +22,8 @@
 ## This Technology belongs to this TechGroup
 
 * [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_13.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Ventilation Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_77.md)
 

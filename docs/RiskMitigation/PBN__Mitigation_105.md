@@ -2,9 +2,9 @@
 
 # __Converged Command Centres__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [real-time data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2005.md)
+* [Enhancing safety and efficiency through comprehensive measures, technology integration, diverse environments, and behavioral adjustments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_157.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Checkpoint allocation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_408.md)
 * [Containment measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_877.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Lack of awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_49.md)
-
 ## Property: has_MitigationPrinciple
 
 Real-time data from different sources received and analysed in command centres prompt quick actions but citizens may lack awareness of surveillance.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_49.md)
+
 ## Property: has_MitigationSource
 
 * [The Emergence of Anti-Privacy and Control at the Nexus between the Concepts of Safe City and Smart City](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_15.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [real-time data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2005.md)
 

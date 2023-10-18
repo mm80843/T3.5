@@ -2,9 +2,9 @@
 
 # __NGOs__
 
-## This Stakeholder belongs to this StakeholderGroup
+## Category to which it belongs
 
-* [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
+* [All actors in the economic and political landscape, including policymakers, governments, and regulatory bodies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_357.md)
 
 ## Closest similar item
 
@@ -18,6 +18,10 @@
 * [non-governmental organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1920.md)
 * [nonprofits](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_810.md)
 * [Nonprofits](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2449.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 

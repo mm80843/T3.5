@@ -2,8 +2,9 @@
 
 # __Reimagining large public spaces and events in a post-pandemic world__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Promoting equality, understanding nature, norms, perceived usefulness, and fostering social interactions for positive societal change.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_175.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Evacuations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1975.md)
 * [Urban restructuring for emergency preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_112.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Decreased public gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2746.md)
-
 ## Property: has_MitigationPrinciple
 
 Rethink the design and use of large public spaces to accommodate for reduced public gatherings and potential aversion to large crowds
 
+## Risks possibly mitigated by this Mitigation
+
+* [Decreased public gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2746.md)
+
 ## Property: has_MitigationSource
 
 * [The Impact of COVID-19 on Public Space: A Review of the Emerging Questions](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_261.md)
+
+## This Mitigation is enabled by the following technologies
+
 

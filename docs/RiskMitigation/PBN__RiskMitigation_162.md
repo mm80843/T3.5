@@ -2,13 +2,9 @@
 
 # __Referral system improvement__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Rural disparities in receiving surgical care from gynecologic oncologists](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_137.md)
-
-## Property: has_MitigationBenefit
-
-* [Increased access to specialist care](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_182.md)
+* [Advancements in bioinformatics, divestment, automated sample collection, and artificial intelligence are facilitating early disease detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_336.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Improve access to specialist care in rural areas, increase referral rates to specialists, provide transportation options for rural patients](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1842.md)
 * [Strengthen social support systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1037.md)
 * [Collaborative approach](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_524.md)
+
+## Property: has_MitigationBenefit
+
+* [Increased access to specialist care](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_182.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Rural disparities in receiving surgical care from gynecologic oncologists](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_137.md)
 

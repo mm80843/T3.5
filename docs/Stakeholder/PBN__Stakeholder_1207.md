@@ -2,13 +2,14 @@
 
 # __individuals in poorly ventilated spaces__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q3766250](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3766250.md)
+* [Especially susceptible individuals, such as allergy sufferers, those with weakened immune systems, and individuals with respiratory conditions, are at higher risk.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_388.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Transmission through airborne aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1805.md)
+* [Inadequate ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_713.md)
 
 ## Closest similar item
 
@@ -23,11 +24,14 @@
 * [people in spaces connected to ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1184.md)
 * [People in spaces connected to ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2247.md)
 
-## Risk affecting this stakeholder
-
-* [Transmission through airborne aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1805.md)
-* [Inadequate ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_713.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
+
+## This Stakeholder is identified by the following QID
+
+* [Q3766250](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3766250.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 

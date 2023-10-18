@@ -2,9 +2,9 @@
 
 # __Improved peer-review process__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [peer-review platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4421.md)
+* [Promoting effective communication, education, and trust through transparency, clear guidelines, and innovative strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_144.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Research and development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1096.md)
 * [Replicating previous research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_660.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Questionable](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3417.md)
-
 ## Property: has_MitigationPrinciple
 
 Strengthen and improve the peer-review process, ensuring rigorous evaluation of research and preventing dissemination of flawed or unreliable studies.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Questionable](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3417.md)
+
 ## Property: has_MitigationSource
 
 * [Rise of the preprint: how rapid data sharing during COVID-19 has changed science forever](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_173.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [peer-review platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4421.md)
 

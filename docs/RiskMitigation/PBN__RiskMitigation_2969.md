@@ -2,9 +2,9 @@
 
 # __Implement rationing systems and stockpiling regulations__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Panic buying](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2281.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Supplier diversification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_782.md)
 * [Establishing alternative sourcing and inventory buffers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_646.md)
 * [Promote diversification of suppliers and reduce dependence on a few key suppliers.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2423.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Panic buying](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2281.md)
 

@@ -2,13 +2,9 @@
 
 # __Spatial planning considerations__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Spread of Covid-19 in urban public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_27.md)
-
-## Property: has_MitigationBenefit
-
-* [Decreased transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_43.md)
+* [Promote equitable, sustainable, and inclusive urban planning to enhance living conditions, mitigate overcrowding, and reduce disparities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_324.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Incorporate placemaking and public place design in spatial planning, include hygiene development and spatial use](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1737.md)
 * [Urban planning and design to create more open space, improve infrastructure, and promote safe transportation options.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1921.md)
 * [Adoption of spatial planning strategies for pandemic preparedness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_296.md)
+
+## Property: has_MitigationBenefit
+
+* [Decreased transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_43.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of Covid-19 in urban public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_27.md)
 

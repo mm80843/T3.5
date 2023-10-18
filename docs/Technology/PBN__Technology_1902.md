@@ -2,9 +2,9 @@
 
 # __security audit platforms__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q181487](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q181487.md)
+* [Various security measures, such as encryption, authentication protocols, secure data storage, and blockchain, are used to protect digital platforms and ensure privacy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_201.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [data access platforms and applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1969.md)
 * [peer-review platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4421.md)
 * [centralized reporting platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_41.md)
+
+## This Technology is identified by the following QID
+
+* [Q181487](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q181487.md)
 

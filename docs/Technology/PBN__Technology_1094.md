@@ -2,13 +2,13 @@
 
 # __phone__
 
+## Category to which it belongs
+
+* [A comprehensive list of mobile applications, including contact-tracing apps, mental health apps, mobile banking, and fitness tracking devices, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_197.md)
+
 ## Risks linked to this technology
 
 * [Insufficient Contact Information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1725.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Communication Technologies and Channels](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_27.md)
 
 ## Closest similar item
 
@@ -23,12 +23,16 @@
 * [apps)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3807.md)
 * [mobile phone application](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4443.md)
 
-## This Technology belongs to this TechGroup
-
-* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
-
 ## This Technology is identified by the following QID
 
 * [Q30092999](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q30092999.md)
 * [Q202064](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q202064.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Communication Technologies and Channels](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_27.md)
+
+## This Technology belongs to this TechGroup
+
+* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
 

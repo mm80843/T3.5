@@ -2,8 +2,9 @@
 
 # __Multi-functional Buildings__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Creating resilient urban environments through strategic planning, adaptable design, reduced density, and improved building infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_164.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Availability of outdoor spaces in the building](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2126.md)
 * [Non-centralized building systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1163.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Lack of flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2699.md)
-
 ## Property: has_MitigationPrinciple
 
 Designing buildings to accommodate multiple activities and promote occupant health and well-being
 
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2699.md)
+
 ## Property: has_MitigationSource
 
 * [Reflecting on Impacts of COVID19 on Sustainable Buildings and Cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_110.md)
+
+## This Mitigation is enabled by the following technologies
+
 

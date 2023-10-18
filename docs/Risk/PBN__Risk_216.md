@@ -2,10 +2,9 @@
 
 # __Influenza incidence__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Monitoring outdoor absolute humidity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_259.md)
-* [Improved understanding of indoor and outdoor environmental parameters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_260.md)
+* [The dissemination of infectious diseases, characterized by outbreaks from various sources, inadequate preparedness, and insufficient reporting and understanding, poses a global threat.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_106.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [COVID-19 outbreak impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1436.md)
 * [Reduction in infectious disease incidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1793.md)
 * [COVID-19 outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_302.md)
+
+## Mitigations of this risk
+
+* [Monitoring outdoor absolute humidity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_259.md)
+* [Improved understanding of indoor and outdoor environmental parameters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_260.md)
 

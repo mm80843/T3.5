@@ -2,9 +2,9 @@
 
 # __Prioritize green space in deprived areas, consider equitable distribution in urban planning__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Inequitable distribution of green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1041.md)
+* [Promote equitable, sustainable, and inclusive urban planning to enhance living conditions, mitigate overcrowding, and reduce disparities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_324.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Improve access to and availability of green spaces in built environments through urban planning and design interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2072.md)
 * [Incorporate green elements in urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1786.md)
 * [Increase greenspace availability in deprived areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2915.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inequitable distribution of green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1041.md)
 

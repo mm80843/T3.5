@@ -2,13 +2,9 @@
 
 # __Facilitate response diversity__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Shortages in supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_491.md)
-
-## Property: has_MitigationBenefit
-
-* [Redundancy in supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_700.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Engage diverse clinical research groups, improve data accessibility in low-income countries, address racial biases in data collection and reporting.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1833.md)
 * [Encouraging effective communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_207.md)
 * [Improve communication and outreach to foreign nationals, provide clear instructions and guidelines in multiple languages.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2481.md)
+
+## Property: has_MitigationBenefit
+
+* [Redundancy in supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_700.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Shortages in supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_491.md)
 

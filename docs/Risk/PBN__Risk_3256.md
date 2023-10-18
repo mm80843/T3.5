@@ -2,9 +2,9 @@
 
 # __Slowed development, lack of progress__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Technology and innovation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1820.md)
+* [Insufficient awareness, limited resources, inadequate communication, and lack of preparedness contribute to various challenges and deficiencies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_118.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of treatment and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2070.md)
 * [Impact on developing countries](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_450.md)
 * [Loss of productivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3134.md)
+
+## Mitigations of this risk
+
+* [Technology and innovation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1820.md)
 

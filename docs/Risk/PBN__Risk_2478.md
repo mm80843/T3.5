@@ -2,9 +2,9 @@
 
 # __Poor IAQ__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Improved Indoor Air Quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_180.md)
+* [A compilation of topics including energy use, mechanisms, gender inequality, contractual issues, musculoskeletal disorders, and mental health among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_136.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [AQ1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2200.md)
 * [Poor Health Conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1057.md)
 * [Shortage of AIIRs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_313.md)
+
+## Mitigations of this risk
+
+* [Improved Indoor Air Quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_180.md)
 

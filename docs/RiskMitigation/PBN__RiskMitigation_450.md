@@ -2,13 +2,9 @@
 
 # __Study of the effect of RH on UV susceptibility of bacterial aerosols__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Effect of relative humidity (RH) on UV susceptibility of bacterial aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_339.md)
-
-## Property: has_MitigationBenefit
-
-* [Understanding the effect of RH on UV susceptibility of bacterial aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_435.md)
+* [Utilize UVGI technology to disinfect air, surfaces, and clothing, ensuring proper installation, training, and research to optimize effectiveness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_352.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Conduct further research and studies to compare the two types of UV light for disinfection purposes.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1681.md)
 * [Implement strategies to promote good room air mixing, such as ceiling mounted fans, to ensure even distribution of aerosol particles in the UV field](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1626.md)
 * [Increase ventilation and air filtration, use UV germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2982.md)
+
+## Property: has_MitigationBenefit
+
+* [Understanding the effect of RH on UV susceptibility of bacterial aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_435.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Effect of relative humidity (RH) on UV susceptibility of bacterial aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_339.md)
 

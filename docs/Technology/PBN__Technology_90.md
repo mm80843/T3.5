@@ -2,9 +2,9 @@
 
 # __affordable and sustainable housing solutions__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q4689034](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4689034.md)
+* [Promotion of environmentally-friendly practices, green infrastructure, sustainable housing, renewable energy, and responsible building to enhance spaces and mitigate climate change.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_224.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [community amenities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_170.md)
 * [housing design and construction standards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_456.md)
 * [green building strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4066.md)
+
+## This Technology is identified by the following QID
+
+* [Q4689034](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4689034.md)
 

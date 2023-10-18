@@ -2,10 +2,9 @@
 
 # __Increase access to greenspaces and promote outdoor activity__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2235.md)
-* [Mental](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2239.md)
+* [Promote biodiversity and sustainable urban development through the establishment and accessibility of green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_322.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Provide access to public parks and green spaces, encourage the development of outdoor spaces in residential areas.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1525.md)
 * [Encourage outdoor activities in green spaces, create more green spaces in urban areas, protect existing natural areas.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2767.md)
 * [Encourage utilization of private green spaces, create guidelines for safe access, facilitate use of nearby green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2766.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2235.md)
+* [Mental](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2239.md)
 

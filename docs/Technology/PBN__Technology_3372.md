@@ -2,10 +2,9 @@
 
 # __green space management__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Aesthetic management practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_652.md)
-* [Non-clearing of understory vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_651.md)
+* [Promotion of environmentally-friendly practices, green infrastructure, sustainable housing, renewable energy, and responsible building to enhance spaces and mitigate climate change.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_224.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Green infrastructure management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2342.md)
 * [development of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1619.md)
 * [Development of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2218.md)
+
+## This Technology enables the following mitigations
+
+* [Aesthetic management practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_652.md)
+* [Non-clearing of understory vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_651.md)
 

@@ -2,9 +2,9 @@
 
 # __Set up checkpoints, install monitoring equipment, record departure points and destination.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Checkpoint allocation for monitory and recording opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_265.md)
+* [Enhanced surveillance, monitoring, and real-time tracking for improved control and response to various situations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_312.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Real-time passenger information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_740.md)
 * [Continuously monitor and adjust policies based on the situation.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3015.md)
 * [Implementing crowd control measures such as capacity limits, timed entry systems, one-way circulation, and designated waiting areas.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2236.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Checkpoint allocation for monitory and recording opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_265.md)
 

@@ -2,9 +2,9 @@
 
 # __Develop rapid testing methods to reduce turnaround time__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Long turnaround time for COVID-19 testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2402.md)
+* [Promote comprehensive testing and tracing, prioritize vulnerable populations, reduce diagnosis-to-surgery time, recognize stress symptoms, and improve testing accuracy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_347.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Increase testing capacity and accessibility, prioritize testing for high-risk individuals and areas, utilize alternative testing methods such as wastewater-based surveillance.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3073.md)
 * [Increased testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_864.md)
 * [Rapid diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1282.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Long turnaround time for COVID-19 testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2402.md)
 

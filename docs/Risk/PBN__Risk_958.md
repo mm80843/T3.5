@@ -2,9 +2,9 @@
 
 # __Inadequate unit sizes and layouts for physical distancing__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Appropriate unit sizes and layouts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1339.md)
+* [Limited physical/social distancing, thermal discomfort, poor lighting, and inadequate air quality negatively impact personal comfort.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_130.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of awareness and safe distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3205.md)
 * [Lack of proper social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1945.md)
 * [Inadequate unit sizes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1894.md)
+
+## Mitigations of this risk
+
+* [Appropriate unit sizes and layouts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1339.md)
 

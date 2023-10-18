@@ -2,9 +2,9 @@
 
 # __Communication tools__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
-* [Communication and Collaboration Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_111.md)
+* [Enhanced connectivity and diverse communication platforms enable the dissemination of reliable information and promote open communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_225.md)
 
 ## Closest similar item
 
@@ -19,12 +19,16 @@
 * [remote communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1241.md)
 * [messaging tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1427.md)
 
+## This Technology is identified by the following QID
+
+* [Q3635085](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3635085.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Communication and Collaboration Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_111.md)
+
 ## This Technology belongs to this TechGroup
 
 * [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
 * [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
-
-## This Technology is identified by the following QID
-
-* [Q3635085](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3635085.md)
 

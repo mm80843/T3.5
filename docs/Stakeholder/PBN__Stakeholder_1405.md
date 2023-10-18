@@ -2,10 +2,9 @@
 
 # __network operators__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Limited connectivity challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2096.md)
-* [Scalability and QoS provisioning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2095.md)
+* [All those involved in the management, access, and utilization of data in various communities and industries.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_358.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Network administrators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1663.md)
 * [transport operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1303.md)
 * [building operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_152.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Limited connectivity challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2096.md)
+* [Scalability and QoS provisioning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2095.md)
 

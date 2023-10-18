@@ -2,13 +2,9 @@
 
 # __Quick and Accurate Information Dissemination__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of Trust in Information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_973.md)
-
-## Property: has_MitigationBenefit
-
-* [Increased Trust](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1341.md)
+* [Advancements in bioinformatics, divestment, automated sample collection, and artificial intelligence are facilitating early disease detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_336.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Improve accessibility of reliable information through various channels (websites, social media, hotlines)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2415.md)
 * [Providing clear and transparent information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_101.md)
 * [Improve access to reliable information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_628.md)
+
+## Property: has_MitigationBenefit
+
+* [Increased Trust](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1341.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of Trust in Information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_973.md)
 

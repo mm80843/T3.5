@@ -2,19 +2,19 @@
 
 # __Prevention of clogs__
 
+## Name of the Benefit
+
+Reduced maintenance costs
+
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Enhanced system reliability and efficiency](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1112.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [water utilities/consumers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_395.md)
 
 ## Articles mentionning this Benefit
 
 * [When the fourth water and digital revolution encountered COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_207.md)
 
-## Name of the Benefit
+## Stakeholders benefitting from this Benefit
 
-Reduced maintenance costs
+* [water utilities/consumers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_395.md)
 

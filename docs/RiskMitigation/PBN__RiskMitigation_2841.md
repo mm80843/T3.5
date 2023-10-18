@@ -2,9 +2,9 @@
 
 # __Creating value-based marketing strategies, offering discounts or promotions, and diversifying product/service offerings to meet changing consumer needs.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Reduced consumer spending](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2172.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Diversifying suppliers and exploring local sourcing options, establishing alternative supply chains, and improving communication and coordination with suppliers.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2676.md)
 * [Develop cost-effective solutions, provide financial incentives, and promote collaboration.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2784.md)
 * [Provide financial support to cultural and creative industries, promote digital cultural events and experiences.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2911.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Reduced consumer spending](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2172.md)
 

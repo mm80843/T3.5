@@ -2,14 +2,9 @@
 
 # __global community__
 
-## This Stakeholder can get these Benefits from mitigation measures
+## Category to which it belongs
 
-* [Mitigated poverty and inequality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_631.md)
-* [Influencing global green transition](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_782.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q647332](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q647332.md)
+* [All those involved in the management, access, and utilization of data in various communities and industries.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_358.md)
 
 ## Closest similar item
 
@@ -23,4 +18,13 @@
 * [Local community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2501.md)
 * [global population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_278.md)
 * [community organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_150.md)
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Mitigated poverty and inequality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_631.md)
+* [Influencing global green transition](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_782.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q647332](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q647332.md)
 

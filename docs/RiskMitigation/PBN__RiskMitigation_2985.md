@@ -2,9 +2,9 @@
 
 # __Implement safety measures to protect against UV-C radiation exposure__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Health risks from UV-C radiation exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2297.md)
+* [Utilize UVGI technology to disinfect air, surfaces, and clothing, ensuring proper installation, training, and research to optimize effectiveness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_352.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Incorporate far-UVC light as a disinfection measure in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1679.md)
 * [Use of UV-C germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1026.md)
 * [UV-Light radiation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_402.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Health risks from UV-C radiation exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2297.md)
 

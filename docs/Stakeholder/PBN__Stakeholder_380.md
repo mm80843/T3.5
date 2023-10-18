@@ -2,9 +2,9 @@
 
 # __urban designers__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q63100](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q63100.md)
+* [Areas inhabited by people in cities, focusing on residents, professionals, researchers, decision-makers, and institutions involved in urban planning and development.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_376.md)
 
 ## Closest similar item
 
@@ -26,4 +26,8 @@
 ## Risks that can be mitigated by this stakeholder
 
 * [Streets re-designed](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1458.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q63100](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q63100.md)
 

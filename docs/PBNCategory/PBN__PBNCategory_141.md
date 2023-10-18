@@ -1,0 +1,40 @@
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_141 
+
+# __Insufficient, cramped, and unsanitary conditions in various types of spaces are hindering access, health, and well-being.__
+
+## Items covered in this category
+
+* [Crowded public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1325.md)
+* [Crowded spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1499.md)
+* [Changes in use and behavior in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1465.md)
+* [Lack of self-sufficient spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1958.md)
+* [Inadequate living spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_572.md)
+* [Lack of Outdoor Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1079.md)
+* [Lack of outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1305.md)
+* [Lack of private space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3198.md)
+* [Overcrowding in living spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1128.md)
+* [New typology for public space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1461.md)
+* [Need for a new typology for public space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_913.md)
+* [Inadequate cleaning policies and procedures for office spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_436.md)
+* [Lack of sanitation in shared spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1127.md)
+* [Risk of transmission in enclosed and communal spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2120.md)
+* [Risk of transmission in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1480.md)
+* [Inappropriate humidity levels in indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3063.md)
+* [Limited access to outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1740.md)
+* [Limited access to outdoor space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2581.md)
+* [Lack of safe spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2421.md)
+* [Perceptions of public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1466.md)
+* [Future of large public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_912.md)
+* [Changes in use and regulation of interior public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_917.md)
+* [Overcrowding in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3381.md)
+* [Decline in commercial spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3378.md)
+* [Overcrowding, inadequate space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2592.md)
+* [Lack of access to outdoor space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1684.md)
+* [Fewer people in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1464.md)
+* [Contamination of shared spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2147.md)
+* [Insufficient public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1738.md)
+* [Unequal distribution of street open spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1969.md)
+* [Inequitable access to virtual community spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2326.md)
+* [Limited access to natural spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2114.md)
+* [Dimly lit spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2579.md)
+

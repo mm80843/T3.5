@@ -2,10 +2,9 @@
 
 # __international collaboration platforms__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [International Cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_688.md)
-* [Global Response](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_692.md)
+* [Digital platforms and online resources facilitate collaboration, communication, and information sharing among individuals and organizations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_193.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [collaboration platforms for information sharing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1895.md)
 * [international organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_613.md)
 * [international coordination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_920.md)
+
+## This Technology enables the following mitigations
+
+* [International Cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_688.md)
+* [Global Response](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_692.md)
 

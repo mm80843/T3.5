@@ -2,13 +2,9 @@
 
 # __Monitoring social media__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Dissemination of false information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_493.md)
-
-## Property: has_MitigationBenefit
-
-* [Accurate information](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_493.md)
+* [Enhanced surveillance, monitoring, and real-time tracking for improved control and response to various situations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_312.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Best practices for information sharing on social media](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_909.md)
 * [People monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1419.md)
 * [Educating social media users to consume content in a sustainable manner](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_121.md)
+
+## Property: has_MitigationBenefit
+
+* [Accurate information](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_493.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Dissemination of false information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_493.md)
 

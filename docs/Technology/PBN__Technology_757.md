@@ -2,6 +2,10 @@
 
 # __epidemiological models__
 
+## Category to which it belongs
+
+* [Improved healthcare infrastructure and resources enable public health authorities to implement effective messaging and interventions, ensuring equitable access to healthcare facilities and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_209.md)
+
 ## Risks linked to this technology
 
 * [Ineffective non-pharmaceutical interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1490.md)

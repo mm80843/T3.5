@@ -2,9 +2,9 @@
 
 # __Increase testing capacity and accessibility in deprived areas.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Testing disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1936.md)
+* [Promote comprehensive testing and tracing, prioritize vulnerable populations, reduce diagnosis-to-surgery time, recognize stress symptoms, and improve testing accuracy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_347.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Increase testing capacity; develop and deploy widespread testing strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1890.md)
 * [Increase testing capacity, develop rapid and accurate test kits, promote widespread testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2723.md)
 * [Ensure healthcare accessibility and affordability, address social determinants of health, provide targeted support to vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2276.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Testing disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1936.md)
 

@@ -2,9 +2,9 @@
 
 # __uv light fixtures__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Upper-room UV lights](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_613.md)
+* [Innovative lighting solutions harnessing ultraviolet technology for optimal germicidal sterilization and energy efficiency, while maximizing natural light.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_235.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [uv-c emitters or lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4391.md)
 * [uvgi lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3107.md)
 * [uv light devices (such as px-uv)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4487.md)
+
+## This Technology enables the following mitigations
+
+* [Upper-room UV lights](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_613.md)
 

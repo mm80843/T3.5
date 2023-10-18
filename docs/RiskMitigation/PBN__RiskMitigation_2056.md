@@ -2,9 +2,9 @@
 
 # __Implement remote induction process__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Induction process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1529.md)
+* [Advancements in bioinformatics, divestment, automated sample collection, and artificial intelligence are facilitating early disease detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_336.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement safety measures and consider remote working and digital control systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2523.md)
 * [Invest in digital infrastructure for remote learning, provide devices and internet access to students, support teachers and parents in adapting to remote education.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2912.md)
 * [Implement remote work, flexible schedules, prioritize worker safety](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1531.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Induction process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1529.md)
 

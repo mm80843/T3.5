@@ -2,9 +2,9 @@
 
 # __blockchain technologies__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_99.md)
+* [Technological advancements encompass a wide range of innovations, such as blockchain, touchless, renewable energy, and communication technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Blockchain security protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2606.md)
 * [blockchain technology for supply chain transparency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1632.md)
 * [financial technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1243.md)
+
+## This Technology enables the following mitigations
+
+* [Data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_99.md)
 

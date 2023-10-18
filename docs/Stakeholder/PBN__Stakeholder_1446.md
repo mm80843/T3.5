@@ -2,9 +2,9 @@
 
 # __workers with comorbidities__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Comorbid workers working from home (WFH)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2136.md)
+* [Employees across various industries, including laboratories, maintenance personnel, cleaning staff, and workers in the informal sector.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_359.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
 * [workers in the healthcare sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1711.md)
 * [Workers in the healthcare sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1713.md)
+
+## Risk affecting this stakeholder
+
+* [Comorbid workers working from home (WFH)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2136.md)
 

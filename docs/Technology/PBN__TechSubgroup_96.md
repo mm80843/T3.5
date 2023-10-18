@@ -2,14 +2,9 @@
 
 # __Filters__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1111.md)
-* [HEPA filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2236.md)
-* [high-efficiency air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1115.md)
-* [electrostatic filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1116.md)
-* [HVAC systems with HEPA filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2700.md)
-* [Ultrafiltration or nanomembrane filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2715.md)
+* [Indoor environment control solutions, involving monitoring and improving air quality, filtration, purification, HVAC, and waste management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_43.md)
 
 ## Closest similar item
 
@@ -23,4 +18,13 @@
 * [Monitoring Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_31.md)
 * [Data Collection and Analysis](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_162.md)
 * [Environmental Controls](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_185.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1111.md)
+* [HEPA filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2236.md)
+* [high-efficiency air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1115.md)
+* [electrostatic filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1116.md)
+* [HVAC systems with HEPA filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2700.md)
+* [Ultrafiltration or nanomembrane filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2715.md)
 

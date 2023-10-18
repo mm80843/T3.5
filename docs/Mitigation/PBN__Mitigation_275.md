@@ -2,9 +2,9 @@
 
 # __Ultraviolet Germicidal Irradiation (UVGI)__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [uvgi lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3107.md)
+* [Maximizing the use of natural light and UV radiation for germicidal purposes in indoor spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_176.md)
 
 ## Closest similar item
 
@@ -19,14 +19,18 @@
 * [UV-Light radiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1813.md)
 * [Germicidal UV air disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1390.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Damaging the DNA/RNA of pathogens with UVGI light, making them unable to reproduce and thus reducing the risk of infection in indoor spaces
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Methods for air cleaning and protection of building occupants from airborne pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_240.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [uvgi lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3107.md)
 

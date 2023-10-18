@@ -2,10 +2,9 @@
 
 # __Job retention schemes__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [financial support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_607.md)
-* [job retention programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3893.md)
+* [Embracing flexible work arrangements, such as remote work and staggered schedules, to enhance productivity and adapt to digital transformation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_171.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Job training programs, re-skilling initiatives, and government assistance for unemployed individuals.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4086.md)
 * [Overhaul employment services and vocational training systems, coordinate efforts to retrain and redeploy workers.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4087.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Job losses and unemployment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3108.md)
-
 ## Property: has_MitigationPrinciple
 
 Implementing job retention schemes and providing financial support can help protect immigrants from losing their jobs and experiencing unemployment during economic downturns.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Job losses and unemployment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3108.md)
+
 ## Property: has_MitigationSource
 
 * [What has been the impact of the COVID-19 pandemic on immigrants? An update on recent evidence](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_287.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [financial support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_607.md)
+* [job retention programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3893.md)
 

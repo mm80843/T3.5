@@ -2,9 +2,9 @@
 
 # __environmental microbiologists__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Lack of standardized method for SARS-CoV-2 detection in environmental samples](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1626.md)
+* [The realm of nature and its impact on humanity, from researchers and scientists to workers and individuals.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_373.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [environmental workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1307.md)
 * [biosafety officers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1056.md)
 * [environmental engineers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_678.md)
+
+## Risk affecting this stakeholder
+
+* [Lack of standardized method for SARS-CoV-2 detection in environmental samples](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1626.md)
 

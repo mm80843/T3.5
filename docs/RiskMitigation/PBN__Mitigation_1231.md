@@ -2,11 +2,9 @@
 
 # __Digital revolution in water management__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
-* [artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_358.md)
-* [big data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2938.md)
+* [Strengthening waste management and surveillance, utilizing wastewater-based epidemiology, to improve environmental sanitation and water quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_9.md)
 
 ## Closest similar item
 
@@ -21,15 +19,21 @@
 * [Water consumption and Wastewater Management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_499.md)
 * [Enhancing citizen confidence in water services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1638.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Lack of data-driven decision making](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2565.md)
-
 ## Property: has_MitigationPrinciple
 
 Use digital tools to optimize water management, improve efficiency, and respond to COVID-19 challenges
 
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of data-driven decision making](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2565.md)
+
 ## Property: has_MitigationSource
 
 * [Water and wastewater digital surveillance for monitoring and early detection of the COVID-19 hotspot: industry 4.0](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_162.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
+* [artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_358.md)
+* [big data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2938.md)
 

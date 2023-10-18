@@ -2,13 +2,9 @@
 
 # __Integrated surveillance of human cases and vectors__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Social and demographic change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_737.md)
-
-## Property: has_MitigationBenefit
-
-* [Early warning system for emerging risks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1016.md)
+* [Enhanced surveillance, monitoring, and real-time tracking for improved control and response to various situations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_312.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Strengthening public health surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_727.md)
 * [Monitoring and surveillance of vectors, implementing vector control measures, public awareness and education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2680.md)
 * [Development of novel surveillance systems, improved reporting and communication channels](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2683.md)
+
+## Property: has_MitigationBenefit
+
+* [Early warning system for emerging risks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1016.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Social and demographic change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_737.md)
 

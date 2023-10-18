@@ -2,13 +2,9 @@
 
 # __Plant insect-pollinated plants instead of wind-pollinated ones__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Green spaces and pollen allergies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_68.md)
-
-## Property: has_MitigationBenefit
-
-* [Decreased pollen allergen exposure](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_93.md)
+* [Efforts include RNA monitoring, occupant exposure modeling, targeted messages, adoption of principles, copper coating, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_311.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Research and develop alternative materials that prevent mosquito attraction while remaining environmentally sustainable.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2420.md)
 * [Material selection to minimize mosquito attraction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1303.md)
 * [Proper ventilation, air filtration, natural daylighting, indoor plantings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3080.md)
+
+## Property: has_MitigationBenefit
+
+* [Decreased pollen allergen exposure](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_93.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Green spaces and pollen allergies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_68.md)
 

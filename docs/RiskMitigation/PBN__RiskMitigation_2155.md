@@ -2,9 +2,9 @@
 
 # __Develop and promote alternative outdoor recreation opportunities.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Decline in urban park visitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1616.md)
+* [Promote biodiversity and sustainable urban development through the establishment and accessibility of green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_322.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Government intervention in providing public parks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_169.md)
 * [Support local economies and livelihoods, promote sustainable alternative income-generating activities, and engage local communities in conservation efforts.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1784.md)
 * [Natural outdoor environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_733.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Decline in urban park visitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1616.md)
 

@@ -2,9 +2,13 @@
 
 # __healthcare policymakers__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q1519812](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1519812.md)
+* [Those involved in the provision and management of healthcare services, including workers, professionals, facilities, and users.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_355.md)
+
+## Risk affecting this stakeholder
+
+* [Insufficient healthcare preparation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2183.md)
 
 ## Closest similar item
 
@@ -19,10 +23,6 @@
 * [healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_192.md)
 * [healthcare agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_543.md)
 
-## Risk affecting this stakeholder
-
-* [Insufficient healthcare preparation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2183.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Enhanced preparation for outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1307.md)
@@ -30,4 +30,8 @@
 ## Risks that can be mitigated by this stakeholder
 
 * [Insufficient healthcare preparation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2183.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q1519812](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1519812.md)
 

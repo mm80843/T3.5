@@ -2,13 +2,9 @@
 
 # __Green view from home windows__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Limited access to public green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_522.md)
-
-## Property: has_MitigationBenefit
-
-* [Psychological well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_740.md)
+* [Promote biodiversity and sustainable urban development through the establishment and accessibility of green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_322.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Design apartments with windows that offer views of nature and the sky.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2486.md)
 * [Accessible green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1228.md)
 * [Visible and accessible green elements and spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_799.md)
+
+## Property: has_MitigationBenefit
+
+* [Psychological well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_740.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limited access to public green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_522.md)
 

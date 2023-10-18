@@ -2,13 +2,9 @@
 
 # __Quarantine and social distancing measures__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Spread of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_642.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction in transmission rate](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_33.md)
+* [Enforcing strict measures such as containment strategies, isolation, quarantine, and travel restrictions to prevent the spread of diseases.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_333.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Quarantines,](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_976.md)
 * [Public education, social distancing, home quarantine, and travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1009.md)
 * [Voluntary home quarantine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_565.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction in transmission rate](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_33.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_642.md)
 

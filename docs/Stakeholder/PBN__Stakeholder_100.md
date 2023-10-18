@@ -7,6 +7,10 @@
 * [Increased access to specialist care](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_182.md)
 * [Timely treatment and intervention](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_183.md)
 
+## Category to which it belongs
+
+* [Collective inhabitants of various social groups, including rural women with ovarian cancer, who reside within different types of communities and rely on diverse support networks for community engagement.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_386.md)
+
 ## Closest similar item
 
 * [rural women with ovarian cancer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_859.md)

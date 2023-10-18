@@ -2,9 +2,9 @@
 
 # __Inadequate sunlight exposure__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Exposure to sunlight](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_477.md)
+* [Limited physical/social distancing, thermal discomfort, poor lighting, and inadequate air quality negatively impact personal comfort.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_130.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Decreased Exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1262.md)
 * [Lack of natural light](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1804.md)
 * [Lack of nature exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2953.md)
+
+## Mitigations of this risk
+
+* [Exposure to sunlight](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_477.md)
 

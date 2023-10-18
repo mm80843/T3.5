@@ -2,20 +2,20 @@
 
 # __Deterrence of anti-social behavior__
 
+## Name of the Benefit
+
+Using surveillance data to identify and discourage activities such as hoarding
+
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Public order maintenance, discouragement of undesirable behavior](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1571.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [law enforcement](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_534.md)
-* [city authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_536.md)
 
 ## Articles mentionning this Benefit
 
 * [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
 
-## Name of the Benefit
+## Stakeholders benefitting from this Benefit
 
-Using surveillance data to identify and discourage activities such as hoarding
+* [law enforcement](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_534.md)
+* [city authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_536.md)
 

@@ -2,20 +2,20 @@
 
 # __Increased collaboration__
 
+## Name of the Benefit
+
+Facilitate international scientific endeavours and collaborative research
+
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Access to a wider range of expertise and resources, leading to more impactful research](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1123.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [research groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_172.md)
-* [scientific community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_348.md)
 
 ## Articles mentionning this Benefit
 
 * [Data capture and sharing in the COVID-19 pandemic: a cause for concern](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_208.md)
 
-## Name of the Benefit
+## Stakeholders benefitting from this Benefit
 
-Facilitate international scientific endeavours and collaborative research
+* [research groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_172.md)
+* [scientific community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_348.md)
 

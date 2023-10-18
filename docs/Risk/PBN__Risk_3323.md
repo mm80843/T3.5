@@ -2,9 +2,9 @@
 
 # __Lack of alignment with global climate goals__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Development pathways synchronized to the NDCs of the Paris Accord or the findings of the IPCC](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1992.md)
+* [The interconnectedness of environmental degradation, social inequalities, and the need for climate action and conservation efforts.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_104.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Perception of climate change as a distant threat](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2692.md)
 * [Misunderstanding of the permanence of climate change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1403.md)
 * [Perception of climate change as distant](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2686.md)
+
+## Mitigations of this risk
+
+* [Development pathways synchronized to the NDCs of the Paris Accord or the findings of the IPCC](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1992.md)
 

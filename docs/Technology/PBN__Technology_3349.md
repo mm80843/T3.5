@@ -2,9 +2,9 @@
 
 # __databases__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Activate rapid response services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_607.md)
+* [Data-driven insights and analysis for decision making, anonymized data, transparency, visualization, and advanced techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_205.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [data management techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_158.md)
 * [sqlite database](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3827.md)
 * [data management tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_781.md)
+
+## This Technology enables the following mitigations
+
+* [Activate rapid response services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_607.md)
 

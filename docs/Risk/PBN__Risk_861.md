@@ -2,9 +2,9 @@
 
 # __Waning efficacy of vaccines__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Monitor vaccination status](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1185.md)
+* [The challenges in vaccination include limited storage capacity, high patient demand, inefficient resource use, distribution difficulties, waning vaccine effectiveness, and unequal access.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_113.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Demand for vaccine development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_423.md)
 * [Vaccine distribution and storage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1908.md)
 * [Vaccine hesitancy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1909.md)
+
+## Mitigations of this risk
+
+* [Monitor vaccination status](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1185.md)
 

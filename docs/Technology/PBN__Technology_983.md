@@ -2,9 +2,9 @@
 
 # __inter-sectorial impact models__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q5333508](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5333508.md)
+* [Advanced technologies and algorithms for modeling, simulation, optimization, and artificial intelligence in various applications, including robotics and computational fluid dynamics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_239.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [advanced data analysis and modeling techniques can be used to study the relationship between ah](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1061.md)
 * [economic policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_806.md)
 * [Economic policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2630.md)
+
+## This Technology is identified by the following QID
+
+* [Q5333508](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5333508.md)
 

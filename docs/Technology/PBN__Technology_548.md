@@ -2,9 +2,9 @@
 
 # __event planning guidelines__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q2040532](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2040532.md)
+* [Safety protocols, emergency response plans, risk assessment tools, and comprehensive risk communication strategies ensure workplace safety and crisis management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_232.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [contingency planning frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1459.md)
 * [participatory planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4213.md)
 * [community planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2994.md)
+
+## This Technology is identified by the following QID
+
+* [Q2040532](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2040532.md)
 

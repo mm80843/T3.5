@@ -2,9 +2,9 @@
 
 # __effective public health messaging__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Public Health Messaging](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1065.md)
+* [Improved healthcare infrastructure and resources enable public health authorities to implement effective messaging and interventions, ensuring equitable access to healthcare facilities and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_209.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2222.md)
 * [public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1030.md)
 * [health promotion campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1217.md)
+
+## This Technology enables the following mitigations
+
+* [Public Health Messaging](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1065.md)
 

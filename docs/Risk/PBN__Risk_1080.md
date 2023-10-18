@@ -2,25 +2,9 @@
 
 # __Isolation and Lack of Social Interaction__
 
-## Property: has_RiskHealth
+## Category to which it belongs
 
-* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Description of the risk
-
-Social isolation resulting from lockdown measures and quarantine can lead to feelings of loneliness and affect mental health.
-
-## Property: has_RiskType
-
-* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
-
-## Articles mentionning the risk
-
-* [COVID-19 Lockdown: Housing Built Environment’s Effects on Mental Health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_254.md)
+* [The ramifications of social distancing include inconsistent recommendations, increased violence, changes in social practices, and lack of interaction, among other social issues.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_96.md)
 
 ## Closest similar item
 
@@ -35,15 +19,33 @@ Social isolation resulting from lockdown measures and quarantine can lead to fee
 * [Lack of social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1892.md)
 * [Feeling of isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1109.md)
 
-## People affected by this risk
+## Description of the risk
 
-* [individuals living alone](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_614.md)
-* [elderly population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_615.md)
-* [individuals with limited social connections](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_616.md)
+Social isolation resulting from lockdown measures and quarantine can lead to feelings of loneliness and affect mental health.
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Property: has_RiskHealth
+
+* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Education and capacity building](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_7.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Mitigations of this risk
+
+* [Encourage virtual social interactions, promote community support networks, and provide access to mental health services.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1526.md)
+
+## Name of the risk
+
+Increased risk of depression, anxiety, and other mental health disorders.
 
 ## Stakeholders who can mitigate this risk
 
@@ -51,21 +53,23 @@ Social isolation resulting from lockdown measures and quarantine can lead to fee
 * [local governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_568.md)
 * [community organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_150.md)
 
-## Name of the risk
+## Articles mentionning the risk
 
-Increased risk of depression, anxiety, and other mental health disorders.
+* [COVID-19 Lockdown: Housing Built Environment’s Effects on Mental Health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_254.md)
 
-## Mitigations of this risk
+## People affected by this risk
 
-* [Encourage virtual social interactions, promote community support networks, and provide access to mental health services.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1526.md)
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+* [individuals living alone](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_614.md)
+* [elderly population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_615.md)
+* [individuals with limited social connections](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_616.md)
 
 ## Technologies linked to the risk
 
 * [social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_47.md)
 * [online support groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_124.md)
 * [video conferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_123.md)
+
+## Property: has_RiskType
+
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 

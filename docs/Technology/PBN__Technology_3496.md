@@ -2,9 +2,9 @@
 
 # __eagle minimal essential media__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Eagle Minimal Essential Media (MEM)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_853.md)
+* [The range of materials and techniques listed includes various disinfectants, nanomaterials, manufacturing methods, coatings, sustainability measures, and analytical tools.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_237.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [lightweight materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4302.md)
 * [bird deterrent devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_964.md)
 * [owl 2](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3977.md)
+
+## This Technology enables the following mitigations
+
+* [Eagle Minimal Essential Media (MEM)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_853.md)
 

@@ -2,13 +2,9 @@
 
 # __Incorporating exercise opportunities in design__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Increase in chronic diseases from sedentary lifestyles](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_113.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved health outcomes](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_155.md)
+* [Enrich education through digital tools, virtual experiences, remote learning, and alternative forms of exercise and interaction.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_3.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Family-based exercise programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1176.md)
 * [Design flexibility](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_612.md)
 * [Promote home-based exercise programs, provide alternative modes of exercise that can be done at home.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1491.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved health outcomes](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_155.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Increase in chronic diseases from sedentary lifestyles](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_113.md)
 

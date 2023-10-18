@@ -2,9 +2,9 @@
 
 # __Installation and maintenance of high-efficiency filters__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
-* [HVAC and Air Quality Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_90.md)
+* [Various systems and technologies that purify and clean the air, including air filters, HEPA filters, and filtration systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_198.md)
 
 ## Closest similar item
 
@@ -19,11 +19,15 @@
 * [high-efficiency particulate filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3250.md)
 * [efficient filter replacement mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2023.md)
 
-## This Technology belongs to this TechGroup
-
-* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
-
 ## This Technology is identified by the following QID
 
 * [Q327754](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q327754.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [HVAC and Air Quality Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_90.md)
+
+## This Technology belongs to this TechGroup
+
+* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
 

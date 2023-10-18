@@ -2,9 +2,9 @@
 
 # __power-saving features in devices__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q380170](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q380170.md)
+* [A comprehensive range of advanced, interconnected devices that offer efficiency, convenience, and enhanced functionality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_238.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Monitoring devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2544.md)
 * [energy-efficient technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2312.md)
 * [interconnected devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2942.md)
+
+## This Technology is identified by the following QID
+
+* [Q380170](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q380170.md)
 

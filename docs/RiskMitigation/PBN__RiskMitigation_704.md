@@ -2,13 +2,9 @@
 
 # __Ventilation, filtration, and humidification__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Air control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_496.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduced transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_207.md)
+* [Enhancing air quality through effective air filtration, ventilation, and pollution reduction strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_338.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Ventilation systems, air filtration, social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3079.md)
 * [Proper ventilation, air filtration, natural daylighting, indoor plantings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3080.md)
 * [Implement proper ventilation systems and air filtration methods to ensure adequate fresh air circulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2024.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_207.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Air control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_496.md)
 

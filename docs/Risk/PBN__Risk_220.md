@@ -2,9 +2,9 @@
 
 # __Pathogen contamination in hospital environment__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Routine cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_264.md)
+* [The widespread presence and transfer of harmful pathogens and contaminants on various surfaces and environments pose serious risks to public health and the ecosystem.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_100.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Spread of hospital acquired infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_866.md)
 * [Transmission of pathogens within a confined space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2716.md)
 * [Infection and transmission to healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3275.md)
+
+## Mitigations of this risk
+
+* [Routine cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_264.md)
 

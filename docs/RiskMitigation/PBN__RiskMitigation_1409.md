@@ -2,13 +2,9 @@
 
 # __Personal data security__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Surveillance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_990.md)
-
-## Property: has_MitigationBenefit
-
-* [Ensured privacy and data protection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1377.md)
+* [Data privacy and security are prioritized through encryption, access controls, consent, and robust cybersecurity measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_335.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implementation of strict security measures, encryption, anonymization of data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2359.md)
 * [Implement robust security measures, use encryption and anonymization techniques, obtain informed consent from users, comply with data protection regulations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2574.md)
 * [Privacy protection measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_528.md)
+
+## Property: has_MitigationBenefit
+
+* [Ensured privacy and data protection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1377.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Surveillance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_990.md)
 

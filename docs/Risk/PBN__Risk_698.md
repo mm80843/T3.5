@@ -2,10 +2,9 @@
 
 # __Spread of SARS-CoV-2 through contact with contaminated solids__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Coating with cuprous oxide (Cu2O)/polyurethane (PU) film](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_964.md)
-* [Coating with cationic polymer films (polyallylamine or poly(diallyldimethylammonium chloride))](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_965.md)
+* [The widespread transmission and persistence of the SARS-CoV-2 virus in various environments and the challenges in detecting and removing it.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_93.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Spread of SARS-CoV-2 through aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_69.md)
 * [Spread of SARS-CoV-2 through sewage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1.md)
 * [Spread of SARS-CoV-2 virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_0.md)
+
+## Mitigations of this risk
+
+* [Coating with cuprous oxide (Cu2O)/polyurethane (PU) film](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_964.md)
+* [Coating with cationic polymer films (polyallylamine or poly(diallyldimethylammonium chloride))](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_965.md)
 

@@ -2,9 +2,9 @@
 
 # __Photocatalytic oxidation__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [photocatalysts such as tio2](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3777.md)
+* [Maximizing the use of natural light and UV radiation for germicidal purposes in indoor spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_176.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Air filtration and UV light sterilisation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4049.md)
 * [UVGI systems for air disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4050.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Nanoparticle health risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3014.md)
-
 ## Property: has_MitigationPrinciple
 
 Oxidizing and breaking down air pollutants, including viruses and bacteria, through a photocatalytic process to improve indoor air quality and reduce the risk of transmission.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Nanoparticle health risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3014.md)
+
 ## Property: has_MitigationSource
 
 * [Indoor Air Quality: Rethinking rules of building design strategies in post-pandemic architecture](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_206.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [photocatalysts such as tio2](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3777.md)
 

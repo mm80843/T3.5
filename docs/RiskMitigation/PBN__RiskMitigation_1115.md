@@ -2,13 +2,9 @@
 
 # __Revised waste collection protocol__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Spread of COVID-19 through waste materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_809.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduced risk of infection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_431.md)
+* [Promote environmentally-friendly waste management, sanitation, and maintenance practices, including rodent control, decontamination, and segregation of waste.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_340.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Proper waste management and segregation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_349.md)
 * [Strict infection control and hygiene standards when collecting waste materials, separate collection services for infected households and quarantine facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2390.md)
 * [Proper disposal methods for chemical wastes, including hazardous waste treatment.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3009.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced risk of infection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_431.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of COVID-19 through waste materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_809.md)
 

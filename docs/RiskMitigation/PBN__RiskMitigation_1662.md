@@ -2,9 +2,9 @@
 
 # __Provide information to reduce perceived risk__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Risk perception](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1210.md)
+* [Enforce safety measures, promote responsible behavior, utilize PPE, and prioritize risk prevention to ensure adequate protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_342.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Enhance core capacities, improve risk communication, engage communities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1609.md)
 * [Risk prevention measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_412.md)
 * [Promoting accurate and evidence-based risk communication, addressing misinformation and rumors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2404.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Risk perception](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1210.md)
 

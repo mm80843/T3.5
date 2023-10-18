@@ -2,9 +2,9 @@
 
 # __heat treatment__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Thermal treatment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1082.md)
+* [Various technologies and devices are used to measure and regulate temperature, including cameras, scanners, sensors, and thermostats.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_220.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [water treatment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_975.md)
 * [Water treatment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2827.md)
 * [cooling devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4051.md)
+
+## This Technology enables the following mitigations
+
+* [Thermal treatment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1082.md)
 

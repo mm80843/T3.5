@@ -2,13 +2,13 @@
 
 # __Visualization__
 
-## Property: has_TechEquivalent
-
-* [Visualization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4531.md)
-
 ## Property: has_BP_EnablerTitle
 
 enabler_004
+
+## Category to which it belongs
+
+* [A pictorial representation of data.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_63.md)
 
 ## Closest similar item
 
@@ -26,4 +26,8 @@ enabler_004
 ## Thees blueprints use this enabler
 
 * [Tender support at building stage](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_9.md)
+
+## Property: has_TechEquivalent
+
+* [Visualization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4531.md)
 

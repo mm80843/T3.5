@@ -2,13 +2,9 @@
 
 # __IEQAnalytics web service__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Limited access to IEQ performance data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_568.md)
-
-## Property: has_MitigationBenefit
-
-* [Accessible and actionable data](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_802.md)
+* [Advancements in bioinformatics, divestment, automated sample collection, and artificial intelligence are facilitating early disease detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_336.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Information and support services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_789.md)
 * [Remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1003.md)
 * [SAMBA monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_797.md)
+
+## Property: has_MitigationBenefit
+
+* [Accessible and actionable data](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_802.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limited access to IEQ performance data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_568.md)
 

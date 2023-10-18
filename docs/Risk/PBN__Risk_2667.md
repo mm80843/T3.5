@@ -2,9 +2,9 @@
 
 # __Limited innovation__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Hackathon](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_624.md)
+* [The challenges and consequences of the global pandemic include poor acoustics, noise pollution, food security, increase in inequality, waste, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_131.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Technological limitations, lack of productivity, isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3073.md)
 * [Technological limitations and dependencies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2100.md)
 * [Technological](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2131.md)
+
+## Mitigations of this risk
+
+* [Hackathon](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_624.md)
 

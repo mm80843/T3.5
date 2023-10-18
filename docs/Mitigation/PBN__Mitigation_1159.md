@@ -2,8 +2,9 @@
 
 # __Compact design__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Creating resilient urban environments through strategic planning, adaptable design, reduced density, and improved building infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_164.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Enhanced structural design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4025.md)
 * [urban design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4026.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Increased risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2956.md)
-
 ## Property: has_MitigationPrinciple
 
 Design adaptations to create more circulation between built environments and reduce density in a particular radius to mitigate the spread of infectious diseases.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Increased risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2956.md)
+
 ## Property: has_MitigationSource
 
 * [Impact of Covid-19 on the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_10.md)
+
+## This Mitigation is enabled by the following technologies
+
 

@@ -2,11 +2,9 @@
 
 # __Early detection__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [thermal cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2964.md)
-* [artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_358.md)
-* [internet of things (iot) sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2965.md)
+* [Expansive array of methods, including biomarkers, self-reported symptoms, and AI-powered diagnostics, used for widespread and rapid testing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_179.md)
 
 ## Closest similar item
 
@@ -21,14 +19,20 @@
 * [Implement measures early, based on evidence and research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2706.md)
 * [Improve surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2707.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Detect outbreaks early through real-time monitoring and analysis of temperature and other relevant data
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [On the Coronavirus (COVID-19) Outbreak and the Smart City Network: Universal Data Sharing Standards Coupled with Artificial Intelligence (AI) to Benefit Urban Health Monitoring and Management](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_280.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [thermal cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2964.md)
+* [artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_358.md)
+* [internet of things (iot) sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2965.md)
 

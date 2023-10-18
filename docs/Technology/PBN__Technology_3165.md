@@ -2,11 +2,9 @@
 
 # __machine learning algorithms__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_331.md)
-* [Machine learning models](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2369.md)
-* [Machine learning algorithms for screening of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1395.md)
+* [Advanced technologies and algorithms for modeling, simulation, optimization, and artificial intelligence in various applications, including robotics and computational fluid dynamics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_239.md)
 
 ## Closest similar item
 
@@ -20,4 +18,10 @@
 * [deep learning algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3839.md)
 * [ai and machine learning for data processing and modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_756.md)
 * [AI and machine learning for data processing and modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2059.md)
+
+## This Technology enables the following mitigations
+
+* [Machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_331.md)
+* [Machine learning models](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2369.md)
+* [Machine learning algorithms for screening of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1395.md)
 

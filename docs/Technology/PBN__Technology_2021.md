@@ -2,9 +2,9 @@
 
 # __compact design__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q3400197](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3400197.md)
+* [Design and construction professionals use innovative techniques and strategies to create adaptable, sustainable, and inclusive buildings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_217.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [enhanced structural design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2017.md)
 * [Enhanced structural design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2718.md)
 * [urban design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3430.md)
+
+## This Technology is identified by the following QID
+
+* [Q3400197](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3400197.md)
 

@@ -2,9 +2,9 @@
 
 # __html parsing library__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Web Scraping](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1371.md)
+* [Advancements in biotechnology, clinical research, and innovative therapies contribute to the development of medical solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [web-based platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1819.md)
 * [Web-based platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2628.md)
 * [knowledge extraction techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1346.md)
+
+## This Technology enables the following mitigations
+
+* [Web Scraping](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1371.md)
 

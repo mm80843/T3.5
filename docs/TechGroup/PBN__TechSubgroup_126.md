@@ -2,11 +2,9 @@
 
 # __Infrastructure and Resource Management__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [Investment in healthcare infrastructure and resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2491.md)
-* [Maintenance equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2362.md)
-* [resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_608.md)
+* [The intersection of urban development, management, transportation, and public spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_28.md)
 
 ## Closest similar item
 
@@ -20,4 +18,10 @@
 * [Urban Planning and Green Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_82.md)
 * [Support Systems and Resources](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_42.md)
 * [Data Management and Communication Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_18.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [Investment in healthcare infrastructure and resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2491.md)
+* [Maintenance equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2362.md)
+* [resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_608.md)
 

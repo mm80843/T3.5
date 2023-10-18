@@ -2,6 +2,10 @@
 
 # __monitoring software__
 
+## Category to which it belongs
+
+* [A list of diverse software tools, including financial management, construction technology, project management, communication, and monitoring software.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_219.md)
+
 ## Risks linked to this technology
 
 * [Monitoring of confirmed cases and close contacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2141.md)

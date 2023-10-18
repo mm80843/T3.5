@@ -2,9 +2,9 @@
 
 # __Risk of spreading COVID-19__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Robotics for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1233.md)
+* [The far-reaching consequences of COVID-19 include its transmission through various settings, impact on urban areas, and scarcity of resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inadequate monitoring of the spread of Covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1309.md)
 * [COVID-19 outbreak impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1436.md)
 * [Wide-ranging impacts of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_363.md)
+
+## Mitigations of this risk
+
+* [Robotics for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1233.md)
 

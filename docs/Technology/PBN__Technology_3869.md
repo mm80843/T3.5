@@ -2,9 +2,9 @@
 
 # __regular cleaning and maintenance of hvac system components__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Good housekeeping practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1423.md)
+* [Improved and energy-efficient HVAC systems, along with advanced technologies, for efficient energy management and environmental control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_227.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [HVAC maintenance and calibration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2464.md)
 * [air cleaning systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4394.md)
 * [regular maintenance and inspection of ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1113.md)
+
+## This Technology enables the following mitigations
+
+* [Good housekeeping practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1423.md)
 

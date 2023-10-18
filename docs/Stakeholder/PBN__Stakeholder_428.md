@@ -2,9 +2,16 @@
 
 # __conservation organizations__
 
-## This Stakeholder belongs to this StakeholderGroup
+## This Stakeholder can get these Benefits from mitigation measures
 
-* [Environmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_13.md)
+* [Enhanced financial resilience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1060.md)
+* [Enhanced local engagement and ownership](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1061.md)
+* [Improved collaboration and cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1062.md)
+* [Rethinking social and economic models](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1064.md)
+
+## Category to which it belongs
+
+* [A diverse array of entities dedicated to various industries, causes, or services, promoting growth and welfare in society.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_369.md)
 
 ## Closest similar item
 
@@ -19,22 +26,6 @@
 * [conservationists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_935.md)
 * [environmental organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2681.md)
 
-## Risk affecting this stakeholder
-
-* [Decline in conservation revenue](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2174.md)
-* [Loss of monitoring and research activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2175.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Conservation](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_160.md)
-
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Enhanced financial resilience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1060.md)
-* [Enhanced local engagement and ownership](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1061.md)
-* [Improved collaboration and cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1062.md)
-* [Rethinking social and economic models](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1064.md)
-
 ## Risks that can be mitigated by this stakeholder
 
 * [Environmental degradation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1343.md)
@@ -43,5 +34,18 @@
 * [Reduction in tourism revenue](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2176.md)
 * [Livelihood and trade disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_774.md)
 * [Increased wildlife exploitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2177.md)
+* [Loss of monitoring and research activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2175.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Environmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_13.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Conservation](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_160.md)
+
+## Risk affecting this stakeholder
+
+* [Decline in conservation revenue](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2174.md)
 * [Loss of monitoring and research activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2175.md)
 

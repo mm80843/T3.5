@@ -2,9 +2,9 @@
 
 # __energy efficiency grants__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q192704](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q192704.md)
+* [Improved and energy-efficient HVAC systems, along with advanced technologies, for efficient energy management and environmental control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_227.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [energy-efficient systems and technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1893.md)
 * [renewable energy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_534.md)
 * [energy-efficient equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3398.md)
+
+## This Technology is identified by the following QID
+
+* [Q192704](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q192704.md)
 

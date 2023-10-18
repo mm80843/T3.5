@@ -2,13 +2,9 @@
 
 # __Contract and Financial Management__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [Digital platforms for financial assistance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2624.md)
-* [financial incentives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_53.md)
-* [tariff reforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_88.md)
-* [Contract management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2639.md)
-* [online applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1681.md)
+* [Assistance in the form of money and resources for community projects, contractual obligations, and economic stability.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_26.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Data Governance and Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_142.md)
 * [Education and Training](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_32.md)
 * [Infrastructure and Resource Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_126.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [Digital platforms for financial assistance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2624.md)
+* [financial incentives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_53.md)
+* [tariff reforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_88.md)
+* [Contract management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2639.md)
+* [online applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1681.md)
 

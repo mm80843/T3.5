@@ -2,9 +2,9 @@
 
 # __Intimate living spaces__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [layout design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4298.md)
+* [Enhancing availability and inclusivity of diverse, inviting, well-maintained and accessible natural environments and communal areas.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_145.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Flexibility, adaptability, sharing, and crowding of living spaces, and compliant functions located within the buildings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_497.md)
 * [Livable outdoor space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_118.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Comfort and privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3359.md)
-
 ## Property: has_MitigationPrinciple
 
 Design living spaces that provide privacy and personal space for each family member
 
+## Risks possibly mitigated by this Mitigation
+
+* [Comfort and privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3359.md)
+
 ## Property: has_MitigationSource
 
 * [How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [layout design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4298.md)
 

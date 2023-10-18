@@ -2,9 +2,9 @@
 
 # __louvers or shields__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Upper-room UVGI](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_261.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [barricades)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3587.md)
 * [posters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3125.md)
 * [spatial repellents](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4465.md)
+
+## This Technology enables the following mitigations
+
+* [Upper-room UVGI](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_261.md)
 

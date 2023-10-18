@@ -2,10 +2,9 @@
 
 # __Improved HVAC systems__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
-* [HVAC and Air Quality Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_90.md)
-* [HVAC and Ventilation Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_72.md)
+* [Improved and energy-efficient HVAC systems, along with advanced technologies, for efficient energy management and environmental control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_227.md)
 
 ## Closest similar item
 
@@ -20,6 +19,15 @@
 * [adaptive HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2577.md)
 * [adaptive hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_194.md)
 
+## This Technology is identified by the following QID
+
+* [Q1798773](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1798773.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [HVAC and Air Quality Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_90.md)
+* [HVAC and Ventilation Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_72.md)
+
 ## This Technology belongs to this TechGroup
 
 * [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
@@ -27,8 +35,4 @@
 * [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_12.md)
 * [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_13.md)
 * [Indoor air technlogies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_18.md)
-
-## This Technology is identified by the following QID
-
-* [Q1798773](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1798773.md)
 

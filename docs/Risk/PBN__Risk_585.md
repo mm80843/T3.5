@@ -2,9 +2,9 @@
 
 # __Epidemic control measures__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Non-pharmaceutical interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_377.md)
+* [The dissemination of infectious diseases, characterized by outbreaks from various sources, inadequate preparedness, and insufficient reporting and understanding, poses a global threat.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_106.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Overreliance on data from countries with advanced epidemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1395.md)
 * [Homogeneous mixing assumptions in epidemic models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1213.md)
 * [Disease outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_161.md)
+
+## Mitigations of this risk
+
+* [Non-pharmaceutical interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_377.md)
 

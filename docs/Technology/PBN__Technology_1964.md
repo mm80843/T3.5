@@ -2,9 +2,9 @@
 
 # __global network of virus surveillance__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q478216](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q478216.md)
+* [Advancements in molecular biology, diagnostics, vaccines, antiviral technologies, and disease surveillance for pathogen detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_223.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [surveillance programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_268.md)
 * [Surveillance programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2458.md)
 * [community surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1690.md)
+
+## This Technology is identified by the following QID
+
+* [Q478216](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q478216.md)
 

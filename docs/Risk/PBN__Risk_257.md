@@ -2,9 +2,9 @@
 
 # __Research needs__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_318.md)
+* [The challenges of implementing a digital culture include lack of interoperability, missing information, emerging technologies, and technological limitations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_112.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Data gaps, limited research effect](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2623.md)
 * [Decreased access to traditional research methodologies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1588.md)
 * [Lack of Information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2519.md)
+
+## Mitigations of this risk
+
+* [Research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_318.md)
 

@@ -2,9 +2,9 @@
 
 # __Gather and analyze accurate data, rely on evidence-based estimates__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Exaggerated estimates](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1519.md)
+* [Promote standardized data collection, ontology-based representation, and enhanced data sharing to improve decision-making processes and data quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_319.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Rigorous data scrutiny and review](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_856.md)
 * [Collect more data, conduct larger studies for more solid conclusions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2216.md)
 * [Providing accurate information through reliable sources, fact-checking, education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2333.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Exaggerated estimates](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1519.md)
 

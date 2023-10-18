@@ -2,16 +2,13 @@
 
 # __migrants__
 
-## Risk affecting this stakeholder
-
-* [Economic crisis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_231.md)
-* [Population flow between cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1651.md)
-* [Vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1764.md)
-* [Migration flow](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1730.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Reduction in health inequalities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_226.md)
+
+## Category to which it belongs
+
+* [Individuals of different ages, including children, parents, migrants, and vulnerable groups, such as women and racial minorities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_389.md)
 
 ## Closest similar item
 
@@ -25,4 +22,11 @@
 * [refugees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_951.md)
 * [immigrant](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2332.md)
 * [children of immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1251.md)
+
+## Risk affecting this stakeholder
+
+* [Economic crisis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_231.md)
+* [Population flow between cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1651.md)
+* [Vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1764.md)
+* [Migration flow](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1730.md)
 

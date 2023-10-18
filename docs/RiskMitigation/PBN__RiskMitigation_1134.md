@@ -2,17 +2,9 @@
 
 # __Opening windows__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Variability in air change rates](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_827.md)
-
-## Property: has_MitigationBenefit
-
-* [Increased air change rate](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1128.md)
-* [Increased dilution of pollutants](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1129.md)
-* [Improved distribution of pollutants](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1130.md)
-* [Increased ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1131.md)
-* [Improved thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_320.md)
+* [Implementing a comprehensive package of measures to ensure the smooth functioning and safety of essential services and activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_6.md)
 
 ## Closest similar item
 
@@ -26,4 +18,16 @@
 * [Increase the use of outdoor air through open windows and dampers.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1810.md)
 * [Design apartments with windows that offer views of nature and the sky.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2486.md)
 * [Increase the amount of outdoor air in ventilation systems, open windows for natural ventilation, and ensure proper ventilation design and operation.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1935.md)
+
+## Property: has_MitigationBenefit
+
+* [Increased air change rate](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1128.md)
+* [Increased dilution of pollutants](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1129.md)
+* [Improved distribution of pollutants](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1130.md)
+* [Increased ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1131.md)
+* [Improved thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_320.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Variability in air change rates](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_827.md)
 

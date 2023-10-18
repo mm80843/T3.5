@@ -2,13 +2,9 @@
 
 # __Vaccination uptake__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Exaggerated pandemic estimates](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_374.md)
-
-## Property: has_MitigationBenefit
-
-* [Increased influenza vaccination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_495.md)
+* [Maximizing vaccine efficacy and ensuring equitable access through research, development, distribution, and targeted outreach.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_337.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Vaccine development and distribution](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_866.md)
 * [Development and distribution of an effective vaccine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2992.md)
 * [Vaccine development](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_598.md)
+
+## Property: has_MitigationBenefit
+
+* [Increased influenza vaccination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_495.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Exaggerated pandemic estimates](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_374.md)
 

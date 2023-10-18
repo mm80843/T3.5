@@ -2,13 +2,9 @@
 
 # __Consider implications for design, conduct, and interpretation of research__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Validity concerns in energy social science research during the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_983.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved research design](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1353.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Development of detailed design guidelines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1082.md)
 * [Human-centric design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_139.md)
 * [Improved Guidelines and Scientific Research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1363.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved research design](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1353.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Validity concerns in energy social science research during the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_983.md)
 

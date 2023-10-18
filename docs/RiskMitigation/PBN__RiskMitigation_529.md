@@ -2,13 +2,9 @@
 
 # __Improved sanitation and cleaning protocols__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Spread of COVID-19 in public housing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_383.md)
-
-## Property: has_MitigationBenefit
-
-* [Decreased transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_43.md)
+* [Promote and enforce hygiene practices, implement sanitation measures, and provide education on proper handwashing techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_332.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Environmental sanitation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1366.md)
 * [Increased sanitation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1418.md)
 * [Implement improved cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_604.md)
+
+## Property: has_MitigationBenefit
+
+* [Decreased transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_43.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of COVID-19 in public housing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_383.md)
 

@@ -2,9 +2,9 @@
 
 # __Disruption of education, child development__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [School closing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_836.md)
+* [Fragmented global governance, reduced aid, ethical concerns, educational disruption, impacts on peace and justice, and inadequate coordination between stakeholders.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_115.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Interrupted education for children and adults](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_780.md)
 * [Lack of education initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1517.md)
 * [Lack of awareness and education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1165.md)
+
+## Mitigations of this risk
+
+* [School closing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_836.md)
 

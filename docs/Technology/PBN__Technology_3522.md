@@ -2,9 +2,9 @@
 
 # __lessons learned__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Preparedness for future pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_890.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1119.md)
 * [resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3643.md)
 * [training sessions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3461.md)
+
+## This Technology enables the following mitigations
+
+* [Preparedness for future pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_890.md)
 

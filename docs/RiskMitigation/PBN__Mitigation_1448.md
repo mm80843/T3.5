@@ -2,8 +2,9 @@
 
 # __Emergency Loan Guarantees__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Promoting financial stability and inclusivity through diverse funding sources, transparent donations, and innovative investment incentives.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_174.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Financial Support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1021.md)
 * [Provide financial aids](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_990.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Risk of loan defaults](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3076.md)
-
 ## Property: has_MitigationPrinciple
 
 Provide financial support and access to loans for businesses in financial difficulty
 
+## Risks possibly mitigated by this Mitigation
+
+* [Risk of loan defaults](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3076.md)
+
 ## Property: has_MitigationSource
 
 * [The socio-economic implications of the coronavirus pandemic (COVID-19): A review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_135.md)
+
+## This Mitigation is enabled by the following technologies
+
 

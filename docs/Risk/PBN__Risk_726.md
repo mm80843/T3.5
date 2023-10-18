@@ -2,9 +2,9 @@
 
 # __Inadequate global preparedness for pandemics__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Application of evidence-based non-pharmaceutical interventions (NPIs)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1008.md)
+* [Fragmented global governance, reduced aid, ethical concerns, educational disruption, impacts on peace and justice, and inadequate coordination between stakeholders.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_115.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of comprehensive pandemic preparedness and response planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1026.md)
 * [Inadequate global preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1157.md)
 * [Insufficient preparedness for outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_468.md)
+
+## Mitigations of this risk
+
+* [Application of evidence-based non-pharmaceutical interventions (NPIs)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1008.md)
 

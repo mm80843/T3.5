@@ -2,9 +2,9 @@
 
 # __provide larger units and flexible housing options to support physical distancing__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q30314010](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q30314010.md)
+* [Design and construction professionals use innovative techniques and strategies to create adaptable, sustainable, and inclusive buildings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_217.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1101.md)
 * [occupancy tracking systems can be used to monitor and enforce compliance with social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1098.md)
 * [social distancing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1476.md)
+
+## This Technology is identified by the following QID
+
+* [Q30314010](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q30314010.md)
 

@@ -2,13 +2,9 @@
 
 # __Calibrated stockpiles of essential goods__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Shocks in global value chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_251.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved resilience to supply shocks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_307.md)
+* [Efforts include RNA monitoring, occupant exposure modeling, targeted messages, adoption of principles, copper coating, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_311.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Diversify suppliers, optimize inventory management, establish alternative supply chains.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1905.md)
 * [Diversifying suppliers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_941.md)
 * [Monitoring buying behavior and limiting purchases; optimizing supply chains; surveillance and enforcement against hoarding](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3038.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved resilience to supply shocks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_307.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Shocks in global value chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_251.md)
 

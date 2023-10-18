@@ -2,9 +2,9 @@
 
 # __Small retailers should include alternative contact information on signs and other communication channels to stay connected with customers during closures or disruptions.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Insufficient Contact Information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1725.md)
+* [Facilitate transparent communication, enabling reliable information sharing through standardized protocols and effective channels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_0.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Providers need to be aware of potential limitations and compensate with verbal communication and active listening techniques.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2919.md)
 * [Conduct timely close contact tracing through interviews and CCTV footage, maintain records of passenger names and seat numbers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2799.md)
 * [Improve communication channels and methods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2532.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Insufficient Contact Information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1725.md)
 

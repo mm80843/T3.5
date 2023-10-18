@@ -2,13 +2,9 @@
 
 # __Environmental measures__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Prevention and Protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_975.md)
-
-## Property: has_MitigationBenefit
-
-* [Risk mitigation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_680.md)
+* [Promote efficient and sustainable water practices, enhance infrastructure, and ensure access to clean water and sanitation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_339.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Improve cleanliness and maintenance of urban green spaces, implement social distancing measures and capacity limits, provide clear communication on safety measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2409.md)
 * [Natural outdoor environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_733.md)
 * [Personal measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1370.md)
+
+## Property: has_MitigationBenefit
+
+* [Risk mitigation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_680.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Prevention and Protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_975.md)
 

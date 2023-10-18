@@ -2,17 +2,9 @@
 
 # __renewable energy sources__
 
-## Risks linked to this technology
+## Category to which it belongs
 
-* [Environmental impacts of construction during pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1562.md)
-* [Revenge Pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1870.md)
-* [Decreased concentrations of NO2 and PM2.5](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2386.md)
-
-## This Technology enables the following mitigations
-
-* [Experiment with innovative models](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2191.md)
-* [Promotion of sustainable and alternative energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2141.md)
-* [Sustainable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2163.md)
+* [Promotion of environmentally-friendly practices, green infrastructure, sustainable housing, renewable energy, and responsible building to enhance spaces and mitigate climate change.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_224.md)
 
 ## Closest similar item
 
@@ -26,4 +18,16 @@
 * [solar energy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4281.md)
 * [energy-efficient technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2312.md)
 * [wind turbines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1763.md)
+
+## This Technology enables the following mitigations
+
+* [Experiment with innovative models](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2191.md)
+* [Promotion of sustainable and alternative energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2141.md)
+* [Sustainable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2163.md)
+
+## Risks linked to this technology
+
+* [Environmental impacts of construction during pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1562.md)
+* [Revenge Pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1870.md)
+* [Decreased concentrations of NO2 and PM2.5](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2386.md)
 

@@ -2,9 +2,9 @@
 
 # __emerging technologies (e.g.__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q120208](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q120208.md)
+* [Enhanced connectivity and diverse communication platforms enable the dissemination of reliable information and promote open communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_225.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3618.md)
 * [digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3890.md)
 * [communication technology (e.g. internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3799.md)
+
+## This Technology is identified by the following QID
+
+* [Q120208](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q120208.md)
 

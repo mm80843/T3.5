@@ -2,9 +2,9 @@
 
 # __lenders__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Increased default rates](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1977.md)
+* [Property stakeholders ranging from investors, homeowners, and tenants to entrepreneurs and commercial space owners.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_7.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [home buyers/sellers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_285.md)
 * [financial institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_405.md)
 * [investor](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1911.md)
+
+## Risk affecting this stakeholder
+
+* [Increased default rates](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1977.md)
 

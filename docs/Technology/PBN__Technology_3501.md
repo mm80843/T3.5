@@ -2,9 +2,9 @@
 
 # __mrc-5 cell line__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Human lung fibroblast MRC-5 cell line](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_858.md)
+* [Advancements in biotechnology, clinical research, and innovative therapies contribute to the development of medical solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [helplines and hotlines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_423.md)
 * [telephone network](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3364.md)
 * [helpline system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2923.md)
+
+## This Technology enables the following mitigations
+
+* [Human lung fibroblast MRC-5 cell line](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_858.md)
 

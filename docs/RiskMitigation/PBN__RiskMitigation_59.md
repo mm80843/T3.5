@@ -2,13 +2,9 @@
 
 # __Green stimulus__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Economic impact of the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_42.md)
-
-## Property: has_MitigationBenefit
-
-* [Economic recovery](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_66.md)
+* [Promote biodiversity and sustainable urban development through the establishment and accessibility of green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_322.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Urban greening initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_72.md)
 * [Access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_747.md)
 * [Economic stimulus, support for affected industries](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2130.md)
+
+## Property: has_MitigationBenefit
+
+* [Economic recovery](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_66.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Economic impact of the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_42.md)
 

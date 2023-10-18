@@ -2,13 +2,9 @@
 
 # __Regulation of surveillance technologies__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Surveillance and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_877.md)
-
-## Property: has_MitigationBenefit
-
-* [Protection of civil rights](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1201.md)
+* [Enhanced surveillance, monitoring, and real-time tracking for improved control and response to various situations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_312.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Mobile technology surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1155.md)
 * [Mobile technology for surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1166.md)
 * [Increased surveillance and support services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_6.md)
+
+## Property: has_MitigationBenefit
+
+* [Protection of civil rights](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1201.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Surveillance and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_877.md)
 

@@ -2,9 +2,9 @@
 
 # __digital fundraising tools__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1161355](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1161355.md)
+* [The digital revolution encompasses various aspects, from online promotion to contactless payment systems and virtual learning platforms.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_190.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [digital integration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4030.md)
 * [fund management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1416.md)
 * [digital content creation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4029.md)
+
+## This Technology is identified by the following QID
+
+* [Q1161355](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1161355.md)
 

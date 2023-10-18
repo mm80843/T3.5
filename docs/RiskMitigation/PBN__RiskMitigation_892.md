@@ -2,13 +2,9 @@
 
 # __Educating building occupants__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Contagious disease outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_641.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_893.md)
+* [Designing affordable, adaptable, and sustainable housing with improved building environments and optimized spatial layouts, while incorporating flexible and human-centric design elements and considering health, safety, and environmental parameters.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_326.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Housing design strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1217.md)
 * [Encourage safe and responsible use of public spaces through education and communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1982.md)
 * [Educate occupants about the impact of window-opening behavior on air change rates](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2000.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_893.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Contagious disease outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_641.md)
 

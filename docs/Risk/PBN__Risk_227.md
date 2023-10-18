@@ -2,9 +2,9 @@
 
 # __Limited access to hand hygiene facilities__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Including sinks with running warm water in the containment space](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_271.md)
+* [Lack of proper hygiene and sanitation practices result in inadequate access to clean water and facilities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_129.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of proper hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3201.md)
 * [Lack of hygiene and cleanliness protocols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2048.md)
 * [Inadequate hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1296.md)
+
+## Mitigations of this risk
+
+* [Including sinks with running warm water in the containment space](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_271.md)
 

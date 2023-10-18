@@ -2,9 +2,9 @@
 
 # __Promote alternative and complementary activities that promote mental health and well-being during the pandemic.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Decline in Well-being](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1055.md)
+* [Promote mental well-being through access to resources, support services, and strategies for coping with stress.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_313.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Provide mental health support, promote awareness and resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2995.md)
 * [Provide mental health support services, promote self-care practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2318.md)
 * [Promote mental health resources and support, provide access to counseling and psychological services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2405.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Decline in Well-being](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1055.md)
 

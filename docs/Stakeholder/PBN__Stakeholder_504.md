@@ -2,13 +2,9 @@
 
 # __social entrepreneurship funds__
 
-## This Stakeholder can get these Benefits from mitigation measures
+## Category to which it belongs
 
-* [Superior performance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1279.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q817245](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q817245.md)
+* [All actors in the economic and political landscape, including policymakers, governments, and regulatory bodies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_357.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [venture capitalists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1958.md)
 * [funding organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2016.md)
 * [social institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_886.md)
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Superior performance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1279.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q817245](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q817245.md)
 

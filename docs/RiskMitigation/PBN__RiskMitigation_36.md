@@ -2,13 +2,9 @@
 
 # __Zone-based lockdown__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Vulnerability of high-density districts to Covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_28.md)
-
-## Property: has_MitigationBenefit
-
-* [Suppression of outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_44.md)
+* [Implementing a comprehensive package of measures to ensure the smooth functioning and safety of essential services and activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_6.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [virtual access to green spaces during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2981.md)
 * [Inner-city green spaces during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1231.md)
 * [Social lockdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_182.md)
+
+## Property: has_MitigationBenefit
+
+* [Suppression of outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_44.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Vulnerability of high-density districts to Covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_28.md)
 

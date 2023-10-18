@@ -2,13 +2,9 @@
 
 # __Social media-based platform for daily practice questions__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Decreased in-person exposure to surgical education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_32.md)
-
-## Property: has_MitigationBenefit
-
-* [Continuous exposure to practice questions and discussion](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_49.md)
+* [Strengthen collaborations, implement behavioral change, deploy social robots, and promote sustainable content consumption for community-based strategies, holistic research, and positive media representation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_316.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Online learning platforms, distribution of educational materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2174.md)
 * [Establish virtual clinics for remote consultations and utilize telemedicine and e-learning platforms.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2857.md)
 * [Use of social media data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_928.md)
+
+## Property: has_MitigationBenefit
+
+* [Continuous exposure to practice questions and discussion](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_49.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Decreased in-person exposure to surgical education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_32.md)
 

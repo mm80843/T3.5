@@ -2,6 +2,10 @@
 
 # __mental health apps__
 
+## Category to which it belongs
+
+* [A comprehensive list of mobile applications, including contact-tracing apps, mental health apps, mobile banking, and fitness tracking devices, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_197.md)
+
 ## Risks linked to this technology
 
 * [Impact on Mental Health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1077.md)
@@ -16,11 +20,6 @@
 * [Negative impact of prolonged self-isolation on mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1714.md)
 * [Inadequate mental health resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2044.md)
 
-## This Technology belongs to this TechSubgroup
-
-* [Apps and Mobile Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_22.md)
-* [Mobile Health Apps and Services](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_34.md)
-
 ## Closest similar item
 
 * [Mental health apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2194.md)
@@ -34,13 +33,18 @@
 * [mental health interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1288.md)
 * [online mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1242.md)
 
+## This Technology is identified by the following QID
+
+* [Q67076049](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q67076049.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Apps and Mobile Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_22.md)
+* [Mobile Health Apps and Services](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_34.md)
+
 ## This Technology belongs to this TechGroup
 
 * [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
 * [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
 * [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
-
-## This Technology is identified by the following QID
-
-* [Q67076049](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q67076049.md)
 

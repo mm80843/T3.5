@@ -2,9 +2,9 @@
 
 # __Climate change mitigation__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [carbon reduction technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4095.md)
+* [Achieving comfort through temperature management, monitoring, and control while implementing climate-sensitive design and utilizing thermal imaging technology for screening and measurement purposes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_185.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Deforestation reduction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_579.md)
 * [Control environmental conditions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_974.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Impact of climate change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3264.md)
-
 ## Property: has_MitigationPrinciple
 
 Reduce greenhouse gas emissions and mitigate climate change
 
+## Risks possibly mitigated by this Mitigation
+
+* [Impact of climate change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3264.md)
+
 ## Property: has_MitigationSource
 
 * [COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_58.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [carbon reduction technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4095.md)
 

@@ -2,9 +2,9 @@
 
 # __Reduction in transmission of SAR-CoV-2__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Accessible open green space and adherence to social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1227.md)
+* [The widespread transmission and persistence of the SARS-CoV-2 virus in various environments and the challenges in detecting and removing it.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_93.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Transmission of SARS-CoV-2 through contact with contaminated objects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_221.md)
 * [Transmission of SARS-CoV-2 through sewage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_222.md)
 * [Airborne transmission of SARS-CoV-2 in built environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_439.md)
+
+## Mitigations of this risk
+
+* [Accessible open green space and adherence to social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1227.md)
 

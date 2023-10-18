@@ -2,8 +2,9 @@
 
 # __Subsidizing and capital injection__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Optimizing the global trade network and supply chains through decentralization, cost concern, and integrated management, while promoting resilience and equity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_146.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Decentralized Finance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_434.md)
 * [Financial reforms to enable innovative and socially directed investment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_998.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Business viability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2497.md)
-
 ## Property: has_MitigationPrinciple
 
 Provide financial support to businesses through subsidies and capital injection to prevent closures and job losses.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Business viability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2497.md)
+
 ## Property: has_MitigationSource
 
 * [Non-medical Interventions to Reduce the Burden of Psychosocial and Economic Impacts of COVID-19 Pandemic: A Scope Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_243.md)
+
+## This Mitigation is enabled by the following technologies
+
 

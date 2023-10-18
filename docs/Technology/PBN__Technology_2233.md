@@ -2,10 +2,9 @@
 
 # __Soundproofing materials__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
-* [Acoustic Solutions](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_81.md)
-* [Indoor Environmental Quality](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_79.md)
+* [Explore a diverse range of materials, from sound-absorbing to eco-friendly, that contribute to innovative building solutions and educational resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_222.md)
 
 ## Closest similar item
 
@@ -20,12 +19,17 @@
 * [Acoustic panels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2666.md)
 * [acoustic technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3371.md)
 
+## This Technology is identified by the following QID
+
+* [Q589260](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q589260.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Acoustic Solutions](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_81.md)
+* [Indoor Environmental Quality](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_79.md)
+
 ## This Technology belongs to this TechGroup
 
 * [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 * [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_12.md)
-
-## This Technology is identified by the following QID
-
-* [Q589260](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q589260.md)
 

@@ -2,9 +2,9 @@
 
 # __Limited access to outdoor space__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Designing outdoor areas or balconies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_483.md)
+* [Insufficient, cramped, and unsanitary conditions in various types of spaces are hindering access, health, and well-being.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_141.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Limited access to parks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2897.md)
 * [Limited access to public green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_522.md)
 * [Lack of Outdoor Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1079.md)
+
+## Mitigations of this risk
+
+* [Designing outdoor areas or balconies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_483.md)
 

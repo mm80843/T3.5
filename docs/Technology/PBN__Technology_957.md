@@ -2,9 +2,9 @@
 
 # __microfinance__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q926217](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q926217.md)
+* [Maximizing economic efficiency while promoting financial stability through innovative strategies, investments, and partnerships at various levels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_195.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [financial management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1331.md)
 * [financial support systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_71.md)
 * [funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_161.md)
+
+## This Technology is identified by the following QID
+
+* [Q926217](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q926217.md)
 

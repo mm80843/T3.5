@@ -2,8 +2,9 @@
 
 # __Border Closures__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Enhancing safety and efficiency through comprehensive measures, technology integration, diverse environments, and behavioral adjustments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_157.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Reducing Barriers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1041.md)
 * [School Closure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_672.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
-
 ## Property: has_MitigationPrinciple
 
 Restrict travel and entry into a specific geographic area to prevent the introduction of the virus
 
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
+
 ## Property: has_MitigationSource
 
 * [Building up an ecologically sustainable and socially desirable post-COVID-19 future](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_5.md)
+
+## This Mitigation is enabled by the following technologies
+
 

@@ -2,9 +2,9 @@
 
 # __improved sanitation and__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q949149](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q949149.md)
+* [Enhanced hygiene practices and strict adherence to cleaning protocols ensure rigorous sanitation and disinfection measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_196.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [improved water management and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_982.md)
 * [sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_626.md)
 * [sanitation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_246.md)
+
+## This Technology is identified by the following QID
+
+* [Q949149](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q949149.md)
 

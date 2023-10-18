@@ -2,9 +2,9 @@
 
 # __transport operators__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Risk of contagion in public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1930.md)
+* [The realm of those involved in the movement of people and goods, including workers, authorities, and operators.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_390.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [city transport authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_531.md)
 * [Network operator](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1784.md)
 * [transportation authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_947.md)
+
+## Risk affecting this stakeholder
+
+* [Risk of contagion in public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1930.md)
 

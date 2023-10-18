@@ -2,8 +2,9 @@
 
 # __Targeted operations__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Enhancing safety and efficiency through comprehensive measures, technology integration, diverse environments, and behavioral adjustments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_157.md)
 
 ## Closest similar item
 
@@ -18,14 +19,17 @@
 * [Offering Lessons to Optimize City Operations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1876.md)
 * [Pre-targeting sub-populations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_511.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Identify residual transmission foci, focus control measures to high-risk areas, manage importation risk
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Integrating rapid risk mapping and mobile phone call record data for strategic malaria elimination planning](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_76.md)
+
+## This Mitigation is enabled by the following technologies
+
 

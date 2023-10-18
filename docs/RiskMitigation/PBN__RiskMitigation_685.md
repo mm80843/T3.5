@@ -2,15 +2,9 @@
 
 # __Incorporating vaccination uptake__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Social inequalities and COVID-19 incidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_485.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved vaccination equity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_692.md)
-* [Reduced transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_232.md)
-* [Enhanced resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_693.md)
+* [Maximizing vaccine efficacy and ensuring equitable access through research, development, distribution, and targeted outreach.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_337.md)
 
 ## Closest similar item
 
@@ -24,4 +18,14 @@
 * [Annotating and modeling vaccine candidates](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_58.md)
 * [Implement effective communication and education campaigns to address vaccine hesitancy, provide accurate information, and address concerns and misconceptions. Engage with local communities and healthcare providers.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2510.md)
 * [Improve access to vaccination for immigrants, provide targeted outreach and education on the importance of vaccination.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2430.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved vaccination equity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_692.md)
+* [Reduced transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_232.md)
+* [Enhanced resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_693.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Social inequalities and COVID-19 incidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_485.md)
 

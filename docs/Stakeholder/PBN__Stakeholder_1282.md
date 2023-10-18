@@ -2,9 +2,9 @@
 
 # __school administrators__
 
-## This Stakeholder belongs to this StakeholderGroup
+## Category to which it belongs
 
-* [Education](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_1.md)
+* [Experts who oversee and manage various aspects of public and private administration, including cybersecurity, commerce, education, and infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_400.md)
 
 ## Closest similar item
 
@@ -19,11 +19,15 @@
 * [Teachers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1649.md)
 * [building administrators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1410.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Educational Administration](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_14.md)
-
 ## Risks that can be mitigated by this stakeholder
 
 * [School closures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1887.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Education](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_1.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Educational Administration](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_14.md)
 

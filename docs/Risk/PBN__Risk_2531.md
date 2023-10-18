@@ -2,9 +2,9 @@
 
 # __Decreased interest, avoidance__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Information source selection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_321.md)
+* [Financial vulnerability and instability permeate various sectors and industries, hindering growth, sustainability, and access to resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_114.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Decreased job opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2844.md)
 * [Reduced income and limited financial resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_778.md)
 * [Decline in tax and fee revenue](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_929.md)
+
+## Mitigations of this risk
+
+* [Information source selection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_321.md)
 

@@ -2,9 +2,9 @@
 
 # __Experimental Apparatus__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [Experimental apparatus](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2884.md)
+* [Research equipment used for conducting scientific experiments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_59.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Biotechnological Techniques and Devices](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_29.md)
 * [Noise Control](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_168.md)
 * [Biological and Chemical Methods](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_130.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [Experimental apparatus](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2884.md)
 

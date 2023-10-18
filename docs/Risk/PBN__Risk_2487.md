@@ -2,9 +2,9 @@
 
 # __Environmental Impact__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Green and Sustainable Design Practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_189.md)
+* [The interconnectedness of environmental degradation, social inequalities, and the need for climate action and conservation efforts.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_104.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Environmental](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1582.md)
 * [Impact of climate change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3264.md)
 * [Environmental impact and waste management challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1623.md)
+
+## Mitigations of this risk
+
+* [Green and Sustainable Design Practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_189.md)
 

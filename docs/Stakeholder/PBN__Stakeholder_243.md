@@ -2,9 +2,14 @@
 
 # __restaurants__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q11707](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11707.md)
+* [Stakeholders in various industries, from manufacturing to retail, including users and suppliers, with a focus on wearables.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_371.md)
+
+## Risk affecting this stakeholder
+
+* [Inadequate ventilation in public buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1776.md)
+* [Contagious transmission in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1140.md)
 
 ## Closest similar item
 
@@ -19,12 +24,11 @@
 * [businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
 * [food retailer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1940.md)
 
-## Risk affecting this stakeholder
-
-* [Inadequate ventilation in public buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1776.md)
-* [Contagious transmission in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1140.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Identification of impacted businesses](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_566.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q11707](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11707.md)
 

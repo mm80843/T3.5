@@ -2,9 +2,9 @@
 
 # __Green areas__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Design of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_702.md)
+* [Limited access, funding, and maintenance of green spaces exacerbate inequalities, allergies, and negative perceptions in urban areas.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_121.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of indoor green features](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2115.md)
 * [Lack of knowledge and awareness about green areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3388.md)
 * [Impact of lockdowns on access to green areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2247.md)
+
+## Mitigations of this risk
+
+* [Design of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_702.md)
 

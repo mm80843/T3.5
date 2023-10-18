@@ -2,9 +2,9 @@
 
 # __Promote fact-checking and reliable sources__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Spread of rumors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2280.md)
+* [Promote accurate and reliable information, combat misinformation, and increase media and public health literacy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_343.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Dissemination of accurate information through reliable sources, fact-checking of information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3092.md)
 * [Providing accurate information through reliable sources, fact-checking, education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2333.md)
 * [Fact-checking, reliable sources, education on identifying misinformation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2357.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of rumors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2280.md)
 

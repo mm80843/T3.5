@@ -2,9 +2,9 @@
 
 # __Vector-borne diseases (VBDs)__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Health-centric design criteria](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1299.md)
+* [The challenge lies in the lack of knowledge, limited consideration, and inherent limitations in representing disease transmission mechanisms, mobility patterns, and heterogeneity in macroscopic epidemiological models.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_97.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Increased contact with disease vectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3117.md)
 * [Urban pests and disease vectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_66.md)
 * [Infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_711.md)
+
+## Mitigations of this risk
+
+* [Health-centric design criteria](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1299.md)
 

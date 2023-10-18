@@ -2,10 +2,9 @@
 
 # __Lack of support and resources__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [External Assistance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1032.md)
-* [Strengthening Entrepreneurial Ecosystems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1031.md)
+* [Insufficient awareness, limited resources, inadequate communication, and lack of preparedness contribute to various challenges and deficiencies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_118.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Lack of educational resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3233.md)
 * [Limited resources and expertise](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3389.md)
 * [Lack of data support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2002.md)
+
+## Mitigations of this risk
+
+* [External Assistance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1032.md)
+* [Strengthening Entrepreneurial Ecosystems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1031.md)
 

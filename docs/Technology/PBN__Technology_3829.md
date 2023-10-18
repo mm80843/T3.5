@@ -2,9 +2,9 @@
 
 # __laboratory equipment__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_882.md)
+* [Safety and operational tools for various fields, including healthcare, cleaning, maintenance, and emergency preparation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_212.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [testing equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1067.md)
 * [diagnostic testing equipment and supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2904.md)
 * [simulation equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3225.md)
+
+## This Technology enables the following mitigations
+
+* [Testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_882.md)
 

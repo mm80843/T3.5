@@ -2,9 +2,9 @@
 
 # __scalable infrastructure__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q121359](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q121359.md)
+* [The built environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_230.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Improved infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2369.md)
 * [adaptive infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3202.md)
 * [technology infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3891.md)
+
+## This Technology is identified by the following QID
+
+* [Q121359](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q121359.md)
 

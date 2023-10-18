@@ -2,9 +2,9 @@
 
 # __government initiatives__
 
-## Risks linked to this technology
+## Category to which it belongs
 
-* [Social inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_858.md)
+* [Government actions and regulations addressing various aspects of society, including policy changes, ethical frameworks, governance mechanisms, and public announcements.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_216.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [government support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_319.md)
 * [government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4033.md)
 * [policy interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3423.md)
+
+## Risks linked to this technology
+
+* [Social inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_858.md)
 

@@ -2,13 +2,9 @@
 
 # __Providing support to overstretched staff__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Overloaded healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_807.md)
-
-## Property: has_MitigationBenefit
-
-* [Automation of healthcare services, telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1098.md)
+* [Ensuring equitable access, promoting flexible work, implementing safety measures, and providing support for remote work and flexible schedules.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_323.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Provide financial support to affected individuals and businesses, maintain access to essential services.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2485.md)
 * [Implementing collaborative agreements and policies for staff redistribution](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1990.md)
 * [Provide financial support to affected businesses, develop alternative revenue sources.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2754.md)
+
+## Property: has_MitigationBenefit
+
+* [Automation of healthcare services, telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1098.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Overloaded healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_807.md)
 

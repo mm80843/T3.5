@@ -2,9 +2,9 @@
 
 # __Implement robust cybersecurity measures, provide training on secure remote working practices, and ensure regular backups of data.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Increased reliance on technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1973.md)
+* [Data privacy and security are prioritized through encryption, access controls, consent, and robust cybersecurity measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_335.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement policies and technologies to ensure data privacy and cybersecurity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2323.md)
 * [Implement robust data security measures, encryption, access controls](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2065.md)
 * [Implement strong encryption and access control measures, comply with data privacy regulations.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1544.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Increased reliance on technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1973.md)
 

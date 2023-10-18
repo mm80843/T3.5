@@ -2,12 +2,9 @@
 
 # __Interoperable biomedical ontology__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [semantic web standard](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3980.md)
-* [owl 2](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3977.md)
-* [obo ontology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3978.md)
-* [dl-based formalism](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3979.md)
+* [The rapid proliferation of cutting-edge technologies, from lab-on-a-chip and wearable devices to AI, IoT, and blockchain, is revolutionizing various industries.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_187.md)
 
 ## Closest similar item
 
@@ -22,14 +19,21 @@
 * [Bioinformatics Tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_766.md)
 * [Integrated healthcare environment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_155.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Enable data sharing and formal reasoning for biomedical data and research
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [The COVID-19 epidemiology and monitoring ontology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_259.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [semantic web standard](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3980.md)
+* [owl 2](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3977.md)
+* [obo ontology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3978.md)
+* [dl-based formalism](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3979.md)
 

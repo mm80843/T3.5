@@ -2,13 +2,9 @@
 
 # __Implementation of stricter infection control measures__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [COVID-19 spread in nursing homes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_139.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction in infection risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_184.md)
+* [Implement comprehensive strategies to control virus transmission, improve surveillance, develop antiviral coatings, and enhance infection control measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_309.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Education and training on infection control measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1277.md)
 * [Implementing strict hygiene protocols, social distancing measures, and vaccination programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2451.md)
 * [Implement effective infection control measures, such as regular cleaning and disinfection, ventilation systems, and promoting personal hygiene practices.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2507.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction in infection risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_184.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [COVID-19 spread in nursing homes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_139.md)
 

@@ -2,8 +2,9 @@
 
 # __Media literacy programs__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
+* [Various campaigns and programs to inform and engage the public, raise awareness, educate, and promote reliable information.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_207.md)
 
 ## Closest similar item
 
@@ -18,12 +19,15 @@
 * [Educational programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2621.md)
 * [media sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4507.md)
 
+## This Technology is identified by the following QID
+
+* [Q1507246](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1507246.md)
+
+## This Technology belongs to this TechSubgroup
+
+
 ## This Technology belongs to this TechGroup
 
 * [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
 * [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
-
-## This Technology is identified by the following QID
-
-* [Q1507246](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1507246.md)
 

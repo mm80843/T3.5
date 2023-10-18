@@ -2,9 +2,9 @@
 
 # __Development of efficient algorithms__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Computational expense](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1655.md)
+* [Advancements in bioinformatics, divestment, automated sample collection, and artificial intelligence are facilitating early disease detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_336.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Improved data collection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1005.md)
 * [Utilize AI methods for faster drug testing and discovery](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2379.md)
 * [Implement energy-efficient systems and equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1374.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Computational expense](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1655.md)
 

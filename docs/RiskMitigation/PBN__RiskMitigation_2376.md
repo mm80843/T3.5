@@ -2,9 +2,9 @@
 
 # __Utilize cross-population train/test-based models__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of data for AI models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1798.md)
+* [Promote comprehensive testing and tracing, prioritize vulnerable populations, reduce diagnosis-to-surgery time, recognize stress symptoms, and improve testing accuracy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_347.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Restrict population flow](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_125.md)
 * [Incorporating vaccination uptake](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_685.md)
 * [Gather and analyze accurate data, rely on evidence-based estimates](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2046.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of data for AI models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1798.md)
 

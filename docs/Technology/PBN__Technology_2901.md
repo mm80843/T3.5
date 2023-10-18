@@ -2,9 +2,9 @@
 
 # __medical facilities__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Offshore medical rigs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_13.md)
+* [Improved healthcare infrastructure and resources enable public health authorities to implement effective messaging and interventions, ensuring equitable access to healthcare facilities and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_209.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [modular healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_474.md)
 * [equip healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_493.md)
 * [access to healthcare technologies and facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1944.md)
+
+## This Technology enables the following mitigations
+
+* [Offshore medical rigs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_13.md)
 

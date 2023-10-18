@@ -2,10 +2,9 @@
 
 # __Lack of nature exposure__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Access to green areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1155.md)
-* [Connection to nature](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1599.md)
+* [The interconnectedness of environmental degradation, social inequalities, and the need for climate action and conservation efforts.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_104.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Limited connection to nature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_957.md)
 * [Limited access to nature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1891.md)
 * [Inadequate sunlight exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2730.md)
+
+## Mitigations of this risk
+
+* [Access to green areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1155.md)
+* [Connection to nature](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1599.md)
 

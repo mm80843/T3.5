@@ -2,9 +2,9 @@
 
 # __reservation systems__
 
-## Risks linked to this technology
+## Category to which it belongs
 
-* [Overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_571.md)
+* [These resources aim to enhance security, convenience, and efficiency in managing access, spaces, and systems within various environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_206.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Crowd management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2736.md)
 * [crowd management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1261.md)
 * [efficient allocation strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3517.md)
+
+## Risks linked to this technology
+
+* [Overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_571.md)
 

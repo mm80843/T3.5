@@ -2,9 +2,9 @@
 
 # __Ensure reliable connectivity and nan data transmission__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Connectivity issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2084.md)
+* [Enable transparent and secure data management, traceability, and efficient distribution while promoting accurate information dissemination and verification.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_321.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement reliable communication protocols and redundancy measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1690.md)
 * [Limiting the number of people in public spaces and nan implementing social nan nan distancing protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2975.md)
 * [Implement open protocols and ensure data integrity and safety during communication and transmission.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1509.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Connectivity issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2084.md)
 

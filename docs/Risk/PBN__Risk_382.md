@@ -2,9 +2,9 @@
 
 # __Inadequate data quality__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Data quality improvement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_527.md)
+* [The challenges include disintegrated and non-interoperable data, limited data access, data quality issues, and lack of standardized data sharing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_111.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inaccuracy of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1231.md)
 * [Lack of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2698.md)
 * [Inaccurate data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3180.md)
+
+## Mitigations of this risk
+
+* [Data quality improvement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_527.md)
 

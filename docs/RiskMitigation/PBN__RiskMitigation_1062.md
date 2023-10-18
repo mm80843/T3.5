@@ -2,13 +2,9 @@
 
 # __Disinfecting shared tools and equipment__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Spread of COVID-19 on construction sites](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_771.md)
-
-## Property: has_MitigationBenefit
-
-* [Minimized transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_279.md)
+* [Implement rigorous cleaning and disinfection measures, including the use of antimicrobial materials and advanced technologies, to maintain a safe and hygienic environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_2.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Effective disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_265.md)
 * [Regular maintenance and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2876.md)
 * [Develop and implement regular cleaning and disinfection protocols, provide proper training and resources.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2107.md)
+
+## Property: has_MitigationBenefit
+
+* [Minimized transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_279.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of COVID-19 on construction sites](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_771.md)
 

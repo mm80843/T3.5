@@ -2,9 +2,9 @@
 
 # __Provide mental health support, access to accurate information, and social support.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Pervasive anxiety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2055.md)
+* [Promote mental well-being through access to resources, support services, and strategies for coping with stress.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_313.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Promote mental health resources and support, provide access to counseling and psychological services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2405.md)
 * [Increase access to mental health services, promote mental health awareness and support, provide coping mechanisms and resources.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2913.md)
 * [Providing mental health support services and resources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2613.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Pervasive anxiety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2055.md)
 

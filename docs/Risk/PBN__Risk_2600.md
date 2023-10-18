@@ -2,9 +2,9 @@
 
 # __Poor work productivity__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Detailed and better task planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_506.md)
+* [The impact of various factors on the workforce, including job insecurity, changes in work schedules, unemployment, and decreased productivity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_4.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Impact on Working Performance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1081.md)
 * [Less productivity compared to agriculture and manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1434.md)
 * [Decreased working time](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1996.md)
+
+## Mitigations of this risk
+
+* [Detailed and better task planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_506.md)
 

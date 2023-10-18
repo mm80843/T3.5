@@ -2,9 +2,9 @@
 
 # __plant installations__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Greeneries or gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2228.md)
+* [Urban green space solutions include tree planting, zoning regulations, landscape architecture, community gardens, outdoor furniture, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_231.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [planting trees](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_974.md)
 * [tree planting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1394.md)
 * [vertical gardening systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_622.md)
+
+## This Technology enables the following mitigations
+
+* [Greeneries or gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2228.md)
 

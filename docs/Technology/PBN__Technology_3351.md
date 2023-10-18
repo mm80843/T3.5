@@ -2,9 +2,9 @@
 
 # __responsiveness__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Position the KT platform as a credible source](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_608.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [coordination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3883.md)
 * [communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3463.md)
 * [flexible design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3262.md)
+
+## This Technology enables the following mitigations
+
+* [Position the KT platform as a credible source](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_608.md)
 

@@ -2,9 +2,9 @@
 
 # __Crowding during funerals__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [New guidelines for funerals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_597.md)
+* [Dense urban environments face challenges with population growth, inequality, biodiversity, mobility, and poor housing conditions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_105.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Crowd congestion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3139.md)
 * [Crowded living conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1486.md)
 * [Crowding and congestion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1638.md)
+
+## Mitigations of this risk
+
+* [New guidelines for funerals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_597.md)
 

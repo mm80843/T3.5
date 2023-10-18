@@ -2,9 +2,9 @@
 
 # __Wastewater-based epidemiology__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [environmental surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3632.md)
+* [Strengthening waste management and surveillance, utilizing wastewater-based epidemiology, to improve environmental sanitation and water quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_9.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Monitoring wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1437.md)
 * [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1676.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Spread of contagious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_20.md)
-
 ## Property: has_MitigationPrinciple
 
 Monitoring wastewater for the presence of viral RNA to estimate viral circulation in the population and detect ongoing outbreaks in the community.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of contagious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_20.md)
+
 ## Property: has_MitigationSource
 
 * [First detection of SARS-CoV-2 in untreated wastewaters in Italy](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_37.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [environmental surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3632.md)
 

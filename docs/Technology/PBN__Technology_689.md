@@ -2,9 +2,9 @@
 
 # __mobile apps for monitoring and managing health behaviors__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q17069079](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q17069079.md)
+* [A comprehensive list of mobile applications, including contact-tracing apps, mental health apps, mobile banking, and fitness tracking devices, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_197.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [mental health apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_117.md)
 * [Mental health apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2194.md)
 * [mobile fitness applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1074.md)
+
+## This Technology is identified by the following QID
+
+* [Q17069079](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q17069079.md)
 

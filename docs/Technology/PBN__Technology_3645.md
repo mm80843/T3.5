@@ -2,10 +2,9 @@
 
 # __innovation__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Green building design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2415.md)
-* [Research and development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1096.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [improved access to technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_528.md)
 * [research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_261.md)
 * [Research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2790.md)
+
+## This Technology enables the following mitigations
+
+* [Green building design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2415.md)
+* [Research and development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1096.md)
 

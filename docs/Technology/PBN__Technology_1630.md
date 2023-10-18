@@ -2,9 +2,9 @@
 
 # __developing new ppe technologies__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1333024](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1333024.md)
+* [Technological advancements encompass a wide range of innovations, such as blockchain, touchless, renewable energy, and communication technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [PPE training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2254.md)
 * [ppe](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1463.md)
 * [personal protective equipment (ppe)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_819.md)
+
+## This Technology is identified by the following QID
+
+* [Q1333024](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1333024.md)
 

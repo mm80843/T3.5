@@ -2,9 +2,9 @@
 
 # __advanced analytics and simulation models__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q7263963](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7263963.md)
+* [Advanced analytics, fact-checking, project management, reliable sources, knowledge extraction, and collaboration ensure accurate information dissemination and effective decision-making.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_192.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Simulation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2527.md)
 * [simulation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_758.md)
 * [predictive analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3710.md)
+
+## This Technology is identified by the following QID
+
+* [Q7263963](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7263963.md)
 

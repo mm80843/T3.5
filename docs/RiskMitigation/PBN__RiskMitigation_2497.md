@@ -2,9 +2,9 @@
 
 # __Provide information and support, monitor mental health and stress reactions__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Emotional distress from quarantine and isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1899.md)
+* [Promote mental well-being through access to resources, support services, and strategies for coping with stress.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_313.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Monitor reactions, provide psychosocial support and assistance, modify expectations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2498.md)
 * [Providing mental health support services and resources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2613.md)
 * [Monitor reactions and performance, alter assignments and schedules, offer psychosocial support as needed](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2499.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Emotional distress from quarantine and isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1899.md)
 

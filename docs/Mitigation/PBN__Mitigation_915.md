@@ -2,10 +2,9 @@
 
 # __Data Integration__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [data integration technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3540.md)
-* [application programming interfaces (apis)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3541.md)
+* [Improved data management and sharing for efficient and secure information exchange and analysis across various platforms and stakeholders.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_182.md)
 
 ## Closest similar item
 
@@ -20,14 +19,19 @@
 * [Data aggregation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2404.md)
 * [Data Sharing Initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1323.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Integrating different sources of data to improve usability and analysis of COVID-19 impacts
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Smart cities and a data-driven response to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_164.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [data integration technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3540.md)
+* [application programming interfaces (apis)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3541.md)
 

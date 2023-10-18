@@ -2,9 +2,9 @@
 
 # __uv__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Room air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1393.md)
+* [Innovative lighting solutions harnessing ultraviolet technology for optimal germicidal sterilization and energy efficiency, while maximizing natural light.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_235.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [ultraviolet light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4402.md)
 * [UV/UVGI/Irradation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4540.md)
 * [ultraviolet irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1904.md)
+
+## This Technology enables the following mitigations
+
+* [Room air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1393.md)
 

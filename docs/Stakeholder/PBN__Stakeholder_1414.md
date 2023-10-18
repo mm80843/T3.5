@@ -2,9 +2,9 @@
 
 # __renewable energy companies__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Negative impact on renewable energy sector](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2113.md)
+* [These companies span a wide array of industries, including renewable energy, construction, pharmaceuticals, logistics, and technology.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_387.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [energy provider](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2022.md)
 * [workers in the renewable energy sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1415.md)
 * [oil companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1213.md)
+
+## Risk affecting this stakeholder
+
+* [Negative impact on renewable energy sector](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2113.md)
 

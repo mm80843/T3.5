@@ -2,9 +2,9 @@
 
 # __Lack of effective crisis management__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Crisis response leadership programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_902.md)
+* [Insufficient awareness, limited resources, inadequate communication, and lack of preparedness contribute to various challenges and deficiencies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_118.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Economic crisis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_231.md)
 * [Financial crisis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2067.md)
 * [Lack of timely and effective government interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_584.md)
+
+## Mitigations of this risk
+
+* [Crisis response leadership programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_902.md)
 

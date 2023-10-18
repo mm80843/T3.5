@@ -2,9 +2,9 @@
 
 # __printing company services__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Professional Signs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1259.md)
+* [Enhancing accessibility and support through a range of remote healthcare, counseling, transportation, and translation services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_213.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [improved 3d printing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2015.md)
 * [Improved 3D printing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2717.md)
 * [commercial vendors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3312.md)
+
+## This Technology enables the following mitigations
+
+* [Professional Signs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1259.md)
 

@@ -2,9 +2,9 @@
 
 # __self-driving cars__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Autonomous Vehicles](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1318.md)
+* [Measures promoting accountability, media control, real-time updates, and virtual experiences for physical distancing and education.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Automation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4541.md)
 * [e-scooters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3148.md)
 * [automation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1471.md)
+
+## This Technology enables the following mitigations
+
+* [Autonomous Vehicles](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1318.md)
 

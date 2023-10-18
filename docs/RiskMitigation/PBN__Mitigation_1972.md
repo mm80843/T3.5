@@ -2,8 +2,9 @@
 
 # __Hygiene and sanitation kits__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Promotion and implementation of rigorous hygiene protocols and use of sanitary facilities and materials.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_166.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Establishing building specific hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1842.md)
 * [Mandatory sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1351.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Transmission of the disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3308.md)
-
 ## Property: has_MitigationPrinciple
 
 Provide individuals with proper tools and resources to maintain personal hygiene and sanitation
 
+## Risks possibly mitigated by this Mitigation
+
+* [Transmission of the disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3308.md)
+
 ## Property: has_MitigationSource
 
 * [Contextualizing the Covid-19 pandemic for a carbon-constrained world: Insights for sustainability transitions, energy justice, and research methodology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_123.md)
+
+## This Mitigation is enabled by the following technologies
+
 

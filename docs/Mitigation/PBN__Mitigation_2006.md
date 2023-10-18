@@ -2,10 +2,9 @@
 
 # __Design of public open-air spaces__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [covered spaces with soft walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4194.md)
-* [social pods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4193.md)
+* [Enhancing availability and inclusivity of diverse, inviting, well-maintained and accessible natural environments and communal areas.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_145.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Flexible public places](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_411.md)
 * [Accessibility to private green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1998.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2463.md)
-
 ## Property: has_MitigationPrinciple
 
 Provide safe and socially distanced outdoor spaces in apartment complexes and other multi-residential complexes
 
+## Risks possibly mitigated by this Mitigation
+
+* [Social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2463.md)
+
 ## Property: has_MitigationSource
 
 * [Designing for COVID-2x: Reflecting on Future-Proofing Human Habitation for the Inevitable Next Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_149.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [covered spaces with soft walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4194.md)
+* [social pods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4193.md)
 

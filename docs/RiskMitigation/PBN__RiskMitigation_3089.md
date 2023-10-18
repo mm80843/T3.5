@@ -2,9 +2,9 @@
 
 # __Consider the density, diversity, and spatial distribution of POIs in urban design and planning. Implement policies to manage and regulate activities in high-density POIs.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Urban Activities and Points of Interests (POIs)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2380.md)
+* [Promote equitable, sustainable, and inclusive urban planning to enhance living conditions, mitigate overcrowding, and reduce disparities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_324.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Rethinking of density in cities and urban layouts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_295.md)
 * [Spatial planning considerations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_35.md)
 * [Incorporate diverse types of green spaces in urban planning and design, prioritize the creation of green spaces with diverse vegetation and design features](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2073.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Urban Activities and Points of Interests (POIs)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2380.md)
 

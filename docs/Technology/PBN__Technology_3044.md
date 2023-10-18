@@ -2,12 +2,9 @@
 
 # __temperature sensors__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Rapid screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1176.md)
-* [Monitoring for health indicators](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2361.md)
-* [Thermal Comfort Optimization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_181.md)
-* [Temperature adjustment in WBE](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_759.md)
+* [Various technologies and devices are used to measure and regulate temperature, including cameras, scanners, sensors, and thermostats.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_220.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [temperature screening devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1461.md)
 * [Temperature screening devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2436.md)
 * [sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
+
+## This Technology enables the following mitigations
+
+* [Rapid screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1176.md)
+* [Monitoring for health indicators](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2361.md)
+* [Thermal Comfort Optimization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_181.md)
+* [Temperature adjustment in WBE](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_759.md)
 

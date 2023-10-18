@@ -2,9 +2,9 @@
 
 # __Implementing collaborative agreements and policies for staff redistribution__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Exchange process (deal between university hospitals)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1472.md)
+* [Ensuring equitable access, promoting flexible work, implementing safety measures, and providing support for remote work and flexible schedules.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_323.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Ensure equitable access to remote work and education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_17.md)
 * [Collaboration with WHO and Government Organizations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1361.md)
 * [Ensure access to and proper use of appropriate PPE for all employees](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2041.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Exchange process (deal between university hospitals)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1472.md)
 

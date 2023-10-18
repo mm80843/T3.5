@@ -2,13 +2,13 @@
 
 # __Data Analytics__
 
-## Property: has_TechEquivalent
-
-* [Data Analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4530.md)
-
 ## Property: has_BP_EnablerTitle
 
 enabler_003
+
+## Category to which it belongs
+
+* [Insights from analyzing information to make informed decisions and drive business strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_62.md)
 
 ## Closest similar item
 
@@ -37,4 +37,8 @@ enabler_003
 * [Infection tracking](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_20.md)
 * [Drinking Water Safety - Biofilm formation](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_21.md)
 * [Drinking Water Safety - Restoring water quality in buildings after forced closure](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_22.md)
+
+## Property: has_TechEquivalent
+
+* [Data Analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4530.md)
 

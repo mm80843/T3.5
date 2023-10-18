@@ -2,9 +2,9 @@
 
 # __legal counsel__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q2135469](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2135469.md)
+* [Government actions and regulations addressing various aspects of society, including policy changes, ethical frameworks, governance mechanisms, and public announcements.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_216.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [online counseling services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1626.md)
 * [tele-counseling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1429.md)
 * [online counseling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1128.md)
+
+## This Technology is identified by the following QID
+
+* [Q2135469](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2135469.md)
 

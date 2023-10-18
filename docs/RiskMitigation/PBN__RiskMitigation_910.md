@@ -2,13 +2,9 @@
 
 # __Use of social media for information retrieval__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Social media use during COVID-19 increases public awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_650.md)
-
-## Property: has_MitigationBenefit
-
-* [Increased public awareness](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_912.md)
+* [Strengthen collaborations, implement behavioral change, deploy social robots, and promote sustainable content consumption for community-based strategies, holistic research, and positive media representation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_316.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Conduct validation studies to compare social media data with external data sources for validation and reliability](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2124.md)
 * [Quick and Accurate Information Dissemination](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1364.md)
 * [Improve accessibility of reliable information through various channels (websites, social media, hotlines)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2415.md)
+
+## Property: has_MitigationBenefit
+
+* [Increased public awareness](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_912.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Social media use during COVID-19 increases public awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_650.md)
 

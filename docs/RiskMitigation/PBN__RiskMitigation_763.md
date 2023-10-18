@@ -2,13 +2,9 @@
 
 # __Minimize negative__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Decreased interest in news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_539.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduced stress](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_769.md)
+* [Advancements in bioinformatics, divestment, automated sample collection, and artificial intelligence are facilitating early disease detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_336.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Minimum safety distance,](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_973.md)
 * [Supply chain optimization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1415.md)
 * [Minimize sharing vertical shaft systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_883.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced stress](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_769.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Decreased interest in news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_539.md)
 

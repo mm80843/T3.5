@@ -2,9 +2,9 @@
 
 # __diversification strategies__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q731453](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q731453.md)
+* [Maximizing economic efficiency while promoting financial stability through innovative strategies, investments, and partnerships at various levels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_195.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [diversified communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_580.md)
 * [financial management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3531.md)
 * [risk management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_532.md)
+
+## This Technology is identified by the following QID
+
+* [Q731453](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q731453.md)
 

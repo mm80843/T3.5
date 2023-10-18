@@ -2,9 +2,9 @@
 
 # __led screens__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Alarm signals and LED screens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1669.md)
+* [Innovative lighting solutions harnessing ultraviolet technology for optimal germicidal sterilization and energy efficiency, while maximizing natural light.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_235.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4296.md)
 * [lighting controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1257.md)
 * [glare control devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_189.md)
+
+## This Technology enables the following mitigations
+
+* [Alarm signals and LED screens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1669.md)
 

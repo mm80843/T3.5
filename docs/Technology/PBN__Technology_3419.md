@@ -2,11 +2,9 @@
 
 # __access to outdoor spaces__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Garden access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_739.md)
-* [Outdoor Recreation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1061.md)
-* [Outdoor access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_776.md)
+* [Available green spaces and outdoor gathering areas allow for access and enjoyment of public parks and communal areas.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_218.md)
 
 ## Closest similar item
 
@@ -20,4 +18,10 @@
 * [access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3551.md)
 * [outdoor seating areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2991.md)
 * [accessible transportation options](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4322.md)
+
+## This Technology enables the following mitigations
+
+* [Garden access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_739.md)
+* [Outdoor Recreation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1061.md)
+* [Outdoor access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_776.md)
 

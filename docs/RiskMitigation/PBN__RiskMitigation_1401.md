@@ -2,13 +2,9 @@
 
 # __Adoption of proper software and hardware__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [COVID-19 impact on construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_987.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved remote work capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1366.md)
+* [Accelerate the shift to digitalization by embracing emerging technologies and implementing innovative solutions across various sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_346.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Adoption of universal standards for data sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1342.md)
 * [Use of digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_707.md)
 * [Implement smart/innovative technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2861.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved remote work capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1366.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [COVID-19 impact on construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_987.md)
 

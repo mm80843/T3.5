@@ -2,9 +2,13 @@
 
 # __educational institutions__
 
-## This Stakeholder belongs to this StakeholderGroup
+## This Stakeholder can get these Benefits from mitigation measures
 
-* [Education](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_1.md)
+* [Remote healthcare and work](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_105.md)
+
+## Category to which it belongs
+
+* [The community, including residents, educators, healthcare institutions, and government research institutions, is involved in education and healthcare.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_377.md)
 
 ## Closest similar item
 
@@ -19,14 +23,6 @@
 * [education authority](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1637.md)
 * [education authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1498.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Educational Institutions](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_16.md)
-
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Remote healthcare and work](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_105.md)
-
 ## Risks that can be mitigated by this stakeholder
 
 * [Lack of awareness and education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1165.md)
@@ -38,4 +34,12 @@
 * [Lack of public awareness and education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1851.md)
 * [Limited accessibility due to education level](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2246.md)
 * [Lack of awareness and knowledge about green roofs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1688.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Education](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_1.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Educational Institutions](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_16.md)
 

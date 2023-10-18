@@ -2,13 +2,9 @@
 
 # __especially vulnerable individual such a child and person with respiratory condition__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q344873](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q344873.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Especially susceptible individuals, such as allergy sufferers, those with weakened immune systems, and individuals with respiratory conditions, are at higher risk.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_388.md)
 
 ## Closest similar item
 
@@ -26,4 +22,12 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Age-Specific Concerns](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_112.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q344873](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q344873.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 

@@ -2,9 +2,9 @@
 
 # __Respiratory__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Face masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1084.md)
+* [Insufficient ventilation and indoor air pollution pose a risk to air quality and respiratory health, exacerbated by inadequate airflow control, limited natural ventilation, and air recirculation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_128.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inadequate ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_713.md)
 * [Inadequate Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1117.md)
 * [Increased prevalence of respiratory diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3245.md)
+
+## Mitigations of this risk
+
+* [Face masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1084.md)
 

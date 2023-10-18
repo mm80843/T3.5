@@ -2,9 +2,9 @@
 
 # __Educate healthcare workers on proper use and disposal of PPE, provide guidelines and resources.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Contaminated personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1855.md)
+* [Enhancing healthcare infrastructure, increasing capacity, and ensuring access to medical resources and services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_330.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement strict health and safety protocols on construction sites, provide personal protective equipment (PPE), and promote hygiene practices.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2618.md)
 * [Adhere to established safety procedures including the use of personal protective equipment (PPE) and adherence to safe work practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1486.md)
 * [Provide and enforce proper use of PPE based on job-specific risks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2803.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Contaminated personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1855.md)
 

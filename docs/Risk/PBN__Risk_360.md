@@ -2,11 +2,9 @@
 
 # __Hospital preparation__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Equipping hospitals and infection control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_471.md)
-* [Equipping the hospital](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_801.md)
-* [Training and education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_802.md)
+* [Healthcare systems overwhelmed with limited resources, shortage of personnel, and inadequate infrastructure face challenges in providing accessible and quality care.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_101.md)
 
 ## Closest similar item
 
@@ -20,4 +18,10 @@
 * [Pathogen contamination in hospital environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_220.md)
 * [Spread of hospital acquired infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_866.md)
 * [Inadequate ventilation in makeshift hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_443.md)
+
+## Mitigations of this risk
+
+* [Equipping hospitals and infection control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_471.md)
+* [Equipping the hospital](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_801.md)
+* [Training and education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_802.md)
 

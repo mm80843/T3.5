@@ -2,9 +2,9 @@
 
 # __Prevention of Disruptions__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [diversification of suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4310.md)
+* [Prioritizing safety measures, personal protective equipment, reliability, cybersecurity, risk perception, and general prevention to ensure protection and resilience in various domains.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_168.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Safe distancing measures in offices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_899.md)
 * [Isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_752.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Obstacles in production or transportation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3369.md)
-
 ## Property: has_MitigationPrinciple
 
 Critical infrastructure operators should ensure alternative and flexible sources of supply to minimize risks associated with global dependencies. This includes local or nearby sourcing, backup sources, and inventory buffers. The aim is to prevent disruptions in the delivery of essential resources and ensure the continuity of service.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Obstacles in production or transportation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3369.md)
+
 ## Property: has_MitigationSource
 
 * [Preparing critical infrastructure for the future: Lessons learnt from the Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_129.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [diversification of suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4310.md)
 

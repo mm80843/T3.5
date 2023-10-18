@@ -2,13 +2,13 @@
 
 # __individuals affected by the loss of loved ones or economic hardships__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q4430231](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4430231.md)
+* [Individuals and communities experiencing socioeconomic disparities, economic hardship, housing instability, and social disadvantage.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_393.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Loss of family or friends and economic well-being due to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1717.md)
 
 ## Closest similar item
 
@@ -23,11 +23,15 @@
 * [woman experiencing economic hardship](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2331.md)
 * [low-income individuals and families](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_409.md)
 
-## Risk affecting this stakeholder
-
-* [Loss of family or friends and economic well-being due to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1717.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Health and Well-being](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_94.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q4430231](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4430231.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 

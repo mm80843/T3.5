@@ -2,9 +2,9 @@
 
 # __Develop and integrate sensors that measure a wider range of IEQ parameters.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Limited sensor capability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1404.md)
+* [Monitoring, analysis, and standardization of various technologies and protocols for accurate and reliable healthcare data collection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_310.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Monitor and control indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3262.md)
 * [Intelligent Built Environment Monitor (IBEM)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_319.md)
 * [Regular calibration, sensor redundancy, and remote diagnostics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1692.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limited sensor capability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1404.md)
 

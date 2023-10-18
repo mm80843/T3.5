@@ -2,13 +2,9 @@
 
 # __Construction of new medical facilities__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Health sector overwhelmed](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_523.md)
-
-## Property: has_MitigationBenefit
-
-* [Increased medical capacity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_741.md)
+* [Enhancing healthcare infrastructure, increasing capacity, and ensuring access to medical resources and services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_330.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Conversion of public venues into makeshift hospitals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_611.md)
 * [Expanding healthcare facilities, increasing medical staff, and implementing triage systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2659.md)
 * [Containment spaces in hospitals and healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_749.md)
+
+## Property: has_MitigationBenefit
+
+* [Increased medical capacity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_741.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Health sector overwhelmed](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_523.md)
 

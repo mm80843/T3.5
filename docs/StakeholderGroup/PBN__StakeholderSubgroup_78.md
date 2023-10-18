@@ -2,11 +2,9 @@
 
 # __Responsible or Working Individuals__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [individuals in charge of building maintenance and operations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_666.md)
-* [individuals responsible for indoor environmental quality](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_679.md)
-* [individual responsible for indoor environmental quality](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2134.md)
+* [A compilation of various groups of people distinguished by location, socio-economic status, and gender, related to real estate and housing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_242.md)
 
 ## Closest similar item
 
@@ -20,4 +18,10 @@
 * [Types of Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_22.md)
 * [Governmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_5.md)
 * [General Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_88.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [individuals in charge of building maintenance and operations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_666.md)
+* [individuals responsible for indoor environmental quality](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_679.md)
+* [individual responsible for indoor environmental quality](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2134.md)
 

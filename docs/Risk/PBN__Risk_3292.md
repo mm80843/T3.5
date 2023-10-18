@@ -2,9 +2,9 @@
 
 # __Real-time Information__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Integration of Medical Tools and Devices through the Internet](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1935.md)
+* [The challenges of implementing a digital culture include lack of interoperability, missing information, emerging technologies, and technological limitations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_112.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of dynamic information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2831.md)
 * [Lack of real people flow data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1656.md)
 * [Lack of real-time data for policy intervention](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_580.md)
+
+## Mitigations of this risk
+
+* [Integration of Medical Tools and Devices through the Internet](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1935.md)
 

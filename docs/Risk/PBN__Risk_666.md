@@ -2,9 +2,9 @@
 
 # __Unexplained case of pneumonia reported in Hubei, China__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Reducing transmission routes of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_930.md)
+* [The dissemination of infectious diseases, characterized by outbreaks from various sources, inadequate preparedness, and insufficient reporting and understanding, poses a global threat.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_106.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Emerging infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_159.md)
 * [Spread of Covid-19 in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_690.md)
 * [Respiratory pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_476.md)
+
+## Mitigations of this risk
+
+* [Reducing transmission routes of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_930.md)
 

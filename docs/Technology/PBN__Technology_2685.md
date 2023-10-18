@@ -2,9 +2,9 @@
 
 # __Nanotechnology-based disinfectants__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
-* [Building Materials](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_180.md)
+* [The implementation of various disinfection methods, improved cleaning and sanitization protocols, and the use of eco-friendly disinfectants and advanced technologies have been prioritized.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_199.md)
 
 ## Closest similar item
 
@@ -19,11 +19,15 @@
 * [disinfection products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3739.md)
 * [use of disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1728.md)
 
-## This Technology belongs to this TechGroup
-
-* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_12.md)
-
 ## This Technology is identified by the following QID
 
 * [Q73984](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q73984.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Building Materials](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_180.md)
+
+## This Technology belongs to this TechGroup
+
+* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_12.md)
 

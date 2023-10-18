@@ -2,9 +2,9 @@
 
 # __use of bleach solutions or alcohol-based cleaners__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q5362638](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5362638.md)
+* [Enhanced hygiene practices and strict adherence to cleaning protocols ensure rigorous sanitation and disinfection measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_196.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Cleaning products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2569.md)
 * [cleaning and sanitization equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3556.md)
 * [use of alcohol-based hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_505.md)
+
+## This Technology is identified by the following QID
+
+* [Q5362638](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5362638.md)
 

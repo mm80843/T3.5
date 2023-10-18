@@ -2,9 +2,9 @@
 
 # __Mapping the course of disease and identifying long COVID cases__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Monitoring heart rate recovery after contracting SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_947.md)
+* [The far-reaching consequences of COVID-19 include its transmission through various settings, impact on urban areas, and scarcity of resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Disease containment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2461.md)
 * [about COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_535.md)
 * [Need for standardized representation of coronavirus knowledge](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_39.md)
+
+## Mitigations of this risk
+
+* [Monitoring heart rate recovery after contracting SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_947.md)
 

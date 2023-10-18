@@ -2,9 +2,9 @@
 
 # __ultrasound imaging__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Robot-assisted nasopharyngeal and oropharyngeal swabs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2422.md)
+* [Enhanced diagnostic techniques and screening methods, including the development of rapid and reliable testing technologies and increased availability of diagnostic tools and kits.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_211.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [diagnostic testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1309.md)
 * [Diagnostic testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2778.md)
 * [Rapid diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2780.md)
+
+## This Technology enables the following mitigations
+
+* [Robot-assisted nasopharyngeal and oropharyngeal swabs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2422.md)
 

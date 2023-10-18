@@ -2,10 +2,9 @@
 
 # __Protein-based Inflammation Biomarkers__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [mass spectrometry](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2123.md)
-* [urine proteomics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4142.md)
+* [Enhanced disease investigation and prevention methods, including biomarkers, antimicrobial coatings, and AI-driven tools, advance public health.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_155.md)
 
 ## Closest similar item
 
@@ -20,14 +19,19 @@
 * [Deep learning-based drug discovery pipeline](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1397.md)
 * [Antimicrobial Resistance Gene Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1925.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Indicate inflammation and physiological response, non-invasive testing, potential early indicators of disease
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Future perspectives of wastewater-based epidemiology: Monitoring infectious disease spread and resistance to the community level](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_48.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [mass spectrometry](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2123.md)
+* [urine proteomics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4142.md)
 

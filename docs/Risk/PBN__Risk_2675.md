@@ -2,9 +2,9 @@
 
 # __Biases in representation__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Address biases in knowledge representation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_664.md)
+* [A list of challenges and uncertainties surrounding the impact and response to various events and crises in different sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_124.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Noncompliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2520.md)
 * [Stigmatization and discrimination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1831.md)
 * [Heterogeneity of state policies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1786.md)
+
+## Mitigations of this risk
+
+* [Address biases in knowledge representation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_664.md)
 

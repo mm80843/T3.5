@@ -2,10 +2,9 @@
 
 # __people with disabilities__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Lack of access to green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1040.md)
-* [Vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1764.md)
+* [A diverse range of individuals, including citizens, pedestrians, people with disabilities, and those in crowded environments, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_368.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [person with physical disability](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2328.md)
 * [individuals in deprived areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_288.md)
 * [individual in deprived area](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2178.md)
+
+## Risk affecting this stakeholder
+
+* [Lack of access to green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1040.md)
+* [Vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1764.md)
 

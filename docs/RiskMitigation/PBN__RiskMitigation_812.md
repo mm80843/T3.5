@@ -2,12 +2,9 @@
 
 # __Knowledge management and BIM__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-
-## Property: has_MitigationBenefit
-
-* [Data-driven decision making](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_810.md)
+* [Promote standardized data collection, ontology-based representation, and enhanced data sharing to improve decision-making processes and data quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_319.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [Coordinate and fund national and international research efforts, establish databases for knowledge sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1801.md)
 * [Facilitating collaborative and integrated planning and management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1106.md)
 * [Environmental management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_333.md)
+
+## Property: has_MitigationBenefit
+
+* [Data-driven decision making](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_810.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

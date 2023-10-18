@@ -2,9 +2,9 @@
 
 # __national health insurance (nhi) database__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Proactive case finding](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2318.md)
+* [Improved healthcare infrastructure and resources enable public health authorities to implement effective messaging and interventions, ensuring equitable access to healthcare facilities and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_209.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [healthcare authorities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1065.md)
 * [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1072.md)
 * [artificial intelligence and health data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3849.md)
+
+## This Technology enables the following mitigations
+
+* [Proactive case finding](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2318.md)
 

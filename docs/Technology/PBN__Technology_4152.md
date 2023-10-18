@@ -2,10 +2,9 @@
 
 # __massive mimo__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Supply chain management for healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1947.md)
-* [Scalability and QoS provisioning in massive connectivity regime](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1951.md)
+* [Enhanced connectivity and diverse communication platforms enable the dissemination of reliable information and promote open communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_225.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [wireless communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3174.md)
 * [fifth-generation wireless networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3879.md)
 * [wi-fi](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4019.md)
+
+## This Technology enables the following mitigations
+
+* [Supply chain management for healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1947.md)
+* [Scalability and QoS provisioning in massive connectivity regime](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1951.md)
 

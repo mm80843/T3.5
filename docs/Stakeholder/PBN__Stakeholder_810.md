@@ -2,9 +2,9 @@
 
 # __nonprofits__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Lack of community connections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1293.md)
+* [Various individuals and organizations involved in ethical project management, environmental preservation, community engagement, and non-governmental initiatives.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_372.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [non-profits](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_710.md)
 * [charitable organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_755.md)
 * [non-governmental organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1959.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Lack of community connections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1293.md)
 

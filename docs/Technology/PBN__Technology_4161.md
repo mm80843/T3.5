@@ -2,9 +2,9 @@
 
 # __standardization__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Legal and regulatory dimension](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1954.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [standardized approaches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3374.md)
 * [standardized protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_115.md)
 * [standardized protocols and guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_890.md)
+
+## This Technology enables the following mitigations
+
+* [Legal and regulatory dimension](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1954.md)
 

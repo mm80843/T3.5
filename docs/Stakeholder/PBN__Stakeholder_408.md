@@ -2,16 +2,13 @@
 
 # __health care workers__
 
-## Risk affecting this stakeholder
-
-* [Insufficient negative pressure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_315.md)
-* [Lack of patient monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1642.md)
-* [Lack of anterooms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1641.md)
-* [Inadequate door-lock device](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1643.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Enhanced early detection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1028.md)
+
+## Category to which it belongs
+
+* [Those involved in the provision and management of healthcare services, including workers, professionals, facilities, and users.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_355.md)
 
 ## Closest similar item
 
@@ -25,4 +22,11 @@
 * [healthcare worker](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1855.md)
 * [healthcare personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_185.md)
 * [worker in the healthcare sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1731.md)
+
+## Risk affecting this stakeholder
+
+* [Insufficient negative pressure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_315.md)
+* [Lack of patient monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1642.md)
+* [Lack of anterooms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1641.md)
+* [Inadequate door-lock device](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1643.md)
 

@@ -2,9 +2,9 @@
 
 # __Parameter identification issue__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Optimization based people flow estimation method](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_115.md)
+* [A list of challenges and uncertainties surrounding the impact and response to various events and crises in different sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_124.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Difficulty in contact tracing and cluster identification](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1000.md)
 * [Identification of new variants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3442.md)
 * [Improper implementation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_297.md)
+
+## Mitigations of this risk
+
+* [Optimization based people flow estimation method](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_115.md)
 

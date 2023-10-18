@@ -2,9 +2,18 @@
 
 # __consumers__
 
-## This Stakeholder belongs to this StakeholderGroup
+## This Stakeholder can get these Benefits from mitigation measures
 
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+* [Preserving natural resources](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_286.md)
+* [Resilient and sustainable supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_628.md)
+* [Prevention of water pollution](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_809.md)
+* [Optimization of water management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_811.md)
+* [Cost reduction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_983.md)
+* [Improved performance and customer experience in retail and neighborhood services](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1043.md)
+
+## Category to which it belongs
+
+* [Entities and individuals who interact with or are affected by a system, organization, or public facility.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_1.md)
 
 ## Closest similar item
 
@@ -19,6 +28,13 @@
 * [product owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1994.md)
 * [consumer of wildlife product](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1951.md)
 
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+
 ## Risk affecting this stakeholder
 
 * [Disruption of supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1130.md)
@@ -31,16 +47,4 @@
 * [Changes in demand patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1772.md)
 * [Crash in demand for agricultural commodities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1808.md)
 * [Disruption of energy supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2112.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Preserving natural resources](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_286.md)
-* [Resilient and sustainable supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_628.md)
-* [Prevention of water pollution](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_809.md)
-* [Optimization of water management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_811.md)
-* [Cost reduction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_983.md)
-* [Improved performance and customer experience in retail and neighborhood services](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1043.md)
 

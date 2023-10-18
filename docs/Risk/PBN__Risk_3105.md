@@ -2,10 +2,9 @@
 
 # __Lower vaccination rates__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Equitable vaccine distribution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1502.md)
-* [Community vaccination programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1511.md)
+* [The challenges in vaccination include limited storage capacity, high patient demand, inefficient resource use, distribution difficulties, waning vaccine effectiveness, and unequal access.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_113.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Vaccine availability, Vaccine hesitancy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3168.md)
 * [Unequal vaccine access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2907.md)
 * [Lack of access to vaccination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3192.md)
+
+## Mitigations of this risk
+
+* [Equitable vaccine distribution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1502.md)
+* [Community vaccination programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1511.md)
 

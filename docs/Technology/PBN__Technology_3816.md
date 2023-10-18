@@ -2,9 +2,9 @@
 
 # __inventory management__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Inventory optimization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1359.md)
+* [Efficiently manage and optimize the flow of goods, data, and suppliers for resilient local supply chains.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_191.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [supply chain management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_639.md)
 * [Supply chain management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2347.md)
 * [supply chain management tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_132.md)
+
+## This Technology enables the following mitigations
+
+* [Inventory optimization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1359.md)
 

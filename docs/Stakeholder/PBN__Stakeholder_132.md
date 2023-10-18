@@ -2,9 +2,14 @@
 
 # __residents of low-income neighborhoods__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q12301128](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q12301128.md)
+* [Vulnerable and economically disadvantaged individuals and communities, including low-income workers, renters, and households, particularly in urban areas and minority communities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_375.md)
+
+## Risk affecting this stakeholder
+
+* [Inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2236.md)
+* [Quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2237.md)
 
 ## Closest similar item
 
@@ -19,12 +24,11 @@
 * [individuals in low-income areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1566.md)
 * [resident of neighborhood](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2474.md)
 
-## Risk affecting this stakeholder
-
-* [Inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2236.md)
-* [Quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2237.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Reduction in health inequalities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_226.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q12301128](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q12301128.md)
 

@@ -2,8 +2,9 @@
 
 # __Limiting Product Range__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Movement and accessibility constraints, including travel bans, visitor restrictions, and limitations on gatherings and travel.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_160.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Practical capacity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2269.md)
 * [Wildlife trade ban](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_580.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Reduction in consumer choice, impact on manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3083.md)
-
 ## Property: has_MitigationPrinciple
 
 Focus production on essential food products to meet high demand
 
+## Risks possibly mitigated by this Mitigation
+
+* [Reduction in consumer choice, impact on manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3083.md)
+
 ## Property: has_MitigationSource
 
 * [The socio-economic implications of the coronavirus pandemic (COVID-19): A review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_135.md)
+
+## This Mitigation is enabled by the following technologies
+
 

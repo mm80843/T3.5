@@ -2,11 +2,9 @@
 
 # __Spread from outside__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Isolate and Test](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1583.md)
-* [Domestic travel ban](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1585.md)
-* [International travel ban](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1582.md)
+* [The challenges and consequences of the global pandemic include poor acoustics, noise pollution, food security, increase in inequality, waste, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_131.md)
 
 ## Closest similar item
 
@@ -20,4 +18,10 @@
 * [Spread through respiratory droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1745.md)
 * [Spread of the disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3392.md)
 * [Spread from Wuhan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1593.md)
+
+## Mitigations of this risk
+
+* [Isolate and Test](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1583.md)
+* [Domestic travel ban](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1585.md)
+* [International travel ban](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1582.md)
 

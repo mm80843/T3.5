@@ -2,19 +2,19 @@
 
 # __Sustainable development__
 
+## Name of the Benefit
+
+Good planning leads to sustainable development, ensuring economic stability and growth.
+
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors benefit from a stable and growing economy, leading to increased investment opportunities and higher returns.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_303.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [all economic actors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_144.md)
 
 ## Articles mentionning this Benefit
 
 * [COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_58.md)
 
-## Name of the Benefit
+## Stakeholders benefitting from this Benefit
 
-Good planning leads to sustainable development, ensuring economic stability and growth.
+* [all economic actors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_144.md)
 

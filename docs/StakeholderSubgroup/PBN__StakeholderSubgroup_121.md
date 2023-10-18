@@ -2,14 +2,9 @@
 
 # __Government Departments and Ministries__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [government departments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_577.md)
-* [government department](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2436.md)
-* [Ministry of Electricity and Water (MEW)](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2429.md)
-* [Ministry of Education](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2417.md)
-* [Ministry of Health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2433.md)
-* [Ministry of Commerce](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2411.md)
+* [Organizational units within a governing body.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_275.md)
 
 ## Closest similar item
 
@@ -23,4 +18,13 @@
 * [Healthcare Administration](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_49.md)
 * [Emergency Services and Management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_166.md)
 * [Public Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_3.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [government departments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_577.md)
+* [government department](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2436.md)
+* [Ministry of Electricity and Water (MEW)](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2429.md)
+* [Ministry of Education](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2417.md)
+* [Ministry of Health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2433.md)
+* [Ministry of Commerce](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2411.md)
 

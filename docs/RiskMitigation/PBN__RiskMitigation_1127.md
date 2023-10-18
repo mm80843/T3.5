@@ -2,13 +2,9 @@
 
 # __Virtual reality patient education__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of patient education for COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_821.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved patient satisfaction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1116.md)
+* [Enrich education through digital tools, virtual experiences, remote learning, and alternative forms of exercise and interaction.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_3.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Virtual care platforms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_638.md)
 * [Virtual clinics and tele-medicine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1329.md)
 * [Establish virtual clinics for remote consultations and utilize telemedicine and e-learning platforms.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2857.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved patient satisfaction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1116.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of patient education for COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_821.md)
 

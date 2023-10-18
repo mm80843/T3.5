@@ -2,9 +2,9 @@
 
 # __Limited availability of 5G networks__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [5G deployment and limited connectivity challenges](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1952.md)
+* [Limited monitoring, technical limitations, language barriers, expensive optimization, lack of connection with nature, and limited sensor diversity hinder effective response and resource allocation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_107.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Limited food availability, distribution challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3081.md)
 * [Limited data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1338.md)
 * [Connectivity issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2084.md)
+
+## Mitigations of this risk
+
+* [5G deployment and limited connectivity challenges](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1952.md)
 

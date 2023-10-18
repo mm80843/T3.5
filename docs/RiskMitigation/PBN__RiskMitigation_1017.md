@@ -2,13 +2,9 @@
 
 # __Biophilic design__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of contact with nature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_735.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved health and well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_437.md)
+* [Efforts include RNA monitoring, occupant exposure modeling, targeted messages, adoption of principles, copper coating, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_311.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Modifying architectural design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_246.md)
 * [Health-centric design criteria](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1299.md)
 * [Sustainable design and construction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1291.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved health and well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_437.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of contact with nature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_735.md)
 

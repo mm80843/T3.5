@@ -2,8 +2,9 @@
 
 # __Infection Control__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Effective management of viral outbreaks through control measures, viral detection, disease tracking, and public awareness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_149.md)
 
 ## Closest similar item
 
@@ -18,14 +19,17 @@
 * [Hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1744.md)
 * [Hygiene and Sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_301.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Implementing strict infection control measures, such as cleaning and disinfecting surfaces regularly and using personal protective equipment (PPE) in healthcare settings, to prevent the spread of contagious diseases within a room or healthcare facility.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [The impacts of knowledge, risk perception, emotion and information on citizens’ protective behaviors during the outbreak of COVID-19: a cross-sectional study in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_74.md)
+
+## This Mitigation is enabled by the following technologies
+
 

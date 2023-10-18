@@ -2,9 +2,9 @@
 
 # __Limited data accessibility__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Online dashboard for WBE data communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_761.md)
+* [Restricted availability of various resources, services, and data creates inequalities and obstacles in accessing them.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_132.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Limited accessibility due to education level](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2246.md)
 * [Limited accessibility for low-income citizens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2245.md)
 * [Lack of free and accessible data formats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2638.md)
+
+## Mitigations of this risk
+
+* [Online dashboard for WBE data communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_761.md)
 

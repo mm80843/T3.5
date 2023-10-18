@@ -2,13 +2,9 @@
 
 # __Proper drainage systems to prevent stagnant water pools__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Malaria](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_938.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduced breeding sites for mosquitoes](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1284.md)
+* [Promote efficient and sustainable water practices, enhance infrastructure, and ensure access to clean water and sanitation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_339.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Develop alternative water sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2886.md)
 * [Including sinks with running warm water in the containment space](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_271.md)
 * [Provision of water infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_660.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced breeding sites for mosquitoes](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1284.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Malaria](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_938.md)
 

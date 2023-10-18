@@ -2,9 +2,9 @@
 
 # __pharmacokinetics data__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Monitoring of Pharmaceuticals and Metabolites](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1924.md)
+* [Advancements in biotechnology, clinical research, and innovative therapies contribute to the development of medical solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [drug resistance surveillance technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_918.md)
 * [mobile-health disease-monitoring data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3310.md)
 * [epidemiological data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4002.md)
+
+## This Technology enables the following mitigations
+
+* [Monitoring of Pharmaceuticals and Metabolites](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1924.md)
 

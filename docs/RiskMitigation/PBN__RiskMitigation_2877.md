@@ -2,9 +2,9 @@
 
 # __Ensure proper sealing and separation of wastewater__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [WWM1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2206.md)
+* [Promote environmentally-friendly waste management, sanitation, and maintenance practices, including rodent control, decontamination, and segregation of waste.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_340.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Ensure access to clean drinking water, improve wastewater treatment and management systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2552.md)
 * [Develop waste separation and disinfection strategies, proper disposal and recycling](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2898.md)
 * [Wastewater-based monitoring (WBE)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_0.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [WWM1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2206.md)
 

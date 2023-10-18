@@ -2,9 +2,9 @@
 
 # __research institutions and public health authorities are responsible for conducting research and developing guidelines to understand and regulate ah and rh levels__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Relationship between AH, RH, and temperature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1706.md)
+* [Public health stakeholders and individuals alike are concerned about health, seeking information and guidance from trusted sources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_354.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [National public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1858.md)
 * [public health experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_77.md)
 * [public health agencies and policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_122.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Relationship between AH, RH, and temperature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1706.md)
 

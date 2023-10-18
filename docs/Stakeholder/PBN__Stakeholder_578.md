@@ -2,13 +2,9 @@
 
 # __sports companies__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q4438121](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4438121.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+* [These companies span a wide array of industries, including renewable energy, construction, pharmaceuticals, logistics, and technology.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_387.md)
 
 ## Closest similar item
 
@@ -23,12 +19,20 @@
 * [fitness industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1145.md)
 * [company](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1444.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Fitness and Sports](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_56.md)
-
 ## Risks that can be mitigated by this stakeholder
 
 * [Lack of Facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1058.md)
 * [Decline in Well-being](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1055.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Fitness and Sports](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_56.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q4438121](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4438121.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 

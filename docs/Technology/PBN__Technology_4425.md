@@ -2,9 +2,9 @@
 
 # __secure protocols__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Secure storage and data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2348.md)
+* [Various security measures, such as encryption, authentication protocols, secure data storage, and blockchain, are used to protect digital platforms and ensure privacy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_201.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [uniformity of protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2972.md)
 * [reliable communication protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_327.md)
 * [Reliable communication protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2860.md)
+
+## This Technology enables the following mitigations
+
+* [Secure storage and data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2348.md)
 

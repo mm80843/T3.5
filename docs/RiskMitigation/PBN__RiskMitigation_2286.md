@@ -2,9 +2,9 @@
 
 # __Strengthen healthcare infrastructure, increase resources and capacity__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Weak health-care systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1721.md)
+* [Enhancing healthcare infrastructure, increasing capacity, and ensuring access to medical resources and services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_330.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Increase the capacity of medical facilities, allocate resources efficiently.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1518.md)
 * [Increase healthcare resources and infrastructure, develop surge capacity plans](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1818.md)
 * [Investing in healthcare infrastructure, increasing medical facility capacity, improving supply chains.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1804.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Weak health-care systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1721.md)
 

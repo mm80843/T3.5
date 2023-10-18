@@ -2,6 +2,10 @@
 
 # __Implement robust cybersecurity measures, such as encryption and secure data storage, to protect residents’ personal information. Raise awareness about online safety and privacy protection.__
 
+## Category to which it belongs
+
+* [Data privacy and security are prioritized through encryption, access controls, consent, and robust cybersecurity measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_335.md)
+
 ## Closest similar item
 
 * [Ensure robust privacy and data protection measures; implement secure data encryption and storage systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2699.md)

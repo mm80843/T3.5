@@ -2,13 +2,9 @@
 
 # __Addressing sociotechnical solutions for low-income vulnerable communities__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Impact of inadequate HVAC systems on social equity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_392.md)
-
-## Property: has_MitigationBenefit
-
-* [Equitable Indoor Environments](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_537.md)
+* [Facilitate transparent communication, enabling reliable information sharing through standardized protocols and effective channels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_0.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Support for vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1182.md)
 * [Community outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_662.md)
 * [Social safety nets, financial support for vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2173.md)
+
+## Property: has_MitigationBenefit
+
+* [Equitable Indoor Environments](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_537.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Impact of inadequate HVAC systems on social equity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_392.md)
 

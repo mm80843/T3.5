@@ -2,13 +2,9 @@
 
 # __Water digitalization and IoT__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Economic and social costs of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_578.md)
-
-## Property: has_MitigationBenefit
-
-* [Data-driven decision making](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_810.md)
+* [Promote efficient and sustainable water practices, enhance infrastructure, and ensure access to clean water and sanitation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_339.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Internet of Things (IoT)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1098.md)
 * [Implement IoT technologies and data collection systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_201.md)
 * [Improved water systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_153.md)
+
+## Property: has_MitigationBenefit
+
+* [Data-driven decision making](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_810.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Economic and social costs of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_578.md)
 

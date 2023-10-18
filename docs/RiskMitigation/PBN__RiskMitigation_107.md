@@ -2,13 +2,9 @@
 
 # __Training protocols__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Exposure to COVID-19 in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_90.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved knowledge and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_124.md)
+* [Facilitate transparent communication, enabling reliable information sharing through standardized protocols and effective channels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_0.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Develop strategies to streamline the process of training algorithms using large datasets](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1560.md)
 * [Clear and accurate communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1442.md)
 * [Implement flexible working arrangements, remote working, and training programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1791.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved knowledge and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_124.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Exposure to COVID-19 in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_90.md)
 

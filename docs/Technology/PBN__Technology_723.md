@@ -2,12 +2,9 @@
 
 # __light sensors__
 
-## Risks linked to this technology
+## Category to which it belongs
 
-* [Inadequate Natural Lighting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1457.md)
-
-## This Technology belongs to this TechSubgroup
-
+* [Advanced monitoring systems and sensor integration for IoT devices and biosensor technology facilitate environmental monitoring and facility usage tracking.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_229.md)
 
 ## Closest similar item
 
@@ -25,4 +22,11 @@
 ## This Technology belongs to this TechGroup
 
 * [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
+
+## This Technology belongs to this TechSubgroup
+
+
+## Risks linked to this technology
+
+* [Inadequate Natural Lighting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1457.md)
 

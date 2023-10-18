@@ -2,9 +2,9 @@
 
 # __Telepsychiatry Platforms__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [telepsychiatry platform](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1851.md)
+* [Technologies for personal monitoring and remote mental health consultations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_269.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Information Technology and Technical Support](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_150.md)
 * [Internet Companies](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_158.md)
 * [Communication Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_34.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [telepsychiatry platform](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1851.md)
 

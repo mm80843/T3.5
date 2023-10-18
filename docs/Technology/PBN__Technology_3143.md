@@ -2,9 +2,9 @@
 
 # __material quarantine__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Management of Deliveries](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_302.md)
+* [Explore a diverse range of materials, from sound-absorbing to eco-friendly, that contribute to innovative building solutions and educational resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_222.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [isolation and quarantine room equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1657.md)
 * [easy-to-sanitize materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4303.md)
 * [disinfectant](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3736.md)
+
+## This Technology enables the following mitigations
+
+* [Management of Deliveries](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_302.md)
 

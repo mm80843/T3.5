@@ -2,9 +2,9 @@
 
 # __Improper disposal of infectious hospital wastes and wastewater could cause serious risks to public health and environment__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Proper disinfection and disposal of hospital wastes and wastewater](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_929.md)
+* [The widespread presence and transfer of harmful pathogens and contaminants on various surfaces and environments pose serious risks to public health and the ecosystem.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_100.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Contamination of sewage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3427.md)
 * [Increased waste, risk of contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3461.md)
 * [Increase in hospital waste generation during COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_667.md)
+
+## Mitigations of this risk
+
+* [Proper disinfection and disposal of hospital wastes and wastewater](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_929.md)
 

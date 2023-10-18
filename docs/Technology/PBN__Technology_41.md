@@ -2,9 +2,9 @@
 
 # __centralized reporting platforms__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q7314108](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7314108.md)
+* [Digital platforms and online resources facilitate collaboration, communication, and information sharing among individuals and organizations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_193.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [telecommunication systems for reporting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_698.md)
 * [Telecommunication systems for reporting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2443.md)
 * [data analytics platforms (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3122.md)
+
+## This Technology is identified by the following QID
+
+* [Q7314108](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7314108.md)
 

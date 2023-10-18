@@ -2,9 +2,9 @@
 
 # __Airborne and direct transmission__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Minimize number of people](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1364.md)
+* [The dispersion of respiratory particles through the air can lead to the transmission of diseases.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_138.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Direct and indirect contact transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1282.md)
 * [Direct contact transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2650.md)
 * [Direct Contact Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2973.md)
+
+## Mitigations of this risk
+
+* [Minimize number of people](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1364.md)
 

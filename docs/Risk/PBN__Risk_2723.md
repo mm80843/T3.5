@@ -2,9 +2,9 @@
 
 # __Lack of interoperable data__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Precision Medicine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_762.md)
+* [The challenges include disintegrated and non-interoperable data, limited data access, data quality issues, and lack of standardized data sharing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_111.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_810.md)
 * [Lack of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2698.md)
 * [Lack of real-time data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_762.md)
+
+## Mitigations of this risk
+
+* [Precision Medicine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_762.md)
 

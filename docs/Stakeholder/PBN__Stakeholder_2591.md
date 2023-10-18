@@ -2,9 +2,9 @@
 
 # __Occupants__
 
-## This Stakeholder belongs to this StakeholderGroup
+## Category to which it belongs
 
-* [Building Occupants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_11.md)
+* [Entities and individuals who interact with or are affected by a system, organization, or public facility.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_1.md)
 
 ## Closest similar item
 
@@ -18,6 +18,10 @@
 * [Owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3141.md)
 * [Landlords](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3142.md)
 * [Indoor Workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3143.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Building Occupants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_11.md)
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 

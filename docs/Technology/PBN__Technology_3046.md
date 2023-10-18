@@ -2,9 +2,9 @@
 
 # __indoor vegetation__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Biophilic Design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_183.md)
+* [Urban green space solutions include tree planting, zoning regulations, landscape architecture, community gardens, outdoor furniture, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_231.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4396.md)
 * [landscaping materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4325.md)
 * [outdoor furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_145.md)
+
+## This Technology enables the following mitigations
+
+* [Biophilic Design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_183.md)
 

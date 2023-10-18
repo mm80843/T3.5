@@ -2,8 +2,9 @@
 
 # __Airflow Direction__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Promote clean, fresh air by monitoring and controlling indoor pollution, using portable air cleaners, and increasing outdoor air flow.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_172.md)
 
 ## Closest similar item
 
@@ -18,14 +19,17 @@
 * [Shut off air circulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2286.md)
 * [Air sampling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1521.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Direct airflow from the internal residential space into the containment area and from there to the outside world.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [RESIDENTIAL ARCHITECTURE IN A POST-PANDEMIC WORLD: IMPLICATIONS OF COVID-19 FOR NEW CONSTRUCTION AND FOR ADAPTING HERITAGE BUILDINGS](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_56.md)
+
+## This Mitigation is enabled by the following technologies
+
 

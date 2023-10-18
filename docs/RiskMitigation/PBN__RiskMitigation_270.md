@@ -2,13 +2,9 @@
 
 # __Installation of UV-C cupboards for external clothing and footwear__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Transmission of COVID-19 through surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_226.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced cleanliness and reduced risk of transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_280.md)
+* [Utilize UVGI technology to disinfect air, surfaces, and clothing, ensuring proper installation, training, and research to optimize effectiveness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_352.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Use UV-C disinfection as an adjunct to standard cleaning practices, not as a replacement.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1622.md)
 * [Use of UV-C germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1026.md)
 * [Implement safety measures to protect against UV-C radiation exposure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2985.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced cleanliness and reduced risk of transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_280.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Transmission of COVID-19 through surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_226.md)
 

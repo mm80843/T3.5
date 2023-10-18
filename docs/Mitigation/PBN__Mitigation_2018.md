@@ -2,9 +2,9 @@
 
 # __IoT devices__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [internet of things](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2919.md)
+* [The rapid proliferation of cutting-edge technologies, from lab-on-a-chip and wearable devices to AI, IoT, and blockchain, is revolutionizing various industries.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_187.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [purpose-built IoT devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3501.md)
 * [purpose-built iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3502.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1097.md)
-
 ## Property: has_MitigationPrinciple
 
 IoT devices can track and monitor coronavirus patients, collect real-time data for analysis and treatment.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1097.md)
+
 ## Property: has_MitigationSource
 
 * [The role of contemporary digital tools and technologies in COVID19 crisis: An exploratory analysis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_226.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [internet of things](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2919.md)
 

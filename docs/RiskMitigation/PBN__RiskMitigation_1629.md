@@ -2,9 +2,9 @@
 
 # __Regular cleaning and disinfection of high-touch surfaces, use of anti-SARS-CoV-2 coatings on solids__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Risk of human infection from contact with contaminated solids (fomites)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1177.md)
+* [Effective surface disinfection through regular cleaning and use of self-cleaning materials and antimicrobial coatings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_334.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Regular cleaning and disinfection of frequently touched surfaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2959.md)
 * [Regular cleaning and disinfection, minimizing contact with high-touch surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2790.md)
 * [Regular cleaning and disinfection of high-touch areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1274.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Risk of human infection from contact with contaminated solids (fomites)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1177.md)
 

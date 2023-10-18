@@ -2,8 +2,9 @@
 
 # __Common debt issuance__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Promoting financial stability and inclusivity through diverse funding sources, transparent donations, and innovative investment incentives.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_174.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Establishing a regional credit guarantee](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2083.md)
 * [Subsidizing and capital injection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_202.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Resistance to European solidarity and grants under Next Generation EU](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2857.md)
-
 ## Property: has_MitigationPrinciple
 
 Enable closer integration and expansionary policy to support green initiatives
 
+## Risks possibly mitigated by this Mitigation
+
+* [Resistance to European solidarity and grants under Next Generation EU](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2857.md)
+
 ## Property: has_MitigationSource
 
 * [Borders and Catastrophe: lessons from COVID-19 for the European Green Deal](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_156.md)
+
+## This Mitigation is enabled by the following technologies
+
 

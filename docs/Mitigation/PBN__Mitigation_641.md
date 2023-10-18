@@ -2,9 +2,9 @@
 
 # __Maintenance of natural vegetation cover__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [green space design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3370.md)
+* [Promoting sustainable and eco-friendly practices that enhance urban green spaces, energy efficiency, and renewable energy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_180.md)
 
 ## Closest similar item
 
@@ -19,14 +19,18 @@
 * [Conservation of existing tree specimens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1204.md)
 * [Strengthen protection of environment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1823.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Implementing management practices that preserve natural vegetation cover, such as leaf litter and woody debris, to support wildlife and natural ecological processes in green spaces.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Green infrastructure through the lens of “One Health”: A systematic review and integrative framework uncovering synergies and trade-offs between mental health and wildlife support in cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_150.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [green space design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3370.md)
 

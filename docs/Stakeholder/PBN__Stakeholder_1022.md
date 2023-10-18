@@ -2,9 +2,9 @@
 
 # __non-english speakers__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Exclusion of non-English speaking populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1590.md)
+* [Entities and individuals who interact with or are affected by a system, organization, or public facility.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_1.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [european](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_361.md)
 * [travellers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_553.md)
 * [immigrant](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2332.md)
+
+## Risk affecting this stakeholder
+
+* [Exclusion of non-English speaking populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1590.md)
 

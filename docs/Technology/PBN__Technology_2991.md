@@ -2,9 +2,9 @@
 
 # __outdoor seating areas__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Increased Outdoor Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_142.md)
+* [Urban green space solutions include tree planting, zoning regulations, landscape architecture, community gardens, outdoor furniture, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_231.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [access to outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3419.md)
 * [outdoor spaces within apartment buildings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1271.md)
 * [communal lounge areas in apartment designs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1274.md)
+
+## This Technology enables the following mitigations
+
+* [Increased Outdoor Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_142.md)
 

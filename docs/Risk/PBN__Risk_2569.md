@@ -2,9 +2,9 @@
 
 # __Inconsistent implementation__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Smaller and individual internal layouts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_422.md)
+* [A list of challenges and uncertainties surrounding the impact and response to various events and crises in different sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_124.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inconsistent data sources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2363.md)
 * [Improper architectural designs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1060.md)
 * [Error accumulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1658.md)
+
+## Mitigations of this risk
+
+* [Smaller and individual internal layouts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_422.md)
 

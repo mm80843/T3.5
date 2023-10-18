@@ -2,9 +2,14 @@
 
 # __wildlife__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q241741](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q241741.md)
+* [Entities and individuals who interact with or are affected by a system, organization, or public facility.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_1.md)
+
+## Risk affecting this stakeholder
+
+* [Environmental Pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1869.md)
+* [Revenge Pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1870.md)
 
 ## Closest similar item
 
@@ -19,13 +24,12 @@
 * [consumers of wildlife products](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1483.md)
 * [endangered species](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_391.md)
 
-## Risk affecting this stakeholder
-
-* [Environmental Pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1869.md)
-* [Revenge Pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1870.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Improved well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_153.md)
 * [Protection of wildlife](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_201.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q241741](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q241741.md)
 

@@ -2,14 +2,14 @@
 
 # __media__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q1187804](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1187804.md)
-* [Q340169](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q340169.md)
+* [Entities and individuals who interact with or are affected by a system, organization, or public facility.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_1.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Media](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_3.md)
+* [Spread of false information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_848.md)
+* [Concealment of information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2390.md)
 
 ## Closest similar item
 
@@ -23,14 +23,6 @@
 * [Media regulations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2790.md)
 * [television](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2910.md)
 * [journalism](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2792.md)
-
-## Risk affecting this stakeholder
-
-* [Spread of false information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_848.md)
-* [Concealment of information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2390.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
 
 ## This Stakeholder can get these Benefits from mitigation measures
 
@@ -49,4 +41,16 @@
 * [Distress from exposure to pandemic-related news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1902.md)
 * [Societal issues and the human factor](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2097.md)
 * [Lack of public trust](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_741.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+
+## This Stakeholder is identified by the following QID
+
+* [Q1187804](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1187804.md)
+* [Q340169](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q340169.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Media](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_3.md)
 

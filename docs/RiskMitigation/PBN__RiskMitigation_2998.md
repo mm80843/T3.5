@@ -2,9 +2,9 @@
 
 # __Further research on plant efficiency, explore other removal methods, such as activated carbon.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Inefficient VOC removal by plants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2306.md)
+* [Promote environmentally-friendly waste management, sanitation, and maintenance practices, including rodent control, decontamination, and segregation of waste.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_340.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Reduce sources of chemical pollutants, improve ventilation and air filtration systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2642.md)
 * [Adopt energy-efficient practices, implement recycling and waste management programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2788.md)
 * [Reduced greenhouse gas emissions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1030.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inefficient VOC removal by plants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2306.md)
 

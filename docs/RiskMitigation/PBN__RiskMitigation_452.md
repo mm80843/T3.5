@@ -2,13 +2,9 @@
 
 # __Improve indoor air quality__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of adequate indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_341.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved health and well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_437.md)
+* [Optimize indoor environments, regulate temperature and humidity, control air quality, and extend HVAC system operations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_341.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Improve ventilation systems, increase outdoor air intake, use air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2477.md)
 * [Monitor and control indoor air pollution](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_225.md)
 * [Monitor and control indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3262.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved health and well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_437.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of adequate indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_341.md)
 

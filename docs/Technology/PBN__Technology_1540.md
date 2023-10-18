@@ -2,9 +2,9 @@
 
 # __mass media__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q11033](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11033.md)
+* [Various campaigns and programs to inform and engage the public, raise awareness, educate, and promote reliable information.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_207.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [digital media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3581.md)
 * [responsible reporting by media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1924.md)
 * [journalism](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3359.md)
+
+## This Technology is identified by the following QID
+
+* [Q11033](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11033.md)
 

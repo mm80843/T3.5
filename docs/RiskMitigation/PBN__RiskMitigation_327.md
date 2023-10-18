@@ -2,13 +2,9 @@
 
 # __Restrictions on shared facilities and uses__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Restrictions on shared facilities in public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_269.md)
-
-## Property: has_MitigationBenefit
-
-* [Minimized disease transmission through shared facilities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_331.md)
+* [Implement travel restrictions, promote active transportation, streamline processes, provide accurate information, and develop sustainable transport options.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_325.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Restricting occupancy and spacing equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_640.md)
 * [Travel restrictions, isolation, testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2126.md)
 * [Temporary regulations on activities in public places](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_330.md)
+
+## Property: has_MitigationBenefit
+
+* [Minimized disease transmission through shared facilities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_331.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Restrictions on shared facilities in public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_269.md)
 

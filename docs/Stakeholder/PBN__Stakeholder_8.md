@@ -2,9 +2,13 @@
 
 # __individuals with mental health issues__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q47326642](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q47326642.md)
+* [Individuals in need of mental health support, including those with pre-existing conditions and from marginalized communities with limited access to services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_362.md)
+
+## Risk affecting this stakeholder
+
+* [Mental](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2239.md)
 
 ## Closest similar item
 
@@ -19,11 +23,11 @@
 * [individuals in need of mental health support](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1345.md)
 * [individuals with previous mental health or psychiatric illnesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_266.md)
 
-## Risk affecting this stakeholder
-
-* [Mental](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2239.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Improved mental health outcomes](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_11.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q47326642](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q47326642.md)
 

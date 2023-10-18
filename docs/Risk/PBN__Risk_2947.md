@@ -2,9 +2,9 @@
 
 # __Algal blooms, release of toxins__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Algae Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1149.md)
+* [The widespread presence and transfer of harmful pathogens and contaminants on various surfaces and environments pose serious risks to public health and the ecosystem.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_100.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Chemical pollutants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2019.md)
 * [Bacterial growth and transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2732.md)
 * [Water contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_129.md)
+
+## Mitigations of this risk
+
+* [Algae Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1149.md)
 

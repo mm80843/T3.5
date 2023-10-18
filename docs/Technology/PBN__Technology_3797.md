@@ -2,10 +2,9 @@
 
 # __personal protective equipment (e.g. masks)__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Personal Protective Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_754.md)
-* [Covering mouth and nose](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1329.md)
+* [Safety and operational tools for various fields, including healthcare, cleaning, maintenance, and emergency preparation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_212.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [widespread use of masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_584.md)
 * [cloth masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4504.md)
 * [surgical masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3503.md)
+
+## This Technology enables the following mitigations
+
+* [Personal Protective Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_754.md)
+* [Covering mouth and nose](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1329.md)
 

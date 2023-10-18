@@ -2,9 +2,9 @@
 
 # __Infection of cleaning staff__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Self-cleaning spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2121.md)
+* [Lack of proper hygiene and sanitation practices result in inadequate access to clean water and facilities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_129.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Spread of infection in the workplace](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3409.md)
 * [Ineffective cleaning practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2394.md)
 * [Inadequate cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3469.md)
+
+## Mitigations of this risk
+
+* [Self-cleaning spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2121.md)
 

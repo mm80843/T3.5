@@ -2,13 +2,9 @@
 
 # __Targeted Regional Interventions__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Regional disparities in knowledge, attitudes, and practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_628.md)
-
-## Property: has_MitigationBenefit
-
-* [Regional Equity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_872.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implementation of regional containment measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_166.md)
 * [Implement measures with caution, prioritize evidence-based interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2049.md)
 * [Focus on non-pharmaceutical interventions, prioritize distribution to countries in need](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1610.md)
+
+## Property: has_MitigationBenefit
+
+* [Regional Equity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_872.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Regional disparities in knowledge, attitudes, and practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_628.md)
 

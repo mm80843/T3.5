@@ -2,9 +2,9 @@
 
 # __frameworks for evaluation of real-world evidence research__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q30599095](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q30599095.md)
+* [Advanced analytics, fact-checking, project management, reliable sources, knowledge extraction, and collaboration ensure accurate information dissemination and effective decision-making.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_192.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [research studies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1816.md)
 * [credible sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3913.md)
 * [reliable sources of information](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_582.md)
+
+## This Technology is identified by the following QID
+
+* [Q30599095](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q30599095.md)
 

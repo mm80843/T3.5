@@ -6,6 +6,10 @@
 
 * [Increased revenue for video-gaming companies](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_688.md)
 
+## Category to which it belongs
+
+* [These companies span a wide array of industries, including renewable energy, construction, pharmaceuticals, logistics, and technology.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_387.md)
+
 ## Closest similar item
 
 * [gaming industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1226.md)

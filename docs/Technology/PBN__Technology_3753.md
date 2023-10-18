@@ -2,9 +2,9 @@
 
 # __uv radiation__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Disinfection of water](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1230.md)
+* [Innovative lighting solutions harnessing ultraviolet technology for optimal germicidal sterilization and energy efficiency, while maximizing natural light.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_235.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [UV irradiation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2709.md)
 * [uv germicidal radiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1351.md)
 * [uv-c irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3088.md)
+
+## This Technology enables the following mitigations
+
+* [Disinfection of water](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1230.md)
 

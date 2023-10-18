@@ -2,17 +2,16 @@
 
 # __energy-efficient appliances__
 
+## Category to which it belongs
+
+* [Improved and energy-efficient HVAC systems, along with advanced technologies, for efficient energy management and environmental control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_227.md)
+
 ## Risks linked to this technology
 
 * [Fall in energy demand](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1607.md)
 * [Energy use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_614.md)
 * [Energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_745.md)
 * [High energy consumption in residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_908.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Internet of Things (IoT) and Smart Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_94.md)
-* [Energy Systems and Sustainability](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_116.md)
 
 ## Closest similar item
 
@@ -27,14 +26,19 @@
 * [Energy-efficient systems and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2307.md)
 * [energy-efficient systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_325.md)
 
+## This Technology is identified by the following QID
+
+* [Q212920](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q212920.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Internet of Things (IoT) and Smart Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_94.md)
+* [Energy Systems and Sustainability](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_116.md)
+
 ## This Technology belongs to this TechGroup
 
 * [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 * [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
-
-## This Technology is identified by the following QID
-
-* [Q212920](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q212920.md)
 
 ## This Technology enables the following mitigations
 

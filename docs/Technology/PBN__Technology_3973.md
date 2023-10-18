@@ -2,9 +2,9 @@
 
 # __food supply technology__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Adequate provision of culturally appropriate food](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1642.md)
+* [Efficiently manage and optimize the flow of goods, data, and suppliers for resilient local supply chains.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_191.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [supply chain management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_9.md)
 * [Supply chain management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2388.md)
 * [food storage and preservation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1225.md)
+
+## This Technology enables the following mitigations
+
+* [Adequate provision of culturally appropriate food](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1642.md)
 

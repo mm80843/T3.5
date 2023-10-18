@@ -2,9 +2,9 @@
 
 # __Engaging the finance sector and attracting private capital__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [finance sector engagement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3260.md)
+* [Promoting financial stability and inclusivity through diverse funding sources, transparent donations, and innovative investment incentives.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_174.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Increasing international development finance and philanthropy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_490.md)
 * [Supporting access to technology and capital goods in Global South](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1006.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Lack of private sector investment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2589.md)
-
 ## Property: has_MitigationPrinciple
 
 Encourage finance sector and private capital to invest in biodiversity-positive activities and reduce harmful impacts
 
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of private sector investment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2589.md)
+
 ## Property: has_MitigationSource
 
 * [Building sustainable finance for resilient protected and conserved areas: lessons from COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_33.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [finance sector engagement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3260.md)
 

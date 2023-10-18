@@ -2,9 +2,9 @@
 
 # __Beach pollution__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_416.md)
+* [The challenges and consequences of the global pandemic include poor acoustics, noise pollution, food security, increase in inequality, waste, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_131.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Noise Pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1120.md)
 * [Ambient pollutants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2816.md)
 * [High air pollution levels](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1145.md)
+
+## Mitigations of this risk
+
+* [Social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_416.md)
 

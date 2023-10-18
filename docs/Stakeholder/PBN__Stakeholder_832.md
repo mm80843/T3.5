@@ -2,13 +2,9 @@
 
 # __urban planning organizations__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q69883](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q69883.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [City Officials](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_0.md)
+* [A diverse array of entities dedicated to various industries, causes, or services, promoting growth and welfare in society.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_369.md)
 
 ## Closest similar item
 
@@ -23,11 +19,19 @@
 * [urban planner](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1615.md)
 * [city planners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_752.md)
 
+## Risks that can be mitigated by this stakeholder
+
+* [Inadequate urban design and planning for disease prevention](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1314.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Urban Planning Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_0.md)
 
-## Risks that can be mitigated by this stakeholder
+## This Stakeholder is identified by the following QID
 
-* [Inadequate urban design and planning for disease prevention](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1314.md)
+* [Q69883](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q69883.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [City Officials](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_0.md)
 

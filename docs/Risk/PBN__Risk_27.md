@@ -2,9 +2,9 @@
 
 # __Spread of Covid-19 in urban public spaces__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Spatial planning considerations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_35.md)
+* [The far-reaching consequences of COVID-19 include its transmission through various settings, impact on urban areas, and scarcity of resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Increased risk of COVID-19 transmission in crowded public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1715.md)
 * [Spread of COVID-19 due to air pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_146.md)
 * [Exposure to COVID-19 in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_90.md)
+
+## Mitigations of this risk
+
+* [Spatial planning considerations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_35.md)
 

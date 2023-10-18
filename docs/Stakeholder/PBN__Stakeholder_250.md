@@ -2,14 +2,13 @@
 
 # __grid operators__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q3894343](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3894343.md)
+* [Entities and individuals who interact with or are affected by a system, organization, or public facility.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_1.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
-* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
+* [Mismatched energy demand](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1253.md)
 
 ## Closest similar item
 
@@ -24,16 +23,21 @@
 * [facility operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_439.md)
 * [building owner and operator](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1934.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder can get these Benefits from mitigation measures
 
-* [Mismatched energy demand](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1253.md)
+* [Demand response automation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_601.md)
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Energy](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_30.md)
 * [Specific Roles and Job Titles](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_21.md)
 
-## This Stakeholder can get these Benefits from mitigation measures
+## This Stakeholder is identified by the following QID
 
-* [Demand response automation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_601.md)
+* [Q3894343](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3894343.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
 

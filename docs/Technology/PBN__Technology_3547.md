@@ -2,9 +2,9 @@
 
 # __behavior change analysis__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Analysis of Root Causes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_921.md)
+* [Consistent oversight and regulation ensure compliance, as standardized protocols are enforced by enforcement personnel and regulatory bodies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_228.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Evaluation and adaptation of temporary changes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2372.md)
 * [policy changes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_445.md)
 * [behaviour transition matrix](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3651.md)
+
+## This Technology enables the following mitigations
+
+* [Analysis of Root Causes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_921.md)
 

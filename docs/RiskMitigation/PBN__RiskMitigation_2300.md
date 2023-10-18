@@ -2,9 +2,9 @@
 
 # __Proper treatment and disinfection of water and wastewater systems__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Transmission via water droplets from feces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1734.md)
+* [Implement rigorous cleaning and disinfection measures, including the use of antimicrobial materials and advanced technologies, to maintain a safe and hygienic environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_2.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Use high-performing filters, proper disposal of disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2875.md)
 * [Regular disinfection and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_324.md)
 * [Routine cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_264.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Transmission via water droplets from feces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1734.md)
 

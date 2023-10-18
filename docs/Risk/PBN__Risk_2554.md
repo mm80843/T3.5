@@ -2,9 +2,9 @@
 
 # __Motion artefacts, poor contact with skin__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Wearable technology placement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_405.md)
+* [Limited physical/social distancing, thermal discomfort, poor lighting, and inadequate air quality negatively impact personal comfort.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_130.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Contamination of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1332.md)
 * [Manual contact with surfaces during door opening](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2731.md)
 * [Human movement patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_309.md)
+
+## Mitigations of this risk
+
+* [Wearable technology placement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_405.md)
 

@@ -2,13 +2,9 @@
 
 # __Transmission control measures__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [COVID-19 spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_63.md)
-
-## Property: has_MitigationBenefit
-
-* [Containment of epidemic](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_962.md)
+* [Implementing a comprehensive package of measures to ensure the smooth functioning and safety of essential services and activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_6.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implement measures to reduce airborne transmission, such as improved ventilation and air filtration.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1678.md)
 * [Organizational measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1368.md)
 * [Reduction in traffic volumes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_814.md)
+
+## Property: has_MitigationBenefit
+
+* [Containment of epidemic](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_962.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [COVID-19 spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_63.md)
 

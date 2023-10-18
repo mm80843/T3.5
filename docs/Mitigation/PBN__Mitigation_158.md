@@ -2,9 +2,9 @@
 
 # __Less crowded environment__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [urban planning and design strategies for reduced density](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3009.md)
+* [Enhancing urban mobility through pedestrian-friendly infrastructure, optimized transportation, and improved public transportation systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_151.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Reducing population density of built-up areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1122.md)
 * [Reducing occupancy density](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2046.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Risk of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2469.md)
-
 ## Property: has_MitigationPrinciple
 
 Gated communities, characterized by lower population density, provide a less crowded environment that reduces the risk of infection transmission compared to more densely populated areas.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Risk of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2469.md)
+
 ## Property: has_MitigationSource
 
 * [Housing Experience in Gated Communities in the Time of Pandemics: Lessons Learned from COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_87.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [urban planning and design strategies for reduced density](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3009.md)
 

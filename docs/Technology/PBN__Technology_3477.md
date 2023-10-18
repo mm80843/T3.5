@@ -2,9 +2,9 @@
 
 # __embedded board__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Digital signage player](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_829.md)
+* [Design and construction professionals use innovative techniques and strategies to create adaptable, sustainable, and inclusive buildings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_217.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [networking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3037.md)
 * [simulation equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3225.md)
 * [electronic products for human-computer interaction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2948.md)
+
+## This Technology enables the following mitigations
+
+* [Digital signage player](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_829.md)
 

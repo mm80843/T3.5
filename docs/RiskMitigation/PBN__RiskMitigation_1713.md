@@ -2,9 +2,9 @@
 
 # __Implement demand response programs, incentivize load shifting and energy conservation__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Mismatched energy demand](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1253.md)
+* [Transition to sustainable energy sources, implement energy-efficient measures, and absorb increased service demand.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_351.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement policies to stabilize oil prices, explore alternative forms of energy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2393.md)
 * [Provide financial assistance programs, energy efficiency upgrades, and education on energy-saving practices for low-income households.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2097.md)
 * [Implement policies to support revenue generation and payment flexibility.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2522.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Mismatched energy demand](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1253.md)
 

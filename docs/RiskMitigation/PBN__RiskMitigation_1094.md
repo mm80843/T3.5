@@ -2,13 +2,9 @@
 
 # __Strict precautions and infection control training__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Transmission via fomites](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_800.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction in indirect transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1085.md)
+* [Enforce safety measures, promote responsible behavior, utilize PPE, and prioritize risk prevention to ensure adequate protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_342.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Stocking up on necessary medical supplies, personal protective equipment, and establishing protocols for infection control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1991.md)
 * [Implement strict hygiene protocols, provide Personal Protective Equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2461.md)
 * [Implementation of infection control measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_157.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction in indirect transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1085.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Transmission via fomites](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_800.md)
 

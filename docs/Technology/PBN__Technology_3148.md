@@ -2,9 +2,9 @@
 
 # __e-scooters__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Active travel](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_311.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [self-driving cars](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3789.md)
 * [emanators](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4467.md)
 * [stationary bikes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3242.md)
+
+## This Technology enables the following mitigations
+
+* [Active travel](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_311.md)
 

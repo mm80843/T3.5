@@ -2,9 +2,9 @@
 
 # __Limited data, accuracy__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Rapid diagnosis techniques](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1254.md)
+* [The challenges include disintegrated and non-interoperable data, limited data access, data quality issues, and lack of standardized data sharing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_111.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Insufficient data for analysis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3206.md)
 * [Low precision](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3415.md)
 * [Data accuracy and reliability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2466.md)
+
+## Mitigations of this risk
+
+* [Rapid diagnosis techniques](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1254.md)
 

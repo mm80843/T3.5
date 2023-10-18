@@ -2,10 +2,9 @@
 
 # __gps technology__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Global Positioning System (GPS)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_330.md)
-* [Real-time tracking of infected patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1179.md)
+* [Technological advancements encompass a wide range of innovations, such as blockchain, touchless, renewable energy, and communication technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [mobile technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2902.md)
 * [travel tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_38.md)
 * [geolocation data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3365.md)
+
+## This Technology enables the following mitigations
+
+* [Global Positioning System (GPS)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_330.md)
+* [Real-time tracking of infected patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1179.md)
 

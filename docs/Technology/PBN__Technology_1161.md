@@ -2,9 +2,9 @@
 
 # __research and testing__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q42240](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q42240.md)
+* [Enhanced diagnostic techniques and screening methods, including the development of rapid and reliable testing technologies and increased availability of diagnostic tools and kits.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_211.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [testing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3933.md)
 * [testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_37.md)
 * [rapid testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2917.md)
+
+## This Technology is identified by the following QID
+
+* [Q42240](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q42240.md)
 

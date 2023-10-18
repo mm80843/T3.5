@@ -2,9 +2,9 @@
 
 # __material manufacturers__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Opportunities for new materials for performative insulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_245.md)
+* [Stakeholders in various industries, from manufacturing to retail, including users and suppliers, with a focus on wearables.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_371.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Manufacturing company](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2027.md)
 * [wearable manufacturer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2622.md)
 * [wearable manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_761.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Opportunities for new materials for performative insulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_245.md)
 

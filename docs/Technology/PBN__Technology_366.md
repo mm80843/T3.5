@@ -2,9 +2,9 @@
 
 # __digital signage__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q756568](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q756568.md)
+* [The digital revolution encompasses various aspects, from online promotion to contactless payment systems and virtual learning platforms.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_190.md)
 
 ## Risks linked to this technology
 
@@ -24,4 +24,8 @@
 * [signage for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1823.md)
 * [clear signage and reminders](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_290.md)
 * [hygiene signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_435.md)
+
+## This Technology is identified by the following QID
+
+* [Q756568](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q756568.md)
 

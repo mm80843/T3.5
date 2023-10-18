@@ -2,9 +2,9 @@
 
 # __public spaces__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Outdoor activities/usage of open spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1012.md)
+* [Available green spaces and outdoor gathering areas allow for access and enjoyment of public parks and communal areas.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_218.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [public parks and green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1222.md)
 * [outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1848.md)
 * [Outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2230.md)
+
+## This Technology enables the following mitigations
+
+* [Outdoor activities/usage of open spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1012.md)
 

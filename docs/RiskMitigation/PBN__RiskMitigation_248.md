@@ -2,13 +2,9 @@
 
 # __Designing restrooms with low network centrality__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Impact of space type and architectural characteristics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_209.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction of microbial transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_259.md)
+* [Designing affordable, adaptable, and sustainable housing with improved building environments and optimized spatial layouts, while incorporating flexible and human-centric design elements and considering health, safety, and environmental parameters.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_326.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Investing in hygiene and cleaning protocols for shared mobility services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1261.md)
 * [Improvement of sanitation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_757.md)
 * [Implementing proper sanitation measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_888.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction of microbial transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_259.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Impact of space type and architectural characteristics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_209.md)
 

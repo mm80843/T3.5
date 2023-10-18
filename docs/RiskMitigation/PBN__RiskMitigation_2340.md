@@ -2,9 +2,9 @@
 
 # __Limit the number of occupants, enforce capacity limits, stagger schedules__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Building Occupancy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1769.md)
+* [Designing affordable, adaptable, and sustainable housing with improved building environments and optimized spatial layouts, while incorporating flexible and human-centric design elements and considering health, safety, and environmental parameters.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_326.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement occupancy limits, encourage social distancing, provide adequate facilities and services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1576.md)
 * [Implement occupancy limits and manage crowd flow. Design layouts with spacious areas and efficient use of space.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2635.md)
 * [Implement measures to control occupancy and enforce physical distancing rules in the facility](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2026.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Building Occupancy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1769.md)
 

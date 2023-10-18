@@ -2,9 +2,9 @@
 
 # __clean energy infrastructure__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Green stimulus](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1053.md)
+* [The built environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_230.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Green infrastructure management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2342.md)
 * [energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_324.md)
 * [Energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2382.md)
+
+## This Technology enables the following mitigations
+
+* [Green stimulus](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1053.md)
 

@@ -2,13 +2,9 @@
 
 # __Implementation of community-level planning and design strategies__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [A push for meso scale strategies at the neighbourhood/community level](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_249.md)
-
-## Property: has_MitigationBenefit
-
-* [Stronger communities and better public health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_301.md)
+* [Promote equitable, sustainable, and inclusive urban planning to enhance living conditions, mitigate overcrowding, and reduce disparities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_324.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Designating community-level areas for essential services and supplies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1730.md)
 * [Alternative planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_834.md)
 * [Strengthening planning mechanism](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_280.md)
+
+## Property: has_MitigationBenefit
+
+* [Stronger communities and better public health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_301.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [A push for meso scale strategies at the neighbourhood/community level](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_249.md)
 

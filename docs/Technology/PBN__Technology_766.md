@@ -2,9 +2,9 @@
 
 # __manufacturing facilities__
 
-## Risks linked to this technology
+## Category to which it belongs
 
-* [Shortage of personal protective equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1497.md)
+* [Measures promoting accountability, media control, real-time updates, and virtual experiences for physical distancing and education.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [research facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3514.md)
 * [laboratory facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3513.md)
 * [healthcare technologies and facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1946.md)
+
+## Risks linked to this technology
+
+* [Shortage of personal protective equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1497.md)
 

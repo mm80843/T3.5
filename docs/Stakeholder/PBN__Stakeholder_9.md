@@ -2,26 +2,9 @@
 
 # __general population__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q2625603](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2625603.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
-
-## Closest similar item
-
-* [the general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2536.md)
-* [population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_81.md)
-* [general population in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_571.md)
-* [general populace](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_517.md)
-* [global population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_278.md)
-* [the global population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2532.md)
-* [societal population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_289.md)
-* [general population in the catchment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_573.md)
-* [Minority population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2200.md)
-* [local population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_349.md)
+* [A diverse array of groups and individuals, encompassing all segments of society and the natural world.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_363.md)
 
 ## Risk affecting this stakeholder
 
@@ -352,9 +335,18 @@
 * [Presence of SARS-CoV-2 RNA in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2338.md)
 * [Decreased concentrations of NO2 and PM2.5](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2386.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Closest similar item
 
-* [Public](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_147.md)
+* [the general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2536.md)
+* [population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_81.md)
+* [general population in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_571.md)
+* [general populace](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_517.md)
+* [global population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_278.md)
+* [the global population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2532.md)
+* [societal population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_289.md)
+* [general population in the catchment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_573.md)
+* [Minority population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2200.md)
+* [local population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_349.md)
 
 ## This Stakeholder can get these Benefits from mitigation measures
 
@@ -482,4 +474,16 @@
 * [Enhanced hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1387.md)
 * [Early detection of potential outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1388.md)
 * [Prevention of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1405.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Public](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_147.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q2625603](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2625603.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
 

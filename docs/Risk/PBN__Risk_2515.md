@@ -2,9 +2,9 @@
 
 # __Rent burden__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Rental assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_270.md)
+* [Financial vulnerability and instability permeate various sectors and industries, hindering growth, sustainability, and access to resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_114.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Poor Housing Quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1078.md)
 * [Financial burden on low-income households](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1567.md)
 * [Poor housing, lack of water](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2432.md)
+
+## Mitigations of this risk
+
+* [Rental assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_270.md)
 

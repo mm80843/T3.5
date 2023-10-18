@@ -2,9 +2,9 @@
 
 # __smartphone technology__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Crowdsourced Smartphone Data](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_357.md)
+* [Technological advancements encompass a wide range of innovations, such as blockchain, touchless, renewable energy, and communication technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [mobile devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4026.md)
 * [smartphone app](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4163.md)
 * [smartphone control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3863.md)
+
+## This Technology enables the following mitigations
+
+* [Crowdsourced Smartphone Data](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_357.md)
 

@@ -2,11 +2,9 @@
 
 # __Adaptation of supermarkets__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [half aisles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4189.md)
-* [widened aisles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4188.md)
-* [flexible shelving](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4190.md)
+* [Optimizing the global trade network and supply chains through decentralization, cost concern, and integrated management, while promoting resilience and equity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_146.md)
 
 ## Closest similar item
 
@@ -21,15 +19,21 @@
 * [Inventory optimization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1359.md)
 * [Promoting online shopping and delivery services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2279.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2622.md)
-
 ## Property: has_MitigationPrinciple
 
 Allow for social distancing and reduce congestion in supermarkets during a pandemic
 
+## Risks possibly mitigated by this Mitigation
+
+* [Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2622.md)
+
 ## Property: has_MitigationSource
 
 * [Designing for COVID-2x: Reflecting on Future-Proofing Human Habitation for the Inevitable Next Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_149.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [half aisles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4189.md)
+* [widened aisles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4188.md)
+* [flexible shelving](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4190.md)
 

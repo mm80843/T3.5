@@ -2,65 +2,6 @@
 
 # __healthcare providers__
 
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
-
-## Closest similar item
-
-* [healthcare authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_452.md)
-* [insurance providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2750.md)
-* [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
-* [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
-* [healthcare resources](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2739.md)
-* [Healthcare resources](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2740.md)
-* [healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_193.md)
-* [healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2751.md)
-* [Healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2752.md)
-* [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
-
-## Risk affecting this stakeholder
-
-* [Overwhelmed healthcare systems and operations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1901.md)
-* [Security and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2083.md)
-* [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_47.md)
-* [Challenges with quarantining](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1351.md)
-* [Lack of interoperability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_901.md)
-* [Development of drugs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_431.md)
-* [Underreporting of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1506.md)
-* [Inaccuracy of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1231.md)
-* [Lack of healthcare data exchange](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1273.md)
-* [Lack of emphasis on public health impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1402.md)
-* [Lack of novel treatment options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2189.md)
-* [Dependency on technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1233.md)
-* [Ethical considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_163.md)
-* [Increased clinical load](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2187.md)
-* [Timing of community measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1353.md)
-* [Lack of real-time data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_762.md)
-* [Poor communication and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1763.md)
-* [Data management issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2085.md)
-* [Inadequate healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1129.md)
-* [Under-notification of cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1368.md)
-* [Emotional distress and psychiatric illness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1896.md)
-* [Distress from exposure to pandemic-related news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1902.md)
-* [Stress and burnout among healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1900.md)
-* [Underrepresentation of Geographic Regions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1261.md)
-* [High healthcare costs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2042.md)
-* [Limited diagnostic and screening tests](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2185.md)
-* [Privacy and data protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1274.md)
-* [Psychopathology in vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1898.md)
-* [Inadequate mental health resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2044.md)
-* [Dependence on limited physiological information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1113.md)
-* [Scalability and QoS provisioning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2095.md)
-* [Reliability of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2086.md)
-* [Data overload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2088.md)
-* [IoT device vulnerabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1276.md)
-* [Cybersecurity risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2087.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Healthcare](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_48.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Improved access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_35.md)
@@ -103,6 +44,23 @@
 * [Enhanced data security](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1393.md)
 * [Decreased workload for healthcare staff](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1399.md)
 * [Reduced stress levels](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1403.md)
+
+## Category to which it belongs
+
+* [Those involved in the provision and management of healthcare services, including workers, professionals, facilities, and users.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_355.md)
+
+## Closest similar item
+
+* [healthcare authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_452.md)
+* [insurance providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2750.md)
+* [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
+* [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
+* [healthcare resources](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2739.md)
+* [Healthcare resources](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2740.md)
+* [healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_193.md)
+* [healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2751.md)
+* [Healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2752.md)
+* [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
 
 ## Risks that can be mitigated by this stakeholder
 
@@ -179,4 +137,50 @@
 * [Suicidal ideation from economic crisis and uncertainties](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1903.md)
 * [Missing vaccination data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1912.md)
 * [Testing disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1936.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Healthcare](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_48.md)
+
+## Risk affecting this stakeholder
+
+* [Overwhelmed healthcare systems and operations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1901.md)
+* [Security and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2083.md)
+* [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_47.md)
+* [Challenges with quarantining](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1351.md)
+* [Lack of interoperability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_901.md)
+* [Development of drugs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_431.md)
+* [Underreporting of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1506.md)
+* [Inaccuracy of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1231.md)
+* [Lack of healthcare data exchange](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1273.md)
+* [Lack of emphasis on public health impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1402.md)
+* [Lack of novel treatment options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2189.md)
+* [Dependency on technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1233.md)
+* [Ethical considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_163.md)
+* [Increased clinical load](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2187.md)
+* [Timing of community measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1353.md)
+* [Lack of real-time data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_762.md)
+* [Poor communication and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1763.md)
+* [Data management issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2085.md)
+* [Inadequate healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1129.md)
+* [Under-notification of cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1368.md)
+* [Emotional distress and psychiatric illness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1896.md)
+* [Distress from exposure to pandemic-related news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1902.md)
+* [Stress and burnout among healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1900.md)
+* [Underrepresentation of Geographic Regions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1261.md)
+* [High healthcare costs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2042.md)
+* [Limited diagnostic and screening tests](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2185.md)
+* [Privacy and data protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1274.md)
+* [Psychopathology in vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1898.md)
+* [Inadequate mental health resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2044.md)
+* [Dependence on limited physiological information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1113.md)
+* [Scalability and QoS provisioning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2095.md)
+* [Reliability of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2086.md)
+* [Data overload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2088.md)
+* [IoT device vulnerabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1276.md)
+* [Cybersecurity risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2087.md)
 

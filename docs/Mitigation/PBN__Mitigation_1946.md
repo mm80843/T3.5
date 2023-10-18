@@ -2,13 +2,9 @@
 
 # __Rapid deployment of new healthcare applications and services__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
-* [machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3004.md)
-* [nfv](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4150.md)
-* [mec](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1584.md)
-* [sdn](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4149.md)
+* [Enhancing healthcare access, facilities, and systems while promoting affordability and strengthening healthcare infrastructure through various strategies and initiatives.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_165.md)
 
 ## Closest similar item
 
@@ -23,15 +19,23 @@
 * [Strengthening healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4157.md)
 * [Investing in healthcare infrastructure, allocating resources for healthcare facilities, enhancing surveillance and monitoring systems.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4158.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Rapid deployment of healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3296.md)
-
 ## Property: has_MitigationPrinciple
 
 Development and deployment of new healthcare applications and services with the use of AI and Machine Learning technologies, supported by software defined networking and multi-access edge computing
 
+## Risks possibly mitigated by this Mitigation
+
+* [Rapid deployment of healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3296.md)
+
 ## Property: has_MitigationSource
 
 * [The role of 5G for digital healthcare against COVID-19 pandemic: Opportunities and challenges](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_9.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
+* [machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3004.md)
+* [nfv](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4150.md)
+* [mec](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1584.md)
+* [sdn](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4149.md)
 

@@ -2,9 +2,9 @@
 
 # __software__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Integrated Command and Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1955.md)
+* [A list of diverse software tools, including financial management, construction technology, project management, communication, and monitoring software.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_219.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [monitoring software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1659.md)
 * [Monitoring software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2481.md)
 * [r software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3160.md)
+
+## This Technology enables the following mitigations
+
+* [Integrated Command and Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1955.md)
 

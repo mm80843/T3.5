@@ -2,9 +2,9 @@
 
 # __ozonation technology__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Ozonation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2366.md)
+* [Technological advancements encompass a wide range of innovations, such as blockchain, touchless, renewable energy, and communication technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [wastewater treatment technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1066.md)
 * [water treatment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_975.md)
 * [Water treatment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2827.md)
+
+## This Technology enables the following mitigations
+
+* [Ozonation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2366.md)
 

@@ -2,9 +2,9 @@
 
 # __Increase in mental diseases and domestic violence__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Implementation of NPIs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_119.md)
+* [The toll of mental health harms, health harming behaviors, and the psychological impact of quarantine, fear, and anxiety has increased, affecting various populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_95.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Domestic Violence and Intimate Partner Violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1431.md)
 * [Increase in intimate partner violence during pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_21.md)
 * [Domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1766.md)
+
+## Mitigations of this risk
+
+* [Implementation of NPIs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_119.md)
 

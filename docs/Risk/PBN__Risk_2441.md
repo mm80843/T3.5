@@ -2,10 +2,9 @@
 
 # __Lack of trust__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Transparency of data usage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_107.md)
-* [Trust and transparency](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_102.md)
+* [Insufficient awareness, limited resources, inadequate communication, and lack of preparedness contribute to various challenges and deficiencies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_118.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Lack of credibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2657.md)
 * [Lack of Protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2527.md)
 * [Lack of protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3213.md)
+
+## Mitigations of this risk
+
+* [Transparency of data usage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_107.md)
+* [Trust and transparency](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_102.md)
 

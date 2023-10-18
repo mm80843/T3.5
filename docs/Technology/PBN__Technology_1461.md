@@ -2,9 +2,9 @@
 
 # __temperature screening devices__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q107194400](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q107194400.md)
+* [Various technologies and devices are used to measure and regulate temperature, including cameras, scanners, sensors, and thermostats.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_220.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [temperature scanners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_361.md)
 * [Temperature scanners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2449.md)
 * [temperature screenings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_701.md)
+
+## This Technology is identified by the following QID
+
+* [Q107194400](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q107194400.md)
 

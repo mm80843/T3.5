@@ -2,9 +2,9 @@
 
 # __energy-efficient lighting__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q21993217](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q21993217.md)
+* [Innovative lighting solutions harnessing ultraviolet technology for optimal germicidal sterilization and energy efficiency, while maximizing natural light.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_235.md)
 
 ## Risks linked to this technology
 
@@ -23,4 +23,8 @@
 * [Advanced lighting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2226.md)
 * [advanced lighting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1844.md)
 * [natural lighting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_424.md)
+
+## This Technology is identified by the following QID
+
+* [Q21993217](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q21993217.md)
 

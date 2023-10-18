@@ -2,9 +2,9 @@
 
 # __regulatory measures__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Temporary regulations for certain activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_415.md)
+* [Consistent oversight and regulation ensure compliance, as standardized protocols are enforced by enforcement personnel and regulatory bodies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_228.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [restrictive measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3585.md)
 * [regulatory oversight](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_267.md)
 * [enforcement of regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_112.md)
+
+## This Technology enables the following mitigations
+
+* [Temporary regulations for certain activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_415.md)
 

@@ -2,9 +2,9 @@
 
 # __Addressing fundamental problems__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Long-Term Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1043.md)
+* [Fragmented global governance, reduced aid, ethical concerns, educational disruption, impacts on peace and justice, and inadequate coordination between stakeholders.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_115.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of effective technical systems for coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_630.md)
 * [Infrastructure challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1927.md)
 * [Lack of overview](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2925.md)
+
+## Mitigations of this risk
+
+* [Long-Term Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1043.md)
 

@@ -2,9 +2,9 @@
 
 # __Implement regulations on quantity limits for essential commodities, discourage panic buying.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Hoarding of essential commodities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1074.md)
+* [Promote flexibility and resilience in supply chains through diversification, local production, and proactive strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_320.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Enhance practical capacity to comply](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1214.md)
 * [Limit the number of occupants, enforce capacity limits, stagger schedules](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2340.md)
 * [Limit the number of pilgrims, implement rigorous testing and quarantine measures, enforce physical distancing and hygiene protocols.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2482.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Hoarding of essential commodities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1074.md)
 

@@ -2,9 +2,9 @@
 
 # __financial technology__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q16319025](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q16319025.md)
+* [Technological advancements encompass a wide range of innovations, such as blockchain, touchless, renewable energy, and communication technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
 
 ## Risks linked to this technology
 
@@ -23,4 +23,8 @@
 * [financial support systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_71.md)
 * [financial planning tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_463.md)
 * [financial practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3598.md)
+
+## This Technology is identified by the following QID
+
+* [Q16319025](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q16319025.md)
 

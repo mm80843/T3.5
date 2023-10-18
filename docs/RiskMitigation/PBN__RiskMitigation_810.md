@@ -2,12 +2,9 @@
 
 # __Contact tracing mobile apps__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-
-## Property: has_MitigationBenefit
-
-* [Containment of COVID-19 spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_815.md)
+* [Enhanced surveillance, monitoring, and real-time tracking for improved control and response to various situations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_312.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [Widespread testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_720.md)
 * [Implementation of contact tracing and testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_462.md)
 * [Regular testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_440.md)
+
+## Property: has_MitigationBenefit
+
+* [Containment of COVID-19 spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_815.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

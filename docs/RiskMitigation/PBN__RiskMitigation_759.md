@@ -2,13 +2,9 @@
 
 # __Promote reliable sources__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Decreasing interest in news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_534.md)
-
-## Property: has_MitigationBenefit
-
-* [Increased trust](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_766.md)
+* [Promote flexibility and resilience in supply chains through diversification, local production, and proactive strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_320.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Providing accurate information through reliable sources, fact-checking, education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2333.md)
 * [Promoting accurate information from reliable sources, fact-checking, and public education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1464.md)
 * [Provide accurate and evidence-based information through trusted sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2371.md)
+
+## Property: has_MitigationBenefit
+
+* [Increased trust](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_766.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Decreasing interest in news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_534.md)
 

@@ -2,13 +2,9 @@
 
 # __Antimicrobial indoor finishing materials__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Virus propagation risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_279.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction of virus survival on surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_345.md)
+* [Implement rigorous cleaning and disinfection measures, including the use of antimicrobial materials and advanced technologies, to maintain a safe and hygienic environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_2.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Use of hygienic and antibacterial materials that are easily sanitized](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2306.md)
 * [Replace stainless steel surfaces with copper coatings, which have antimicrobial properties.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2015.md)
 * [Regular disinfection of indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_81.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction of virus survival on surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_345.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Virus propagation risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_279.md)
 

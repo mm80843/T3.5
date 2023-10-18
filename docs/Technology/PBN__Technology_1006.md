@@ -2,6 +2,10 @@
 
 # __smart storage solutions__
 
+## Category to which it belongs
+
+* [A comprehensive range of advanced, interconnected devices that offer efficiency, convenience, and enhanced functionality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_238.md)
+
 ## Risks linked to this technology
 
 * [Limited space in apartments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1672.md)

@@ -2,9 +2,9 @@
 
 # __organizations promoting social inclusion__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Inequality exacerbation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2039.md)
+* [Members of the public, including social media users, organizations promoting gender equality, and individuals in various social settings and groups.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_385.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [socially disadvantaged group](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2121.md)
 * [social service organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2495.md)
 * [social groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_640.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Inequality exacerbation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2039.md)
 

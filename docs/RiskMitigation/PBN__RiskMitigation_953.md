@@ -2,13 +2,9 @@
 
 # __Exploring new applications of wearables in healthcare, such as smart facemasks and biomarker detection__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Expansion of wearable technology in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_689.md)
-
-## Property: has_MitigationBenefit
-
-* [Broader healthcare applications](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_959.md)
+* [Monitoring, analysis, and standardization of various technologies and protocols for accurate and reliable healthcare data collection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_310.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Collaborate with social-media platforms for real-time updates and use facial-recognition technology for screening.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2855.md)
 * [Implement a patient monitoring system with video surveillance and vital sign monitoring equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2189.md)
 * [Use of new smart/innovative technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_214.md)
+
+## Property: has_MitigationBenefit
+
+* [Broader healthcare applications](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_959.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Expansion of wearable technology in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_689.md)
 

@@ -2,10 +2,9 @@
 
 # __Water consumption and Wastewater Management__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [water treatment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_975.md)
-* [water disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3268.md)
+* [Strengthening waste management and surveillance, utilizing wastewater-based epidemiology, to improve environmental sanitation and water quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_9.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1138.md)
 * [Wastewater-based epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1081.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Poor quality drinking water, lack of proper wastewater management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2594.md)
-
 ## Property: has_MitigationPrinciple
 
 Ensure safe drinking water supply, provide water treatment technologies, regular cleaning and disinfection of wastewater, waste segregation and management
 
+## Risks possibly mitigated by this Mitigation
+
+* [Poor quality drinking water, lack of proper wastewater management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2594.md)
+
 ## Property: has_MitigationSource
 
 * [COVID-19 and Living space challenge. Well-being and Public Health recommendations for a healthy, safe, and sustainable housing.](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_161.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [water treatment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_975.md)
+* [water disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3268.md)
 

@@ -2,10 +2,9 @@
 
 # __Adequate green space allocation__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_922.md)
-* [park design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4500.md)
+* [Promoting sustainable and eco-friendly practices that enhance urban green spaces, energy efficiency, and renewable energy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_180.md)
 
 ## Closest similar item
 
@@ -20,14 +19,19 @@
 * [Increase greenspace access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2193.md)
 * [Creating green space in existing communities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_54.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Ensuring sufficient green spaces in urban areas provides opportunities for outdoor activities and reduces population density in confined spaces.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Urban design attributes and resilience: COVID-19 evidence from New York City](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_6.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_922.md)
+* [park design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4500.md)
 

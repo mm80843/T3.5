@@ -2,13 +2,9 @@
 
 # __Optimization based people flow estimation method__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Parameter identification issue](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_93.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved parameter identification](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_134.md)
+* [Enhanced surveillance, monitoring, and real-time tracking for improved control and response to various situations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_312.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [People monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1419.md)
 * [Communicate safety measures and hygiene protocols, provide real-time information on passenger flow and occupancy levels](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1670.md)
 * [Kalman filter algorithm](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_118.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved parameter identification](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_134.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Parameter identification issue](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_93.md)
 

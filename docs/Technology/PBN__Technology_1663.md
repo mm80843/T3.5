@@ -2,9 +2,9 @@
 
 # __online collaboration tools__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q5145802](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5145802.md)
+* [Digital platforms and online resources facilitate collaboration, communication, and information sharing among individuals and organizations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_193.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [communication and collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_810.md)
 * [online communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4031.md)
 * [collaboration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_155.md)
+
+## This Technology is identified by the following QID
+
+* [Q5145802](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5145802.md)
 

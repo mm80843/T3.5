@@ -2,9 +2,9 @@
 
 # __telecommunication networks (e.g.__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Telemedicine consultations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2109.md)
+* [Enhanced connectivity and diverse communication platforms enable the dissemination of reliable information and promote open communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_225.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [telephone network](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3364.md)
 * [telecommunication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_242.md)
 * [telecommunication technology (laptops](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3465.md)
+
+## This Technology enables the following mitigations
+
+* [Telemedicine consultations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2109.md)
 

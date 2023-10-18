@@ -2,9 +2,9 @@
 
 # __buffer strips__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Algae Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1149.md)
+* [Advancements in biotechnology, clinical research, and innovative therapies contribute to the development of medical solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [transparency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1927.md)
 * [light pipes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1168.md)
 * [adjustable walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4291.md)
+
+## This Technology enables the following mitigations
+
+* [Algae Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1149.md)
 

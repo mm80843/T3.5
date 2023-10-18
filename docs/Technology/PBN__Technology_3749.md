@@ -2,9 +2,9 @@
 
 # __gps location__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_250.md)
+* [A comprehensive list of mobile applications, including contact-tracing apps, mental health apps, mobile banking, and fitness tracking devices, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_197.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [positioning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4371.md)
 * [improved location tracking algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1383.md)
 * [Improved location tracking algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2052.md)
+
+## This Technology enables the following mitigations
+
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_250.md)
 

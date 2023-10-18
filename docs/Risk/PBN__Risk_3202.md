@@ -2,9 +2,9 @@
 
 # __Accidental spread of the virus__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Avoid touching face](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1665.md)
+* [The Impact of Domestic Violence and the Spreading of the Virus Create Challenges in Preventing Virus Propagation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_94.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Virus spread through contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1131.md)
 * [Spread of infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_744.md)
 * [Spread of the disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3392.md)
+
+## Mitigations of this risk
+
+* [Avoid touching face](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1665.md)
 

@@ -2,10 +2,9 @@
 
 # __Increased waste, reduced waste recycling__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Restriction of waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2453.md)
-* [Suspension of recycling programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2452.md)
+* [The challenges of urban water management include water contamination, waste management, inadequate water storage, and poor drainage.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_120.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Increased waste, risk of contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3461.md)
 * [Waste](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_280.md)
 * [Solid waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_575.md)
+
+## Mitigations of this risk
+
+* [Restriction of waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2453.md)
+* [Suspension of recycling programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2452.md)
 

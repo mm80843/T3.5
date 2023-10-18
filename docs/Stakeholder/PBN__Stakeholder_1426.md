@@ -2,9 +2,9 @@
 
 # __returnees__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Risk of external seeding events and uncontrolled quarantines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2122.md)
+* [Entities and individuals who interact with or are affected by a system, organization, or public facility.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_1.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [busines](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1908.md)
 * [employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_220.md)
 * [travelers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_560.md)
+
+## Risk affecting this stakeholder
+
+* [Risk of external seeding events and uncontrolled quarantines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2122.md)
 

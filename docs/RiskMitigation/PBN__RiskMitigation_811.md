@@ -2,12 +2,9 @@
 
 # __Biosensors and nanoscale tools__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-
-## Property: has_MitigationBenefit
-
-* [Early detection and monitoring of pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_816.md)
+* [Monitoring, analysis, and standardization of various technologies and protocols for accurate and reliable healthcare data collection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_310.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [Develop eco-friendly and non-toxic nanomaterials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1582.md)
 * [Proper application of biocidal agents on surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2079.md)
 * [Digital tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_722.md)
+
+## Property: has_MitigationBenefit
+
+* [Early detection and monitoring of pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_816.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

@@ -2,9 +2,9 @@
 
 # __Disconnection between extreme weather and climate change__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Connect Extreme Weather and Climate](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_684.md)
+* [The interconnectedness of environmental degradation, social inequalities, and the need for climate action and conservation efforts.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_104.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Extreme weather events](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1849.md)
 * [Lack of global response to climate change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2691.md)
 * [Climate conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1732.md)
+
+## Mitigations of this risk
+
+* [Connect Extreme Weather and Climate](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_684.md)
 

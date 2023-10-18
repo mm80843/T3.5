@@ -2,9 +2,9 @@
 
 # __develop waste management strategies that prioritize recycling and upcycling of construction and demolition waste__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q180388](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q180388.md)
+* [Improvements in wastewater, waste management, sanitation, water purification, and plumbing technologies aim for sustainable and efficient infrastructure development.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_234.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [waste management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3440.md)
 * [Recycling infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2392.md)
 * [recycling infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2003.md)
+
+## This Technology is identified by the following QID
+
+* [Q180388](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q180388.md)
 

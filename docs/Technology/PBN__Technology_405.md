@@ -2,15 +2,15 @@
 
 # __remote monitoring technologies__
 
+## Category to which it belongs
+
+* [Technologies and tools used for working, monitoring, communicating, and assessing remotely, including remote healthcare and education technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_215.md)
+
 ## Risks linked to this technology
 
 * [Spread of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_642.md)
 * [Decline in conservation efforts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1439.md)
 * [High healthcare costs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2042.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Remote Monitoring and Patient Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_108.md)
 
 ## Closest similar item
 
@@ -25,11 +25,15 @@
 * [Monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2228.md)
 * [remote monitoring and management of resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_14.md)
 
-## This Technology belongs to this TechGroup
-
-* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
-
 ## This Technology is identified by the following QID
 
 * [Q3546700](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3546700.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Remote Monitoring and Patient Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_108.md)
+
+## This Technology belongs to this TechGroup
+
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
 

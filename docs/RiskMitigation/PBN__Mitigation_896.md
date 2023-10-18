@@ -2,9 +2,9 @@
 
 # __Testing for the virus__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [testing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3527.md)
+* [Expansive array of methods, including biomarkers, self-reported symptoms, and AI-powered diagnostics, used for widespread and rapid testing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_179.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Monitoring sewage for virus detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1633.md)
 * [Infectious disease monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Lack of knowledge of infection status](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2801.md)
-
 ## Property: has_MitigationPrinciple
 
 Enables construction workers to know their infection status and take appropriate precautions
 
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of knowledge of infection status](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2801.md)
+
 ## Property: has_MitigationSource
 
 * [The impact of COVID-19 outbreak on United Kingdom infrastructure sector](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_141.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [testing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3527.md)
 

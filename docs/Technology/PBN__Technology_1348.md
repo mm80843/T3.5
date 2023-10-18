@@ -2,9 +2,9 @@
 
 # __data modeling standards__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q367664](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q367664.md)
+* [Data-driven insights and analysis for decision making, anonymized data, transparency, visualization, and advanced techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_205.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [industry standards and guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3872.md)
 * [data analysis and modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_299.md)
 * [Data analysis and modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2055.md)
+
+## This Technology is identified by the following QID
+
+* [Q367664](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q367664.md)
 

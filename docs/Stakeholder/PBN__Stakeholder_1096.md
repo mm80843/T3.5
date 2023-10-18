@@ -2,9 +2,9 @@
 
 # __communities relying on tube wells for drinking water__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Arsenic exposure in Bangladesh resulting from the construction of tube wells](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1663.md)
+* [Collective inhabitants of various social groups, including rural women with ovarian cancer, who reside within different types of communities and rely on diverse support networks for community engagement.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_386.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [water utilities/public sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_398.md)
 * [water treatment facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1087.md)
 * [water utilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_329.md)
+
+## Risk affecting this stakeholder
+
+* [Arsenic exposure in Bangladesh resulting from the construction of tube wells](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1663.md)
 

@@ -2,9 +2,9 @@
 
 # __males and females__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Gender differences in green space benefits](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2117.md)
+* [Individuals of different ages, including children, parents, migrants, and vulnerable groups, such as women and racial minorities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_389.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [specifically men](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_351.md)
 * [women](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_23.md)
 * [Particularly female](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2105.md)
+
+## Risk affecting this stakeholder
+
+* [Gender differences in green space benefits](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2117.md)
 

@@ -2,9 +2,9 @@
 
 # __Unavailability and increased costs of healthy foods__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Increase cooking and eating at home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1532.md)
+* [The intersection of human activity and health, integrating databases, limited healthcare access, sedentary lifestyles, neglecting public health requirements, and disparities in urban design contribute to public health concerns.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_116.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Food supply disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3356.md)
 * [Impact on food sector](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_482.md)
 * [Visible costs of policies versus unseen health benefits](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1491.md)
+
+## Mitigations of this risk
+
+* [Increase cooking and eating at home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1532.md)
 

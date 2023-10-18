@@ -2,13 +2,9 @@
 
 # __Policy reforms and increased investment__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Decline of public and social housing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_385.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved supply and affordability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_520.md)
+* [Promote sustainable development through infrastructure investments, training, diversification, financial support, and government partnerships.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_315.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Local investment and leadership](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1066.md)
 * [Financial interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1013.md)
 * [Economic stimulus, support for affected industries](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2130.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved supply and affordability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_520.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Decline of public and social housing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_385.md)
 

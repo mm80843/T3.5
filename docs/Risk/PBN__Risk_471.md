@@ -2,9 +2,9 @@
 
 # __Poor surface water drainage and waste management__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Enhancing drainage systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_661.md)
+* [The challenges of urban water management include water contamination, waste management, inadequate water storage, and poor drainage.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_120.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Investments in improving water storage, sanitation, drainage, and housing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_475.md)
 * [Poor waste disposal](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2728.md)
 * [Inadequate waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1067.md)
+
+## Mitigations of this risk
+
+* [Enhancing drainage systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_661.md)
 

@@ -2,8 +2,9 @@
 
 # __3D printing for component manufacturing__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
+* [The range of materials and techniques listed includes various disinfectants, nanomaterials, manufacturing methods, coatings, sustainability measures, and analytical tools.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_237.md)
 
 ## Closest similar item
 
@@ -18,11 +19,14 @@
 * [advanced manufacturing techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1557.md)
 * [flexible production technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3817.md)
 
-## This Technology belongs to this TechGroup
-
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
-
 ## This Technology is identified by the following QID
 
 * [Q229367](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q229367.md)
+
+## This Technology belongs to this TechSubgroup
+
+
+## This Technology belongs to this TechGroup
+
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 

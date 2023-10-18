@@ -2,10 +2,9 @@
 
 # __Contact Tracing and Testing of Close Contacts__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_403.md)
-* [contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_404.md)
+* [Mapping, tracking, and monitoring tools for contact tracing and tracking movements and transmission through various apps and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_158.md)
 
 ## Closest similar item
 
@@ -20,14 +19,19 @@
 * [Contact Tracing Application](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1929.md)
 * [Increased Testing and Contact Tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_711.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Identifying and testing individuals who have been in close contact with COVID-19 cases to prevent further transmission.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [COVID-19 Prevention and Control Measures in Workplace Settings: A Rapid Review and Meta-Analysis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_255.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_403.md)
+* [contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_404.md)
 

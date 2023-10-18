@@ -2,9 +2,9 @@
 
 # __skype__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Teleconference Format for Academic Conferences](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_428.md)
+* [Enhanced connectivity and diverse communication platforms enable the dissemination of reliable information and promote open communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_225.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4122.md)
 * [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4548.md)
 * [wi-fi)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3387.md)
+
+## This Technology enables the following mitigations
+
+* [Teleconference Format for Academic Conferences](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_428.md)
 

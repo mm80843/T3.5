@@ -2,9 +2,9 @@
 
 # __Limited accessibility to green spaces during lockdowns__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Green retrofit of buildings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_423.md)
+* [Lockdowns exacerbate social inequalities, limit access to green spaces, shift energy demands, cause delays, and impact mental health.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_102.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [No access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1543.md)
 * [Lack of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1302.md)
 * [Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1889.md)
+
+## Mitigations of this risk
+
+* [Green retrofit of buildings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_423.md)
 

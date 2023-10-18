@@ -2,13 +2,9 @@
 
 # __Promote physical activity in greenspaces__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Exposure to greenspace and physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_172.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved physical well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_228.md)
+* [Promote biodiversity and sustainable urban development through the establishment and accessibility of green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_322.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Increase greenspace availability](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_209.md)
 * [Increase greenspace availability in deprived areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2915.md)
 * [Encourage and provide resources for individuals to engage in regular physical activity at home or in limited outdoor spaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2277.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved physical well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_228.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Exposure to greenspace and physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_172.md)
 

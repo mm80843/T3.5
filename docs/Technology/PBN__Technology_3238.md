@@ -2,12 +2,9 @@
 
 # __exercise equipment__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Exercising at home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_447.md)
-* [Multicomponent exercise program](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_450.md)
-* [Regular Physical Activity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1239.md)
-* [Regular Exercise](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1240.md)
+* [Safety and operational tools for various fields, including healthcare, cleaning, maintenance, and emergency preparation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_212.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [medical equipment and personnel](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4197.md)
 * [fitness tracking devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_407.md)
 * [Fitness tracking devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2182.md)
+
+## This Technology enables the following mitigations
+
+* [Exercising at home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_447.md)
+* [Multicomponent exercise program](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_450.md)
+* [Regular Physical Activity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1239.md)
+* [Regular Exercise](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1240.md)
 

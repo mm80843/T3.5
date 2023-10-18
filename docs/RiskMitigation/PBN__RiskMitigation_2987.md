@@ -2,9 +2,9 @@
 
 # __Enhanced security measures__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Bioterrorism threats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2299.md)
+* [Data privacy and security are prioritized through encryption, access controls, consent, and robust cybersecurity measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_335.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement encryption, access control measures, and regular security audits](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1691.md)
 * [Implement robust cybersecurity measures, including encryption, secure data storage, regular system updates, and employee training on cybersecurity awareness. Develop contingency plans for potential cyber attacks.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2511.md)
 * [Security challenges](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_32.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Bioterrorism threats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2299.md)
 

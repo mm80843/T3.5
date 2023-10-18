@@ -2,10 +2,9 @@
 
 # __Water and Sanitary System Safety__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_835.md)
-* [routine flushing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3946.md)
+* [Strengthening waste management and surveillance, utilizing wastewater-based epidemiology, to improve environmental sanitation and water quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_9.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Disinfection of water](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1230.md)
 * [Water management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1114.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Microbiological contaminants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3160.md)
-
 ## Property: has_MitigationPrinciple
 
 Maintain water tank and sanitary systems
 
+## Risks possibly mitigated by this Mitigation
+
+* [Microbiological contaminants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3160.md)
+
 ## Property: has_MitigationSource
 
 * [COVID-19 Experience Transforming the Protective Environment of Office Buildings and Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_120.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_835.md)
+* [routine flushing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3946.md)
 

@@ -2,9 +2,9 @@
 
 # __Recycling of contaminated air within the HVAC system__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Avoidance of air recirculation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1431.md)
+* [Insufficient ventilation and indoor air pollution pose a risk to air quality and respiratory health, exacerbated by inadequate airflow control, limited natural ventilation, and air recirculation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_128.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Discharge of dirt and dust into occupied spaces during cleaning of HVAC systems and ductwork](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3061.md)
 * [Lack of air disinfection in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_274.md)
 * [Air recirculation in ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1777.md)
+
+## Mitigations of this risk
+
+* [Avoidance of air recirculation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1431.md)
 

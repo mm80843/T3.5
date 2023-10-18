@@ -2,13 +2,9 @@
 
 # __healthcare settings__
 
-## This Stakeholder can get these Benefits from mitigation measures
+## Category to which it belongs
 
-* [Protection of healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_681.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q1358017](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1358017.md)
+* [Those involved in the provision and management of healthcare services, including workers, professionals, facilities, and users.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_355.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [healthcare professionals in healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1002.md)
 * [healthcare providers and patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_120.md)
 * [healthcare facility](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1254.md)
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Protection of healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_681.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q1358017](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1358017.md)
 

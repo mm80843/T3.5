@@ -2,9 +2,9 @@
 
 # __inclusive policies and programs__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Promoting inclusivity in development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1078.md)
+* [Government programs and initiatives provide support, training, and financial assistance for education, healthcare, employment, and overall well-being.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_210.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [government policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1853.md)
 * [policy support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1609.md)
 * [community policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2996.md)
+
+## This Technology enables the following mitigations
+
+* [Promoting inclusivity in development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1078.md)
 

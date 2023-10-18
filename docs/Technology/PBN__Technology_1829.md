@@ -2,9 +2,9 @@
 
 # __improved public transportation services__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q178512](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q178512.md)
+* [Enhancing accessibility and support through a range of remote healthcare, counseling, transportation, and translation services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_213.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2911.md)
 * [active transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1155.md)
 * [transportation planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_661.md)
+
+## This Technology is identified by the following QID
+
+* [Q178512](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q178512.md)
 

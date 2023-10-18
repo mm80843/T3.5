@@ -2,9 +2,9 @@
 
 # __virtual nfs__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q261788](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q261788.md)
+* [Measures promoting accountability, media control, real-time updates, and virtual experiences for physical distancing and education.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [virtual communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_172.md)
 * [virtual communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_144.md)
 * [virtual experiences](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2207.md)
+
+## This Technology is identified by the following QID
+
+* [Q261788](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q261788.md)
 

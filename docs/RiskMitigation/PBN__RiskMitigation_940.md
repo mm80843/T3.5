@@ -2,13 +2,9 @@
 
 # __Government support__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Pandemic impact on SMEs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_676.md)
-
-## Property: has_MitigationBenefit
-
-* [Financial relief](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_34.md)
+* [Promote sustainable development through infrastructure investments, training, diversification, financial support, and government partnerships.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_315.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Government financial programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_943.md)
 * [Provide financial support to affected individuals and businesses, maintain access to essential services.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2485.md)
 * [Provide support and financial assistance to developing countries, promote debt relief and global cooperation.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2953.md)
+
+## Property: has_MitigationBenefit
+
+* [Financial relief](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_34.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Pandemic impact on SMEs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_676.md)
 

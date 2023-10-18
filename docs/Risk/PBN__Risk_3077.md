@@ -2,9 +2,9 @@
 
 # __Financial strain on government budgets__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Support for Unemployed Individuals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1449.md)
+* [Financial vulnerability and instability permeate various sectors and industries, hindering growth, sustainability, and access to resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_114.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Limited financial resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2871.md)
 * [Public criticism of funding plans](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2851.md)
 * [Cash flow issues and financial instability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2807.md)
+
+## Mitigations of this risk
+
+* [Support for Unemployed Individuals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1449.md)
 

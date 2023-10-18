@@ -2,9 +2,9 @@
 
 # __building insulation materials__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Improved Building Insulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1782.md)
+* [Explore a diverse range of materials, from sound-absorbing to eco-friendly, that contribute to innovative building solutions and educational resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_222.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Advanced building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2662.md)
 * [proper insulation materials and cleaning procedures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3868.md)
 * [building material technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1109.md)
+
+## This Technology enables the following mitigations
+
+* [Improved Building Insulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1782.md)
 

@@ -2,9 +2,9 @@
 
 # __Hospital Patients__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [hospital patient](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1877.md)
+* [Healthcare stakeholders comprising workers, agencies, providers, individuals, and patients promoting well-being and addressing health conditions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_247.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Individuals with Health Conditions](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_76.md)
 * [Emergency Services and Management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_166.md)
 * [Workers/Professionals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_47.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [hospital patient](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1877.md)
 

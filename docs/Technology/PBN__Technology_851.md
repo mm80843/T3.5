@@ -2,9 +2,9 @@
 
 # __alcohols__
 
-## Risks linked to this technology
+## Category to which it belongs
 
-* [Persistence of coronavirus on inanimate surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1548.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [use of alcohol-based hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_505.md)
 * [use of bleach solutions or alcohol-based cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_500.md)
 * [medications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3886.md)
+
+## Risks linked to this technology
+
+* [Persistence of coronavirus on inanimate surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1548.md)
 

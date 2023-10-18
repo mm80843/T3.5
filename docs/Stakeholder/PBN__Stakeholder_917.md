@@ -2,14 +2,9 @@
 
 # __occupants of buildings__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Inadequate crisis preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1961.md)
-* [Artificially lit and ventilated spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1959.md)
-* [Lack of connection with nature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_114.md)
-* [Lack of physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1960.md)
-* [Lack of hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1485.md)
-* [Lack of occupant awareness and behavior](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1412.md)
+* [Individuals residing or working within various types of buildings, including residential, commercial, and healthcare facilities, as well as those in inadequately designed or poorly ventilated spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_391.md)
 
 ## Closest similar item
 
@@ -23,4 +18,13 @@
 * [building occupants in all types of buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_654.md)
 * [occupants of buildings and organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_915.md)
 * [Occupants of buildings and organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2573.md)
+
+## Risk affecting this stakeholder
+
+* [Inadequate crisis preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1961.md)
+* [Artificially lit and ventilated spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1959.md)
+* [Lack of connection with nature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_114.md)
+* [Lack of physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1960.md)
+* [Lack of hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1485.md)
+* [Lack of occupant awareness and behavior](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1412.md)
 

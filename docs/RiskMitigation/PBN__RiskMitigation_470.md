@@ -2,13 +2,9 @@
 
 # __Revised work schedules__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Changes in work schedules for nursing staff](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_359.md)
-
-## Property: has_MitigationBenefit
-
-* [Work-life balance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_453.md)
+* [Ensuring equitable access, promoting flexible work, implementing safety measures, and providing support for remote work and flexible schedules.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_323.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implementation of flexible work policies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_891.md)
 * [Implement remote work, flexible schedules, prioritize worker safety](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1531.md)
 * [Implement flexible working arrangements, remote working, and training programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1791.md)
+
+## Property: has_MitigationBenefit
+
+* [Work-life balance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_453.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Changes in work schedules for nursing staff](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_359.md)
 

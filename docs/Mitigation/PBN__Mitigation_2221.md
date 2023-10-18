@@ -2,8 +2,9 @@
 
 # __Computer simulations__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Enabling technology and tools for connectivity, privacy, convenience, and efficient communication in a digital age.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_156.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Machine learning models](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2369.md)
 * [Artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2218.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Spread of the disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3392.md)
-
 ## Property: has_MitigationPrinciple
 
 Using computer simulations to predict the spread of the disease and evaluate the impact of preventive measures
 
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of the disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3392.md)
+
 ## Property: has_MitigationSource
 
 * [Social distancing enhanced automated optimal design of physical spaces in the wake of the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_186.md)
+
+## This Mitigation is enabled by the following technologies
+
 

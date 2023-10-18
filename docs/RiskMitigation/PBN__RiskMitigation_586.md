@@ -2,13 +2,9 @@
 
 # __Utilization of molecular technologies__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Demand for vaccine development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_423.md)
-
-## Property: has_MitigationBenefit
-
-* [Faster vaccine development](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_580.md)
+* [Accelerate the shift to digitalization by embracing emerging technologies and implementing innovative solutions across various sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_346.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Use of new smart/innovative technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_214.md)
 * [Integration of new technologies (digital PCR, CSRPP, LOC/POC, biosensors)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_878.md)
 * [Select anti-microbial materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2864.md)
+
+## Property: has_MitigationBenefit
+
+* [Faster vaccine development](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_580.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Demand for vaccine development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_423.md)
 

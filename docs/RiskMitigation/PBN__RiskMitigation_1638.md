@@ -2,9 +2,9 @@
 
 # __Improve access to healthcare, address health disparities, implement equity-focused policies.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Health Disparities and Equity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1186.md)
+* [Promote public health through policy implementation, strengthened systems, health literacy, and targeted interventions for vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_314.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement policies that address social and economic inequalities, ensure equal access to essential services, and support vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1836.md)
 * [Increase investment in healthcare infrastructure and disease surveillance systems, improve access to healthcare services.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2730.md)
 * [Improve healthcare infrastructure, increase funding for healthcare services, implement telemedicine and mobile healthcare solutions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1898.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Health Disparities and Equity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1186.md)
 

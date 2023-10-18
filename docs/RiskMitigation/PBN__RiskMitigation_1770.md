@@ -2,9 +2,9 @@
 
 # __Increase access to private gardens, allocate dedicated time slots for outdoor activities, create temporary green spaces in urban areas__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Limited access to green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1289.md)
+* [Promote biodiversity and sustainable urban development through the establishment and accessibility of green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_322.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Create and maintain green spaces, establish green infrastructure policies in urban planning, promote nature-based solutions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1897.md)
 * [Increase the availability and accessibility of green spaces close to residential areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2580.md)
 * [Encourage utilization of private green spaces, create guidelines for safe access, facilitate use of nearby green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2766.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limited access to green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1289.md)
 

@@ -2,13 +2,9 @@
 
 # __Wastewater-based epidemiology (WBE) surveillance__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Detection of asymptomatic cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_636.md)
-
-## Property: has_MitigationBenefit
-
-* [Early detection of virus spreading in communities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_881.md)
+* [Implement wastewater surveillance techniques to detect viral presence, optimize treatment processes, and inform public health interventions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_308.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Develop quantitative models that consider various factors affecting wastewater surveillance data to improve interpretation and estimation of prevalence.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2562.md)
 * [Sewage epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1001.md)
 * [Wastewater-based monitoring (WBE)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_0.md)
+
+## Property: has_MitigationBenefit
+
+* [Early detection of virus spreading in communities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_881.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Detection of asymptomatic cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_636.md)
 

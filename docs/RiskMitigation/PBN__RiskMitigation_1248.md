@@ -2,13 +2,9 @@
 
 # __Evaluate the use of the__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of logical consistency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_906.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved logical](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1238.md)
+* [Efforts include RNA monitoring, occupant exposure modeling, targeted messages, adoption of principles, copper coating, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_311.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Use of digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_707.md)
 * [Pooled-sample analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1022.md)
 * [Provide accurate](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_761.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved logical](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1238.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of logical consistency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_906.md)
 

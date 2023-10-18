@@ -2,9 +2,9 @@
 
 # __Lack of resources in LMIC__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [AI-based tools for resource-limited settings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1399.md)
+* [Insufficient awareness, limited resources, inadequate communication, and lack of preparedness contribute to various challenges and deficiencies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_118.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Limited data collection in LMIC](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3052.md)
 * [Lack of treatment and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2070.md)
 * [Ineffective resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2935.md)
+
+## Mitigations of this risk
+
+* [AI-based tools for resource-limited settings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1399.md)
 

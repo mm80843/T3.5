@@ -2,9 +2,9 @@
 
 # __Mechanisms__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Investigating droplet physics and chemistry](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_263.md)
+* [A compilation of topics including energy use, mechanisms, gender inequality, contractual issues, musculoskeletal disorders, and mental health among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_136.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Engineering controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2142.md)
 * [Lack of coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3438.md)
 * [Lack of knowledge on disease transmission mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_6.md)
+
+## Mitigations of this risk
+
+* [Investigating droplet physics and chemistry](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_263.md)
 

@@ -2,13 +2,9 @@
 
 # __Combining telemedicine with wearable technology for remote monitoring__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Integration of telemedicine with wearables](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_688.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduced need for face-to-face appointments](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_958.md)
+* [The trend towards remote and digital healthcare is encompassing telecommuting, telehealth, teleconferencing, wearable technology, touchless technologies, and mobile applications.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_328.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Remote exercise monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1175.md)
 * [Implement telemedicine services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_49.md)
 * [Remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1003.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced need for face-to-face appointments](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_958.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Integration of telemedicine with wearables](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_688.md)
 

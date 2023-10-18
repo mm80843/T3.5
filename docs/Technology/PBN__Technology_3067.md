@@ -2,9 +2,9 @@
 
 # __access to windows__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Opening windows](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_221.md)
+* [These resources aim to enhance security, convenience, and efficiency in managing access, spaces, and systems within various environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_206.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [access control system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3007.md)
 * [operable windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3938.md)
 * [smart windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4347.md)
+
+## This Technology enables the following mitigations
+
+* [Opening windows](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_221.md)
 

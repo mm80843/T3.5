@@ -2,9 +2,9 @@
 
 # __False claims and harmful actions__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Differentiate](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_874.md)
+* [The proliferation of false and misleading information, misinformation, and inaccurate news during pandemics creates confusion and a lack of trust in reliable sources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_127.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [False negatives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2761.md)
 * [Misleading Information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_971.md)
 * [Misleading information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3462.md)
+
+## Mitigations of this risk
+
+* [Differentiate](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_874.md)
 

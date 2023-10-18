@@ -2,9 +2,9 @@
 
 # __digital integration tools__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Digital care processes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1723.md)
+* [The digital revolution encompasses various aspects, from online promotion to contactless payment systems and virtual learning platforms.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_190.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [data integration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_114.md)
 * [Data integration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2079.md)
 * [integration programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3898.md)
+
+## This Technology enables the following mitigations
+
+* [Digital care processes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1723.md)
 

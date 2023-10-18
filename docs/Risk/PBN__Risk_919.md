@@ -2,9 +2,9 @@
 
 # __Impact on informal street economy__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Integrating informal street vendors and workers into public space design and regulations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1265.md)
+* [The ramifications of global connectivity include economic instability, impacts of the pandemic, unemployment, poverty, reduced tourism revenue, and decline in public budgets.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_103.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Economic impacts, social impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2916.md)
 * [Economic impact, mobility restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2773.md)
 * [Impact of COVID-19 on urban economies and employment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_755.md)
+
+## Mitigations of this risk
+
+* [Integrating informal street vendors and workers into public space design and regulations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1265.md)
 

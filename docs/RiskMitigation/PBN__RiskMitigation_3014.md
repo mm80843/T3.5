@@ -2,9 +2,9 @@
 
 # __Develop stricter protocols for cruise ship docking and disembarkation.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Cruise ship docking](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2319.md)
+* [Implementing a comprehensive package of measures to ensure the smooth functioning and safety of essential services and activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_6.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Enhance practical capacity to comply](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1214.md)
 * [Implement strict social distancing protocols, including spacing out workstations, staggering breaks, and limiting the number of workers in confined spaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1655.md)
 * [Limit the number of occupants, enforce capacity limits, stagger schedules](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2340.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Cruise ship docking](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2319.md)
 

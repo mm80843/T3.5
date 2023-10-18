@@ -2,13 +2,9 @@
 
 # __IoT technologies (IoT, AI, Big data, VR)__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Covid-19 crisis management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_118.md)
-
-## Property: has_MitigationBenefit
-
-* [Efficient management of Covid-19 crisis](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_160.md)
+* [Enrich education through digital tools, virtual experiences, remote learning, and alternative forms of exercise and interaction.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_3.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Deploy telehealth solutions, use of AI and robotics in healthcare, support research and development efforts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2400.md)
 * [Virtual care platforms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_638.md)
 * [IoT data monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1325.md)
+
+## Property: has_MitigationBenefit
+
+* [Efficient management of Covid-19 crisis](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_160.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Covid-19 crisis management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_118.md)
 

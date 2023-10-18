@@ -2,9 +2,9 @@
 
 # __startup community__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Relational Capability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1023.md)
+* [Enhanced connectivity and diverse communication platforms enable the dissemination of reliable information and promote open communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_225.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [community engagement platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_966.md)
 * [community policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2996.md)
 * [community support groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_75.md)
+
+## This Technology enables the following mitigations
+
+* [Relational Capability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1023.md)
 

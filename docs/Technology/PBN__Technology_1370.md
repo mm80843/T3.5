@@ -2,9 +2,9 @@
 
 # __market analysis tools__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q6770838](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6770838.md)
+* [Advanced analytics, fact-checking, project management, reliable sources, knowledge extraction, and collaboration ensure accurate information dissemination and effective decision-making.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_192.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [research and data analysis technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1312.md)
 * [Research and data analysis technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2063.md)
 * [forecasting tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_820.md)
+
+## This Technology is identified by the following QID
+
+* [Q6770838](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6770838.md)
 

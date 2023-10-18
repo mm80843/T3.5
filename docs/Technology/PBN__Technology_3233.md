@@ -2,9 +2,9 @@
 
 # __video game consoles__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Exergames](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_67.md)
+* [Measures promoting accountability, media control, real-time updates, and virtual experiences for physical distancing and education.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [vr devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3763.md)
 * [media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4345.md)
 * [expansion of digital platforms and virtual experiences](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2738.md)
+
+## This Technology enables the following mitigations
+
+* [Exergames](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_67.md)
 

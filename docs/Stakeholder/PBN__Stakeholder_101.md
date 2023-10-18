@@ -2,27 +2,9 @@
 
 # __students__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q48282](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q48282.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
-* [Education](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_1.md)
-
-## Closest similar item
-
-* [student](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1642.md)
-* [students and young workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_224.md)
-* [educators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_43.md)
-* [schools](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_366.md)
-* [teachers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_102.md)
-* [Teachers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1649.md)
-* [students from low-income backgrounds](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_410.md)
-* [school](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1639.md)
-* [University staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1745.md)
-* [educational institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_66.md)
+* [Experts from various fields including research, risk assessment, education, science, HVAC, and IT.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_356.md)
 
 ## Risk affecting this stakeholder
 
@@ -46,9 +28,18 @@
 * [Schoolchildren and children in day care](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1354.md)
 * [Transmission in closed spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1943.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Closest similar item
 
-* [Students](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_19.md)
+* [student](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1642.md)
+* [students and young workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_224.md)
+* [educators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_43.md)
+* [schools](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_366.md)
+* [teachers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_102.md)
+* [Teachers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1649.md)
+* [students from low-income backgrounds](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_410.md)
+* [school](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1639.md)
+* [University staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1745.md)
+* [educational institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_66.md)
 
 ## This Stakeholder can get these Benefits from mitigation measures
 
@@ -62,4 +53,17 @@
 * [Access to education](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_985.md)
 * [Secure environment for online education](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1057.md)
 * [Online learning and virtual classes](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1161.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Students](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_19.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q48282](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q48282.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
+* [Education](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_1.md)
 

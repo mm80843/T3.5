@@ -2,9 +2,9 @@
 
 # __context-specific initiatives__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Building resilient food systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_81.md)
+* [Measures promoting accountability, media control, real-time updates, and virtual experiences for physical distancing and education.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [public awareness initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_446.md)
 * [placemaking initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1802.md)
 * [Placemaking initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2743.md)
+
+## This Technology enables the following mitigations
+
+* [Building resilient food systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_81.md)
 

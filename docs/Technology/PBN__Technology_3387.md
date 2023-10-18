@@ -2,9 +2,9 @@
 
 # __wi-fi)__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Wireless data transmission](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_694.md)
+* [Enhanced connectivity and diverse communication platforms enable the dissemination of reliable information and promote open communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_225.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [internet connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_572.md)
 * [Internet connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2849.md)
 * [phone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1094.md)
+
+## This Technology enables the following mitigations
+
+* [Wireless data transmission](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_694.md)
 

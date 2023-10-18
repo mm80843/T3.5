@@ -2,9 +2,9 @@
 
 # __Implementation of safety protocols, including personal protective equipment (PPE), proper handling and disposal of samples, and adherence to biosafety guidelines, can minimize the risk of exposure and spread of the virus in the laboratory.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Safety of laboratory personnel and environment during sample handling and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1628.md)
+* [Implement comprehensive strategies to control virus transmission, improve surveillance, develop antiviral coatings, and enhance infection control measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_309.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Providing additional personal protective equipment (PPE) to workers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1061.md)
 * [Facilitate the availability and use of PPE such as masks, gloves, and hand sanitizers for all individuals in the facility](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2027.md)
 * [Implementation of infection prevention and control measures, screening and testing protocols.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2594.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Safety of laboratory personnel and environment during sample handling and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1628.md)
 

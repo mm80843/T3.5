@@ -2,9 +2,9 @@
 
 # __Quarantine, self-isolation, and lockdown__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Family-based exercise programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1176.md)
+* [A list of challenges and uncertainties surrounding the impact and response to various events and crises in different sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_124.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Risk of external seeding events and uncontrolled quarantines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2122.md)
 * [Reduction in length of quarantine period](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_786.md)
 * [Ineffective use of isolation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_547.md)
+
+## Mitigations of this risk
+
+* [Family-based exercise programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1176.md)
 

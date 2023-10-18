@@ -2,9 +2,9 @@
 
 # __Facilitating essential services__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Provision of community-level key public places](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_414.md)
+* [Limited monitoring, technical limitations, language barriers, expensive optimization, lack of connection with nature, and limited sensor diversity hinder effective response and resource allocation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_107.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Limited engagement of professionals and lack of comprehensive support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2451.md)
 * [Limited access to services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3436.md)
 * [Flexible public places to support essential sectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_268.md)
+
+## Mitigations of this risk
+
+* [Provision of community-level key public places](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_414.md)
 

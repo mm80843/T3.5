@@ -6,6 +6,10 @@
 
 * [Ensured privacy and data protection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1377.md)
 
+## Category to which it belongs
+
+* [All those involved in the management, access, and utilization of data in various communities and industries.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_358.md)
+
 ## Closest similar item
 
 * [data scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_627.md)

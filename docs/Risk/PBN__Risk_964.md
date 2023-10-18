@@ -2,9 +2,9 @@
 
 # __Lack of access to clean cooking fuels__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Development and promotion of cleaner cooking solutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1347.md)
+* [Lack of proper hygiene and sanitation practices result in inadequate access to clean water and facilities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_129.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of proper environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1142.md)
 * [Lack of environmental precautions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1331.md)
 * [Lack of access to clean water](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_238.md)
+
+## Mitigations of this risk
+
+* [Development and promotion of cleaner cooking solutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1347.md)
 

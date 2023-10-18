@@ -2,9 +2,9 @@
 
 # __such as mental health apps and online interventions__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q5097917](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5097917.md)
+* [Digital platforms and online resources facilitate collaboration, communication, and information sharing among individuals and organizations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_193.md)
 
 ## Risks linked to this technology
 
@@ -23,4 +23,8 @@
 * [online mental health resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1887.md)
 * [online mental health resources and support groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1436.md)
 * [digital mental health platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1634.md)
+
+## This Technology is identified by the following QID
+
+* [Q5097917](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5097917.md)
 

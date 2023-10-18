@@ -2,13 +2,9 @@
 
 # __Horizontal urban development__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Urban density and crowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_16.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved pandemic resilience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_28.md)
+* [Promote equitable, sustainable, and inclusive urban planning to enhance living conditions, mitigate overcrowding, and reduce disparities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_324.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Urban planning and design interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_667.md)
 * [Urban geometry](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_486.md)
 * [Expansion of urban green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_420.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved pandemic resilience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_28.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Urban density and crowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_16.md)
 

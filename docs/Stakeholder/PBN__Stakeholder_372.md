@@ -6,6 +6,10 @@
 
 * [Industry recovery](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_950.md)
 
+## Category to which it belongs
+
+* [Foreign nationals residing in or visiting various destinations for tourism, with a focus on travelers during the pandemic and the industries reliant on tourism, such as hotels, tourism operators, and tourism boards.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_380.md)
+
 ## Closest similar item
 
 * [tourism industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_196.md)

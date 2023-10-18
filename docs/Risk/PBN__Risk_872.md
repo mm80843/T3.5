@@ -2,8 +2,9 @@
 
 # __the lockdown__
 
-## Mitigations of this risk
+## Category to which it belongs
 
+* [Lockdowns exacerbate social inequalities, limit access to green spaces, shift energy demands, cause delays, and impact mental health.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_102.md)
 
 ## Closest similar item
 
@@ -17,4 +18,7 @@
 * [spaces during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2290.md)
 * [Inflexible or strict lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3390.md)
 * [Adversity facing innovative startups during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_558.md)
+
+## Mitigations of this risk
+
 

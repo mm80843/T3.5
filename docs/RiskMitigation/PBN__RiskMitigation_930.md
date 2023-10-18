@@ -2,13 +2,9 @@
 
 # __Reducing transmission routes of SARS-CoV-2__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Unexplained case of pneumonia reported in Hubei, China](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_666.md)
-
-## Property: has_MitigationBenefit
-
-* [Prevention of disease spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_765.md)
+* [Efforts to study, detect, and control the spread of SARS-CoV-2 in various environments and populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_353.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Monitoring heart rate recovery after contracting SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_947.md)
 * [Validate and optimize PCR assays to ensure accurate detection of SARS-CoV-2 genetic material.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3041.md)
 * [Use of portable air filters to remove SARS-CoV-2 particles from the air in hospital wards](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2834.md)
+
+## Property: has_MitigationBenefit
+
+* [Prevention of disease spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_765.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Unexplained case of pneumonia reported in Hubei, China](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_666.md)
 

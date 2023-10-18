@@ -2,13 +2,9 @@
 
 # __Establishing makeshift neighborhood food markets__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Impact of control measures on diet and physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_283.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved food accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_354.md)
+* [Enhance local self-sufficiency in shopping, recreation, and food production, while promoting sustainable practices and supporting resilient economies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_344.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Improve food systems planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_689.md)
 * [Transforming public places for essential uses, such as food distribution, medical support, etc.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1727.md)
 * [Improve self-sufficiency by enhancing shopping and recreation facilities within communities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1556.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved food accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_354.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Impact of control measures on diet and physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_283.md)
 

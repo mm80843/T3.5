@@ -2,14 +2,9 @@
 
 # __Composite space service facilities__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [COVID-19 outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_302.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved service efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1361.md)
-* [Enhanced resilience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_58.md)
+* [Implementing a comprehensive package of measures to ensure the smooth functioning and safety of essential services and activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_6.md)
 
 ## Closest similar item
 
@@ -23,4 +18,13 @@
 * [Designing containment space in residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_269.md)
 * [Access to common building spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_222.md)
 * [Ensure availability of private spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2890.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved service efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1361.md)
+* [Enhanced resilience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_58.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [COVID-19 outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_302.md)
 

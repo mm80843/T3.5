@@ -2,9 +2,9 @@
 
 # __temperature screening technology__
 
-## Risks linked to this technology
+## Category to which it belongs
 
-* [Risk of workplace transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1479.md)
+* [Various technologies and devices are used to measure and regulate temperature, including cameras, scanners, sensors, and thermostats.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_220.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [thermal screening systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_137.md)
 * [temperature detection devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3200.md)
 * [temperature monitoring devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1300.md)
+
+## Risks linked to this technology
+
+* [Risk of workplace transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1479.md)
 

@@ -2,9 +2,9 @@
 
 # __support services__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Panic button protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_732.md)
+* [Enhancing accessibility and support through a range of remote healthcare, counseling, transportation, and translation services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_213.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [community support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_595.md)
 * [Helpline services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2650.md)
 * [helpline services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_43.md)
+
+## This Technology enables the following mitigations
+
+* [Panic button protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_732.md)
 

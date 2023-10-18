@@ -2,9 +2,9 @@
 
 # __Decreasing revenues and illiquidity__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Immediate Relief](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1034.md)
+* [The ramifications of global connectivity include economic instability, impacts of the pandemic, unemployment, poverty, reduced tourism revenue, and decline in public budgets.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_103.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Decreased revenue for transport operations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_928.md)
 * [Negative economic effects on businesses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_785.md)
 * [Economic impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_961.md)
+
+## Mitigations of this risk
+
+* [Immediate Relief](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1034.md)
 

@@ -2,13 +2,9 @@
 
 # __Restorative common spaces__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of restorative spaces for social interactions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_955.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced social interactions and well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1316.md)
+* [Promote the integration of natural elements and communal areas, enhance accessibility and quality, and foster positive perception and functionality of public and private green and outdoor spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_331.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Accessible green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1228.md)
 * [Visible and accessible green elements and spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_799.md)
 * [Provide adequate housing with sufficient space](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1787.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced social interactions and well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1316.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of restorative spaces for social interactions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_955.md)
 

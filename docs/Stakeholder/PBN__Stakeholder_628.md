@@ -2,15 +2,9 @@
 
 # __it professionals__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Lack of Infrastructure for 5G Network](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1103.md)
-* [Data Acquisition and Integration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1096.md)
-* [Scalability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1101.md)
-
-## Risk affecting this stakeholder
-
-* [Lack of consensus on interoperability standards](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_812.md)
+* [Experts from various fields including research, risk assessment, education, science, HVAC, and IT.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_356.md)
 
 ## Closest similar item
 
@@ -24,4 +18,14 @@
 * [it experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1470.md)
 * [IT experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2631.md)
 * [Professional](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1808.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Lack of Infrastructure for 5G Network](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1103.md)
+* [Data Acquisition and Integration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1096.md)
+* [Scalability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1101.md)
+
+## Risk affecting this stakeholder
+
+* [Lack of consensus on interoperability standards](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_812.md)
 

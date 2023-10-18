@@ -2,6 +2,10 @@
 
 # __Support for children’s education__
 
+## Category to which it belongs
+
+* [Promoting well-being and resilience through various forms of support, resources, and assistance for individuals in need.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_143.md)
+
 ## Closest similar item
 
 * [Education programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_47.md)

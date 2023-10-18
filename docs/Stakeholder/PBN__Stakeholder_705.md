@@ -2,13 +2,9 @@
 
 # __facilities managers__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q1090219](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1090219.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+* [Managers responsible for overseeing various aspects of a building, including supply chain, facilities, construction projects, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_366.md)
 
 ## Closest similar item
 
@@ -23,10 +19,18 @@
 * [building owner and facility manager](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2030.md)
 * [facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1487.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
-
-
 ## Risks that can be mitigated by this stakeholder
 
 * [Limited effectiveness of upper-room UVGI if room air is not well mixed](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1174.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+
+## This Stakeholder is identified by the following QID
+
+* [Q1090219](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1090219.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 

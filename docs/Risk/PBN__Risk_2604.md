@@ -2,9 +2,9 @@
 
 # __Limited diagnostic tests__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Pre-targeting sub-populations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_511.md)
+* [The challenges include inadequate testing capacity, slow identification of cases, limited evidence, and variability in PCR methods.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_140.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3453.md)
 * [Inaccurate symptom screening](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_674.md)
 * [Limited access to testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2366.md)
+
+## Mitigations of this risk
+
+* [Pre-targeting sub-populations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_511.md)
 

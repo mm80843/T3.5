@@ -2,9 +2,9 @@
 
 # __balconies in apartment designs__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q4850264](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4850264.md)
+* [Design and construction professionals use innovative techniques and strategies to create adaptable, sustainable, and inclusive buildings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_217.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [outdoor spaces within apartment buildings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1271.md)
 * [building design and ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4390.md)
 * [urban design principles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_924.md)
+
+## This Technology is identified by the following QID
+
+* [Q4850264](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4850264.md)
 

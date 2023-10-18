@@ -2,25 +2,9 @@
 
 # __Reduced consumer spending__
 
-## Property: has_RiskHealth
+## Category to which it belongs
 
-* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_3.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Description of the risk
-
-Fear of contagion, income decline, and uncertainty lead to decreased consumer spending, impacting businesses' revenue and profitability.
-
-## Property: has_RiskType
-
-* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
-
-## Articles mentionning the risk
-
-* [COVID19: Small and medium enterprises challenges and responses with creativity, innovation, and entrepreneurship](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_194.md)
+* [The ramifications of global connectivity include economic instability, impacts of the pandemic, unemployment, poverty, reduced tourism revenue, and decline in public budgets.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_103.md)
 
 ## Closest similar item
 
@@ -35,35 +19,55 @@ Fear of contagion, income decline, and uncertainty lead to decreased consumer sp
 * [Increased waste, reduced waste recycling](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3460.md)
 * [Economic impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_961.md)
 
-## People affected by this risk
+## Description of the risk
 
-* [businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
-* [service providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_476.md)
-* [retailers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_323.md)
+Fear of contagion, income decline, and uncertainty lead to decreased consumer spending, impacting businesses' revenue and profitability.
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Property: has_RiskHealth
+
+* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_3.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Innovation, Creativity and research](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_2.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Education and capacity building](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_19.md)
+
+## Mitigations of this risk
+
+* [Creating value-based marketing strategies, offering discounts or promotions, and diversifying product/service offerings to meet changing consumer needs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2841.md)
+
+## Name of the risk
+
+Decreased sales, job losses, reduced business revenue.
 
 ## Stakeholders who can mitigate this risk
 
 * [businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
 * [marketing departments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1475.md)
 
-## Name of the risk
+## Articles mentionning the risk
 
-Decreased sales, job losses, reduced business revenue.
+* [COVID19: Small and medium enterprises challenges and responses with creativity, innovation, and entrepreneurship](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_194.md)
 
-## Mitigations of this risk
+## People affected by this risk
 
-* [Creating value-based marketing strategies, offering discounts or promotions, and diversifying product/service offerings to meet changing consumer needs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2841.md)
-
-## Property: has_RiskISO_Purpose
-
-* [Education and capacity building](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_19.md)
+* [businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
+* [service providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_476.md)
+* [retailers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_323.md)
 
 ## Technologies linked to the risk
 
 * [e-commerce platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_696.md)
 * [digital marketing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_908.md)
+
+## Property: has_RiskType
+
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 

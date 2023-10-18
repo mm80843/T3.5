@@ -2,9 +2,9 @@
 
 # __new data and technology__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Case identification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2323.md)
+* [Technological advancements encompass a wide range of innovations, such as blockchain, touchless, renewable energy, and communication technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [data collection and analysis technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_755.md)
 * [Data collection and analysis technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2529.md)
 * [data tracking and analysis technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4176.md)
+
+## This Technology enables the following mitigations
+
+* [Case identification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2323.md)
 

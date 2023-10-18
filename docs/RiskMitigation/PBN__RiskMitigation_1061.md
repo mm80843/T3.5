@@ -2,13 +2,9 @@
 
 # __Providing additional personal protective equipment (PPE) to workers__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Spread of COVID-19 on construction sites](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_771.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced worker protection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1059.md)
+* [Enforce safety measures, promote responsible behavior, utilize PPE, and prioritize risk prevention to ensure adequate protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_342.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implementing strict health and safety protocols, such as regular cleaning and disinfection, physical distancing, and use of personal protective equipment (PPE).](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2675.md)
 * [Provide appropriate PPE such as masks, gloves, and face shields to individuals at risk](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2262.md)
 * [Implement strict health and safety protocols on construction sites, provide personal protective equipment (PPE), and promote hygiene practices.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2618.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced worker protection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1059.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of COVID-19 on construction sites](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_771.md)
 

@@ -2,13 +2,9 @@
 
 # __Retrofitting existing buildings with containment space, additional wet cells, and compartmentalization__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Inadequate pandemic preparedness in existing building stock](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_230.md)
-
-## Property: has_MitigationBenefit
-
-* [Increased safety and reduced transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_284.md)
+* [Designing affordable, adaptable, and sustainable housing with improved building environments and optimized spatial layouts, while incorporating flexible and human-centric design elements and considering health, safety, and environmental parameters.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_326.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Provide adequate housing with sufficient space](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1787.md)
 * [Building ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_192.md)
 * [Incorporate proper building design strategies for ventilation, airflow, and social distancing. Design buildings with adequate space for ventilation and airflow.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2312.md)
+
+## Property: has_MitigationBenefit
+
+* [Increased safety and reduced transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_284.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inadequate pandemic preparedness in existing building stock](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_230.md)
 

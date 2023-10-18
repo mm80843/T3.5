@@ -2,9 +2,9 @@
 
 # __people with physical disabilities__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Limited accessibility to UGS](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1691.md)
+* [A diverse range of individuals, including citizens, pedestrians, people with disabilities, and those in crowded environments, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_368.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [and people with disabilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_108.md)
 * [individual with underlying health condition](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2257.md)
 * [individuals with mental health conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1417.md)
+
+## Risk affecting this stakeholder
+
+* [Limited accessibility to UGS](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1691.md)
 

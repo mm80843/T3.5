@@ -2,9 +2,9 @@
 
 # __low-income communities in urban areas__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Poor housing conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1065.md)
+* [Vulnerable and economically disadvantaged individuals and communities, including low-income workers, renters, and households, particularly in urban areas and minority communities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_375.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [urban communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_776.md)
 * [disadvantaged communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1143.md)
 * [individuals in low-income areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1566.md)
+
+## Risk affecting this stakeholder
+
+* [Poor housing conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1065.md)
 

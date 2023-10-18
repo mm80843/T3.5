@@ -2,13 +2,13 @@
 
 # __biometric identification__
 
+## Category to which it belongs
+
+* [A comprehensive range of advanced, interconnected devices that offer efficiency, convenience, and enhanced functionality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_238.md)
+
 ## Risks linked to this technology
 
 * [Global mobility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2073.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Authentication and Access Control](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_140.md)
 
 ## Closest similar item
 
@@ -23,11 +23,15 @@
 * [facial recognition systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1357.md)
 * [Facial recognition systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2433.md)
 
-## This Technology belongs to this TechGroup
-
-* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_5.md)
-
 ## This Technology is identified by the following QID
 
 * [Q67367587](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q67367587.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Authentication and Access Control](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_140.md)
+
+## This Technology belongs to this TechGroup
+
+* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_5.md)
 

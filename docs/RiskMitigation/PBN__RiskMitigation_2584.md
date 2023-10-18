@@ -2,9 +2,9 @@
 
 # __Ensure that teleworkers have access to appropriate ergonomic equipment and provide guidelines for proper setup.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of proper ergonomic setup in home office](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1971.md)
+* [The trend towards remote and digital healthcare is encompassing telecommuting, telehealth, teleconferencing, wearable technology, touchless technologies, and mobile applications.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_328.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Addition of external communication corridors and emphasis on stair usage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_273.md)
 * [Implement telehealth and telemedicine systems; increase healthcare infrastructure capacity; ensure access to essential healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2697.md)
 * [Provide necessary equipment and support for remote work.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2464.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of proper ergonomic setup in home office](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1971.md)
 

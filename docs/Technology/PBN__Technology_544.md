@@ -2,10 +2,9 @@
 
 # __transportation services__
 
-## Risks linked to this technology
+## Category to which it belongs
 
-* [Rural-urban disparities in access to gynecologic oncologist treatment for ovarian cancer](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1348.md)
-* [Limited access to UGS for vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2256.md)
+* [Enhancing accessibility and support through a range of remote healthcare, counseling, transportation, and translation services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_213.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [public transport](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3647.md)
 * [transportation planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_661.md)
 * [active transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1155.md)
+
+## Risks linked to this technology
+
+* [Rural-urban disparities in access to gynecologic oncologist treatment for ovarian cancer](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1348.md)
+* [Limited access to UGS for vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2256.md)
 

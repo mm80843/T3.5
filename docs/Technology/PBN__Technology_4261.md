@@ -2,9 +2,9 @@
 
 # __backup energy source__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Access to backup energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2140.md)
+* [Improved and energy-efficient HVAC systems, along with advanced technologies, for efficient energy management and environmental control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_227.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [access to modern energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1485.md)
 * [home energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3196.md)
 * [backup systems and capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4305.md)
+
+## This Technology enables the following mitigations
+
+* [Access to backup energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2140.md)
 

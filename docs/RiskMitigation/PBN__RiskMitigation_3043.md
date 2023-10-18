@@ -2,9 +2,9 @@
 
 # __Implement advanced treatment processes, such as ozonation or membrane filtration, to improve removal efficiency of SARS-CoV-2 RNA.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Ineffectiveness of conventional wastewater treatment processes in removing SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2341.md)
+* [Efforts to study, detect, and control the spread of SARS-CoV-2 in various environments and populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_353.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Optimize storage conditions and protocols to minimize degradation of viral RNA, conduct regular quality control checks on stored samples.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3076.md)
 * [Continue research and development of vaccines against SARS-CoV-2.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3065.md)
 * [Conduct more research and studies to gather sufficient evidence on the effectiveness of upper-room UVGI against SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1624.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Ineffectiveness of conventional wastewater treatment processes in removing SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2341.md)
 

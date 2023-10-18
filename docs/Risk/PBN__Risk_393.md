@@ -2,9 +2,9 @@
 
 # __Lack of evidence-informed decision-making__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Engaging decision-makers and stakeholders in setting priorities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_550.md)
+* [The proliferation of false and misleading information, misinformation, and inaccurate news during pandemics creates confusion and a lack of trust in reliable sources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_127.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of data-driven decision making](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2565.md)
 * [Ineffective dissemination of evidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_395.md)
 * [Lack of reliable information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2838.md)
+
+## Mitigations of this risk
+
+* [Engaging decision-makers and stakeholders in setting priorities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_550.md)
 

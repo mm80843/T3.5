@@ -2,13 +2,9 @@
 
 # __Proper ventilation in indoor spaces__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Virus Transmission through aerosol](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_509.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduced risk of aerosol transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_720.md)
+* [Enhance airflow, increase fresh air intake, and optimize ventilation systems to improve air quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_329.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_627.md)
 * [Ensuring proper ventilation, wearing masks in indoor settings with poor ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1762.md)
 * [Provide natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2874.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced risk of aerosol transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_720.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Virus Transmission through aerosol](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_509.md)
 

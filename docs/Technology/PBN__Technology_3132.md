@@ -2,13 +2,9 @@
 
 # __ventilation__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Environmental Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_755.md)
-* [Increased Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_708.md)
-* [Adequate Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1759.md)
-* [Engineering Controls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_298.md)
-* [Efficient Cooking Practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1781.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [compartmentalized ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4192.md)
 * [natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_270.md)
 * [Natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2235.md)
+
+## This Technology enables the following mitigations
+
+* [Environmental Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_755.md)
+* [Increased Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_708.md)
+* [Adequate Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1759.md)
+* [Engineering Controls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_298.md)
+* [Efficient Cooking Practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1781.md)
 

@@ -2,9 +2,9 @@
 
 # __Unemployment__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Employment protections](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1181.md)
+* [The challenges and consequences of the global pandemic include poor acoustics, noise pollution, food security, increase in inequality, waste, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_131.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Job losses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2173.md)
 * [Labour shortages](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_730.md)
 * [Job loss](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2683.md)
+
+## Mitigations of this risk
+
+* [Employment protections](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1181.md)
 

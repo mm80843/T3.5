@@ -2,9 +2,9 @@
 
 # __Social and gender disparities__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Remote work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_310.md)
+* [The ramifications of social distancing include inconsistent recommendations, increased violence, changes in social practices, and lack of interaction, among other social issues.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_96.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Gender inequalities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_449.md)
 * [Effects on gender equality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2267.md)
 * [Health Disparities and Equity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1186.md)
+
+## Mitigations of this risk
+
+* [Remote work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_310.md)
 

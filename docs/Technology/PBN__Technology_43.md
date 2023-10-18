@@ -2,9 +2,9 @@
 
 # __helpline services__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1482145](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1482145.md)
+* [Enhancing accessibility and support through a range of remote healthcare, counseling, transportation, and translation services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_213.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Hotlines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2191.md)
 * [web service](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3932.md)
 * [assistance programs for healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1283.md)
+
+## This Technology is identified by the following QID
+
+* [Q1482145](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1482145.md)
 

@@ -2,13 +2,9 @@
 
 # __Preprocessing disinfection__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Transmission of SARS-CoV-2 through sewage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_222.md)
-
-## Property: has_MitigationBenefit
-
-* [Prevention of transmission through sewage](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_277.md)
+* [Implement rigorous cleaning and disinfection measures, including the use of antimicrobial materials and advanced technologies, to maintain a safe and hygienic environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_2.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Regular cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2007.md)
 * [Implement improved cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_604.md)
 * [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1131.md)
+
+## Property: has_MitigationBenefit
+
+* [Prevention of transmission through sewage](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_277.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Transmission of SARS-CoV-2 through sewage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_222.md)
 

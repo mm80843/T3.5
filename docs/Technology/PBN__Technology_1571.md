@@ -2,9 +2,9 @@
 
 # __improved wireless communication nan technologies__
 
-## Risks linked to this technology
+## Category to which it belongs
 
-* [Connectivity issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2084.md)
+* [Technological advancements encompass a wide range of innovations, such as blockchain, touchless, renewable energy, and communication technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [data filtering and processing nan techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1577.md)
 * [nan promotion of outdoor nan nan activities during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1874.md)
 * [nan nan nan sound-activated nan nan nan nan elevator design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3991.md)
+
+## Risks linked to this technology
+
+* [Connectivity issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2084.md)
 

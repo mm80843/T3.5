@@ -2,12 +2,9 @@
 
 # __Blockchain and Cryptography__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [smart contracts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1234.md)
-* [Blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2612.md)
-* [Blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2605.md)
-* [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2604.md)
+* [Ensuring secure and anonymous data storage and transmission through advanced cryptographic techniques like blockchain and encryption.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_34.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [Communication and Data Sharing](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_3.md)
 * [IoT Devices and Protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_143.md)
 * [Internet of Things (IoT) and Smart Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_94.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [smart contracts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1234.md)
+* [Blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2612.md)
+* [Blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2605.md)
+* [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2604.md)
 

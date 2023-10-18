@@ -2,9 +2,9 @@
 
 # __task-shifting strategies__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q849826](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q849826.md)
+* [Measures promoting accountability, media control, real-time updates, and virtual experiences for physical distancing and education.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [communication strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_323.md)
 * [work practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3603.md)
 * [flexible working models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3949.md)
+
+## This Technology is identified by the following QID
+
+* [Q849826](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q849826.md)
 

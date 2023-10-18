@@ -2,9 +2,9 @@
 
 # __Temporary public panic from cruise ship docking__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Effective response to cruise ship case](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_96.md)
+* [A list of challenges and uncertainties surrounding the impact and response to various events and crises in different sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_124.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Increased fear, disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2644.md)
 * [General anxiety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1208.md)
 * [COVID-19 travel anxiety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1207.md)
+
+## Mitigations of this risk
+
+* [Effective response to cruise ship case](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_96.md)
 

@@ -2,10 +2,9 @@
 
 # __travelers to/from china__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [High number of flights](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2318.md)
-* [Proximity to China](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2317.md)
+* [Foreign nationals residing in or visiting various destinations for tourism, with a focus on travelers during the pandemic and the industries reliant on tourism, such as hotels, tourism operators, and tourism boards.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_380.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [individuals traveling from wuhan to other locations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1026.md)
 * [individuals traveling from Wuhan to other locations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2099.md)
 * [travellers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_553.md)
+
+## Risk affecting this stakeholder
+
+* [High number of flights](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2318.md)
+* [Proximity to China](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2317.md)
 

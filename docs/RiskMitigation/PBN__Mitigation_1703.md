@@ -2,10 +2,9 @@
 
 # __Telemedicine apps__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [telecommunication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2925.md)
-* [mobile app](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3748.md)
+* [Enhanced connectivity for remote healthcare, consultations, work, conferences, and learning through telecommunication technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_167.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Increased use of telehealth clinics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4144.md)
 * [Virtual clinics and tele-medicine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4145.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Limited accessibility, security and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3225.md)
-
 ## Property: has_MitigationPrinciple
 
 Allows remote consultations with healthcare professionals for medical advice, diagnosis, and treatment, reducing the risk of virus transmission in hospitals.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Limited accessibility, security and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3225.md)
+
 ## Property: has_MitigationSource
 
 * [Mobile Technology Solution for COVID-19: Surveillance and Prevention](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_239.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [telecommunication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2925.md)
+* [mobile app](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3748.md)
 

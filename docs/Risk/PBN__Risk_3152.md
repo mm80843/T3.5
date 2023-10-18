@@ -2,9 +2,9 @@
 
 # __Loneliness__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Restorative spaces to support positive social interactions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1597.md)
+* [A compilation of topics including energy use, mechanisms, gender inequality, contractual issues, musculoskeletal disorders, and mental health among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_136.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Isolation and Lack of Social Interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1080.md)
 * [Feeling of isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1109.md)
 * [Loneliness during COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_664.md)
+
+## Mitigations of this risk
+
+* [Restorative spaces to support positive social interactions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1597.md)
 

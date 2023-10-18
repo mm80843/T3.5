@@ -2,9 +2,9 @@
 
 # __double or triple-glazed windows conducive to airtight construction__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Glazed windows](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_813.md)
+* [Design and construction professionals use innovative techniques and strategies to create adaptable, sustainable, and inclusive buildings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_217.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [incorporate operable windows and natural ventilation for passive survivability](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1277.md)
 * [glass walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1265.md)
 * [increase window size](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1731.md)
+
+## This Technology enables the following mitigations
+
+* [Glazed windows](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_813.md)
 

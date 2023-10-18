@@ -2,13 +2,9 @@
 
 # __vulnerable patients__
 
-## This Stakeholder can get these Benefits from mitigation measures
+## Category to which it belongs
 
-* [Telemedicine consultations](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_460.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q3376054](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3376054.md)
+* [Individuals affected by various medical conditions, including COVID-19, seeking information and care.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_394.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [especially vulnerable population and individual with pre-existing health condition](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2124.md)
 * [Particularly child and vulnerable individual](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2228.md)
 * [vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_127.md)
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Telemedicine consultations](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_460.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q3376054](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3376054.md)
 

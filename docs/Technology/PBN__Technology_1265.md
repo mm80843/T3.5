@@ -2,9 +2,9 @@
 
 # __glass walls__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q86006588](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q86006588.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [covered spaces with soft walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4194.md)
 * [double-glazed windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3257.md)
 * [light shelves](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1167.md)
+
+## This Technology is identified by the following QID
+
+* [Q86006588](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q86006588.md)
 

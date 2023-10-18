@@ -2,13 +2,9 @@
 
 # __rural woman with ovarian cancer__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q172341](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q172341.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Collective inhabitants of various social groups, including rural women with ovarian cancer, who reside within different types of communities and rely on diverse support networks for community engagement.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_386.md)
 
 ## Closest similar item
 
@@ -27,4 +23,12 @@
 
 * [Rural Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_80.md)
 * [Healthcare Condition-Specific Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_81.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q172341](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q172341.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 

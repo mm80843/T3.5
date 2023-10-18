@@ -2,9 +2,9 @@
 
 # __Implement crowd management strategies, such as appointment systems, queue management, and social distancing measures. Increase the number of vaccination sites and healthcare personnel.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Overcrowding in vaccination clinics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1907.md)
+* [Promotion and enforcement of physical separation measures to prevent the spread of disease.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_327.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implementing crowd control measures such as capacity limits, timed entry systems, one-way circulation, and designated waiting areas.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2236.md)
 * [Implement measures to reduce patient overcrowding, such as increasing healthcare facility capacity or redirecting patients to different facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1862.md)
 * [Implement social distancing measures, increase access to healthcare, and improve hygiene practices.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1896.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Overcrowding in vaccination clinics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1907.md)
 

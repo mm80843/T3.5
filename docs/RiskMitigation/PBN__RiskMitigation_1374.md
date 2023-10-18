@@ -2,13 +2,9 @@
 
 # __Implement energy-efficient systems and equipment__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Inefficiency in building systems and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_979.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction in energy waste](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1345.md)
+* [Transition to sustainable energy sources, implement energy-efficient measures, and absorb increased service demand.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_351.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Optimize HVAC system operations, implement energy-efficient measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2984.md)
 * [Promote energy efficiency measures and renewable energy production](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2145.md)
 * [Implement energy-saving measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_456.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction in energy waste](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1345.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inefficiency in building systems and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_979.md)
 

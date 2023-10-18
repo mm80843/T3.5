@@ -2,9 +2,9 @@
 
 # __infected workers__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Isolation and quarantine facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2139.md)
+* [Individuals engaged in various types of work, from employees and office workers to agricultural and hospitality workers.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_379.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [individuals in close proximity to an infected person](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_794.md)
 * [individuals in close proximity to infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_741.md)
 * [individuals who come into contact with infected individuals or contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_796.md)
+
+## Risk affecting this stakeholder
+
+* [Isolation and quarantine facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2139.md)
 

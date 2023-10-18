@@ -2,13 +2,9 @@
 
 # __Border control and travel restrictions__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Outbreak from China](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_77.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduced importation risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_107.md)
+* [Implement travel restrictions, promote active transportation, streamline processes, provide accurate information, and develop sustainable transport options.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_325.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Travel restrictions, isolation, testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2126.md)
 * [Implementing travel restrictions, screening protocols, and quarantine measures for travelers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2716.md)
 * [Mobility restrictions,](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_975.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced importation risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_107.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Outbreak from China](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_77.md)
 

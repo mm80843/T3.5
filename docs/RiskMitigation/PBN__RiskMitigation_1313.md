@@ -2,13 +2,9 @@
 
 # __Improve transportation to green areas__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Low accessibility to green areas for low-income citizens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_944.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved access](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1293.md)
+* [Promote biodiversity and sustainable urban development through the establishment and accessibility of green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_322.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Upgrade and maintain urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_460.md)
 * [Increase access to green spaces, promote urban greening initiatives, create more parks and gardens](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2141.md)
 * [Urban greening initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_72.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved access](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1293.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Low accessibility to green areas for low-income citizens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_944.md)
 

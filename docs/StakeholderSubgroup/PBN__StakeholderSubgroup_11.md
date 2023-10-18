@@ -2,13 +2,9 @@
 
 # __Academic Roles__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [educators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_43.md)
-* [educator](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1633.md)
-* [teachers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_102.md)
-* [faculty](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_134.md)
-* [academics](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1021.md)
+* [Academic roles include nan and encompass students who are learners.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_249.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Education in General](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_12.md)
 * [Community Administrators](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_129.md)
 * [Responsible or Working Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_78.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [educators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_43.md)
+* [educator](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1633.md)
+* [teachers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_102.md)
+* [faculty](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_134.md)
+* [academics](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1021.md)
 

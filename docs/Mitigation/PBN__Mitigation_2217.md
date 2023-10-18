@@ -2,10 +2,9 @@
 
 # __Air ventilation__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
-* [air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1111.md)
+* [Optimal air flow to reduce airborne contaminants and ensure fresh, clean air in enclosed spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_170.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Designing ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2302.md)
 * [Good ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2034.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Airborne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3391.md)
-
 ## Property: has_MitigationPrinciple
 
 Installing proper ventilation systems and air filters to reduce the potential risk of airborne diseases transmission
 
+## Risks possibly mitigated by this Mitigation
+
+* [Airborne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3391.md)
+
 ## Property: has_MitigationSource
 
 * [Social distancing enhanced automated optimal design of physical spaces in the wake of the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_186.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
+* [air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1111.md)
 

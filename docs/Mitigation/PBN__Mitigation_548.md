@@ -2,9 +2,9 @@
 
 # __Increased outside air fraction__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [hvac systems with outside air dampers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3296.md)
+* [Promote clean, fresh air by monitoring and controlling indoor pollution, using portable air cleaners, and increasing outdoor air flow.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_172.md)
 
 ## Closest similar item
 
@@ -19,14 +19,18 @@
 * [Improved air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1070.md)
 * [Increased ventilation rate](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2044.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Dilutes indoor contaminants and reduces the concentration of viral particles in the air.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [2019 Novel Coronavirus (COVID-19) Pandemic: Built Environment Considerations To Reduce Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_288.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [hvac systems with outside air dampers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3296.md)
 

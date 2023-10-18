@@ -2,9 +2,9 @@
 
 # __Ensure data sharing platforms and policies are in place for all interested stakeholders__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Limited accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1534.md)
+* [Data privacy and security are prioritized through encryption, access controls, consent, and robust cybersecurity measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_335.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement strong data protection measures, ensure transparency and consent, use decentralized and secure systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2275.md)
 * [Data activism](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1200.md)
 * [Establish standardized data collection protocols, promote data sharing, address structural and cultural barriers to data sharing.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1830.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limited accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1534.md)
 

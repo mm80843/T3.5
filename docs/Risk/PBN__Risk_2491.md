@@ -2,9 +2,9 @@
 
 # __Contamination, transmission through respiratory droplets__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_193.md)
+* [The dispersion of respiratory particles through the air can lead to the transmission of diseases.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_138.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Airborne transmission of respiratory particles](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3053.md)
 * [Respiratory transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2510.md)
 * [Transmission of diseases through air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1126.md)
+
+## Mitigations of this risk
+
+* [Use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_193.md)
 

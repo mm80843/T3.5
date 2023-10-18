@@ -2,9 +2,9 @@
 
 # __Reduced customer spending__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Innovation and creativity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_942.md)
+* [Financial vulnerability and instability permeate various sectors and industries, hindering growth, sustainability, and access to resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_114.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Increased contact in crowded shops](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2884.md)
 * [Ineffective cost planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_296.md)
 * [Lack of communication and customer relationships](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2830.md)
+
+## Mitigations of this risk
+
+* [Innovation and creativity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_942.md)
 

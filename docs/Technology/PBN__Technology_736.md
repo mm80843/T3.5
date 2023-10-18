@@ -2,9 +2,9 @@
 
 # __transnational governance mechanisms and cooperative agreements__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q161726](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q161726.md)
+* [Maximizing economic efficiency while promoting financial stability through innovative strategies, investments, and partnerships at various levels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_195.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [international cooperation and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4381.md)
 * [equitable governance structures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1593.md)
 * [international coordination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_920.md)
+
+## This Technology is identified by the following QID
+
+* [Q161726](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q161726.md)
 

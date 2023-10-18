@@ -2,19 +2,19 @@
 
 # __Enhanced research effect__
 
+## Name of the Benefit
+
+Valuable insights into disease processes and improved understanding of disease
+
 ## Description of Benefits pertaining to Beneficiaries
 
 * [More innovative and effective treatment strategies and vaccines](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1122.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [research groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_172.md)
 
 ## Articles mentionning this Benefit
 
 * [Data capture and sharing in the COVID-19 pandemic: a cause for concern](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_208.md)
 
-## Name of the Benefit
+## Stakeholders benefitting from this Benefit
 
-Valuable insights into disease processes and improved understanding of disease
+* [research groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_172.md)
 

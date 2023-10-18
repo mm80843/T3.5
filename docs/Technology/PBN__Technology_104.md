@@ -2,13 +2,13 @@
 
 # __transparent communication__
 
+## Category to which it belongs
+
+* [Enhanced connectivity and diverse communication platforms enable the dissemination of reliable information and promote open communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_225.md)
+
 ## Risks linked to this technology
 
 * [Propaganda](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1071.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Transparency and Public Awareness Measures](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_48.md)
 
 ## Closest similar item
 
@@ -23,13 +23,17 @@
 * [public communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3339.md)
 * [digital communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_816.md)
 
-## This Technology belongs to this TechGroup
-
-* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_5.md)
-
 ## This Technology is identified by the following QID
 
 * [Q132364](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q132364.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Transparency and Public Awareness Measures](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_48.md)
+
+## This Technology belongs to this TechGroup
+
+* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_5.md)
 
 ## This Technology enables the following mitigations
 

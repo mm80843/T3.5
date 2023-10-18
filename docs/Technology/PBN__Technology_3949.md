@@ -2,9 +2,9 @@
 
 # __flexible working models__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Business Continuity Guideline](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1617.md)
+* [Design and construction professionals use innovative techniques and strategies to create adaptable, sustainable, and inclusive buildings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_217.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [mathematical models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2929.md)
 * [computational models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3961.md)
 * [flexibility in operations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4212.md)
+
+## This Technology enables the following mitigations
+
+* [Business Continuity Guideline](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1617.md)
 

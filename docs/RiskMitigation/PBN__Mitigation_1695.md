@@ -2,9 +2,9 @@
 
 # __Bluetooth-based contact tracing__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [bluetooth](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2999.md)
+* [Proactive measures to monitor, trace, and manage potential exposure and transmission of infectious diseases.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_148.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Contact Tracing Apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_360.md)
 * [Contact tracing and testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2226.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Privacy interference](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3223.md)
-
 ## Property: has_MitigationPrinciple
 
 Uses Bluetooth LE to trace contacts and alert individuals who were recently in contact with someone who tested positive for COVID-19, aiding in the prevention of further spread.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Privacy interference](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3223.md)
+
 ## Property: has_MitigationSource
 
 * [Mobile Technology Solution for COVID-19: Surveillance and Prevention](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_239.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [bluetooth](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2999.md)
 

@@ -2,9 +2,9 @@
 
 # __Implement measures to reduce patient overcrowding, such as increasing healthcare facility capacity or redirecting patients to different facilities__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Patient overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1366.md)
+* [Enhancing healthcare infrastructure, increasing capacity, and ensuring access to medical resources and services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_330.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Increase healthcare capacity, ensure availability of medical supplies and equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1456.md)
 * [Increase healthcare system capacity, implement triage protocols, and prioritize care for severe cases](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2317.md)
 * [Tracking patient numbers and capacity prediction; balancing patient load across multiple hospitals; tracking key medical personnel and prioritizing their access to necessary items](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3037.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Patient overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1366.md)
 

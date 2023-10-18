@@ -2,13 +2,13 @@
 
 # __everyone who spends time indoors__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q475018](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q475018.md)
+* [Individuals in poorly ventilated indoor environments, especially those in enclosed spaces with limited air flow, such as offices, homes, and buildings with inadequate air filtration, are at risk of exposure to poor indoor air quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_398.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
+* [Poor indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_294.md)
 
 ## Closest similar item
 
@@ -23,11 +23,15 @@
 * [Occupants of indoor spaces (homes](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2577.md)
 * [people in indoor buildings and spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1529.md)
 
-## Risk affecting this stakeholder
-
-* [Poor indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_294.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [General Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_88.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q475018](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q475018.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
 

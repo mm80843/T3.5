@@ -2,9 +2,9 @@
 
 # __manufacturing industry__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Decline in manufacturing industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1810.md)
+* [Various industries, businesses, and supply chain partners rely on suppliers and supply chain professionals for their products and services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_370.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [industry organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1896.md)
 * [automobile industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_241.md)
 * [Worker in the manufacturing sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1814.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Decline in manufacturing industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1810.md)
 

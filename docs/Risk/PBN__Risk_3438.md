@@ -2,9 +2,9 @@
 
 # __Lack of coordination__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Partnerships and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2385.md)
+* [Insufficient awareness, limited resources, inadequate communication, and lack of preparedness contribute to various challenges and deficiencies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_118.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Coordination problems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2454.md)
 * [Lack of coordination and harmonization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_815.md)
 * [Lack of control over movement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3208.md)
+
+## Mitigations of this risk
+
+* [Partnerships and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2385.md)
 

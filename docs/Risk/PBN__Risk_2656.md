@@ -2,9 +2,9 @@
 
 # __Time limitation__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Activate rapid response services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_607.md)
+* [The challenges and consequences of the global pandemic include poor acoustics, noise pollution, food security, increase in inequality, waste, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_131.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of facilities and time constraints](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_851.md)
 * [Limited data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3411.md)
 * [Time of recovery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3367.md)
+
+## Mitigations of this risk
+
+* [Activate rapid response services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_607.md)
 

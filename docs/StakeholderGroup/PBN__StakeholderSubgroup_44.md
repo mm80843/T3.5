@@ -2,9 +2,9 @@
 
 # __Laboratory and Research__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [clinical laboratory](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1847.md)
+* [Exploration and study encompass scientific research, environmental management and research, education and research, as well as laboratory and research.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_250.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Academic Roles](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_11.md)
 * [Technology and Innovation](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_61.md)
 * [Educational Institutions](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_16.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [clinical laboratory](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1847.md)
 

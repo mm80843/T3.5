@@ -2,9 +2,9 @@
 
 # __immunocompromised individuals__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Host immunity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1731.md)
+* [All people, especially those at risk or facing various circumstances, including age, health conditions, or unemployment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_374.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [vaccinated patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_462.md)
 * [individual in the vicinity of infected individual](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2146.md)
 * [previously infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_465.md)
+
+## Risk affecting this stakeholder
+
+* [Host immunity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1731.md)
 

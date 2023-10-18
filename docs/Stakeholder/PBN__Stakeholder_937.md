@@ -2,9 +2,9 @@
 
 # __airport authorities__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Spread through Air Travel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1441.md)
+* [Various organizations and professionals responsible for overseeing specific areas of governance, infrastructure, protection, and creativity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_395.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_277.md)
 * [city transport authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_531.md)
 * [immigration authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1076.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Spread through Air Travel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1441.md)
 

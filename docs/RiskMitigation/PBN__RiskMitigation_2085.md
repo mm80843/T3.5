@@ -2,9 +2,9 @@
 
 # __Proper sanitation and hygiene practices, testing of fecal samples prior to discharge__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Fecal-oral transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1556.md)
+* [Promote and enforce hygiene practices, implement sanitation measures, and provide education on proper handwashing techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_332.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Improve sanitation, increase diagnostic capacity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2214.md)
 * [Regular disinfection, high-level hygiene practices, waste management.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1725.md)
 * [Appropriate disposal and disinfection of hospital wastes and wastewater before transportation or discharge.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3006.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Fecal-oral transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1556.md)
 

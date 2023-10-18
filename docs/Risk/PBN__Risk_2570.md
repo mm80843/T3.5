@@ -2,9 +2,9 @@
 
 # __Lack of community participation__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Push for meso scale strategies at the neighbourhood/community level](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_423.md)
+* [Insufficient awareness, limited resources, inadequate communication, and lack of preparedness contribute to various challenges and deficiencies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_118.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1892.md)
 * [Lack of citizen cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2435.md)
 * [Lack of collaboration and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_397.md)
+
+## Mitigations of this risk
+
+* [Push for meso scale strategies at the neighbourhood/community level](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_423.md)
 

@@ -2,9 +2,20 @@
 
 # __communities__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q177634](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q177634.md)
+* [All those involved in the management, access, and utilization of data in various communities and industries.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_358.md)
+
+## Risk affecting this stakeholder
+
+* [Inadequate governance and leadership](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1344.md)
+* [Vaccine hesitancy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1909.md)
+* [Decreased collaboration and social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1478.md)
+* [Spatial planning considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_247.md)
+* [Inadequate healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1129.md)
+* [Emotional distress and psychiatric illness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1896.md)
+* [Insufficient social adaptive capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2155.md)
+* [Social interaction and engagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2030.md)
 
 ## Closest similar item
 
@@ -18,17 +29,6 @@
 * [community organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2485.md)
 * [community associations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_639.md)
 * [community association](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2468.md)
-
-## Risk affecting this stakeholder
-
-* [Inadequate governance and leadership](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1344.md)
-* [Vaccine hesitancy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1909.md)
-* [Decreased collaboration and social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1478.md)
-* [Spatial planning considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_247.md)
-* [Inadequate healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1129.md)
-* [Emotional distress and psychiatric illness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1896.md)
-* [Insufficient social adaptive capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2155.md)
-* [Social interaction and engagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2030.md)
 
 ## This Stakeholder can get these Benefits from mitigation measures
 
@@ -56,4 +56,8 @@
 * [Food insecurity and poor-quality diets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_777.md)
 * [Zoonotic infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1016.md)
 * [Emotional distress and psychiatric illness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1896.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q177634](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q177634.md)
 

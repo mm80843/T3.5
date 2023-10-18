@@ -2,9 +2,9 @@
 
 # __develop electric vehicle charging infrastructure__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q2140665](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2140665.md)
+* [The built environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_230.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2911.md)
 * [power management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3399.md)
 * [infrastructure development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_76.md)
+
+## This Technology is identified by the following QID
+
+* [Q2140665](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2140665.md)
 

@@ -2,11 +2,11 @@
 
 # __Minimize supply chain disruptions__
 
-## Property: has_BP_InterventionTitle
-
-Minimize supply chain disruptions
-
 ## Property: has_BP_InterventionKey
 
 MC1
+
+## Property: has_BP_InterventionTitle
+
+Minimize supply chain disruptions
 

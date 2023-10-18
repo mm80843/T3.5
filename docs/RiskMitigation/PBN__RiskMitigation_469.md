@@ -2,13 +2,9 @@
 
 # __Emotional support and motivation__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Psychological problems among nurses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_358.md)
-
-## Property: has_MitigationBenefit
-
-* [Psychological well-being of nurses](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_452.md)
+* [Promote mental well-being through access to resources, support services, and strategies for coping with stress.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_313.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Internet-based communication and mental well-being support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_435.md)
 * [Monitor reactions, provide psychosocial support and assistance, modify expectations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2498.md)
 * [Promote resilience through education, social support, and fostering a sense of hope.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2693.md)
+
+## Property: has_MitigationBenefit
+
+* [Psychological well-being of nurses](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_452.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Psychological problems among nurses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_358.md)
 

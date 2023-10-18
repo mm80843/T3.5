@@ -2,13 +2,9 @@
 
 # __Sewage surveillance__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Spread of SARS-CoV-2 through sewage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1.md)
-
-## Property: has_MitigationBenefit
-
-* [Early detection of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_5.md)
+* [Implement wastewater surveillance techniques to detect viral presence, optimize treatment processes, and inform public health interventions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_308.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Develop quantitative models that consider various factors affecting wastewater surveillance data to improve interpretation and estimation of prevalence.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2562.md)
 * [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_492.md)
 * [Environmental sanitation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1366.md)
+
+## Property: has_MitigationBenefit
+
+* [Early detection of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_5.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of SARS-CoV-2 through sewage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1.md)
 

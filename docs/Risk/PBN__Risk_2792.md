@@ -2,9 +2,9 @@
 
 # __Panic buying and hoarding__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Prevention of panic](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_885.md)
+* [Financial vulnerability and instability permeate various sectors and industries, hindering growth, sustainability, and access to resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_114.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Financial fragility on businesses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_412.md)
 * [Reduced consumer spending](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2172.md)
 * [Financial difficulties](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2848.md)
+
+## Mitigations of this risk
+
+* [Prevention of panic](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_885.md)
 

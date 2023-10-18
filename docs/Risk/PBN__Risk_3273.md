@@ -2,9 +2,9 @@
 
 # __Delayed treatment__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Healthcare Access and Early Treatment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1864.md)
+* [The challenges include reduced surgical education, loss of control, limited diagnostics, slow drug development, inadequate patient monitoring, and lack of drug therapy options.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_110.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Ineffective treatments based on flawed preprints](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_617.md)
 * [Delays due to lack of materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2846.md)
 * [Lack of novel treatment options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2189.md)
+
+## Mitigations of this risk
+
+* [Healthcare Access and Early Treatment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1864.md)
 

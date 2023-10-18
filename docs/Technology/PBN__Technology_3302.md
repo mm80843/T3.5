@@ -2,9 +2,9 @@
 
 # __sodium dichloroisocyanurate solution containing 500 mg/l chlorine__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Surface cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_556.md)
+* [The range of materials and techniques listed includes various disinfectants, nanomaterials, manufacturing methods, coatings, sustainability measures, and analytical tools.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_237.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [benzalkonium chloride](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3553.md)
 * [chlorine dioxide](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1906.md)
 * [chlorine gas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4403.md)
+
+## This Technology enables the following mitigations
+
+* [Surface cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_556.md)
 

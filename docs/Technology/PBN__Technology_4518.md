@@ -2,9 +2,9 @@
 
 # __smart technology__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Smart PPE](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2474.md)
+* [Technological advancements encompass a wide range of innovations, such as blockchain, touchless, renewable energy, and communication technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Smart city technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2734.md)
 * [technology devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3579.md)
 * [digital and smart devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3269.md)
+
+## This Technology enables the following mitigations
+
+* [Smart PPE](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2474.md)
 

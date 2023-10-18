@@ -2,9 +2,9 @@
 
 # __spatial data mining__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Spatial planning considerations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_421.md)
+* [Data-driven insights and analysis for decision making, anonymized data, transparency, visualization, and advanced techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_205.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Geographic information systems (GIS)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2047.md)
 * [Geographic Information Systems (GIS)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2862.md)
 * [geographical information system (gis)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3334.md)
+
+## This Technology enables the following mitigations
+
+* [Spatial planning considerations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_421.md)
 

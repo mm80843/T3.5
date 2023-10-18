@@ -2,13 +2,13 @@
 
 # __data monitoring and analysis systems__
 
+## Category to which it belongs
+
+* [Data-driven insights and analysis for decision making, anonymized data, transparency, visualization, and advanced techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_205.md)
+
 ## Risks linked to this technology
 
 * [Lack of IAQ monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2020.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Monitoring Systems and Maintenance Protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_155.md)
 
 ## Closest similar item
 
@@ -23,11 +23,15 @@
 * [Advanced monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2454.md)
 * [data collection and analysis technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_755.md)
 
-## This Technology belongs to this TechGroup
-
-* [Indoor air technlogies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_18.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1165574](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1165574.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Monitoring Systems and Maintenance Protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_155.md)
+
+## This Technology belongs to this TechGroup
+
+* [Indoor air technlogies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_18.md)
 

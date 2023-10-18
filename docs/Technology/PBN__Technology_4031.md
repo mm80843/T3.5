@@ -2,9 +2,9 @@
 
 # __online communication tools__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Digital care processes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1723.md)
+* [Enhanced connectivity and diverse communication platforms enable the dissemination of reliable information and promote open communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_225.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [communication software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_739.md)
 * [Communication software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2832.md)
 * [online collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1663.md)
+
+## This Technology enables the following mitigations
+
+* [Digital care processes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1723.md)
 

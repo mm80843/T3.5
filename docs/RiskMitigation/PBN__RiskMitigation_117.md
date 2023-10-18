@@ -2,13 +2,9 @@
 
 # __People flow model identification method__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Unknown parameter values](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_95.md)
-
-## Property: has_MitigationBenefit
-
-* [Elimination of unknown parameters](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_136.md)
+* [Enhanced surveillance, monitoring, and real-time tracking for improved control and response to various situations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_312.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Develop models that integrate crowd dynamics with epidemiological modeling](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2621.md)
 * [Patient tracking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1411.md)
 * [Communicate safety measures and hygiene protocols, provide real-time information on passenger flow and occupancy levels](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1670.md)
+
+## Property: has_MitigationBenefit
+
+* [Elimination of unknown parameters](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_136.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Unknown parameter values](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_95.md)
 

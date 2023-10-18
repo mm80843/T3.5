@@ -2,9 +2,9 @@
 
 # __Swabbing__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Robot-assisted nasopharyngeal and oropharyngeal swabs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2422.md)
+* [The challenges include inadequate testing capacity, slow identification of cases, limited evidence, and variability in PCR methods.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_140.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Cleaning purposes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2967.md)
 * [Screening](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3451.md)
 * [Sterilization of equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2968.md)
+
+## Mitigations of this risk
+
+* [Robot-assisted nasopharyngeal and oropharyngeal swabs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2422.md)
 

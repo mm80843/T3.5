@@ -2,13 +2,9 @@
 
 # __Virtual induction and training__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Delay in works due to staff members at high risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_499.md)
-
-## Property: has_MitigationBenefit
-
-* [New staff onboarding](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_712.md)
+* [Advancements in bioinformatics, divestment, automated sample collection, and artificial intelligence are facilitating early disease detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_336.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Virtual reality medical training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1126.md)
 * [Artificial intelligence and machine learning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_808.md)
 * [Virtual reality patient education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1127.md)
+
+## Property: has_MitigationBenefit
+
+* [New staff onboarding](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_712.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Delay in works due to staff members at high risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_499.md)
 

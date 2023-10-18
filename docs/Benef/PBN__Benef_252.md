@@ -2,19 +2,19 @@
 
 # __Personalization__
 
+## Name of the Benefit
+
+Adjustability of indoor space allows residents to customize their living environment according to their needs
+
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Increased indoor space adjustability can enhance tenant satisfaction and create a more personalized living environment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_264.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
 
 ## Articles mentionning this Benefit
 
 * [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
 
-## Name of the Benefit
+## Stakeholders benefitting from this Benefit
 
-Adjustability of indoor space allows residents to customize their living environment according to their needs
+* [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
 

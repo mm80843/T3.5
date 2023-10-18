@@ -2,9 +2,9 @@
 
 # __UVGI in AHUs__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Maintenance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_317.md)
+* [The impact of UV light on bacteria, the need for proper installation and maintenance of UVGI systems, and the risks associated with UV-C exposure.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_139.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement Ultraviolet Germicidal Irradiation (UVGI)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3497.md)
 * [Develop standardized tests and protocols for UVGI efficacy, ensure testing reflects real-world conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3498.md)
 * [Ensure proper use and maintenance of UVGI systems, provide training and protective equipment for occupants and service personnel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3499.md)
+
+## Mitigations of this risk
+
+* [Maintenance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_317.md)
 

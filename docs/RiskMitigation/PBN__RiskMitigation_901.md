@@ -2,13 +2,9 @@
 
 # __Adoption of better working conditions__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Limited learning from public health crises](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_647.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved working conditions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_903.md)
+* [Ensuring equitable access, promoting flexible work, implementing safety measures, and providing support for remote work and flexible schedules.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_323.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implementation of wellbeing economies and budgets](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_902.md)
 * [Softening Labor Market Impact](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_496.md)
 * [Organizational adaptability](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_787.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved working conditions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_903.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limited learning from public health crises](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_647.md)
 

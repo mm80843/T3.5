@@ -2,13 +2,9 @@
 
 # __Self-disinfecting surfaces__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Recontamination of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_865.md)
-
-## Property: has_MitigationBenefit
-
-* [Inactivation of deposited pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1192.md)
+* [Effective surface disinfection through regular cleaning and use of self-cleaning materials and antimicrobial coatings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_334.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Development of more advanced self-disinfecting surface technologies with enhanced antiviral action.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2037.md)
 * [Robot-controlled surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_87.md)
 * [Development of continuously active antimicrobial coatings and self-disinfecting surfaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2035.md)
+
+## Property: has_MitigationBenefit
+
+* [Inactivation of deposited pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1192.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Recontamination of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_865.md)
 

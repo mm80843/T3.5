@@ -2,9 +2,9 @@
 
 # __Design apartments with adaptable floor plans and flexible room dividers.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of spatial variety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1890.md)
+* [Designing affordable, adaptable, and sustainable housing with improved building environments and optimized spatial layouts, while incorporating flexible and human-centric design elements and considering health, safety, and environmental parameters.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_326.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Optimize layout to provide separate spaces, utilize room dividers and soundproofing materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2231.md)
 * [Implementing flexible and adaptable design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1324.md)
 * [Housing design strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1217.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of spatial variety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1890.md)
 

@@ -2,15 +2,9 @@
 
 # __Upper-room UVGI__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Transmission of COVID-19 in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_579.md)
-* [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction of infection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_313.md)
-* [Disinfection of aerosolized viral particles](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_817.md)
+* [Utilize UVGI technology to disinfect air, surfaces, and clothing, ensuring proper installation, training, and research to optimize effectiveness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_352.md)
 
 ## Closest similar item
 
@@ -24,4 +18,14 @@
 * [Ensure proper use and maintenance of UVGI systems, provide training and protective equipment for occupants and service personnel](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2330.md)
 * [Ensure proper installation and maintenance of UVGI systems, provide protective clothing and eyewear for service personnel and occupants](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2326.md)
 * [Use of UVGI devices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_521.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction of infection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_313.md)
+* [Disinfection of aerosolized viral particles](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_817.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Transmission of COVID-19 in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_579.md)
+* [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
 

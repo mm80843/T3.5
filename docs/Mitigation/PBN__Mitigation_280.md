@@ -2,9 +2,9 @@
 
 # __Nanotechnology (silver nanoparticles)__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [atomized silver nanoparticles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3112.md)
+* [Enhanced disease investigation and prevention methods, including biomarkers, antimicrobial coatings, and AI-driven tools, advance public health.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_155.md)
 
 ## Closest similar item
 
@@ -19,14 +19,18 @@
 * [Plsmax technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2173.md)
 * [Use of anti-bacterial materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_774.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Applying silver nanoparticles to control the viability of pathogens in the air, potentially reducing the risk of infections
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Methods for air cleaning and protection of building occupants from airborne pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_240.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [atomized silver nanoparticles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3112.md)
 

@@ -2,9 +2,9 @@
 
 # __suspected cases__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Ineffective disease screening and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1800.md)
+* [Entities and individuals who interact with or are affected by a system, organization, or public facility.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_1.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [epidemiologists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_6.md)
 * [police](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_533.md)
 * [legal departments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1438.md)
+
+## Risk affecting this stakeholder
+
+* [Ineffective disease screening and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1800.md)
 

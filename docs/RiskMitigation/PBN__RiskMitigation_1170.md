@@ -2,13 +2,9 @@
 
 # __Use of blockchain for reporting systems__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Delay in reporting infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_846.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved efficiency of data transfer](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1170.md)
+* [Enable transparent and secure data management, traceability, and efficient distribution while promoting accurate information dissemination and verification.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_321.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Blockchain-based medical record management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1058.md)
 * [Use of blockchain for diagnosis confirmation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1173.md)
 * [Strengthen supply chains, utilize blockchain for efficient tracking and distribution of medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2701.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved efficiency of data transfer](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1170.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Delay in reporting infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_846.md)
 

@@ -8,6 +8,10 @@
 * [Decreased eviction rates](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_197.md)
 * [Reduced eviction rates](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_198.md)
 
+## Category to which it belongs
+
+* [Vulnerable and economically disadvantaged individuals and communities, including low-income workers, renters, and households, particularly in urban areas and minority communities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_375.md)
+
 ## Closest similar item
 
 * [renters](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1219.md)

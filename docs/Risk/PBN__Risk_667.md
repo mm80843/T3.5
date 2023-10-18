@@ -2,9 +2,9 @@
 
 # __Increase in hospital waste generation during COVID-19 pandemic__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Implementation of proper disinfection technologies for hospital wastes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_931.md)
+* [The far-reaching consequences of COVID-19 include its transmission through various settings, impact on urban areas, and scarcity of resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Presence of COVID-19 in sewage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1147.md)
 * [Spread of COVID-19 through wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_576.md)
 * [Spread of Covid-19 in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_690.md)
+
+## Mitigations of this risk
+
+* [Implementation of proper disinfection technologies for hospital wastes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_931.md)
 

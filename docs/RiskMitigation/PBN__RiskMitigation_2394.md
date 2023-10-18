@@ -2,9 +2,9 @@
 
 # __Provide relief measures and financial support to manufacturing businesses, explore alternative supply chains__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Decline in manufacturing industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1810.md)
+* [Promote flexibility and resilience in supply chains through diversification, local production, and proactive strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_320.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Diversify supply chains, establish backup suppliers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2147.md)
 * [Diversifying suppliers, local sourcing, implementing contingency plans for supply chain disruptions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2840.md)
 * [Strengthen supply chains, increase production capacity, improve stockpiling and distribution systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1451.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Decline in manufacturing industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1810.md)
 

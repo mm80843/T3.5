@@ -2,9 +2,9 @@
 
 # __Global consequences of local decisions__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Considering the global interconnected settlement system in urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_796.md)
+* [The interconnectedness of environmental degradation, social inequalities, and the need for climate action and conservation efforts.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_104.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Economic impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_961.md)
 * [Urbanization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2074.md)
 * [Unsustainable and unsafe cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3263.md)
+
+## Mitigations of this risk
+
+* [Considering the global interconnected settlement system in urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_796.md)
 

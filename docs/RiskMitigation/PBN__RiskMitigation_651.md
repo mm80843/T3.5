@@ -2,13 +2,9 @@
 
 # __AI for diagnosis and screening__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Resource burden on health systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_461.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduced burden](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_658.md)
+* [Advancements in bioinformatics, divestment, automated sample collection, and artificial intelligence are facilitating early disease detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_336.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [AI for drug discovery](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_656.md)
 * [Utilize AI methods for faster drug testing and discovery](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2379.md)
 * [AI for rapid identification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_650.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced burden](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_658.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Resource burden on health systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_461.md)
 

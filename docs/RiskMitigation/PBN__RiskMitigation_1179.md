@@ -2,13 +2,9 @@
 
 # __Virtual platforms__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Psychological effects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_855.md)
-
-## Property: has_MitigationBenefit
-
-* [Increased social connections](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1179.md)
+* [Enrich education through digital tools, virtual experiences, remote learning, and alternative forms of exercise and interaction.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_3.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implementation of virtual house tours](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_678.md)
 * [Online learning platforms, distribution of educational materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2174.md)
 * [Internet-based applications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1150.md)
+
+## Property: has_MitigationBenefit
+
+* [Increased social connections](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1179.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Psychological effects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_855.md)
 

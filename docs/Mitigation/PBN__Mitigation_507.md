@@ -2,8 +2,9 @@
 
 # __Second shift schedule__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Embracing flexible work arrangements, such as remote work and staggered schedules, to enhance productivity and adapt to digital transformation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_171.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Optimum occupant presence schedule](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1343.md)
 * [Rescheduling Space Planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1960.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Low efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2601.md)
-
 ## Property: has_MitigationPrinciple
 
 Implement a second shift schedule to improve efficiency
 
+## Risks possibly mitigated by this Mitigation
+
+* [Low efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2601.md)
+
 ## Property: has_MitigationSource
 
 * [Covid-19 Associated Risks and Mitigation Strategies relevant for the UK Construction Industry](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_210.md)
+
+## This Mitigation is enabled by the following technologies
+
 

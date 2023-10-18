@@ -2,10 +2,9 @@
 
 # __Healthcare Condition-Specific Individuals__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [rural women with ovarian cancer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_859.md)
-* [rural woman with ovarian cancer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2101.md)
+* [Healthcare stakeholders comprising workers, agencies, providers, individuals, and patients promoting well-being and addressing health conditions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_247.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Affected Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_79.md)
 * [Clinicians](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_52.md)
 * [Healthcare Providers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_51.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [rural women with ovarian cancer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_859.md)
+* [rural woman with ovarian cancer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2101.md)
 

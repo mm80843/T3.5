@@ -2,9 +2,9 @@
 
 # __Accumulation of dirt, debris, and microbial growth in HVAC systems and ductwork__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Regular maintenance and cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1421.md)
+* [The widespread presence and transfer of harmful pathogens and contaminants on various surfaces and environments pose serious risks to public health and the ecosystem.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_100.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Indoor air contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_125.md)
 * [Insufficient fresh air delivery in HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_276.md)
 * [High humidity in room, virus accumulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2949.md)
+
+## Mitigations of this risk
+
+* [Regular maintenance and cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1421.md)
 

@@ -2,22 +2,9 @@
 
 # __public__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q2388316](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2388316.md)
-
-## Closest similar item
-
-* [public places](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_367.md)
-* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
-* [public venues](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_942.md)
-* [public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_682.md)
-* [the general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_955.md)
-* [public space](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1617.md)
-* [public areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_63.md)
-* [public and users of public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_37.md)
-* [public place users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_153.md)
-* [public place owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_768.md)
+* [Members of the public, including social media users, organizations promoting gender equality, and individuals in various social settings and groups.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_385.md)
 
 ## Risk affecting this stakeholder
 
@@ -38,6 +25,19 @@
 * [Limited accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1534.md)
 * [Lack of public trust](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_741.md)
 * [Inactivation of coronaviruses by biocidal agents in suspension tests](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1549.md)
+
+## Closest similar item
+
+* [public places](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_367.md)
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+* [public venues](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_942.md)
+* [public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_682.md)
+* [the general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_955.md)
+* [public space](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1617.md)
+* [public areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_63.md)
+* [public and users of public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_37.md)
+* [public place users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_153.md)
+* [public place owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_768.md)
 
 ## This Stakeholder can get these Benefits from mitigation measures
 
@@ -81,4 +81,8 @@
 * [Improved Accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1339.md)
 * [Reliable Information](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1340.md)
 * [Increased Trust](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1341.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q2388316](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2388316.md)
 

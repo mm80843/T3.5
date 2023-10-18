@@ -2,10 +2,9 @@
 
 # __Regulation of DV__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [legislation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3420.md)
-* [criminalization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3421.md)
+* [Optimizing the global trade network and supply chains through decentralization, cost concern, and integrated management, while promoting resilience and equity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_146.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Compliance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_296.md)
 * [Strict adherence to COVID-19 preventative measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_157.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1766.md)
-
 ## Property: has_MitigationPrinciple
 
 Reduce harm by criminalizing domestic violence and implementing policies and laws to prevent and address IPV
 
+## Risks possibly mitigated by this Mitigation
+
+* [Domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1766.md)
+
 ## Property: has_MitigationSource
 
 * [Dangerous liaisons? Applying the social harm perspective to the social inequality, housing and health trifecta during the Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_2.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [legislation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3420.md)
+* [criminalization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3421.md)
 

@@ -2,9 +2,9 @@
 
 # __Recontamination__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_246.md)
+* [The challenges and consequences of the global pandemic include poor acoustics, noise pollution, food security, increase in inequality, waste, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_131.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Reinfection cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_672.md)
 * [Delayed treatment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3273.md)
 * [Hygiene maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3425.md)
+
+## Mitigations of this risk
+
+* [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_246.md)
 

@@ -2,9 +2,9 @@
 
 # __lobbying and advocacy efforts__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q187117](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q187117.md)
+* [Government actions and regulations addressing various aspects of society, including policy changes, ethical frameworks, governance mechanisms, and public announcements.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_216.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [public consultations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1599.md)
 * [outreach campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1206.md)
 * [Outreach campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2164.md)
+
+## This Technology is identified by the following QID
+
+* [Q187117](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q187117.md)
 

@@ -2,9 +2,9 @@
 
 # __data analytics for public health monitoring__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q821775](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q821775.md)
+* [Improved healthcare infrastructure and resources enable public health authorities to implement effective messaging and interventions, ensuring equitable access to healthcare facilities and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_209.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [mobile-health disease-monitoring data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3310.md)
 * [public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_615.md)
 * [public health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_313.md)
+
+## This Technology is identified by the following QID
+
+* [Q821775](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q821775.md)
 

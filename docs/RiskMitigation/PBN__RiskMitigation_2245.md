@@ -2,9 +2,9 @@
 
 # __Provide incentives and subsidies to promote the installation of green roofs, and develop cost-effective maintenance strategies__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [High installation and maintenance costs of green roofs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1687.md)
+* [Promote biodiversity and sustainable urban development through the establishment and accessibility of green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_322.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement regular maintenance plans and ensure proper care and upkeep of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2074.md)
 * [Implementation of green construction practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_670.md)
 * [Green retrofit of buildings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_423.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [High installation and maintenance costs of green roofs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1687.md)
 

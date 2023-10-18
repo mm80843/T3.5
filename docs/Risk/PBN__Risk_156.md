@@ -2,9 +2,9 @@
 
 # __Inefficient use of resources in vaccination process__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Implement digital twin framework](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_199.md)
+* [The challenges in vaccination include limited storage capacity, high patient demand, inefficient resource use, distribution difficulties, waning vaccine effectiveness, and unequal access.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_113.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Overcrowding in vaccination clinics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1907.md)
 * [Uncertainty of vaccine effectiveness, time-consuming research process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3080.md)
 * [Inefficient use of resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2583.md)
+
+## Mitigations of this risk
+
+* [Implement digital twin framework](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_199.md)
 

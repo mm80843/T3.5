@@ -2,9 +2,9 @@
 
 # __green areas__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Outdoor Design and Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1739.md)
+* [Promotion of environmentally-friendly practices, green infrastructure, sustainable housing, renewable energy, and responsible building to enhance spaces and mitigate climate change.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_224.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [greenery](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4524.md)
 * [community initiatives for using nearby green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1618.md)
 * [public parks and green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1222.md)
+
+## This Technology enables the following mitigations
+
+* [Outdoor Design and Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1739.md)
 

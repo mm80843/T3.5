@@ -2,9 +2,9 @@
 
 # __benchmark plan__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Use of another isolation hospital](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_798.md)
+* [Advanced technologies and algorithms for modeling, simulation, optimization, and artificial intelligence in various applications, including robotics and computational fluid dynamics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_239.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [economic planning tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1493.md)
 * [optimized workflows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2032.md)
 * [data optimization techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_176.md)
+
+## This Technology enables the following mitigations
+
+* [Use of another isolation hospital](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_798.md)
 

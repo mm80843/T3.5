@@ -2,13 +2,13 @@
 
 # __individuals without internet access or limited digital literacy__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q8236](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q8236.md)
+* [All those involved in the management, access, and utilization of data in various communities and industries.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_358.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Lack of access to accurate information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1829.md)
 
 ## Closest similar item
 
@@ -23,11 +23,15 @@
 * [resident with limited knowledge or skill in using digital technology](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2465.md)
 * [online users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_882.md)
 
-## Risk affecting this stakeholder
-
-* [Lack of access to accurate information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1829.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Digital and Information Access](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_105.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q8236](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q8236.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 

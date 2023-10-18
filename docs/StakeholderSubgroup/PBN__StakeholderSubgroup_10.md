@@ -2,9 +2,9 @@
 
 # __Venue Owners__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [venue owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_845.md)
+* [Stakeholders in the establishment or utilization of a space or platform.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_257.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Occupants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_55.md)
 * [Residents](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_72.md)
 * [Landlords](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_71.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [venue owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_845.md)
 

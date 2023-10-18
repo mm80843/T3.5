@@ -2,6 +2,10 @@
 
 # __mixed-use development__
 
+## Category to which it belongs
+
+* [Advancements in biotechnology, clinical research, and innovative therapies contribute to the development of medical solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
+
 ## Risks linked to this technology
 
 * [Urban density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2028.md)

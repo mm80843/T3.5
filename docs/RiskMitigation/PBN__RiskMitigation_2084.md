@@ -2,9 +2,9 @@
 
 # __Use of appropriate protective equipment, proper ventilation, and limiting aerosol-generating procedures__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Aerosol transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1555.md)
+* [Enhance airflow, increase fresh air intake, and optimize ventilation systems to improve air quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_329.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Improve ventilation systems, increase outdoor air supply.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1808.md)
 * [Improve ventilation systems and air purification methods to ensure sufficient fresh air and control air pollutant levels.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1914.md)
 * [Ensuring proper ventilation, wearing masks in indoor settings with poor ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1762.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Aerosol transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1555.md)
 

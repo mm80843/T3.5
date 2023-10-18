@@ -2,9 +2,9 @@
 
 # __Increase the density of UGS per person by creating new green spaces and expanding existing ones.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of UGS density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1690.md)
+* [Promote biodiversity and sustainable urban development through the establishment and accessibility of green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_322.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Increase in green spaces and tree coverage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_174.md)
 * [Creating smaller, local green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1257.md)
 * [Enhance accessibility to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_458.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of UGS density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1690.md)
 

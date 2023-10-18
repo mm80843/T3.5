@@ -2,14 +2,9 @@
 
 # __scientist__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q898207](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q898207.md)
-* [Q901](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q901.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
+* [Experts from various fields including research, risk assessment, education, science, HVAC, and IT.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_356.md)
 
 ## Closest similar item
 
@@ -27,4 +22,13 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Scientific Research](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_39.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q898207](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q898207.md)
+* [Q901](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q901.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
 

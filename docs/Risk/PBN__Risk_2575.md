@@ -2,9 +2,9 @@
 
 # __Varied content and quality of available video libraries__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Viewing Surgical Videos](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_431.md)
+* [Limited monitoring, technical limitations, language barriers, expensive optimization, lack of connection with nature, and limited sensor diversity hinder effective response and resource allocation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_107.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Impact on information technology, media, and research & development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1816.md)
 * [Increase in video-gaming activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_484.md)
 * [Inadequate data quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_382.md)
+
+## Mitigations of this risk
+
+* [Viewing Surgical Videos](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_431.md)
 

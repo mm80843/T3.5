@@ -2,13 +2,9 @@
 
 # __Ensuring the quality and reliability of services__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Performance Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_86.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction in performance risks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_116.md)
+* [Implementing a comprehensive package of measures to ensure the smooth functioning and safety of essential services and activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_6.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Ensure timely and appropriate distribution of supplies and address needs effectively.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2690.md)
 * [Implement reliable communication protocols and redundancy measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1690.md)
 * [Ensuring appropriate training and support for healthcare professionals, regular maintenance and quality control of equipment.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3047.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction in performance risks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_116.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Performance Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_86.md)
 

@@ -2,10 +2,9 @@
 
 # __spraying equipment__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Indoor residual spraying (IRS)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2389.md)
-* [Spraying disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_39.md)
+* [Safety and operational tools for various fields, including healthcare, cleaning, maintenance, and emergency preparation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_212.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [cleaning equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_363.md)
 * [Cleaning equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2876.md)
 * [preprocessing disinfection equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4416.md)
+
+## This Technology enables the following mitigations
+
+* [Indoor residual spraying (IRS)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2389.md)
+* [Spraying disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_39.md)
 

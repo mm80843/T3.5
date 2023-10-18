@@ -2,9 +2,9 @@
 
 # __individuals with mental illness__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Privacy invasion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2343.md)
+* [Individuals in need of mental health support, including those with pre-existing conditions and from marginalized communities with limited access to services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_362.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [individuals with previous mental health issues](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1339.md)
 * [individual with mental health need](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2323.md)
 * [mental health professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_368.md)
+
+## Risk affecting this stakeholder
+
+* [Privacy invasion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2343.md)
 

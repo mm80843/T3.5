@@ -2,9 +2,9 @@
 
 # __people with preexisting medical conditions__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [High infection-to-fatality ratio, particularly for vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2111.md)
+* [Various individuals in the healthcare industry, including epidemiologists, medical personnel, clinicians, surgeons, and patients in need of medical care.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_360.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [individuals with underlying health conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_889.md)
 * [and those with preexisting medical](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_338.md)
 * [individuals with pre-existing mental health conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_660.md)
+
+## Risk affecting this stakeholder
+
+* [High infection-to-fatality ratio, particularly for vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2111.md)
 

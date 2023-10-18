@@ -2,11 +2,9 @@
 
 # __immigration authorities__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Global mobility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2073.md)
-* [Population flow between cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1651.md)
-* [Migration flow](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1730.md)
+* [Various organizations and professionals responsible for overseeing specific areas of governance, infrastructure, protection, and creativity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_395.md)
 
 ## Closest similar item
 
@@ -20,4 +18,10 @@
 * [authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_277.md)
 * [migrants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_446.md)
 * [Migrants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2346.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Global mobility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2073.md)
+* [Population flow between cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1651.md)
+* [Migration flow](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1730.md)
 

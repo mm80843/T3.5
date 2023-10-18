@@ -2,9 +2,9 @@
 
 # __small retailers__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Insufficient Contact Information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1725.md)
+* [Stakeholders in various industries, from manufacturing to retail, including users and suppliers, with a focus on wearables.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_371.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [small and medium-sized business](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2028.md)
 * [food retailer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1940.md)
 * [merchants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2071.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Insufficient Contact Information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1725.md)
 

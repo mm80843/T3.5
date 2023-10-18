@@ -2,9 +2,9 @@
 
 # __remote sensing technology for monitoring and surveillance__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q199687](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q199687.md)
+* [Advanced monitoring systems and sensor integration for IoT devices and biosensor technology facilitate environmental monitoring and facility usage tracking.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_229.md)
 
 ## Risks linked to this technology
 
@@ -23,4 +23,8 @@
 * [Remote monitoring and tracking technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2344.md)
 * [monitoring and surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1858.md)
 * [Monitoring and surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2463.md)
+
+## This Technology is identified by the following QID
+
+* [Q199687](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q199687.md)
 

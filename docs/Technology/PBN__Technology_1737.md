@@ -2,9 +2,9 @@
 
 # __private balconies__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q66545545](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q66545545.md)
+* [Explore a diverse range of materials, from sound-absorbing to eco-friendly, that contribute to innovative building solutions and educational resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_222.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3580.md)
 * [isolation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2896.md)
 * [guidelines for accessing private green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1617.md)
+
+## This Technology is identified by the following QID
+
+* [Q66545545](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q66545545.md)
 

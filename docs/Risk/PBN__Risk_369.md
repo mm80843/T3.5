@@ -2,8 +2,9 @@
 
 # __Increased residential energy consumption during the COVID-19 pandemic__
 
-## Mitigations of this risk
+## Category to which it belongs
 
+* [Issues related to energy use, including increased consumption, inefficient usage, and lack of understanding, have various implications in different settings and sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_133.md)
 
 ## Closest similar item
 
@@ -17,4 +18,7 @@
 * [Increased energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1252.md)
 * [Lack of access to urban green space during COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_346.md)
 * [Changes in access and use of green areas during COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_949.md)
+
+## Mitigations of this risk
+
 

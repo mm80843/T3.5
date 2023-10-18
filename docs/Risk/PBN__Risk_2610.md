@@ -2,9 +2,9 @@
 
 # __Proprietary monitoring systems__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Open-source model](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_517.md)
+* [Limited monitoring, technical limitations, language barriers, expensive optimization, lack of connection with nature, and limited sensor diversity hinder effective response and resource allocation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_107.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of patient monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1642.md)
 * [Public health monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_718.md)
 * [Lack of monitoring system for high-risk patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_999.md)
+
+## Mitigations of this risk
+
+* [Open-source model](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_517.md)
 

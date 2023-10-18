@@ -2,9 +2,9 @@
 
 # __government legislation__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Implement Policies for Paid Sick Leave](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1837.md)
+* [Government actions and regulations addressing various aspects of society, including policy changes, ethical frameworks, governance mechanisms, and public announcements.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_216.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [policy and regulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3597.md)
 * [regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1177.md)
 * [regulatory policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3417.md)
+
+## This Technology enables the following mitigations
+
+* [Implement Policies for Paid Sick Leave](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1837.md)
 

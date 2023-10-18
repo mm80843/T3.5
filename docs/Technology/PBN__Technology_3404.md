@@ -2,10 +2,9 @@
 
 # __heat__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Effective disinfection techniques for roundworms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_725.md)
-* [Pasteurization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2412.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3087.md)
 * [cooling devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4051.md)
 * [temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4050.md)
+
+## This Technology enables the following mitigations
+
+* [Effective disinfection techniques for roundworms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_725.md)
+* [Pasteurization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2412.md)
 

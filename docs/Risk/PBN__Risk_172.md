@@ -2,9 +2,9 @@
 
 # __Exposure to greenspace and physical activity__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Promote physical activity in greenspaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_212.md)
+* [Limited access, funding, and maintenance of green spaces exacerbate inequalities, allergies, and negative perceptions in urban areas.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_121.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Mainstreaming health criteria in public space design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_910.md)
 * [Lack of green spaces in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1686.md)
 * [Lack of access to greenspace](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_169.md)
+
+## Mitigations of this risk
+
+* [Promote physical activity in greenspaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_212.md)
 

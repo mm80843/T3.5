@@ -2,13 +2,9 @@
 
 # __Infrastructure and Transportation__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [Targeted investments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2733.md)
-* [Improved urban planning strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2732.md)
-* [Infrastructure development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2305.md)
-* [transportation planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_661.md)
-* [Affordable transportation services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2739.md)
+* [The intersection of urban development, management, transportation, and public spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_28.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Regulation, Governance, and Policies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_66.md)
 * [Communication Technologies and Channels](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_27.md)
 * [Travel Restrictions and Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_159.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [Targeted investments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2733.md)
+* [Improved urban planning strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2732.md)
+* [Infrastructure development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2305.md)
+* [transportation planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_661.md)
+* [Affordable transportation services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2739.md)
 

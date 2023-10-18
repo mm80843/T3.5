@@ -2,15 +2,9 @@
 
 # __Simulation-based people flow modeling__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Computational expensive optimization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_94.md)
-* [Difficulty in measuring real people flow](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_98.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced computational efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_135.md)
-* [Feasible solution for mega-tall buildings](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_139.md)
+* [Advancements in bioinformatics, divestment, automated sample collection, and artificial intelligence are facilitating early disease detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_336.md)
 
 ## Closest similar item
 
@@ -24,4 +18,14 @@
 * [Develop microscopic crowd models to represent individual movement and assess the impact of social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2622.md)
 * [Develop a universal occupant exposure model that can be used with microscopic crowd models](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2623.md)
 * [Communicate safety measures and hygiene protocols, provide real-time information on passenger flow and occupancy levels](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1670.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced computational efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_135.md)
+* [Feasible solution for mega-tall buildings](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_139.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Computational expensive optimization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_94.md)
+* [Difficulty in measuring real people flow](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_98.md)
 

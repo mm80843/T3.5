@@ -2,13 +2,9 @@
 
 # __Practice patience and compassion__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Increased stress for students and faculty](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_213.md)
-
-## Property: has_MitigationBenefit
-
-* [Supportive community environment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_266.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Provide mental health support, promote understanding and empathy, combat discrimination.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1521.md)
 * [Providing emotional support, counseling services, and resources to address mental health needs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1988.md)
 * [Provide mental health support services, promote healthy coping mechanisms, and ensure access to healthcare resources.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1523.md)
+
+## Property: has_MitigationBenefit
+
+* [Supportive community environment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_266.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Increased stress for students and faculty](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_213.md)
 

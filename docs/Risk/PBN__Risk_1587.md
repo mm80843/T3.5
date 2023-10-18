@@ -2,26 +2,9 @@
 
 # __Economic disparities among Member States__
 
-## Property: has_RiskHealth
+## Category to which it belongs
 
-* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_3.md)
-* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_4.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Description of the risk
-
-The economic impacts of the COVID-19 crisis are not evenly distributed among Member States, exacerbating existing disparities and widening the economic divide
-
-## Property: has_RiskType
-
-* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_3.md)
-
-## Articles mentionning the risk
-
-* [Borders and Catastrophe: lessons from COVID-19 for the European Green Deal](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_156.md)
+* [The ramifications of global connectivity include economic instability, impacts of the pandemic, unemployment, poverty, reduced tourism revenue, and decline in public budgets.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_103.md)
 
 ## Closest similar item
 
@@ -36,34 +19,55 @@ The economic impacts of the COVID-19 crisis are not evenly distributed among Mem
 * [Health Disparities and Equity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1186.md)
 * [Socio-economic factors and regional characteristics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1357.md)
 
-## People affected by this risk
+## Description of the risk
 
-* [none](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_629.md)
+The economic impacts of the COVID-19 crisis are not evenly distributed among Member States, exacerbating existing disparities and widening the economic divide
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Property: has_RiskHealth
+
+* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_3.md)
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_4.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_8.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_10.md)
+
+## Mitigations of this risk
+
+* [Implement policies and measures to support the most affected regions and sectors, ensure fair distribution of recovery funds, and promote economic resilience and diversification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2119.md)
+
+## Name of the risk
+
+Increased social inequality, higher unemployment rates, and greater economic instability
 
 ## Stakeholders who can mitigate this risk
 
 * [member states](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_315.md)
 * [european union](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1019.md)
 
-## Name of the risk
+## Articles mentionning the risk
 
-Increased social inequality, higher unemployment rates, and greater economic instability
+* [Borders and Catastrophe: lessons from COVID-19 for the European Green Deal](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_156.md)
 
-## Mitigations of this risk
+## People affected by this risk
 
-* [Implement policies and measures to support the most affected regions and sectors, ensure fair distribution of recovery funds, and promote economic resilience and diversification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2119.md)
-
-## Property: has_RiskISO_Purpose
-
-* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_10.md)
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_629.md)
 
 ## Technologies linked to the risk
 
 * [targeted investments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_895.md)
 * [financial assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_894.md)
 * [economic diversification strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_896.md)
+
+## Property: has_RiskType
+
+* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_3.md)
 

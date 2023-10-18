@@ -2,9 +2,9 @@
 
 # __improved connectivity__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q4723998](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4723998.md)
+* [Enhanced connectivity and diverse communication platforms enable the dissemination of reliable information and promote open communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_225.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [neighbourhood improvements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3414.md)
 * [internet connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_572.md)
 * [Internet connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2849.md)
+
+## This Technology is identified by the following QID
+
+* [Q4723998](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4723998.md)
 

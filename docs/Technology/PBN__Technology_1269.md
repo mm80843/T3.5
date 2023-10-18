@@ -2,9 +2,9 @@
 
 # __provide balconies__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q66545545](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q66545545.md)
+* [Explore a diverse range of materials, from sound-absorbing to eco-friendly, that contribute to innovative building solutions and educational resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_222.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [carbon allowances](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3576.md)
 * [air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3770.md)
 * [drainage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4451.md)
+
+## This Technology is identified by the following QID
+
+* [Q66545545](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q66545545.md)
 

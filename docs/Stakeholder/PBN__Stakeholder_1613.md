@@ -2,14 +2,9 @@
 
 # __city council__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q701632](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q701632.md)
-* [Q3154693](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3154693.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [City Officials](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_0.md)
+* [Areas inhabited by people in cities, focusing on residents, professionals, researchers, decision-makers, and institutions involved in urban planning and development.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_376.md)
 
 ## Closest similar item
 
@@ -27,4 +22,13 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Governmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_5.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q701632](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q701632.md)
+* [Q3154693](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3154693.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [City Officials](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_0.md)
 

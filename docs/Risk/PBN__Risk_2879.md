@@ -2,9 +2,9 @@
 
 # __Transmission in poorly ventilated rooms__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Ventilation control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1044.md)
+* [Infectious spread through various modes such as close contact, social gatherings, fomites, bodily fluids, and respiratory droplets.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_123.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Contamination, transmission through air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2489.md)
 * [Transmission, Exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2537.md)
 * [Inadequate ventilation systems in workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_438.md)
+
+## Mitigations of this risk
+
+* [Ventilation control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1044.md)
 

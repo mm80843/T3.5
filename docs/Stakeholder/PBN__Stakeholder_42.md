@@ -2,9 +2,21 @@
 
 # __surgical trainees__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q448553](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q448553.md)
+* [Various individuals in the healthcare industry, including epidemiologists, medical personnel, clinicians, surgeons, and patients in need of medical care.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_360.md)
+
+## Risk affecting this stakeholder
+
+* [Technology Access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1265.md)
+* [Patient Rapport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1266.md)
+* [Regionalization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1270.md)
+* [Decreased Exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1262.md)
+* [Limited Operative](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1269.md)
+* [Minimized Surgery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1264.md)
+* [Imaging Limitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1267.md)
+* [Access to Videos](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1268.md)
+* [Faculty Engagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1271.md)
 
 ## Closest similar item
 
@@ -19,18 +31,6 @@
 * [medical staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_93.md)
 * [healthcare personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_185.md)
 
-## Risk affecting this stakeholder
-
-* [Technology Access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1265.md)
-* [Patient Rapport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1266.md)
-* [Regionalization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1270.md)
-* [Decreased Exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1262.md)
-* [Limited Operative](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1269.md)
-* [Minimized Surgery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1264.md)
-* [Imaging Limitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1267.md)
-* [Access to Videos](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1268.md)
-* [Faculty Engagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1271.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Improved knowledge acquisition](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_48.md)
@@ -39,4 +39,8 @@
 * [Continued involvement of residents with clinic](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_51.md)
 * [Maintenance of technical skills through deliberate practice](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_52.md)
 * [Enhanced learning and discussion opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_53.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q448553](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q448553.md)
 

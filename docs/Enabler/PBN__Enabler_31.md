@@ -2,13 +2,13 @@
 
 # __Digital signage__
 
-## Property: has_TechEquivalent
-
-* [Digital signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4556.md)
-
 ## Property: has_BP_EnablerTitle
 
 enabler_032
+
+## Category to which it belongs
+
+* [Visual electronic displays used for advertising or relaying information in various public spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_91.md)
 
 ## Closest similar item
 
@@ -27,4 +27,8 @@ enabler_032
 
 * [Public places as information points](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_8.md)
 * [Good hand hygiene practice](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_14.md)
+
+## Property: has_TechEquivalent
+
+* [Digital signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4556.md)
 

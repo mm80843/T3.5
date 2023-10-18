@@ -2,9 +2,9 @@
 
 # __Liquidity crisis__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Support widespread skills](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2190.md)
+* [Financial vulnerability and instability permeate various sectors and industries, hindering growth, sustainability, and access to resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_114.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Systemic risk in economic and financial systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1342.md)
 * [Financial problems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_415.md)
 * [Financial difficulties](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2848.md)
+
+## Mitigations of this risk
+
+* [Support widespread skills](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2190.md)
 

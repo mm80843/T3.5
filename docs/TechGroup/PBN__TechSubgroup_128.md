@@ -2,10 +2,9 @@
 
 # __Public Spaces and Transportation__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [Improved public transportation services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2664.md)
-* [Manufacturing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2368.md)
+* [The intersection of urban development, management, transportation, and public spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_28.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Travel Restrictions and Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_159.md)
 * [Urban Planning and Green Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_82.md)
 * [Smart City and Occupancy Tracking Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_150.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [Improved public transportation services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2664.md)
+* [Manufacturing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2368.md)
 

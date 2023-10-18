@@ -2,9 +2,9 @@
 
 # __energy analysis software__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Energy audits](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_704.md)
+* [A list of diverse software tools, including financial management, construction technology, project management, communication, and monitoring software.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_219.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [energy-efficient design software and technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_81.md)
 * [statistical analysis software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3333.md)
 * [smart energy management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_326.md)
+
+## This Technology enables the following mitigations
+
+* [Energy audits](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_704.md)
 

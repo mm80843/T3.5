@@ -2,9 +2,9 @@
 
 # __Surveillance of vector__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [monitoring equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3662.md)
+* [Advanced monitoring and tracking technology for remote supervision, surveillance, and contactless delivery in healthcare settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_154.md)
 
 ## Closest similar item
 
@@ -19,14 +19,18 @@
 * [Enhanced Surveillance and Reporting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1863.md)
 * [Mass surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1973.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Monitoring vector populations and disease incidence to prepare for and mitigate the risk of mosquito-borne disease outbreaks
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [A general modeling framework for exploring the impact of individual concern and personal protection on vector-borne disease dynamics](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_217.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [monitoring equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3662.md)
 

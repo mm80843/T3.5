@@ -2,13 +2,14 @@
 
 # __individuals with low well-being__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q7456400](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7456400.md)
+* [Vulnerable and economically disadvantaged individuals and communities, including low-income workers, renters, and households, particularly in urban areas and minority communities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_375.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Low levels of psychological well-being](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2040.md)
+* [Non-flourishing individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2041.md)
 
 ## Closest similar item
 
@@ -23,12 +24,15 @@
 * [low-income individuals and families](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_409.md)
 * [lower-income individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1515.md)
 
-## Risk affecting this stakeholder
-
-* [Low levels of psychological well-being](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2040.md)
-* [Non-flourishing individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2041.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Individuals with Health Conditions](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_76.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q7456400](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7456400.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 

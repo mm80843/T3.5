@@ -2,13 +2,9 @@
 
 # __Increased chlorination__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Water quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_714.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced treatment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1001.md)
+* [Efforts include RNA monitoring, occupant exposure modeling, targeted messages, adoption of principles, copper coating, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_311.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Avoid air recirculation, increase outdoor air flow rate, use filters or UV disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2350.md)
 * [Increased ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1384.md)
 * [Increased tree canopy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_859.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced treatment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1001.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Water quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_714.md)
 

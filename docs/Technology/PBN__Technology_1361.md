@@ -2,9 +2,9 @@
 
 # __complex modeling techniques incorporating variables such as excretion patterns__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q17143560](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q17143560.md)
+* [Improvements in wastewater, waste management, sanitation, water purification, and plumbing technologies aim for sustainable and efficient infrastructure development.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_234.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [simulation models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1458.md)
 * [statistical modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3724.md)
 * [integrated care models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4079.md)
+
+## This Technology is identified by the following QID
+
+* [Q17143560](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q17143560.md)
 

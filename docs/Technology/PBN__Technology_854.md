@@ -2,9 +2,9 @@
 
 # __hydrogen peroxide__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q171877](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q171877.md)
+* [The range of materials and techniques listed includes various disinfectants, nanomaterials, manufacturing methods, coatings, sustainability measures, and analytical tools.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_237.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [photocatalytic oxidation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1744.md)
 * [various disinfection technologies including ozone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1903.md)
 * [sanitizing products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4225.md)
+
+## This Technology is identified by the following QID
+
+* [Q171877](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q171877.md)
 

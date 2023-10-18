@@ -2,13 +2,9 @@
 
 # __Neighborhood-oriented development__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Impact of Covid-19 on neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_29.md)
-
-## Property: has_MitigationBenefit
-
-* [Community development](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_45.md)
+* [Promote equitable, sustainable, and inclusive urban planning to enhance living conditions, mitigate overcrowding, and reduce disparities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_324.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Neighbourhood hygiene maintenance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_754.md)
 * [Urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_70.md)
 * [Ensure equitable distribution of urban green spaces by prioritizing underserved neighborhoods for green space development and improvement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2411.md)
+
+## Property: has_MitigationBenefit
+
+* [Community development](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_45.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Impact of Covid-19 on neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_29.md)
 

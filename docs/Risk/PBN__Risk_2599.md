@@ -2,12 +2,9 @@
 
 # __Lack of information__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Effective communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_318.md)
-* [Digital communication strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1718.md)
-* [Improved health information system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1270.md)
-* [Better communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_505.md)
+* [The proliferation of false and misleading information, misinformation, and inaccurate news during pandemics creates confusion and a lack of trust in reliable sources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_127.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [Lack of access to accurate information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1829.md)
 * [Lack of information transparency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_658.md)
 * [Lack of timely information and evidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2794.md)
+
+## Mitigations of this risk
+
+* [Effective communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_318.md)
+* [Digital communication strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1718.md)
+* [Improved health information system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1270.md)
+* [Better communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_505.md)
 

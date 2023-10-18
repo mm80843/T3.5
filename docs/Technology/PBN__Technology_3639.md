@@ -2,9 +2,9 @@
 
 # __diplomatic efforts__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [International collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1090.md)
+* [Government actions and regulations addressing various aspects of society, including policy changes, ethical frameworks, governance mechanisms, and public announcements.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_216.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [international policy framework](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3329.md)
 * [collaboration agreements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4328.md)
 * [government intervention](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3561.md)
+
+## This Technology enables the following mitigations
+
+* [International collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1090.md)
 

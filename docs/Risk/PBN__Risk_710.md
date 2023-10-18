@@ -2,9 +2,9 @@
 
 # __Emerging pandemics__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Surveillance system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_983.md)
+* [The challenges and consequences of the global pandemic include poor acoustics, noise pollution, food security, increase in inequality, waste, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_131.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Global pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1437.md)
 * [Lack of disaster management protocols for pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_527.md)
 * [Misinformation propagation during pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_104.md)
+
+## Mitigations of this risk
+
+* [Surveillance system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_983.md)
 

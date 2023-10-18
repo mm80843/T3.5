@@ -2,9 +2,9 @@
 
 # __Ensure proper ventilation systems, regular cleaning and maintenance of HVAC systems, promote natural ventilation__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Insufficient air circulation and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1675.md)
+* [Enhance airflow, increase fresh air intake, and optimize ventilation systems to improve air quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_329.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Ensure proper ventilation and air circulation systems, conduct regular maintenance and cleaning, and promote good indoor air quality practices.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1776.md)
 * [Install and maintain proper ventilation systems, ensure regular airflow and air exchange.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2105.md)
 * [Improve natural ventilation, use control systems for windows and air vents, increase air circulation.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2553.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Insufficient air circulation and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1675.md)
 

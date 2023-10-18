@@ -2,9 +2,9 @@
 
 # __Individual responsibility for travel choices__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Promotion of responsible travel behavior](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_743.md)
+* [The changing landscape of travel and transportation has led to concerns over safety, reduced demand, and inadequate infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_125.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Globalization and travel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2081.md)
 * [Higher dependency on public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3106.md)
 * [Disruption in the travel and tourism industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_679.md)
+
+## Mitigations of this risk
+
+* [Promotion of responsible travel behavior](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_743.md)
 

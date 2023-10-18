@@ -2,9 +2,9 @@
 
 # __Limitations of anonymization conversions__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Alignment to longitudinal characteristics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1124.md)
+* [Concerns about the protection of personal information, surveillance, data security, and risks of privacy infringement.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_108.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Invasion of privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2744.md)
 * [Privacy invasion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2343.md)
 * [Discrimination and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3127.md)
+
+## Mitigations of this risk
+
+* [Alignment to longitudinal characteristics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1124.md)
 

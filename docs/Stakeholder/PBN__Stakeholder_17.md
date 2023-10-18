@@ -2,13 +2,15 @@
 
 # __humans__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q5](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5.md)
+* [A diverse range of individuals, including citizens, pedestrians, people with disabilities, and those in crowded environments, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_368.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
+* [Environmental degradation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1343.md)
+* [Zoonotic infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1016.md)
+* [Baylisascaris procyonis contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1425.md)
 
 ## Closest similar item
 
@@ -23,16 +25,6 @@
 * [young people](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_264.md)
 * [pedestrians](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_481.md)
 
-## Risk affecting this stakeholder
-
-* [Environmental degradation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1343.md)
-* [Zoonotic infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1016.md)
-* [Baylisascaris procyonis contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1425.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [General Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_88.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Reduced risk of future zoonotic outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_23.md)
@@ -40,4 +32,16 @@
 * [Reducing zoonotic disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_697.md)
 * [Lower vulnerability to disease](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_698.md)
 * [Reducing environmental contamination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_699.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [General Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_88.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q5](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
 

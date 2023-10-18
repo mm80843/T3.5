@@ -2,9 +2,9 @@
 
 # __policy implementation__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Active Smoke-Free Policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1780.md)
+* [Consistent oversight and regulation ensure compliance, as standardized protocols are enforced by enforcement personnel and regulatory bodies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_228.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [policy advocacy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_453.md)
 * [Policy advocacy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2484.md)
 * [government policies and guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4329.md)
+
+## This Technology enables the following mitigations
+
+* [Active Smoke-Free Policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1780.md)
 

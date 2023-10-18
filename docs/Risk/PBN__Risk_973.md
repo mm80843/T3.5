@@ -2,9 +2,9 @@
 
 # __Lack of Trust in Information__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Quick and Accurate Information Dissemination](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1364.md)
+* [The proliferation of false and misleading information, misinformation, and inaccurate news during pandemics creates confusion and a lack of trust in reliable sources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_127.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of Information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2519.md)
 * [Lack of information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2599.md)
 * [Lack of trust and cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2022.md)
+
+## Mitigations of this risk
+
+* [Quick and Accurate Information Dissemination](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1364.md)
 

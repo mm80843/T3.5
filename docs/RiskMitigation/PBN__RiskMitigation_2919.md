@@ -2,9 +2,9 @@
 
 # __Providers need to be aware of potential limitations and compensate with verbal communication and active listening techniques.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Limited availability of non-verbal cues in telepsychiatry consultations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2241.md)
+* [Facilitate transparent communication, enabling reliable information sharing through standardized protocols and effective channels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_0.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Maintain open communication and provide reassurance to the workforce.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2465.md)
 * [Develop and implement effective communication strategies to educate and inform individuals about the risks and precautionary measures in the facility](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2028.md)
 * [Increase testing capacity and accessibility in deprived areas.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2540.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limited availability of non-verbal cues in telepsychiatry consultations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2241.md)
 

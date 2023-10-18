@@ -2,13 +2,9 @@
 
 # __Comfort__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Improved internet connectivity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_353.md)
-* [Smart home automation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_351.md)
-* [Flexible room layout](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_352.md)
-* [Personal space](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_242.md)
-* [Self-dependent services and urban farming](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_852.md)
+* [Limited physical/social distancing, thermal discomfort, poor lighting, and inadequate air quality negatively impact personal comfort.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_130.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Inefficient thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1803.md)
 * [PC4: Personal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_204.md)
 * [PC3: Personal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_203.md)
+
+## Mitigations of this risk
+
+* [Improved internet connectivity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_353.md)
+* [Smart home automation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_351.md)
+* [Flexible room layout](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_352.md)
+* [Personal space](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_242.md)
+* [Self-dependent services and urban farming](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_852.md)
 

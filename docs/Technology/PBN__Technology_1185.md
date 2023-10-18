@@ -2,9 +2,9 @@
 
 # __adequate funding and staffing__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q6055890](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6055890.md)
+* [Maximizing economic efficiency while promoting financial stability through innovative strategies, investments, and partnerships at various levels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_195.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [increased healthcare funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_109.md)
 * [local funding sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4226.md)
 * [financial support mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_631.md)
+
+## This Technology is identified by the following QID
+
+* [Q6055890](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6055890.md)
 

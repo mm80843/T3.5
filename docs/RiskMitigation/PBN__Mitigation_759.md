@@ -2,9 +2,9 @@
 
 # __Temperature adjustment in WBE__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [temperature sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3044.md)
+* [Achieving comfort through temperature management, monitoring, and control while implementing climate-sensitive design and utilizing thermal imaging technology for screening and measurement purposes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_185.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Maintaining optimum temperatures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1845.md)
 * [Combined use of WBE and clinical testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_758.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Misjudging public health status](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2720.md)
-
 ## Property: has_MitigationPrinciple
 
 Accounting for temperature effects in wastewater degradation to accurately estimate virus concentrations and inform public health interventions.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Misjudging public health status](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2720.md)
+
 ## Property: has_MitigationSource
 
 * [Computational analysis of SARS-CoV-2/COVID-19 surveillance by wastewater-based epidemiology locally and globally: Feasibility, economy, opportunities and challenges](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_252.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [temperature sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3044.md)
 

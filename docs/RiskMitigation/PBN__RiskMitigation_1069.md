@@ -2,13 +2,9 @@
 
 # __Systemic change__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Inherent vulnerabilities in](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_775.md)
-
-## Property: has_MitigationBenefit
-
-* [Rethinking social and economic models](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1064.md)
+* [Strengthen collaborations, implement behavioral change, deploy social robots, and promote sustainable content consumption for community-based strategies, holistic research, and positive media representation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_316.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Seek financial support, negotiate new payment terms, explore new markets](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1528.md)
 * [Improving healthcare access and affordability, addressing systemic inequities in healthcare.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1806.md)
 * [Permanent transformations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1236.md)
+
+## Property: has_MitigationBenefit
+
+* [Rethinking social and economic models](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1064.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inherent vulnerabilities in](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_775.md)
 

@@ -2,13 +2,9 @@
 
 # __Mandatory use of masks,__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Pandemic containment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_706.md)
-
-## Property: has_MitigationBenefit
-
-* [Disease control](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_982.md)
+* [Encouraging the use of masks, practicing social distancing, and promoting good hygiene practices are vital preventive measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_345.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Encouraging the use of face masks, practicing respiratory hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1761.md)
 * [Implementing strict hygiene and sanitation measures, promoting social distancing, and enforcing mask-wearing in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1463.md)
 * [Face masks + 50% isolation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_699.md)
+
+## Property: has_MitigationBenefit
+
+* [Disease control](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_982.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Pandemic containment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_706.md)
 

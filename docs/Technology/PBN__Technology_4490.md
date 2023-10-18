@@ -2,10 +2,9 @@
 
 # __robotic systems__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Blood test automation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2423.md)
-* [Robot-assisted nasopharyngeal and oropharyngeal swabs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2422.md)
+* [Advanced technologies and algorithms for modeling, simulation, optimization, and artificial intelligence in various applications, including robotics and computational fluid dynamics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_239.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [medical robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4090.md)
 * [robotic assistance in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1505.md)
 * [Robotic assistance in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2883.md)
+
+## This Technology enables the following mitigations
+
+* [Blood test automation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2423.md)
+* [Robot-assisted nasopharyngeal and oropharyngeal swabs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2422.md)
 

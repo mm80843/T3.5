@@ -2,8 +2,9 @@
 
 # __Use of advanced HVAC systems with high-efficiency filters__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
+* [Improved and energy-efficient HVAC systems, along with advanced technologies, for efficient energy management and environmental control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_227.md)
 
 ## Closest similar item
 
@@ -18,11 +19,14 @@
 * [energy-efficient hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_750.md)
 * [high-efficiency particulate air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1743.md)
 
-## This Technology belongs to this TechGroup
-
-* [Indoor air technlogies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_18.md)
-
 ## This Technology is identified by the following QID
 
 * [Q583488](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q583488.md)
+
+## This Technology belongs to this TechSubgroup
+
+
+## This Technology belongs to this TechGroup
+
+* [Indoor air technlogies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_18.md)
 

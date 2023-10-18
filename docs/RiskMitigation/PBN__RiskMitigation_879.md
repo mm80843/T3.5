@@ -2,12 +2,9 @@
 
 # __Combination of PCR methods and biomarker measurements (ELISA, MS)__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-
-## Property: has_MitigationBenefit
-
-* [Comprehensive and professional analysis](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_880.md)
+* [Monitoring, analysis, and standardization of various technologies and protocols for accurate and reliable healthcare data collection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_310.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [Improve specificity of PCR assays to distinguish between SARS-CoV-2 and other coronaviruses.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3042.md)
 * [Universal asymptomatic RT-PCR testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1222.md)
 * [Validate and optimize PCR assays to ensure accurate detection of SARS-CoV-2 genetic material.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3041.md)
+
+## Property: has_MitigationBenefit
+
+* [Comprehensive and professional analysis](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_880.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

@@ -2,9 +2,9 @@
 
 # __desk-based extraction__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Adaptation of schools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2003.md)
+* [Advancements in biotechnology, clinical research, and innovative therapies contribute to the development of medical solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Outdoor furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2361.md)
 * [flexible furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3254.md)
 * [dna/rna extraction methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4000.md)
+
+## This Technology enables the following mitigations
+
+* [Adaptation of schools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2003.md)
 

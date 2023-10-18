@@ -2,19 +2,9 @@
 
 # __Topic modelling__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_324.md)
-* [Impact on international relations and trade deals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_413.md)
-* [Financial fragility on businesses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_412.md)
-* [Impact on restaurants and hospitality industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_414.md)
-
-## Property: has_MitigationBenefit
-
-* [Identification of non-medical impacts](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_560.md)
-* [Identification of impacted sectors](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_564.md)
-* [Identification of impacted areas](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_565.md)
-* [Identification of impacted businesses](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_566.md)
+* [Advancements in bioinformatics, divestment, automated sample collection, and artificial intelligence are facilitating early disease detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_336.md)
 
 ## Closest similar item
 
@@ -28,4 +18,18 @@
 * [Ontologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_53.md)
 * [Ontology-based systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_840.md)
 * [Introducing neighborhood-level processes in large-scale models](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_363.md)
+
+## Property: has_MitigationBenefit
+
+* [Identification of non-medical impacts](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_560.md)
+* [Identification of impacted sectors](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_564.md)
+* [Identification of impacted areas](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_565.md)
+* [Identification of impacted businesses](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_566.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_324.md)
+* [Impact on international relations and trade deals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_413.md)
+* [Financial fragility on businesses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_412.md)
+* [Impact on restaurants and hospitality industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_414.md)
 

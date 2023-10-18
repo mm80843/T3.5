@@ -2,25 +2,9 @@
 
 # __Lack of standards for publication__
 
-## Property: has_RiskHealth
+## Category to which it belongs
 
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Description of the risk
-
-Inconsistency in reporting and publication standards for research using real-world evidence and electronic health records.
-
-## Property: has_RiskType
-
-* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
-* [legal](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_6.md)
-
-## Articles mentionning the risk
-
-* [Data capture and sharing in the COVID-19 pandemic: a cause for concern](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_208.md)
+* [Limited monitoring, technical limitations, language barriers, expensive optimization, lack of connection with nature, and limited sensor diversity hinder effective response and resource allocation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_107.md)
 
 ## Closest similar item
 
@@ -35,35 +19,55 @@ Inconsistency in reporting and publication standards for research using real-wor
 * [Lack of research and development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1312.md)
 * [Lack of access to best practices and knowledge](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2805.md)
 
-## People affected by this risk
+## Description of the risk
 
-* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
-* [medical journal editors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_854.md)
+Inconsistency in reporting and publication standards for research using real-world evidence and electronic health records.
+
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Property: has_RiskHealth
+
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
+## Mitigations of this risk
+
+* [Develop comprehensive checklists, establish reporting standards, promote endorsement by medical journals.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1834.md)
+
+## Name of the risk
+
+Inadequate reporting of key study characteristics, reduced transparency and quality of research.
 
 ## Stakeholders who can mitigate this risk
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [medical journal editors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_854.md)
 
-## Name of the risk
+## Articles mentionning the risk
 
-Inadequate reporting of key study characteristics, reduced transparency and quality of research.
+* [Data capture and sharing in the COVID-19 pandemic: a cause for concern](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_208.md)
 
-## Mitigations of this risk
+## People affected by this risk
 
-* [Develop comprehensive checklists, establish reporting standards, promote endorsement by medical journals.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1834.md)
-
-## Property: has_RiskISO_Purpose
-
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [medical journal editors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_854.md)
 
 ## Technologies linked to the risk
 
 * [guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_523.md)
 * [checklists](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_522.md)
 * [frameworks for evaluation of real-world evidence research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_524.md)
+
+## Property: has_RiskType
+
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
+* [legal](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_6.md)
 

@@ -2,8 +2,9 @@
 
 # __Implement Mental Health and Well-being Programs__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Advocacy and initiatives promoting well-being, knowledge, equitable access to healthcare, and healthy lifestyles.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_188.md)
 
 ## Closest similar item
 
@@ -18,14 +19,17 @@
 * [Creating mechanisms for psychosocial support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1607.md)
 * [Creation of online content for psychological support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_970.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Implement programs and initiatives that promote mental health and well-being in individuals and communities.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Mental health economics: A prospective study on psychological flourishing and associations with healthcare costs and sickness benefit transfers in Denmark](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_189.md)
+
+## This Mitigation is enabled by the following technologies
+
 

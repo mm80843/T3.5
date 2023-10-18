@@ -2,9 +2,9 @@
 
 # __smart home technologies__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q64865818](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q64865818.md)
+* [Technological advancements encompass a wide range of innovations, such as blockchain, touchless, renewable energy, and communication technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [smart technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4518.md)
 * [Smart devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2839.md)
 * [smart systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3256.md)
+
+## This Technology is identified by the following QID
+
+* [Q64865818](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q64865818.md)
 

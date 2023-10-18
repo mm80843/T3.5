@@ -2,9 +2,9 @@
 
 # __Economic inequality__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Cash payments to vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_199.md)
+* [The ramifications of global connectivity include economic instability, impacts of the pandemic, unemployment, poverty, reduced tourism revenue, and decline in public budgets.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_103.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Increase in inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_240.md)
 * [Inequality gap widening](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1440.md)
 * [Inequalities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1341.md)
+
+## Mitigations of this risk
+
+* [Cash payments to vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_199.md)
 

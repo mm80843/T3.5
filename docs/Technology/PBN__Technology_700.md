@@ -2,9 +2,9 @@
 
 # __digital inclusion initiatives__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q3149923](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3149923.md)
+* [The digital revolution encompasses various aspects, from online promotion to contactless payment systems and virtual learning platforms.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_190.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [inclusive policies and programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3628.md)
 * [community initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2909.md)
 * [inclusive policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1806.md)
+
+## This Technology is identified by the following QID
+
+* [Q3149923](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3149923.md)
 

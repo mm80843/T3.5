@@ -2,10 +2,9 @@
 
 # __deep learning models__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Artificial intelligence in predictive analytics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1235.md)
-* [Rapid diagnosis techniques](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1254.md)
+* [Advanced technologies and algorithms for modeling, simulation, optimization, and artificial intelligence in various applications, including robotics and computational fluid dynamics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_239.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [fast prediction models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4334.md)
 * [computational models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3961.md)
 * [machine learning methodologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3316.md)
+
+## This Technology enables the following mitigations
+
+* [Artificial intelligence in predictive analytics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1235.md)
+* [Rapid diagnosis techniques](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1254.md)
 

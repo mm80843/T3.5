@@ -2,13 +2,9 @@
 
 # __Use of positioning technologies__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Need for effective disaster management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_422.md)
-
-## Property: has_MitigationBenefit
-
-* [Efficient relief and rehabilitation efforts](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_579.md)
+* [Accelerate the shift to digitalization by embracing emerging technologies and implementing innovative solutions across various sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_346.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Use of new smart/innovative technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_214.md)
 * [Use of digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_707.md)
 * [Access to outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_849.md)
+
+## Property: has_MitigationBenefit
+
+* [Efficient relief and rehabilitation efforts](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_579.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Need for effective disaster management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_422.md)
 

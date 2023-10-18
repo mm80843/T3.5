@@ -2,12 +2,9 @@
 
 # __Smart water systems__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-
-## Property: has_MitigationBenefit
-
-* [Optimization of water management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_811.md)
+* [Promote efficient and sustainable water practices, enhance infrastructure, and ensure access to clean water and sanitation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_339.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [Sustainable water management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_350.md)
 * [Establish measures to control water quality and availability](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2939.md)
 * [Install water-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2887.md)
+
+## Property: has_MitigationBenefit
+
+* [Optimization of water management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_811.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

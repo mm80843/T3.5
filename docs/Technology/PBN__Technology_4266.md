@@ -2,9 +2,9 @@
 
 # __availability of local services__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Availability of self-dependent services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2146.md)
+* [Enhancing accessibility and support through a range of remote healthcare, counseling, transportation, and translation services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_213.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [local sourcing networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1693.md)
 * [support services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3412.md)
 * [remote service platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4286.md)
+
+## This Technology enables the following mitigations
+
+* [Availability of self-dependent services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2146.md)
 

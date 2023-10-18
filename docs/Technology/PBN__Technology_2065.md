@@ -2,8 +2,9 @@
 
 # __Research collaborations__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
+* [Advanced analytics, fact-checking, project management, reliable sources, knowledge extraction, and collaboration ensure accurate information dissemination and effective decision-making.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_192.md)
 
 ## Closest similar item
 
@@ -21,4 +22,7 @@
 ## This Technology belongs to this TechGroup
 
 * [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
+
+## This Technology belongs to this TechSubgroup
+
 

@@ -2,9 +2,9 @@
 
 # __Check and control pressure differentials, increase ventilation rates, and monitor and maintain the operation of heat recovery systems.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Improper use of heat recovery systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1430.md)
+* [Enhance airflow, increase fresh air intake, and optimize ventilation systems to improve air quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_329.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Improve building ventilation systems and air circulation, ensure proper maintenance of HVAC systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2549.md)
 * [Regular maintenance and cleaning of ventilation systems, use of air purifiers and filters, proper ventilation design.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1569.md)
 * [Increase ventilation rates and airflow, consider filtration and air purification systems, and ensure proper maintenance of HVAC systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3106.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Improper use of heat recovery systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1430.md)
 

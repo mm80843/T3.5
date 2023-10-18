@@ -2,13 +2,9 @@
 
 # __Blockchain-enabled system for EHR exchange__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Complexity and lack of interoperability in EHR systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_322.md)
-
-## Property: has_MitigationBenefit
-
-* [Seamless and secure data exchange](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_398.md)
+* [Enable transparent and secure data management, traceability, and efficient distribution while promoting accurate information dissemination and verification.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_321.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implement blockchain technology for secure and decentralized data storage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2702.md)
 * [Use of blockchain for reporting systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1170.md)
 * [Blockchain technology for contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1056.md)
+
+## Property: has_MitigationBenefit
+
+* [Seamless and secure data exchange](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_398.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Complexity and lack of interoperability in EHR systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_322.md)
 

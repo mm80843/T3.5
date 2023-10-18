@@ -2,9 +2,9 @@
 
 # __knowledge-base system__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Safe Pedestrian Navigation Service](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_353.md)
+* [Advanced analytics, fact-checking, project management, reliable sources, knowledge extraction, and collaboration ensure accurate information dissemination and effective decision-making.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_192.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Expert systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2121.md)
 * [knowledge translation platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_565.md)
 * [Knowledge translation platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2041.md)
+
+## This Technology enables the following mitigations
+
+* [Safe Pedestrian Navigation Service](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_353.md)
 

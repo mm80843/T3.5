@@ -2,13 +2,9 @@
 
 # __Risk management strategies__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Financial impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_599.md)
-
-## Property: has_MitigationBenefit
-
-* [Mitigating financial risks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_838.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Infuse risk communication into policy decisions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_922.md)
 * [Risk perception](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_379.md)
 * [Enhance core capacities, improve risk communication, engage communities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1609.md)
+
+## Property: has_MitigationBenefit
+
+* [Mitigating financial risks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_838.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Financial impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_599.md)
 

@@ -2,9 +2,9 @@
 
 # __integrated building systems__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [New opportunities for non-centralized building systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_424.md)
+* [Design and construction professionals use innovative techniques and strategies to create adaptable, sustainable, and inclusive buildings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_217.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Smart building technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2383.md)
 * [building information modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2983.md)
 * [architecture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3431.md)
+
+## This Technology enables the following mitigations
+
+* [New opportunities for non-centralized building systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_424.md)
 

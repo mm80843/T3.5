@@ -2,9 +2,9 @@
 
 # __Impulsiveness and aggressiveness__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Social Cohesion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_931.md)
+* [The ramifications of social distancing include inconsistent recommendations, increased violence, changes in social practices, and lack of interaction, among other social issues.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_96.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of behavior change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2428.md)
 * [Limited understanding of human behavior](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_583.md)
 * [Health harming behaviours](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4.md)
+
+## Mitigations of this risk
+
+* [Social Cohesion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_931.md)
 

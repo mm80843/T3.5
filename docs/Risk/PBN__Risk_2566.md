@@ -2,11 +2,9 @@
 
 # __Resistance to change__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Revisions in density and compact design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_420.md)
-* [Increase in off-site construction and engineering](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_418.md)
-* [Cultural change](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_903.md)
+* [Fragmented global governance, reduced aid, ethical concerns, educational disruption, impacts on peace and justice, and inadequate coordination between stakeholders.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_115.md)
 
 ## Closest similar item
 
@@ -20,4 +18,10 @@
 * [Temporary transformations leading to permanent changes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_914.md)
 * [Uncertainty and changes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2864.md)
 * [Climate change adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1924.md)
+
+## Mitigations of this risk
+
+* [Revisions in density and compact design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_420.md)
+* [Increase in off-site construction and engineering](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_418.md)
+* [Cultural change](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_903.md)
 

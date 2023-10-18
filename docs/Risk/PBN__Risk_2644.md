@@ -2,9 +2,9 @@
 
 # __Increased fear, disruption__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_11.md)
+* [The ramifications of social distancing include inconsistent recommendations, increased violence, changes in social practices, and lack of interaction, among other social issues.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_96.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Increased anxiety and negative psychological effects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2836.md)
 * [Lack of awareness and safe distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3205.md)
 * [Increased risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2956.md)
+
+## Mitigations of this risk
+
+* [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_11.md)
 

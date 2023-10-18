@@ -2,8 +2,9 @@
 
 # __Universal vaccines__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [A comprehensive approach to disease prevention through widespread immunization, research, and education.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_153.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Vaccine formulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3.md)
 * [Vaccination programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1013.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Emerging variants of viruses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3445.md)
-
 ## Property: has_MitigationPrinciple
 
 Develops vaccines that are effective against diverse strains of viruses
 
+## Risks possibly mitigated by this Mitigation
+
+* [Emerging variants of viruses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3445.md)
+
 ## Property: has_MitigationSource
 
 * [Current knowledge of COVID-19: Advances, challenges and future perspectives](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_118.md)
+
+## This Mitigation is enabled by the following technologies
+
 

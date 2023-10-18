@@ -2,9 +2,9 @@
 
 # __touchless entry systems__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q6887300](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6887300.md)
+* [These resources aim to enhance security, convenience, and efficiency in managing access, spaces, and systems within various environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_206.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [touchless household technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1726.md)
 * [touch-free technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1291.md)
 * [Touch-free technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2571.md)
+
+## This Technology is identified by the following QID
+
+* [Q6887300](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6887300.md)
 

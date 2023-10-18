@@ -2,9 +2,9 @@
 
 # __Smart storage solutions__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
-* [Building Materials](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_180.md)
+* [A comprehensive range of advanced, interconnected devices that offer efficiency, convenience, and enhanced functionality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_238.md)
 
 ## Closest similar item
 
@@ -19,11 +19,15 @@
 * [Data collection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2528.md)
 * [energy storage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1761.md)
 
-## This Technology belongs to this TechGroup
-
-* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_12.md)
-
 ## This Technology is identified by the following QID
 
 * [Q66221](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q66221.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Building Materials](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_180.md)
+
+## This Technology belongs to this TechGroup
+
+* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_12.md)
 

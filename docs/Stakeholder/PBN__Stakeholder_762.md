@@ -2,13 +2,13 @@
 
 # __individuals monitoring health conditions__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q1421432](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1421432.md)
+* [Public health stakeholders and individuals alike are concerned about health, seeking information and guidance from trusted sources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_354.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Technical limitations of wearables](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1246.md)
 
 ## Closest similar item
 
@@ -23,10 +23,14 @@
 * [users of healthcare technologies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_36.md)
 * [individuals with poor health conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_581.md)
 
-## Risk affecting this stakeholder
-
-* [Technical limitations of wearables](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1246.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
+
+## This Stakeholder is identified by the following QID
+
+* [Q1421432](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1421432.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 

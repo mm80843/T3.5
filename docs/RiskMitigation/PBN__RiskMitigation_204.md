@@ -2,13 +2,9 @@
 
 # __Maintaining physical distance between workers__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Exposure to virus at work](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_164.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduced risk of virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_177.md)
+* [Ensuring equitable access, promoting flexible work, implementing safety measures, and providing support for remote work and flexible schedules.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_323.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Enforce measures such as social distancing and remote work.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1813.md)
 * [Reduce occupancy rates, enforce physical distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1969.md)
 * [Designing spaces to enable physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1311.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced risk of virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_177.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Exposure to virus at work](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_164.md)
 

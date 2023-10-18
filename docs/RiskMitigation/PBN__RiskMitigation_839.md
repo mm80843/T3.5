@@ -2,16 +2,9 @@
 
 # __Optimal occupant distribution__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Improved thermal comfort of occupants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_606.md)
-* [Increased physical contact between occupants increases virus transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_605.md)
-* [High population density increases virus transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_604.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduced infection risk, fewer infected people](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_842.md)
-* [Enhanced thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_843.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -25,4 +18,15 @@
 * [Prioritize green space in deprived areas, consider equitable distribution in urban planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1474.md)
 * [Total volume air distribution](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1168.md)
 * [Occupancy control (eg separating at/risk contaminated population)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3122.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced infection risk, fewer infected people](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_842.md)
+* [Enhanced thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_843.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Improved thermal comfort of occupants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_606.md)
+* [Increased physical contact between occupants increases virus transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_605.md)
+* [High population density increases virus transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_604.md)
 

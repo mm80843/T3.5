@@ -2,9 +2,9 @@
 
 # __Reduction in length of quarantine period__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Transformation design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1080.md)
+* [The challenge lies in the lack of knowledge, limited consideration, and inherent limitations in representing disease transmission mechanisms, mobility patterns, and heterogeneity in macroscopic epidemiological models.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_97.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Emotional distress from quarantine and isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1899.md)
 * [Increased prevalence of mental health symptoms during quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1278.md)
 * [Risk of external seeding events and uncontrolled quarantines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2122.md)
+
+## Mitigations of this risk
+
+* [Transformation design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1080.md)
 

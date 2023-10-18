@@ -2,13 +2,9 @@
 
 # __government policies__
 
-## Risks linked to this technology
+## Category to which it belongs
 
-* [Failure to implement preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2260.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Enforcement and Regulation Measures](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_158.md)
+* [Government actions and regulations addressing various aspects of society, including policy changes, ethical frameworks, governance mechanisms, and public announcements.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_216.md)
 
 ## Closest similar item
 
@@ -27,7 +23,15 @@
 
 * [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
 
+## This Technology belongs to this TechSubgroup
+
+* [Enforcement and Regulation Measures](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_158.md)
+
 ## This Technology enables the following mitigations
 
 * [Public Health Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1740.md)
+
+## Risks linked to this technology
+
+* [Failure to implement preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2260.md)
 

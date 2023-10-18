@@ -2,17 +2,9 @@
 
 # __Forced experimentation__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Public-health emergencies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_331.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved crisis-information repositories](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_421.md)
-* [Greater community building](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_422.md)
-* [Improved urban equality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_423.md)
-* [Reduced transport-related emissions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_424.md)
-* [Enhanced digital change](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_425.md)
+* [Promote comprehensive testing and tracing, prioritize vulnerable populations, reduce diagnosis-to-surgery time, recognize stress symptoms, and improve testing accuracy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_347.md)
 
 ## Closest similar item
 
@@ -26,4 +18,16 @@
 * [Monitor reactions, provide psychosocial support and assistance, modify expectations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2498.md)
 * [Behavioral change](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_62.md)
 * [Increase testing capacity, develop rapid and accurate test kits, promote widespread testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2723.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved crisis-information repositories](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_421.md)
+* [Greater community building](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_422.md)
+* [Improved urban equality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_423.md)
+* [Reduced transport-related emissions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_424.md)
+* [Enhanced digital change](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_425.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Public-health emergencies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_331.md)
 

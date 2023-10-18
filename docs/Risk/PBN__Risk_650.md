@@ -2,9 +2,9 @@
 
 # __Social media use during COVID-19 increases public awareness__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Use of social media for information retrieval](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_910.md)
+* [The far-reaching consequences of COVID-19 include its transmission through various settings, impact on urban areas, and scarcity of resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Negative attitudes towards COVID-19 prevention](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_625.md)
 * [Desensitization to COVID-19 news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1223.md)
 * [Increased risk of COVID-19 transmission in crowded public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1715.md)
+
+## Mitigations of this risk
+
+* [Use of social media for information retrieval](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_910.md)
 

@@ -2,9 +2,9 @@
 
 # __skilled team__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Activate rapid response services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_607.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
 * [AI](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2113.md)
 * [collaboration among experts from various fields](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_921.md)
+
+## This Technology enables the following mitigations
+
+* [Activate rapid response services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_607.md)
 

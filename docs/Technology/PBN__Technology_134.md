@@ -2,6 +2,10 @@
 
 # __remote work technologies__
 
+## Category to which it belongs
+
+* [Technologies and tools used for working, monitoring, communicating, and assessing remotely, including remote healthcare and education technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_215.md)
+
 ## Risks linked to this technology
 
 * [Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1889.md)
@@ -13,9 +17,6 @@
 * [Suspension of projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_595.md)
 * [Reduced sales and fixed costs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1598.md)
 * [Comorbid workers working from home (WFH)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2136.md)
-
-## This Technology belongs to this TechSubgroup
-
 
 ## Closest similar item
 
@@ -30,11 +31,14 @@
 * [Remote healthcare technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2278.md)
 * [remote education technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1262.md)
 
-## This Technology belongs to this TechGroup
-
-* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1135326](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1135326.md)
+
+## This Technology belongs to this TechSubgroup
+
+
+## This Technology belongs to this TechGroup
+
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
 

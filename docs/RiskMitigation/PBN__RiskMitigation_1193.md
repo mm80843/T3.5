@@ -2,13 +2,9 @@
 
 # __insulation__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [levels due to increased](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_870.md)
-
-## Property: has_MitigationBenefit
-
-* [annoyance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1197.md)
+* [Efforts include RNA monitoring, occupant exposure modeling, targeted messages, adoption of principles, copper coating, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_311.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [upgrading hvac systems and improving thermal insulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3433.md)
 * [Upgrading HVAC systems and improving thermal insulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3434.md)
 * [thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3435.md)
+
+## Property: has_MitigationBenefit
+
+* [annoyance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1197.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [levels due to increased](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_870.md)
 

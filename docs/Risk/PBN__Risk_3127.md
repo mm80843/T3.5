@@ -2,9 +2,9 @@
 
 # __Discrimination and privacy concerns__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Rights-based approach to public health](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1540.md)
+* [Concerns about the protection of personal information, surveillance, data security, and risks of privacy infringement.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_108.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Privacy concerns and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_582.md)
 * [Privacy and data security concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2065.md)
 * [Privacy risks, stigmatization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3287.md)
+
+## Mitigations of this risk
+
+* [Rights-based approach to public health](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1540.md)
 

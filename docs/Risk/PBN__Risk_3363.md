@@ -2,9 +2,9 @@
 
 # __Construction speed__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Lightweight structures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2175.md)
+* [Challenges in building industry include lack of understanding, high costs, inadequate preparedness, and slow adoption of new technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_98.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Disruption of construction projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1559.md)
 * [Project delays](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_554.md)
 * [Shortage of construction materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1084.md)
+
+## Mitigations of this risk
+
+* [Lightweight structures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2175.md)
 

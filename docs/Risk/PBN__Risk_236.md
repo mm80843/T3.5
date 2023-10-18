@@ -2,9 +2,9 @@
 
 # __Food and nutrition security threat__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Ensuring supply and availability of food](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_285.md)
+* [Health and safety concerns, risk communication strategy, and inadequate personal protective equipment are all indicative of potential hazards and vulnerabilities in various settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_126.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Impact on food sector](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_482.md)
 * [Homelessness and food insecurity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2500.md)
 * [Unavailability and increased costs of healthy foods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3122.md)
+
+## Mitigations of this risk
+
+* [Ensuring supply and availability of food](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_285.md)
 

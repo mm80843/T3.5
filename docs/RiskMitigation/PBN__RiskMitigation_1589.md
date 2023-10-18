@@ -2,9 +2,9 @@
 
 # __Ensure adequate ventilation, maintain physical distancing, wear masks, practice good hand hygiene, and clean and disinfect surfaces regularly.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Contagious transmission in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1140.md)
+* [Encouraging the use of masks, practicing social distancing, and promoting good hygiene practices are vital preventive measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_345.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implementing measures such as social distancing, increased ventilation, regular disinfection, and promoting hand hygiene.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1614.md)
 * [Ensure proper sanitation and disinfection of bathrooms, promote hand hygiene after toilet use.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2440.md)
 * [Ensure proper ventilation and air circulation systems, conduct regular maintenance and cleaning, and promote good indoor air quality practices.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1776.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Contagious transmission in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1140.md)
 

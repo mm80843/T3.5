@@ -2,13 +2,9 @@
 
 # __Telemedicine for psychosocial services__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Psychosocial needs and support during direct patient encounters curtailed by home confinement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_593.md)
-
-## Property: has_MitigationBenefit
-
-* [Increased access to care](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_833.md)
+* [The trend towards remote and digital healthcare is encompassing telecommuting, telehealth, teleconferencing, wearable technology, touchless technologies, and mobile applications.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_328.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Telemedicine and remote testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1429.md)
 * [Implementation of telemedicine consultation approaches, remote consultation solutions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2598.md)
 * [Virtual clinics and tele-medicine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1329.md)
+
+## Property: has_MitigationBenefit
+
+* [Increased access to care](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_833.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Psychosocial needs and support during direct patient encounters curtailed by home confinement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_593.md)
 

@@ -2,9 +2,9 @@
 
 # __legal measures and social support programs__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Housing evictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_26.md)
+* [Government programs and initiatives provide support, training, and financial assistance for education, healthcare, employment, and overall well-being.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_210.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [livelihood support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_450.md)
 * [Livelihood support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2268.md)
 * [financial support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_44.md)
+
+## This Technology enables the following mitigations
+
+* [Housing evictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_26.md)
 

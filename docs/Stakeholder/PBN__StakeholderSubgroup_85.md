@@ -2,9 +2,9 @@
 
 # __Individuals with Disabilities__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [People with disabilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2109.md)
+* [Vulnerable populations with varied health needs, settings, and disabilities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_277.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Hospital Patients](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_53.md)
 * [Vulnerable Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_82.md)
 * [Responsible or Working Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_78.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [People with disabilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2109.md)
 

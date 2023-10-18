@@ -2,10 +2,9 @@
 
 # __Control of Indoor Temperatures__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [hvac system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3190.md)
-* [temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4050.md)
+* [Achieving comfort through temperature management, monitoring, and control while implementing climate-sensitive design and utilizing thermal imaging technology for screening and measurement purposes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_185.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Personalized Indoor Controls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_714.md)
 * [Indoor air quality and thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1480.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Decreased performance due to high temperatures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3244.md)
-
 ## Property: has_MitigationPrinciple
 
 Control of indoor temperatures is important to avoid negative effects on performance, as productivity decreases by 2% per each degree over 25°C
 
+## Risks possibly mitigated by this Mitigation
+
+* [Decreased performance due to high temperatures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3244.md)
+
 ## Property: has_MitigationSource
 
 * [The effect of a redesigned floor plan, occupant density and the quality of indoor climate on the cost of space, productivity and sick leave in an office building–A case study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_223.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [hvac system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3190.md)
+* [temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4050.md)
 

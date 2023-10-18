@@ -2,9 +2,9 @@
 
 # __Dynamic environment__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Resourcefulness of Critical Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2179.md)
+* [The interconnectedness of environmental degradation, social inequalities, and the need for climate action and conservation efforts.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_104.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Contaminated environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3148.md)
 * [Environmental degradation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1343.md)
 * [Need for flexible room configurations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2736.md)
+
+## Mitigations of this risk
+
+* [Resourcefulness of Critical Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2179.md)
 

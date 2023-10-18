@@ -2,9 +2,9 @@
 
 # __Increased workload for medical staff__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Implementation of IoT](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1421.md)
+* [Healthcare systems overwhelmed with limited resources, shortage of personnel, and inadequate infrastructure face challenges in providing accessible and quality care.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_101.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Shortage of health care personnel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1644.md)
 * [Healthcare system overload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2134.md)
 * [Changes in work schedules of nursing staff](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1471.md)
+
+## Mitigations of this risk
+
+* [Implementation of IoT](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1421.md)
 

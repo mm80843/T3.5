@@ -2,9 +2,9 @@
 
 # __grey literature__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Search for evidence beyond conventional types](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_610.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [greywater disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1759.md)
 * [graywater reuse](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1775.md)
 * [Information pamphlets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2201.md)
+
+## This Technology enables the following mitigations
+
+* [Search for evidence beyond conventional types](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_610.md)
 

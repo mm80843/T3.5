@@ -2,9 +2,9 @@
 
 # __biomarker measurements__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Integration of multiple measurement methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_236.md)
+* [Advancements in biotechnology, clinical research, and innovative therapies contribute to the development of medical solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [urine proteomics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4142.md)
 * [pcr assay](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3073.md)
 * [pharmacokinetics data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4144.md)
+
+## This Technology enables the following mitigations
+
+* [Integration of multiple measurement methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_236.md)
 

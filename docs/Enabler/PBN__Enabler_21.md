@@ -2,13 +2,13 @@
 
 # __New delivery systems__
 
-## Property: has_TechEquivalent
-
-* [New delivery systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4546.md)
-
 ## Property: has_BP_EnablerTitle
 
 enabler_022
+
+## Category to which it belongs
+
+* [Innovative methods of transporting goods to their intended destinations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_81.md)
 
 ## Closest similar item
 
@@ -29,4 +29,8 @@ enabler_022
 * [Tender support at building stage](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_9.md)
 * [Resilience in staffing and skills training](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_12.md)
 * [Building adaptation for flexible use](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_13.md)
+
+## Property: has_TechEquivalent
+
+* [New delivery systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4546.md)
 

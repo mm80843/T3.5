@@ -2,9 +2,9 @@
 
 # __free access to gym__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Household-level activity/sports spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2128.md)
+* [A comprehensive list of mobile applications, including contact-tracing apps, mental health apps, mobile banking, and fitness tracking devices, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_197.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [online exercise classes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1075.md)
 * [fitness facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1376.md)
 * [home-based exercise programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_63.md)
+
+## This Technology enables the following mitigations
+
+* [Household-level activity/sports spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2128.md)
 

@@ -2,9 +2,9 @@
 
 # __public announcements__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1196567](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1196567.md)
+* [Government actions and regulations addressing various aspects of society, including policy changes, ethical frameworks, governance mechanisms, and public announcements.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_216.md)
 
 ## Risks linked to this technology
 
@@ -27,4 +27,8 @@
 * [public communication campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2006.md)
 * [public awareness](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4160.md)
 * [press releases](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1176.md)
+
+## This Technology is identified by the following QID
+
+* [Q1196567](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1196567.md)
 

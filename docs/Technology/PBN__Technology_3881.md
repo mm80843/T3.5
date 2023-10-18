@@ -2,9 +2,9 @@
 
 # __food resources__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Food Parcels and Free Meals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1453.md)
+* [Measures promoting accountability, media control, real-time updates, and virtual experiences for physical distancing and education.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [online food platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1220.md)
 * [financial resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3637.md)
 * [it resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4220.md)
+
+## This Technology enables the following mitigations
+
+* [Food Parcels and Free Meals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1453.md)
 

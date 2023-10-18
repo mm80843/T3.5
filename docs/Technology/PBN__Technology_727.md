@@ -2,9 +2,9 @@
 
 # __updated terminology and classification systems for public spaces__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q294440](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q294440.md)
+* [Available green spaces and outdoor gathering areas allow for access and enjoyment of public parks and communal areas.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_218.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [flexible and adaptable public space designs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_726.md)
 * [Flexible and adaptable public space designs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2746.md)
 * [outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1848.md)
+
+## This Technology is identified by the following QID
+
+* [Q294440](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q294440.md)
 

@@ -2,13 +2,9 @@
 
 # __Integration of GIS and GPS applications__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Weak health-care systems and limited resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_354.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced surveillance and control of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_448.md)
+* [Enhanced surveillance, monitoring, and real-time tracking for improved control and response to various situations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_312.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Spatial planning considerations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_35.md)
 * [Set up checkpoints, install monitoring equipment, record departure points and destination.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1724.md)
 * [Real-time local information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_817.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced surveillance and control of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_448.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Weak health-care systems and limited resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_354.md)
 

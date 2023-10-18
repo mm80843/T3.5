@@ -2,9 +2,9 @@
 
 # __renewable energy development__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q12705](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q12705.md)
+* [Promotion of environmentally-friendly practices, green infrastructure, sustainable housing, renewable energy, and responsible building to enhance spaces and mitigate climate change.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_224.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [solar energy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4281.md)
 * [sustainable development initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_452.md)
 * [investments in clean energy and sustainable industries](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4384.md)
+
+## This Technology is identified by the following QID
+
+* [Q12705](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q12705.md)
 

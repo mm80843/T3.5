@@ -2,13 +2,9 @@
 
 # __WBE for monitoring Covid-19__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Risk of resurgence and rebound](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_742.md)
-
-## Property: has_MitigationBenefit
-
-* [Timely shutdown and reopening of specific areas](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1021.md)
+* [Implement comprehensive strategies to control virus transmission, improve surveillance, develop antiviral coatings, and enhance infection control measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_309.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Transparent and standardized WBE protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1023.md)
 * [Wearable devices for the detection of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1424.md)
 * [Conducting training programs and educational sessions on COVID-19 protocols and infection control measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1992.md)
+
+## Property: has_MitigationBenefit
+
+* [Timely shutdown and reopening of specific areas](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1021.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Risk of resurgence and rebound](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_742.md)
 

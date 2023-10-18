@@ -2,9 +2,9 @@
 
 # __Social safety nets__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
-* [Financial Support and Community Initiatives](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_36.md)
+* [Safety protocols, emergency response plans, risk assessment tools, and comprehensive risk communication strategies ensure workplace safety and crisis management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_232.md)
 
 ## Closest similar item
 
@@ -19,11 +19,15 @@
 * [safety regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1160.md)
 * [safety measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3053.md)
 
-## This Technology belongs to this TechGroup
-
-* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1131802](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1131802.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Financial Support and Community Initiatives](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_36.md)
+
+## This Technology belongs to this TechGroup
+
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 

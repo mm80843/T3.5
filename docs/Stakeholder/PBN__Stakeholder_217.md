@@ -2,14 +2,18 @@
 
 # __public housing residents__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q6532502](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6532502.md)
+* [The community, including residents, educators, healthcare institutions, and government research institutions, is involved in education and healthcare.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_377.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
-* [Housing And Property](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_10.md)
+* [Inadequate communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1928.md)
+* [Lack of government support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1929.md)
+* [Inadequate sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1399.md)
+* [Stigmatisation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1926.md)
+* [Limited access to resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1925.md)
+* [Infrastructure challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1927.md)
 
 ## Closest similar item
 
@@ -24,23 +28,23 @@
 * [government housing agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_610.md)
 * [local residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_483.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder can get these Benefits from mitigation measures
 
-* [Inadequate communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1928.md)
-* [Lack of government support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1929.md)
-* [Inadequate sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1399.md)
-* [Stigmatisation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1926.md)
-* [Limited access to resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1925.md)
-* [Infrastructure challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1927.md)
+* [Decreased transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_43.md)
+* [Increased understanding and compliance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_517.md)
+* [Empowerment and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_518.md)
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Tenants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_65.md)
 * [Environmental and Living Conditions](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_98.md)
 
-## This Stakeholder can get these Benefits from mitigation measures
+## This Stakeholder is identified by the following QID
 
-* [Decreased transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_43.md)
-* [Increased understanding and compliance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_517.md)
-* [Empowerment and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_518.md)
+* [Q6532502](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6532502.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Housing And Property](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_10.md)
 

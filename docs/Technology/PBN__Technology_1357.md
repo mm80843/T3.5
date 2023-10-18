@@ -2,13 +2,9 @@
 
 # __facial recognition systems__
 
-## Risks linked to this technology
+## Category to which it belongs
 
-* [Failure to detect non-compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1947.md)
-
-## This Technology enables the following mitigations
-
-* [Automated face recognition](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1815.md)
+* [Advanced technologies and algorithms for modeling, simulation, optimization, and artificial intelligence in various applications, including robotics and computational fluid dynamics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_239.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [voice and face recognition](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4293.md)
 * [Face and voice recognition](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4553.md)
 * [biometrics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_99.md)
+
+## This Technology enables the following mitigations
+
+* [Automated face recognition](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1815.md)
+
+## Risks linked to this technology
+
+* [Failure to detect non-compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1947.md)
 

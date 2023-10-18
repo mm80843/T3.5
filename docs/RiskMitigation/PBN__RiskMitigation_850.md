@@ -2,13 +2,9 @@
 
 # __Safety measures for drinking water__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Water quality and availability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_612.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved water quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_854.md)
+* [Enforce safety measures, promote responsible behavior, utilize PPE, and prioritize risk prevention to ensure adequate protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_342.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Sustainable water management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_350.md)
 * [Enhance water treatment processes, implement effective sanitation measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2213.md)
 * [Improve water and food safety measures, implement vector control strategies, strengthen health systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2193.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved water quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_854.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Water quality and availability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_612.md)
 

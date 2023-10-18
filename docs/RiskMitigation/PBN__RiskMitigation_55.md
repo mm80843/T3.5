@@ -2,13 +2,9 @@
 
 # __Adoption of OBO Foundry principles__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of ontology openness and interoperability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_38.md)
-
-## Property: has_MitigationBenefit
-
-* [Data sharing and integration](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_62.md)
+* [Efforts include RNA monitoring, occupant exposure modeling, targeted messages, adoption of principles, copper coating, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_311.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implementation of flexible design principles](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1091.md)
 * [Adoption of common standards](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1123.md)
 * [Reduce heterogeneity of technical standards](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_305.md)
+
+## Property: has_MitigationBenefit
+
+* [Data sharing and integration](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_62.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of ontology openness and interoperability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_38.md)
 

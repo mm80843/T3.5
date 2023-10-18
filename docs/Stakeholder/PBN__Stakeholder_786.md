@@ -2,9 +2,9 @@
 
 # __data protection authorities__
 
-## This Stakeholder belongs to this StakeholderGroup
+## Category to which it belongs
 
-* [Technology Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_12.md)
+* [Various organizations and professionals responsible for overseeing specific areas of governance, infrastructure, protection, and creativity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_395.md)
 
 ## Closest similar item
 
@@ -19,14 +19,18 @@
 * [security agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1533.md)
 * [data management companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_607.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Data Protection Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_159.md)
-
 ## Risks that can be mitigated by this stakeholder
 
 * [Privacy and security concerns in contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1711.md)
 * [Privacy concerns in data collection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2377.md)
 * [Surveillance and personal data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2334.md)
 * [Privacy and data protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1274.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Technology Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_12.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Data Protection Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_159.md)
 

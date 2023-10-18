@@ -2,15 +2,15 @@
 
 # __risk assessment tools__
 
+## Category to which it belongs
+
+* [Safety protocols, emergency response plans, risk assessment tools, and comprehensive risk communication strategies ensure workplace safety and crisis management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_232.md)
+
 ## Risks linked to this technology
 
 * [High impact of COVID-19 on construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1998.md)
 * [Globalization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2075.md)
 * [Vulnerability to natural hazards](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2229.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Environment and Healthcare Management Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_14.md)
 
 ## Closest similar item
 
@@ -25,11 +25,15 @@
 * [data analytics for identifying high-risk areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1525.md)
 * [supply chain risk analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1141.md)
 
-## This Technology belongs to this TechGroup
-
-* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
-
 ## This Technology is identified by the following QID
 
 * [Q7336285](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7336285.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Environment and Healthcare Management Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_14.md)
+
+## This Technology belongs to this TechGroup
+
+* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
 

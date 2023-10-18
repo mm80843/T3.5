@@ -2,9 +2,9 @@
 
 # __biotechnology__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Vaccine formulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3.md)
+* [Advancements in biotechnology, clinical research, and innovative therapies contribute to the development of medical solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Biocidal products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2558.md)
 * [biological methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1890.md)
 * [pharmaceutical companies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_763.md)
+
+## This Technology enables the following mitigations
+
+* [Vaccine formulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3.md)
 

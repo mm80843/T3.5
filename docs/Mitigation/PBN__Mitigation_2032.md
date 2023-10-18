@@ -2,9 +2,9 @@
 
 # __Worker traffic flow direction__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_230.md)
+* [Embracing flexible work arrangements, such as remote work and staggered schedules, to enhance productivity and adapt to digital transformation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_171.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Traffic restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1097.md)
 * [Worker Education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_870.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_489.md)
-
 ## Property: has_MitigationPrinciple
 
 Direct worker movement in a single direction to minimize close contact and maintain physical distancing
 
+## Risks possibly mitigated by this Mitigation
+
+* [Disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_489.md)
+
 ## Property: has_MitigationSource
 
 * [Preventing and Controlling COVID-19: A Practical-Based Review in Offshore Workplace](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_102.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_230.md)
 

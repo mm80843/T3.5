@@ -2,9 +2,9 @@
 
 # __data capture infrastructure__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Real-time Data Capture](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_914.md)
+* [The built environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_230.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Data collection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2528.md)
 * [data tracking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3479.md)
 * [monitoring tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1863.md)
+
+## This Technology enables the following mitigations
+
+* [Real-time Data Capture](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_914.md)
 

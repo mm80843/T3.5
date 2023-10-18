@@ -2,9 +2,9 @@
 
 # __Surveillance, early detection, and rapid response to zoonotic diseases.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Zoonotic transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_982.md)
+* [Implement comprehensive strategies to control virus transmission, improve surveillance, develop antiviral coatings, and enhance infection control measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_309.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Early detection and rapid response systems, development of new diagnostic tools and vaccines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3059.md)
 * [Strengthening of surveillance systems, increased monitoring of vector populations and disease incidence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3057.md)
 * [Implement measures to control the spread of infectious diseases, such as social distancing, improved hygiene practices, and vaccination programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2243.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Zoonotic transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_982.md)
 

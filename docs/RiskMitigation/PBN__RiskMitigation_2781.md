@@ -2,9 +2,9 @@
 
 # __Regular maintenance and calibration of devices, verification of data quality.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Data integrity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2128.md)
+* [Monitoring, analysis, and standardization of various technologies and protocols for accurate and reliable healthcare data collection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_310.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Ensuring the quality and reliability of services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_103.md)
 * [Increase data collection and improve model validation and calibration; communicate uncertainty and limitations effectively](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1895.md)
 * [Measures in operation and maintenance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_108.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Data integrity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2128.md)
 

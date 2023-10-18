@@ -2,11 +2,9 @@
 
 # __Control the airflows in micro spaces__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [negative pressure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1746.md)
-* [self-closing doors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1747.md)
-* [air exhaustion](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4252.md)
+* [Promote clean, fresh air by monitoring and controlling indoor pollution, using portable air cleaners, and increasing outdoor air flow.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_172.md)
 
 ## Closest similar item
 
@@ -21,15 +19,21 @@
 * [Implement strategies to promote good room air mixing, such as ceiling mounted fans, to ensure even distribution of aerosol particles in the UV field](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2656.md)
 * [Proper ventilation in indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2657.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
-
 ## Property: has_MitigationPrinciple
 
 Control air movement to prevent spreading of viruses
 
+## Risks possibly mitigated by this Mitigation
+
+* [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
+
 ## Property: has_MitigationSource
 
 * [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [negative pressure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1746.md)
+* [self-closing doors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1747.md)
+* [air exhaustion](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4252.md)
 

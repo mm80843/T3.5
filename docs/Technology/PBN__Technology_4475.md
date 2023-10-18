@@ -2,11 +2,9 @@
 
 # __r package (ncov2019)__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Real-time data access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2403.md)
-* [Data aggregation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2404.md)
-* [Data visualization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2405.md)
+* [Advancements in biotechnology, clinical research, and innovative therapies contribute to the development of medical solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
 
 ## Closest similar item
 
@@ -20,4 +18,10 @@
 * [international covid-19 data alliance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3311.md)
 * [qRT-PCR](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2102.md)
 * [dpcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4140.md)
+
+## This Technology enables the following mitigations
+
+* [Real-time data access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2403.md)
+* [Data aggregation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2404.md)
+* [Data visualization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2405.md)
 

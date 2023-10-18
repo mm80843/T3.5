@@ -2,9 +2,9 @@
 
 # __new material composites__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Opportunities for new materials for performative insulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_419.md)
+* [Explore a diverse range of materials, from sound-absorbing to eco-friendly, that contribute to innovative building solutions and educational resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_222.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Building material technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2657.md)
 * [suitable materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3267.md)
 * [natural materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4016.md)
+
+## This Technology enables the following mitigations
+
+* [Opportunities for new materials for performative insulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_419.md)
 

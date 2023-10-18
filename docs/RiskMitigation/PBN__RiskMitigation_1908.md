@@ -2,9 +2,9 @@
 
 # __Highlight the permanent nature of climate change and the need for permanent transformations in various aspects of society.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Misunderstanding of the permanence of climate change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1403.md)
+* [Efforts include RNA monitoring, occupant exposure modeling, targeted messages, adoption of principles, copper coating, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_311.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Develop climate-specific adaptations and technologies, incorporate renewable energy sources.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2757.md)
 * [Foster multi-sectoral collaboration, align policies and climate services, prioritize urban health in climate change planning.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2196.md)
 * [Monitoring changes in environmental and climatic conditions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1018.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Misunderstanding of the permanence of climate change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1403.md)
 

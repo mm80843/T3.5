@@ -2,9 +2,9 @@
 
 # __Rely on accurate historical data and evidence-based information__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Comparison to the 1918 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1524.md)
+* [Promote accurate and reliable information, combat misinformation, and increase media and public health literacy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_343.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Promote accurate information and fact-checking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2971.md)
 * [Promotion of accurate information, fact-checking, and education campaigns on reliable sources of information.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2778.md)
 * [Promoting accurate information from reliable sources, fact-checking, and public education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1464.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Comparison to the 1918 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1524.md)
 

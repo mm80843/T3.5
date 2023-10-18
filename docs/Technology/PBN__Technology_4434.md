@@ -2,9 +2,9 @@
 
 # __membrane technology__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Membrane-based wastewater treatment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2367.md)
+* [Technological advancements encompass a wide range of innovations, such as blockchain, touchless, renewable energy, and communication technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [ultrafiltration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3074.md)
 * [molecular technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4369.md)
 * [water treatment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_975.md)
+
+## This Technology enables the following mitigations
+
+* [Membrane-based wastewater treatment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2367.md)
 

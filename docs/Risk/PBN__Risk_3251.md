@@ -2,9 +2,9 @@
 
 # __Energy Efficiency__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Improved Building Insulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1782.md)
+* [Issues related to energy use, including increased consumption, inefficient usage, and lack of understanding, have various implications in different settings and sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_133.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lighting and HVAC Systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3705.md)
 * [Environmental Controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3706.md)
 * [Infrastructure and Transportation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3707.md)
+
+## Mitigations of this risk
+
+* [Improved Building Insulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1782.md)
 

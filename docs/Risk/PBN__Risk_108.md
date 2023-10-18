@@ -2,9 +2,9 @@
 
 # __Increase in local opportunity cost__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Supporting local communities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_132.md)
+* [The ramifications of global connectivity include economic instability, impacts of the pandemic, unemployment, poverty, reduced tourism revenue, and decline in public budgets.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_103.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Limited infrastructure, cost](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2993.md)
 * [Cost](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1796.md)
 * [Increased default rates](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1977.md)
+
+## Mitigations of this risk
+
+* [Supporting local communities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_132.md)
 

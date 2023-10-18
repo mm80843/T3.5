@@ -2,11 +2,9 @@
 
 # __smartphone__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Compliance of Quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1939.md)
-* [Contact Tracing Application](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1929.md)
-* [Cluster Identification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1938.md)
+* [A comprehensive range of advanced, interconnected devices that offer efficiency, convenience, and enhanced functionality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_238.md)
 
 ## Closest similar item
 
@@ -20,4 +18,10 @@
 * [smartphone apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4368.md)
 * [phone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1094.md)
 * [mobile technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2902.md)
+
+## This Technology enables the following mitigations
+
+* [Compliance of Quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1939.md)
+* [Contact Tracing Application](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1929.md)
+* [Cluster Identification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1938.md)
 

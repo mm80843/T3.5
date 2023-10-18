@@ -2,9 +2,9 @@
 
 # __intelligent transportation systems (its)__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Traffic restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1097.md)
+* [Advanced technologies and algorithms for modeling, simulation, optimization, and artificial intelligence in various applications, including robotics and computational fluid dynamics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_239.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Improved public transportation services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2664.md)
 * [demand-responsive transport systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1333.md)
 * [Demand-responsive transport systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2889.md)
+
+## This Technology enables the following mitigations
+
+* [Traffic restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1097.md)
 

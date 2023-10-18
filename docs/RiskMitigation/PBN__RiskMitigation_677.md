@@ -2,13 +2,9 @@
 
 # __Increased investment in disease prevention infrastructure__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Disruption in the supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_480.md)
-
-## Property: has_MitigationBenefit
-
-* [Strengthened supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_684.md)
+* [Promote public health through policy implementation, strengthened systems, health literacy, and targeted interventions for vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_314.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Prevention efforts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_827.md)
 * [Implement public health measures, such as social distancing and proper hygiene protocols, invest in healthcare infrastructure and resources, and promote vaccination and disease surveillance.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2632.md)
 * [Educate the public about disease prevention, promote awareness campaigns, provide accurate information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1957.md)
+
+## Property: has_MitigationBenefit
+
+* [Strengthened supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_684.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Disruption in the supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_480.md)
 

@@ -2,10 +2,9 @@
 
 # __monitoring equipment__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Surveillance of vector](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1753.md)
-* [Patient monitoring system and door-lock device](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1111.md)
+* [Safety and operational tools for various fields, including healthcare, cleaning, maintenance, and emergency preparation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_212.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2457.md)
 * [monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3688.md)
 * [advanced monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1129.md)
+
+## This Technology enables the following mitigations
+
+* [Surveillance of vector](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1753.md)
+* [Patient monitoring system and door-lock device](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1111.md)
 

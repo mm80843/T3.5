@@ -2,25 +2,9 @@
 
 # __Blurring of work-life boundaries__
 
-## Property: has_RiskHealth
+## Category to which it belongs
 
-* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Description of the risk
-
-Difficulty in separating personal life from work responsibilities can lead to burnout, decreased job satisfaction, and strained personal relationships.
-
-## Property: has_RiskType
-
-* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
-
-## Articles mentionning the risk
-
-* [El impacto del teletrabajo en tiempos del COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_108.md)
+* [The impact of various factors on the workforce, including job insecurity, changes in work schedules, unemployment, and decreased productivity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_4.md)
 
 ## Closest similar item
 
@@ -35,34 +19,54 @@ Difficulty in separating personal life from work responsibilities can lead to bu
 * [Productivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1579.md)
 * [Workforce reduction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1085.md)
 
-## People affected by this risk
+## Description of the risk
 
-* [teleworkers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1324.md)
+Difficulty in separating personal life from work responsibilities can lead to burnout, decreased job satisfaction, and strained personal relationships.
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Property: has_RiskHealth
+
+* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+
+## Mitigations of this risk
+
+* [Establish clear boundaries between work and personal life, encourage regular breaks and time off, and promote a healthy work-life balance.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2587.md)
+
+## Name of the risk
+
+Increased stress, decreased work-life balance, and potential impact on mental and physical health.
 
 ## Stakeholders who can mitigate this risk
 
 * [employers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_180.md)
 * [teleworkers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1324.md)
 
-## Name of the risk
+## Articles mentionning the risk
 
-Increased stress, decreased work-life balance, and potential impact on mental and physical health.
+* [El impacto del teletrabajo en tiempos del COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_108.md)
 
-## Mitigations of this risk
+## People affected by this risk
 
-* [Establish clear boundaries between work and personal life, encourage regular breaks and time off, and promote a healthy work-life balance.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2587.md)
-
-## Property: has_RiskISO_Purpose
-
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+* [teleworkers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1324.md)
 
 ## Technologies linked to the risk
 
 * [flexible scheduling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1406.md)
 * [communication guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1407.md)
 * [time management techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1405.md)
+
+## Property: has_RiskType
+
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 

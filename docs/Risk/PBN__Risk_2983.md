@@ -2,9 +2,9 @@
 
 # __Inefficient infrastructure and response__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Building Information Modelling (BIM)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1234.md)
+* [Limited monitoring, technical limitations, language barriers, expensive optimization, lack of connection with nature, and limited sensor diversity hinder effective response and resource allocation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_107.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inadequate public infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1239.md)
 * [Inefficient emergency response](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3163.md)
 * [Inefficiency in building systems and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_979.md)
+
+## Mitigations of this risk
+
+* [Building Information Modelling (BIM)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1234.md)
 

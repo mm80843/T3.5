@@ -2,9 +2,9 @@
 
 # __Delay in project__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Extension of Time (EOT)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_984.md)
+* [Challenges in building industry include lack of understanding, high costs, inadequate preparedness, and slow adoption of new technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_98.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Delay in delivery of construction materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2068.md)
 * [Delays in delivery of construction materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_305.md)
 * [Concerns about project time, cost, and scope](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1999.md)
+
+## Mitigations of this risk
+
+* [Extension of Time (EOT)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_984.md)
 

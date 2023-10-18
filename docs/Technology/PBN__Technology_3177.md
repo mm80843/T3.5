@@ -2,9 +2,9 @@
 
 # __graph-based structure__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Safe Pedestrian Navigation Service](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_353.md)
+* [The built environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_230.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Social Networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4545.md)
 * [rule-based system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3175.md)
 * [modular spacing systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2992.md)
+
+## This Technology enables the following mitigations
+
+* [Safe Pedestrian Navigation Service](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_353.md)
 

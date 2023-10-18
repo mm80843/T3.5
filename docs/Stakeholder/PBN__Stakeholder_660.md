@@ -2,13 +2,18 @@
 
 # __individuals with pre-existing mental health conditions__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q47326642](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q47326642.md)
+* [Individuals in need of mental health support, including those with pre-existing conditions and from marginalized communities with limited access to services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_362.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Increased prevalence of mental health symptoms during quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1278.md)
+* [Psychological Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_84.md)
+* [Increase in mental health issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1137.md)
+* [Impact on psychological well-being](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1570.md)
+* [Lack of access to mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1993.md)
+* [Risk of mental health issues during and after a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2121.md)
 
 ## Closest similar item
 
@@ -23,17 +28,16 @@
 * [People with pre-existing medical conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2304.md)
 * [individuals with mental health issues](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_8.md)
 
-## Risk affecting this stakeholder
-
-* [Increased prevalence of mental health symptoms during quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1278.md)
-* [Psychological Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_84.md)
-* [Increase in mental health issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1137.md)
-* [Impact on psychological well-being](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1570.md)
-* [Lack of access to mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1993.md)
-* [Risk of mental health issues during and after a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2121.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Health and Well-being](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_94.md)
 * [Individuals with Health Conditions](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_76.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q47326642](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q47326642.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 

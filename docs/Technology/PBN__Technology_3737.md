@@ -2,9 +2,9 @@
 
 # __stakeholder requirements__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Value management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1221.md)
+* [Maximizing economic efficiency while promoting financial stability through innovative strategies, investments, and partnerships at various levels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_195.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [context-specific initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2950.md)
 * [improved governance and service provision](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2905.md)
 * [ethical considerations and responsible building practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3455.md)
+
+## This Technology enables the following mitigations
+
+* [Value management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1221.md)
 

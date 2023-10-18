@@ -2,9 +2,9 @@
 
 # __artificial intelligence and ct imaging data__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [AI algorithms for identification of COVID-19 on CT chest](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1400.md)
+* [Advanced technologies and algorithms for modeling, simulation, optimization, and artificial intelligence in various applications, including robotics and computational fluid dynamics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_239.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_358.md)
 * [artificial intelligence and mobile technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3848.md)
 * [ultrasound imaging](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4491.md)
+
+## This Technology enables the following mitigations
+
+* [AI algorithms for identification of COVID-19 on CT chest](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1400.md)
 

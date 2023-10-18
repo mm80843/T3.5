@@ -2,9 +2,9 @@
 
 # __Standardization and optimization of concentration methods for efficient recovery of viral RNA from wastewater samples.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Need for concentration methods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1150.md)
+* [Implement wastewater surveillance techniques to detect viral presence, optimize treatment processes, and inform public health interventions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_308.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement effective tertiary treatment processes in wastewater treatment plants to ensure virus removal.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2560.md)
 * [Implement advanced treatment processes, such as ozonation or membrane filtration, to improve removal efficiency of SARS-CoV-2 RNA.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3043.md)
 * [Monitoring changes in RNA concentration over time](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Need for concentration methods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1150.md)
 

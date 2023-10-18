@@ -2,9 +2,9 @@
 
 # __lighting__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Comfortable and isolated workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2171.md)
+* [Innovative lighting solutions harnessing ultraviolet technology for optimal germicidal sterilization and energy efficiency, while maximizing natural light.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_235.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Energy-efficient lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2251.md)
 * [led](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4086.md)
 * [lighting control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_654.md)
+
+## This Technology enables the following mitigations
+
+* [Comfortable and isolated workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2171.md)
 

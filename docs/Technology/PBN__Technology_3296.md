@@ -2,9 +2,9 @@
 
 # __hvac systems with outside air dampers__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Increased outside air fraction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_548.md)
+* [Improved and energy-efficient HVAC systems, along with advanced technologies, for efficient energy management and environmental control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_227.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [improved hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_662.md)
 * [adaptive hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_194.md)
 * [adaptive HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2577.md)
+
+## This Technology enables the following mitigations
+
+* [Increased outside air fraction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_548.md)
 

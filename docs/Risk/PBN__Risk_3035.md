@@ -2,10 +2,9 @@
 
 # __Supply disruption__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Inventory optimization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1359.md)
-* [Collaborative networks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1352.md)
+* [Supply chain disruptions and logistical challenges have caused global supply chains to be heavily impacted.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_99.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Disruption in global supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2909.md)
 * [Disruptions in global supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_767.md)
 * [Production disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3039.md)
+
+## Mitigations of this risk
+
+* [Inventory optimization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1359.md)
+* [Collaborative networks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1352.md)
 

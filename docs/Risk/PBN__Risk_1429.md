@@ -2,25 +2,9 @@
 
 # __Lack of continuous air circulation__
 
-## Property: has_RiskHealth
+## Category to which it belongs
 
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Description of the risk
-
-Insufficient air circulation and ventilation in indoor spaces can contribute to the accumulation and spread of airborne viruses, including SARS-CoV-2.
-
-## Property: has_RiskType
-
-* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
-
-## Articles mentionning the risk
-
-* [Review and comparison of HVAC operation guidelines in different countries during the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_45.md)
+* [Insufficient ventilation and indoor air pollution pose a risk to air quality and respiratory health, exacerbated by inadequate airflow control, limited natural ventilation, and air recirculation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_128.md)
 
 ## Closest similar item
 
@@ -35,14 +19,33 @@ Insufficient air circulation and ventilation in indoor spaces can contribute to 
 * [Controlling human circulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2555.md)
 * [Airflow issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3022.md)
 
-## People affected by this risk
+## Description of the risk
 
-* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
-* [especially in indoor spaces with poor air circulation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_928.md)
+Insufficient air circulation and ventilation in indoor spaces can contribute to the accumulation and spread of airborne viruses, including SARS-CoV-2.
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Governance, empowerment and engagement](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_6.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Mitigations of this risk
+
+* [Keep HVAC systems running for longer hours, even 24/7 if possible, and promote continuous air circulation.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1938.md)
+
+## Name of the risk
+
+Increased risk of airborne transmission and higher infection rates in indoor spaces.
 
 ## Stakeholders who can mitigate this risk
 
@@ -50,20 +53,21 @@ Insufficient air circulation and ventilation in indoor spaces can contribute to 
 * [facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
 * [hvac engineers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_924.md)
 
-## Name of the risk
+## Articles mentionning the risk
 
-Increased risk of airborne transmission and higher infection rates in indoor spaces.
+* [Review and comparison of HVAC operation guidelines in different countries during the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_45.md)
 
-## Mitigations of this risk
+## People affected by this risk
 
-* [Keep HVAC systems running for longer hours, even 24/7 if possible, and promote continuous air circulation.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1938.md)
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+* [especially in indoor spaces with poor air circulation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_928.md)
 
 ## Technologies linked to the risk
 
 * [use of fans and ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_685.md)
 * [continuous operation of hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_684.md)
+
+## Property: has_RiskType
+
+* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 

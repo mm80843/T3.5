@@ -2,9 +2,9 @@
 
 # __Missing information in existing drug ontologies__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Ontology-based representation of missing information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_57.md)
+* [The challenges of implementing a digital culture include lack of interoperability, missing information, emerging technologies, and technological limitations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_112.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Limited automation and tool support for ontology models and applications for COVID-19 analytics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1047.md)
 * [Development of drugs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_431.md)
 * [Lack of access to pharmaceutical interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1158.md)
+
+## Mitigations of this risk
+
+* [Ontology-based representation of missing information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_57.md)
 

@@ -2,9 +2,9 @@
 
 # __Install high-efficiency filters in HVAC systems, regularly clean and replace filters__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Filtration of air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1191.md)
+* [Enhancing air quality through effective air filtration, ventilation, and pollution reduction strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_338.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Optimize HVAC system operations, implement energy-efficient measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2984.md)
 * [Use high-efficiency air filters, regularly replace filters, and properly maintain air filtration systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2310.md)
 * [Enhanced HVAC filtration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1383.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Filtration of air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1191.md)
 

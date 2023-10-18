@@ -2,13 +2,9 @@
 
 # __Digital communication platforms__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [COVID-19 outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_302.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved public-health education](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1308.md)
+* [Facilitate transparent communication, enabling reliable information sharing through standardized protocols and effective channels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_0.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Virtual platforms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1179.md)
 * [Communication strategy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_410.md)
 * [Communication plan](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_716.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved public-health education](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1308.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [COVID-19 outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_302.md)
 

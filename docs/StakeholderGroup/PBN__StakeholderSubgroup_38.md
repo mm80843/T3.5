@@ -2,11 +2,9 @@
 
 # __Social Media__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_556.md)
-* [social media companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_557.md)
-* [social medium company](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1835.md)
+* [The digital realm where individuals connect and share publicly, utilizing blockchain technology for social interactions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_241.md)
 
 ## Closest similar item
 
@@ -20,4 +18,10 @@
 * [Publishing](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_36.md)
 * [Community Members](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_130.md)
 * [Journalism and Reporting](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_35.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_556.md)
+* [social media companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_557.md)
+* [social medium company](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1835.md)
 

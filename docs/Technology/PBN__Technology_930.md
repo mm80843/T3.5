@@ -2,9 +2,9 @@
 
 # __3d printing for component manufacturing__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q229367](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q229367.md)
+* [The range of materials and techniques listed includes various disinfectants, nanomaterials, manufacturing methods, coatings, sustainability measures, and analytical tools.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_237.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Additive manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2654.md)
 * [advanced manufacturing techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1557.md)
 * [flexible production technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3817.md)
+
+## This Technology is identified by the following QID
+
+* [Q229367](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q229367.md)
 

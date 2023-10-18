@@ -2,9 +2,9 @@
 
 # __negative pressure system__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Air pressure controls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2468.md)
+* [Improved and energy-efficient HVAC systems, along with advanced technologies, for efficient energy management and environmental control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_227.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [negative air machines with HEPA filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2374.md)
 * [air circulation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_259.md)
 * [improved negative ionizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_569.md)
+
+## This Technology enables the following mitigations
+
+* [Air pressure controls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2468.md)
 

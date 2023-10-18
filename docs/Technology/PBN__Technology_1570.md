@@ -2,9 +2,9 @@
 
 # __encryption and authentication nan technologies__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1014345](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1014345.md)
+* [Various security measures, such as encryption, authentication protocols, secure data storage, and blockchain, are used to protect digital platforms and ensure privacy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_201.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [data validation and quality control nan techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1575.md)
 * [encryption technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1542.md)
 * [Encryption technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2040.md)
+
+## This Technology is identified by the following QID
+
+* [Q1014345](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1014345.md)
 

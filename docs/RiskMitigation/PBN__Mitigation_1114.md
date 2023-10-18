@@ -2,9 +2,9 @@
 
 # __Water management__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [improved water supply](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3663.md)
+* [Efficient control and supervision to ensure the proper handling and disposal of various types of waste and potential risks.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_8.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Environmental management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2386.md)
 * [Drainage system management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1514.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Increased mosquito breeding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2933.md)
-
 ## Property: has_MitigationPrinciple
 
 Poor access to water leads to water storage practices that enable mosquito breeding. Improving water supplies can reduce mosquito populations and contribute to reducing the burden of mosquito-borne diseases.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Increased mosquito breeding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2933.md)
+
 ## Property: has_MitigationSource
 
 * [Challenges to Mitigating the Urban Health Burden of Mosquito-Borne Diseases in the Face of Climate Change](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_95.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [improved water supply](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3663.md)
 

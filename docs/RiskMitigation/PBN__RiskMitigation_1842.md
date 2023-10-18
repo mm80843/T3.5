@@ -2,9 +2,9 @@
 
 # __Improve access to specialist care in rural areas, increase referral rates to specialists, provide transportation options for rural patients__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Rural-urban disparities in access to gynecologic oncologist treatment for ovarian cancer](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1348.md)
+* [Enhancing healthcare infrastructure, increasing capacity, and ensuring access to medical resources and services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_330.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Increase healthcare capacity, establish additional temporary facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2993.md)
 * [Increase healthcare resources and facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2008.md)
 * [Provide adequate healthcare services and support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1137.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Rural-urban disparities in access to gynecologic oncologist treatment for ovarian cancer](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1348.md)
 

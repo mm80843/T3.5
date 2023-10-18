@@ -2,9 +2,9 @@
 
 # __allocation__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Central control of medical countermeasures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_995.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [reservation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_776.md)
 * [capacity limits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1825.md)
 * [diversification](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4373.md)
+
+## This Technology enables the following mitigations
+
+* [Central control of medical countermeasures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_995.md)
 

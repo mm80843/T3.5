@@ -2,9 +2,9 @@
 
 # __computer vision__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [AI algorithms for pattern discovery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1244.md)
+* [Measures promoting accountability, media control, real-time updates, and virtual experiences for physical distancing and education.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [face recognition](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4269.md)
 * [augmented reality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4196.md)
 * [video surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4336.md)
+
+## This Technology enables the following mitigations
+
+* [AI algorithms for pattern discovery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1244.md)
 

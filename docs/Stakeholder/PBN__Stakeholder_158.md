@@ -6,6 +6,10 @@
 
 * [Reduction in mosquito-human contact](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_336.md)
 
+## Category to which it belongs
+
+* [All those involved in the management, access, and utilization of data in various communities and industries.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_358.md)
+
 ## Closest similar item
 
 * [online busine](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1992.md)

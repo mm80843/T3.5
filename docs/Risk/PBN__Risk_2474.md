@@ -2,9 +2,9 @@
 
 # __Stress, fatigue, poor mental well-being__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Biophilic design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_175.md)
+* [The toll of mental health harms, health harming behaviors, and the psychological impact of quarantine, fear, and anxiety has increased, affecting various populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_95.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Increased mental and physical health problems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3087.md)
 * [Lack of physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1960.md)
 * [Increased stress and potential overwhelm among health care providers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_594.md)
+
+## Mitigations of this risk
+
+* [Biophilic design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_175.md)
 

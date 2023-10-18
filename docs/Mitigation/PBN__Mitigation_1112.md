@@ -2,8 +2,9 @@
 
 # __Relocating additional healthcare personnel__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Enhancing healthcare access, facilities, and systems while promoting affordability and strengthening healthcare infrastructure through various strategies and initiatives.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_165.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Healthcare capacity expansion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1136.md)
 * [Increased health care access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_273.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Workload in intensive care units, expertise in critical care](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2931.md)
-
 ## Property: has_MitigationPrinciple
 
 Relocating healthcare personnel with expertise in respiratory care and critical care to the newly prepared AIIRs to provide optimal care to COVID-19 patients and help manage critical devices and procedures.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Workload in intensive care units, expertise in critical care](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2931.md)
+
 ## Property: has_MitigationSource
 
 * [Rapid expansion of temporary, reliable airborne-infection isolation rooms with negative air machines for critical COVID-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_77.md)
+
+## This Mitigation is enabled by the following technologies
+
 

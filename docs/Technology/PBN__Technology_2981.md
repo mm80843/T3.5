@@ -2,10 +2,9 @@
 
 # __sanitization__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Implementation of safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_130.md)
-* [Strict adherence to COVID-19 preventative measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_157.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [sanitization devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_720.md)
 * [Sanitization devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2592.md)
 * [sanitizing products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4225.md)
+
+## This Technology enables the following mitigations
+
+* [Implementation of safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_130.md)
+* [Strict adherence to COVID-19 preventative measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_157.md)
 

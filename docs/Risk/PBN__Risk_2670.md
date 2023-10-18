@@ -2,9 +2,9 @@
 
 # __Inadequate Safety__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Safe Work Practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_630.md)
+* [Health and safety concerns, risk communication strategy, and inadequate personal protective equipment are all indicative of potential hazards and vulnerabilities in various settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_126.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Health and safety risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_733.md)
 * [Workplace safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1920.md)
 * [Lack of protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1981.md)
+
+## Mitigations of this risk
+
+* [Safe Work Practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_630.md)
 

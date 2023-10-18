@@ -2,9 +2,9 @@
 
 # __qualified hvac professionals__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Regular inspection and maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1428.md)
+* [Improved and energy-efficient HVAC systems, along with advanced technologies, for efficient energy management and environmental control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_227.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [in hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_683.md)
 * [Improved HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2311.md)
 * [improved hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_662.md)
+
+## This Technology enables the following mitigations
+
+* [Regular inspection and maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1428.md)
 

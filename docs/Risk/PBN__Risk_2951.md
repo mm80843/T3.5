@@ -2,9 +2,9 @@
 
 # __Direct exposure to sunlight__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Optimize north-south orientation of building layout](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1153.md)
+* [The impact of UV light on bacteria, the need for proper installation and maintenance of UVGI systems, and the risks associated with UV-C exposure.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_139.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of natural light](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1804.md)
 * [Inadequate natural light](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1088.md)
 * [Lack of access to natural light](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3220.md)
+
+## Mitigations of this risk
+
+* [Optimize north-south orientation of building layout](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1153.md)
 

@@ -2,13 +2,41 @@
 
 # __Validity of energy social research during and after COVID-19: challenges, considerations, and responses__
 
+## DOI of the article
+
+10.1016/j.erss.2020.101646
+
 ## Short summary of the article
 
 The COVID-19 pandemic has had significant impacts on the validity of energy social science research. In this paper, the authors aim to highlight principles that energy social science researchers can use to mitigate uncertainty and ensure the validity of their work during and after the pandemic. These principles include considering the possible impacts of the pandemic on research findings, adjusting research design and data collection methods, and reporting extra contextual detail. By following these principles, researchers can have greater confidence in the validity of their work. The authors also discuss challenges to validity, such as the need to balance internal and external validity, and the importance of considering the stability of findings over time. They emphasize the importance of a particular focus on energy studies, given the significant impacts of the pandemic on energy use. The paper provides a checklist for researchers to address the impacts of the pandemic on their research, and highlights opportunities for collaboration and new insights in energy social science research.
 
-## DOI of the article
+## Summary of the article
 
-10.1016/j.erss.2020.101646
+The COVID-19 pandemic is affecting the world and how people live. It is also affecting the research that scientists do. The scientists in this paper are talking about how to make sure their research is accurate and true during this challenging time. They give some suggestions on how to collect and report data so that it reflects what is happening because of the pandemic. They also talk about considering the impact of the pandemic on research design and how to interpret the findings. They believe that by following these suggestions, researchers can make sure their work is valid and helpful in the future.
+
+## Title of the article
+
+Validity of energy social research during and after COVID-19: challenges, considerations, and responses
+
+## Year of publication
+
+2020
+
+## Benefits listed in this article
+
+* [Enhanced validity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1352.md)
+* [Improved research design](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1353.md)
+* [Longitudinal insights](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1354.md)
+* [Enhanced data collection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1355.md)
+* [Enhanced research practices](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1356.md)
+
+## List of risks in an article
+
+* [Data collection limitations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1385.md)
+* [Confounding variables](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1384.md)
+* [Ethical considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_163.md)
+* [Loss of validity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1383.md)
+* [Contextual factors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1386.md)
 
 ## This article points to following mitigation
 
@@ -22,32 +50,4 @@ The COVID-19 pandemic has had significant impacts on the validity of energy soci
 * [Considering context in interpretation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_662.md)
 * [Collaboration and convergence research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_663.md)
 * [Address biases in knowledge representation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_664.md)
-
-## Benefits listed in this article
-
-* [Enhanced validity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1352.md)
-* [Improved research design](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1353.md)
-* [Longitudinal insights](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1354.md)
-* [Enhanced data collection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1355.md)
-* [Enhanced research practices](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1356.md)
-
-## Summary of the article
-
-The COVID-19 pandemic is affecting the world and how people live. It is also affecting the research that scientists do. The scientists in this paper are talking about how to make sure their research is accurate and true during this challenging time. They give some suggestions on how to collect and report data so that it reflects what is happening because of the pandemic. They also talk about considering the impact of the pandemic on research design and how to interpret the findings. They believe that by following these suggestions, researchers can make sure their work is valid and helpful in the future.
-
-## List of risks in an article
-
-* [Data collection limitations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1385.md)
-* [Confounding variables](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1384.md)
-* [Ethical considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_163.md)
-* [Loss of validity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1383.md)
-* [Contextual factors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1386.md)
-
-## Title of the article
-
-Validity of energy social research during and after COVID-19: challenges, considerations, and responses
-
-## Year of publication
-
-2020
 

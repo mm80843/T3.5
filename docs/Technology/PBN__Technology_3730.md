@@ -2,9 +2,9 @@
 
 # __construction and technical changes__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Convertibility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1212.md)
+* [Design and construction professionals use innovative techniques and strategies to create adaptable, sustainable, and inclusive buildings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_217.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [building engineers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_385.md)
 * [Building engineers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2335.md)
 * [building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4056.md)
+
+## This Technology enables the following mitigations
+
+* [Convertibility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1212.md)
 

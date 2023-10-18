@@ -2,20 +2,20 @@
 
 # __Availability of essential goods and services__
 
+## Name of the Benefit
+
+Ensuring access to food, medicine, and other necessary supplies during the crisis
+
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Sustained provision of essential needs, improved public health and safety](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1560.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-* [local businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_300.md)
 
 ## Articles mentionning this Benefit
 
 * [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
 
-## Name of the Benefit
+## Stakeholders benefitting from this Benefit
 
-Ensuring access to food, medicine, and other necessary supplies during the crisis
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [local businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_300.md)
 

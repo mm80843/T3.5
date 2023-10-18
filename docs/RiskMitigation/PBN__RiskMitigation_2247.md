@@ -2,9 +2,9 @@
 
 # __Develop strategies to ensure equal access and distribution of UGS throughout the city.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Uneven distribution of UGS](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1689.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Incorporating green infrastructure and UGS in urban planning and development, implementing green roof and wall initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2936.md)
 * [Distribution of UGS in a more homogenous way](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_959.md)
 * [Promote the creation of temporary UGS in underutilized urban spaces to meet the increased demand during pandemics.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2250.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Uneven distribution of UGS](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1689.md)
 

@@ -2,9 +2,9 @@
 
 # __Lack of personal protective equipment and professional training in family members__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Limiting familial cluster infections](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_724.md)
+* [Health and safety concerns, risk communication strategy, and inadequate personal protective equipment are all indicative of potential hazards and vulnerabilities in various settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_126.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inadequate Protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2671.md)
 * [Lack of Protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2527.md)
 * [Lack of protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3213.md)
+
+## Mitigations of this risk
+
+* [Limiting familial cluster infections](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_724.md)
 

@@ -2,9 +2,9 @@
 
 # __Some faculty struggling with novel technology and participants with poor bandwidth connections__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Teleconference Format for Academic Conferences](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_428.md)
+* [The challenges of implementing a digital culture include lack of interoperability, missing information, emerging technologies, and technological limitations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_112.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Faculty Engagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1271.md)
 * [Connectivity issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2084.md)
 * [Dependency on technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1233.md)
+
+## Mitigations of this risk
+
+* [Teleconference Format for Academic Conferences](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_428.md)
 

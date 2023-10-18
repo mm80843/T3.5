@@ -2,10 +2,9 @@
 
 # __COVID-19 transmission in workplaces__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [COVID-19 preparedness and response plans](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_502.md)
-* [Personal Protective Equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_415.md)
+* [The far-reaching consequences of COVID-19 include its transmission through various settings, impact on urban areas, and scarcity of resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Risk of workplace transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1479.md)
 * [Transmission of COVID-19 in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_579.md)
 * [Spread of COVID-19 in workplace settings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_434.md)
+
+## Mitigations of this risk
+
+* [COVID-19 preparedness and response plans](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_502.md)
+* [Personal Protective Equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_415.md)
 

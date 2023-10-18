@@ -2,9 +2,9 @@
 
 # __Telehealth platforms and software for virtual therapy and counseling__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
-* [Telemedicine and Telehealth Services](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_28.md)
+* [Virtual healthcare and remote communication technology including telemedicine, telehealth platforms, teletherapy, teleconferencing, and tele-operation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_202.md)
 
 ## Closest similar item
 
@@ -19,12 +19,16 @@
 * [telehealth solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1172.md)
 * [Telehealth solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2293.md)
 
+## This Technology is identified by the following QID
+
+* [Q2549364](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2549364.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Telemedicine and Telehealth Services](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_28.md)
+
 ## This Technology belongs to this TechGroup
 
 * [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
 * [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
-
-## This Technology is identified by the following QID
-
-* [Q2549364](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2549364.md)
 

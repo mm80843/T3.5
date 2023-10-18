@@ -2,13 +2,9 @@
 
 # __Proper selection of indoor materials__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [PVP4: Virus propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_177.md)
-
-## Property: has_MitigationBenefit
-
-* [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_127.md)
+* [Designing affordable, adaptable, and sustainable housing with improved building environments and optimized spatial layouts, while incorporating flexible and human-centric design elements and considering health, safety, and environmental parameters.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_326.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1029.md)
 * [Levels of indoor space adjustability](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_241.md)
 * [Optimize room layout, create flexible and multipurpose spaces, maximize use of natural light and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2227.md)
+
+## Property: has_MitigationBenefit
+
+* [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_127.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [PVP4: Virus propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_177.md)
 

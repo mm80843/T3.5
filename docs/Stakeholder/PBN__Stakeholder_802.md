@@ -2,9 +2,9 @@
 
 # __nature enthusiasts__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Lack of gardening/activity in green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1290.md)
+* [The realm of nature and its impact on humanity, from researchers and scientists to workers and individuals.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_373.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [gardening clubs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_805.md)
 * [wildlife conservation organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_545.md)
 * [park visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1099.md)
+
+## Risk affecting this stakeholder
+
+* [Lack of gardening/activity in green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1290.md)
 

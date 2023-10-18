@@ -2,13 +2,9 @@
 
 # __Material selection to minimize mosquito attraction__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Malaria](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_938.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduced risk of mosquito intrusion](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1285.md)
+* [Efforts include RNA monitoring, occupant exposure modeling, targeted messages, adoption of principles, copper coating, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_311.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Water circulation and aeration, mosquito control measures, public education on mosquito prevention](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2224.md)
 * [Selection of materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3264.md)
 * [Increase public education and awareness campaigns about mosquito-borne diseases and personal protective measures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2627.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced risk of mosquito intrusion](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1285.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Malaria](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_938.md)
 

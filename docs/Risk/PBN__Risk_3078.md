@@ -2,9 +2,9 @@
 
 # __Economic impact on government budgets__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Government Bailout](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1450.md)
+* [The ramifications of global connectivity include economic instability, impacts of the pandemic, unemployment, poverty, reduced tourism revenue, and decline in public budgets.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_103.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Financial impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_599.md)
 * [Cutting public social expenditures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2263.md)
 * [Economic impacts, social impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2916.md)
+
+## Mitigations of this risk
+
+* [Government Bailout](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1450.md)
 

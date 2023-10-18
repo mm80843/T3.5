@@ -2,13 +2,9 @@
 
 # __Using wearables to manage symptoms and identify overexertion in individuals with long COVID__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Personalized health management through pacing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_685.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved symptom management through pacing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_955.md)
+* [Implement comprehensive strategies to control virus transmission, improve surveillance, develop antiviral coatings, and enhance infection control measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_309.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implement regular and widespread symptom monitoring and testing, both symptomatic and asymptomatic](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2039.md)
 * [Explore the use of additional physiological measurements to improve accuracy of diagnosis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1561.md)
 * [Implement strict policies and protocols for employees who test positive or are exposed to COVID-19, including mandatory self-isolation and remote work options.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1653.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved symptom management through pacing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_955.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Personalized health management through pacing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_685.md)
 

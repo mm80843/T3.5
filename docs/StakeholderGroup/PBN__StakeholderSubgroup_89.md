@@ -2,12 +2,9 @@
 
 # __Socioeconomic Defined Individuals__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [Low-income individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2117.md)
-* [Low-income individual](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2203.md)
-* [Low-income communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2215.md)
-* [Low-income household](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2139.md)
+* [A compilation of various groups of people distinguished by location, socio-economic status, and gender, related to real estate and housing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_242.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [Responsible or Working Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_78.md)
 * [Individuals in Developing Countries](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_92.md)
 * [Individuals with Specific Conditions](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_86.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [Low-income individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2117.md)
+* [Low-income individual](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2203.md)
+* [Low-income communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2215.md)
+* [Low-income household](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2139.md)
 

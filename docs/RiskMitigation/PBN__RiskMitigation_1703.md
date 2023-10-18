@@ -2,9 +2,9 @@
 
 # __Regular hand hygiene practices, cleaning and disinfection of frequently touched surfaces__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Indirect transmission via contaminated surfaces (fomites)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1243.md)
+* [Effective surface disinfection through regular cleaning and use of self-cleaning materials and antimicrobial coatings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_334.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Regular cleaning and disinfection of frequently touched surfaces, practice good hand hygiene.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1870.md)
 * [Regular cleaning and disinfection of frequently touched surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2299.md)
 * [Regular cleaning and disinfection of surfaces, frequent hand washing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2314.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Indirect transmission via contaminated surfaces (fomites)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1243.md)
 

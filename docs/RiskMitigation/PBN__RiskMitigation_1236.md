@@ -2,13 +2,9 @@
 
 # __Permanent transformations__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Climate change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_894.md)
-
-## Property: has_MitigationBenefit
-
-* [Long-term stability and resilience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1229.md)
+* [Implementing a comprehensive package of measures to ensure the smooth functioning and safety of essential services and activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_6.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Restructuring workforce](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_708.md)
 * [Design flexibility](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_612.md)
 * [Accelerated digital transformation of healthcare delivery](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_675.md)
+
+## Property: has_MitigationBenefit
+
+* [Long-term stability and resilience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1229.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Climate change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_894.md)
 

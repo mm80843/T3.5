@@ -2,9 +2,9 @@
 
 # __maintenance needs__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Green roofs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1187.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [maintenance and inspection protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1184.md)
 * [sensor maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_990.md)
 * [maintenance and landscaping equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_844.md)
+
+## This Technology enables the following mitigations
+
+* [Green roofs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1187.md)
 

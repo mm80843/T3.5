@@ -2,9 +2,9 @@
 
 # __Ensure timely implementation of control measures__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Delay in control measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2179.md)
+* [Implementing a comprehensive package of measures to ensure the smooth functioning and safety of essential services and activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_6.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implementing safety measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_100.md)
 * [Implementing precautionary measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_639.md)
 * [Strict adherence to preventative measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_443.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Delay in control measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2179.md)
 

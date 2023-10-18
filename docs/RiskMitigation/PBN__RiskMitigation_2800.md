@@ -2,9 +2,9 @@
 
 # __Establish protocols for monitoring confirmed cases and close contacts, ensure compliance with quarantine and isolation measures__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Monitoring of confirmed cases and close contacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2141.md)
+* [Enforcing strict measures such as containment strategies, isolation, quarantine, and travel restrictions to prevent the spread of diseases.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_333.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement social distancing measures, case isolation, and home quarantine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1885.md)
 * [Quarantine support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3136.md)
 * [Efficient public health response, quarantine measures, widespread testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2589.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Monitoring of confirmed cases and close contacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2141.md)
 

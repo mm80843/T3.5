@@ -2,9 +2,9 @@
 
 # __Increase the availability and accessibility of green spaces close to residential areas__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of outdoor recreation during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1967.md)
+* [Promote biodiversity and sustainable urban development through the establishment and accessibility of green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_322.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Promote the availability and affordability of housing with private green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2583.md)
 * [Increase greenspace availability in deprived areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2915.md)
 * [Increase access to outdoor spaces through the integration of green infrastructure in urban environments](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2242.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of outdoor recreation during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1967.md)
 

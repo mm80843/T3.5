@@ -2,9 +2,9 @@
 
 # __Increase investment in renewable energy incentives and tax credits, support renewable energy companies__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Negative impact on renewable energy sector](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2113.md)
+* [Promote sustainable development through infrastructure investments, training, diversification, financial support, and government partnerships.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_315.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement policies to reduce inequality in access to green areas, provide subsidies or incentives for low-income individuals, and improve transportation options](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2927.md)
 * [Promote energy efficiency measures and renewable energy production](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2145.md)
 * [Support and invest in low-carbon sources of electricity and transportation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1714.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Negative impact on renewable energy sector](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2113.md)
 

@@ -2,9 +2,9 @@
 
 # __accessible transportation options__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Enhancing accessibility for low-income residents](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2208.md)
+* [Enhancing accessibility and support through a range of remote healthcare, counseling, transportation, and translation services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_213.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [affordable transportation services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1820.md)
 * [Affordable transportation services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2739.md)
 * [accessible paths](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1036.md)
+
+## This Technology enables the following mitigations
+
+* [Enhancing accessibility for low-income residents](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2208.md)
 

@@ -2,9 +2,9 @@
 
 # __Promoting positive destination image, addressing misinformation, and emphasizing safety measures__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Image Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_87.md)
+* [Promote accurate and reliable information, combat misinformation, and increase media and public health literacy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_343.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implementing measures to detect and prevent the spread of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_122.md)
 * [Provide transparent and credible information to reduce risk perception](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1658.md)
 * [Targeted communication strategies, improving housing conditions, and enhancing public transport safety measures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2428.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Image Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_87.md)
 

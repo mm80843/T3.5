@@ -2,10 +2,9 @@
 
 # __Sanitation__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3986.md)
-* [clean drinking water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3985.md)
+* [Enhancing safety and efficiency through comprehensive measures, technology integration, diverse environments, and behavioral adjustments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_157.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [proper sanitation practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4128.md)
 * [sanitation infrastructure and services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4129.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Poor sanitation conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3196.md)
-
 ## Property: has_MitigationPrinciple
 
 Availability of clean water and a good wastewater management system
 
+## Risks possibly mitigated by this Mitigation
+
+* [Poor sanitation conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3196.md)
+
 ## Property: has_MitigationSource
 
 * [The Impact of the COVID-19 Pandemic on the Space Pattern Changes in Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_94.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3986.md)
+* [clean drinking water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3985.md)
 

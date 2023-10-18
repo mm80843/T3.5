@@ -2,13 +2,9 @@
 
 # __Transformation of public places for essential uses__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Flexible public places to support essential sectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_268.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced support for essential sectors](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_330.md)
+* [Promote equitable, sustainable, and inclusive urban planning to enhance living conditions, mitigate overcrowding, and reduce disparities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_324.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Repurposing large public spaces for emergency health purposes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1258.md)
 * [Conversion of public venues into makeshift hospitals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_611.md)
 * [Redesign public spaces to allow for social distancing, implement improved sanitization measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2305.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced support for essential sectors](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_330.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Flexible public places to support essential sectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_268.md)
 

@@ -2,6 +2,23 @@
 
 # __Telehealth__
 
+## Category to which it belongs
+
+* [Remote healthcare services provided through telecommunications, enabling virtual consultations and remote patient monitoring.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_296.md)
+
+## Closest similar item
+
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
+* [telehealth technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_65.md)
+* [Telehealth technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_66.md)
+* [telehealth system](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_67.md)
+* [telehealth/telepresence](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_68.md)
+* [telehealth solutions](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_69.md)
+* [Telehealth solutions](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_70.md)
+* [telehealth services](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_71.md)
+* [Telehealth services](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_72.md)
+* [telehealth platforms](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_73.md)
+
 ## This Technology belongs to this TechnologyGroup
 
 * [contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
@@ -102,17 +119,4 @@
 * [Telehealth platforms and software for virtual therapy and counseling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2181.md)
 * [Workforce management tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2303.md)
 * [Improved sample collection and handling protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2297.md)
-
-## Closest similar item
-
-* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
-* [telehealth technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_65.md)
-* [Telehealth technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_66.md)
-* [telehealth system](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_67.md)
-* [telehealth/telepresence](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_68.md)
-* [telehealth solutions](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_69.md)
-* [Telehealth solutions](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_70.md)
-* [telehealth services](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_71.md)
-* [Telehealth services](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_72.md)
-* [telehealth platforms](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_73.md)
 

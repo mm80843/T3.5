@@ -2,9 +2,9 @@
 
 # __particularly those who rely heavily on social media for information__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Misinformation and ’infodemic’](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1990.md)
+* [Members of the public, including social media users, organizations promoting gender equality, and individuals in various social settings and groups.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_385.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [particularly those with low income or low education](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_267.md)
 * [social media companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_557.md)
 * [social medium user](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2496.md)
+
+## Risk affecting this stakeholder
+
+* [Misinformation and ’infodemic’](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1990.md)
 

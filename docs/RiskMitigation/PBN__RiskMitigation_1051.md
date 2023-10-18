@@ -2,13 +2,9 @@
 
 # __Increasing concern for being bitten__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Low level of community-level vector control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_761.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction in total number of infections](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1049.md)
+* [Enforce safety measures, promote responsible behavior, utilize PPE, and prioritize risk prevention to ensure adequate protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_342.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Social distancing, hand hygiene, mask wearing, vaccination.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2237.md)
 * [Emphasizing use of personal protective measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1050.md)
 * [Quarantine for high-risk individuals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_93.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction in total number of infections](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1049.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Low level of community-level vector control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_761.md)
 

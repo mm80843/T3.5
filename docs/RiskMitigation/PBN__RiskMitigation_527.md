@@ -2,13 +2,9 @@
 
 # __Data quality improvement__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Inadequate data quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_382.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced accuracy of predictive models](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_515.md)
+* [Promote standardized data collection, ontology-based representation, and enhanced data sharing to improve decision-making processes and data quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_319.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Improve data collection and reporting systems, enhance testing capacity, ensure transparency in data reporting](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2031.md)
 * [Implement data protection measures and provide objective water quality data.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2524.md)
 * [Rigorous data scrutiny and review](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_856.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced accuracy of predictive models](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_515.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inadequate data quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_382.md)
 

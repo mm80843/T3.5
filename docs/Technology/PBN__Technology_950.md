@@ -2,9 +2,9 @@
 
 # __development and optimization of more sensitive and specific assays for sars-cov-2 detection in sewage samples__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q112295298](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q112295298.md)
+* [Improvements in wastewater, waste management, sanitation, water purification, and plumbing technologies aim for sustainable and efficient infrastructure development.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_234.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Wastewater-based epidemiology (WBE) methods and PCR testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2106.md)
 * [wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_999.md)
 * [sewage surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1103.md)
+
+## This Technology is identified by the following QID
+
+* [Q112295298](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q112295298.md)
 

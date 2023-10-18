@@ -2,9 +2,9 @@
 
 # __Occupant awareness campaigns__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [media advertising](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2959.md)
+* [Promoting community involvement and awareness through various initiatives such as education programs, engagement campaigns, and urban farming.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_142.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Communication and Awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_295.md)
 * [Increased self-awareness of social media users](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_964.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Lack of behavior change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2428.md)
-
 ## Property: has_MitigationPrinciple
 
 Educating occupants about energy conservation and the potential cost savings of reducing energy consumption to encourage behavior change.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of behavior change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2428.md)
+
 ## Property: has_MitigationSource
 
 * [Occupants’ behavior and activity patterns influencing the energy consumption in the Kuwaiti residences](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_260.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [media advertising](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2959.md)
 

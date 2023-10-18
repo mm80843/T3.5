@@ -2,9 +2,9 @@
 
 # __Ensuring critical evaluation of information, considering multiple sources, promoting evidence-based decision making__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Impact on decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1571.md)
+* [Promote accurate and reliable information, combat misinformation, and increase media and public health literacy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_343.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Rigorous data validation processes, integration of multiple reliable data sources, expert review and validation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3002.md)
 * [Promotion of accurate information, fact-checking, and education campaigns on reliable sources of information.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2778.md)
 * [Dissemination of accurate information through reliable sources, fact-checking of information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3092.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Impact on decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1571.md)
 

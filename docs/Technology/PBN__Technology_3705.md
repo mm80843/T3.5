@@ -2,10 +2,9 @@
 
 # __vertical gardens__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Indoor plants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1410.md)
-* [Access to green areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1155.md)
+* [Urban green space solutions include tree planting, zoning regulations, landscape architecture, community gardens, outdoor furniture, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_231.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [pocket gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_848.md)
 * [rain gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3900.md)
 * [landscaped grounds](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1735.md)
+
+## This Technology enables the following mitigations
+
+* [Indoor plants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1410.md)
+* [Access to green areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1155.md)
 

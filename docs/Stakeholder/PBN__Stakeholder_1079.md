@@ -2,14 +2,9 @@
 
 # __tourism destinations__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Health Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_83.md)
-* [Social Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_85.md)
-
-## Risk affecting this stakeholder
-
-* [Image Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_87.md)
+* [Foreign nationals residing in or visiting various destinations for tourism, with a focus on travelers during the pandemic and the industries reliant on tourism, such as hotels, tourism operators, and tourism boards.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_380.md)
 
 ## Closest similar item
 
@@ -23,4 +18,13 @@
 * [tourist](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2518.md)
 * [tourism operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2009.md)
 * [tourism organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1481.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Health Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_83.md)
+* [Social Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_85.md)
+
+## Risk affecting this stakeholder
+
+* [Image Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_87.md)
 

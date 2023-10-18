@@ -2,9 +2,9 @@
 
 # __double-glazed windows__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Implementing sound insulation measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_485.md)
+* [These resources aim to enhance security, convenience, and efficiency in managing access, spaces, and systems within various environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_206.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [drive-through window systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4100.md)
 * [openable windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1748.md)
 * [Openable windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2714.md)
+
+## This Technology enables the following mitigations
+
+* [Implementing sound insulation measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_485.md)
 

@@ -2,9 +2,9 @@
 
 # __Research and development of antiviral technologies that are effective against a wider range of viruses.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Limited efficacy against specific viruses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1512.md)
+* [Implement comprehensive strategies to control virus transmission, improve surveillance, develop antiviral coatings, and enhance infection control measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_309.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Disinfection of surfaces and development of antiviral coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1579.md)
 * [Implement interventions to reduce viral load and interrupt the spread of the virus.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2067.md)
 * [Evaluate and compare the effectiveness of different virus concentration methods for enveloped viruses in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1484.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limited efficacy against specific viruses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1512.md)
 

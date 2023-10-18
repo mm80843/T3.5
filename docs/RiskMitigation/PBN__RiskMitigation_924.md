@@ -2,13 +2,9 @@
 
 # __Present risk messages with honesty__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Information concealment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_660.md)
-
-## Property: has_MitigationBenefit
-
-* [Increased credibility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_923.md)
+* [Enforce safety measures, promote responsible behavior, utilize PPE, and prioritize risk prevention to ensure adequate protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_342.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Risk perception](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_379.md)
 * [Acknowledge diverse levels of risk tolerance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_926.md)
 * [Promoting trust and countering misinformation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_553.md)
+
+## Property: has_MitigationBenefit
+
+* [Increased credibility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_923.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Information concealment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_660.md)
 

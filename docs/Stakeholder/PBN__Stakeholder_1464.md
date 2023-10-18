@@ -2,13 +2,13 @@
 
 # __data sharing partners__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q5227350](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5227350.md)
+* [All those involved in the management, access, and utilization of data in various communities and industries.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_358.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Technology Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_12.md)
+* [Regulatory frameworks for data protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_811.md)
 
 ## Closest similar item
 
@@ -23,11 +23,15 @@
 * [information provider](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1932.md)
 * [data management agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1399.md)
 
-## Risk affecting this stakeholder
-
-* [Regulatory frameworks for data protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_811.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Data Management and Security](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_152.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q5227350](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5227350.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Technology Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_12.md)
 

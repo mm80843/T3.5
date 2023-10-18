@@ -6,6 +6,10 @@
 
 * [Minimized risk of infection spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_685.md)
 
+## Category to which it belongs
+
+* [Government and non-governmental organizations responsible for a wide range of services, including health, development, regulation, and emergency response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_382.md)
+
 ## Closest similar item
 
 * [real estate agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2037.md)

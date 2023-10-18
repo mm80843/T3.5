@@ -2,9 +2,9 @@
 
 # __preprint servers__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Preprint screening measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2336.md)
+* [Enhancing accessibility and support through a range of remote healthcare, counseling, transportation, and translation services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_213.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [secure server networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_347.md)
 * [cloud service](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3388.md)
 * [preparedness planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3630.md)
+
+## This Technology enables the following mitigations
+
+* [Preprint screening measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2336.md)
 

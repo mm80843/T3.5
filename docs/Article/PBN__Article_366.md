@@ -2,13 +2,13 @@
 
 # __Technology intervention for preventing COVID-19 outbreak__
 
-## Title of the article
-
-Technology intervention for preventing COVID-19 outbreak
-
 ## DOI of the article
 
 10.1108/ITP-05-2020-0298
+
+## Title of the article
+
+Technology intervention for preventing COVID-19 outbreak
 
 ## Year of publication
 

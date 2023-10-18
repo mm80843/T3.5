@@ -2,6 +2,10 @@
 
 # __Implement measures to protect women’s health, income support, and address gender-based violence.__
 
+## Category to which it belongs
+
+* [Implement comprehensive measures to ensure support, protection, and assistance for vulnerable populations during the pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_349.md)
+
 ## Closest similar item
 
 * [Implement policies and interventions to support and protect victims of intimate partner violence during the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1468.md)

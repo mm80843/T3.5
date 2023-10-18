@@ -2,13 +2,13 @@
 
 # __individuals with private green spaces__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q22652](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q22652.md)
+* [Individuals in various types of spaces, including public, indoor, and confined areas, with varying access to green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_378.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Limited access to private green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1970.md)
 
 ## Closest similar item
 
@@ -23,11 +23,15 @@
 * [individual with limited acces to green space](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2325.md)
 * [individual with limited acce to green space](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2397.md)
 
-## Risk affecting this stakeholder
-
-* [Limited access to private green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1970.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Individuals with Health Conditions](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_76.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q22652](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q22652.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 

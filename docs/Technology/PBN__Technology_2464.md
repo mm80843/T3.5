@@ -2,9 +2,9 @@
 
 # __HVAC maintenance and calibration systems__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
-* [Indoor Environment and Ventilation Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_75.md)
+* [Improved and energy-efficient HVAC systems, along with advanced technologies, for efficient energy management and environmental control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_227.md)
 
 ## Closest similar item
 
@@ -19,12 +19,16 @@
 * [HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2232.md)
 * [hvac system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3190.md)
 
+## This Technology is identified by the following QID
+
+* [Q1601541](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1601541.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Indoor Environment and Ventilation Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_75.md)
+
 ## This Technology belongs to this TechGroup
 
 * [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
 * [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
-
-## This Technology is identified by the following QID
-
-* [Q1601541](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1601541.md)
 

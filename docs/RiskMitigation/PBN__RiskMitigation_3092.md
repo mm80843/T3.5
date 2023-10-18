@@ -2,9 +2,9 @@
 
 # __Dissemination of accurate information through reliable sources, fact-checking of information__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Misinformation on COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2382.md)
+* [Promote accurate and reliable information, combat misinformation, and increase media and public health literacy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_343.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Verify sources and rely on accurate, evidence-based information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2044.md)
 * [Promote reliable sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_759.md)
 * [Quick and Accurate Information Dissemination](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1364.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Misinformation on COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2382.md)
 

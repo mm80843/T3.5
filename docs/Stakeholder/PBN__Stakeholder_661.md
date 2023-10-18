@@ -2,13 +2,13 @@
 
 # __racial and ethnic minorities__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q30103](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q30103.md)
+* [Individuals of different ages, including children, parents, migrants, and vulnerable groups, such as women and racial minorities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_389.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Health disparities among vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1138.md)
 
 ## Closest similar item
 
@@ -23,11 +23,15 @@
 * [especially low-income and minority community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2211.md)
 * [cultural and social groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_945.md)
 
-## Risk affecting this stakeholder
-
-* [Health disparities among vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1138.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Migrants and Minorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_111.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q30103](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q30103.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 

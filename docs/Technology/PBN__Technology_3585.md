@@ -2,9 +2,9 @@
 
 # __restrictive measures__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Cordon Sanitaire](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1018.md)
+* [Measures promoting accountability, media control, real-time updates, and virtual experiences for physical distancing and education.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [compliance measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1646.md)
 * [inclusive policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1806.md)
 * [neighborhood control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4135.md)
+
+## This Technology enables the following mitigations
+
+* [Cordon Sanitaire](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1018.md)
 

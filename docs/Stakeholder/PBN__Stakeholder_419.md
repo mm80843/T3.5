@@ -6,6 +6,10 @@
 
 * [Revitalization of commercial and artisanal spaces, enhanced public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1044.md)
 
+## Category to which it belongs
+
+* [Property stakeholders ranging from investors, homeowners, and tenants to entrepreneurs and commercial space owners.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_7.md)
+
 ## Closest similar item
 
 * [commercial property owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_326.md)

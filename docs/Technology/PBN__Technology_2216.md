@@ -2,8 +2,9 @@
 
 # __natural light solutions (e.g. skylights, sun tubes)__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
+* [Innovative lighting solutions harnessing ultraviolet technology for optimal germicidal sterilization and energy efficiency, while maximizing natural light.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_235.md)
 
 ## Closest similar item
 
@@ -18,11 +19,14 @@
 * [access to natural light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3441.md)
 * [uv lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3193.md)
 
-## This Technology belongs to this TechGroup
-
-* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
-
 ## This Technology is identified by the following QID
 
 * [Q138502](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q138502.md)
+
+## This Technology belongs to this TechSubgroup
+
+
+## This Technology belongs to this TechGroup
+
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 

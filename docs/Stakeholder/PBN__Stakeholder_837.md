@@ -2,14 +2,13 @@
 
 # __workers in workplaces with air recirculation systems__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q50429808](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q50429808.md)
+* [Individuals in poorly ventilated indoor environments, especially those in enclosed spaces with limited air flow, such as offices, homes, and buildings with inadequate air filtration, are at risk of exposure to poor indoor air quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_398.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Building Occupants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_11.md)
-* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
+* [Air recirculation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1319.md)
 
 ## Closest similar item
 
@@ -24,12 +23,17 @@
 * [individuals in spaces with poor air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1208.md)
 * [indoor workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_808.md)
 
-## Risk affecting this stakeholder
-
-* [Air recirculation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1319.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Indoor Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_24.md)
 * [Sectors and Industries](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_25.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q50429808](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q50429808.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Building Occupants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_11.md)
+* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
 

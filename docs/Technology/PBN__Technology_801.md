@@ -2,6 +2,10 @@
 
 # __data transparency__
 
+## Category to which it belongs
+
+* [Data-driven insights and analysis for decision making, anonymized data, transparency, visualization, and advanced techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_205.md)
+
 ## Risks linked to this technology
 
 * [Exaggerated information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_373.md)

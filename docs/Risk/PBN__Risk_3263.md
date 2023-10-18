@@ -2,9 +2,9 @@
 
 # __Unsustainable and unsafe cities__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Sustainable urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1486.md)
+* [Health and safety concerns, risk communication strategy, and inadequate personal protective equipment are all indicative of potential hazards and vulnerabilities in various settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_126.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Open green spaces in urban periphery providing resilience to public health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_893.md)
 * [Inadequate urban design and planning for disease prevention](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1314.md)
 * [Restricted movement in and out of cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2335.md)
+
+## Mitigations of this risk
+
+* [Sustainable urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1486.md)
 

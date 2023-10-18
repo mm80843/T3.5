@@ -2,9 +2,9 @@
 
 # __Risk of false negatives or false positives__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Deployment of Viral Testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1442.md)
+* [Health and safety concerns, risk communication strategy, and inadequate personal protective equipment are all indicative of potential hazards and vulnerabilities in various settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_126.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [High false positive rate](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3414.md)
 * [Negative consequences](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2865.md)
 * [Psychological Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_84.md)
+
+## Mitigations of this risk
+
+* [Deployment of Viral Testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1442.md)
 

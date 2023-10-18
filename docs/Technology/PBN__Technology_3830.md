@@ -2,9 +2,9 @@
 
 # __dedicated isolation facilities__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_752.md)
+* [These resources aim to enhance security, convenience, and efficiency in managing access, spaces, and systems within various environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_206.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [public facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3416.md)
 * [facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3685.md)
 * [sound isolation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4297.md)
+
+## This Technology enables the following mitigations
+
+* [Isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_752.md)
 

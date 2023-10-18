@@ -2,9 +2,9 @@
 
 # __Providing accurate and up-to-date information, offering flexible travel options, and ensuring efficient transportation and service operations__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Time Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_88.md)
+* [Implement travel restrictions, promote active transportation, streamline processes, provide accurate information, and develop sustainable transport options.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_325.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Set up checkpoints, install monitoring equipment, record departure points and destination.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1724.md)
 * [Promote active transportation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_21.md)
 * [Implement restrictions on intercity travel and enforce measures to reduce frequency and speed of travel](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2197.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Time Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_88.md)
 

@@ -2,9 +2,9 @@
 
 # __private balcony__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Availability of outdoor spaces in the building](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2126.md)
+* [Explore a diverse range of materials, from sound-absorbing to eco-friendly, that contribute to innovative building solutions and educational resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_222.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3580.md)
 * [private balconies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1737.md)
 * [public facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3416.md)
+
+## This Technology enables the following mitigations
+
+* [Availability of outdoor spaces in the building](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2126.md)
 

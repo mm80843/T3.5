@@ -2,12 +2,9 @@
 
 # __Vaccines and Therapies__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [antiretroviral therapy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2809.md)
-* [Research and development of vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2247.md)
-* [Pharmaceutical companies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2783.md)
-* [Vaccine development and manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2806.md)
+* [Advancements in medical solutions, such as immunization, treatment, and technological innovations, are explored and monitored.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_57.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [Physical Health Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_59.md)
 * [Healthcare and Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_19.md)
 * [Research and Scientific Studies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_163.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [antiretroviral therapy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2809.md)
+* [Research and development of vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2247.md)
+* [Pharmaceutical companies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2783.md)
+* [Vaccine development and manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2806.md)
 

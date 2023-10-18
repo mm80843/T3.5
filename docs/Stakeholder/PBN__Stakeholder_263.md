@@ -6,6 +6,10 @@
 
 * [Improved mental well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_229.md)
 
+## Category to which it belongs
+
+* [Individuals of different ages, including children, parents, migrants, and vulnerable groups, such as women and racial minorities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_389.md)
+
 ## Closest similar item
 
 * [vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_115.md)

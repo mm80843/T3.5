@@ -2,9 +2,9 @@
 
 # __Ultraviolet irradiation__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [ultraviolet light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4402.md)
+* [Maximizing the use of natural light and UV radiation for germicidal purposes in indoor spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_176.md)
 
 ## Closest similar item
 
@@ -19,14 +19,18 @@
 * [UV disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1052.md)
 * [UV-C Light](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1734.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Ultraviolet irradiation is a technology that uses ultraviolet light to disinfect hospital wastewater. Ultraviolet light damages the DNA and RNA of microorganisms, inhibiting their protein synthesis and killing them.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Disinfection technology of hospital wastes and wastewater: Suggestions for disinfection strategy during coronavirus Disease 2019 (COVID-19) pandemic in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_191.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [ultraviolet light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4402.md)
 

@@ -2,13 +2,9 @@
 
 # __Exergames__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Reduced social interaction due to social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_853.md)
-
-## Property: has_MitigationBenefit
-
-* [Improvement in mood disorders](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1177.md)
+* [Advancements in bioinformatics, divestment, automated sample collection, and artificial intelligence are facilitating early disease detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_336.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Incorporating exercise opportunities in design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_137.md)
 * [Encourage a balanced approach to non-contact interaction activities, promoting a mix of virtual and physical interactions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3027.md)
 * [Curfew](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_426.md)
+
+## Property: has_MitigationBenefit
+
+* [Improvement in mood disorders](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1177.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Reduced social interaction due to social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_853.md)
 

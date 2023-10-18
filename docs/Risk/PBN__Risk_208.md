@@ -2,9 +2,9 @@
 
 # __Importance of dispersal and environmental conditions__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Optimizing ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_247.md)
+* [The interconnectedness of environmental degradation, social inequalities, and the need for climate action and conservation efforts.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_104.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of environmental precautions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1331.md)
 * [Lack of control of environmental conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1250.md)
 * [Limited understanding of complex conservation challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3342.md)
+
+## Mitigations of this risk
+
+* [Optimizing ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_247.md)
 

@@ -2,13 +2,9 @@
 
 # __Access to backup energy sources__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [EU1: Energy use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_193.md)
-
-## Property: has_MitigationBenefit
-
-* [Stable energy supply](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_244.md)
+* [Transition to sustainable energy sources, implement energy-efficient measures, and absorb increased service demand.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_351.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Home Energy Management Systems (HEMS)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_601.md)
 * [Implement energy-efficient appliances, promote alternative energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2942.md)
 * [Conduct comprehensive energy consumption breakdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1372.md)
+
+## Property: has_MitigationBenefit
+
+* [Stable energy supply](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_244.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [EU1: Energy use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_193.md)
 

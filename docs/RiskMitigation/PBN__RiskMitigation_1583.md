@@ -2,9 +2,9 @@
 
 # __Develop cost-effective and scalable production methods__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Scalability and cost of graphene-based coatings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1135.md)
+* [Promote flexibility and resilience in supply chains through diversification, local production, and proactive strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_320.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Diversify suppliers, build buffer stock, local production](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1530.md)
 * [Supply chain optimization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1415.md)
 * [Strengthen supply chains, increase production capacity, improve stockpiling and distribution systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1451.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Scalability and cost of graphene-based coatings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1135.md)
 

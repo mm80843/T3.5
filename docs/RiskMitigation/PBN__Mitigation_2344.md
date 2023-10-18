@@ -2,10 +2,9 @@
 
 # __Optimizing transport based on demand__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1069.md)
-* [sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
+* [Enhancing urban mobility through pedestrian-friendly infrastructure, optimized transportation, and improved public transportation systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_151.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Prioritizing shipments of essential goods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1489.md)
 * [Improved travel limitations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1266.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_47.md)
-
 ## Property: has_MitigationPrinciple
 
 Using data on individual movement patterns to optimize transportation services and reduce congestion based on demand and real-time conditions.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_47.md)
+
 ## Property: has_MitigationSource
 
 * [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1069.md)
+* [sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
 

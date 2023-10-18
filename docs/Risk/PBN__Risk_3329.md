@@ -2,10 +2,9 @@
 
 # __Accessibility__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2025.md)
-* [Augmented reality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2024.md)
+* [Restricted availability of various resources, services, and data creates inequalities and obstacles in accessing them.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_132.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Limited accessibility to UGS](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1691.md)
 * [Access restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_734.md)
 * [Comfort and access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3360.md)
+
+## Mitigations of this risk
+
+* [Virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2025.md)
+* [Augmented reality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2024.md)
 

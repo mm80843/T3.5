@@ -2,6 +2,27 @@
 
 # __ngos__
 
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Disseminating evidence through various mediums](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_549.md)
+
+## Category to which it belongs
+
+* [All actors in the economic and political landscape, including policymakers, governments, and regulatory bodies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_357.md)
+
+## Closest similar item
+
+* [NGOs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2463.md)
+* [NGO](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2443.md)
+* [humanitarian organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1266.md)
+* [organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_186.md)
+* [nonprofit organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_812.md)
+* [Nonprofit organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2497.md)
+* [non-governmental organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1959.md)
+* [non-governmental organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1920.md)
+* [nonprofits](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_810.md)
+* [Nonprofits](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2449.md)
+
 ## Risks that can be mitigated by this stakeholder
 
 * [Domestic Violence and Intimate Partner Violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1431.md)
@@ -37,21 +58,4 @@
 * [Lack of public awareness and education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1851.md)
 * [Low public knowledge and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2009.md)
 * [Inequities in disease vulnerability and access to care](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1860.md)
-
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Disseminating evidence through various mediums](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_549.md)
-
-## Closest similar item
-
-* [NGOs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2463.md)
-* [NGO](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2443.md)
-* [humanitarian organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1266.md)
-* [organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_186.md)
-* [nonprofit organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_812.md)
-* [Nonprofit organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2497.md)
-* [non-governmental organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1959.md)
-* [non-governmental organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1920.md)
-* [nonprofits](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_810.md)
-* [Nonprofits](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2449.md)
 

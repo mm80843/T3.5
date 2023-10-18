@@ -2,13 +2,9 @@
 
 # __Focus on safety and security issues__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Decreased morale](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_212.md)
-
-## Property: has_MitigationBenefit
-
-* [Sense of purpose and meaning](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_265.md)
+* [Enforce safety measures, promote responsible behavior, utilize PPE, and prioritize risk prevention to ensure adequate protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_342.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Advanced security measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_65.md)
 * [Address safety concerns through research, testing, and regulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2373.md)
 * [Security challenges](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_32.md)
+
+## Property: has_MitigationBenefit
+
+* [Sense of purpose and meaning](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_265.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Decreased morale](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_212.md)
 

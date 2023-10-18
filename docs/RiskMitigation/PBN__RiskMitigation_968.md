@@ -2,13 +2,9 @@
 
 # __Medical supply chain optimization__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Shortage of medical equipment and medication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_703.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved resource utilization](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_975.md)
+* [Promote flexibility and resilience in supply chains through diversification, local production, and proactive strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_320.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Effective supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_672.md)
 * [Material supply chain](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_579.md)
 * [Revised supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_710.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved resource utilization](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_975.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Shortage of medical equipment and medication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_703.md)
 

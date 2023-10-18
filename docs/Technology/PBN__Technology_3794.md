@@ -2,9 +2,9 @@
 
 # __open-source structures__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Data Sharing Initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1323.md)
+* [The built environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_230.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [web-based tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3924.md)
 * [biological structures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2931.md)
 * [Building design software and modeling tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2323.md)
+
+## This Technology enables the following mitigations
+
+* [Data Sharing Initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1323.md)
 

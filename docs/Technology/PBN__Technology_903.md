@@ -2,9 +2,9 @@
 
 # __translation tools__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q79798](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q79798.md)
+* [Advanced analytics, fact-checking, project management, reliable sources, knowledge extraction, and collaboration ensure accurate information dissemination and effective decision-making.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_192.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Knowledge translation platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2041.md)
 * [cultural and linguistic adaptation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2007.md)
 * [software tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2930.md)
+
+## This Technology is identified by the following QID
+
+* [Q79798](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q79798.md)
 

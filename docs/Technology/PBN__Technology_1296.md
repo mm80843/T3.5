@@ -2,9 +2,9 @@
 
 # __queue management technology__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q583367](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q583367.md)
+* [Technological advancements encompass a wide range of innovations, such as blockchain, touchless, renewable energy, and communication technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [crowd-management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1868.md)
 * [cloud service technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_646.md)
 * [Cloud service technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2866.md)
+
+## This Technology is identified by the following QID
+
+* [Q583367](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q583367.md)
 

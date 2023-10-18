@@ -2,9 +2,9 @@
 
 # __Interdependencies Mapping__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [interdependency analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4309.md)
+* [Global cooperation and collaboration for the purpose of coordinated action and shared knowledge exchange among various sectors and institutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_183.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Relational Capability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1023.md)
 * [Interdisciplinary collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2063.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Cascading disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_455.md)
-
 ## Property: has_MitigationPrinciple
 
 Critical infrastructure entities should map their dependencies and interdependencies to understand the connections between systems. This helps in identifying potential cascading disruptions and implementing measures to mitigate their effects.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Cascading disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_455.md)
+
 ## Property: has_MitigationSource
 
 * [Preparing critical infrastructure for the future: Lessons learnt from the Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_129.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [interdependency analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4309.md)
 

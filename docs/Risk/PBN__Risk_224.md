@@ -2,9 +2,9 @@
 
 # __Transmission of SARS-CoV-2 through droplet secretions__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Patient respiratory and stool specimens testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_268.md)
+* [The widespread transmission and persistence of the SARS-CoV-2 virus in various environments and the challenges in detecting and removing it.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_93.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Spread of SARS-COV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1728.md)
 * [Spread of SARS-CoV-2 through the air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2168.md)
 * [Transmission of SARS-CoV-2 in built environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_377.md)
+
+## Mitigations of this risk
+
+* [Patient respiratory and stool specimens testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_268.md)
 

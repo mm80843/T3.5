@@ -2,9 +2,9 @@
 
 # __mobile fitness applications__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q16001686](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q16001686.md)
+* [A comprehensive list of mobile applications, including contact-tracing apps, mental health apps, mobile banking, and fitness tracking devices, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_197.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [mobile health apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1552.md)
 * [home workout apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1078.md)
 * [Home workout apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2209.md)
+
+## This Technology is identified by the following QID
+
+* [Q16001686](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q16001686.md)
 

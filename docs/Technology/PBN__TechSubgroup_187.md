@@ -2,11 +2,9 @@
 
 # __Infectious Agents Management__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [genetic manipulation of mosquitoes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1950.md)
-* [Development of new insecticides](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2771.md)
-* [mosquito-resistant alternative building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2775.md)
+* [Management of resources and control of potential hazards in relation to water and waste.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_50.md)
 
 ## Closest similar item
 
@@ -20,4 +18,10 @@
 * [Water Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_120.md)
 * [Sanitation and Safety](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_123.md)
 * [Environment and Healthcare Management Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_14.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [genetic manipulation of mosquitoes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1950.md)
+* [Development of new insecticides](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2771.md)
+* [mosquito-resistant alternative building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2775.md)
 

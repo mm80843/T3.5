@@ -2,9 +2,9 @@
 
 # __green roof technology__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q48741](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q48741.md)
+* [Promotion of environmentally-friendly practices, green infrastructure, sustainable housing, renewable energy, and responsible building to enhance spaces and mitigate climate change.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_224.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [green technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1647.md)
 * [cool roofs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_972.md)
 * [Urban greening technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2337.md)
+
+## This Technology is identified by the following QID
+
+* [Q48741](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q48741.md)
 

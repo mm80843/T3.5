@@ -2,9 +2,9 @@
 
 # __improved hvac systems__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1798773](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1798773.md)
+* [Improved and energy-efficient HVAC systems, along with advanced technologies, for efficient energy management and environmental control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_227.md)
 
 ## Risks linked to this technology
 
@@ -25,4 +25,8 @@
 * [hvac system modification](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3068.md)
 * [adaptive hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_194.md)
 * [adaptive HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2577.md)
+
+## This Technology is identified by the following QID
+
+* [Q1798773](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1798773.md)
 

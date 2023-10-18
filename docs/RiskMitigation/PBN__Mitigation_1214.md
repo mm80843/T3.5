@@ -2,9 +2,9 @@
 
 # __Ventilation systems__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [mechanical ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1013.md)
+* [Optimal air circulation and fresh airflow to enhance indoor environment and promote health in buildings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_177.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4036.md)
 * [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_342.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Increased risk of airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2963.md)
-
 ## Property: has_MitigationPrinciple
 
 Adequate ventilation to reduce infection risk and create negative pressure rooms
 
+## Risks possibly mitigated by this Mitigation
+
+* [Increased risk of airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2963.md)
+
 ## Property: has_MitigationSource
 
 * [Emergency Healthcare Facilities: Managing Design in a Post Covid-19 World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_122.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [mechanical ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1013.md)
 

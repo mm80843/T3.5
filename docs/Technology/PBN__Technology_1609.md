@@ -2,9 +2,9 @@
 
 # __policy support__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q7209689](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7209689.md)
+* [Consistent oversight and regulation ensure compliance, as standardized protocols are enforced by enforcement personnel and regulatory bodies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_228.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [policy measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3590.md)
 * [government policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1853.md)
 * [policy frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1494.md)
+
+## This Technology is identified by the following QID
+
+* [Q7209689](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7209689.md)
 

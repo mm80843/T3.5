@@ -2,13 +2,9 @@
 
 # __Developing immunity in a population__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Herd immunity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_334.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction in disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_426.md)
+* [Maximizing vaccine efficacy and ensuring equitable access through research, development, distribution, and targeted outreach.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_337.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Prioritize vaccination and medical care for vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2761.md)
 * [Increase vaccination coverage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1186.md)
 * [Develop and distribute effective medications and vaccines.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2016.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction in disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_426.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Herd immunity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_334.md)
 

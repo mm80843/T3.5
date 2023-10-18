@@ -2,8 +2,9 @@
 
 # __Avoidance of contact with someone who is displaying symptoms of coronavirus__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Effective management of viral outbreaks through control measures, viral detection, disease tracking, and public awareness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_149.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Isolation of patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1314.md)
 * [Rapid COVID-19 Screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1933.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Disease spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2651.md)
-
 ## Property: has_MitigationPrinciple
 
 Minimize contact with potentially infected individuals to reduce transmission
 
+## Risks possibly mitigated by this Mitigation
+
+* [Disease spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2651.md)
+
 ## Property: has_MitigationSource
 
 * [Coronavirus questions that will not go away: interrogating urban and socio-spatial implications of COVID-19 measures](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_184.md)
+
+## This Mitigation is enabled by the following technologies
+
 

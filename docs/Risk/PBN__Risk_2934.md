@@ -2,9 +2,9 @@
 
 # __Increased exposure to mosquitoes__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Urban housing improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1116.md)
+* [The proliferation of diseases carried by ticks and mosquitoes, exacerbated by climate change, inadequate control measures, and wildlife disturbance, causing increased prevalence and spread of various illnesses.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_119.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Spread of mosquito-borne diseases due to variable climate and extreme weather events](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_58.md)
 * [Mosquito-borne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2946.md)
 * [Increased mosquito breeding due to heavy rainfall](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3115.md)
+
+## Mitigations of this risk
+
+* [Urban housing improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1116.md)
 

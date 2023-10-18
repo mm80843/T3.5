@@ -2,9 +2,9 @@
 
 # __plant roots__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Dynamic botanical air filtration system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2305.md)
+* [Urban green space solutions include tree planting, zoning regulations, landscape architecture, community gardens, outdoor furniture, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_231.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [indoor plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1612.md)
 * [Indoor plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2215.md)
 * [online plant stores](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_420.md)
+
+## This Technology enables the following mitigations
+
+* [Dynamic botanical air filtration system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2305.md)
 

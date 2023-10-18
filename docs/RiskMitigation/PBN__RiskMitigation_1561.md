@@ -2,9 +2,9 @@
 
 # __Explore the use of additional physiological measurements to improve accuracy of diagnosis__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Dependence on limited physiological information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1113.md)
+* [Monitoring, analysis, and standardization of various technologies and protocols for accurate and reliable healthcare data collection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_310.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Utilize AI algorithms as an initial screening tool and develop alternative diagnostic tests.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2856.md)
 * [Increase testing capacity to include testing of mild or asymptomatic individuals to obtain a more accurate assessment of the prevalence.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2563.md)
 * [Accurate and reliable medical data communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_398.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Dependence on limited physiological information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1113.md)
 

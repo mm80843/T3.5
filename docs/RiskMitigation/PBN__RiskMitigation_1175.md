@@ -2,13 +2,9 @@
 
 # __Remote exercise monitoring__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of facilities and time constraints](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_851.md)
-
-## Property: has_MitigationBenefit
-
-* [Increased motivation and adherence to exercise](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1175.md)
+* [Enhanced surveillance, monitoring, and real-time tracking for improved control and response to various situations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_312.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Mobile tracking and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1158.md)
 * [Promotion of television and social media-based exercise programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_358.md)
 * [Promote home-based exercise programs, provide alternative modes of exercise that can be done at home.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1491.md)
+
+## Property: has_MitigationBenefit
+
+* [Increased motivation and adherence to exercise](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1175.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of facilities and time constraints](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_851.md)
 

@@ -2,10 +2,9 @@
 
 # __legal support__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Eviction diversion programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_271.md)
-* [Civil right to counsel](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_272.md)
+* [Government programs and initiatives provide support, training, and financial assistance for education, healthcare, employment, and overall well-being.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_210.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [legal counsel](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1644.md)
 * [Legal counsel](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2616.md)
 * [community support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4075.md)
+
+## This Technology enables the following mitigations
+
+* [Eviction diversion programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_271.md)
+* [Civil right to counsel](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_272.md)
 

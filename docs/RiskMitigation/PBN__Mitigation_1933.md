@@ -2,10 +2,9 @@
 
 # __Rapid COVID-19 Screening__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [diagnostic devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4148.md)
-* [iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
+* [Effective management of viral outbreaks through control measures, viral detection, disease tracking, and public awareness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_149.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [AI algorithms for identification of COVID-19 on CT chest](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1400.md)
 * [Data mining methods for understanding the COVID-19 outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1402.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Diagnostic Accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3291.md)
-
 ## Property: has_MitigationPrinciple
 
 Uses smart connected devices for rapid and accurate screening of COVID-19
 
+## Risks possibly mitigated by this Mitigation
+
+* [Diagnostic Accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3291.md)
+
 ## Property: has_MitigationSource
 
 * [Internet of things (IoT) applications to fight against COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_295.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [diagnostic devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4148.md)
+* [iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
 

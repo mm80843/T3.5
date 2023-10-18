@@ -2,22 +2,9 @@
 
 # __transmission__
 
-## Property: has_RiskHealth
+## Category to which it belongs
 
-
-## Property: has_RiskGBN
-
-
-## Description of the risk
-
-diseases in the built environment
-
-## Property: has_RiskType
-
-
-## Articles mentionning the risk
-
-* [venter_urban_2020 venter_urban_2020 nan venter_urban_2020 nan nan venter_urban_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_303.md)
+* [The spread of diseases through various methods, including contact, droplets, and contaminated surfaces, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_137.md)
 
 ## Closest similar item
 
@@ -32,32 +19,49 @@ diseases in the built environment
 * [Transmission, Education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2677.md)
 * [Hidden transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2133.md)
 
-## People affected by this risk
+## Description of the risk
 
-* [vulnerable individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_750.md)
+diseases in the built environment
+
+## Property: has_RiskGBN
+
+
+## Property: has_RiskHealth
+
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_0.md)
+
+## Mitigations of this risk
+
+* [hygiene and sanitation measures, promotion of nan social distancing and nan nan vaccination programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2973.md)
+
+## Name of the risk
+
+higher infection rates
 
 ## Stakeholders who can mitigate this risk
 
 * [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
 * [systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1523.md)
 
-## Name of the risk
+## Articles mentionning the risk
 
-higher infection rates
+* [venter_urban_2020 venter_urban_2020 nan venter_urban_2020 nan nan venter_urban_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_303.md)
 
-## Mitigations of this risk
+## People affected by this risk
 
-* [hygiene and sanitation measures, promotion of nan social distancing and nan nan vaccination programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2973.md)
-
-## Property: has_RiskISO_Purpose
-
-* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_0.md)
+* [vulnerable individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_750.md)
 
 ## Technologies linked to the risk
 
 * [prevention protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1866.md)
+
+## Property: has_RiskType
+
 

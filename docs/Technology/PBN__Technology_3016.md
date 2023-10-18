@@ -2,9 +2,9 @@
 
 # __self-reported symptoms__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Self-Reported Symptoms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_163.md)
+* [Measures promoting accountability, media control, real-time updates, and virtual experiences for physical distancing and education.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Rapid diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2780.md)
 * [rapid diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_612.md)
 * [including confirmation with clinical testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1360.md)
+
+## This Technology enables the following mitigations
+
+* [Self-Reported Symptoms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_163.md)
 

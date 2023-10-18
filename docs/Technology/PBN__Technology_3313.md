@@ -2,9 +2,9 @@
 
 # __health networks__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Commercial real-world data services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_565.md)
+* [Improved healthcare infrastructure and resources enable public health authorities to implement effective messaging and interventions, ensuring equitable access to healthcare facilities and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_209.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Community health centers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2283.md)
 * [public health messaging systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_705.md)
 * [Health education platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2302.md)
+
+## This Technology enables the following mitigations
+
+* [Commercial real-world data services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_565.md)
 

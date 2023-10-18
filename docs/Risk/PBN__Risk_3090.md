@@ -2,9 +2,9 @@
 
 # __Increased mosquito intrusion__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Building envelope modifications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1475.md)
+* [The proliferation of diseases carried by ticks and mosquitoes, exacerbated by climate change, inadequate control measures, and wildlife disturbance, causing increased prevalence and spread of various illnesses.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_119.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Improved surveillance and mosquito control measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_474.md)
 * [Spread of mosquito-borne diseases due to variable climate and extreme weather events](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_58.md)
 * [Openings allow mosquito access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3093.md)
+
+## Mitigations of this risk
+
+* [Building envelope modifications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1475.md)
 

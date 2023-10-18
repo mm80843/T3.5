@@ -2,8 +2,9 @@
 
 # __National and international conversations__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Global cooperation and collaboration for the purpose of coordinated action and shared knowledge exchange among various sectors and institutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_183.md)
 
 ## Closest similar item
 
@@ -18,14 +19,17 @@
 * [Effective communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_318.md)
 * [Effective Communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1865.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Engaging in national and international conversations can foster collaboration and consensus-building on issues such as rebuilding from humanitarian crises, addressing global inequality, and redesigning global trade and economic systems to create a more sustainable and inclusive post-pandemic world.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [The COVID-19 pandemic: Lessons on building more equal and sustainable societies](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_124.md)
+
+## This Mitigation is enabled by the following technologies
+
 

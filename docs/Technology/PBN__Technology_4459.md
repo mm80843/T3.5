@@ -2,9 +2,9 @@
 
 # __such as deet__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Topical repellents](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2391.md)
+* [Advancements in biotechnology, clinical research, and innovative therapies contribute to the development of medical solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Alcohols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2816.md)
 * [quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2914.md)
 * [or oil of lemon eucalyptus](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4461.md)
+
+## This Technology enables the following mitigations
+
+* [Topical repellents](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2391.md)
 

@@ -2,9 +2,9 @@
 
 # __Inadequate hygiene__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Upgrading site facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1683.md)
+* [Lack of proper hygiene and sanitation practices result in inadequate access to clean water and facilities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_129.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Poor hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1576.md)
 * [Inadequate sanitation and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1163.md)
 * [Lack of personal cleanliness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1089.md)
+
+## Mitigations of this risk
+
+* [Upgrading site facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1683.md)
 

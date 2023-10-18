@@ -2,9 +2,9 @@
 
 # __urban areas__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Lack of surveillance and control measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1068.md)
+* [Areas inhabited by people in cities, focusing on residents, professionals, researchers, decision-makers, and institutions involved in urban planning and development.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_376.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [public areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_63.md)
 * [high-density urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1271.md)
 * [urban community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2487.md)
+
+## Risk affecting this stakeholder
+
+* [Lack of surveillance and control measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1068.md)
 

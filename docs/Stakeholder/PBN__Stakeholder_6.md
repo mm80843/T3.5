@@ -2,6 +2,16 @@
 
 # __epidemiologists__
 
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Correlation between RNA concentration and prevalence](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_9.md)
+* [Improved estimation of reproduction numbers](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_828.md)
+* [Enriched ontology](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1237.md)
+
+## Category to which it belongs
+
+* [Various individuals in the healthcare industry, including epidemiologists, medical personnel, clinicians, surgeons, and patients in need of medical care.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_360.md)
+
 ## Closest similar item
 
 * [clinicians](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_274.md)
@@ -15,17 +25,11 @@
 * [Health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1874.md)
 * [health professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_595.md)
 
-## Risk affecting this stakeholder
-
-* [Inaccurate forecasting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2365.md)
-
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Correlation between RNA concentration and prevalence](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_9.md)
-* [Improved estimation of reproduction numbers](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_828.md)
-* [Enriched ontology](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1237.md)
-
 ## Risks that can be mitigated by this stakeholder
 
 * [Homogeneous mixing assumptions in epidemic models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1213.md)
+
+## Risk affecting this stakeholder
+
+* [Inaccurate forecasting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2365.md)
 

@@ -2,10 +2,9 @@
 
 # __Pollen Allergy Prevention__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [planting insect-pollinated plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3700.md)
-* [controlling allergic potential of exotic species](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3701.md)
+* [Enhanced disease investigation and prevention methods, including biomarkers, antimicrobial coatings, and AI-driven tools, advance public health.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_155.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Preventive and therapeutic measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1627.md)
 * [Medication prevention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1469.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Allergic respiratory response to pollen](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2948.md)
-
 ## Property: has_MitigationPrinciple
 
 Thoughtful selection of tree species and consideration of allergic potential can help minimize pollen concentrations in urban green spaces
 
+## Risks possibly mitigated by this Mitigation
+
+* [Allergic respiratory response to pollen](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2948.md)
+
 ## Property: has_MitigationSource
 
 * [Making green infrastructure healthier infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_20.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [planting insect-pollinated plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3700.md)
+* [controlling allergic potential of exotic species](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3701.md)
 

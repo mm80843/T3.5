@@ -2,9 +2,9 @@
 
 # __Adjust wastewater temperature in data analysis to accurately estimate virus prevalence and inform public health responses.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Temperature impact on virus detectability in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1447.md)
+* [Implement wastewater surveillance techniques to detect viral presence, optimize treatment processes, and inform public health interventions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_308.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Develop quantitative models that consider various factors affecting wastewater surveillance data to improve interpretation and estimation of prevalence.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2562.md)
 * [Wastewater-based epidemiology (WBE) surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_880.md)
 * [Implement wastewater-based epidemiology (WBE), target specific subpopulations, improve testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1798.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Temperature impact on virus detectability in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1447.md)
 

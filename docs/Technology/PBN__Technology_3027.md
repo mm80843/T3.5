@@ -2,11 +2,9 @@
 
 # __data mining__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Digitalisation of water industry](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1628.md)
-* [Data Mining and Machine Learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_169.md)
-* [Timely and high-quality evidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_560.md)
+* [Data-driven insights and analysis for decision making, anonymized data, transparency, visualization, and advanced techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_205.md)
 
 ## Closest similar item
 
@@ -20,4 +18,10 @@
 * [data mining techniques and health data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3844.md)
 * [data analysis algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1978.md)
 * [data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3346.md)
+
+## This Technology enables the following mitigations
+
+* [Digitalisation of water industry](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1628.md)
+* [Data Mining and Machine Learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_169.md)
+* [Timely and high-quality evidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_560.md)
 

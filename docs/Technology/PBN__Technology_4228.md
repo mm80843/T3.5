@@ -2,9 +2,9 @@
 
 # __5g)__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Telemedicine consultations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2109.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [fifth-generation wireless networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3879.md)
 * [broadband internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4446.md)
 * [wireless data transmission (3g](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3385.md)
+
+## This Technology enables the following mitigations
+
+* [Telemedicine consultations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2109.md)
 

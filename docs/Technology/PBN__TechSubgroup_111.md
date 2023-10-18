@@ -2,16 +2,9 @@
 
 # __Communication and Collaboration Tools__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_168.md)
-* [virtual clinics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1716.md)
-* [Communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2301.md)
-* [Collaboration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2300.md)
-* [Communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2292.md)
-* [teleconferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_392.md)
-* [telehealth conferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_391.md)
-* [screen recording](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_393.md)
+* [Tools and technologies for interconnected communication, coordination, and collaboration in the digital realm.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_13.md)
 
 ## Closest similar item
 
@@ -25,4 +18,15 @@
 * [Communication and Connectivity](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_112.md)
 * [Social Media Platforms and Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_33.md)
 * [Workforce and Resource Management Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_110.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_168.md)
+* [virtual clinics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1716.md)
+* [Communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2301.md)
+* [Collaboration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2300.md)
+* [Communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2292.md)
+* [teleconferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_392.md)
+* [telehealth conferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_391.md)
+* [screen recording](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_393.md)
 

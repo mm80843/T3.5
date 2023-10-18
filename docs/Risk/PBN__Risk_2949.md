@@ -2,9 +2,9 @@
 
 # __High humidity in room, virus accumulation__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Opening presence for air circulation and sun exposure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1151.md)
+* [The wide-ranging transmission, survival, and spread of infectious respiratory viruses and pathogens indoors and on surfaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_122.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Virus Exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2521.md)
 * [Exposure to virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3144.md)
 * [Airborne transmission of the virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3112.md)
+
+## Mitigations of this risk
+
+* [Opening presence for air circulation and sun exposure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1151.md)
 

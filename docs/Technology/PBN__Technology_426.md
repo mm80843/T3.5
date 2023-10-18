@@ -2,9 +2,9 @@
 
 # __social networking platforms__
 
-## Risks linked to this technology
+## Category to which it belongs
 
-* [Lack of community connections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1293.md)
+* [Digital platforms and online resources facilitate collaboration, communication, and information sharing among individuals and organizations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_193.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [social media platforms (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4229.md)
 * [virtual social platforms and apps for connecting with others](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1443.md)
 * [Virtual social platforms and apps for connecting with others](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2627.md)
+
+## Risks linked to this technology
+
+* [Lack of community connections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1293.md)
 

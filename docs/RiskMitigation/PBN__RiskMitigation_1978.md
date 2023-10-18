@@ -2,9 +2,9 @@
 
 # __Assess the long-term impact and feasibility of temporary changes to inform permanent transformations__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Temporary transformations becoming permanent](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1462.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Continue implementing social distancing measures and transitioning to cleaner energy sources.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3096.md)
 * [Restructuring workforce](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_708.md)
 * [Behavioral change](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_62.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Temporary transformations becoming permanent](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1462.md)
 

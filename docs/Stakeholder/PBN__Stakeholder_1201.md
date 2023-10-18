@@ -2,9 +2,9 @@
 
 # __occupants of crowded and poorly ventilated buildings__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
+* [Individuals residing or working within various types of buildings, including residential, commercial, and healthcare facilities, as well as those in inadequately designed or poorly ventilated spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_391.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Particularly those in crowded and poorly ventilated environments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2402.md)
 * [Particularly those in crowded and poorly ventilated environment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2173.md)
 * [individuals in poorly ventilated indoor environments such as offices](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_671.md)
+
+## Risk affecting this stakeholder
+
+* [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
 

@@ -2,10 +2,9 @@
 
 # __Promoting energy-efficient equipment__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [energy-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_79.md)
-* [smart systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3256.md)
+* [Promoting sustainable and eco-friendly practices that enhance urban green spaces, energy efficiency, and renewable energy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_180.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Deployment of energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_340.md)
 * [Enhancement of energy assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1982.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [High energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2431.md)
-
 ## Property: has_MitigationPrinciple
 
 Energy-efficient equipment helps reduce energy consumption and lower utility bills, contributing to a more sustainable and cost-effective living environment.
 
+## Risks possibly mitigated by this Mitigation
+
+* [High energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2431.md)
+
 ## Property: has_MitigationSource
 
 * [A Mixed Approach on Resilience of Spanish Dwellings and Households during COVID-19 Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_89.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [energy-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_79.md)
+* [smart systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3256.md)
 

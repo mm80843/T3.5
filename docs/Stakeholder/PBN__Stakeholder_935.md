@@ -2,9 +2,9 @@
 
 # __conservationists__
 
-## This Stakeholder belongs to this StakeholderGroup
+## Category to which it belongs
 
-* [Environmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_13.md)
+* [Various organizations and professionals responsible for overseeing specific areas of governance, infrastructure, protection, and creativity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_395.md)
 
 ## Closest similar item
 
@@ -19,11 +19,15 @@
 * [ecologists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1461.md)
 * [conservation sites](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1480.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderGroup
 
-* [Decline in conservation efforts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1439.md)
+* [Environmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_13.md)
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Conservation](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_160.md)
+
+## Risk affecting this stakeholder
+
+* [Decline in conservation efforts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1439.md)
 

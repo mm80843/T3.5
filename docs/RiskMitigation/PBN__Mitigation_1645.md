@@ -2,9 +2,9 @@
 
 # __Improved Air Filtration__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_203.md)
+* [Enhanced air purification through the use of high-efficiency filters, ventilation, UV sterilization, and mechanical filtration systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_178.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Air filtration and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1709.md)
 * [Ventilation and air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_539.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Increased energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1252.md)
-
 ## Property: has_MitigationPrinciple
 
 Installing high-efficiency air filtration systems helps to remove airborne particles, including the virus
 
+## Risks possibly mitigated by this Mitigation
+
+* [Increased energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1252.md)
+
 ## Property: has_MitigationSource
 
 * [Mobility Behaviour in View of the Impact of the COVID-19 Pandemic—Public Transport Users in Gdansk Case Study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_113.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_203.md)
 

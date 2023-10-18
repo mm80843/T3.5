@@ -2,9 +2,9 @@
 
 # __improved internet infrastructure__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q19967801](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q19967801.md)
+* [The built environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_230.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [broadband internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4446.md)
 * [digital infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3895.md)
 * [telecommunication infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4372.md)
+
+## This Technology is identified by the following QID
+
+* [Q19967801](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q19967801.md)
 

@@ -2,9 +2,9 @@
 
 # __diverse communication channels (e.g. television__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Clear and inclusive communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1341.md)
+* [Enhanced connectivity and diverse communication platforms enable the dissemination of reliable information and promote open communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_225.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Communication campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2171.md)
 * [transparent communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_877.md)
 * [public communication campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2006.md)
+
+## This Technology enables the following mitigations
+
+* [Clear and inclusive communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1341.md)
 

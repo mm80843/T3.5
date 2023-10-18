@@ -2,10 +2,9 @@
 
 # __Data collection through online survey__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [internet access](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1211.md)
-* [online survey technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3725.md)
+* [Improved data management and sharing for efficient and secure information exchange and analysis across various platforms and stakeholders.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_182.md)
 
 ## Closest similar item
 
@@ -20,14 +19,19 @@
 * [Clinical data collection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1523.md)
 * [Data curation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2061.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Collect data on citizens' preferences and WTP for green roofs
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [The role of green roofs in post COVID-19 confinement: An analysis of willingness to pay](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_262.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [internet access](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1211.md)
+* [online survey technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3725.md)
 

@@ -2,9 +2,9 @@
 
 # __smart city technologies for urban planning__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1231558](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1231558.md)
+* [Optimizing urban spaces through inclusive strategies and technologies, integrating green spaces, and managing population density and transportation systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_226.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [smart zoning and urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_752.md)
 * [Smart zoning and urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2357.md)
 * [urban planning tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1841.md)
+
+## This Technology is identified by the following QID
+
+* [Q1231558](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1231558.md)
 

@@ -2,9 +2,9 @@
 
 # __Limited resources for pandemic mitigation__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Subaltern technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1203.md)
+* [The challenge lies in the lack of knowledge, limited consideration, and inherent limitations in representing disease transmission mechanisms, mobility patterns, and heterogeneity in macroscopic epidemiological models.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_97.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of planning and management for pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2447.md)
 * [Economic decline during the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_516.md)
 * [Exaggerated pandemic estimates](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_374.md)
+
+## Mitigations of this risk
+
+* [Subaltern technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1203.md)
 

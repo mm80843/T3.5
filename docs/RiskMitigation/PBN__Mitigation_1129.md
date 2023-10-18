@@ -2,10 +2,9 @@
 
 # __Optimization-based people flow__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [optimization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3679.md)
-* [historical measurement data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_989.md)
+* [Maximizing control and efficiency in various domains through advanced technology and strategic planning.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_163.md)
 
 ## Closest similar item
 
@@ -20,14 +19,19 @@
 * [Optimizing communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_319.md)
 * [Worker traffic flow direction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2032.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Estimating people flow by solving an optimization problem based on historical data.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Building occupancy estimation with people flow modeling in AnyLogic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_29.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [optimization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3679.md)
+* [historical measurement data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_989.md)
 

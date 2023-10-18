@@ -2,12 +2,9 @@
 
 # __Sector/Industry__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [real estate sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1886.md)
-* [real estate industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1220.md)
-* [housing industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1974.md)
-* [Housing and Property](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2554.md)
+* [Industrial sectors encompassing manufacturing and various industries.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_248.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [Retail and Consumer Services](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_29.md)
 * [Departments and Teams](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_26.md)
 * [Managers/Operators](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_69.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [real estate sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1886.md)
+* [real estate industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1220.md)
+* [housing industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1974.md)
+* [Housing and Property](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2554.md)
 

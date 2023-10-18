@@ -2,15 +2,9 @@
 
 # __Personal space__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [PC3: Personal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_203.md)
-* [Comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_282.md)
-
-## Property: has_MitigationBenefit
-
-* [Privacy](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_253.md)
-* [Improved well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_153.md)
+* [Promote the integration of natural elements and communal areas, enhance accessibility and quality, and foster positive perception and functionality of public and private green and outdoor spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_331.md)
 
 ## Closest similar item
 
@@ -24,4 +18,14 @@
 * [Designing spaces with diverse human occupancy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_250.md)
 * [Redesigning and reorganizing interior spaces to accommodate for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1263.md)
 * [Outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3135.md)
+
+## Property: has_MitigationBenefit
+
+* [Privacy](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_253.md)
+* [Improved well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_153.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [PC3: Personal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_203.md)
+* [Comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_282.md)
 

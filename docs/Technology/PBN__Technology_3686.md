@@ -2,11 +2,9 @@
 
 # __wastewater testing__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Environmental surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1140.md)
-* [Monitoring sewage for virus detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1633.md)
-* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1138.md)
+* [Improvements in wastewater, waste management, sanitation, water purification, and plumbing technologies aim for sustainable and efficient infrastructure development.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_234.md)
 
 ## Closest similar item
 
@@ -20,4 +18,10 @@
 * [sewage monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3279.md)
 * [Wastewater-based epidemiology (WBE) methods and PCR testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2106.md)
 * [wastewater treatment plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1353.md)
+
+## This Technology enables the following mitigations
+
+* [Environmental surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1140.md)
+* [Monitoring sewage for virus detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1633.md)
+* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1138.md)
 

@@ -2,13 +2,13 @@
 
 # __residents of densely populated cities__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q4145472](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4145472.md)
+* [People residing in densely populated districts or neighborhoods, including those in high-risk, low-income, or underserved areas, as well as visitors and tenants in urban locations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_384.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
+* [Increased population density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1397.md)
 
 ## Closest similar item
 
@@ -23,11 +23,15 @@
 * [urban population living in crowded area and high-density neighborhood](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2506.md)
 * [urban populations living in crowded areas and high-density neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1583.md)
 
-## Risk affecting this stakeholder
-
-* [Increased population density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1397.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Residents](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_72.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q4145472](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4145472.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
 

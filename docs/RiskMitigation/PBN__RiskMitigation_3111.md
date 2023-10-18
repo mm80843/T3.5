@@ -2,9 +2,9 @@
 
 # __Increase production and distribution of PPE, implement reuse and recycling strategies__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Shortages of Personal Protective Equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2396.md)
+* [Promote environmentally-friendly waste management, sanitation, and maintenance practices, including rodent control, decontamination, and segregation of waste.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_340.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Adopt energy-efficient practices, implement recycling and waste management programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2788.md)
 * [Providing appropriate PPE, training individuals on correct usage and disposal](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1764.md)
 * [Implement engineering and administrative controls, provide PPE.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1807.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Shortages of Personal Protective Equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2396.md)
 

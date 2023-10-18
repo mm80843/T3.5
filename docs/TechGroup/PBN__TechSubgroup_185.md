@@ -2,9 +2,9 @@
 
 # __Environmental Controls__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [Environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2751.md)
+* [Creating a comfortable and healthy indoor environment through control of environmental factors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_40.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Green and Outdoor Spaces](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_83.md)
 * [Environment and Healthcare Management Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_14.md)
 * [Sanitation and Safety](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_123.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [Environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2751.md)
 

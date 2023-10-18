@@ -2,9 +2,9 @@
 
 # __Enhance protocols and network security measures, establish centralized data networks__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Security breaches](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1070.md)
+* [Data privacy and security are prioritized through encryption, access controls, consent, and robust cybersecurity measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_335.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement policies and technologies to ensure data privacy and cybersecurity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2323.md)
 * [Implement robust data protection measures and encryption protocols, ensure compliance with privacy regulations, provide transparent information and consent mechanisms for data collection and use.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1866.md)
 * [Implement strong data protection measures, obtain consent, and ensure data anonymity.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2779.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Security breaches](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1070.md)
 

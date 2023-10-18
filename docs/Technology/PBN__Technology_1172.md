@@ -2,9 +2,9 @@
 
 # __telehealth solutions__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q4923501](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4923501.md)
+* [Virtual healthcare and remote communication technology including telemedicine, telehealth platforms, teletherapy, teleconferencing, and tele-operation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_202.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [telehealth services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_19.md)
 * [Telehealth platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2274.md)
 * [telehealth platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_219.md)
+
+## This Technology is identified by the following QID
+
+* [Q4923501](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4923501.md)
 

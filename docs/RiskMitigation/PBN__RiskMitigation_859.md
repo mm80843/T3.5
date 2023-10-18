@@ -2,13 +2,9 @@
 
 # __Increased tree canopy__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Low residential density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_621.md)
-
-## Property: has_MitigationBenefit
-
-* [Lower COVID-19 mortality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_862.md)
+* [Efforts include RNA monitoring, occupant exposure modeling, targeted messages, adoption of principles, copper coating, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_311.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Preserving and developing forests and other green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_649.md)
 * [Increase sunlight exposure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2865.md)
 * [Increase public awareness and knowledge about the benefits and implementation of green roofs through education and outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2246.md)
+
+## Property: has_MitigationBenefit
+
+* [Lower COVID-19 mortality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_862.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Low residential density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_621.md)
 

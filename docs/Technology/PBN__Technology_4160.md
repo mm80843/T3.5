@@ -2,9 +2,9 @@
 
 # __public awareness__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Societal issues and the human factor](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1953.md)
+* [Government actions and regulations addressing various aspects of society, including policy changes, ethical frameworks, governance mechanisms, and public announcements.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_216.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [awareness](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2997.md)
 * [public awareness and education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4071.md)
 * [public education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_891.md)
+
+## This Technology enables the following mitigations
+
+* [Societal issues and the human factor](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1953.md)
 

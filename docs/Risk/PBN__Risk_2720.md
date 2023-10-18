@@ -2,9 +2,9 @@
 
 # __Misjudging public health status__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Temperature adjustment in WBE](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_759.md)
+* [The intersection of human activity and health, integrating databases, limited healthcare access, sedentary lifestyles, neglecting public health requirements, and disparities in urban design contribute to public health concerns.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_116.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of awareness and compliance with public health protocols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1678.md)
 * [Inadequate public health systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2264.md)
 * [Challenges in public health surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_520.md)
+
+## Mitigations of this risk
+
+* [Temperature adjustment in WBE](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_759.md)
 

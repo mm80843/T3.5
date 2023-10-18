@@ -2,13 +2,9 @@
 
 # __Particularly children__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q21075684](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q21075684.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Individuals in low-income or low-education groups, crowded/poorly ventilated spaces, lockdown areas, and densely populated places are particularly affected/risked by various factors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_364.md)
 
 ## Closest similar item
 
@@ -26,4 +22,12 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Age Defined Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_77.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q21075684](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q21075684.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 

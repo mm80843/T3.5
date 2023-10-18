@@ -2,9 +2,9 @@
 
 # __logistics providers__
 
-## Risks linked to this technology
+## Category to which it belongs
 
-* [Shortage of COVID-19 testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_353.md)
+* [Efficiently manage and optimize the flow of goods, data, and suppliers for resilient local supply chains.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_191.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [local supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3626.md)
 * [supply chain tracking technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1450.md)
 * [insurance providers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3314.md)
+
+## Risks linked to this technology
+
+* [Shortage of COVID-19 testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_353.md)
 

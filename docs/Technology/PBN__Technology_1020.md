@@ -2,9 +2,9 @@
 
 # __use of advanced hvac systems with high-efficiency filters__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q583488](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q583488.md)
+* [Improved and energy-efficient HVAC systems, along with advanced technologies, for efficient energy management and environmental control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_227.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Energy-efficient HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2363.md)
 * [energy-efficient hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_750.md)
 * [high-efficiency particulate air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1743.md)
+
+## This Technology is identified by the following QID
+
+* [Q583488](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q583488.md)
 

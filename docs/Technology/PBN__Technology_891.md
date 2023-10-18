@@ -2,9 +2,9 @@
 
 # __public education and awareness campaigns__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q12182551](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q12182551.md)
+* [Various campaigns and programs to inform and engage the public, raise awareness, educate, and promote reliable information.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_207.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [public education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_24.md)
 * [Public education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2504.md)
 * [Public awareness programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2172.md)
+
+## This Technology is identified by the following QID
+
+* [Q12182551](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q12182551.md)
 

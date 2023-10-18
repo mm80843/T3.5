@@ -2,9 +2,9 @@
 
 # __Perception of climate change measures as temporary__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Permanent Transformations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_686.md)
+* [The interconnectedness of environmental degradation, social inequalities, and the need for climate action and conservation efforts.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_104.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Disconnection between extreme weather and climate change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2687.md)
 * [Climate change and environmental damage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3405.md)
 * [Lack of global response to climate change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2691.md)
+
+## Mitigations of this risk
+
+* [Permanent Transformations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_686.md)
 

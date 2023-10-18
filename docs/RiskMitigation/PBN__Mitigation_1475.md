@@ -2,8 +2,9 @@
 
 # __Building envelope modifications__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Creating resilient urban environments through strategic planning, adaptable design, reduced density, and improved building infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_164.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Modular Construction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1300.md)
 * [Modular construction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1414.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Increased mosquito intrusion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3090.md)
-
 ## Property: has_MitigationPrinciple
 
 Minimize the size and number of openings in the building envelope to reduce mosquito access
 
+## Risks possibly mitigated by this Mitigation
+
+* [Increased mosquito intrusion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3090.md)
+
 ## Property: has_MitigationSource
 
 * [Decision Making within the Built Environment as a Strategy for Mitigating the Risk of Malaria and Other Vector-Borne Diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_272.md)
+
+## This Mitigation is enabled by the following technologies
+
 

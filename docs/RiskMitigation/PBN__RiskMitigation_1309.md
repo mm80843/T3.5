@@ -2,13 +2,9 @@
 
 # __Regular cleaning and sanitization procedures__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Transmission of infectious diseases in indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_943.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction of Surface Contamination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1289.md)
+* [Implement rigorous cleaning and disinfection measures, including the use of antimicrobial materials and advanced technologies, to maintain a safe and hygienic environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_2.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Increased cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_193.md)
 * [Improved sanitation and cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_529.md)
 * [Implement improved cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_604.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction of Surface Contamination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1289.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Transmission of infectious diseases in indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_943.md)
 

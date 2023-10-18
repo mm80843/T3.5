@@ -2,9 +2,9 @@
 
 # __Implement measures to reduce bird noise such as bird deterrent devices or planting vegetation to create natural sound barriers__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Increased annoyance from bird noise during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1634.md)
+* [Enhance acoustics and reduce noise through design, materials, insulation, regulations, and community engagement.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_350.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Enhance sound insulation guidelines for buildings and encourage respectful neighbor behavior during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2176.md)
 * [Implement proper noise insulation and acoustics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2891.md)
 * [Modification of building envelopes to reduce mosquito accessibility](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1301.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Increased annoyance from bird noise during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1634.md)
 

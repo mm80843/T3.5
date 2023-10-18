@@ -2,9 +2,9 @@
 
 # __iot device manufacturers and service providers__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Interoperability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2129.md)
+* [Various industries, businesses, and supply chain partners rely on suppliers and supply chain professionals for their products and services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_370.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [IoT technology provider](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2654.md)
 * [iot industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1400.md)
 * [IoT industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2657.md)
+
+## Risk affecting this stakeholder
+
+* [Interoperability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2129.md)
 

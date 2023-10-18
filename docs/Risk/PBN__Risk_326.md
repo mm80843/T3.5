@@ -2,9 +2,9 @@
 
 # __Urban overheating and heat waves__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Green roofs and facades](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_421.md)
+* [Limited physical/social distancing, thermal discomfort, poor lighting, and inadequate air quality negatively impact personal comfort.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_130.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Overcrowding in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1022.md)
 * [Overcrowding in Urban Areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1443.md)
 * [Inadequate energy modeling for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1568.md)
+
+## Mitigations of this risk
+
+* [Green roofs and facades](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_421.md)
 

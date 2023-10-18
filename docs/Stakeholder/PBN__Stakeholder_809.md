@@ -2,13 +2,13 @@
 
 # __individuals in apartments without balconies__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q188507](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q188507.md)
+* [Individuals residing or working within various types of buildings, including residential, commercial, and healthcare facilities, as well as those in inadequately designed or poorly ventilated spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_391.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Lack of sunlight and fresh air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1292.md)
 
 ## Closest similar item
 
@@ -23,10 +23,14 @@
 * [individual living in apartment without basic water and sanitation facility](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2244.md)
 * [individuals living in substandard housing](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_609.md)
 
-## Risk affecting this stakeholder
-
-* [Lack of sunlight and fresh air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1292.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
+
+## This Stakeholder is identified by the following QID
+
+* [Q188507](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q188507.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 

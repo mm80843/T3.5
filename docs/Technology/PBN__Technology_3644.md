@@ -2,9 +2,9 @@
 
 # __logistics__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Resilient supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1095.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [transport](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3135.md)
 * [delivery services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4388.md)
 * [inventory management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3816.md)
+
+## This Technology enables the following mitigations
+
+* [Resilient supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1095.md)
 

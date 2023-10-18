@@ -2,9 +2,9 @@
 
 # __waste management technologies__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q180388](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q180388.md)
+* [Improvements in wastewater, waste management, sanitation, water purification, and plumbing technologies aim for sustainable and efficient infrastructure development.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_234.md)
 
 ## Risks linked to this technology
 
@@ -23,4 +23,8 @@
 * [Waste collection and disposal technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2728.md)
 * [solid waste management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3664.md)
 * [waste disposal infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3621.md)
+
+## This Technology is identified by the following QID
+
+* [Q180388](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q180388.md)
 

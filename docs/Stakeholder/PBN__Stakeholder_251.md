@@ -2,13 +2,9 @@
 
 # __climate__
 
-## This Stakeholder can get these Benefits from mitigation measures
+## Category to which it belongs
 
-* [Environmental consciousness](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_602.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q7937](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7937.md)
+* [Entities and individuals who interact with or are affected by a system, organization, or public facility.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_1.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [environmental researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2669.md)
 * [environmental scientist](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2664.md)
 * [meteorologists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_959.md)
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Environmental consciousness](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_602.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q7937](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7937.md)
 

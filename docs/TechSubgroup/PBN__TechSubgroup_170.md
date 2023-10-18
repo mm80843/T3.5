@@ -2,10 +2,9 @@
 
 # __Vaccine Development and Tracking Technologies__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [Vaccine development and improvement technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2608.md)
-* [Data completion and vaccination tracking technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2609.md)
+* [Advancements in medical solutions, such as immunization, treatment, and technological innovations, are explored and monitored.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_57.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Robotic and Drone Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_113.md)
 * [Biotechnological Techniques and Devices](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_29.md)
 * [Infectious Agents Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_187.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [Vaccine development and improvement technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2608.md)
+* [Data completion and vaccination tracking technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2609.md)
 

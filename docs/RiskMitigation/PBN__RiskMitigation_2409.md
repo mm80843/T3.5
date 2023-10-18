@@ -2,9 +2,9 @@
 
 # __Improve cleanliness and maintenance of urban green spaces, implement social distancing measures and capacity limits, provide clear communication on safety measures__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Fear of infection in urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1823.md)
+* [Promote biodiversity and sustainable urban development through the establishment and accessibility of green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_322.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Create and maintain green spaces, parks, and public gardens in urban areas.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1923.md)
 * [Increase in the number and accessibility of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_982.md)
 * [Increase the availability and accessibility of green spaces close to residential areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2580.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Fear of infection in urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1823.md)
 

@@ -2,13 +2,13 @@
 
 # __auto-dissemination of insecticides__
 
+## Category to which it belongs
+
+* [Advancements in molecular biology, diagnostics, vaccines, antiviral technologies, and disease surveillance for pathogen detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_223.md)
+
 ## Risks linked to this technology
 
 * [Inadequate mosquito control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1647.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Vector Control Methods](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_156.md)
 
 ## Closest similar item
 
@@ -23,11 +23,15 @@
 * [planting insect-pollinated plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3700.md)
 * [insecticide-treated bed nets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4455.md)
 
-## This Technology belongs to this TechGroup
-
-* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
-
 ## This Technology is identified by the following QID
 
 * [Q181322](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q181322.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Vector Control Methods](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_156.md)
+
+## This Technology belongs to this TechGroup
+
+* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
 

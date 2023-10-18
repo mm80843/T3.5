@@ -2,9 +2,9 @@
 
 # __facial recognition__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Touchless technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1310.md)
+* [Measures promoting accountability, media control, real-time updates, and virtual experiences for physical distancing and education.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [automated face recognition systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1506.md)
 * [Automated face recognition systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2467.md)
 * [computer vision](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3762.md)
+
+## This Technology enables the following mitigations
+
+* [Touchless technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1310.md)
 

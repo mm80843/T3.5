@@ -2,13 +2,9 @@
 
 # __Designing spaces to enable physical distancing__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Transmission of infectious diseases in indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_943.md)
-
-## Property: has_MitigationBenefit
-
-* [Maintaining Physical Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1291.md)
+* [Promotion and enforcement of physical separation measures to prevent the spread of disease.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_327.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Design communal spaces that support physical distancing and social interactions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2490.md)
 * [Implement measures to control occupancy and enforce physical distancing rules in the facility](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2026.md)
 * [Maintain physical distancing, use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1933.md)
+
+## Property: has_MitigationBenefit
+
+* [Maintaining Physical Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1291.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Transmission of infectious diseases in indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_943.md)
 

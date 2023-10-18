@@ -2,9 +2,9 @@
 
 # __Monitoring mobility__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Checkpoint allocation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_408.md)
+* [Limited monitoring, technical limitations, language barriers, expensive optimization, lack of connection with nature, and limited sensor diversity hinder effective response and resource allocation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_107.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Spatial inequalities in mobility patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1211.md)
 * [Lack of monitoring and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_24.md)
 * [Limited Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2486.md)
+
+## Mitigations of this risk
+
+* [Checkpoint allocation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_408.md)
 

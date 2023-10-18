@@ -2,17 +2,9 @@
 
 # __Biotechnological Techniques and Devices__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [wearable sensors for exercise monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_66.md)
-* [Biosensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2814.md)
-* [biosensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2813.md)
-* [Genome sequencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2793.md)
-* [Complex modeling techniques incorporating variables such as excretion patterns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2807.md)
-* [Phylogenetic analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2792.md)
-* [digital PCR](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2103.md)
-* [CRISPR](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2811.md)
-* [lab-on-a-chip](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2812.md)
+* [Innovation and resources utilized to create and enhance devices, production, and construction materials.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_30.md)
 
 ## Closest similar item
 
@@ -26,4 +18,16 @@
 * [Technology and Materials for Protection](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_71.md)
 * [Vaccine Development and Tracking Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_170.md)
 * [Purification and Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_88.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [wearable sensors for exercise monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_66.md)
+* [Biosensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2814.md)
+* [biosensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2813.md)
+* [Genome sequencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2793.md)
+* [Complex modeling techniques incorporating variables such as excretion patterns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2807.md)
+* [Phylogenetic analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2792.md)
+* [digital PCR](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2103.md)
+* [CRISPR](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2811.md)
+* [lab-on-a-chip](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2812.md)
 

@@ -2,9 +2,9 @@
 
 # __or oil of lemon eucalyptus__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Topical repellents](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2391.md)
+* [The range of materials and techniques listed includes various disinfectants, nanomaterials, manufacturing methods, coatings, sustainability measures, and analytical tools.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_237.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [or other disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3836.md)
 * [humidifier](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3191.md)
 * [hand sanitizer solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3510.md)
+
+## This Technology enables the following mitigations
+
+* [Topical repellents](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2391.md)
 

@@ -2,9 +2,9 @@
 
 # __identification of potential therapeutic targets__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q3271540](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3271540.md)
+* [Advancements in biotechnology, clinical research, and innovative therapies contribute to the development of medical solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [antiviral drug research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_838.md)
 * [anti-inflammatory drugs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_238.md)
 * [molecular diagnostics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2027.md)
+
+## This Technology is identified by the following QID
+
+* [Q3271540](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3271540.md)
 

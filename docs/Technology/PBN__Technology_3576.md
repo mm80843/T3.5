@@ -2,9 +2,9 @@
 
 # __carbon allowances__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Carbon Border Tax](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1002.md)
+* [The range of materials and techniques listed includes various disinfectants, nanomaterials, manufacturing methods, coatings, sustainability measures, and analytical tools.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_237.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [co2 concentration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4251.md)
 * [reduced fossil fuel use](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3615.md)
 * [carbon-based coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3856.md)
+
+## This Technology enables the following mitigations
+
+* [Carbon Border Tax](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1002.md)
 

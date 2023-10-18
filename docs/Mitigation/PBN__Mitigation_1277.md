@@ -2,9 +2,9 @@
 
 # __Air filtration and purification__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3770.md)
+* [Enhanced air purification through the use of high-efficiency filters, ventilation, UV sterilization, and mechanical filtration systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_178.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_815.md)
 * [Ventilation and air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_539.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
-
 ## Property: has_MitigationPrinciple
 
 Using air filtration systems to remove airborne particles, including viral particles, from indoor air, reducing the risk of airborne transmission
 
+## Risks possibly mitigated by this Mitigation
+
+* [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
+
 ## Property: has_MitigationSource
 
 * [Effects of temperature and humidity on the spread of COVID-19: A systematic review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_228.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3770.md)
 

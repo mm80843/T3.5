@@ -2,9 +2,9 @@
 
 # __online mental health platforms__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q30290602](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q30290602.md)
+* [Digital platforms and online resources facilitate collaboration, communication, and information sharing among individuals and organizations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_193.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [online mental health resources and self-help tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1447.md)
 * [online counseling platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_220.md)
 * [Online counseling platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2281.md)
+
+## This Technology is identified by the following QID
+
+* [Q30290602](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q30290602.md)
 

@@ -2,9 +2,9 @@
 
 # __Identify missing information and develop logical relations linking drugs, coronaviruses, and conditions for drug efficacy.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Incomplete coverage of information in ontologies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1454.md)
+* [Implement comprehensive strategies to control virus transmission, improve surveillance, develop antiviral coatings, and enhance infection control measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_309.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Curate and develop ontology terms specific to COVID-19 epidemiology.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2545.md)
 * [Improve specificity of PCR assays to distinguish between SARS-CoV-2 and other coronaviruses.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3042.md)
 * [Application of evidence-based non-pharmaceutical interventions (NPIs)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1008.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Incomplete coverage of information in ontologies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1454.md)
 

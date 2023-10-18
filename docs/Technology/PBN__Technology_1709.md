@@ -2,9 +2,9 @@
 
 # __proactive decision-making__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1786137](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1786137.md)
+* [Advanced analytics, fact-checking, project management, reliable sources, knowledge extraction, and collaboration ensure accurate information dissemination and effective decision-making.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_192.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [decision support systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1317.md)
 * [Decision support systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2114.md)
 * [task-shifting strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1818.md)
+
+## This Technology is identified by the following QID
+
+* [Q1786137](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1786137.md)
 

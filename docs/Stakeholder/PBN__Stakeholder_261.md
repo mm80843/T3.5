@@ -6,6 +6,10 @@
 
 * [Reduced infection risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_29.md)
 
+## Category to which it belongs
+
+* [Individuals in various types of spaces, including public, indoor, and confined areas, with varying access to green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_378.md)
+
 ## Closest similar item
 
 * [individuals in confined spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1456.md)

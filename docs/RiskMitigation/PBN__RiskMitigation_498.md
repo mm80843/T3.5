@@ -2,14 +2,9 @@
 
 # __Wearable technology__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_133.md)
-
-## Property: has_MitigationBenefit
-
-* [Real-time disease detection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_483.md)
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_484.md)
+* [The trend towards remote and digital healthcare is encompassing telecommuting, telehealth, teleconferencing, wearable technology, touchless technologies, and mobile applications.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_328.md)
 
 ## Closest similar item
 
@@ -22,4 +17,13 @@
 * [Integration of additional sensors into wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1425.md)
 * [Use of touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_215.md)
 * [Implement touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2862.md)
+
+## Property: has_MitigationBenefit
+
+* [Real-time disease detection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_483.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_484.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_133.md)
 

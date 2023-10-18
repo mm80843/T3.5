@@ -2,20 +2,20 @@
 
 # __Enhanced data resolution and accuracy__
 
+## Name of the Benefit
+
+IBEM provides real-time, continuous data collection and analysis, overcoming limitations of traditional measurement tools.
+
 ## Description of Benefits pertaining to Beneficiaries
 
 * [More accurate and comprehensive understanding of IEQ characteristics, better-informed decision-making for building operators and researchers.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_339.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
-* [building operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_152.md)
 
 ## Articles mentionning this Benefit
 
 * [An Intelligent IEQ Monitoring and Feedback System: Development and Applications](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_62.md)
 
-## Name of the Benefit
+## Stakeholders benefitting from this Benefit
 
-IBEM provides real-time, continuous data collection and analysis, overcoming limitations of traditional measurement tools.
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [building operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_152.md)
 

@@ -2,13 +2,13 @@
 
 # __mosquito traps and surveillance__
 
+## Category to which it belongs
+
+* [Advancements in molecular biology, diagnostics, vaccines, antiviral technologies, and disease surveillance for pathogen detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_223.md)
+
 ## Risks linked to this technology
 
 * [Spread of invasive mosquito spp](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1646.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Vector Control Methods](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_156.md)
 
 ## Closest similar item
 
@@ -23,12 +23,16 @@
 * [Vector surveillance and control technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2442.md)
 * [genetic manipulation of mosquitoes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1950.md)
 
+## This Technology is identified by the following QID
+
+* [Q51506993](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q51506993.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Vector Control Methods](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_156.md)
+
 ## This Technology belongs to this TechGroup
 
 * [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
 * [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
-
-## This Technology is identified by the following QID
-
-* [Q51506993](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q51506993.md)
 

@@ -2,13 +2,9 @@
 
 # __Proper waste management and segregation__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Waste](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_280.md)
-
-## Property: has_MitigationBenefit
-
-* [Effective management and disposal of potentially infected waste](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_347.md)
+* [Promote environmentally-friendly waste management, sanitation, and maintenance practices, including rodent control, decontamination, and segregation of waste.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_340.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Urban Solid Waste Management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_803.md)
 * [Sustainable alternatives, proper disposal of waste](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2792.md)
 * [Promoting sustainable design and construction practices, proper waste management.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2092.md)
+
+## Property: has_MitigationBenefit
+
+* [Effective management and disposal of potentially infected waste](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_347.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Waste](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_280.md)
 

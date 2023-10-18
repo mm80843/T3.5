@@ -2,13 +2,9 @@
 
 # __Use of materials with low virus survivability__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Stability on surfaces of fomites](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_874.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduced surface contamination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1199.md)
+* [Implement comprehensive strategies to control virus transmission, improve surveillance, develop antiviral coatings, and enhance infection control measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_309.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Conduct infectivity tests to determine whether the genetic material is present in intact virus particles or as free nucleic acids.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3044.md)
 * [Control and regulate humidity levels to reduce virus viability and survival. Implement proper ventilation and air filtration systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2270.md)
 * [Developing effective virus concentration methods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_992.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced surface contamination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1199.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Stability on surfaces of fomites](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_874.md)
 

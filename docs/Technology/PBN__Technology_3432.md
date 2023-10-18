@@ -2,11 +2,9 @@
 
 # __wastewater sampling__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Wastewater-based epidemiology (WBE)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_61.md)
-* [Combined use of WBE and clinical testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_758.md)
-* [Increased sampling of wastewater treatment plants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_760.md)
+* [Improvements in wastewater, waste management, sanitation, water purification, and plumbing technologies aim for sustainable and efficient infrastructure development.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_234.md)
 
 ## Closest similar item
 
@@ -20,4 +18,10 @@
 * [wastewater treatment plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1353.md)
 * [wastewater treatment technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1066.md)
 * [sewage monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3279.md)
+
+## This Technology enables the following mitigations
+
+* [Wastewater-based epidemiology (WBE)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_61.md)
+* [Combined use of WBE and clinical testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_758.md)
+* [Increased sampling of wastewater treatment plants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_760.md)
 

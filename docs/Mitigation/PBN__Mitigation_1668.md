@@ -2,10 +2,9 @@
 
 # __Drones and Robot technology__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [drones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_864.md)
-* [robot technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3994.md)
+* [The rapid proliferation of cutting-edge technologies, from lab-on-a-chip and wearable devices to AI, IoT, and blockchain, is revolutionizing various industries.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_187.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Autonomous Vehicles](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1318.md)
 * [Mobile robots for temperature measurement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2421.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Manual enforcement difficulties](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3204.md)
-
 ## Property: has_MitigationPrinciple
 
 Use drones and robots to automate actions and enforce mask wearing guidelines in public places
 
+## Risks possibly mitigated by this Mitigation
+
+* [Manual enforcement difficulties](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3204.md)
+
 ## Property: has_MitigationSource
 
 * [An Automated System to Limit COVID-19 Using Facial Mask Detection in Smart City Network](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_265.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [drones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_864.md)
+* [robot technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3994.md)
 

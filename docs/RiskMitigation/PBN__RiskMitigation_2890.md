@@ -2,9 +2,9 @@
 
 # __Ensure availability of private spaces__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [PC3](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2219.md)
+* [Promote the integration of natural elements and communal areas, enhance accessibility and quality, and foster positive perception and functionality of public and private green and outdoor spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_331.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Promote the availability and affordability of housing with private green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2583.md)
 * [Personal space](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_242.md)
 * [Temporary closure of non-essential public places until recovery is reached.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1729.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [PC3](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2219.md)
 

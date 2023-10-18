@@ -2,9 +2,9 @@
 
 # __Lack of focus on flexible design solutions for new buildings__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Implementation of flexible design principles](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1091.md)
+* [Challenges in building industry include lack of understanding, high costs, inadequate preparedness, and slow adoption of new technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_98.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2106.md)
 * [Slow adoption of new technologies in buildings sector](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_569.md)
 * [Efficient design changes and management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2971.md)
+
+## Mitigations of this risk
+
+* [Implementation of flexible design principles](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1091.md)
 

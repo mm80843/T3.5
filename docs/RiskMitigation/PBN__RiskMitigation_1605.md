@@ -2,9 +2,9 @@
 
 # __Development of biosensors specifically designed to overcome interferences from the wastewater matrix by implementing extensive sample clean-up processes.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Complex wastewater matrix as a challenge for biosensor detection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1153.md)
+* [Implement wastewater surveillance techniques to detect viral presence, optimize treatment processes, and inform public health interventions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_308.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_149.md)
 * [Biosensors and nanoscale tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_811.md)
 * [Proper wastewater treatment and management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_483.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Complex wastewater matrix as a challenge for biosensor detection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1153.md)
 

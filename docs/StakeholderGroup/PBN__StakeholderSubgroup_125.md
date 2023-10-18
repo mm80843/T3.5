@@ -2,11 +2,9 @@
 
 # __Vector-Control Organizations__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [vector-control organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2420.md)
-* [vector-control organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1348.md)
-* [vector control agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2422.md)
+* [Global associations working in various sectors, such as health, training, vector-control, unions, and non-governmental activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_282.md)
 
 ## Closest similar item
 
@@ -20,4 +18,10 @@
 * [Urban Planning Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_0.md)
 * [Cybersecurity](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_155.md)
 * [Developers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_64.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [vector-control organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2420.md)
+* [vector-control organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1348.md)
+* [vector control agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2422.md)
 

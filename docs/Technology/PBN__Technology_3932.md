@@ -2,9 +2,9 @@
 
 # __web service__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [SAMBA](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1581.md)
+* [Enhancing accessibility and support through a range of remote healthcare, counseling, transportation, and translation services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_213.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [telecommunication tools and web-based applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3083.md)
 * [delivery services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4388.md)
 * [web-based tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3924.md)
+
+## This Technology enables the following mitigations
+
+* [SAMBA](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1581.md)
 

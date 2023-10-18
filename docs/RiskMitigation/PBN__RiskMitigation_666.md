@@ -2,15 +2,9 @@
 
 # __Non-Pharmaceutical Interventions (NPIs)__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Respiratory pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_476.md)
-* [COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_133.md)
-
-## Property: has_MitigationBenefit
-
-* [Effective prevention of disease spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_672.md)
-* [Slowing the spread of the virus](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1358.md)
+* [Promote public health through policy implementation, strengthened systems, health literacy, and targeted interventions for vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_314.md)
 
 ## Closest similar item
 
@@ -24,4 +18,14 @@
 * [Continued implementation of NPIs, vaccination campaigns, promote hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2369.md)
 * [Combination of multiple interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_409.md)
 * [Implementing public health interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1111.md)
+
+## Property: has_MitigationBenefit
+
+* [Effective prevention of disease spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_672.md)
+* [Slowing the spread of the virus](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1358.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Respiratory pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_476.md)
+* [COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_133.md)
 

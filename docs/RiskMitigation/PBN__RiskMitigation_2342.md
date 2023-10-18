@@ -2,9 +2,9 @@
 
 # __Increase outdoor air intake, improve air filtration systems__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Insufficient Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1771.md)
+* [Enhancing air quality through effective air filtration, ventilation, and pollution reduction strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_338.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Installation of air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_889.md)
 * [Efficiency of air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_224.md)
 * [Use high-efficiency filters for air filtration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2871.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Insufficient Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1771.md)
 

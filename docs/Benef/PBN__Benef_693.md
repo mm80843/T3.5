@@ -2,20 +2,20 @@
 
 # __Enhanced resource allocation__
 
+## Name of the Benefit
+
+Improved access to preventive measures helps allocate resources to areas with higher need
+
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Optimized resource utilization, improved public health outcomes](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_739.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
-* [healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_70.md)
 
 ## Articles mentionning this Benefit
 
 * [COVID-19 and social inequalities: a complex and dynamic interaction](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_136.md)
 
-## Name of the Benefit
+## Stakeholders benefitting from this Benefit
 
-Improved access to preventive measures helps allocate resources to areas with higher need
+* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+* [healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_70.md)
 

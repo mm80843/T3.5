@@ -2,9 +2,9 @@
 
 # __access to capital__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Financial Support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1021.md)
+* [These resources aim to enhance security, convenience, and efficiency in managing access, spaces, and systems within various environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_206.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [financial resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3637.md)
 * [improved access to technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_528.md)
 * [financial systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2952.md)
+
+## This Technology enables the following mitigations
+
+* [Financial Support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1021.md)
 

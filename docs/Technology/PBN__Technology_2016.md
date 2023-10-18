@@ -2,9 +2,9 @@
 
 # __better materials__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q214609](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q214609.md)
+* [Explore a diverse range of materials, from sound-absorbing to eco-friendly, that contribute to innovative building solutions and educational resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_222.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [natural materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4016.md)
 * [material support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3464.md)
 * [sustainable materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4067.md)
+
+## This Technology is identified by the following QID
+
+* [Q214609](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q214609.md)
 

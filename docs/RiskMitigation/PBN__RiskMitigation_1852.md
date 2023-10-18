@@ -2,9 +2,9 @@
 
 # __Establish coordinated response strategies between neighboring regions, including sharing of information, joint testing and contact tracing efforts, and harmonized public health measures__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Spillover effects between neighboring regions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1356.md)
+* [Promote public health through policy implementation, strengthened systems, health literacy, and targeted interventions for vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_314.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Develop standardized and optimized testing protocols, enhance coordination and cooperation at national and international levels](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1796.md)
 * [Implementing strict social distancing measures, promoting proper hygiene practices, and widespread testing and contact tracing.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2838.md)
 * [Enhance containment measures, strengthen healthcare systems, improve coordination and communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1448.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Spillover effects between neighboring regions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1356.md)
 

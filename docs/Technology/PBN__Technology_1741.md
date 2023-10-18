@@ -2,9 +2,9 @@
 
 # __gyms__
 
-## Risks linked to this technology
+## Category to which it belongs
 
-* [MH4](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2199.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3460.md)
 * [online fitness programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3240.md)
 * [virtual fitness classes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_68.md)
+
+## Risks linked to this technology
+
+* [MH4](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2199.md)
 

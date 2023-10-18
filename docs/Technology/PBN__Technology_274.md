@@ -2,9 +2,9 @@
 
 # __displacement ventilation__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q5282619](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5282619.md)
+* [Improved ventilation and air purification methods are implemented, incorporating natural and mechanical systems, upgraded technologies, regular maintenance, and smart controls.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_200.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [ventilation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3896.md)
 * [ventilation system modifications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3822.md)
 * [ventilation system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3194.md)
+
+## This Technology is identified by the following QID
+
+* [Q5282619](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5282619.md)
 

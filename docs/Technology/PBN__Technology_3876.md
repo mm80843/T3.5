@@ -2,9 +2,9 @@
 
 # __real-time polymerase chain reaction (rt-pcr)__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Nucleic acid testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1436.md)
+* [Advancements in biotechnology, clinical research, and innovative therapies contribute to the development of medical solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [rt-pcr testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3502.md)
 * [rt-pcr test](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3400.md)
 * [pcr assay](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3073.md)
+
+## This Technology enables the following mitigations
+
+* [Nucleic acid testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1436.md)
 

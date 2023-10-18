@@ -2,9 +2,9 @@
 
 # __Increase sunlight exposure__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [PVP5](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2194.md)
+* [Optimize indoor environment by maximizing natural light, ventilation, and incorporating efficient lighting systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_348.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [UV radiation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1353.md)
 * [UV-Light radiation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_402.md)
 * [Increase access to nature through balconies, green spaces, and windows, maximize daylight and natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2229.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [PVP5](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2194.md)
 

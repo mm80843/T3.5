@@ -2,9 +2,9 @@
 
 # __Limited collaboration and communication across sectors__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Enhance cross-sectoral engagement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2093.md)
+* [Fragmented global governance, reduced aid, ethical concerns, educational disruption, impacts on peace and justice, and inadequate coordination between stakeholders.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_115.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of communication and information sharing among stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3102.md)
 * [Lack of collaboration and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_397.md)
 * [Communication barriers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3231.md)
+
+## Mitigations of this risk
+
+* [Enhance cross-sectoral engagement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2093.md)
 

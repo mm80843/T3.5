@@ -2,19 +2,19 @@
 
 # __Standardized data exchange__
 
+## Name of the Benefit
+
+Meta-harmonization of common data and metadata standards enables rapid integration and use of data.
+
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Increases efficiency in data integration, improves data comparability, and facilitates collaboration.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1239.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 
 ## Articles mentionning this Benefit
 
 * [Challenges of data sharing in European Covid-19 projects: A learning opportunity for advancing pandemic preparedness and response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_230.md)
 
-## Name of the Benefit
+## Stakeholders benefitting from this Benefit
 
-Meta-harmonization of common data and metadata standards enables rapid integration and use of data.
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 

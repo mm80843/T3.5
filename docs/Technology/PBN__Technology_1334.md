@@ -2,9 +2,9 @@
 
 # __shared mobility services__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q16985745](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q16985745.md)
+* [Enhancing accessibility and support through a range of remote healthcare, counseling, transportation, and translation services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_213.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [affordable transportation services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1820.md)
 * [Affordable transportation services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2739.md)
 * [mobile computing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2998.md)
+
+## This Technology is identified by the following QID
+
+* [Q16985745](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q16985745.md)
 

@@ -2,10 +2,9 @@
 
 # __Poor removal of SARS-CoV-2 in conventional WWTP__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Ozonation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2366.md)
-* [Membrane-based wastewater treatment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2367.md)
+* [The widespread transmission and persistence of the SARS-CoV-2 virus in various environments and the challenges in detecting and removing it.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_93.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Transmission of SARS-CoV-2 through contact with contaminated objects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_221.md)
 * [Spread of SARS-CoV-2 through contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_70.md)
 * [Uncontrolled SARS-CoV-2 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_330.md)
+
+## Mitigations of this risk
+
+* [Ozonation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2366.md)
+* [Membrane-based wastewater treatment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2367.md)
 

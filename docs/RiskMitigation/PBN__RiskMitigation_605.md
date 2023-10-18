@@ -2,13 +2,9 @@
 
 # __Develop pandemic-resilient office building requirements__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Vulnerabilities of office buildings to pandemic spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_437.md)
-
-## Property: has_MitigationBenefit
-
-* [Ensure the sustainability of workplaces during the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_607.md)
+* [Designing affordable, adaptable, and sustainable housing with improved building environments and optimized spatial layouts, while incorporating flexible and human-centric design elements and considering health, safety, and environmental parameters.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_326.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Designing containment space in residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_269.md)
 * [Building resilience measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_156.md)
 * [Design buildings with adequate ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2002.md)
+
+## Property: has_MitigationBenefit
+
+* [Ensure the sustainability of workplaces during the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_607.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Vulnerabilities of office buildings to pandemic spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_437.md)
 

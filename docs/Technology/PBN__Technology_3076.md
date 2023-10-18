@@ -2,9 +2,9 @@
 
 # __crispr__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [CRISPR-based lateral flow assay](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_232.md)
+* [Advancements in biotechnology, clinical research, and innovative therapies contribute to the development of medical solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2590.md)
 * [vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_828.md)
 * [Vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2270.md)
+
+## This Technology enables the following mitigations
+
+* [CRISPR-based lateral flow assay](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_232.md)
 

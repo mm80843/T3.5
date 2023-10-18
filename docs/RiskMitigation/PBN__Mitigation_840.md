@@ -2,9 +2,9 @@
 
 # __Self-disinfecting surfaces__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [self-disinfecting coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3483.md)
+* [Enhancing cleanliness and sanitation through various methods such as UV light, chemicals, and routine cleaning.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_169.md)
 
 ## Closest similar item
 
@@ -19,14 +19,18 @@
 * [Robot-controlled surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2979.md)
 * [Development of continuously active antimicrobial coatings and self-disinfecting surfaces.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2980.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Inactivates deposited pathogens on surfaces to reduce spread of infections
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [A Continuously Active Antimicrobial Coating effective against Human Coronavirus 229E](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_246.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [self-disinfecting coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3483.md)
 

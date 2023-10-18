@@ -2,9 +2,9 @@
 
 # __-------------------------------------------__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q195284](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q195284.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [telephones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4120.md)
 * [plain language](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3344.md)
 * [solar](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4092.md)
+
+## This Technology is identified by the following QID
+
+* [Q195284](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q195284.md)
 

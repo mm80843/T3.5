@@ -2,9 +2,9 @@
 
 # __Promote and enforce adherence to preventive measures through education and awareness campaigns__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of adherence to preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1107.md)
+* [Promote understanding and knowledge sharing through educational campaigns, dissemination of accurate information, and public awareness initiatives.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_318.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Harmonize and coordinate interventions across countries; monitor and enforce adherence to guidelines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1892.md)
 * [Implement public awareness campaigns, provide education on disease prevention and transmission](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2201.md)
 * [Implement targeted prevention measures and public health campaigns.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2541.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of adherence to preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1107.md)
 

@@ -2,9 +2,9 @@
 
 # __local populations__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Migration flow](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1730.md)
+* [A diverse array of groups and individuals, encompassing all segments of society and the natural world.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_363.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Local communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2494.md)
 * [nearby residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1275.md)
 * [migrant populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1386.md)
+
+## Risk affecting this stakeholder
+
+* [Migration flow](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1730.md)
 

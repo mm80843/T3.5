@@ -2,9 +2,9 @@
 
 # __cloud-based ai-assisted ct service__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [AI-assisted CT service](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2376.md)
+* [Enhancing accessibility and support through a range of remote healthcare, counseling, transportation, and translation services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_213.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [AI triage systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2051.md)
 * [cloud service technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_646.md)
 * [Cloud service technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2866.md)
+
+## This Technology enables the following mitigations
+
+* [AI-assisted CT service](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2376.md)
 

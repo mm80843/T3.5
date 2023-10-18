@@ -2,13 +2,9 @@
 
 # __Authentication and Access Control__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [biometrics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_99.md)
-* [authentication protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_400.md)
-* [biometric identification](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1548.md)
-* [access control mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_150.md)
-* [access control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1578.md)
+* [Secure systems for user verification, protection against cyber threats, detecting risks, and ensuring safe transactions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_35.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Privacy and Anonymity Techniques](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_139.md)
 * [Communication and Data Sharing](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_3.md)
 * [Data Anonymization and Protection](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_137.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [biometrics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_99.md)
+* [authentication protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_400.md)
+* [biometric identification](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1548.md)
+* [access control mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_150.md)
+* [access control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1578.md)
 

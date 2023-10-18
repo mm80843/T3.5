@@ -2,9 +2,9 @@
 
 # __Poor air mixing__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Good room air mixing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_262.md)
+* [Insufficient ventilation and indoor air pollution pose a risk to air quality and respiratory health, exacerbated by inadequate airflow control, limited natural ventilation, and air recirculation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_128.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Increased air change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2753.md)
 * [Uneven air distribution and stagnant air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2755.md)
 * [Insufficient air circulation and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1779.md)
+
+## Mitigations of this risk
+
+* [Good room air mixing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_262.md)
 

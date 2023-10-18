@@ -2,9 +2,9 @@
 
 # __individuals exposed to far-uvc light__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Safety of far-UVC light exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1229.md)
+* [Individuals at risk, including vulnerable populations, individuals in quarantine or isolation, and those in close proximity to infected individuals or contaminated surfaces, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_392.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Occupants of buildings with lack of natural light](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2575.md)
 * [people exposed to the filtered air](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1537.md)
 * [People exposed to the filtered air](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2592.md)
+
+## Risk affecting this stakeholder
+
+* [Safety of far-UVC light exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1229.md)
 

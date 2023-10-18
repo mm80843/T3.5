@@ -2,9 +2,9 @@
 
 # __ppe manufacturers__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Lack of proper PPE usage and availability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1515.md)
+* [Stakeholders in various industries, from manufacturing to retail, including users and suppliers, with a focus on wearables.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_371.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [device manufacturer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1901.md)
 * [material manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_775.md)
 * [equipment suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_749.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Lack of proper PPE usage and availability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1515.md)
 

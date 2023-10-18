@@ -2,13 +2,9 @@
 
 # __Strengthen coordination and collaboration__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Health care, surveillance and monitoring gaps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_749.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced response and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1031.md)
+* [Strengthen collaborations, implement behavioral change, deploy social robots, and promote sustainable content consumption for community-based strategies, holistic research, and positive media representation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_316.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Collaboration with WHO and Government Organizations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1361.md)
 * [Developing collaborative partnerships](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_11.md)
 * [Improve coordination between researchers, academia, and policymakers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1136.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced response and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1031.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Health care, surveillance and monitoring gaps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_749.md)
 

@@ -2,13 +2,13 @@
 
 # __quarantine facility staff__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q182899](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q182899.md)
+* [Individuals at risk, including vulnerable populations, individuals in quarantine or isolation, and those in close proximity to infected individuals or contaminated surfaces, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_392.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
+* [Risk of external seeding events and uncontrolled quarantines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2122.md)
 
 ## Closest similar item
 
@@ -23,10 +23,14 @@
 * [quarantined population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1020.md)
 * [individuals in quarantine or isolation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1285.md)
 
-## Risk affecting this stakeholder
-
-* [Risk of external seeding events and uncontrolled quarantines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2122.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
+
+## This Stakeholder is identified by the following QID
+
+* [Q182899](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q182899.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
 

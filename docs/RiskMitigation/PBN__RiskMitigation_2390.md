@@ -2,9 +2,9 @@
 
 # __Strict infection control and hygiene standards when collecting waste materials, separate collection services for infected households and quarantine facilities__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Spread of COVID-19 through waste materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_809.md)
+* [Promote and enforce hygiene practices, implement sanitation measures, and provide education on proper handwashing techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_332.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement effective infection control measures, such as regular cleaning and disinfection, ventilation systems, and promoting personal hygiene practices.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2507.md)
 * [Implementing strict hygiene protocols, promoting social distancing, providing personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1998.md)
 * [Implementing proper sanitation measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_888.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of COVID-19 through waste materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_809.md)
 

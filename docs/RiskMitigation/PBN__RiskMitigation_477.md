@@ -2,13 +2,9 @@
 
 # __Installation of barriers or partitions__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Risk of COVID-19 transmission in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_364.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduced contact](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_465.md)
+* [Implementing a comprehensive package of measures to ensure the smooth functioning and safety of essential services and activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_6.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Designing containment space in residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_269.md)
 * [Use individual or limited capacity transportation with partitions/barriers, enforce mask-wearing and no talking, disinfect vehicles after each use](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2797.md)
 * [Checkpoint allocation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_323.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced contact](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_465.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Risk of COVID-19 transmission in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_364.md)
 

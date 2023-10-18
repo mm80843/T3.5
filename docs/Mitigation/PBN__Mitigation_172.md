@@ -2,10 +2,9 @@
 
 # __Thermal conditions control__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_185.md)
-* [insulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3029.md)
+* [Achieving comfort through temperature management, monitoring, and control while implementing climate-sensitive design and utilizing thermal imaging technology for screening and measurement purposes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_185.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Temperature Screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_466.md)
 * [Temperature testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1242.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Uncomfortable temperature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2473.md)
-
 ## Property: has_MitigationPrinciple
 
 Maintain comfortable thermal conditions that support occupant well-being and productivity.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Uncomfortable temperature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2473.md)
+
 ## Property: has_MitigationSource
 
 * [Occupant health in buildings: Impact of the COVID-19 pandemic on the opinions of building professionals and implications on research](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_273.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_185.md)
+* [insulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3029.md)
 

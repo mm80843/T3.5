@@ -2,10 +2,9 @@
 
 # __Building regulations__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [inspections](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_84.md)
-* [strong building codes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3413.md)
+* [Creating resilient urban environments through strategic planning, adaptable design, reduced density, and improved building infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_164.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Sustainable Building Design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1786.md)
 * [Building and Housing Reform](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1286.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Health harming behaviors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2708.md)
-
 ## Property: has_MitigationPrinciple
 
 Reduce harm through improved safety standards and regulations for housing construction and maintenance
 
+## Risks possibly mitigated by this Mitigation
+
+* [Health harming behaviors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2708.md)
+
 ## Property: has_MitigationSource
 
 * [Dangerous liaisons? Applying the social harm perspective to the social inequality, housing and health trifecta during the Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_2.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [inspections](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_84.md)
+* [strong building codes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3413.md)
 

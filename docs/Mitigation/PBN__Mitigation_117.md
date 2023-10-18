@@ -2,9 +2,9 @@
 
 # __Involvement of architectural and urban institutions in addressing pandemics__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [expertise and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2980.md)
+* [Creating resilient urban environments through strategic planning, adaptable design, reduced density, and improved building infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_164.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Urban restructuring for emergency preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_112.md)
 * [Inclusion of pandemic preparedness in disaster management protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_113.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Limited engagement of professionals and lack of comprehensive support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2451.md)
-
 ## Property: has_MitigationPrinciple
 
 Encouraging the involvement of architectural and urban professionals in addressing future pandemics through collaboration, planning, and designing strategies to ensure the liveability and safety of cities.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Limited engagement of professionals and lack of comprehensive support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2451.md)
+
 ## Property: has_MitigationSource
 
 * [Pandemic stricken cities on lockdown. Where are our planning and design professionals [now, then and into the future]?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_147.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [expertise and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2980.md)
 

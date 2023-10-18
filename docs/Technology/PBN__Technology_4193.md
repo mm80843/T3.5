@@ -2,9 +2,9 @@
 
 # __social pods__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Design of public open-air spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2006.md)
+* [Digital platforms and online resources facilitate collaboration, communication, and information sharing among individuals and organizations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_193.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Virtual social platforms and apps for connecting with others](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2627.md)
 * [social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_47.md)
 * [Social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2129.md)
+
+## This Technology enables the following mitigations
+
+* [Design of public open-air spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2006.md)
 

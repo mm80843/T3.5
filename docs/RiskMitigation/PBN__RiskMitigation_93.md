@@ -2,13 +2,9 @@
 
 # __Quarantine for high-risk individuals__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Outbreak from China](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_77.md)
-
-## Property: has_MitigationBenefit
-
-* [Infection control](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_106.md)
+* [Enforcing strict measures such as containment strategies, isolation, quarantine, and travel restrictions to prevent the spread of diseases.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_333.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implementation of quarantine measures, social distancing, and isolation of confirmed cases](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1756.md)
 * [Provide mental health support, access to accurate information, and social support during quarantine.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2685.md)
 * [Quarantine and social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_893.md)
+
+## Property: has_MitigationBenefit
+
+* [Infection control](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_106.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Outbreak from China](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_77.md)
 

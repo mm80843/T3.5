@@ -2,9 +2,9 @@
 
 # __printing and lamination technologies can be used to create professional signs that are durable and visually appealing__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1261026](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1261026.md)
+* [Design and construction professionals use innovative techniques and strategies to create adaptable, sustainable, and inclusive buildings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_217.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [ordinary printer paper](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3768.md)
 * [3d printing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_133.md)
 * [3D printing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4543.md)
+
+## This Technology is identified by the following QID
+
+* [Q1261026](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1261026.md)
 

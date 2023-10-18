@@ -2,9 +2,9 @@
 
 # __Implement self-health evaluation protocols, use online questionnaires or applications__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Self-health evaluation before boarding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2137.md)
+* [Promote public health through policy implementation, strengthened systems, health literacy, and targeted interventions for vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_314.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Promote a holistic approach to disease control, emphasize the importance of other preventive measures (e.g., hand hygiene, social distancing), integrate mobile technology with existing public health measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2578.md)
 * [Implementing public health interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1111.md)
 * [Implementation of a standardized and interoperable health information exchange system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1752.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Self-health evaluation before boarding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2137.md)
 

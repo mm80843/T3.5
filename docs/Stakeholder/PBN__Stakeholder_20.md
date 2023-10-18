@@ -2,26 +2,9 @@
 
 # __individuals__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q795052](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q795052.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
-
-## Closest similar item
-
-* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2539.md)
-* [humans](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_17.md)
-* [individual](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2524.md)
-* [Individual](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2540.md)
-* [individuals and communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_106.md)
-* [all individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1319.md)
-* [inhabitants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1015.md)
-* [people of color](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_111.md)
-* [People of color](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2362.md)
-* [individuals in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2534.md)
+* [All people, especially those at risk or facing various circumstances, including age, health conditions, or unemployment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_374.md)
 
 ## Risk affecting this stakeholder
 
@@ -36,9 +19,18 @@
 * [Asymptomatic transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1244.md)
 * [Social interaction and engagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2030.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Closest similar item
 
-* [General Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_88.md)
+* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2539.md)
+* [humans](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_17.md)
+* [individual](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2524.md)
+* [Individual](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2540.md)
+* [individuals and communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_106.md)
+* [all individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1319.md)
+* [inhabitants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1015.md)
+* [people of color](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_111.md)
+* [People of color](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2362.md)
+* [individuals in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2534.md)
 
 ## This Stakeholder can get these Benefits from mitigation measures
 
@@ -149,4 +141,16 @@
 * [Transmission through tears](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1557.md)
 * [Spread of rumors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2280.md)
 * [Spread before symptoms appear](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1747.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [General Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_88.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q795052](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q795052.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
 

@@ -2,9 +2,9 @@
 
 # __Impact of interventions on transmission__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Reduction in transmission as measured by changes in reproduction number](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_826.md)
+* [The spread of diseases through various methods, including contact, droplets, and contaminated surfaces, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_137.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Transmission, Education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2677.md)
 * [Community transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2462.md)
 * [High rates of transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2643.md)
+
+## Mitigations of this risk
+
+* [Reduction in transmission as measured by changes in reproduction number](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_826.md)
 

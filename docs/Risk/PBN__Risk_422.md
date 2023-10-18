@@ -2,9 +2,9 @@
 
 # __Need for effective disaster management__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Use of positioning technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_585.md)
+* [The interconnectedness of environmental degradation, social inequalities, and the need for climate action and conservation efforts.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_104.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inadequate crisis preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1961.md)
 * [Development of a crisis plan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2749.md)
 * [Public-health emergencies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_331.md)
+
+## Mitigations of this risk
+
+* [Use of positioning technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_585.md)
 

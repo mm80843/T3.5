@@ -2,13 +2,9 @@
 
 # __Hygiene practices__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_711.md)
-
-## Property: has_MitigationBenefit
-
-* [Disease control](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_982.md)
+* [Promote and enforce hygiene practices, implement sanitation measures, and provide education on proper handwashing techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_332.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Promote cleanliness and hygiene practices at the community level](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1538.md)
 * [Implementing strict hygiene protocols, promoting social distancing, providing personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1998.md)
 * [Implementing safety measures, promoting hygiene practices, and providing accurate information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2207.md)
+
+## Property: has_MitigationBenefit
+
+* [Disease control](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_982.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_711.md)
 

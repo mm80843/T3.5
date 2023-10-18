@@ -2,9 +2,9 @@
 
 # __Occupancy Limitations__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [access control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_164.md)
+* [Movement and accessibility constraints, including travel bans, visitor restrictions, and limitations on gatherings and travel.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_160.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Capacity Limitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1646.md)
 * [Mobility limitations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_31.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Crowding and close contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2751.md)
-
 ## Property: has_MitigationPrinciple
 
 Limiting the number of people allowed in a space to maintain social distancing and prevent overcrowding.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Crowding and close contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2751.md)
+
 ## Property: has_MitigationSource
 
 * [A study on office workplace modification during the COVID-19 pandemic in The Netherlands](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_193.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [access control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_164.md)
 

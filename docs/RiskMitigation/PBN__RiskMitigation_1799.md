@@ -2,9 +2,9 @@
 
 # __Utilize WBE for early-warning ability, establish baselines for incidence of Covid-19 before re-opening__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Risk of rebound and resurgence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1310.md)
+* [Implement comprehensive strategies to control virus transmission, improve surveillance, develop antiviral coatings, and enhance infection control measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_309.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Develop algorithms and models that can accurately differentiate COVID-19 from other viral infections based on physiological data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1558.md)
 * [Implement strict policies and protocols for employees who test positive or are exposed to COVID-19, including mandatory self-isolation and remote work options.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1653.md)
 * [Train AI algorithms to accurately and quickly identify COVID-19 cases](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2375.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Risk of rebound and resurgence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1310.md)
 

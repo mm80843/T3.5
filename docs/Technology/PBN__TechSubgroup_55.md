@@ -2,13 +2,9 @@
 
 # __Technology and Digital Tools__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_403.md)
-* [remote work technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_286.md)
-* [digital surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1560.md)
-* [Media regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2151.md)
-* [DNA barcoding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2508.md)
+* [Technological resources facilitating virtual education, hardware, digital tools, simulations, diagnostics, and health record management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_31.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Software and Applications](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_122.md)
 * [Diagnostic and Testing Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_12.md)
 * [Hardware and Devices](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_117.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_403.md)
+* [remote work technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_286.md)
+* [digital surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1560.md)
+* [Media regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2151.md)
+* [DNA barcoding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2508.md)
 

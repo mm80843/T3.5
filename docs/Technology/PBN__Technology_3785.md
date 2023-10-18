@@ -2,10 +2,9 @@
 
 # __maintenance__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Maintenance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1313.md)
-* [Proper maintenance of drainage system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2470.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [maintenance and inspection protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1184.md)
 * [repair](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4515.md)
 * [sensor maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_990.md)
+
+## This Technology enables the following mitigations
+
+* [Maintenance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1313.md)
+* [Proper maintenance of drainage system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2470.md)
 

@@ -2,11 +2,9 @@
 
 # __Virus origin__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Phylogenetic analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_590.md)
-* [Animal models](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_591.md)
-* [Reverse genetics systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_592.md)
+* [The Impact of Domestic Violence and the Spreading of the Virus Create Challenges in Preventing Virus Propagation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_94.md)
 
 ## Closest similar item
 
@@ -20,4 +18,10 @@
 * [Virus accumulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2950.md)
 * [Spread of Virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2518.md)
 * [Spread of virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2684.md)
+
+## Mitigations of this risk
+
+* [Phylogenetic analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_590.md)
+* [Animal models](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_591.md)
+* [Reverse genetics systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_592.md)
 

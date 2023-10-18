@@ -2,9 +2,9 @@
 
 # __Implement risk management strategies and contingency plans to mitigate the impact of COVID-19 on construction projects.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [High impact of COVID-19 on construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1998.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Develop international strategies that integrate the built environment in pandemic response plans](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2139.md)
 * [Provide education and communication on COVID-19 risks and preventive measures, enforce and monitor compliance with protocols.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2505.md)
 * [Develop pandemic-resilient office building requirements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_605.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [High impact of COVID-19 on construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1998.md)
 

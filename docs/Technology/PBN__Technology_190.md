@@ -2,15 +2,15 @@
 
 # __acoustic panels__
 
+## Category to which it belongs
+
+* [These resources aim to enhance security, convenience, and efficiency in managing access, spaces, and systems within various environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_206.md)
+
 ## Risks linked to this technology
 
 * [Inadequate Acoustics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1124.md)
 * [Noise pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_150.md)
 * [Noise Pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1120.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Indoor Environmental Quality](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_79.md)
 
 ## Closest similar item
 
@@ -25,14 +25,18 @@
 * [sound insulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3048.md)
 * [sound-absorbing materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_198.md)
 
+## This Technology is identified by the following QID
+
+* [Q1417134](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1417134.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Indoor Environmental Quality](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_79.md)
+
 ## This Technology belongs to this TechGroup
 
 * [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 * [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_12.md)
-
-## This Technology is identified by the following QID
-
-* [Q1417134](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1417134.md)
 
 ## This Technology enables the following mitigations
 

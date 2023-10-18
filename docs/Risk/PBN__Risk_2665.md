@@ -2,9 +2,9 @@
 
 # __Service interruption__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Transposition of municipal services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_622.md)
+* [Limited monitoring, technical limitations, language barriers, expensive optimization, lack of connection with nature, and limited sensor diversity hinder effective response and resource allocation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_107.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Disruption of main system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3365.md)
 * [Interrupted education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1630.md)
 * [Requires continuous monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3446.md)
+
+## Mitigations of this risk
+
+* [Transposition of municipal services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_622.md)
 

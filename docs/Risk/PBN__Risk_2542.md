@@ -2,9 +2,9 @@
 
 # __Identity verification__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Reliable insurance claims](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_368.md)
+* [A compilation of topics including energy use, mechanisms, gender inequality, contractual issues, musculoskeletal disorders, and mental health among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_136.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Privacy and security of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1754.md)
 * [Privacy and Security of Data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3018.md)
 * [User acceptance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2544.md)
+
+## Mitigations of this risk
+
+* [Reliable insurance claims](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_368.md)
 

@@ -2,9 +2,9 @@
 
 # __Raise awareness, promote inclusivity and diversity__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Stigmatisation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1926.md)
+* [Promote understanding and knowledge sharing through educational campaigns, dissemination of accurate information, and public awareness initiatives.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_318.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Increase public interest and awareness through targeted communication strategies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1673.md)
 * [Facilitate response diversity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_692.md)
 * [Raise awareness through education campaigns, provide accurate and accessible information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2807.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Stigmatisation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1926.md)
 

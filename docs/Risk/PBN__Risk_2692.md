@@ -2,9 +2,9 @@
 
 # __Perception of climate change as a distant threat__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Proximity and Immediateness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_689.md)
+* [The interconnectedness of environmental degradation, social inequalities, and the need for climate action and conservation efforts.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_104.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Climate change adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1924.md)
 * [Misunderstanding of the permanence of climate change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1403.md)
 * [Lack of alignment with global climate goals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3323.md)
+
+## Mitigations of this risk
+
+* [Proximity and Immediateness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_689.md)
 

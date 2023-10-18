@@ -2,9 +2,9 @@
 
 # __land use regulations__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Horizontal urban development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2428.md)
+* [Urban green space solutions include tree planting, zoning regulations, landscape architecture, community gardens, outdoor furniture, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_231.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [urban planning regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_52.md)
 * [Urban planning regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2343.md)
 * [environmental policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3328.md)
+
+## This Technology enables the following mitigations
+
+* [Horizontal urban development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2428.md)
 

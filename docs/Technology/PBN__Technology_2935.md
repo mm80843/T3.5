@@ -2,9 +2,9 @@
 
 # __existing ontologies__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Drug modelling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_57.md)
+* [Technological advancements encompass a wide range of innovations, such as blockchain, touchless, renewable energy, and communication technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [ontology interoperability techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_714.md)
 * [ontology search engines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1345.md)
 * [Ontology search engines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2086.md)
+
+## This Technology enables the following mitigations
+
+* [Drug modelling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_57.md)
 

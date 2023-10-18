@@ -2,9 +2,9 @@
 
 # __Increase the use of outdoor air through open windows and dampers.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Insufficient use of outdoor air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1320.md)
+* [Optimize indoor environments, regulate temperature and humidity, control air quality, and extend HVAC system operations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_341.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Improve HVAC systems, increase outdoor air intake, and use of air purifiers or filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2261.md)
 * [Improve ventilation systems, increase fresh air supply, and use air filters to reduce the spread of airborne particles.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2502.md)
 * [Improve ventilation systems, open windows and doors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1970.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Insufficient use of outdoor air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1320.md)
 

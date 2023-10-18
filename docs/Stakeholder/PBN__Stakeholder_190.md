@@ -2,13 +2,9 @@
 
 # __surveillance__
 
-## This Stakeholder can get these Benefits from mitigation measures
+## Category to which it belongs
 
-* [Contactless identification](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_402.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q334401](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q334401.md)
+* [Entities and individuals who interact with or are affected by a system, organization, or public facility.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_1.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Surveillance programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2880.md)
 * [video surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2881.md)
 * [surveillance cameras](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2882.md)
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Contactless identification](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_402.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q334401](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q334401.md)
 

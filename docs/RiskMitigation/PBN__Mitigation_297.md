@@ -2,11 +2,9 @@
 
 # __Daily Tasks and Activities__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [medium](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3130.md)
-* [high risk)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3131.md)
-* [task classification (low](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3129.md)
+* [Promoting exercise and physical activity through various strategies, monitoring, guidelines, programs, and adaptations, while considering barriers and analyzing movement patterns.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_159.md)
 
 ## Closest similar item
 
@@ -21,15 +19,21 @@
 * [Intensity of physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_76.md)
 * [Increased household chores](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_441.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Virus Exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2521.md)
-
 ## Property: has_MitigationPrinciple
 
 Assess daily tasks and activities for possible virus exposure risks and eliminate or limit them as much as possible, based on OSHA's exposure risk level classification.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Virus Exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2521.md)
+
 ## Property: has_MitigationSource
 
 * [Analysis of COVID-19 Concerns Raised by the Construction Workforce and Development of Mitigation Practices](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_82.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [medium](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3130.md)
+* [high risk)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3131.md)
+* [task classification (low](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3129.md)
 

@@ -2,13 +2,9 @@
 
 # __Green and Biodegradable Materials__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [Insulation materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2677.md)
-* [Advanced building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2662.md)
-* [Better materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2656.md)
-* [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2548.md)
-* [Eco-friendly materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2655.md)
+* [Promotion of cleanliness, hygiene, and health through various purification, disinfection, and eco-friendly practices and materials.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_44.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Urban Planning and Green Spaces](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_85.md)
 * [Purification and Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_88.md)
 * [Biological and Chemical Methods](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_130.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [Insulation materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2677.md)
+* [Advanced building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2662.md)
+* [Better materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2656.md)
+* [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2548.md)
+* [Eco-friendly materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2655.md)
 

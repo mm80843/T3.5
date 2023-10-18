@@ -2,9 +2,9 @@
 
 # __legal aid organizations__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Access to Legal Representation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1187.md)
+* [A diverse array of entities dedicated to various industries, causes, or services, promoting growth and welfare in society.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_369.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [charitable organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_755.md)
 * [funding agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2021.md)
 * [social justice organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_949.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Access to Legal Representation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1187.md)
 

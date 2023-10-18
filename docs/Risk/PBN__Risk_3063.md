@@ -2,9 +2,9 @@
 
 # __Inappropriate humidity levels in indoor spaces__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Humidity control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_376.md)
+* [Insufficient, cramped, and unsanitary conditions in various types of spaces are hindering access, health, and well-being.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_141.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Poor indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_294.md)
 * [Low indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1417.md)
 * [Poor thermal comfort, inadequate indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2593.md)
+
+## Mitigations of this risk
+
+* [Humidity control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_376.md)
 

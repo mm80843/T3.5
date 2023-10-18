@@ -2,12 +2,9 @@
 
 # __Future city planning__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [People monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1419.md)
-* [Restriction on crowding](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1417.md)
-* [Increased sanitation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1418.md)
-* [Preparedness procedures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1420.md)
+* [Dense urban environments face challenges with population growth, inequality, biodiversity, mobility, and poor housing conditions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_105.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [Limited focus on pandemic preparedness in urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2450.md)
 * [Unsustainable and unsafe cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3263.md)
 * [Future research](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_135.md)
+
+## Mitigations of this risk
+
+* [People monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1419.md)
+* [Restriction on crowding](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1417.md)
+* [Increased sanitation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1418.md)
+* [Preparedness procedures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1420.md)
 

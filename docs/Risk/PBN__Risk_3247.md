@@ -2,10 +2,9 @@
 
 # __IAP, Poor Indoor Air Quality__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Indoor Air Quality Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1773.md)
-* [Efficient Cooking Practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1781.md)
+* [Insufficient ventilation and indoor air pollution pose a risk to air quality and respiratory health, exacerbated by inadequate airflow control, limited natural ventilation, and air recirculation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_128.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Poor thermal comfort, inadequate indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2593.md)
 * [Air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3349.md)
 * [Indoor air pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_939.md)
+
+## Mitigations of this risk
+
+* [Indoor Air Quality Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1773.md)
+* [Efficient Cooking Practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1781.md)
 

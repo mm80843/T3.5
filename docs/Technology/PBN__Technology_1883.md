@@ -2,9 +2,9 @@
 
 # __experimental apparatus__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q834028](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q834028.md)
+* [A comprehensive list of mobile applications, including contact-tracing apps, mental health apps, mobile banking, and fitness tracking devices, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_197.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [testing equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1067.md)
 * [advanced laboratory testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1409.md)
 * [Advanced laboratory testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2777.md)
+
+## This Technology is identified by the following QID
+
+* [Q834028](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q834028.md)
 

@@ -2,9 +2,9 @@
 
 # __4g__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Wireless data transmission](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_694.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [mobile devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4026.md)
 * [wi-fi)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3387.md)
 * [wireless data transmission (3g](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3385.md)
+
+## This Technology enables the following mitigations
+
+* [Wireless data transmission](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_694.md)
 

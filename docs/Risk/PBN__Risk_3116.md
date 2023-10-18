@@ -2,9 +2,9 @@
 
 # __Stagnant pools in urban areas as breeding grounds__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Drainage system management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1514.md)
+* [Dense urban environments face challenges with population growth, inequality, biodiversity, mobility, and poor housing conditions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_105.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Overcrowding and agglomerations in cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_514.md)
 * [Urban bodies of water and wetlands](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_67.md)
 * [Loss of urban biodiversity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1381.md)
+
+## Mitigations of this risk
+
+* [Drainage system management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1514.md)
 

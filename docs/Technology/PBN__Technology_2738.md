@@ -2,8 +2,9 @@
 
 # __expansion of digital platforms and virtual experiences__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
+* [The digital revolution encompasses various aspects, from online promotion to contactless payment systems and virtual learning platforms.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_190.md)
 
 ## Closest similar item
 
@@ -18,11 +19,14 @@
 * [online gaming platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3884.md)
 * [virtual tourism platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1702.md)
 
-## This Technology belongs to this TechGroup
-
-* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
-
 ## This Technology is identified by the following QID
 
 * [Q241317](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q241317.md)
+
+## This Technology belongs to this TechSubgroup
+
+
+## This Technology belongs to this TechGroup
+
+* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
 

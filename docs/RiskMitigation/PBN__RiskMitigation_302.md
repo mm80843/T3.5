@@ -2,13 +2,9 @@
 
 # __Simplified procedures for essential activities__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Shocks in global value chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_251.md)
-
-## Property: has_MitigationBenefit
-
-* [Streamlined operational processes](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_305.md)
+* [Implementing a comprehensive package of measures to ensure the smooth functioning and safety of essential services and activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_6.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Providing resources and support, clear communication of guidelines, ensuring access to essential services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2967.md)
 * [Ensuring basic supplies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1407.md)
 * [Incorporating exercise opportunities in design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_137.md)
+
+## Property: has_MitigationBenefit
+
+* [Streamlined operational processes](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_305.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Shocks in global value chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_251.md)
 

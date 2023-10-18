@@ -2,9 +2,9 @@
 
 # __open government technologies (e.g.__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q720829](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q720829.md)
+* [Government actions and regulations addressing various aspects of society, including policy changes, ethical frameworks, governance mechanisms, and public announcements.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_216.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [open-source platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_467.md)
 * [communication technologies (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4386.md)
 * [open data policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_823.md)
+
+## This Technology is identified by the following QID
+
+* [Q720829](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q720829.md)
 

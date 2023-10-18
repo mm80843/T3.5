@@ -2,10 +2,9 @@
 
 # __Address health inequities__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [engagement with diverse groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3322.md)
-* [health data collection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3321.md)
+* [Advocacy and initiatives promoting well-being, knowledge, equitable access to healthcare, and healthy lifestyles.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_188.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Enhancing healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1124.md)
 * [Public health awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1517.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Health care disparities, racial biases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2635.md)
-
 ## Property: has_MitigationPrinciple
 
 Improve representation and equitable health research, target populations with lower vaccination uptake
 
+## Risks possibly mitigated by this Mitigation
+
+* [Health care disparities, racial biases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2635.md)
+
 ## Property: has_MitigationSource
 
 * [Data capture and sharing in the COVID-19 pandemic: a cause for concern](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_208.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [engagement with diverse groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3322.md)
+* [health data collection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3321.md)
 

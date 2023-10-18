@@ -2,9 +2,9 @@
 
 # __webex__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Teleconference Format for Academic Conferences](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_428.md)
+* [Digital platforms and online resources facilitate collaboration, communication, and information sharing among individuals and organizations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_193.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [online applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1681.md)
 * [telecommunication tools and web-based applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3083.md)
 * [e-commerce platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_696.md)
+
+## This Technology enables the following mitigations
+
+* [Teleconference Format for Academic Conferences](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_428.md)
 

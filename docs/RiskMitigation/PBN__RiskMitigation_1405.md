@@ -2,13 +2,9 @@
 
 # __Proper handling of pandemic impact__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [COVID-19 impact on construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_987.md)
-
-## Property: has_MitigationBenefit
-
-* [Decreased financial losses](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1370.md)
+* [Implement comprehensive strategies to control virus transmission, improve surveillance, develop antiviral coatings, and enhance infection control measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_309.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Adoption of pandemic preparedness protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_738.md)
 * [Implement health and safety measures, adapt project plans to pandemic restrictions, provide support to affected workers.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1947.md)
 * [Implement policies and interventions to support and protect victims of intimate partner violence during the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1468.md)
+
+## Property: has_MitigationBenefit
+
+* [Decreased financial losses](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1370.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [COVID-19 impact on construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_987.md)
 

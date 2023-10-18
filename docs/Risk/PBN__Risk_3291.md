@@ -2,9 +2,9 @@
 
 # __Diagnostic Accuracy__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Rapid COVID-19 Screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1933.md)
+* [The challenges include inadequate testing capacity, slow identification of cases, limited evidence, and variability in PCR methods.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_140.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Limited accuracy and specificity of biomarker measurements](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1156.md)
 * [Risk of misdiagnosis or false results](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_839.md)
 * [Limited diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2604.md)
+
+## Mitigations of this risk
+
+* [Rapid COVID-19 Screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1933.md)
 

@@ -2,9 +2,9 @@
 
 # __viral enrichment__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Wastewater-based surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2410.md)
+* [Advancements in molecular biology, diagnostics, vaccines, antiviral technologies, and disease surveillance for pathogen detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_223.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [research on viral cell entry mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1953.md)
 * [Research on viral cell entry mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2794.md)
 * [advanced laboratory techniques for virus detection and identification](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_496.md)
+
+## This Technology enables the following mitigations
+
+* [Wastewater-based surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2410.md)
 

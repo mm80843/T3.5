@@ -2,9 +2,9 @@
 
 # __offer workshops__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q83405](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q83405.md)
+* [Design and construction professionals use innovative techniques and strategies to create adaptable, sustainable, and inclusive buildings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_217.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [courses](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3040.md)
 * [meetings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3124.md)
 * [procurement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3572.md)
+
+## This Technology is identified by the following QID
+
+* [Q83405](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q83405.md)
 

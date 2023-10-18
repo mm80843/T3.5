@@ -2,13 +2,9 @@
 
 # __charitable organizations__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Corruption in donation process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1241.md)
-
-## Risk affecting this stakeholder
-
-* [Corruption in donation process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1241.md)
+* [A diverse array of entities dedicated to various industries, causes, or services, promoting growth and welfare in society.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_369.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Nonprofit](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2458.md)
 * [organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_186.md)
 * [non-profit organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_804.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Corruption in donation process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1241.md)
+
+## Risk affecting this stakeholder
+
+* [Corruption in donation process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1241.md)
 

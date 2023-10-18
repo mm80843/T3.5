@@ -2,13 +2,9 @@
 
 # __Water bodies__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Urban heat islands (UHIs)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_367.md)
-
-## Property: has_MitigationBenefit
-
-* [Cooling effect](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_471.md)
+* [Promote efficient and sustainable water practices, enhance infrastructure, and ensure access to clean water and sanitation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_339.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Water digitalization and IoT](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_805.md)
 * [Develop alternative water sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2886.md)
 * [Sustainable water management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_350.md)
+
+## Property: has_MitigationBenefit
+
+* [Cooling effect](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_471.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Urban heat islands (UHIs)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_367.md)
 

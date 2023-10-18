@@ -2,9 +2,9 @@
 
 # __WC1: Water consumption__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Access to alternative water sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_238.md)
+* [The challenges of urban water management include water contamination, waste management, inadequate water storage, and poor drainage.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_120.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Water conservation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3352.md)
 * [WQ2: Water safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_189.md)
 * [EU1: Energy use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_193.md)
+
+## Mitigations of this risk
+
+* [Access to alternative water sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_238.md)
 

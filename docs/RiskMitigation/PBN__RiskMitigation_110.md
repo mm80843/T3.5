@@ -2,13 +2,9 @@
 
 # __Construction of OpenKG-COVID19__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
-
-## Property: has_MitigationBenefit
-
-* [Access to up-to-date information](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_129.md)
+* [Efforts include RNA monitoring, occupant exposure modeling, targeted messages, adoption of principles, copper coating, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_311.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implement risk management strategies and contingency plans to mitigate the impact of COVID-19 on construction projects.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2616.md)
 * [Provide education and communication on COVID-19 risks and preventive measures, enforce and monitor compliance with protocols.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2505.md)
 * [Wearable devices for the detection of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1424.md)
+
+## Property: has_MitigationBenefit
+
+* [Access to up-to-date information](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_129.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
 

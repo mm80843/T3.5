@@ -2,9 +2,9 @@
 
 # __Improved access to healthcare__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [healthcare technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3378.md)
+* [Enhancing healthcare access, facilities, and systems while promoting affordability and strengthening healthcare infrastructure through various strategies and initiatives.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_165.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Increase availability of healthcare resources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2430.md)
 * [Accessibility to healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_309.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Higher COVID-19 mortality rate](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2682.md)
-
 ## Property: has_MitigationPrinciple
 
 Ensuring equitable access to healthcare facilities and services can help individuals manage chronic diseases and receive appropriate treatment for COVID-19, reducing mortality rates.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Higher COVID-19 mortality rate](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2682.md)
+
 ## Property: has_MitigationSource
 
 * [Treating two pandemics for the price of one: Chronic and infectious disease impacts of the built and natural environment](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_174.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [healthcare technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3378.md)
 

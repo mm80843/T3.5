@@ -2,13 +2,9 @@
 
 # __Regular cleaning and disinfection of high-touch areas__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Environmental contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_923.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduced viral load on surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1125.md)
+* [Implement rigorous cleaning and disinfection measures, including the use of antimicrobial materials and advanced technologies, to maintain a safe and hygienic environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_2.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Regular and thorough disinfection of frequently touched surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2077.md)
 * [Regular disinfection of frequently touched surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1929.md)
 * [Regular cleaning and disinfection of surfaces, frequent hand washing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2314.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced viral load on surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1125.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Environmental contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_923.md)
 

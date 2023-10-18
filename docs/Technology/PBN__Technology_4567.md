@@ -2,6 +2,10 @@
 
 # __social media platforms’ moderation policies__
 
+## Category to which it belongs
+
+* [Government actions and regulations addressing various aspects of society, including policy changes, ethical frameworks, governance mechanisms, and public announcements.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_216.md)
+
 ## Closest similar item
 
 * [moderation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3915.md)

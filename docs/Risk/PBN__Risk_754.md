@@ -2,9 +2,9 @@
 
 # __Social, spatial, and economic inequalities exacerbated by COVID-19__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Addressing disparities between territories and social groups](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1044.md)
+* [The far-reaching consequences of COVID-19 include its transmission through various settings, impact on urban areas, and scarcity of resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Wide-ranging impacts of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_363.md)
 * [Limited understanding of the spread and impact of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2985.md)
 * [Spatial spillover effects of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_140.md)
+
+## Mitigations of this risk
+
+* [Addressing disparities between territories and social groups](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1044.md)
 

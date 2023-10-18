@@ -2,9 +2,9 @@
 
 # __communal lounge areas in apartment designs__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q475018](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q475018.md)
+* [Design and construction professionals use innovative techniques and strategies to create adaptable, sustainable, and inclusive buildings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_217.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [designated social spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3051.md)
 * [design of safe and social spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1739.md)
 * [green spaces in residential areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_120.md)
+
+## This Technology is identified by the following QID
+
+* [Q475018](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q475018.md)
 

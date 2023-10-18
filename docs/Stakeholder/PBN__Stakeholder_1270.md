@@ -2,13 +2,13 @@
 
 # __individuals with respiratory conditions__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q3286546](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3286546.md)
+* [Especially susceptible individuals, such as allergy sufferers, those with weakened immune systems, and individuals with respiratory conditions, are at higher risk.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_388.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Air Pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1879.md)
 
 ## Closest similar item
 
@@ -23,11 +23,15 @@
 * [particularly those with respiratory conditions or weakened immune systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_813.md)
 * [Particularly those with respiratory conditions or weakened immune systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2371.md)
 
-## Risk affecting this stakeholder
-
-* [Air Pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1879.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Health and Well-being](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_94.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q3286546](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3286546.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 

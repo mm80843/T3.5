@@ -2,9 +2,9 @@
 
 # __community-based vaccination campaigns__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q70477194](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q70477194.md)
+* [Advancements in molecular biology, diagnostics, vaccines, antiviral technologies, and disease surveillance for pathogen detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_223.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [vaccination distribution systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3892.md)
 * [vaccine distribution to vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_593.md)
 * [public health campaigns to promote reliable information](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1438.md)
+
+## This Technology is identified by the following QID
+
+* [Q70477194](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q70477194.md)
 

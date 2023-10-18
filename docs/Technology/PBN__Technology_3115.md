@@ -2,9 +2,9 @@
 
 # __advanced air distribution systems__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Advanced Air Distribution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_283.md)
+* [Improved air quality can be achieved through the use of various technologies such as air purifiers and monitoring systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_221.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2353.md)
 * [air purifiers and ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_425.md)
 * [advanced ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1294.md)
+
+## This Technology enables the following mitigations
+
+* [Advanced Air Distribution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_283.md)
 

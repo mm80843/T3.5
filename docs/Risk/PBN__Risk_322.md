@@ -2,9 +2,9 @@
 
 # __Complexity and lack of interoperability in EHR systems__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Blockchain-enabled system for EHR exchange](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_401.md)
+* [Limited monitoring, technical limitations, language barriers, expensive optimization, lack of connection with nature, and limited sensor diversity hinder effective response and resource allocation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_107.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of ontology openness and interoperability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_38.md)
 * [Lack of standardised measurement protocol for IEQ](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_567.md)
 * [Overburdened healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2740.md)
+
+## Mitigations of this risk
+
+* [Blockchain-enabled system for EHR exchange](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_401.md)
 

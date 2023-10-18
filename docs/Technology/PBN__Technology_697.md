@@ -2,9 +2,9 @@
 
 # __digital payment systems__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q986008](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q986008.md)
+* [The digital revolution encompasses various aspects, from online promotion to contactless payment systems and virtual learning platforms.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_190.md)
 
 ## Risks linked to this technology
 
@@ -25,4 +25,8 @@
 * [mobile payment technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3916.md)
 * [digital marketplaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_910.md)
 * [mobile payment applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4436.md)
+
+## This Technology is identified by the following QID
+
+* [Q986008](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q986008.md)
 

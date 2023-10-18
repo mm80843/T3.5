@@ -2,13 +2,9 @@
 
 # __Robot-assisted temperature measurement__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Transmission via close contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_73.md)
-
-## Property: has_MitigationBenefit
-
-* [Efficient screening](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_102.md)
+* [Optimize indoor environments, regulate temperature and humidity, control air quality, and extend HVAC system operations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_341.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Regular calibration, sensor redundancy, and remote diagnostics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1692.md)
 * [Infrared thermal imaging](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_403.md)
 * [Implement cooling systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1079.md)
+
+## Property: has_MitigationBenefit
+
+* [Efficient screening](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_102.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Transmission via close contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_73.md)
 

@@ -2,9 +2,9 @@
 
 # __Limit or cancel rotations between different sites, even within the same institution.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Limited Rotations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1263.md)
+* [Implementing a comprehensive package of measures to ensure the smooth functioning and safety of essential services and activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_6.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Shift controls (occupancy control of total users)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3194.md)
 * [Implement novel techniques such as flipped classrooms, video lectures, and teleconferencing.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1741.md)
 * [Limiting access nodes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_321.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limited Rotations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1263.md)
 

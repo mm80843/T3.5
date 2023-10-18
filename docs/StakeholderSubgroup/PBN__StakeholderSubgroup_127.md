@@ -2,15 +2,9 @@
 
 # __Community Leaders/Organizers__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [community stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2444.md)
-* [community stakeholder](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2445.md)
-* [community leaders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_606.md)
-* [Community Stakeholder](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2470.md)
-* [community organizers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1555.md)
-* [community organizer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2466.md)
-* [community leader](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2446.md)
+* [Collective networks supporting and advocating for underrepresented communities and fostering social engagement and welfare.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_260.md)
 
 ## Closest similar item
 
@@ -24,4 +18,14 @@
 * [Gardening Clubs/Members](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_140.md)
 * [City Officials and Administrators](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_4.md)
 * [General Community](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_139.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [community stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2444.md)
+* [community stakeholder](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2445.md)
+* [community leaders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_606.md)
+* [Community Stakeholder](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2470.md)
+* [community organizers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1555.md)
+* [community organizer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2466.md)
+* [community leader](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2446.md)
 

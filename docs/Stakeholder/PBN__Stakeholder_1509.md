@@ -2,9 +2,9 @@
 
 # __visitors to green areas__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Lack of detailed analysis on visitors’ attributes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2248.md)
+* [Foreign nationals residing in or visiting various destinations for tourism, with a focus on travelers during the pandemic and the industries reliant on tourism, such as hotels, tourism operators, and tourism boards.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_380.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [people living near poorly maintained green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_570.md)
 * [People living near poorly maintained green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2401.md)
 * [individuals with limited access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_803.md)
+
+## Risk affecting this stakeholder
+
+* [Lack of detailed analysis on visitors’ attributes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2248.md)
 

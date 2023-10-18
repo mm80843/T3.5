@@ -2,13 +2,9 @@
 
 # __Inclusion of COVID-19 prevention and mitigation information in the mobile application using web scraping__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Incomplete COVID-19 prevention and mitigation information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_836.md)
-
-## Property: has_MitigationBenefit
-
-* [Access to updated and comprehensive mitigation information](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1140.md)
+* [Implement comprehensive strategies to control virus transmission, improve surveillance, develop antiviral coatings, and enhance infection control measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_309.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Wearable devices for the detection of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1424.md)
 * [Developing a COVID-19 dashboard](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_813.md)
 * [Develop algorithms and models that can accurately differentiate COVID-19 from other viral infections based on physiological data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1558.md)
+
+## Property: has_MitigationBenefit
+
+* [Access to updated and comprehensive mitigation information](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1140.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Incomplete COVID-19 prevention and mitigation information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_836.md)
 

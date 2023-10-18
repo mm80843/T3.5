@@ -2,16 +2,9 @@
 
 # __newcastle urban observatory__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Data security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1536.md)
-* [Data quality and reliability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1535.md)
-* [Lack of understanding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1537.md)
-* [Limited accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1534.md)
-
-## Risk affecting this stakeholder
-
-* [Data security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1536.md)
+* [Areas inhabited by people in cities, focusing on residents, professionals, researchers, decision-makers, and institutions involved in urban planning and development.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_376.md)
 
 ## Closest similar item
 
@@ -25,4 +18,15 @@
 * [urban](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1527.md)
 * [city councils](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_800.md)
 * [high-density urban area](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1890.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Data security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1536.md)
+* [Data quality and reliability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1535.md)
+* [Lack of understanding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1537.md)
+* [Limited accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1534.md)
+
+## Risk affecting this stakeholder
+
+* [Data security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1536.md)
 

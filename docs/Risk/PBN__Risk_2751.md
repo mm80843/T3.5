@@ -2,9 +2,9 @@
 
 # __Crowding and close contact__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Occupancy Limitations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_808.md)
+* [Dense urban environments face challenges with population growth, inequality, biodiversity, mobility, and poor housing conditions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_105.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Increased risk from close contact, reduced social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2777.md)
 * [Insufficient crowd management measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1681.md)
 * [Reduced human contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3380.md)
+
+## Mitigations of this risk
+
+* [Occupancy Limitations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_808.md)
 

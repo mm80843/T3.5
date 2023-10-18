@@ -2,9 +2,9 @@
 
 # __use digital management systems to track maintenance tasks and ensure timely completion__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1122495](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1122495.md)
+* [The digital revolution encompasses various aspects, from online promotion to contactless payment systems and virtual learning platforms.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_190.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Maintenance equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2362.md)
 * [routine maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4254.md)
 * [maintenance and inspection protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1184.md)
+
+## This Technology is identified by the following QID
+
+* [Q1122495](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1122495.md)
 

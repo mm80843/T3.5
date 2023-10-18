@@ -2,8 +2,9 @@
 
 # __Perceived restorativeness scale__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Promoting equality, understanding nature, norms, perceived usefulness, and fostering social interactions for positive societal change.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_175.md)
 
 ## Closest similar item
 
@@ -18,14 +19,17 @@
 * [Descriptive social norms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2273.md)
 * [Facilitate response diversity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2057.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Using a scale to measure the perceived restorativeness of a green space, which contributes to mental restoration and well-being.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Green infrastructure through the lens of “One Health”: A systematic review and integrative framework uncovering synergies and trade-offs between mental health and wildlife support in cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_150.md)
+
+## This Mitigation is enabled by the following technologies
+
 

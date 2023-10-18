@@ -2,6 +2,10 @@
 
 # __Meta-synthesis of COVID-19 lessons: charting sustainable management of future pandemics__
 
+## DOI of the article
+
+10.1080/12265934.2021.1936136
+
 ## Referenced by other articles
 
 * [COVID-19: Lessons for an Urban(izing) World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_85.md)
@@ -12,10 +16,6 @@
 * [Digital technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_278.md)
 * [The impact of COVID-19 and strategies for mitigation and suppression in low- and middle-income countries](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_65.md)
 * [Local response in health emergencies: key considerations for addressing the COVID-19 pandemic in informal urban settlements](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_36.md)
-
-## DOI of the article
-
-10.1080/12265934.2021.1936136
 
 ## Title of the article
 

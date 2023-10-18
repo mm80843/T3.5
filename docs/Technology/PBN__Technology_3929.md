@@ -2,9 +2,9 @@
 
 # __wireless sensors__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Wireless Sensor Networks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1579.md)
+* [Advanced monitoring systems and sensor integration for IoT devices and biosensor technology facilitate environmental monitoring and facility usage tracking.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_229.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3150.md)
 * [wireless communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3174.md)
 * [iot sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3790.md)
+
+## This Technology enables the following mitigations
+
+* [Wireless Sensor Networks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1579.md)
 

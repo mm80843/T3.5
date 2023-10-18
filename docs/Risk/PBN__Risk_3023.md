@@ -2,9 +2,9 @@
 
 # __Poor filtration efficiency__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_214.md)
+* [Insufficient air filtration, lack of evidence synthesis, shortages of protective equipment, and ineffective filtration highlight the concerns.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_135.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Insufficient filtration of airborne particles](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3055.md)
 * [Low efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2601.md)
 * [Inadequate wastewater treatment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1949.md)
+
+## Mitigations of this risk
+
+* [Filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_214.md)
 

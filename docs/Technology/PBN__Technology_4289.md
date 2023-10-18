@@ -2,10 +2,9 @@
 
 # __waste separation__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Proper waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_346.md)
-* [Solid waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2162.md)
+* [Improvements in wastewater, waste management, sanitation, water purification, and plumbing technologies aim for sustainable and efficient infrastructure development.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_234.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [solid waste management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3664.md)
 * [waste management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3440.md)
 * [specialized waste treatment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1052.md)
+
+## This Technology enables the following mitigations
+
+* [Proper waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_346.md)
+* [Solid waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2162.md)
 

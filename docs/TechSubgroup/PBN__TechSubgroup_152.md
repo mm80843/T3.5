@@ -2,11 +2,9 @@
 
 # __Crowd Management__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [contactless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1837.md)
-* [crowd management technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_547.md)
-* [officer assistance at project sites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_885.md)
+* [Efficiently handling the size and flow of people in order to maintain safety and order.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_48.md)
 
 ## Closest similar item
 
@@ -20,4 +18,10 @@
 * [Workforce and Resource Management Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_110.md)
 * [Data Management and Communication Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_18.md)
 * [Public Awareness Campaigns and Communication Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_49.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [contactless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1837.md)
+* [crowd management technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_547.md)
+* [officer assistance at project sites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_885.md)
 

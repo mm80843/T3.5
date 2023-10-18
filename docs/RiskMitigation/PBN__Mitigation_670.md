@@ -2,8 +2,9 @@
 
 # __Adaptive hospital surveillance-based triggers__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Advanced monitoring and tracking technology for remote supervision, surveillance, and contactless delivery in healthcare settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_154.md)
 
 ## Closest similar item
 
@@ -18,14 +19,17 @@
 * [Augmented surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_242.md)
 * [Remote monitoring of patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1173.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Use hospital surveillance data to determine when to initiate or relax social distancing measures and school closure
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Report 9: Impact of non-pharmaceutical interventions (NPIs) to reduce COVID19 mortality and healthcare demand](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_80.md)
+
+## This Mitigation is enabled by the following technologies
+
 

@@ -2,9 +2,9 @@
 
 # __qr code scanner__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [QR code check-in](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_828.md)
+* [Advancements in biotechnology, clinical research, and innovative therapies contribute to the development of medical solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [improved rt-qpcr assays and sequencing techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_58.md)
 * [Improved RT-qPCR assays and sequencing techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2787.md)
 * [dna analyzer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4430.md)
+
+## This Technology enables the following mitigations
+
+* [QR code check-in](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_828.md)
 

@@ -2,13 +2,9 @@
 
 # __Continuous monitoring__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Wastewater collection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_717.md)
-
-## Property: has_MitigationBenefit
-
-* [Prevention of clogs](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1004.md)
+* [Enhanced surveillance, monitoring, and real-time tracking for improved control and response to various situations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_312.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Cloud-based remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_499.md)
 * [Vigilant maintenance of sensors and equipment, use statistical techniques for data validation.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2526.md)
 * [Continuous monitoring of energy demands and adaptive design of the built environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_548.md)
+
+## Property: has_MitigationBenefit
+
+* [Prevention of clogs](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1004.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Wastewater collection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_717.md)
 

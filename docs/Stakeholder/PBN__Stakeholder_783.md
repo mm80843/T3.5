@@ -2,9 +2,9 @@
 
 # __radiologists__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Imaging Limitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1267.md)
+* [Various individuals in the healthcare industry, including epidemiologists, medical personnel, clinicians, surgeons, and patients in need of medical care.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_360.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
 * [clinicians](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_274.md)
 * [medical laboratories](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1580.md)
+
+## Risk affecting this stakeholder
+
+* [Imaging Limitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1267.md)
 

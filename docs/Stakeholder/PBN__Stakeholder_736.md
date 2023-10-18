@@ -2,13 +2,9 @@
 
 # __car-sharing companies__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q847201](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q847201.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+* [These companies span a wide array of industries, including renewable energy, construction, pharmaceuticals, logistics, and technology.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_387.md)
 
 ## Closest similar item
 
@@ -23,11 +19,19 @@
 * [households without cars](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_735.md)
 * [insurance companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_358.md)
 
+## Risks that can be mitigated by this stakeholder
+
+* [Lack of access to private car](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1219.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Transportation](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_63.md)
 
-## Risks that can be mitigated by this stakeholder
+## This Stakeholder is identified by the following QID
 
-* [Lack of access to private car](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1219.md)
+* [Q847201](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q847201.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 

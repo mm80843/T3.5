@@ -2,9 +2,9 @@
 
 # __Unknown infected populations__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Fast analytical test methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_509.md)
+* [The dissemination of infectious diseases, characterized by outbreaks from various sources, inadequate preparedness, and insufficient reporting and understanding, poses a global threat.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_106.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Disease outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_161.md)
 * [Family clusters of infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2645.md)
 * [Unknown infection status](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3005.md)
+
+## Mitigations of this risk
+
+* [Fast analytical test methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_509.md)
 

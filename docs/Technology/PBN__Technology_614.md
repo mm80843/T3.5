@@ -2,12 +2,9 @@
 
 # __governments__
 
-## Risks linked to this technology
+## Category to which it belongs
 
-* [Insufficient social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2145.md)
-* [Lack of equitable access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1712.md)
-* [Inconsistent implementation of interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1393.md)
-* [Vulnerability to COVID-19 in LMICs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1709.md)
+* [Government actions and regulations addressing various aspects of society, including policy changes, ethical frameworks, governance mechanisms, and public announcements.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_216.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [government intervention](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3561.md)
 * [government legislation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4097.md)
 * [open government mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_282.md)
+
+## Risks linked to this technology
+
+* [Insufficient social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2145.md)
+* [Lack of equitable access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1712.md)
+* [Inconsistent implementation of interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1393.md)
+* [Vulnerability to COVID-19 in LMICs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1709.md)
 

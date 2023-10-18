@@ -2,9 +2,9 @@
 
 # __Conduct research to gather data on virus behavior and characteristics__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of historical data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1750.md)
+* [Implement comprehensive strategies to control virus transmission, improve surveillance, develop antiviral coatings, and enhance infection control measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_309.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Research and development of antiviral technologies that are effective against a wider range of viruses.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2038.md)
 * [Develop standardized protocols for detecting and quantifying the virus in wastewater, use waste-based epidemiology method for early warning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1598.md)
 * [Developing effective virus concentration methods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_992.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of historical data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1750.md)
 

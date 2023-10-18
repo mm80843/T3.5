@@ -2,13 +2,9 @@
 
 # __Monitoring changes in environmental and climatic conditions__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Globalization and environmental change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_736.md)
-
-## Property: has_MitigationBenefit
-
-* [Early detection of disease outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1015.md)
+* [Enhanced surveillance, monitoring, and real-time tracking for improved control and response to various situations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_312.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Enhanced monitoring and control efforts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_664.md)
 * [Indoor humidity monitoring and control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_258.md)
 * [Remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1003.md)
+
+## Property: has_MitigationBenefit
+
+* [Early detection of disease outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1015.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Globalization and environmental change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_736.md)
 

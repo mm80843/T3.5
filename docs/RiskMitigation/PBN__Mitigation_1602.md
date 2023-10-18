@@ -2,10 +2,9 @@
 
 # __Psychosocial support__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
-* [social and mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3942.md)
+* [Promoting well-being and resilience through various forms of support, resources, and assistance for individuals in need.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_143.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Provide mental health support, access to accurate information, and social support.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4112.md)
 * [Provide adequate psychological services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4113.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Emotional distress, unhealthy behaviors, noncompliance with public health directives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3155.md)
-
 ## Property: has_MitigationPrinciple
 
 Monitor psychosocial needs, deliver support, link to services, encourage open discussions
 
+## Risks possibly mitigated by this Mitigation
+
+* [Emotional distress, unhealthy behaviors, noncompliance with public health directives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3155.md)
+
 ## Property: has_MitigationSource
 
 * [Mental Health and the Covid-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_167.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
+* [social and mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3942.md)
 

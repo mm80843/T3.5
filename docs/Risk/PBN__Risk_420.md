@@ -2,9 +2,9 @@
 
 # __Lack of protective suits and resources__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Adoption of emerging technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_583.md)
+* [Insufficient awareness, limited resources, inadequate communication, and lack of preparedness contribute to various challenges and deficiencies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_118.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of protection for staff](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1171.md)
 * [Lack of personal protective equipment and professional training in family members](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2705.md)
 * [Shortages of protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_478.md)
+
+## Mitigations of this risk
+
+* [Adoption of emerging technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_583.md)
 

@@ -2,13 +2,9 @@
 
 # __Supply chain management for healthcare__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Negative impact on supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_23.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved supply chain efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_37.md)
+* [Promote flexibility and resilience in supply chains through diversification, local production, and proactive strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_320.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Increase healthcare capacity, ensure availability of medical supplies and equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1456.md)
 * [Material supply chain](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_579.md)
 * [Provide relief measures and financial support to manufacturing businesses, explore alternative supply chains](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2394.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved supply chain efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_37.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Negative impact on supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_23.md)
 

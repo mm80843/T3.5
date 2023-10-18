@@ -2,9 +2,9 @@
 
 # __fifth-generation wireless networks__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Tele-response Bots](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1444.md)
+* [Enhanced connectivity and diverse communication platforms enable the dissemination of reliable information and promote open communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_225.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [small cell networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4157.md)
 * [internet and wi-fi networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3273.md)
 * [wireless data transmission](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_645.md)
+
+## This Technology enables the following mitigations
+
+* [Tele-response Bots](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1444.md)
 

@@ -2,13 +2,9 @@
 
 # __Thrombotomodulin__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Tissue tropism](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_428.md)
-
-## Property: has_MitigationBenefit
-
-* [Thrombotic complications](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_594.md)
+* [Efforts include RNA monitoring, occupant exposure modeling, targeted messages, adoption of principles, copper coating, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_311.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [ACE2 and TMPRSS2 inhibitors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_595.md)
 * [Virtual reality-based therapy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2740.md)
 * [Using wearables to manage symptoms and identify overexertion in individuals with long COVID](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_949.md)
+
+## Property: has_MitigationBenefit
+
+* [Thrombotic complications](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_594.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Tissue tropism](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_428.md)
 

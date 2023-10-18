@@ -2,9 +2,9 @@
 
 # __ai and machine learning for data processing and modeling__
 
-## Risks linked to this technology
+## Category to which it belongs
 
-* [Limited information for policy decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1489.md)
+* [Advanced technologies and algorithms for modeling, simulation, optimization, and artificial intelligence in various applications, including robotics and computational fluid dynamics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_239.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [AI and machine learning for gene analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2061.md)
 * [advanced data analysis algorithms and machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_173.md)
 * [Advanced data analysis algorithms and machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2098.md)
+
+## Risks linked to this technology
+
+* [Limited information for policy decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1489.md)
 

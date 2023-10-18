@@ -2,9 +2,9 @@
 
 # __Implement policies to stabilize oil prices, explore alternative forms of energy__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Disruption in petroleum and oil industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1809.md)
+* [Promote sustainable development through infrastructure investments, training, diversification, financial support, and government partnerships.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_315.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement renewable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2881.md)
 * [Analyze and adjust energy contracts based on actual energy demand](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1373.md)
 * [Implement demand response programs, incentivize load shifting and energy conservation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1713.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Disruption in petroleum and oil industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1809.md)
 

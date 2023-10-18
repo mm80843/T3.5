@@ -2,9 +2,9 @@
 
 # __Sealing of pipes__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [sealing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4352.md)
+* [Spatial separation, closure, containment, barrier implementation, and control of movements to prevent the spread of infection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_150.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Enhanced cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_820.md)
 * [Proper cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1429.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Virus propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1032.md)
-
 ## Property: has_MitigationPrinciple
 
 Ensure a good level of sealing of pipes to limit virus propagation at the household level
 
+## Risks possibly mitigated by this Mitigation
+
+* [Virus propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1032.md)
+
 ## Property: has_MitigationSource
 
 * [How to Make Green Building Certification \& Rating Systems More Pandemic-Sustainable?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_172.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [sealing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4352.md)
 

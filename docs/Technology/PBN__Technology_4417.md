@@ -2,13 +2,9 @@
 
 # __digital integration__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Non-contact interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2331.md)
-* [Virtualization of public services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2332.md)
-* [Composite space service facilities planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2333.md)
-* [Configuration of community service facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2334.md)
-* [Integration of physical and virtual space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2335.md)
+* [The digital revolution encompasses various aspects, from online promotion to contactless payment systems and virtual learning platforms.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_190.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Digital management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2048.md)
 * [digitalization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3227.md)
 * [digital tools and technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3528.md)
+
+## This Technology enables the following mitigations
+
+* [Non-contact interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2331.md)
+* [Virtualization of public services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2332.md)
+* [Composite space service facilities planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2333.md)
+* [Configuration of community service facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2334.md)
+* [Integration of physical and virtual space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2335.md)
 

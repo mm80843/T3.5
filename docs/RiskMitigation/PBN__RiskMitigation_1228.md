@@ -2,13 +2,9 @@
 
 # __Accessible green spaces__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Increased recreational activity during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_889.md)
-
-## Property: has_MitigationBenefit
-
-* [Increased mental and physical health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1222.md)
+* [Promote the integration of natural elements and communal areas, enhance accessibility and quality, and foster positive perception and functionality of public and private green and outdoor spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_331.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Provide access to nature and green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_886.md)
 * [Increase in the number and accessibility of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_982.md)
 * [Encourage utilization of private green spaces, create guidelines for safe access, facilitate use of nearby green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2766.md)
+
+## Property: has_MitigationBenefit
+
+* [Increased mental and physical health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1222.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Increased recreational activity during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_889.md)
 

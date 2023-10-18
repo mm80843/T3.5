@@ -2,9 +2,9 @@
 
 # __Complex modeling techniques incorporating variables such as excretion patterns__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
-* [Biotechnological Techniques and Devices](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_29.md)
+* [Improvements in wastewater, waste management, sanitation, water purification, and plumbing technologies aim for sustainable and efficient infrastructure development.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_234.md)
 
 ## Closest similar item
 
@@ -19,11 +19,15 @@
 * [statistical modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3724.md)
 * [integrated care models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4079.md)
 
-## This Technology belongs to this TechGroup
-
-* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
-
 ## This Technology is identified by the following QID
 
 * [Q17143560](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q17143560.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Biotechnological Techniques and Devices](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_29.md)
+
+## This Technology belongs to this TechGroup
+
+* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
 

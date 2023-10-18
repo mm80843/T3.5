@@ -2,13 +2,9 @@
 
 # __Improved controls for monitoring virus recovery efficiency__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Spread of SARS-CoV-2 through sewage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced accuracy of quantification](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_6.md)
+* [Implement comprehensive strategies to control virus transmission, improve surveillance, develop antiviral coatings, and enhance infection control measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_309.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Infection tracking / monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3121.md)
 * [Improve wastewater treatment and disinfection processes, monitor wastewater for viral fragments](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2273.md)
 * [Improve detection methods and adjust decay kinetics for accurate estimation of virus prevalence in wastewater samples.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1962.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced accuracy of quantification](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_6.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of SARS-CoV-2 through sewage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1.md)
 

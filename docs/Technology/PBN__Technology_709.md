@@ -2,9 +2,9 @@
 
 # __improved detection methods__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q5720030](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5720030.md)
+* [Enhanced monitoring and surveillance technologies enable real-time tracking, video conferencing, and improved detection methods.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_214.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Enhanced surveillance and monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2543.md)
 * [identification and surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1705.md)
 * [Identification and surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2472.md)
+
+## This Technology is identified by the following QID
+
+* [Q5720030](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5720030.md)
 

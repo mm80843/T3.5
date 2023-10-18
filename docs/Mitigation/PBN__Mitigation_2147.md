@@ -2,10 +2,9 @@
 
 # __Urban/community farming__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [apartment-level farming](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4267.md)
-* [community-level farming](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4268.md)
+* [Promoting community involvement and awareness through various initiatives such as education programs, engagement campaigns, and urban farming.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_142.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Invest in agricultural technology, promote sustainable farming practices.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4303.md)
 * [Supporting local communities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4304.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Food supply disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3356.md)
-
 ## Property: has_MitigationPrinciple
 
 Implement urban/community farming to ensure a local and sustainable food supply
 
+## Risks possibly mitigated by this Mitigation
+
+* [Food supply disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3356.md)
+
 ## Property: has_MitigationSource
 
 * [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [apartment-level farming](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4267.md)
+* [community-level farming](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4268.md)
 

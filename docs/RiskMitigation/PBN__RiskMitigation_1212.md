@@ -2,13 +2,9 @@
 
 # __Reduce costs of compliance__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Non-compliance with COVID-19 mitigation measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_885.md)
-
-## Property: has_MitigationBenefit
-
-* [Increased compliance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1214.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Public awareness campaigns, strict enforcement of rules, penalties for non-compliance.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2770.md)
 * [Coordinate and align policies across states, improve public education and communication on compliance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2361.md)
 * [Mitigation measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1290.md)
+
+## Property: has_MitigationBenefit
+
+* [Increased compliance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1214.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Non-compliance with COVID-19 mitigation measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_885.md)
 

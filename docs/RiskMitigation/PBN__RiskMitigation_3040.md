@@ -2,9 +2,9 @@
 
 # __Implement wastewater treatment processes to effectively remove SARS-CoV-2 RNA from wastewater.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Presence of SARS-CoV-2 RNA in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2338.md)
+* [Efforts to study, detect, and control the spread of SARS-CoV-2 in various environments and populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_353.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Development and implementation of standardized protocols and assays for SARS-CoV-2 detection in environmental samples can ensure consistency and comparability of data.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2167.md)
 * [Improve wastewater treatment and disinfection processes, monitor wastewater for viral fragments](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2273.md)
 * [Validate and optimize PCR assays to ensure accurate detection of SARS-CoV-2 genetic material.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3041.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Presence of SARS-CoV-2 RNA in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2338.md)
 

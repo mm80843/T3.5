@@ -2,6 +2,10 @@
 
 # __Air Sensors__
 
+## Category to which it belongs
+
+* [Improved air quality can be achieved through the use of various technologies such as air purifiers and monitoring systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_221.md)
+
 ## Closest similar item
 
 * [air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_432.md)

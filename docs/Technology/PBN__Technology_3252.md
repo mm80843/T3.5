@@ -2,9 +2,9 @@
 
 # __portable air filters__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Portable air filters with UV sterilisation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_472.md)
+* [Various systems and technologies that purify and clean the air, including air filters, HEPA filters, and filtration systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_198.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [portable air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2704.md)
 * [high-efficiency particulate air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1743.md)
 * [High-efficiency particulate air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2712.md)
+
+## This Technology enables the following mitigations
+
+* [Portable air filters with UV sterilisation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_472.md)
 

@@ -2,9 +2,9 @@
 
 # __individuals facing eviction__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Access to Legal Representation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1187.md)
+* [Individuals and communities experiencing socioeconomic disparities, economic hardship, housing instability, and social disadvantage.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_393.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [landlord](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1999.md)
 * [individuals living in close proximity to neighbours during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1059.md)
 * [individuals living in apartments without outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_827.md)
+
+## Risk affecting this stakeholder
+
+* [Access to Legal Representation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1187.md)
 

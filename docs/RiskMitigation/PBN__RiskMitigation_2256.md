@@ -2,9 +2,9 @@
 
 # __Provide hot water for cleaning, implement proper decontamination and waste disposal protocols.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of biosecurity measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1698.md)
+* [Promote environmentally-friendly waste management, sanitation, and maintenance practices, including rodent control, decontamination, and segregation of waste.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_340.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Establish cleaning protocols, use effective disinfectants, and promote proper hygiene practices.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2636.md)
 * [Develop and implement regular cleaning and disinfection protocols, provide proper training and resources.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2107.md)
 * [Implement thorough and regular cleaning and disinfection protocols, use effective cleaning products, and train cleaning staff on proper techniques.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3108.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of biosecurity measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1698.md)
 

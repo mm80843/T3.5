@@ -2,9 +2,9 @@
 
 # __Need for improved detection methods__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Integration of new technologies (digital PCR, CSRPP, LOC/POC, biosensors)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_878.md)
+* [The challenges include inadequate testing capacity, slow identification of cases, limited evidence, and variability in PCR methods.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_140.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Limited Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2486.md)
 * [Inadequate surveillance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2355.md)
 * [Inaccurate identification and tracking of infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2035.md)
+
+## Mitigations of this risk
+
+* [Integration of new technologies (digital PCR, CSRPP, LOC/POC, biosensors)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_878.md)
 

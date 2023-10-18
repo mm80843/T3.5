@@ -2,9 +2,9 @@
 
 # __vertical farming__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Urban Farming](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1691.md)
+* [Urban green space solutions include tree planting, zoning regulations, landscape architecture, community gardens, outdoor furniture, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_231.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [sustainable farming practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1507.md)
 * [landscape ground](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4242.md)
 * [precision agriculture technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1246.md)
+
+## This Technology enables the following mitigations
+
+* [Urban Farming](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1691.md)
 

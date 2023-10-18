@@ -2,9 +2,9 @@
 
 # __Natural ventilation__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
-* [Physical Health Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_59.md)
+* [Improved ventilation and air purification methods are implemented, incorporating natural and mechanical systems, upgraded technologies, regular maintenance, and smart controls.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_200.md)
 
 ## Closest similar item
 
@@ -19,12 +19,16 @@
 * [Mechanical and natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2690.md)
 * [use of outdoor air and natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_677.md)
 
+## This Technology is identified by the following QID
+
+* [Q1427418](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1427418.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Physical Health Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_59.md)
+
 ## This Technology belongs to this TechGroup
 
 * [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 * [Indoor air technlogies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_18.md)
-
-## This Technology is identified by the following QID
-
-* [Q1427418](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1427418.md)
 

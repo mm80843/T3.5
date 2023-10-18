@@ -6,6 +6,10 @@
 
 * [Optimal compromise](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_706.md)
 
+## Category to which it belongs
+
+* [Local enterprises and establishments, encompassing various sectors, sizes, and ownership types.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_381.md)
+
 ## Closest similar item
 
 * [private businesses and economy](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_290.md)

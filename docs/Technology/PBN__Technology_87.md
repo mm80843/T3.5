@@ -2,9 +2,9 @@
 
 # __incentives for energy conservation__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q5377219](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5377219.md)
+* [Improved and energy-efficient HVAC systems, along with advanced technologies, for efficient energy management and environmental control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_227.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [energy-saving tips](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_86.md)
 * [energy-efficient technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2312.md)
 * [monetary incentives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3722.md)
+
+## This Technology is identified by the following QID
+
+* [Q5377219](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5377219.md)
 

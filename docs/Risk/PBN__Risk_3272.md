@@ -2,9 +2,9 @@
 
 # __Contaminated blood supply__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Improved Blood Safety Practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1862.md)
+* [The widespread presence and transfer of harmful pathogens and contaminants on various surfaces and environments pose serious risks to public health and the ecosystem.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_100.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Contamination and exposure to pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2712.md)
 * [Environmental contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_923.md)
 * [Pathogen contamination in hospital environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_220.md)
+
+## Mitigations of this risk
+
+* [Improved Blood Safety Practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1862.md)
 

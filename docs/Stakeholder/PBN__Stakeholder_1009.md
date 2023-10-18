@@ -2,9 +2,9 @@
 
 # __electric utilities__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Shift in energy consumption behavior](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1566.md)
+* [Entities and individuals who interact with or are affected by a system, organization, or public facility.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_1.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [energy providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_746.md)
 * [energy provider](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2022.md)
 * [water utility](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2666.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Shift in energy consumption behavior](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1566.md)
 

@@ -2,9 +2,9 @@
 
 # __Workplace transformation__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Adaptation to remote work technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2359.md)
+* [The impact of various factors on the workforce, including job insecurity, changes in work schedules, unemployment, and decreased productivity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_4.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Increased transportation and contact in workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2883.md)
 * [Cultural change in remote working](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_504.md)
 * [Impact on future workforce](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_503.md)
+
+## Mitigations of this risk
+
+* [Adaptation to remote work technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2359.md)
 

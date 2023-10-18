@@ -2,9 +2,9 @@
 
 # __Adversity facing innovative startups during lockdown__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Purposeful bricolage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_784.md)
+* [Lockdowns exacerbate social inequalities, limit access to green spaces, shift energy demands, cause delays, and impact mental health.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_102.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Social inequalities exacerbated by lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_13.md)
 * [Mental health issues due to extended lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_729.md)
 * [Shifts in energy demands for the building sector during lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_391.md)
+
+## Mitigations of this risk
+
+* [Purposeful bricolage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_784.md)
 

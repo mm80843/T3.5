@@ -2,9 +2,9 @@
 
 # __Robustness of Critical Infrastructure__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [resilient design principles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4304.md)
+* [Optimizing the global trade network and supply chains through decentralization, cost concern, and integrated management, while promoting resilience and equity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_146.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Resilient Approach](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2186.md)
 * [Resilience Building](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1026.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Threat events](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3364.md)
-
 ## Property: has_MitigationPrinciple
 
 Critical infrastructure should have the ability to withstand any kind of disturbance and not suffer degradation or loss of function. It should be able to perform despite challenges and absorb the impact of disruptive events.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Threat events](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3364.md)
+
 ## Property: has_MitigationSource
 
 * [Preparing critical infrastructure for the future: Lessons learnt from the Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_129.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [resilient design principles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4304.md)
 

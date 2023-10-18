@@ -2,9 +2,9 @@
 
 # __Increase in electricity usage during pandemic__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Home Energy Management Systems (HEMS)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_601.md)
+* [Issues related to energy use, including increased consumption, inefficient usage, and lack of understanding, have various implications in different settings and sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_133.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Limited resources for pandemic mitigation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_879.md)
 * [Global pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1437.md)
 * [Increased energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1252.md)
+
+## Mitigations of this risk
+
+* [Home Energy Management Systems (HEMS)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_601.md)
 

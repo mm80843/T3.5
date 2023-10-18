@@ -2,13 +2,9 @@
 
 # __Automated face recognition technology__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Contagious transmission in built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_323.md)
-
-## Property: has_MitigationBenefit
-
-* [Contactless identification](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_402.md)
+* [Advancements in bioinformatics, divestment, automated sample collection, and artificial intelligence are facilitating early disease detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_336.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Exploring new applications of wearables in healthcare, such as smart facemasks and biomarker detection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_953.md)
 * [Use of face masks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_698.md)
 * [Implementation of AI technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_463.md)
+
+## Property: has_MitigationBenefit
+
+* [Contactless identification](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_402.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Contagious transmission in built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_323.md)
 

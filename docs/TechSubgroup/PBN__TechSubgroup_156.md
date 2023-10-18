@@ -2,15 +2,9 @@
 
 # __Vector Control Methods__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [water treatment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_975.md)
-* [mosquito traps and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_979.md)
-* [improved water management and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_982.md)
-* [vector control methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_976.md)
-* [larvicide treatments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_978.md)
-* [auto-dissemination of insecticides](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_980.md)
-* [toxic baited sugar traps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_981.md)
+* [Effective strategies for managing and preventing the spread of disease through manipulation of vectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_54.md)
 
 ## Closest similar item
 
@@ -24,4 +18,14 @@
 * [Simulation and Forecasting Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_0.md)
 * [Software and Applications](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_122.md)
 * [Design Strategies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_104.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [water treatment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_975.md)
+* [mosquito traps and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_979.md)
+* [improved water management and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_982.md)
+* [vector control methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_976.md)
+* [larvicide treatments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_978.md)
+* [auto-dissemination of insecticides](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_980.md)
+* [toxic baited sugar traps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_981.md)
 

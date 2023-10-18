@@ -2,9 +2,9 @@
 
 # __Accumulation of water due to garbage__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Covering water containers and collecting garbage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_97.md)
+* [The challenges of urban water management include water contamination, waste management, inadequate water storage, and poor drainage.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_120.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Contaminated drainage systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2393.md)
 * [Inadequate water storage, poor sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2433.md)
 * [Wastewater collection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_717.md)
+
+## Mitigations of this risk
+
+* [Covering water containers and collecting garbage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_97.md)
 

@@ -2,9 +2,9 @@
 
 # __albedo control__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Re-appropriation of the basic principles and archetypes of sustainable architecture, thermal comfort and Indoor Air Quality (IAQ)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_498.md)
+* [Innovative lighting solutions harnessing ultraviolet technology for optimal germicidal sterilization and energy efficiency, while maximizing natural light.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_235.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [ultraviolet irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1904.md)
 * [ultraviolet radiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3850.md)
 * [emission control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3616.md)
+
+## This Technology enables the following mitigations
+
+* [Re-appropriation of the basic principles and archetypes of sustainable architecture, thermal comfort and Indoor Air Quality (IAQ)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_498.md)
 

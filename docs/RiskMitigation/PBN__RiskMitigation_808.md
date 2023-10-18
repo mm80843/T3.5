@@ -2,12 +2,9 @@
 
 # __Artificial intelligence and machine learning__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-
-## Property: has_MitigationBenefit
-
-* [Predictive analytics](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_813.md)
+* [Advancements in bioinformatics, divestment, automated sample collection, and artificial intelligence are facilitating early disease detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_336.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [AI for diagnosis and screening](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_651.md)
 * [and models](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1241.md)
 * [AI for rapid identification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_650.md)
+
+## Property: has_MitigationBenefit
+
+* [Predictive analytics](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_813.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

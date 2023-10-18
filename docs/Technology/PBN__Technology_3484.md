@@ -2,9 +2,9 @@
 
 # __antimicrobial coating__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Continuously active antimicrobial coating](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_841.md)
+* [The implementation of various disinfection methods, improved cleaning and sanitization protocols, and the use of eco-friendly disinfectants and advanced technologies have been prioritized.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_199.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [antimicrobial paint](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3852.md)
 * [anti-microbial materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4237.md)
 * [anti-bacterial materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3444.md)
+
+## This Technology enables the following mitigations
+
+* [Continuously active antimicrobial coating](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_841.md)
 

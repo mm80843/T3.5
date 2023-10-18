@@ -2,13 +2,9 @@
 
 # __Comfort and efficiency__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Smart home automation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2159.md)
-* [Improved communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2160.md)
-* [Efficient home organization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2169.md)
-* [Remote workspaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2157.md)
-* [Improved internet connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2170.md)
+* [Limited physical/social distancing, thermal discomfort, poor lighting, and inadequate air quality negatively impact personal comfort.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_130.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Improved thermal comfort of occupants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_606.md)
 * [Poor thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1883.md)
 * [Energy Efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3251.md)
+
+## Mitigations of this risk
+
+* [Smart home automation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2159.md)
+* [Improved communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2160.md)
+* [Efficient home organization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2169.md)
+* [Remote workspaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2157.md)
+* [Improved internet connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2170.md)
 

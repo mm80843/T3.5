@@ -2,13 +2,13 @@
 
 # __Water sensors__
 
-## Property: has_TechEquivalent
-
-* [Water sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4533.md)
-
 ## Property: has_BP_EnablerTitle
 
 enabler_008
+
+## Category to which it belongs
+
+* [Liquid detectors that identify the presence and measure the level of water.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_67.md)
 
 ## Closest similar item
 
@@ -28,4 +28,8 @@ enabler_008
 * [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_17.md)
 * [Drinking Water Safety - Biofilm formation](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_21.md)
 * [Drinking Water Safety - Restoring water quality in buildings after forced closure](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_22.md)
+
+## Property: has_TechEquivalent
+
+* [Water sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4533.md)
 

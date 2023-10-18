@@ -2,13 +2,9 @@
 
 # __Procurement department__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q7260944](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7260944.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
+* [Various industries, businesses, and supply chain partners rely on suppliers and supply chain professionals for their products and services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_370.md)
 
 ## Closest similar item
 
@@ -26,4 +22,12 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Departments and Teams](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_26.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q7260944](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7260944.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
 

@@ -2,13 +2,9 @@
 
 # __Open green spaces in urban periphery__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Open green spaces in urban periphery providing resilience to public health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_893.md)
-
-## Property: has_MitigationBenefit
-
-* [Increased resilience to disease outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1226.md)
+* [Promote biodiversity and sustainable urban development through the establishment and accessibility of green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_322.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Ensure equitable distribution of urban green spaces by prioritizing underserved neighborhoods for green space development and improvement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2411.md)
 * [Accessible green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1228.md)
 * [Access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_747.md)
+
+## Property: has_MitigationBenefit
+
+* [Increased resilience to disease outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1226.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Open green spaces in urban periphery providing resilience to public health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_893.md)
 

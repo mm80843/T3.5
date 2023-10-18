@@ -2,13 +2,19 @@
 
 # __vulnerable communities__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q3376054](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3376054.md)
+* [All those involved in the management, access, and utilization of data in various communities and industries.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_358.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Disruption of global supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2265.md)
+* [Impact on developing countries](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_450.md)
+* [Inadequate public health systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2264.md)
+* [Effects on gender equality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2267.md)
+* [Unhealthy household environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_781.md)
+* [Climate change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_894.md)
+* [Fragmentation of employment services and training](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2270.md)
 
 ## Closest similar item
 
@@ -23,21 +29,19 @@
 * [communities in higher-risk areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_771.md)
 * [vulnerable populations (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_468.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder can get these Benefits from mitigation measures
 
-* [Disruption of global supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2265.md)
-* [Impact on developing countries](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_450.md)
-* [Inadequate public health systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2264.md)
-* [Effects on gender equality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2267.md)
-* [Unhealthy household environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_781.md)
-* [Climate change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_894.md)
-* [Fragmentation of employment services and training](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2270.md)
+* [Lower vulnerability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_32.md)
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Vulnerable Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_82.md)
 
-## This Stakeholder can get these Benefits from mitigation measures
+## This Stakeholder is identified by the following QID
 
-* [Lower vulnerability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_32.md)
+* [Q3376054](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3376054.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 

@@ -2,9 +2,9 @@
 
 # __Data collection and analysis limitations__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [IBEM](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_320.md)
+* [The challenges include disintegrated and non-interoperable data, limited data access, data quality issues, and lack of standardized data sharing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_111.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Limited data and sample size](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1661.md)
 * [Insufficient data for analysis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3206.md)
 * [Limited data collection in LMIC](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3052.md)
+
+## Mitigations of this risk
+
+* [IBEM](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_320.md)
 

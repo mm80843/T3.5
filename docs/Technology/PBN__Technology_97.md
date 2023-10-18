@@ -2,6 +2,10 @@
 
 # __encryption__
 
+## Category to which it belongs
+
+* [Various security measures, such as encryption, authentication protocols, secure data storage, and blockchain, are used to protect digital platforms and ensure privacy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_201.md)
+
 ## Risks linked to this technology
 
 * [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_47.md)
@@ -12,11 +16,6 @@
 * [Security risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2127.md)
 * [Unauthorized access to data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1235.md)
 * [Privacy and data security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1370.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Encryption and Security Algorithms](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_136.md)
-* [Privacy and Anonymity Techniques](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_139.md)
 
 ## Closest similar item
 
@@ -31,13 +30,18 @@
 * [encryption algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_317.md)
 * [Encryption algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2427.md)
 
-## This Technology belongs to this TechGroup
-
-* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_5.md)
-
 ## This Technology is identified by the following QID
 
 * [Q141090](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q141090.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Encryption and Security Algorithms](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_136.md)
+* [Privacy and Anonymity Techniques](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_139.md)
+
+## This Technology belongs to this TechGroup
+
+* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_5.md)
 
 ## This Technology enables the following mitigations
 

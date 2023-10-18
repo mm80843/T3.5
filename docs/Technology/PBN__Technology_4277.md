@@ -2,10 +2,9 @@
 
 # __sealed bathroom catchments__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2151.md)
-* [Proper plumbing work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2161.md)
+* [Improvements in wastewater, waste management, sanitation, water purification, and plumbing technologies aim for sustainable and efficient infrastructure development.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_234.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [water filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1845.md)
 * [Water filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2227.md)
 * [proper sewage and treatment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4276.md)
+
+## This Technology enables the following mitigations
+
+* [Sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2151.md)
+* [Proper plumbing work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2161.md)
 

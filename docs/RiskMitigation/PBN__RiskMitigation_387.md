@@ -2,13 +2,9 @@
 
 # __Risk maps through CDRs__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Malaria transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_308.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced targeting of interventions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_384.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Provide transparent and credible information to reduce risk perception](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1658.md)
 * [Treat risk communication as a process](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_923.md)
 * [Improve risk preparedness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_300.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced targeting of interventions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_384.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Malaria transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_308.md)
 

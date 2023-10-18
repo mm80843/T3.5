@@ -2,9 +2,9 @@
 
 # __large households__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Population characteristics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2076.md)
+* [Individuals residing or working within various types of buildings, including residential, commercial, and healthcare facilities, as well as those in inadequately designed or poorly ventilated spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_391.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [household members](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_162.md)
 * [vulnerable households](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_254.md)
 * [household consumers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_248.md)
+
+## Risk affecting this stakeholder
+
+* [Population characteristics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2076.md)
 

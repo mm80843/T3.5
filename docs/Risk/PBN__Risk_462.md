@@ -2,9 +2,9 @@
 
 # __Inefficient testing for COVID-19__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [AI for testing optimization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_652.md)
+* [The far-reaching consequences of COVID-19 include its transmission through various settings, impact on urban areas, and scarcity of resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inadequate monitoring of the spread of Covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1309.md)
 * [Rapidly changing understanding of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1455.md)
 * [Need for accurate and up-to-date COVID-19 data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_838.md)
+
+## Mitigations of this risk
+
+* [AI for testing optimization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_652.md)
 

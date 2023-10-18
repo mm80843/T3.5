@@ -2,8 +2,9 @@
 
 # __Automated face recognition systems__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
+* [Advanced technologies and algorithms for modeling, simulation, optimization, and artificial intelligence in various applications, including robotics and computational fluid dynamics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_239.md)
 
 ## Closest similar item
 
@@ -18,11 +19,14 @@
 * [Face and voice recognition](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4553.md)
 * [biometrics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_99.md)
 
-## This Technology belongs to this TechGroup
-
-* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1192553](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1192553.md)
+
+## This Technology belongs to this TechSubgroup
+
+
+## This Technology belongs to this TechGroup
+
+* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
 

@@ -2,8 +2,9 @@
 
 # __Loss of jobs and livelihoods__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Promoting well-being and resilience through various forms of support, resources, and assistance for individuals in need.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_143.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Change and Opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1038.md)
 * [Socioeconomic Support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1651.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Affordability of healthy foods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3123.md)
-
 ## Property: has_MitigationPrinciple
 
 Leads to financial constraints, making it difficult for individuals to afford healthy foods and increasing the risk of unhealthy food consumption and related health issues
 
+## Risks possibly mitigated by this Mitigation
+
+* [Affordability of healthy foods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3123.md)
+
 ## Property: has_MitigationSource
 
 * [Implications of COVID-19 control measures for diet and physical activity, and lessons for addressing other pandemics facing rapidly urbanising countries](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_68.md)
+
+## This Mitigation is enabled by the following technologies
+
 

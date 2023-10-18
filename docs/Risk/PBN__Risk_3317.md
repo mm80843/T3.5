@@ -2,9 +2,9 @@
 
 # __Social justice and inequality__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Just Transition strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1986.md)
+* [The ramifications of social distancing include inconsistent recommendations, increased violence, changes in social practices, and lack of interaction, among other social issues.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_96.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Economic inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2495.md)
 * [Social disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2700.md)
 * [Impact on peace, justice, and institutions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_241.md)
+
+## Mitigations of this risk
+
+* [Just Transition strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1986.md)
 

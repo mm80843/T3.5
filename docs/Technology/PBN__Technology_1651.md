@@ -2,12 +2,13 @@
 
 # __biodegradable materials__
 
+## Category to which it belongs
+
+* [Explore a diverse range of materials, from sound-absorbing to eco-friendly, that contribute to innovative building solutions and educational resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_222.md)
+
 ## Risks linked to this technology
 
 * [Environmental impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_748.md)
-
-## This Technology belongs to this TechSubgroup
-
 
 ## Closest similar item
 
@@ -22,11 +23,14 @@
 * [promotion of recyclable materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1769.md)
 * [anti-microbial materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4237.md)
 
-## This Technology belongs to this TechGroup
-
-* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_12.md)
-
 ## This Technology is identified by the following QID
 
 * [Q864214](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q864214.md)
+
+## This Technology belongs to this TechSubgroup
+
+
+## This Technology belongs to this TechGroup
+
+* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_12.md)
 

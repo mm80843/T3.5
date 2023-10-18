@@ -2,20 +2,20 @@
 
 # __Greater gender equity in employment__
 
+## Name of the Benefit
+
+Gender-responsive recovery plans can promote women's employment and economic empowerment, leading to greater gender equity, improved productivity, and higher economic growth.
+
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can benefit from a larger pool of skilled workers, improved workplace diversity, and potential investment opportunities in women-led businesses.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_673.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [women](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_23.md)
-* [businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
 
 ## Articles mentionning this Benefit
 
 * [The COVID-19 pandemic: Lessons on building more equal and sustainable societies](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_124.md)
 
-## Name of the Benefit
+## Stakeholders benefitting from this Benefit
 
-Gender-responsive recovery plans can promote women's employment and economic empowerment, leading to greater gender equity, improved productivity, and higher economic growth.
+* [women](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_23.md)
+* [businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
 

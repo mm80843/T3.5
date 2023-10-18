@@ -2,13 +2,9 @@
 
 # __Workplace modification activities__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [COVID-19 spread in the workplace](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_675.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved employee health and wellness](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_945.md)
+* [Ensuring equitable access, promoting flexible work, implementing safety measures, and providing support for remote work and flexible schedules.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_323.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Explore modular and flexible designs to accommodate different uses and activities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1976.md)
 * [Simplified procedures for essential activities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_302.md)
 * [Change management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_714.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved employee health and wellness](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_945.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [COVID-19 spread in the workplace](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_675.md)
 

@@ -2,9 +2,9 @@
 
 # __and hybrid ventilation__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Dilution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_274.md)
+* [Improved ventilation and air purification methods are implemented, incorporating natural and mechanical systems, upgraded technologies, regular maintenance, and smart controls.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_200.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [improved ventilation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_799.md)
 * [mechanical ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_271.md)
 * [advanced ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1294.md)
+
+## This Technology enables the following mitigations
+
+* [Dilution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_274.md)
 

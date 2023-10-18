@@ -2,9 +2,9 @@
 
 # __telehealth platforms for virtual therapy and counseling__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q2549364](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2549364.md)
+* [Virtual healthcare and remote communication technology including telemedicine, telehealth platforms, teletherapy, teleconferencing, and tele-operation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_202.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [telehealth platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_219.md)
 * [telehealth/telepresence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4089.md)
 * [telehealth solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1172.md)
+
+## This Technology is identified by the following QID
+
+* [Q2549364](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2549364.md)
 

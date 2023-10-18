@@ -2,13 +2,13 @@
 
 # __individuals in isolation__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q1674502](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1674502.md)
+* [A diverse range of individuals, including citizens, pedestrians, people with disabilities, and those in crowded environments, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_368.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Limited social interactions and mental health impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2375.md)
 
 ## Closest similar item
 
@@ -23,10 +23,14 @@
 * [individuals in quarantine or social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_357.md)
 * [individual living alone](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2370.md)
 
-## Risk affecting this stakeholder
-
-* [Limited social interactions and mental health impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2375.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
+
+## This Stakeholder is identified by the following QID
+
+* [Q1674502](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1674502.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 

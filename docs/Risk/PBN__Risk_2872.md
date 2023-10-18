@@ -2,9 +2,9 @@
 
 # __Reduction in innovation and experimentation__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Innovation and Creativity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1036.md)
+* [The challenges of implementing a digital culture include lack of interoperability, missing information, emerging technologies, and technological limitations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_112.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Technological](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2131.md)
 * [Economic climate is unfavorable for innovation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_559.md)
 * [Efficient design changes and management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2971.md)
+
+## Mitigations of this risk
+
+* [Innovation and Creativity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1036.md)
 

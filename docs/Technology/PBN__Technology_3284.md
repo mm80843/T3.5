@@ -2,9 +2,9 @@
 
 # __incorporation of climate considerations in urban design__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Climate-Sensitive Design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_526.md)
+* [Optimizing urban spaces through inclusive strategies and technologies, integrating green spaces, and managing population density and transportation systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_226.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1178.md)
 * [Urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2314.md)
 * [urban planning and design techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_296.md)
+
+## This Technology enables the following mitigations
+
+* [Climate-Sensitive Design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_526.md)
 

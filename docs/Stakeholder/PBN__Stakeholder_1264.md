@@ -2,9 +2,9 @@
 
 # __patients with chronic conditions__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Healthcare system strain](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1875.md)
+* [Especially susceptible individuals, such as allergy sufferers, those with weakened immune systems, and individuals with respiratory conditions, are at higher risk.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_388.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [individuals with pre-existing health conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1569.md)
 * [individual with poor health condition](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2114.md)
 * [individual with pre-existing health condition](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2321.md)
+
+## Risk affecting this stakeholder
+
+* [Healthcare system strain](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1875.md)
 

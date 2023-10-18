@@ -2,9 +2,9 @@
 
 # __Development of mobile applications, websites, and communication channels for information dissemination__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Limited access to COVID-19 mitigation information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1784.md)
+* [Facilitate transparent communication, enabling reliable information sharing through standardized protocols and effective channels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_0.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Leverage multiple dissemination channels](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_561.md)
 * [Mobile chatbot applications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1156.md)
 * [Improve communication channels and methods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2532.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limited access to COVID-19 mitigation information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1784.md)
 

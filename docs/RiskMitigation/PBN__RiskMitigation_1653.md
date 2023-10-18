@@ -2,9 +2,9 @@
 
 # __Implement strict policies and protocols for employees who test positive or are exposed to COVID-19, including mandatory self-isolation and remote work options.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Personnel Reporting to Work Despite Testing Positive or Being Exposed to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1201.md)
+* [Implement comprehensive strategies to control virus transmission, improve surveillance, develop antiviral coatings, and enhance infection control measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_309.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implementation of safety protocols, including personal protective equipment (PPE), proper handling and disposal of samples, and adherence to biosafety guidelines, can minimize the risk of exposure and spread of the virus in the laboratory.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2169.md)
 * [COVID-19 preparedness and response plans](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_502.md)
 * [Utilize WBE for early-warning ability, establish baselines for incidence of Covid-19 before re-opening](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1799.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Personnel Reporting to Work Despite Testing Positive or Being Exposed to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1201.md)
 

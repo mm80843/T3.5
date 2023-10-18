@@ -2,13 +2,9 @@
 
 # __clinical laboratory__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q2296168](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2296168.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
+* [Various individuals in the healthcare industry, including epidemiologists, medical personnel, clinicians, surgeons, and patients in need of medical care.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_360.md)
 
 ## Closest similar item
 
@@ -26,4 +22,12 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Laboratory and Research](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_44.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q2296168](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2296168.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
 

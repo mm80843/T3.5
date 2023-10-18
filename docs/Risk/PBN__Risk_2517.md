@@ -2,9 +2,9 @@
 
 # __Healthcare access__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Increased health care access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_273.md)
+* [Healthcare systems overwhelmed with limited resources, shortage of personnel, and inadequate infrastructure face challenges in providing accessible and quality care.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_101.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inequality in access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1994.md)
 * [Interrupted access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1789.md)
 * [Lack of healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3194.md)
+
+## Mitigations of this risk
+
+* [Increased health care access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_273.md)
 

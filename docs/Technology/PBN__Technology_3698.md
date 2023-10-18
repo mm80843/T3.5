@@ -2,9 +2,9 @@
 
 # __decreased nutrient input__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Algae Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1149.md)
+* [Advancements in biotechnology, clinical research, and innovative therapies contribute to the development of medical solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [increased outside air fractions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_502.md)
 * [decrease number of workers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3290.md)
 * [ecosystem restoration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_537.md)
+
+## This Technology enables the following mitigations
+
+* [Algae Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1149.md)
 

@@ -2,12 +2,9 @@
 
 # __Users__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [all individuals using mobile applications](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1311.md)
-* [all individual using mobile application](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2313.md)
-* [all individuals relying on mobile application notifications](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1313.md)
-* [users of digital tools and platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_881.md)
+* [Stakeholders in the establishment or utilization of a space or platform.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_257.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [Developers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_64.md)
 * [Travellers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_145.md)
 * [Community Developers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_141.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [all individuals using mobile applications](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1311.md)
+* [all individual using mobile application](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2313.md)
+* [all individuals relying on mobile application notifications](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1313.md)
+* [users of digital tools and platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_881.md)
 

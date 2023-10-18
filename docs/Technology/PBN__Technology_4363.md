@@ -2,9 +2,9 @@
 
 # __pathogen detectors__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Smart air quality control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2239.md)
+* [Advancements in molecular biology, diagnostics, vaccines, antiviral technologies, and disease surveillance for pathogen detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_223.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [microorganisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4395.md)
 * [disease surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1886.md)
 * [Disease surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2479.md)
+
+## This Technology enables the following mitigations
+
+* [Smart air quality control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2239.md)
 

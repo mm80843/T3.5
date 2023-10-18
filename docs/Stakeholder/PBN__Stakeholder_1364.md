@@ -2,13 +2,13 @@
 
 # __women in informal economy__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q944235](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q944235.md)
+* [Individuals and communities experiencing socioeconomic disparities, economic hardship, housing instability, and social disadvantage.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_393.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Gender inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_237.md)
 
 ## Closest similar item
 
@@ -23,11 +23,15 @@
 * [informal settlements](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_920.md)
 * [residents of informal settlements](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_95.md)
 
-## Risk affecting this stakeholder
-
-* [Gender inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_237.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Gender Defined Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_84.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q944235](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q944235.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 

@@ -2,10 +2,9 @@
 
 # __Video cameras and beam sensors__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [video cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3681.md)
-* [beam sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3682.md)
+* [Advanced monitoring and tracking technology for remote supervision, surveillance, and contactless delivery in healthcare settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_154.md)
 
 ## Closest similar item
 
@@ -20,14 +19,19 @@
 * [Augmented surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_242.md)
 * [Sensor integration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_699.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Measuring people flow using video cameras and beam sensors.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Building occupancy estimation with people flow modeling in AnyLogic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_29.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [video cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3681.md)
+* [beam sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3682.md)
 

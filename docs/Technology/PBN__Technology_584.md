@@ -2,9 +2,9 @@
 
 # __widespread use of masks__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q3496615](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3496615.md)
+* [Advancements in molecular biology, diagnostics, vaccines, antiviral technologies, and disease surveillance for pathogen detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_223.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [cloth masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4504.md)
 * [surgical masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3503.md)
 * [face mask usage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1991.md)
+
+## This Technology is identified by the following QID
+
+* [Q3496615](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3496615.md)
 

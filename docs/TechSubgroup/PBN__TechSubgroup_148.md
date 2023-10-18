@@ -2,12 +2,9 @@
 
 # __Data Management and Recording Systems__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [digital surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1560.md)
-* [data management tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_781.md)
-* [Data recording systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2450.md)
-* [Advanced surveillance technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2439.md)
+* [Efficient systems for exchanging, managing, storing, recording, and sharing information and facilitating collaboration and validation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_12.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [Communication and Data Sharing](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_3.md)
 * [Data Collection and Analysis](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_162.md)
 * [Surveillance and Monitoring Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_147.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [digital surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1560.md)
+* [data management tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_781.md)
+* [Data recording systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2450.md)
+* [Advanced surveillance technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2439.md)
 

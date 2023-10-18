@@ -2,9 +2,9 @@
 
 # __Building transport networks__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [road network infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3675.md)
+* [Enhancing urban mobility through pedestrian-friendly infrastructure, optimized transportation, and improved public transportation systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_151.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Electrical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1215.md)
 * [Collaborative networks and partnerships](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_292.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
-
 ## Property: has_MitigationPrinciple
 
 Improving the connectivity and efficiency of transportation networks can help facilitate the movement of individuals and goods while minimizing congestion and the potential for viral transmission.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
+
 ## Property: has_MitigationSource
 
 * [Association of built environment attributes with the spread of COVID-19 at its initial stage in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_32.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [road network infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3675.md)
 

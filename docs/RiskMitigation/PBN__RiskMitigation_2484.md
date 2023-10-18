@@ -2,9 +2,9 @@
 
 # __Ensure access to essential services during curfew hours, increase enforcement and penalties for violations.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Curfew](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1888.md)
+* [Implement comprehensive measures to ensure support, protection, and assistance for vulnerable populations during the pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_349.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Improve monitoring and enforcement of mitigation measures, increase public awareness and understanding of the importance of measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2363.md)
 * [Implementing social distancing measures, promoting good hygiene practices, and enforcing lockdowns or stay-at-home orders](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2715.md)
 * [Stay updated on laws and regulations, implement appropriate compliance measures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2787.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Curfew](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1888.md)
 

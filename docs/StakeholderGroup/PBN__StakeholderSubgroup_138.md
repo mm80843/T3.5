@@ -2,9 +2,9 @@
 
 # __Social Workers__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [social workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_695.md)
+* [Collective networks supporting and advocating for underrepresented communities and fostering social engagement and welfare.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_260.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Indoor Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_24.md)
 * [Social Media Users](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_132.md)
 * [Work and Occupational Context](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_108.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [social workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_695.md)
 

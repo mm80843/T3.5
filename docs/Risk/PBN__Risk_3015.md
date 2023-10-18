@@ -2,9 +2,9 @@
 
 # __Limited applications__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Biofiltration technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1306.md)
+* [Restricted availability of various resources, services, and data creates inequalities and obstacles in accessing them.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_132.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Limited data accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2722.md)
 * [Technical limitations and limited connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_26.md)
 * [Limited testing and treatment capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2826.md)
+
+## Mitigations of this risk
+
+* [Biofiltration technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1306.md)
 

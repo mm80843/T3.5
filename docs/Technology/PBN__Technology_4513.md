@@ -2,9 +2,9 @@
 
 # __bim__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Space and occupancy management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2469.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_767.md)
 * [waste management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2962.md)
 * [mmtc](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4153.md)
+
+## This Technology enables the following mitigations
+
+* [Space and occupancy management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2469.md)
 

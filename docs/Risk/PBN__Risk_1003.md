@@ -2,9 +2,9 @@
 
 # __Inability to differentiate COVID-19 from other viral infections__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Integration of additional sensors into wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1425.md)
+* [The far-reaching consequences of COVID-19 include its transmission through various settings, impact on urban areas, and scarcity of resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Aggravating COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3130.md)
 * [Lack of medication and vaccines for COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1495.md)
 * [Asymptomatic and pre-symptomatic cases of COVID-19 not being detected early](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1002.md)
+
+## Mitigations of this risk
+
+* [Integration of additional sensors into wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1425.md)
 

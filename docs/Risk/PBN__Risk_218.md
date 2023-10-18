@@ -2,9 +2,9 @@
 
 # __Epidemiology__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Indoor humidity measurements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_262.md)
+* [The challenge lies in the lack of knowledge, limited consideration, and inherent limitations in representing disease transmission mechanisms, mobility patterns, and heterogeneity in macroscopic epidemiological models.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_97.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Health Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_83.md)
 * [Lack of understanding of disease spread and patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3146.md)
 * [Disease containment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2461.md)
+
+## Mitigations of this risk
+
+* [Indoor humidity measurements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_262.md)
 

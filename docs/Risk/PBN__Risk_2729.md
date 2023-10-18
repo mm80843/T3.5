@@ -2,9 +2,9 @@
 
 # __Unclean environment__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Spacing between buildings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_770.md)
+* [The challenges and consequences of the global pandemic include poor acoustics, noise pollution, food security, increase in inequality, waste, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_131.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of proper environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1142.md)
 * [Contaminated environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3148.md)
 * [Unhygienic neighbourhood](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1091.md)
+
+## Mitigations of this risk
+
+* [Spacing between buildings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_770.md)
 

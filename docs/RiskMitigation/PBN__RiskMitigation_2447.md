@@ -2,9 +2,9 @@
 
 # __Prioritize healthcare resources for vulnerable populations, improve access to healthcare, address systemic injustices and disparities.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Inequities in disease vulnerability and access to care](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1860.md)
+* [Enhancing healthcare infrastructure, increasing capacity, and ensuring access to medical resources and services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_330.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement targeted interventions and resources in areas with high risk factors, such as increased access to healthcare services, targeted education campaigns, and economic support for affected populations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1853.md)
 * [Increase healthcare capacity, prioritize resources, telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2171.md)
 * [Ensuring equitable access to healthcare services and resources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2610.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inequities in disease vulnerability and access to care](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1860.md)
 

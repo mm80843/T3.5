@@ -2,13 +2,13 @@
 
 # __countries heavily reliant on specific suppliers__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q1762621](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1762621.md)
+* [Individuals and communities affected by pandemics, particularly in Kalimantan and Papua, individuals infected with HIV, vulnerable populations, and countries reliant on specific suppliers and participating in global value chains face various risks.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_365.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
+* [Concentration of suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1837.md)
 
 ## Closest similar item
 
@@ -23,10 +23,14 @@
 * [supplier](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1895.md)
 * [developing countries](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_223.md)
 
-## Risk affecting this stakeholder
-
-* [Concentration of suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1837.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
+
+## This Stakeholder is identified by the following QID
+
+* [Q1762621](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1762621.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
 

@@ -2,9 +2,9 @@
 
 # __Enhancing and promoting alternative ways for people to connect with nature such as virtual tours, online exercises, and nature-based mindfulness practices__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Reduced access to UGS during COVID-19 restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2254.md)
+* [Enrich education through digital tools, virtual experiences, remote learning, and alternative forms of exercise and interaction.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_3.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Promote and support social connections through digital platforms, encourage virtual social activities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2120.md)
 * [Promote home-based exercise programs, provide online resources for exercise routines, and encourage individuals to find alternative ways to stay active](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2280.md)
 * [Develop and promote alternative outdoor recreation opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2155.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Reduced access to UGS during COVID-19 restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2254.md)
 

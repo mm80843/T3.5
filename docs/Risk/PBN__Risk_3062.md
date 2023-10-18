@@ -2,9 +2,9 @@
 
 # __Insufficient fresh air exchange__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Regular air changes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1425.md)
+* [Insufficient ventilation and indoor air pollution pose a risk to air quality and respiratory health, exacerbated by inadequate airflow control, limited natural ventilation, and air recirculation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_128.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Limited access to nature and fresh air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1674.md)
 * [Insufficient air circulation and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1675.md)
 * [Airflow issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3022.md)
+
+## Mitigations of this risk
+
+* [Regular air changes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1425.md)
 

@@ -2,13 +2,14 @@
 
 # __community engagement platforms__
 
+## Category to which it belongs
+
+* [A range of community-centered initiatives, programs, and strategies foster participation, collaboration, and social support for diverse groups.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_236.md)
+
 ## Risks linked to this technology
 
 * [Increased annoyance from neighbour noise in flats during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1635.md)
 * [Lack of public awareness and education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1851.md)
-
-## This Technology belongs to this TechSubgroup
-
 
 ## Closest similar item
 
@@ -23,13 +24,16 @@
 * [Participatory platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2623.md)
 * [public engagement strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4314.md)
 
-## This Technology belongs to this TechGroup
-
-* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
-
 ## This Technology is identified by the following QID
 
 * [Q5154950](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5154950.md)
+
+## This Technology belongs to this TechSubgroup
+
+
+## This Technology belongs to this TechGroup
+
+* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
 
 ## This Technology enables the following mitigations
 

@@ -2,9 +2,9 @@
 
 # __specific at-risk groups__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Lack of awareness and education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1165.md)
+* [Individuals of different ages, including children, parents, migrants, and vulnerable groups, such as women and racial minorities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_389.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [individuals at risk](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_798.md)
 * [high-risk individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_69.md)
 * [at-risk populations (e.g. elderly)](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_163.md)
+
+## Risk affecting this stakeholder
+
+* [Lack of awareness and education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1165.md)
 

@@ -2,9 +2,9 @@
 
 # __Costly and slow__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Combined use of WBE and clinical testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_758.md)
+* [Limited monitoring, technical limitations, language barriers, expensive optimization, lack of connection with nature, and limited sensor diversity hinder effective response and resource allocation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_107.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inefficient usage and risk behaviors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2819.md)
 * [High cost, technical expertise](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2994.md)
 * [Computational expensive optimization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_94.md)
+
+## Mitigations of this risk
+
+* [Combined use of WBE and clinical testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_758.md)
 

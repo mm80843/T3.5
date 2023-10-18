@@ -2,8 +2,9 @@
 
 # __Strict infection control and hygiene__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Enhanced focus on cleanliness, including hand and respiratory hygiene, to prevent infection and improve personal wellbeing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_162.md)
 
 ## Closest similar item
 
@@ -18,14 +19,17 @@
 * [Hygiene and sanitation kits](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1972.md)
 * [Individual hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1158.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Implementing strict infection control and hygiene measures when collecting waste materials from affected households and quarantine facilities
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [The COVID-19 pandemic: Considerations for the waste and wastewater services sector](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_229.md)
+
+## This Mitigation is enabled by the following technologies
+
 

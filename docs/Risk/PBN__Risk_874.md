@@ -2,10 +2,9 @@
 
 # __Stability on surfaces of fomites__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Use of copper or copper alloys](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1196.md)
-* [Use of materials with low virus survivability](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1197.md)
+* [A list of challenges and uncertainties surrounding the impact and response to various events and crises in different sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_124.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Virus survival on surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_511.md)
 * [Transmission via fomites](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_800.md)
 * [Fomite transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_609.md)
+
+## Mitigations of this risk
+
+* [Use of copper or copper alloys](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1196.md)
+* [Use of materials with low virus survivability](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1197.md)
 

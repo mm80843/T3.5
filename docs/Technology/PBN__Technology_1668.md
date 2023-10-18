@@ -2,9 +2,9 @@
 
 # __regular communication and updates on safety protocols__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q23893200](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q23893200.md)
+* [Safety protocols, emergency response plans, risk assessment tools, and comprehensive risk communication strategies ensure workplace safety and crisis management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_232.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_154.md)
 * [protocol guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2903.md)
 * [safety monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1236.md)
+
+## This Technology is identified by the following QID
+
+* [Q23893200](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q23893200.md)
 

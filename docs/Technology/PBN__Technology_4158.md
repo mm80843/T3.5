@@ -2,9 +2,9 @@
 
 # __ran sharing__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [5G deployment and limited connectivity challenges](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1952.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [data sharing systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1426.md)
 * [information sharing tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4076.md)
 * [shared mobility services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1334.md)
+
+## This Technology enables the following mitigations
+
+* [5G deployment and limited connectivity challenges](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1952.md)
 

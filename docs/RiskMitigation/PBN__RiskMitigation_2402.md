@@ -2,9 +2,9 @@
 
 # __Provide support and resources for victims of domestic violence, ensure safety measures are in place for online gaming__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Impact on family dynamics: domestic violence & home video-gaming](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1817.md)
+* [Implement comprehensive measures to ensure support, protection, and assistance for vulnerable populations during the pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_349.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Establish online community platforms, organize virtual events and activities, provide resources for community support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1774.md)
 * [Enhance support services for victims, raise awareness, and strengthen legal and policy frameworks.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2470.md)
 * [Establish alternative support systems such as online counseling and helplines, ensure shelters remain open and accessible during lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1470.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Impact on family dynamics: domestic violence & home video-gaming](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1817.md)
 

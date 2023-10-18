@@ -2,9 +2,9 @@
 
 # __COVID-19 spread in nursing homes__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Implementation of stricter infection control measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_165.md)
+* [The far-reaching consequences of COVID-19 include its transmission through various settings, impact on urban areas, and scarcity of resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Spread of Covid-19 in urban public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_27.md)
 * [COVID-19 spread in schools and childcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_138.md)
 * [COVID-19 spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_63.md)
+
+## Mitigations of this risk
+
+* [Implementation of stricter infection control measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_165.md)
 

@@ -2,9 +2,9 @@
 
 # __building design software and modeling tools can be used to optimize opening design__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q323611](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q323611.md)
+* [Design and construction professionals use innovative techniques and strategies to create adaptable, sustainable, and inclusive buildings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_217.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [architectural design technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1110.md)
 * [Architectural design technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2722.md)
 * [building information modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2983.md)
+
+## This Technology is identified by the following QID
+
+* [Q323611](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q323611.md)
 

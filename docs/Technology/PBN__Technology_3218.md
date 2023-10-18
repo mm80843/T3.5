@@ -2,9 +2,9 @@
 
 # __prerecorded video lecture__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Flipped Classroom Strategy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_425.md)
+* [Measures promoting accountability, media control, real-time updates, and virtual experiences for physical distancing and education.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [video conferences](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3059.md)
 * [surgical videos](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_390.md)
 * [video conferencing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3526.md)
+
+## This Technology enables the following mitigations
+
+* [Flipped Classroom Strategy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_425.md)
 

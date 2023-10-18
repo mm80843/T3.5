@@ -2,9 +2,9 @@
 
 # __project updates__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q245962](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q245962.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Regular system security updates](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2407.md)
 * [construction and technical changes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3730.md)
 * [officer assistance at project sites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_885.md)
+
+## This Technology is identified by the following QID
+
+* [Q245962](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q245962.md)
 

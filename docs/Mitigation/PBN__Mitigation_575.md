@@ -2,10 +2,9 @@
 
 # __Shareable data formats__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [standardised data formats](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3317.md)
-* [github repositories](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3326.md)
+* [Improved data management and sharing for efficient and secure information exchange and analysis across various platforms and stakeholders.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_182.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Common data infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_566.md)
 * [Privacy-preserving data storage and sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1893.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Lack of free and accessible data formats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2638.md)
-
 ## Property: has_MitigationPrinciple
 
 Improve data sharing, facilitate sharing of clinical metrics and molecular data
 
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of free and accessible data formats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2638.md)
+
 ## Property: has_MitigationSource
 
 * [Data capture and sharing in the COVID-19 pandemic: a cause for concern](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_208.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [standardised data formats](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3317.md)
+* [github repositories](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3326.md)
 

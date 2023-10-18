@@ -2,9 +2,9 @@
 
 # __Emerging disease threats__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Early Warning Systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1861.md)
+* [The challenge lies in the lack of knowledge, limited consideration, and inherent limitations in representing disease transmission mechanisms, mobility patterns, and heterogeneity in macroscopic epidemiological models.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_97.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Disease containment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2461.md)
 * [Infectious disease outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1313.md)
 * [Vector-borne diseases outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3268.md)
+
+## Mitigations of this risk
+
+* [Early Warning Systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1861.md)
 

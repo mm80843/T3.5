@@ -2,9 +2,9 @@
 
 # __biological methods__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q46857](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q46857.md)
+* [Advancements in biotechnology, clinical research, and innovative therapies contribute to the development of medical solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Biocidal agents such as hydrogen peroxide](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2815.md)
 * [biocidal products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_507.md)
 * [Biocidal products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2558.md)
+
+## This Technology is identified by the following QID
+
+* [Q46857](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q46857.md)
 

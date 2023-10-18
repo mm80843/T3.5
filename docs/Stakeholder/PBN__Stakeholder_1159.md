@@ -2,14 +2,9 @@
 
 # __testing laboratories__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Variability in virus RNA recovery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1736.md)
-* [False positive reactions in wastewater testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1950.md)
-
-## Risk affecting this stakeholder
-
-* [Variability in virus RNA recovery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1736.md)
+* [Employees across various industries, including laboratories, maintenance personnel, cleaning staff, and workers in the informal sector.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_359.md)
 
 ## Closest similar item
 
@@ -23,4 +18,13 @@
 * [laboratory technicians](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_700.md)
 * [laboratory researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1562.md)
 * [testing centers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_555.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Variability in virus RNA recovery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1736.md)
+* [False positive reactions in wastewater testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1950.md)
+
+## Risk affecting this stakeholder
+
+* [Variability in virus RNA recovery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1736.md)
 

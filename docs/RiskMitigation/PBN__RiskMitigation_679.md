@@ -2,13 +2,9 @@
 
 # __Increase in food deliveries and availability of basic food products__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Impact on food sector](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_482.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved access to food](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_686.md)
+* [Enhance local self-sufficiency in shopping, recreation, and food production, while promoting sustainable practices and supporting resilient economies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_344.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implement travel restrictions, reduce travel demand, promote alternative methods of essential supply](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1846.md)
 * [Increase availability and affordability of healthy food options, support urban agriculture, and provide nutritional education and guidance.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2443.md)
 * [Implement alternative delivery methods, adapt supply chains](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2057.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved access to food](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_686.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Impact on food sector](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_482.md)
 

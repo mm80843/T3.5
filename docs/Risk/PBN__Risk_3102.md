@@ -2,9 +2,9 @@
 
 # __Lack of communication and information sharing among stakeholders__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Regional and global information exchange](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1487.md)
+* [Fragmented global governance, reduced aid, ethical concerns, educational disruption, impacts on peace and justice, and inadequate coordination between stakeholders.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_115.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Support and information sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3374.md)
 * [Limited collaboration and communication across sectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3341.md)
 * [Lack of data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_810.md)
+
+## Mitigations of this risk
+
+* [Regional and global information exchange](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1487.md)
 

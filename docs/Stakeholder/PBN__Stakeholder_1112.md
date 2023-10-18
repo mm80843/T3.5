@@ -2,13 +2,9 @@
 
 # __building industry__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q13405640](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q13405640.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+* [Various industries, businesses, and supply chain partners rely on suppliers and supply chain professionals for their products and services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_370.md)
 
 ## Closest similar item
 
@@ -23,11 +19,19 @@
 * [construction industry professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1308.md)
 * [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
 
+## Risks that can be mitigated by this stakeholder
+
+* [High installation and maintenance costs of green roofs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1687.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Real Estate and Construction](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_31.md)
 
-## Risks that can be mitigated by this stakeholder
+## This Stakeholder is identified by the following QID
 
-* [High installation and maintenance costs of green roofs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1687.md)
+* [Q13405640](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q13405640.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 

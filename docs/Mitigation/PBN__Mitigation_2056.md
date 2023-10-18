@@ -2,10 +2,9 @@
 
 # __Centralize environmental quality improvement__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [sustainable site design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4209.md)
-* [regional planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4210.md)
+* [Promoting sustainable and eco-friendly practices that enhance urban green spaces, energy efficiency, and renewable energy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_180.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Implement measures to reduce air pollution, promote clean energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3601.md)
 * [Develop non-centralized building systems, utilize air purifiers and air quality monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2600.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Poor environmental quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2153.md)
-
 ## Property: has_MitigationPrinciple
 
 Improve urban design and planning to reduce environmental pollution, ensure equitable distribution of environmental resources, regulate pollutants and vectors, preserve biodiversity and natural habitats
 
+## Risks possibly mitigated by this Mitigation
+
+* [Poor environmental quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2153.md)
+
 ## Property: has_MitigationSource
 
 * [Learning from pandemics: Applying resilience thinking to identify priorities for planning urban settlements](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_137.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [sustainable site design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4209.md)
+* [regional planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4210.md)
 

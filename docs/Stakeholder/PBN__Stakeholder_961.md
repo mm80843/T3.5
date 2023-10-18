@@ -2,9 +2,9 @@
 
 # __communities with limited healthcare access__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Inadequate healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1488.md)
+* [Collective inhabitants of various social groups, including rural women with ovarian cancer, who reside within different types of communities and rely on diverse support networks for community engagement.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_386.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Low-income community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2373.md)
 * [communities with limited access to clean water](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_590.md)
 * [communities in higher-risk areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_771.md)
+
+## Risk affecting this stakeholder
+
+* [Inadequate healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1488.md)
 

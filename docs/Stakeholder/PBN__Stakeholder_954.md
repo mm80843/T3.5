@@ -2,13 +2,9 @@
 
 # __crisis management teams__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q1141276](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1141276.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Crisis Management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_14.md)
+* [A diverse array of collaborative and specialized groups in various fields working together towards specific goals.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_5.md)
 
 ## Closest similar item
 
@@ -23,11 +19,19 @@
 * [emergency management agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2720.md)
 * [project administration team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_321.md)
 
+## Risks that can be mitigated by this stakeholder
+
+* [Support at organizational level](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1475.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Crisis and Disaster Management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_168.md)
 
-## Risks that can be mitigated by this stakeholder
+## This Stakeholder is identified by the following QID
 
-* [Support at organizational level](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1475.md)
+* [Q1141276](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1141276.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Crisis Management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_14.md)
 

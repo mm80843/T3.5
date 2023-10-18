@@ -2,9 +2,9 @@
 
 # __Limited focus on pandemic preparedness in urban planning__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Expansion of SDG 11 to include pandemic preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_116.md)
+* [The challenge lies in the lack of knowledge, limited consideration, and inherent limitations in representing disease transmission mechanisms, mobility patterns, and heterogeneity in macroscopic epidemiological models.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_97.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inadequate pandemic preparedness in existing building stock](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_230.md)
 * [Limited access to urban green spaces during the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_709.md)
 * [Lack of planning and management for pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2447.md)
+
+## Mitigations of this risk
+
+* [Expansion of SDG 11 to include pandemic preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_116.md)
 

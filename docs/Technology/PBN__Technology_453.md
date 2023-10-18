@@ -2,9 +2,9 @@
 
 # __policy advocacy__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q7209689](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7209689.md)
+* [Government actions and regulations addressing various aspects of society, including policy changes, ethical frameworks, governance mechanisms, and public announcements.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_216.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [policy interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3423.md)
 * [legal advocacy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_159.md)
 * [lobbying and advocacy efforts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1327.md)
+
+## This Technology is identified by the following QID
+
+* [Q7209689](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7209689.md)
 

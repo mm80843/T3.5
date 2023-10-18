@@ -2,9 +2,9 @@
 
 # __Delayed outbreak, manageable levels__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Timing of mitigation measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_598.md)
+* [The challenge lies in the lack of knowledge, limited consideration, and inherent limitations in representing disease transmission mechanisms, mobility patterns, and heterogeneity in macroscopic epidemiological models.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_97.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Infectious disease outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1313.md)
 * [Insufficient outbreak investigation and response](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1514.md)
 * [Epidemic control measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_585.md)
+
+## Mitigations of this risk
+
+* [Timing of mitigation measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_598.md)
 

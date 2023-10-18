@@ -2,9 +2,9 @@
 
 # __Reliance on data mining and machine-learning-based computational approaches__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Analysis of complex links between sensor data and physiological status](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1428.md)
+* [The challenges include disintegrated and non-interoperable data, limited data access, data quality issues, and lack of standardized data sharing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_111.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Data Accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3289.md)
 * [Data accuracy and reliability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2466.md)
 * [Lack of accurate risk maps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2163.md)
+
+## Mitigations of this risk
+
+* [Analysis of complex links between sensor data and physiological status](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1428.md)
 

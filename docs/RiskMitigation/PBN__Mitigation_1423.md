@@ -2,9 +2,9 @@
 
 # __Good housekeeping practices__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [regular cleaning and maintenance of hvac system components](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3869.md)
+* [Promotion and implementation of rigorous hygiene protocols and use of sanitary facilities and materials.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_166.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Encouraging proper sanitation and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_486.md)
 * [Environmental hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1115.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Accumulation of dirt, dust, and microbial growth in HVAC system components](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3060.md)
-
 ## Property: has_MitigationPrinciple
 
 Proper cleaning and maintenance of HVAC system components can prevent the accumulation of contaminants and maintain good indoor air quality
 
+## Risks possibly mitigated by this Mitigation
+
+* [Accumulation of dirt, dust, and microbial growth in HVAC system components](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3060.md)
+
 ## Property: has_MitigationSource
 
 * [Ventilation use in nonmedical settings during COVID-19: Cleaning protocol, maintenance, and recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_104.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [regular cleaning and maintenance of hvac system components](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3869.md)
 

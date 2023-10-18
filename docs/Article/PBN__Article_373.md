@@ -2,13 +2,13 @@
 
 # __How COVID-19 Could Accelerate the Adoption of New Retail Technologies and Enhance the (E-)Servicescape__
 
-## Title of the article
-
-How COVID-19 Could Accelerate the Adoption of New Retail Technologies and Enhance the (E-)Servicescape
-
 ## DOI of the article
 
 10.1007/978-981-33-4134-0_6
+
+## Title of the article
+
+How COVID-19 Could Accelerate the Adoption of New Retail Technologies and Enhance the (E-)Servicescape
 
 ## Year of publication
 

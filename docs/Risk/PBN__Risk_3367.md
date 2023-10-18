@@ -2,9 +2,9 @@
 
 # __Time of recovery__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Rapidity of Critical Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2180.md)
+* [A list of challenges and uncertainties surrounding the impact and response to various events and crises in different sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_124.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Time limitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2656.md)
 * [Long turnaround time, invasive, discomfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2550.md)
 * [Time overrun](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_597.md)
+
+## Mitigations of this risk
+
+* [Rapidity of Critical Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2180.md)
 

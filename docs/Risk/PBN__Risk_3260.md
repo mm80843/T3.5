@@ -2,9 +2,9 @@
 
 # __Lack of effective partnerships__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Partnership](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1825.md)
+* [Fragmented global governance, reduced aid, ethical concerns, educational disruption, impacts on peace and justice, and inadequate coordination between stakeholders.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_115.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of strategic planning and alignment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1198.md)
 * [Lack of coordination and duplicative efforts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2609.md)
 * [Lack of funding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2354.md)
+
+## Mitigations of this risk
+
+* [Partnership](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1825.md)
 

@@ -2,9 +2,9 @@
 
 # __Regular cleaning and disinfection, wearing masks__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Survival of the virus outside the host](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1249.md)
+* [Implement rigorous cleaning and disinfection measures, including the use of antimicrobial materials and advanced technologies, to maintain a safe and hygienic environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_2.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Regular cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2007.md)
 * [Regular disinfection, high-level hygiene practices, waste management.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1725.md)
 * [Regular and thorough cleaning and disinfection of surfaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1825.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Survival of the virus outside the host](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1249.md)
 

@@ -2,13 +2,9 @@
 
 # __Value engineering with lean construction__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Less productivity compared to other sectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_298.md)
-
-## Property: has_MitigationBenefit
-
-* [Increased productivity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_368.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Measures in design and construction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_109.md)
 * [Support local production, enhance capacity building](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2163.md)
 * [Improved building environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_276.md)
+
+## Property: has_MitigationBenefit
+
+* [Increased productivity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_368.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Less productivity compared to other sectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_298.md)
 

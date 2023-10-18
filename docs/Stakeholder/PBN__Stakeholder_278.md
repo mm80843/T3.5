@@ -2,13 +2,14 @@
 
 # __global population__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q11188](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11188.md)
+* [A diverse array of groups and individuals, encompassing all segments of society and the natural world.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_363.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
+* [Climate-associated diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1645.md)
+* [Inadequate global preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1157.md)
 
 ## Closest similar item
 
@@ -23,15 +24,6 @@
 * [local population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_349.md)
 * [general populace](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_517.md)
 
-## Risk affecting this stakeholder
-
-* [Climate-associated diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1645.md)
-* [Inadequate global preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1157.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Public](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_147.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Raised awareness of health gains](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_670.md)
@@ -39,4 +31,16 @@
 * [Increased public awareness and compliance with preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_866.md)
 * [Control and prevention of future outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_867.md)
 * [Population-wide surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1210.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Public](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_147.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q11188](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11188.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
 

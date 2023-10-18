@@ -2,14 +2,9 @@
 
 # __ontologies__
 
-## Risks linked to this technology
+## Category to which it belongs
 
-* [Disintegrated and non-interoperable data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1451.md)
-
-## This Technology enables the following mitigations
-
-* [Health monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_55.md)
-* [Integration and interoperability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_59.md)
+* [Technological advancements encompass a wide range of innovations, such as blockchain, touchless, renewable energy, and communication technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
 
 ## Closest similar item
 
@@ -23,4 +18,13 @@
 * [ontology interoperability techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_714.md)
 * [ontology matching](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4399.md)
 * [established ontological models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1347.md)
+
+## This Technology enables the following mitigations
+
+* [Health monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_55.md)
+* [Integration and interoperability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_59.md)
+
+## Risks linked to this technology
+
+* [Disintegrated and non-interoperable data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1451.md)
 

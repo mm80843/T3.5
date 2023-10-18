@@ -2,9 +2,9 @@
 
 # __designated community-level zones__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Provision of community-level key public places](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_414.md)
+* [A range of community-centered initiatives, programs, and strategies foster participation, collaboration, and social support for diverse groups.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_236.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [zoning regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_660.md)
 * [designated social spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3051.md)
 * [community-level farming](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4268.md)
+
+## This Technology enables the following mitigations
+
+* [Provision of community-level key public places](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_414.md)
 

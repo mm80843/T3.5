@@ -2,9 +2,9 @@
 
 # __neutral background__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Face to face communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2215.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [daylighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3935.md)
 * [green facades](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1393.md)
 * [natural light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3031.md)
+
+## This Technology enables the following mitigations
+
+* [Face to face communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2215.md)
 

@@ -2,9 +2,9 @@
 
 # __Poor removal of SARS-CoV-2 fragments in wastewater treatment__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Physical removal of solid residues](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2365.md)
+* [The widespread transmission and persistence of the SARS-CoV-2 virus in various environments and the challenges in detecting and removing it.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_93.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Detection of SARS-CoV-2 in wastewater as a data source](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_291.md)
 * [SARS-CoV-2 transmission through wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_368.md)
 * [Spread of SARS-CoV-2 through sewage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1.md)
+
+## Mitigations of this risk
+
+* [Physical removal of solid residues](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2365.md)
 

@@ -2,14 +2,9 @@
 
 # __publisher__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q2085381](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2085381.md)
-* [Q7121072](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7121072.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Media](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_3.md)
+* [Various organizations and professionals responsible for overseeing specific areas of governance, infrastructure, protection, and creativity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_395.md)
 
 ## Closest similar item
 
@@ -27,4 +22,13 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Publishing](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_36.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q2085381](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2085381.md)
+* [Q7121072](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7121072.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Media](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_3.md)
 

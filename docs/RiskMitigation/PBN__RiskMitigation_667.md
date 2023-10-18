@@ -2,15 +2,9 @@
 
 # __Urban planning and design interventions__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Respiratory pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_476.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved air quality in buildings and public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_673.md)
-* [Creation of high-quality open public spaces that facilitate NPIs](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_674.md)
-* [Integration of health and well-being into urban planning policies](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_675.md)
+* [Promote equitable, sustainable, and inclusive urban planning to enhance living conditions, mitigate overcrowding, and reduce disparities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_324.md)
 
 ## Closest similar item
 
@@ -24,4 +18,14 @@
 * [Urban planning and design that balances density and social distancing measures, building design that supports healthy environments](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2652.md)
 * [Alternative planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_834.md)
 * [Including green space in urban planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_167.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved air quality in buildings and public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_673.md)
+* [Creation of high-quality open public spaces that facilitate NPIs](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_674.md)
+* [Integration of health and well-being into urban planning policies](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_675.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Respiratory pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_476.md)
 

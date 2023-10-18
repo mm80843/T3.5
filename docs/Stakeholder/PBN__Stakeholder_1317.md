@@ -2,14 +2,13 @@
 
 # __all individuals seeking covid-19 information and applications__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q83873577](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q83873577.md)
+* [Individuals affected by various medical conditions, including COVID-19, seeking information and care.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_394.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
-* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
+* [Misinformation and fake applications](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1964.md)
 
 ## Closest similar item
 
@@ -24,11 +23,16 @@
 * [individuals with long covid](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_373.md)
 * [quarantined individuals and health care providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_342.md)
 
-## Risk affecting this stakeholder
-
-* [Misinformation and fake applications](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1964.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Individuals with Specific Conditions](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_86.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q83873577](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q83873577.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
 

@@ -2,12 +2,9 @@
 
 # __Electronic Health Records and Data Tools__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [data analysis tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_554.md)
-* [data sharing systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1426.md)
-* [electronic health records](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1425.md)
-* [Electronic health records](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2299.md)
+* [Technological resources facilitating virtual education, hardware, digital tools, simulations, diagnostics, and health record management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_31.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [Data Collection and Analysis](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_162.md)
 * [Mobile Health Apps and Services](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_34.md)
 * [Communication and Collaboration Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_111.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [data analysis tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_554.md)
+* [data sharing systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1426.md)
+* [electronic health records](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1425.md)
+* [Electronic health records](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2299.md)
 

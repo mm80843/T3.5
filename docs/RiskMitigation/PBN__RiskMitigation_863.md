@@ -2,13 +2,9 @@
 
 # __Lockdown measures__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [COVID-19 diffusion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_623.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction in intra-urban spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_864.md)
+* [Implementing a comprehensive package of measures to ensure the smooth functioning and safety of essential services and activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_6.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Social lockdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_182.md)
 * [virtual access to green spaces during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2981.md)
 * [Implement noise reduction measures such as sound barriers or regulations on construction noise during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2175.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction in intra-urban spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_864.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [COVID-19 diffusion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_623.md)
 

@@ -2,13 +2,9 @@
 
 # __Facilitating transparent communication and preventing spread of fake news__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Inadequate communication and spread of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_806.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved communication and dissemination of accurate information](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1097.md)
+* [Facilitate transparent communication, enabling reliable information sharing through standardized protocols and effective channels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_0.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Improving transparency and communication, providing accurate and timely information, addressing concerns and misinformation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2102.md)
 * [Establish effective communication channels, provide clear and transparent information, address concerns and questions, promote trust and understanding.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1779.md)
 * [Providing clear and transparent information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_101.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved communication and dissemination of accurate information](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1097.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inadequate communication and spread of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_806.md)
 

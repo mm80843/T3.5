@@ -2,9 +2,9 @@
 
 # __sustainable site design__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Centralize environmental quality improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2056.md)
+* [Promotion of environmentally-friendly practices, green infrastructure, sustainable housing, renewable energy, and responsible building to enhance spaces and mitigate climate change.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_224.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [sustainable development initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_452.md)
 * [sustainable materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4067.md)
 * [sustainable development goals](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2979.md)
+
+## This Technology enables the following mitigations
+
+* [Centralize environmental quality improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2056.md)
 

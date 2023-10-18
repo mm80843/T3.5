@@ -2,10 +2,9 @@
 
 # __general population in the catchment__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Undetected SARS-CoV-2 in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1050.md)
-* [Ethical considerations for wastewater-based epidemiology (WBE)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1054.md)
+* [A diverse range of individuals, including citizens, pedestrians, people with disabilities, and those in crowded environments, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_368.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [individual in densely populated area](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2103.md)
 * [population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_81.md)
 * [local populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1156.md)
+
+## Risk affecting this stakeholder
+
+* [Undetected SARS-CoV-2 in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1050.md)
+* [Ethical considerations for wastewater-based epidemiology (WBE)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1054.md)
 

@@ -2,6 +2,10 @@
 
 # __Smart HVAC__
 
+## Category to which it belongs
+
+* [Improved and energy-efficient HVAC systems, along with advanced technologies, for efficient energy management and environmental control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_227.md)
+
 ## Closest similar item
 
 * [smart hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1981.md)

@@ -2,9 +2,9 @@
 
 # __Misdiagnoses, privacy breaches, equipment malfunction, costs__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Virtual care platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2377.md)
+* [Protection of sensitive information and prevention of unauthorized access or breaches in various technological contexts.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_117.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Data security breaches](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2101.md)
 * [Data privacy breach](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2763.md)
 * [Security risks, spread of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3224.md)
+
+## Mitigations of this risk
+
+* [Virtual care platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2377.md)
 

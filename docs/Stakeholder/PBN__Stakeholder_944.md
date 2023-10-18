@@ -2,10 +2,9 @@
 
 # __landscape architects__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Lack of green space diversity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1544.md)
-* [New green space designs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1460.md)
+* [Individuals involved in the design, construction, management, and occupation of various types of buildings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_367.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [surveyors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_982.md)
 * [urban planners and designers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1229.md)
 * [building designers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_11.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Lack of green space diversity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1544.md)
+* [New green space designs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1460.md)
 

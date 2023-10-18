@@ -2,10 +2,9 @@
 
 # __Development of Language Resources__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [Translation software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2619.md)
-* [Development of accurate language databases](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2620.md)
+* [Technological tools and resources for creating, organizing, and utilizing information within the digital realm.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_33.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Technologies and Techniques](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_179.md)
 * [Capacity Building and Support Programs](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_105.md)
 * [Building Materials](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_180.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [Translation software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2619.md)
+* [Development of accurate language databases](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2620.md)
 

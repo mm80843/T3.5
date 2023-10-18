@@ -2,9 +2,9 @@
 
 # __Globalization and environmental change__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Monitoring changes in environmental and climatic conditions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1018.md)
+* [The interconnectedness of environmental degradation, social inequalities, and the need for climate action and conservation efforts.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_104.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Environmental Pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1869.md)
 * [Environmental pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_581.md)
 * [Environmental](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1582.md)
+
+## Mitigations of this risk
+
+* [Monitoring changes in environmental and climatic conditions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1018.md)
 

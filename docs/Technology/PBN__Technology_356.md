@@ -2,13 +2,9 @@
 
 # __electric vehicles__
 
-## Risks linked to this technology
+## Category to which it belongs
 
-* [Decreased carbon emissions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1254.md)
-
-## This Technology enables the following mitigations
-
-* [Green transportation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1099.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Robots, Drones & Automated Vehicules](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4539.md)
 * [appliances](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4355.md)
 * [microgrids](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_931.md)
+
+## This Technology enables the following mitigations
+
+* [Green transportation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1099.md)
+
+## Risks linked to this technology
+
+* [Decreased carbon emissions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1254.md)
 

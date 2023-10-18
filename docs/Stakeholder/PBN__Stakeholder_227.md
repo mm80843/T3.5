@@ -2,22 +2,9 @@
 
 # __decision-makers__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q1331926](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1331926.md)
-
-## Closest similar item
-
-* [local decision-makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_472.md)
-* [policy-makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_229.md)
-* [policy makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3.md)
-* [regulatory authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1297.md)
-* [risk experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1077.md)
-* [management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1453.md)
-* [city planner](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1607.md)
-* [city planners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_752.md)
-* [government authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_302.md)
-* [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
+* [Entities and individuals who interact with or are affected by a system, organization, or public facility.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_1.md)
 
 ## Risk affecting this stakeholder
 
@@ -32,6 +19,19 @@
 * [Impact on decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1571.md)
 * [Limited accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1534.md)
 
+## Closest similar item
+
+* [local decision-makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_472.md)
+* [policy-makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_229.md)
+* [policy makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3.md)
+* [regulatory authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1297.md)
+* [risk experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1077.md)
+* [management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1453.md)
+* [city planner](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1607.md)
+* [city planners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_752.md)
+* [government authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_302.md)
+* [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
+
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Increased acceptability of evidence](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_538.md)
@@ -42,4 +42,8 @@
 * [Addressing context-specific knowledge gaps and needs](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_546.md)
 * [Broadening search for relevant evidence](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_547.md)
 * [Improved decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_661.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q1331926](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1331926.md)
 

@@ -2,6 +2,10 @@
 
 # __encryption technology__
 
+## Category to which it belongs
+
+* [Various security measures, such as encryption, authentication protocols, secure data storage, and blockchain, are used to protect digital platforms and ensure privacy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_201.md)
+
 ## Risks linked to this technology
 
 * [Privacy and security concerns in contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1711.md)

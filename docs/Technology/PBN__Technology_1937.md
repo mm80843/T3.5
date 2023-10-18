@@ -2,13 +2,13 @@
 
 # __opt-in systems__
 
+## Category to which it belongs
+
+* [These resources aim to enhance security, convenience, and efficiency in managing access, spaces, and systems within various environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_206.md)
+
 ## Risks linked to this technology
 
 * [Privacy invasion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2343.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Privacy and Anonymity Techniques](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_139.md)
 
 ## Closest similar item
 
@@ -23,11 +23,15 @@
 * [Automation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4541.md)
 * [integrated building systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3217.md)
 
-## This Technology belongs to this TechGroup
-
-* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_5.md)
-
 ## This Technology is identified by the following QID
 
 * [Q5933776](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5933776.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Privacy and Anonymity Techniques](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_139.md)
+
+## This Technology belongs to this TechGroup
+
+* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_5.md)
 

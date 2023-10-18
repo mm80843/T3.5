@@ -2,13 +2,9 @@
 
 # __Creating a new vocabulary or typology to describe public spaces__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Need for a new typology for public space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_913.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved understanding and analysis of public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1245.md)
+* [Promote the integration of natural elements and communal areas, enhance accessibility and quality, and foster positive perception and functionality of public and private green and outdoor spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_331.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Redesign public spaces to allow for social distancing, implement improved sanitization measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2305.md)
 * [Foster positive perceptions and awareness of the benefits and value of public spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1983.md)
 * [Provide safe and social spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2869.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved understanding and analysis of public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1245.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Need for a new typology for public space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_913.md)
 

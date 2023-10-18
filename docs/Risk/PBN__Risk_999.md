@@ -2,9 +2,9 @@
 
 # __Lack of monitoring system for high-risk patients__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Implementation of IoT](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1421.md)
+* [Limited monitoring, technical limitations, language barriers, expensive optimization, lack of connection with nature, and limited sensor diversity hinder effective response and resource allocation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_107.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of patient control over medical data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_321.md)
 * [Health surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3426.md)
 * [Lack of healthcare data exchange](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1273.md)
+
+## Mitigations of this risk
+
+* [Implementation of IoT](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1421.md)
 

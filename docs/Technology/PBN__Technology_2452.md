@@ -2,9 +2,9 @@
 
 # __Risk detection systems and drones__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
-* [Risk Detection and Early Response Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_154.md)
+* [Safety protocols, emergency response plans, risk assessment tools, and comprehensive risk communication strategies ensure workplace safety and crisis management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_232.md)
 
 ## Closest similar item
 
@@ -19,12 +19,16 @@
 * [drones for medical supply delivery](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1171.md)
 * [uavs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4124.md)
 
+## This Technology is identified by the following QID
+
+* [Q198024](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q198024.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Risk Detection and Early Response Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_154.md)
+
 ## This Technology belongs to this TechGroup
 
 * [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
 * [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_17.md)
-
-## This Technology is identified by the following QID
-
-* [Q198024](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q198024.md)
 

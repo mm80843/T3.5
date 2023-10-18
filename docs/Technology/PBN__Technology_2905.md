@@ -2,9 +2,9 @@
 
 # __improved governance and service provision__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Informal settlements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_24.md)
+* [Government actions and regulations addressing various aspects of society, including policy changes, ethical frameworks, governance mechanisms, and public announcements.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_216.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [adequate funding and staffing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1185.md)
 * [infrastructure development and provision technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1673.md)
 * [Infrastructure development and provision technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2377.md)
+
+## This Technology enables the following mitigations
+
+* [Informal settlements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_24.md)
 

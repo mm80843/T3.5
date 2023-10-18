@@ -2,9 +2,9 @@
 
 # __individuals in non-english speaking countries__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Exclusion of non-English speaking populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1590.md)
+* [Global disadvantaged populations, particularly those in developing and non-English speaking countries, including women, children, rural households, and individuals.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_399.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [People in developing countries](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2363.md)
 * [cultural workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1496.md)
 * [non-taiwanese citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_71.md)
+
+## Risk affecting this stakeholder
+
+* [Exclusion of non-English speaking populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1590.md)
 

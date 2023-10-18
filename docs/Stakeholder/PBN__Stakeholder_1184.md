@@ -2,9 +2,9 @@
 
 # __people in spaces connected to ventilation systems__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Air recirculation in ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1777.md)
+* [Individuals in poorly ventilated indoor environments, especially those in enclosed spaces with limited air flow, such as offices, homes, and buildings with inadequate air filtration, are at risk of exposure to poor indoor air quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_398.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [People in spaces with poor air circulation and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2344.md)
 * [individuals in poorly ventilated indoor environments such as offices](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_671.md)
 * [people in indoor spaces with air-conditioning systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_925.md)
+
+## Risk affecting this stakeholder
+
+* [Air recirculation in ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1777.md)
 

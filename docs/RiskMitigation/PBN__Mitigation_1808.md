@@ -2,8 +2,9 @@
 
 # __Avoidance of non-essential use of public transport especially during rush hours__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Enhancing urban mobility through pedestrian-friendly infrastructure, optimized transportation, and improved public transportation systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_151.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Improved public transportation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2435.md)
 * [Restricted Travel](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1382.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Disease spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2651.md)
-
 ## Property: has_MitigationPrinciple
 
 Minimize use of public transportation to decrease contact and transmission
 
+## Risks possibly mitigated by this Mitigation
+
+* [Disease spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2651.md)
+
 ## Property: has_MitigationSource
 
 * [Coronavirus questions that will not go away: interrogating urban and socio-spatial implications of COVID-19 measures](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_184.md)
+
+## This Mitigation is enabled by the following technologies
+
 

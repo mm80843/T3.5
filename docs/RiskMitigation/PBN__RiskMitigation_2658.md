@@ -2,9 +2,9 @@
 
 # __Implementation of thermal imaging cameras and temperature screening protocols__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Inadequate temperature screening](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2033.md)
+* [Monitoring, analysis, and standardization of various technologies and protocols for accurate and reliable healthcare data collection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_310.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Screening technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_635.md)
 * [Surveillance system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_983.md)
 * [Regulation of surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1201.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inadequate temperature screening](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2033.md)
 

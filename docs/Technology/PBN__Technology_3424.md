@@ -2,9 +2,9 @@
 
 # __welfare policies__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Addressing precarity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_742.md)
+* [Government actions and regulations addressing various aspects of society, including policy changes, ethical frameworks, governance mechanisms, and public announcements.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_216.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [subsidies for low-income individuals](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1828.md)
 * [inclusive policies and programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3628.md)
 * [wage subsidies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4379.md)
+
+## This Technology enables the following mitigations
+
+* [Addressing precarity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_742.md)
 

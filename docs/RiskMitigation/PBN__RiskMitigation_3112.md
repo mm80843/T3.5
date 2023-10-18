@@ -2,9 +2,9 @@
 
 # __Improve the design of 3D-printed PPE to address safety concerns__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Safety concerns with 3D-printed PPE](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2397.md)
+* [Efforts include RNA monitoring, occupant exposure modeling, targeted messages, adoption of principles, copper coating, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_311.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Increase production and distribution of PPE, implement reuse and recycling strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3111.md)
 * [Implementation of safety protocols, including personal protective equipment (PPE), proper handling and disposal of samples, and adherence to biosafety guidelines, can minimize the risk of exposure and spread of the virus in the laboratory.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2169.md)
 * [Increase production and distribution of PPE, implement reuse and recycling programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2018.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Safety concerns with 3D-printed PPE](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2397.md)
 

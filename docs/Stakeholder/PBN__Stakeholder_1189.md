@@ -2,9 +2,9 @@
 
 # __people in indoor environments during an epidemic__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Minimizing the number of people in indoor environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1781.md)
+* [Individuals in poorly ventilated indoor environments, especially those in enclosed spaces with limited air flow, such as offices, homes, and buildings with inadequate air filtration, are at risk of exposure to poor indoor air quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_398.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [people in indoor spaces with air-conditioning systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_925.md)
 * [People in indoor spaces with air-conditioning systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2329.md)
 * [individuals in the vicinity of infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1455.md)
+
+## Risk affecting this stakeholder
+
+* [Minimizing the number of people in indoor environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1781.md)
 

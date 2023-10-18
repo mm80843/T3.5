@@ -2,14 +2,9 @@
 
 # __local authorities__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Limited access to essential services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1108.md)
-* [Insufficient Sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1456.md)
-* [Provision of community-level designated zones as key public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_271.md)
-* [Lack of adherence to prevention measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2384.md)
-* [Unhygienic neighbourhood](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1091.md)
-* [Insufficient crowd management measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1681.md)
+* [Various organizations and professionals responsible for overseeing specific areas of governance, infrastructure, protection, and creativity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_395.md)
 
 ## Closest similar item
 
@@ -23,4 +18,13 @@
 * [National authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2430.md)
 * [government authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_302.md)
 * [city authority](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1616.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Limited access to essential services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1108.md)
+* [Insufficient Sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1456.md)
+* [Provision of community-level designated zones as key public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_271.md)
+* [Lack of adherence to prevention measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2384.md)
+* [Unhygienic neighbourhood](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1091.md)
+* [Insufficient crowd management measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1681.md)
 

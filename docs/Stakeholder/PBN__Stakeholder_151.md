@@ -6,6 +6,10 @@
 
 * [Efficacy of UV light](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_318.md)
 
+## Category to which it belongs
+
+* [Employees across various industries, including laboratories, maintenance personnel, cleaning staff, and workers in the informal sector.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_359.md)
+
 ## Closest similar item
 
 * [maintenance staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_704.md)

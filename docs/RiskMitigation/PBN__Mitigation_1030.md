@@ -2,8 +2,9 @@
 
 # __Access to Financial Capital__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Promoting financial stability and inclusivity through diverse funding sources, transparent donations, and innovative investment incentives.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_174.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Subsidizing and capital injection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_202.md)
 * [Supporting access to technology and capital goods in Global South](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1006.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Limited capital and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2868.md)
-
 ## Property: has_MitigationPrinciple
 
 Improves access to financial capital, such as reducing loan interest rates or improving loan availability, to support the financial capability of startups and address challenges during the crisis.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Limited capital and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2868.md)
+
 ## Property: has_MitigationSource
 
 * [Startups in times of crisis – A rapid response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_158.md)
+
+## This Mitigation is enabled by the following technologies
+
 

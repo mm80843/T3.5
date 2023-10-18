@@ -2,9 +2,9 @@
 
 # __Need to clearly define criteria__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Use of simulation for policy-making](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1632.md)
+* [A list of challenges and uncertainties surrounding the impact and response to various events and crises in different sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_124.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of detailed analysis on visitors’ attributes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3646.md)
 * [Contextual factors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1386.md)
 * [Lack of validation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2926.md)
+
+## Mitigations of this risk
+
+* [Use of simulation for policy-making](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1632.md)
 

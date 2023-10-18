@@ -2,13 +2,9 @@
 
 # __soap dispensers__
 
-## Risks linked to this technology
+## Category to which it belongs
 
-* [Inadequate sanitation and hygiene facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1680.md)
-
-## This Technology enables the following mitigations
-
-* [Proper handwashing hygiene promotion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_554.md)
+* [Enhanced hygiene practices and strict adherence to cleaning protocols ensure rigorous sanitation and disinfection measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_196.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [use of soap and hot water for handwashing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_504.md)
 * [hand washing with soap and water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_857.md)
 * [Hand washing with soap and water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2821.md)
+
+## This Technology enables the following mitigations
+
+* [Proper handwashing hygiene promotion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_554.md)
+
+## Risks linked to this technology
+
+* [Inadequate sanitation and hygiene facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1680.md)
 

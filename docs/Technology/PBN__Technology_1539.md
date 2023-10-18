@@ -2,6 +2,10 @@
 
 # __logistics systems__
 
+## Category to which it belongs
+
+* [Efficiently manage and optimize the flow of goods, data, and suppliers for resilient local supply chains.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_191.md)
+
 ## Risks linked to this technology
 
 * [Inadequate supplies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2058.md)

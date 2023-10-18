@@ -2,26 +2,9 @@
 
 # __government agencies__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q327333](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q327333.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
-
-## Closest similar item
-
-* [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
-* [public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_222.md)
-* [government programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2743.md)
-* [government initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2745.md)
-* [government websites](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2764.md)
-* [city governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_354.md)
-* [City governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2741.md)
-* [government support](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2744.md)
-* [government communications](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2765.md)
-* [healthcare authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_452.md)
+* [Government and non-governmental organizations responsible for a wide range of services, including health, development, regulation, and emergency response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_382.md)
 
 ## Risk affecting this stakeholder
 
@@ -38,9 +21,18 @@
 * [Cost of Setup and Operation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1104.md)
 * [Scalability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1101.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Closest similar item
 
-* [Government and Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_8.md)
+* [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
+* [public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_222.md)
+* [government programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2743.md)
+* [government initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2745.md)
+* [government websites](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2764.md)
+* [city governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_354.md)
+* [City governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2741.md)
+* [government support](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2744.md)
+* [government communications](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2765.md)
+* [healthcare authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_452.md)
 
 ## This Stakeholder can get these Benefits from mitigation measures
 
@@ -134,4 +126,16 @@
 * [Declining yields on treasury instruments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1978.md)
 * [Lack of healthcare information in property management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2046.md)
 * [Lack of redundancy in supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2154.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Government and Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_8.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q327333](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q327333.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
 

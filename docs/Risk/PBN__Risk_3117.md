@@ -2,9 +2,9 @@
 
 # __Increased contact with disease vectors__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Outdoor space design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1515.md)
+* [The challenge lies in the lack of knowledge, limited consideration, and inherent limitations in representing disease transmission mechanisms, mobility patterns, and heterogeneity in macroscopic epidemiological models.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_97.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Direct contact with infectious material](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2615.md)
 * [Disease spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2651.md)
 * [Ineffective disease screening and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1800.md)
+
+## Mitigations of this risk
+
+* [Outdoor space design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1515.md)
 

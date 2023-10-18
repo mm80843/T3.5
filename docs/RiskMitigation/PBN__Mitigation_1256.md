@@ -2,8 +2,9 @@
 
 # __Real-time updates and communication__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Enabling technology and tools for connectivity, privacy, convenience, and efficient communication in a digital age.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_156.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_371.md)
 * [Data synchronization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_700.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Misinformation, accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2999.md)
-
 ## Property: has_MitigationPrinciple
 
 Provide timely and accurate information to the public to increase awareness and response
 
+## Risks possibly mitigated by this Mitigation
+
+* [Misinformation, accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2999.md)
+
 ## Property: has_MitigationSource
 
 * [A critical review of emerging technologies for tackling COVID ‐19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_91.md)
+
+## This Mitigation is enabled by the following technologies
+
 

@@ -2,10 +2,9 @@
 
 # __Digital platforms__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [big urban data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4167.md)
-* [digital services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4168.md)
+* [Enabling technology and tools for connectivity, privacy, convenience, and efficient communication in a digital age.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_156.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [platforms and virtual](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4218.md)
 * [digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4219.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Lack of regulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3307.md)
-
 ## Property: has_MitigationPrinciple
 
 Companies like Airbnb and Uber use data to manage their services related to food, tourism, and mobility
 
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of regulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3307.md)
+
 ## Property: has_MitigationSource
 
 * [The three modes of existence of the pandemic smart city](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_250.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [big urban data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4167.md)
+* [digital services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4168.md)
 

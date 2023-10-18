@@ -2,13 +2,9 @@
 
 # __Improving ventilation__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Transmission of SARS-CoV-2 in built environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_377.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction in airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_341.md)
+* [Enhance airflow, increase fresh air intake, and optimize ventilation systems to improve air quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_329.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Increased natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_484.md)
 * [Enhanced ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_607.md)
 * [Provide natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2874.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction in airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_341.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Transmission of SARS-CoV-2 in built environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_377.md)
 

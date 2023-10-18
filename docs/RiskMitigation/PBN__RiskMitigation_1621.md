@@ -2,9 +2,9 @@
 
 # __Ensure adequate and appropriate UV-C exposure time based on virus type and concentration.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Insufficient virus reduction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1169.md)
+* [Utilize UVGI technology to disinfect air, surfaces, and clothing, ensuring proper installation, training, and research to optimize effectiveness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_352.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Consider alternative infection control technologies, such as laminar airflow, before using UVGI systems in operating rooms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2328.md)
 * [UV air disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_448.md)
 * [Use UV-C disinfection as an adjunct to standard cleaning practices, not as a replacement.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1622.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Insufficient virus reduction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1169.md)
 

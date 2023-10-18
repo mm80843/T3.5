@@ -2,13 +2,9 @@
 
 # __People living in substandard housing__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q12301128](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q12301128.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Individuals and communities experiencing socioeconomic disparities, economic hardship, housing instability, and social disadvantage.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_393.md)
 
 ## Closest similar item
 
@@ -26,4 +22,12 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Environmental and Living Conditions](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_98.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q12301128](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q12301128.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 

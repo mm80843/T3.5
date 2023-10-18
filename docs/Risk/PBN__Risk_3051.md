@@ -2,9 +2,9 @@
 
 # __Inaccurate predictions__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [AI-based prediction models for pandemic forecasting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1405.md)
+* [The proliferation of false and misleading information, misinformation, and inaccurate news during pandemics creates confusion and a lack of trust in reliable sources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_127.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inaccurate or random results](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2927.md)
 * [Inaccurate news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3132.md)
 * [Inaccurate input](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3041.md)
+
+## Mitigations of this risk
+
+* [AI-based prediction models for pandemic forecasting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1405.md)
 

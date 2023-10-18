@@ -2,9 +2,9 @@
 
 # __Standardization of PCR protocols, optimization of sample handling and concentration methods.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Complexity of wastewater matrix](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_634.md)
+* [Monitoring, analysis, and standardization of various technologies and protocols for accurate and reliable healthcare data collection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_310.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Developing sensitive RT-qPCR assays for wastewater](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_991.md)
 * [CDR data analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_388.md)
 * [Integration of new technologies (digital PCR, CSRPP, LOC/POC, biosensors)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_878.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Complexity of wastewater matrix](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_634.md)
 

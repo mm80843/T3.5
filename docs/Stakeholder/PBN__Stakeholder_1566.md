@@ -2,9 +2,9 @@
 
 # __individuals in low-income areas__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Socioeconomic inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2344.md)
+* [Vulnerable and economically disadvantaged individuals and communities, including low-income workers, renters, and households, particularly in urban areas and minority communities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_375.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Low-income individual](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2203.md)
 * [low-income individuals and families](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_409.md)
 * [low-income citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_510.md)
+
+## Risk affecting this stakeholder
+
+* [Socioeconomic inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2344.md)
 

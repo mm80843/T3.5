@@ -2,9 +2,9 @@
 
 # __Indoor Environmental Quality__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Sustainable Building Design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1786.md)
+* [Limited physical/social distancing, thermal discomfort, poor lighting, and inadequate air quality negatively impact personal comfort.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_130.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Green Spaces and Urban Design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3713.md)
 * [Air Quality and Filtration Systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3714.md)
 * [Building Materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3715.md)
+
+## Mitigations of this risk
+
+* [Sustainable Building Design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1786.md)
 

@@ -2,10 +2,9 @@
 
 # __Portable noise measurement__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [smartphone’s microphone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3649.md)
-* [raspberry pi](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3650.md)
+* [A comprehensive set of actions and rules aimed at protecting individuals and controlling the spread of COVID-19.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_173.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Design for physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1281.md)
 * [Safe distancing measures in offices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_899.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [None](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2827.md)
-
 ## Property: has_MitigationPrinciple
 
 Collecting objective data on noise levels for analysis and mitigation
 
+## Risks possibly mitigated by this Mitigation
+
+* [None](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2827.md)
+
 ## Property: has_MitigationSource
 
 * [Attitudes towards outdoor and neighbour noise during the COVID-19 lockdown: A case study in London](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_247.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [smartphone’s microphone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3649.md)
+* [raspberry pi](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3650.md)
 

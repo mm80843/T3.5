@@ -2,9 +2,9 @@
 
 # __Incorporating disease prevention principles in urban design, improving ventilation and sanitation, promoting active transportation.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Inadequate urban design and planning for disease prevention](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1314.md)
+* [Enhance airflow, increase fresh air intake, and optimize ventilation systems to improve air quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_329.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Urban planning and design to create more open space, improve infrastructure, and promote safe transportation options.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1921.md)
 * [Implement effective infection control measures, such as regular cleaning and disinfection, ventilation systems, and promoting personal hygiene practices.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2507.md)
 * [Improving ventilation systems, promoting outdoor activities, wearing masks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1574.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inadequate urban design and planning for disease prevention](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1314.md)
 

@@ -2,9 +2,9 @@
 
 # __contact tracing software__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1128437](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1128437.md)
+* [A list of diverse software tools, including financial management, construction technology, project management, communication, and monitoring software.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_219.md)
 
 ## Risks linked to this technology
 
@@ -23,4 +23,8 @@
 * [contact tracing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1462.md)
 * [manual contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3091.md)
 * [use of contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_557.md)
+
+## This Technology is identified by the following QID
+
+* [Q1128437](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1128437.md)
 

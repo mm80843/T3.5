@@ -6,6 +6,10 @@
 
 * [Resolving medical facility issues for orthopaedic patients](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_159.md)
 
+## Category to which it belongs
+
+* [Various individuals in the healthcare industry, including epidemiologists, medical personnel, clinicians, surgeons, and patients in need of medical care.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_360.md)
+
 ## Closest similar item
 
 * [patients in healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1169.md)

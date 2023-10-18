@@ -2,13 +2,9 @@
 
 # __Promote diversification and self-sufficiency__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Economic instability due to global connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_14.md)
-
-## Property: has_MitigationBenefit
-
-* [Increased resilience to disruptions and instability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_26.md)
+* [Promote sustainable development through infrastructure investments, training, diversification, financial support, and government partnerships.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_315.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Foster economic resilience through improved risk management and diversification strategies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2424.md)
 * [Diversify funding sources, develop alternative revenue streams, promote domestic tourism, and enhance marketing strategies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1781.md)
 * [Foster competition and diversification in GVCs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_308.md)
+
+## Property: has_MitigationBenefit
+
+* [Increased resilience to disruptions and instability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_26.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Economic instability due to global connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_14.md)
 

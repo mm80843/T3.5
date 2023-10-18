@@ -2,13 +2,9 @@
 
 # __Ensuring domestic budgets support__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Reduction in domestic public budgets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_106.md)
-
-## Property: has_MitigationBenefit
-
-* [Sustainable funding](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_148.md)
+* [Promote sustainable development through infrastructure investments, training, diversification, financial support, and government partnerships.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_315.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Develop comprehensive plans, allocate resources effectively](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1457.md)
 * [Government support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_940.md)
 * [Government support for healthcare systems, financial assistance programs, stimulus packages.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2602.md)
+
+## Property: has_MitigationBenefit
+
+* [Sustainable funding](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_148.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Reduction in domestic public budgets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_106.md)
 

@@ -2,13 +2,9 @@
 
 # __Attention to liver transplant recipients with metabolic comorbidities__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Enteric involvement in COVID-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_292.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved management of liver transplant recipients](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_361.md)
+* [Efforts include RNA monitoring, occupant exposure modeling, targeted messages, adoption of principles, copper coating, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_311.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implement and enforce non-pharmaceutical interventions at early stages of pandemics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2138.md)
 * [Enhance healthcare capacity, stockpile medical supplies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2851.md)
 * [Explore the use of additional physiological measurements to improve accuracy of diagnosis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1561.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved management of liver transplant recipients](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_361.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Enteric involvement in COVID-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_292.md)
 

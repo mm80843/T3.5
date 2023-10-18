@@ -2,9 +2,9 @@
 
 # __Occupational Health and Safety Agencies__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [Occupational health and safety agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1860.md)
+* [List of entities related to various types of employment, job titles, and workplace safety organizations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_259.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Healthcare Administration](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_49.md)
 * [International and Health Organizations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_116.md)
 * [Emergency Services and Management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_166.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [Occupational health and safety agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1860.md)
 

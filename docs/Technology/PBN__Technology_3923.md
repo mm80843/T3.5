@@ -2,9 +2,9 @@
 
 # __signs__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Promoting worker safety](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1561.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1002.md)
 * [signage materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4103.md)
 * [fans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3028.md)
+
+## This Technology enables the following mitigations
+
+* [Promoting worker safety](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1561.md)
 

@@ -2,15 +2,9 @@
 
 # __Digital communication strategies__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved communication](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_455.md)
-* [Professional networking](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_456.md)
-* [Enhanced structured communication](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_457.md)
+* [Facilitate transparent communication, enabling reliable information sharing through standardized protocols and effective channels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_0.md)
 
 ## Closest similar item
 
@@ -24,4 +18,14 @@
 * [Centralized communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1443.md)
 * [Use of digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_707.md)
 * [Development of reliable communication channels, sharing accurate information, coordination platforms.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2600.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved communication](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_455.md)
+* [Professional networking](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_456.md)
+* [Enhanced structured communication](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_457.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
 

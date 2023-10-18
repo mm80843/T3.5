@@ -2,9 +2,9 @@
 
 # __exercise equipment (dumbbells__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Muscle strengthening exercises](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_443.md)
+* [Safety and operational tools for various fields, including healthcare, cleaning, maintenance, and emergency preparation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_212.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [fitness tracking devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_407.md)
 * [Fitness tracking devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2182.md)
 * [gyms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1741.md)
+
+## This Technology enables the following mitigations
+
+* [Muscle strengthening exercises](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_443.md)
 

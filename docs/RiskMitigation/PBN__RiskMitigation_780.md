@@ -2,13 +2,9 @@
 
 # __Financial support__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Financial impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_553.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved liquidity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_783.md)
+* [Promote sustainable development through infrastructure investments, training, diversification, financial support, and government partnerships.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_315.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Financial support programs, remote work options, community help initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2964.md)
 * [Establish government support programs, provide financial assistance and relief measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2827.md)
 * [Government financial programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_943.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved liquidity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_783.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Financial impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_553.md)
 

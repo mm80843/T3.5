@@ -2,14 +2,16 @@
 
 # __society__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q8425](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q8425.md)
-* [Q2111379](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2111379.md)
+* [Entities and individuals who interact with or are affected by a system, organization, or public facility.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_1.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
+* [Decreased carbon emissions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1254.md)
+* [Energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_745.md)
+* [Environmental](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1582.md)
+* [Cyber-attacks and disinformation campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2228.md)
 
 ## Closest similar item
 
@@ -23,17 +25,6 @@
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 * [community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_313.md)
 * [civil society organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_232.md)
-
-## Risk affecting this stakeholder
-
-* [Decreased carbon emissions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1254.md)
-* [Energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_745.md)
-* [Environmental](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1582.md)
-* [Cyber-attacks and disinformation campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2228.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Society](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_128.md)
 
 ## This Stakeholder can get these Benefits from mitigation measures
 
@@ -57,4 +48,17 @@
 ## Risks that can be mitigated by this stakeholder
 
 * [Cyber-attacks and disinformation campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2228.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Society](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_128.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q8425](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q8425.md)
+* [Q2111379](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2111379.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
 

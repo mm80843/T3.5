@@ -2,11 +2,9 @@
 
 # __Policy interventions__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1177.md)
-* [policy interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3423.md)
-* [neighbourhood improvements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3414.md)
+* [Promoting effective communication, education, and trust through transparency, clear guidelines, and innovative strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_144.md)
 
 ## Closest similar item
 
@@ -21,16 +19,22 @@
 * [Targeted policies for specific social groups](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2210.md)
 * [Non-pharmaceutical interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_237.md)
 
+## Property: has_MitigationPrinciple
+
+Shift and reduce harm by improving the quality of neighbourhoods and communities to reduce the risk of health harming behaviors and social harm
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Mental health harms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3.md)
 * [Harms in the neighbourhood](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2709.md)
 
-## Property: has_MitigationPrinciple
-
-Shift and reduce harm by improving the quality of neighbourhoods and communities to reduce the risk of health harming behaviors and social harm
-
 ## Property: has_MitigationSource
 
 * [Dangerous liaisons? Applying the social harm perspective to the social inequality, housing and health trifecta during the Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_2.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1177.md)
+* [policy interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3423.md)
+* [neighbourhood improvements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3414.md)
 

@@ -2,9 +2,9 @@
 
 # __Stagnant water provides mosquito breeding grounds__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Drainage management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1477.md)
+* [The proliferation of diseases carried by ticks and mosquitoes, exacerbated by climate change, inadequate control measures, and wildlife disturbance, causing increased prevalence and spread of various illnesses.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_119.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Traditional materials attract mosquitoes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3091.md)
 * [Climate change impacts on mosquito-borne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_758.md)
 * [Emergence of mosquito-borne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_57.md)
+
+## Mitigations of this risk
+
+* [Drainage management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1477.md)
 

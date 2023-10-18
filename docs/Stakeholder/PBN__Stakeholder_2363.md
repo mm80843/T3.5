@@ -2,13 +2,9 @@
 
 # __People in developing countries__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q177323](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q177323.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Global disadvantaged populations, particularly those in developing and non-English speaking countries, including women, children, rural households, and individuals.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_399.md)
 
 ## Closest similar item
 
@@ -26,4 +22,12 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Economic and Social Status](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_106.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q177323](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q177323.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 

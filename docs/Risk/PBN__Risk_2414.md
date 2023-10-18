@@ -2,9 +2,9 @@
 
 # __Greenhouse gas emissions__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Mobility limitations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_31.md)
+* [The interconnectedness of environmental degradation, social inequalities, and the need for climate action and conservation efforts.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_104.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Climate change and environmental damage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3405.md)
 * [Climate change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_894.md)
 * [Air pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_148.md)
+
+## Mitigations of this risk
+
+* [Mobility limitations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_31.md)
 

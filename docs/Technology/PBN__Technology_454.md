@@ -2,12 +2,13 @@
 
 # __stakeholder engagement__
 
+## Category to which it belongs
+
+* [Maximizing economic efficiency while promoting financial stability through innovative strategies, investments, and partnerships at various levels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_195.md)
+
 ## Risks linked to this technology
 
 * [Impact of economic recovery responses on PCAs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1301.md)
-
-## This Technology belongs to this TechSubgroup
-
 
 ## Closest similar item
 
@@ -22,11 +23,14 @@
 * [community engagement strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_438.md)
 * [Community engagement strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2163.md)
 
-## This Technology belongs to this TechGroup
-
-* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
-
 ## This Technology is identified by the following QID
 
 * [Q2930198](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2930198.md)
+
+## This Technology belongs to this TechSubgroup
+
+
+## This Technology belongs to this TechGroup
+
+* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
 

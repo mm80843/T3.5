@@ -2,9 +2,9 @@
 
 # __Migration of infectious particles from patient room to corridor__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Partitioning to create anterooms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_393.md)
+* [The wide-ranging transmission, survival, and spread of infectious respiratory viruses and pathogens indoors and on surfaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_122.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Infection propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2259.md)
 * [Contagious diseases transmission through hospital wastes and wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2314.md)
 * [Spread of hospital acquired infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_866.md)
+
+## Mitigations of this risk
+
+* [Partitioning to create anterooms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_393.md)
 

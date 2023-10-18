@@ -2,13 +2,9 @@
 
 # __manufacturing companies__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Shortage of COVID-19 testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_353.md)
-
-## Risk affecting this stakeholder
-
-* [Decline in manufacturing industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1810.md)
+* [These companies span a wide array of industries, including renewable energy, construction, pharmaceuticals, logistics, and technology.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_387.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Pharmaceutical companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1987.md)
 * [additive manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2908.md)
 * [Additive manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2909.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Shortage of COVID-19 testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_353.md)
+
+## Risk affecting this stakeholder
+
+* [Decline in manufacturing industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1810.md)
 

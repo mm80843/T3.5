@@ -2,13 +2,9 @@
 
 # __Remote monitoring__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Workforce management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_720.md)
-
-## Property: has_MitigationBenefit
-
-* [Optimized operations](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1006.md)
+* [Enhanced surveillance, monitoring, and real-time tracking for improved control and response to various situations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_312.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [remote monitoring and tracking technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3405.md)
 * [Remote monitoring and tracking technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3406.md)
 * [remote patient monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3407.md)
+
+## Property: has_MitigationBenefit
+
+* [Optimized operations](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1006.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Workforce management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_720.md)
 

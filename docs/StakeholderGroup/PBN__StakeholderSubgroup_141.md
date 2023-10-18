@@ -2,9 +2,9 @@
 
 # __Community Developers__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [community developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1551.md)
+* [Residents, locals, civic groups, support systems, and builders in a neighborhood.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_258.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Community Leaders/Organizers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_127.md)
 * [Community Support Networks/Services](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_133.md)
 * [Workers/Professionals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_47.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [community developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1551.md)
 

@@ -2,8 +2,9 @@
 
 # __Inoculation of virus onto Hela cells__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Effective management of viral outbreaks through control measures, viral detection, disease tracking, and public awareness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_149.md)
 
 ## Closest similar item
 
@@ -18,14 +19,17 @@
 * [Antiviral Coatings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_194.md)
 * [Structural changes in coronavirus spike glycoprotein](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_543.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Enables the replication of the virus in a controlled environment
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Efficacy of an Automated Multiple Emitter Whole-Room Ultraviolet-C Disinfection System Against Coronaviruses MHV and MERS-CoV](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_269.md)
+
+## This Mitigation is enabled by the following technologies
+
 

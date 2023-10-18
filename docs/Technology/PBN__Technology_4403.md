@@ -2,9 +2,9 @@
 
 # __chlorine gas__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Liquid chlorine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2311.md)
+* [The range of materials and techniques listed includes various disinfectants, nanomaterials, manufacturing methods, coatings, sustainability measures, and analytical tools.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_237.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [sodium hypochlorite](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_852.md)
 * [sodium chloride](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3490.md)
 * [sodium dichloroisocyanurate solution containing 500 mg/l chlorine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3302.md)
+
+## This Technology enables the following mitigations
+
+* [Liquid chlorine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2311.md)
 

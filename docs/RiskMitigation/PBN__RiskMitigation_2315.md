@@ -2,9 +2,9 @@
 
 # __Promote awareness about asymptomatic transmission, encourage individuals to practice preventive measures regardless of symptoms__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Spread before symptoms appear](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1747.md)
+* [Enforce safety measures, promote responsible behavior, utilize PPE, and prioritize risk prevention to ensure adequate protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_342.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Promote and enforce adherence to preventive measures through education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1555.md)
 * [Increase testing capacity to include testing of mild or asymptomatic individuals to obtain a more accurate assessment of the prevalence.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2563.md)
 * [Promote social distancing, wear masks, wash hands regularly, implement contact tracing and testing.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2014.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Spread before symptoms appear](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1747.md)
 

@@ -2,9 +2,9 @@
 
 # __Clinicians__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [clinician](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1868.md)
+* [People involved in healthcare.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_246.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Public Health Agencies](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_43.md)
 * [Healthcare Condition-Specific Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_81.md)
 * [Individuals with Health Conditions](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_76.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [clinician](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1868.md)
 

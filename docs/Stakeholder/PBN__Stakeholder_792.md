@@ -2,13 +2,13 @@
 
 # __especially elderly and individuals with chronic conditions__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q1952420](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1952420.md)
+* [Especially susceptible individuals, such as allergy sufferers, those with weakened immune systems, and individuals with respiratory conditions, are at higher risk.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_388.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Decreased physical activity during quarantine and social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1277.md)
 
 ## Closest similar item
 
@@ -23,11 +23,15 @@
 * [especially those with high disease burden](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_594.md)
 * [individual with poor health condition](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2114.md)
 
-## Risk affecting this stakeholder
-
-* [Decreased physical activity during quarantine and social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1277.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Age-Specific Concerns](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_112.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q1952420](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1952420.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 

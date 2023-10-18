@@ -2,13 +2,9 @@
 
 # __UV air disinfection__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Airborne transmission of respiratory animal viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_337.md)
-
-## Property: has_MitigationBenefit
-
-* [Inactivation of respiratory animal viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_433.md)
+* [Utilize UVGI technology to disinfect air, surfaces, and clothing, ensuring proper installation, training, and research to optimize effectiveness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_352.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1131.md)
 * [Air filtration and UV light sterilisation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1130.md)
 * [Upper room GUV air disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_340.md)
+
+## Property: has_MitigationBenefit
+
+* [Inactivation of respiratory animal viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_433.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Airborne transmission of respiratory animal viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_337.md)
 

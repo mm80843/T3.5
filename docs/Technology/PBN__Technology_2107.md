@@ -2,9 +2,9 @@
 
 # __Development of standardized protocols and assays for SARS-CoV-2 detection in environmental samples__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
-* [Diagnostic and Testing Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_12.md)
+* [Advancements in molecular biology, diagnostics, vaccines, antiviral technologies, and disease surveillance for pathogen detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_223.md)
 
 ## Closest similar item
 
@@ -19,11 +19,15 @@
 * [Rapid and reliable COVID-19 testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2542.md)
 * [co2 concentration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4251.md)
 
-## This Technology belongs to this TechGroup
-
-* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
-
 ## This Technology is identified by the following QID
 
 * [Q86901049](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q86901049.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Diagnostic and Testing Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_12.md)
+
+## This Technology belongs to this TechGroup
+
+* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
 

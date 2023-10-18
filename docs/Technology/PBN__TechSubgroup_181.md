@@ -2,11 +2,9 @@
 
 # __Building Design and Construction__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [Building material technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2657.md)
-* [Architectural design technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2722.md)
-* [Enhanced structural design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2718.md)
+* [Architectural engineering disciplines and regulations related to constructing and designing residential and commercial buildings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_45.md)
 
 ## Closest similar item
 
@@ -20,4 +18,10 @@
 * [Urban Planning and Zoning](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_125.md)
 * [Resilient Design](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_182.md)
 * [Indoor Environment and Ventilation Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_75.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [Building material technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2657.md)
+* [Architectural design technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2722.md)
+* [Enhanced structural design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2718.md)
 

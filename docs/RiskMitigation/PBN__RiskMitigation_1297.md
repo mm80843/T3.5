@@ -2,14 +2,9 @@
 
 # __Risk-adjusted performance__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Spread of contagious epidemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_936.md)
-
-## Property: has_MitigationBenefit
-
-* [Superior performance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1279.md)
-* [Negative performance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1281.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -23,4 +18,13 @@
 * [Provide information to reduce perceived risk](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1662.md)
 * [Develop and use accurate and timely risk maps for targeted deployment of control measures and resources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2829.md)
 * [Acknowledge diverse levels of risk tolerance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_926.md)
+
+## Property: has_MitigationBenefit
+
+* [Superior performance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1279.md)
+* [Negative performance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1281.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of contagious epidemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_936.md)
 

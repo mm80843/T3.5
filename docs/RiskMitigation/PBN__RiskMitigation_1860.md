@@ -2,9 +2,9 @@
 
 # __Update and improve the design of negative air ionizers__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Inefficient negative air ionization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1364.md)
+* [Optimize indoor environments, regulate temperature and humidity, control air quality, and extend HVAC system operations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_341.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Installation of air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_889.md)
 * [Improved air quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1114.md)
 * [Improve ventilation systems, limit pollutant sources, and implement air purification systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1689.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inefficient negative air ionization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1364.md)
 

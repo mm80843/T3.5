@@ -2,9 +2,14 @@
 
 # __city governments__
 
-## This Stakeholder belongs to this StakeholderGroup
+## This Stakeholder can get these Benefits from mitigation measures
 
-* [City Officials](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_0.md)
+* [Integrated planning and delivery](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_876.md)
+* [Resilient and sustainable cities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_877.md)
+
+## Category to which it belongs
+
+* [Areas inhabited by people in cities, focusing on residents, professionals, researchers, decision-makers, and institutions involved in urban planning and development.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_376.md)
 
 ## Closest similar item
 
@@ -18,15 +23,6 @@
 * [Urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2838.md)
 * [government programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2743.md)
 * [national and local policies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2852.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Governmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_5.md)
-
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Integrated planning and delivery](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_876.md)
-* [Resilient and sustainable cities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_877.md)
 
 ## Risks that can be mitigated by this stakeholder
 
@@ -54,4 +50,12 @@
 * [Increased air pollution from emissions of volatile organic compounds by urban trees](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1664.md)
 * [Air circulation-limiting potential of tall, planted roadside vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1665.md)
 * [Increased population of urban rats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1667.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [City Officials](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_0.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Governmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_5.md)
 

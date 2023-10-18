@@ -2,10 +2,9 @@
 
 # __Quarantined or Isolated Individuals__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [individual in isolation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2160.md)
-* [individuals in quarantine or isolation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1285.md)
+* [Marginalized individuals facing health risks due to isolation and residing in disadvantaged communities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_245.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Healthcare Condition-Specific Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_81.md)
 * [Vulnerable and Underserved Communities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_102.md)
 * [Specific Populations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_91.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [individual in isolation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2160.md)
+* [individuals in quarantine or isolation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1285.md)
 

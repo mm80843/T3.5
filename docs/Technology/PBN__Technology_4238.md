@@ -2,9 +2,9 @@
 
 # __window size__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Natural light](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2123.md)
+* [These resources aim to enhance security, convenience, and efficiency in managing access, spaces, and systems within various environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_206.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [open windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3745.md)
 * [opening windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3061.md)
 * [window fans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3507.md)
+
+## This Technology enables the following mitigations
+
+* [Natural light](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2123.md)
 

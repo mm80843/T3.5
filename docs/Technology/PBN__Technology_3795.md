@@ -2,9 +2,9 @@
 
 # __real-time data streams__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Real-time Data Analytics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1324.md)
+* [Data-driven insights and analysis for decision making, anonymized data, transparency, visualization, and advanced techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_205.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [real-time information exchange](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3345.md)
 * [real-time data analytics for supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1522.md)
 * [real-time travel updates](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_997.md)
+
+## This Technology enables the following mitigations
+
+* [Real-time Data Analytics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1324.md)
 

@@ -2,9 +2,9 @@
 
 # __synchronization of massive and long-term ieq measurements__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Data synchronization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_700.md)
+* [Measures promoting accountability, media control, real-time updates, and virtual experiences for physical distancing and education.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [real-time monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1708.md)
 * [Real-time monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2474.md)
 * [kalman filter](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3677.md)
+
+## This Technology enables the following mitigations
+
+* [Data synchronization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_700.md)
 

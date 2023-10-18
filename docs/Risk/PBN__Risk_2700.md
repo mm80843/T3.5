@@ -2,9 +2,9 @@
 
 # __Social disparities__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Sociotechnical Analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_718.md)
+* [The ramifications of social distancing include inconsistent recommendations, increased violence, changes in social practices, and lack of interaction, among other social issues.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_96.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Social inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_858.md)
 * [Health Disparities and Equity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1186.md)
 * [Testing disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1936.md)
+
+## Mitigations of this risk
+
+* [Sociotechnical Analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_718.md)
 

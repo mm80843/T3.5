@@ -2,9 +2,9 @@
 
 # __Malaria transmission__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Risk maps through CDRs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_387.md)
+* [The spread of diseases through various methods, including contact, droplets, and contaminated surfaces, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_137.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Spread and transmission of mosquito and tick-borne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3118.md)
 * [Airborne transmission of disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2766.md)
 * [Transmission of pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2509.md)
+
+## Mitigations of this risk
+
+* [Risk maps through CDRs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_387.md)
 

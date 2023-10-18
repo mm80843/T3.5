@@ -2,11 +2,9 @@
 
 # __Healthcare Administration__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [hospital administration](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_799.md)
-* [hospital management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_239.md)
-* [hospital administrators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_252.md)
+* [Overseeing and managing health services, communities, and education at large.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_263.md)
 
 ## Closest similar item
 
@@ -20,4 +18,10 @@
 * [Clinicians](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_52.md)
 * [Government Departments and Ministries](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_121.md)
 * [Insurance](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_60.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [hospital administration](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_799.md)
+* [hospital management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_239.md)
+* [hospital administrators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_252.md)
 

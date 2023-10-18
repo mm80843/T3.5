@@ -2,9 +2,9 @@
 
 # __Promote inclusivity, educate the public about the virus and the importance of empathy and support__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Stigmatization and discrimination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1831.md)
+* [Implement comprehensive strategies to control virus transmission, improve surveillance, develop antiviral coatings, and enhance infection control measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_309.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Promote public awareness campaigns, provide accurate information about diseases and preventive measures, invest in health education programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1900.md)
 * [Implement effective communication and education campaigns to address vaccine hesitancy, provide accurate information, and address concerns and misconceptions. Engage with local communities and healthcare providers.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2510.md)
 * [Implement public health measures, such as social distancing and proper hygiene protocols, invest in healthcare infrastructure and resources, and promote vaccination and disease surveillance.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2632.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Stigmatization and discrimination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1831.md)
 

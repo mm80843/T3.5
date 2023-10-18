@@ -2,10 +2,9 @@
 
 # __Mechanical ventilation and filtration__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_674.md)
-* [merv-8/13 filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3295.md)
+* [Enhanced air purification through the use of high-efficiency filters, ventilation, UV sterilization, and mechanical filtration systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_178.md)
 
 ## Closest similar item
 
@@ -20,14 +19,19 @@
 * [Air Filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1227.md)
 * [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_170.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Removes airborne viral particles, reducing the risk of transmission through the air.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [2019 Novel Coronavirus (COVID-19) Pandemic: Built Environment Considerations To Reduce Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_288.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_674.md)
+* [merv-8/13 filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3295.md)
 

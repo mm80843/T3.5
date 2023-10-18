@@ -2,9 +2,9 @@
 
 # __Replace stainless steel surfaces with copper coatings, which have antimicrobial properties.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Inadequate antibacterial and antiviral properties of stainless steel surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1494.md)
+* [Implement rigorous cleaning and disinfection measures, including the use of antimicrobial materials and advanced technologies, to maintain a safe and hygienic environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_2.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Select anti-microbial materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2864.md)
 * [Regular and thorough cleaning and disinfection of surfaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1825.md)
 * [Antiviral surface coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_917.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inadequate antibacterial and antiviral properties of stainless steel surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1494.md)
 

@@ -2,13 +2,9 @@
 
 # __Early serving of notices__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Force majeure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_732.md)
-
-## Property: has_MitigationBenefit
-
-* [Risk mitigation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_680.md)
+* [Efforts include RNA monitoring, occupant exposure modeling, targeted messages, adoption of principles, copper coating, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_311.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Adoption of early alert systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_903.md)
 * [Implement measures early, based on evidence and research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1849.md)
 * [Targeted, tailored messages](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_51.md)
+
+## Property: has_MitigationBenefit
+
+* [Risk mitigation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_680.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Force majeure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_732.md)
 

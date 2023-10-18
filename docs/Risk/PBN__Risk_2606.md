@@ -2,9 +2,9 @@
 
 # __Unknown viral shedding routes__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Biomarker testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_513.md)
+* [The Impact of Domestic Violence and the Spreading of the Virus Create Challenges in Preventing Virus Propagation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_94.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Virus spread through vertical shaft](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2952.md)
 * [Persistence of Virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2818.md)
 * [Spread of Virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2518.md)
+
+## Mitigations of this risk
+
+* [Biomarker testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_513.md)
 

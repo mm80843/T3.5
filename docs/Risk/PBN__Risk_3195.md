@@ -2,9 +2,9 @@
 
 # __Income inequalities__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Socioeconomic Support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1651.md)
+* [Financial vulnerability and instability permeate various sectors and industries, hindering growth, sustainability, and access to resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_114.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Gender inequalities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_449.md)
 * [Inequality in education access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2904.md)
 * [Inequality gap widening](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1440.md)
+
+## Mitigations of this risk
+
+* [Socioeconomic Support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1651.md)
 

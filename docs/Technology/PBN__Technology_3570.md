@@ -2,9 +2,9 @@
 
 # __information sharing__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Improved coordination at federal level](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_994.md)
+* [Advanced analytics, fact-checking, project management, reliable sources, knowledge extraction, and collaboration ensure accurate information dissemination and effective decision-making.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_192.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [data sharing systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1426.md)
 * [data sharing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3837.md)
 * [information dissemination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3093.md)
+
+## This Technology enables the following mitigations
+
+* [Improved coordination at federal level](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_994.md)
 

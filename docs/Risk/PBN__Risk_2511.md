@@ -2,9 +2,9 @@
 
 # __Chain of transmission__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_250.md)
+* [The spread of diseases through various methods, including contact, droplets, and contaminated surfaces, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_137.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Transmission, Cost](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2760.md)
 * [Transmission, Economy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2678.md)
 * [Travel-related transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1034.md)
+
+## Mitigations of this risk
+
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_250.md)
 

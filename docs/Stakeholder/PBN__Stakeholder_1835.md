@@ -2,13 +2,9 @@
 
 # __social medium company__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q1071015](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1071015.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Media](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_3.md)
+* [Members of the public, including social media users, organizations promoting gender equality, and individuals in various social settings and groups.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_385.md)
 
 ## Closest similar item
 
@@ -26,4 +22,12 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Social Media](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_38.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q1071015](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1071015.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Media](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_3.md)
 

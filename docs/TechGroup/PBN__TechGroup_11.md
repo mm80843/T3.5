@@ -2,6 +2,23 @@
 
 # __Educational resources__
 
+## Category to which it belongs
+
+* [Knowledge assets for learning.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_295.md)
+
+## Closest similar item
+
+* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
+* [education resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_56.md)
+* [educational websites](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_57.md)
+* [Educational websites](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_58.md)
+* [Educational materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_59.md)
+* [educational materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_60.md)
+* [online educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_61.md)
+* [education materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_62.md)
+* [Online educational materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_63.md)
+* [training resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_64.md)
+
 ## This Technology belongs to this TechnologyGroup
 
 * [online platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_67.md)
@@ -110,17 +127,4 @@
 * [language and academic support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1212.md)
 * [Workplace safety technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2638.md)
 * [Teleoperation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2651.md)
-
-## Closest similar item
-
-* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
-* [education resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_56.md)
-* [educational websites](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_57.md)
-* [Educational websites](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_58.md)
-* [Educational materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_59.md)
-* [educational materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_60.md)
-* [online educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_61.md)
-* [education materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_62.md)
-* [Online educational materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_63.md)
-* [training resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_64.md)
 

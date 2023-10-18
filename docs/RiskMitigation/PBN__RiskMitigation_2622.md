@@ -2,9 +2,9 @@
 
 # __Develop microscopic crowd models to represent individual movement and assess the impact of social distancing measures__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of microscale representation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2004.md)
+* [Promotion and enforcement of physical separation measures to prevent the spread of disease.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_327.md)
 
 ## Closest similar item
 
@@ -17,4 +17,8 @@
 * [Crowd management, capacity limits, physical distancing measures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2240.md)
 * [Implement crowd control measures, promote social distancing, expand infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1955.md)
 * [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_275.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of microscale representation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2004.md)
 

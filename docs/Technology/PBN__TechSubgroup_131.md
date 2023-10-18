@@ -2,10 +2,9 @@
 
 # __Sustainable Practices and Renewable Energy__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [Renewable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2390.md)
-* [Sustainable practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2750.md)
+* [Promoting sustainable practices for efficient management and utilization of energy resources while prioritizing conservation and renewable energy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_32.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Green and Outdoor Spaces](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_83.md)
 * [Environmental and Outdoor Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_91.md)
 * [Infrastructure and Resource Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_126.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [Renewable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2390.md)
+* [Sustainable practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2750.md)
 

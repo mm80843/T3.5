@@ -2,6 +2,10 @@
 
 # __targeted outreach programs__
 
+## Category to which it belongs
+
+* [Government programs and initiatives provide support, training, and financial assistance for education, healthcare, employment, and overall well-being.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_210.md)
+
 ## Risks linked to this technology
 
 * [Incidence disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1937.md)

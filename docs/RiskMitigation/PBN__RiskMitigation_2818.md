@@ -2,9 +2,9 @@
 
 # __Foster social capital, trust, and participatory governance structures__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Insufficient social adaptive capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2155.md)
+* [Strengthen collaborations, implement behavioral change, deploy social robots, and promote sustainable content consumption for community-based strategies, holistic research, and positive media representation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_316.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Build trust, communicate transparently with the public](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1462.md)
 * [Seek alternative markets and partners, adapt business models, leverage social capital.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2133.md)
 * [Strengthen urban governance structures, improve data collection and analysis, involve communities in decision-making processes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1455.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Insufficient social adaptive capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2155.md)
 

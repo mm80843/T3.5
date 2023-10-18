@@ -2,14 +2,9 @@
 
 # __Ministry of Education__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q4294642](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4294642.md)
-* [Q1937182](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1937182.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
+* [The community, including residents, educators, healthcare institutions, and government research institutions, is involved in education and healthcare.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_377.md)
 
 ## Closest similar item
 
@@ -27,4 +22,13 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Government Departments and Ministries](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_121.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q4294642](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4294642.md)
+* [Q1937182](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1937182.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
 

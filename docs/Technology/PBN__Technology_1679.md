@@ -2,9 +2,9 @@
 
 # __risk assessment and credit scoring technologies__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q162714](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q162714.md)
+* [Maximizing economic efficiency while promoting financial stability through innovative strategies, investments, and partnerships at various levels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_195.md)
 
 ## Risks linked to this technology
 
@@ -23,4 +23,8 @@
 * [risk reduction measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3631.md)
 * [debt management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1414.md)
 * [risk management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_532.md)
+
+## This Technology is identified by the following QID
+
+* [Q162714](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q162714.md)
 

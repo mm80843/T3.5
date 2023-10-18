@@ -2,9 +2,9 @@
 
 # __Appropriate unit sizes and layouts that support physical distancing__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [flexible floor plans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3941.md)
+* [Creating resilient urban environments through strategic planning, adaptable design, reduced density, and improved building infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_164.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Local strategies for isolation and physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2382.md)
 * [Adherence to physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2429.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Inability to physically distance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3153.md)
-
 ## Property: has_MitigationPrinciple
 
 Designing apartments with larger living spaces and multiple bathrooms to support physical distancing and well-being
 
+## Risks possibly mitigated by this Mitigation
+
+* [Inability to physically distance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3153.md)
+
 ## Property: has_MitigationSource
 
 * [How our homes impact our health: using a COVID-19 informed approach to examine urban apartment housing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_279.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [flexible floor plans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3941.md)
 

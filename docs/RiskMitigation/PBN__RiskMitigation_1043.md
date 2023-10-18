@@ -2,13 +2,9 @@
 
 # __Rethinking management of services and work activities with focus on spatial configuration__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Fragile socio-economic and spatial structures of cities exposed by COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_753.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved spatial configuration for services and work activities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1040.md)
+* [Ensuring equitable access, promoting flexible work, implementing safety measures, and providing support for remote work and flexible schedules.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_323.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Designing cities with evenly distributed activity hubs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_360.md)
 * [Composite space service facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1397.md)
 * [Optimize space and improve spatial layout](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_454.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved spatial configuration for services and work activities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1040.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Fragile socio-economic and spatial structures of cities exposed by COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_753.md)
 

@@ -2,13 +2,9 @@
 
 # __Monitoring outdoor absolute humidity__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Influenza incidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_216.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved influenza incidence predictions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_270.md)
+* [Optimize indoor environments, regulate temperature and humidity, control air quality, and extend HVAC system operations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_341.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Maintaining optimum temperature and humidity levels](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_257.md)
 * [Control indoor humidity levels, increase ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1708.md)
 * [Monitor and control indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3262.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved influenza incidence predictions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_270.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Influenza incidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_216.md)
 

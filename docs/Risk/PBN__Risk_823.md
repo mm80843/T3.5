@@ -2,9 +2,9 @@
 
 # __Management of pain and physical therapy during COVID-19__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Virtual reality pain management and physical therapy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1129.md)
+* [The far-reaching consequences of COVID-19 include its transmission through various settings, impact on urban areas, and scarcity of resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Aggravating COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3130.md)
 * [Severe cases of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3441.md)
 * [Gastrointestinal symptoms in COVID-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2941.md)
+
+## Mitigations of this risk
+
+* [Virtual reality pain management and physical therapy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1129.md)
 

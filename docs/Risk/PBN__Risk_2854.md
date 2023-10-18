@@ -2,9 +2,9 @@
 
 # __Challenges in implementing and enforcing the Carbon Border Tax__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Carbon Border Tax](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1002.md)
+* [The interconnectedness of environmental degradation, social inequalities, and the need for climate action and conservation efforts.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_104.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Economic barrier](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2958.md)
 * [Economic impacts, Compliance issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3167.md)
 * [Limited focus on global climate initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2858.md)
+
+## Mitigations of this risk
+
+* [Carbon Border Tax](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1002.md)
 

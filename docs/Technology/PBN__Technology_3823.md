@@ -2,10 +2,9 @@
 
 # __rule-based algorithm__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Expert System](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1370.md)
-* [Rule-based expert system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1372.md)
+* [Advanced technologies and algorithms for modeling, simulation, optimization, and artificial intelligence in various applications, including robotics and computational fluid dynamics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_239.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [optimization algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_988.md)
 * [Optimization algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2077.md)
 * [data analysis algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1978.md)
+
+## This Technology enables the following mitigations
+
+* [Expert System](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1370.md)
+* [Rule-based expert system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1372.md)
 

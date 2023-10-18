@@ -2,9 +2,9 @@
 
 # __portable air purifiers with hepa filters__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Portable room air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1419.md)
+* [Various systems and technologies that purify and clean the air, including air filters, HEPA filters, and filtration systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_198.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [negative air machines with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_970.md)
 * [negative air machines with HEPA filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2374.md)
 * [hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_674.md)
+
+## This Technology enables the following mitigations
+
+* [Portable room air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1419.md)
 

@@ -2,13 +2,9 @@
 
 # __Shading__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Urban heat islands (UHIs)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_367.md)
-
-## Property: has_MitigationBenefit
-
-* [Temperature reduction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_417.md)
+* [Optimize indoor environment by maximizing natural light, ventilation, and incorporating efficient lighting systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_348.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Materials and surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_488.md)
 * [Incorporate large windows, skylights, and daylighting strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1972.md)
 * [Natural light](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_218.md)
+
+## Property: has_MitigationBenefit
+
+* [Temperature reduction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_417.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Urban heat islands (UHIs)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_367.md)
 

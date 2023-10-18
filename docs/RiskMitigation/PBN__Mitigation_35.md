@@ -2,13 +2,9 @@
 
 # __Social Distancing__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_343.md)
-* [floor markings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_360.md)
-* [internet-based communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_23.md)
-* [technology-enabled monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2913.md)
-* [physical distance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3380.md)
+* [Promoting physical and spatial distancing, considering noise levels, and implementing strict measures are essential for social distancing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_147.md)
 
 ## Closest similar item
 
@@ -22,6 +18,10 @@
 * [Reduced social interaction due to social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2562.md)
 * [Lack of social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2563.md)
 * [Non-compliance with social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2564.md)
+
+## Property: has_MitigationPrinciple
+
+Minimizing physical contact between populations to decrease disease transmission
 
 ## Risks possibly mitigated by this Mitigation
 
@@ -39,10 +39,6 @@
 * [Person-to-Person Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3281.md)
 * [Close Proximity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2974.md)
 * [None](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2827.md)
-
-## Property: has_MitigationPrinciple
-
-Minimizing physical contact between populations to decrease disease transmission
 
 ## Property: has_MitigationSource
 
@@ -75,4 +71,12 @@ Minimizing physical contact between populations to decrease disease transmission
 * [Startups in times of crisis – A rapid response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_158.md)
 * [An Automated System to Limit COVID-19 Using Facial Mask Detection in Smart City Network](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_265.md)
 * [Covid-19 and asset management in EU: a preliminary assessment of performance and investment styles](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_271.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_343.md)
+* [floor markings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_360.md)
+* [internet-based communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_23.md)
+* [technology-enabled monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2913.md)
+* [physical distance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3380.md)
 

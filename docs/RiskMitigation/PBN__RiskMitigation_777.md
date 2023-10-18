@@ -2,13 +2,9 @@
 
 # __Mutualized debt through corona bonds__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Economic divisions in the EU due to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_550.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced economic support and stability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_780.md)
+* [Efforts include RNA monitoring, occupant exposure modeling, targeted messages, adoption of principles, copper coating, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_311.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Strengthen risk management and cooperation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_309.md)
 * [Increase investment in renewable energy incentives and tax credits, support renewable energy companies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2763.md)
 * [Contractual arrangements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_581.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced economic support and stability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_780.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Economic divisions in the EU due to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_550.md)
 

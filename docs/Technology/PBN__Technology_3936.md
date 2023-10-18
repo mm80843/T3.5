@@ -2,9 +2,9 @@
 
 # __thermal comfort__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Designing variety in visual and thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1595.md)
+* [Various technologies and devices are used to measure and regulate temperature, including cameras, scanners, sensors, and thermostats.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_220.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [use operable windows and shading devices for natural ventilation and temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1268.md)
 * [thermal screening systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_137.md)
 * [thermal cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2964.md)
+
+## This Technology enables the following mitigations
+
+* [Designing variety in visual and thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1595.md)
 

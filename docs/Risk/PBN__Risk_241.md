@@ -2,9 +2,9 @@
 
 # __Impact on peace, justice, and institutions__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Strengthening partnerships and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_290.md)
+* [Fragmented global governance, reduced aid, ethical concerns, educational disruption, impacts on peace and justice, and inadequate coordination between stakeholders.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_115.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Economic impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_961.md)
 * [Impact on families and domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_833.md)
 * [Social unrest](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2015.md)
+
+## Mitigations of this risk
+
+* [Strengthening partnerships and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_290.md)
 

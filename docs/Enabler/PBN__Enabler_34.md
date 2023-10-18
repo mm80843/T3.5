@@ -2,9 +2,9 @@
 
 # __Water Sensors__
 
-## Thees blueprints use this enabler
+## Category to which it belongs
 
-* [Good hand hygiene practice](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_14.md)
+* [Liquid detectors that identify the presence and measure the level of water.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_67.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Robots](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_14.md)
 * [Data Analytics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_2.md)
 * [GPS](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_10.md)
+
+## Thees blueprints use this enabler
+
+* [Good hand hygiene practice](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_14.md)
 

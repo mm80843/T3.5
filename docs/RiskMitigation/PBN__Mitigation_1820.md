@@ -2,10 +2,9 @@
 
 # __Technology and innovation__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_358.md)
-* [internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3058.md)
+* [The rapid proliferation of cutting-edge technologies, from lab-on-a-chip and wearable devices to AI, IoT, and blockchain, is revolutionizing various industries.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_187.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Technical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2062.md)
 * [Nanotechnology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1308.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Slowed development, lack of progress](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3256.md)
-
 ## Property: has_MitigationPrinciple
 
 Utilize technology to accelerate sustainable development
 
+## Risks possibly mitigated by this Mitigation
+
+* [Slowed development, lack of progress](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3256.md)
+
 ## Property: has_MitigationSource
 
 * [COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_58.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_358.md)
+* [internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3058.md)
 

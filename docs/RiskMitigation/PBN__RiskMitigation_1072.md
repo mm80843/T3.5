@@ -2,13 +2,9 @@
 
 # __Strengthen primary healthcare__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Limited care and restricted health services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_779.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved access to routine health services](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1067.md)
+* [Promote public health through policy implementation, strengthened systems, health literacy, and targeted interventions for vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_314.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Increase healthcare capacity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1112.md)
 * [Prioritize high-quality health care for those in need and ensure access to routine health services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1495.md)
 * [Provide adequate healthcare services and support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1137.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved access to routine health services](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1067.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limited care and restricted health services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_779.md)
 

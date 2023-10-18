@@ -2,9 +2,9 @@
 
 # __natural light solutions (e.g.__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q25292136](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q25292136.md)
+* [Innovative lighting solutions harnessing ultraviolet technology for optimal germicidal sterilization and energy efficiency, while maximizing natural light.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_235.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [uv light systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_882.md)
 * [nature-based solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3723.md)
 * [light sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_723.md)
+
+## This Technology is identified by the following QID
+
+* [Q25292136](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q25292136.md)
 

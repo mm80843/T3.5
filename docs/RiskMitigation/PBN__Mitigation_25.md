@@ -2,9 +2,9 @@
 
 # __Access to adequate sanitation__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [sanitation infrastructure and services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2906.md)
+* [Prioritizing safety measures, personal protective equipment, reliability, cybersecurity, risk perception, and general prevention to ensure protection and resilience in various domains.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_168.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Enhanced sanitation room](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_777.md)
 * [Hygiene and sanitation kits](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1972.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Spread of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2408.md)
-
 ## Property: has_MitigationPrinciple
 
 Ensuring access to adequate sanitation facilities is essential to prevent the transmission of infectious diseases within communities.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2408.md)
+
 ## Property: has_MitigationSource
 
 * [COVID-19: Lessons for an Urban(izing) World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_85.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [sanitation infrastructure and services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2906.md)
 

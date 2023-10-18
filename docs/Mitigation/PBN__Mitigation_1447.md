@@ -2,8 +2,9 @@
 
 # __Mortgage Holidays__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Promoting financial stability and inclusivity through diverse funding sources, transparent donations, and innovative investment incentives.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_174.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Financial Support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1021.md)
 * [Even distribution of housing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_307.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Financial strain on mortgage lenders](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3075.md)
-
 ## Property: has_MitigationPrinciple
 
 Provide temporary relief to individuals who are unable to make mortgage payments
 
+## Risks possibly mitigated by this Mitigation
+
+* [Financial strain on mortgage lenders](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3075.md)
+
 ## Property: has_MitigationSource
 
 * [The socio-economic implications of the coronavirus pandemic (COVID-19): A review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_135.md)
+
+## This Mitigation is enabled by the following technologies
+
 

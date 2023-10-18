@@ -2,13 +2,13 @@
 
 # __especially in low-income countries__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q1454602](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1454602.md)
+* [Vulnerable and economically disadvantaged individuals and communities, including low-income workers, renters, and households, particularly in urban areas and minority communities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_375.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Climate-associated diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1645.md)
 
 ## Closest similar item
 
@@ -23,11 +23,15 @@
 * [especially low-income and minority community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2211.md)
 * [individuals in low-income areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1566.md)
 
-## Risk affecting this stakeholder
-
-* [Climate-associated diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1645.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Population Density and Urbanization](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_100.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q1454602](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1454602.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 

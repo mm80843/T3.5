@@ -2,9 +2,9 @@
 
 # __Implement efficient data management nan strategies and nan nan robust data nan nan nan governance__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Data management issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2085.md)
+* [Enable transparent and secure data management, traceability, and efficient distribution while promoting accurate information dissemination and verification.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_321.md)
 
 ## Closest similar item
 
@@ -17,4 +17,8 @@
 * [Limiting the number of people in public spaces and nan implementing social nan nan distancing protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2975.md)
 * [Transparency and governance of data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_815.md)
 * [hygiene and sanitation measures, promotion of nan social distancing and nan nan vaccination programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2973.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Data management issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2085.md)
 

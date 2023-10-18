@@ -2,8 +2,9 @@
 
 # __Maintaining immunosuppression in liver transplant recipients__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [A comprehensive approach to disease prevention through widespread immunization, research, and education.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_153.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Vaccination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_245.md)
 * [Equipping the hospital](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_801.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Liver transplant recipients with metabolic comorbidities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2940.md)
-
 ## Property: has_MitigationPrinciple
 
 Prevents severe outcomes in liver transplant recipients
 
+## Risks possibly mitigated by this Mitigation
+
+* [Liver transplant recipients with metabolic comorbidities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2940.md)
+
 ## Property: has_MitigationSource
 
 * [SARS-CoV-2 in wastewater: potential health risk, but also data source](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_70.md)
+
+## This Mitigation is enabled by the following technologies
+
 

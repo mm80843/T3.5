@@ -2,9 +2,9 @@
 
 # __Learners__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [student](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1642.md)
+* [Academic roles include nan and encompass students who are learners.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_249.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [AI and Machine Learning](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_156.md)
 * [Users](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_101.md)
 * [Community Developers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_141.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [student](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1642.md)
 

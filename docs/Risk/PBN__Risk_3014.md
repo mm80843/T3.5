@@ -2,9 +2,9 @@
 
 # __Nanoparticle health risks__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Photocatalytic oxidation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1305.md)
+* [Health and safety concerns, risk communication strategy, and inadequate personal protective equipment are all indicative of potential hazards and vulnerabilities in various settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_126.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Harmful to humans](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2512.md)
 * [Health Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_83.md)
 * [health effects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2533.md)
+
+## Mitigations of this risk
+
+* [Photocatalytic oxidation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1305.md)
 

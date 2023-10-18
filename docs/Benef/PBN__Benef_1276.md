@@ -2,19 +2,19 @@
 
 # __Early detection of outbreak__
 
+## Name of the Benefit
+
+WBE can provide a cheap and early warning method for COVID-19 outbreak, allowing for early detection of the spread of the virus through sewage.
+
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can benefit from investing in the development and implementation of WBE methods as it can contribute to the prevention and control of COVID-19 outbreaks, reducing the economic impact of the disease.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1438.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [public health officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_310.md)
 
 ## Articles mentionning this Benefit
 
 * [An environmental and health perspective for COVID-19 outbreak: Meteorology and air quality influence, sewage epidemiology indicator, hospitals disinfection, drug therapies and recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_270.md)
 
-## Name of the Benefit
+## Stakeholders benefitting from this Benefit
 
-WBE can provide a cheap and early warning method for COVID-19 outbreak, allowing for early detection of the spread of the virus through sewage.
+* [public health officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_310.md)
 

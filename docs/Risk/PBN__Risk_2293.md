@@ -2,22 +2,9 @@
 
 # __and physical health__
 
-## Property: has_RiskHealth
+## Category to which it belongs
 
-
-## Property: has_RiskGBN
-
-
-## Description of the risk
-
-mobility during lockdown
-
-## Property: has_RiskType
-
-
-## Articles mentionning the risk
-
-* [venter_urban_2020 venter_urban_2020 nan venter_urban_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_304.md)
+* [The intersection of human activity and health, integrating databases, limited healthcare access, sedentary lifestyles, neglecting public health requirements, and disparities in urban design contribute to public health concerns.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_116.md)
 
 ## Closest similar item
 
@@ -32,30 +19,47 @@ mobility during lockdown
 * [Physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3347.md)
 * [Increased mental and physical health problems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3087.md)
 
-## People affected by this risk
+## Description of the risk
+
+mobility during lockdown
+
+## Property: has_RiskGBN
+
+
+## Property: has_RiskHealth
 
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Stakeholders who can mitigate this risk
+## Property: has_RiskISO_Purpose
 
-
-## Name of the risk
-
-increased stress levels
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
 
 ## Mitigations of this risk
 
 * [virtual access to green spaces during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2981.md)
 
-## Property: has_RiskISO_Purpose
+## Name of the risk
 
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+increased stress levels
+
+## Stakeholders who can mitigate this risk
+
+
+## Articles mentionning the risk
+
+* [venter_urban_2020 venter_urban_2020 nan venter_urban_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_304.md)
+
+## People affected by this risk
+
 
 ## Technologies linked to the risk
 
 * [promotion of virtual tours and classes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1878.md)
 * [experiences](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1877.md)
+
+## Property: has_RiskType
+
 

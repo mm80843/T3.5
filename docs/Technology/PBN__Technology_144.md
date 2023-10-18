@@ -2,9 +2,9 @@
 
 # __virtual communication tools__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q3635085](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3635085.md)
+* [Enhanced connectivity and diverse communication platforms enable the dissemination of reliable information and promote open communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_225.md)
 
 ## Risks linked to this technology
 
@@ -25,4 +25,8 @@
 * [communication software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_739.md)
 * [Communication software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2832.md)
 * [remote communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1241.md)
+
+## This Technology is identified by the following QID
+
+* [Q3635085](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3635085.md)
 

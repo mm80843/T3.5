@@ -2,9 +2,9 @@
 
 # __self-disinfecting surfaces__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q24887418](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q24887418.md)
+* [The implementation of various disinfection methods, improved cleaning and sanitization protocols, and the use of eco-friendly disinfectants and advanced technologies have been prioritized.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_199.md)
 
 ## Risks linked to this technology
 
@@ -23,4 +23,8 @@
 * [self-cleaning surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_508.md)
 * [disinfection methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1910.md)
 * [Disinfection methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2584.md)
+
+## This Technology is identified by the following QID
+
+* [Q24887418](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q24887418.md)
 

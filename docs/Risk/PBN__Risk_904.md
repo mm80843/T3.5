@@ -2,9 +2,9 @@
 
 # __Lack of epidemiological__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Add new terms to OBO](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1246.md)
+* [The challenge lies in the lack of knowledge, limited consideration, and inherent limitations in representing disease transmission mechanisms, mobility patterns, and heterogeneity in macroscopic epidemiological models.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_97.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of awareness and education on disease prevention](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1653.md)
 * [Lack of emphasis on public health impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1402.md)
 * [Inadequate public health systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2264.md)
+
+## Mitigations of this risk
+
+* [Add new terms to OBO](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1246.md)
 

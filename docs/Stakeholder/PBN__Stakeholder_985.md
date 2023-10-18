@@ -2,9 +2,9 @@
 
 # __new staff members__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Induction process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1529.md)
+* [A diverse array of collaborative and specialized groups in various fields working together towards specific goals.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_5.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [healthcare staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_139.md)
 * [medical staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_93.md)
 * [hospital staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_369.md)
+
+## Risk affecting this stakeholder
+
+* [Induction process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1529.md)
 

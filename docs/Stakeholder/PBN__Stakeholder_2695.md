@@ -2,13 +2,9 @@
 
 # __sustainability organization__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q7649559](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7649559.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Environmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_13.md)
+* [A diverse array of entities dedicated to various industries, causes, or services, promoting growth and welfare in society.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_369.md)
 
 ## Closest similar item
 
@@ -26,4 +22,12 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Advocacy and Sustainability](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_164.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q7649559](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7649559.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Environmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_13.md)
 

@@ -2,9 +2,9 @@
 
 # __uniform color__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Natural light](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2123.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [heat](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3404.md)
 * [lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4296.md)
 * [led](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4086.md)
+
+## This Technology enables the following mitigations
+
+* [Natural light](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2123.md)
 

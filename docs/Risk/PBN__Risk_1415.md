@@ -2,25 +2,9 @@
 
 # __Lack of green space in cities__
 
-## Property: has_RiskHealth
+## Category to which it belongs
 
-* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Description of the risk
-
-Limited access to green spaces in urban areas, resulting in decreased physical activity and higher stress levels.
-
-## Property: has_RiskType
-
-* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
-
-## Articles mentionning the risk
-
-* [Study of COVID-19 pandemic in London (UK) from urban context](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_57.md)
+* [Limited access, funding, and maintenance of green spaces exacerbate inequalities, allergies, and negative perceptions in urban areas.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_121.md)
 
 ## Closest similar item
 
@@ -35,14 +19,33 @@ Limited access to green spaces in urban areas, resulting in decreased physical a
 * [Lack of knowledge about the benefits of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1824.md)
 * [Inadequate access to urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1822.md)
 
-## People affected by this risk
+## Description of the risk
 
-* [urban residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_209.md)
-* [especially those without access to private outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_918.md)
+Limited access to green spaces in urban areas, resulting in decreased physical activity and higher stress levels.
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Property: has_RiskHealth
+
+* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Social cohesion](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_5.md)
+
+## Mitigations of this risk
+
+* [Create and maintain green spaces, parks, and public gardens in urban areas.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1923.md)
+
+## Name of the risk
+
+Negative impact on mental health and reduced resilience to disease.
 
 ## Stakeholders who can mitigate this risk
 
@@ -50,21 +53,22 @@ Limited access to green spaces in urban areas, resulting in decreased physical a
 * [urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_125.md)
 * [parks and recreation departments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_919.md)
 
-## Name of the risk
+## Articles mentionning the risk
 
-Negative impact on mental health and reduced resilience to disease.
+* [Study of COVID-19 pandemic in London (UK) from urban context](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_57.md)
 
-## Mitigations of this risk
+## People affected by this risk
 
-* [Create and maintain green spaces, parks, and public gardens in urban areas.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1923.md)
-
-## Property: has_RiskISO_Purpose
-
-* [Social cohesion](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_5.md)
+* [urban residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_209.md)
+* [especially those without access to private outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_918.md)
 
 ## Technologies linked to the risk
 
 * [urban greening initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_663.md)
 * [parks and recreation planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_664.md)
 * [urban forestry](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_665.md)
+
+## Property: has_RiskType
+
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 

@@ -2,9 +2,14 @@
 
 # __older people__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q2191986](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2191986.md)
+* [A diverse array of groups and individuals, encompassing all segments of society and the natural world.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_363.md)
+
+## Risk affecting this stakeholder
+
+* [Lack of access to green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1040.md)
+* [Sample bias in wearable device studies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1111.md)
 
 ## Closest similar item
 
@@ -19,12 +24,11 @@
 * [elderly individual](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2136.md)
 * [elderly population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_615.md)
 
-## Risk affecting this stakeholder
-
-* [Lack of access to green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1040.md)
-* [Sample bias in wearable device studies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1111.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Increased accessibility to green space](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_187.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q2191986](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2191986.md)
 

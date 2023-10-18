@@ -2,11 +2,9 @@
 
 # __Maintenance and/or decontamination of water__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [routine maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4254.md)
-* [disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_835.md)
-* [filtration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1752.md)
+* [Enhancing cleanliness and sanitation through various methods such as UV light, chemicals, and routine cleaning.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_169.md)
 
 ## Closest similar item
 
@@ -21,15 +19,21 @@
 * [Water Quality Management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_185.md)
 * [Regular Cleaning and Maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1784.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Water contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_129.md)
-
 ## Property: has_MitigationPrinciple
 
 Proper maintenance to prevent water contamination
 
+## Risks possibly mitigated by this Mitigation
+
+* [Water contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_129.md)
+
 ## Property: has_MitigationSource
 
 * [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [routine maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4254.md)
+* [disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_835.md)
+* [filtration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1752.md)
 

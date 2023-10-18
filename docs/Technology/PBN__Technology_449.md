@@ -2,13 +2,13 @@
 
 # __grant applications__
 
+## Category to which it belongs
+
+* [A comprehensive list of mobile applications, including contact-tracing apps, mental health apps, mobile banking, and fitness tracking devices, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_197.md)
+
 ## Risks linked to this technology
 
 * [Reduction in official development aid and philanthropy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1299.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Financial Support and Funding](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_35.md)
 
 ## Closest similar item
 
@@ -23,11 +23,15 @@
 * [energy efficiency grants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_872.md)
 * [financial aid apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_429.md)
 
-## This Technology belongs to this TechGroup
-
-* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
-
 ## This Technology is identified by the following QID
 
 * [Q545727](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q545727.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Financial Support and Funding](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_35.md)
+
+## This Technology belongs to this TechGroup
+
+* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
 

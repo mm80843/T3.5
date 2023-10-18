@@ -2,13 +2,9 @@
 
 # __Search and browse interfaces__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Limited availability of up-to-date information on COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_92.md)
-
-## Property: has_MitigationBenefit
-
-* [Efficient access to knowledge](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_132.md)
+* [Advancements in bioinformatics, divestment, automated sample collection, and artificial intelligence are facilitating early disease detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_336.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Integration of information and technology solutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_615.md)
 * [Screening technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_635.md)
 * [Implement AI algorithms for accurate screening and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2378.md)
+
+## Property: has_MitigationBenefit
+
+* [Efficient access to knowledge](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_132.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limited availability of up-to-date information on COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_92.md)
 

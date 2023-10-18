@@ -2,9 +2,9 @@
 
 # __Education and Training Programs__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [Education and training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2633.md)
+* [Knowledge enhancement and skill development through AI, ML, and educational resources and programs.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_14.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Software and Applications](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_122.md)
 * [Digital Learning Platforms and Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_56.md)
 * [Financial Support and Funding](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_35.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [Education and training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2633.md)
 

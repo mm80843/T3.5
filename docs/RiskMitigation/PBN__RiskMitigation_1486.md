@@ -2,9 +2,9 @@
 
 # __Adhere to established safety procedures including the use of personal protective equipment (PPE) and adherence to safe work practices__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Safety risks for wastewater sampling personnel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1053.md)
+* [Enforce safety measures, promote responsible behavior, utilize PPE, and prioritize risk prevention to ensure adequate protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_342.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Proper training and enforcement of the use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2836.md)
 * [Ensure use of personal protection equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3310.md)
 * [Implementing personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_938.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Safety risks for wastewater sampling personnel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1053.md)
 

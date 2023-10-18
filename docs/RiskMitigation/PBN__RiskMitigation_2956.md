@@ -2,9 +2,9 @@
 
 # __Ensure temporary measures are proportionate and temporary, protect civil liberties, and promote democratic governance.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Constraints on civil liberties](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2269.md)
+* [Enforce safety measures, promote responsible behavior, utilize PPE, and prioritize risk prevention to ensure adequate protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_342.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Limit capacity, enforce social distancing measures, provide clear signage and guidelines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1816.md)
 * [Improved access to preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_686.md)
 * [Implement social safety nets, equitable distribution of resources, invest in education and healthcare.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2910.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Constraints on civil liberties](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2269.md)
 

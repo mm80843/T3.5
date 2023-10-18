@@ -2,9 +2,9 @@
 
 # __infrastructure improvement__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Neighbourhood Hygiene Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_144.md)
+* [Promotion of environmentally-friendly practices, green infrastructure, sustainable housing, renewable energy, and responsible building to enhance spaces and mitigate climate change.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_224.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [adaptive infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3202.md)
 * [local infrastructure development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_169.md)
 * [Local infrastructure development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2373.md)
+
+## This Technology enables the following mitigations
+
+* [Neighbourhood Hygiene Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_144.md)
 

@@ -2,9 +2,9 @@
 
 # __germicidal ultraviolet__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q3380157](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3380157.md)
+* [Innovative lighting solutions harnessing ultraviolet technology for optimal germicidal sterilization and energy efficiency, while maximizing natural light.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_235.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [uv germicidal irradiation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1879.md)
 * [ultraviolet light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4402.md)
 * [uv-c germicidal lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1007.md)
+
+## This Technology is identified by the following QID
+
+* [Q3380157](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3380157.md)
 

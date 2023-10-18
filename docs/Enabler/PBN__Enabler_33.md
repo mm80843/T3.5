@@ -2,9 +2,9 @@
 
 # __Air sensors__
 
-## Thees blueprints use this enabler
+## Category to which it belongs
 
-* [Indoor Environmental Quality (IEQ) monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_3.md)
+* [Devices that measure and detect the quality of atmospheric conditions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_66.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Robots, Drones & Automated Vehicules](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_13.md)
 * [GPS](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_10.md)
 * [SmartPhones](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_19.md)
+
+## Thees blueprints use this enabler
+
+* [Indoor Environmental Quality (IEQ) monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_3.md)
 

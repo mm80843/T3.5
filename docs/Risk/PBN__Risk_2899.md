@@ -2,9 +2,9 @@
 
 # __Inequitable distribution of resources__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Equitable Park Investment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1067.md)
+* [Fragmented global governance, reduced aid, ethical concerns, educational disruption, impacts on peace and justice, and inadequate coordination between stakeholders.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_115.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Improved resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_884.md)
 * [Inequitable access to clean energy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1610.md)
 * [Economic impact on government budgets, inequitable distribution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3079.md)
+
+## Mitigations of this risk
+
+* [Equitable Park Investment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1067.md)
 

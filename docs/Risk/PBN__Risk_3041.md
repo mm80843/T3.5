@@ -2,9 +2,9 @@
 
 # __Inaccurate input__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Rule-based expert system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1372.md)
+* [The proliferation of false and misleading information, misinformation, and inaccurate news during pandemics creates confusion and a lack of trust in reliable sources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_127.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inaccurate or random results](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2927.md)
 * [Inaccurate measurement data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1657.md)
 * [Inaccurate forecasting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2365.md)
+
+## Mitigations of this risk
+
+* [Rule-based expert system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1372.md)
 

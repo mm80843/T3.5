@@ -2,9 +2,9 @@
 
 # __Variability in disease severity in reinfected patients__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Evaluate efficacy differences based on symptoms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1187.md)
+* [The challenge lies in the lack of knowledge, limited consideration, and inherent limitations in representing disease transmission mechanisms, mobility patterns, and heterogeneity in macroscopic epidemiological models.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_97.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Population-based data and modeling unable to accurately predict infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1005.md)
 * [High infection-to-fatality ratio, particularly for vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2111.md)
 * [Infection and disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2618.md)
+
+## Mitigations of this risk
+
+* [Evaluate efficacy differences based on symptoms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1187.md)
 

@@ -2,13 +2,9 @@
 
 # __Promote public health__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Decreasing interest in news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_534.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved adherence](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_771.md)
+* [Promote public health through policy implementation, strengthened systems, health literacy, and targeted interventions for vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_314.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Strengthen public and universal health systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_16.md)
 * [Implementation of public health policies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1113.md)
 * [Promote healthy lifestyles, vaccination campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2296.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved adherence](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_771.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Decreasing interest in news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_534.md)
 

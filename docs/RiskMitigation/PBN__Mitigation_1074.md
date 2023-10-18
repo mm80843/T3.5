@@ -2,10 +2,9 @@
 
 # __Improved waste management__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [waste disposal infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3621.md)
-* [recycling programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3622.md)
+* [Efficient control and supervision to ensure the proper handling and disposal of various types of waste and potential risks.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_8.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Urban Solid Waste Management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_500.md)
 * [Safe management of domestic waste](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2458.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Pollution and environmental contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2906.md)
-
 ## Property: has_MitigationPrinciple
 
 Properly dispose of non-biodegradable waste
 
+## Risks possibly mitigated by this Mitigation
+
+* [Pollution and environmental contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2906.md)
+
 ## Property: has_MitigationSource
 
 * [COVID-19 risks and systemic gaps in Nigeria: resilience building lessons for pandemic and climate change management](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_215.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [waste disposal infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3621.md)
+* [recycling programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3622.md)
 

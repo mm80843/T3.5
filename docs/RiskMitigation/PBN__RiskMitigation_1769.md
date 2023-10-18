@@ -2,9 +2,9 @@
 
 # __Improve screening programs, implement infection control measures, improve ventilation systems, implement air filtration and UV light sterilisation technology__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Nosocomial acquisition of COVID-19 despite screening programs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1287.md)
+* [Enhancing air quality through effective air filtration, ventilation, and pollution reduction strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_338.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Maintain appropriate temperature and humidity levels, improve ventilation and filtration systems, and ensure proper cleaning and disinfection protocols.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1592.md)
 * [Strengthen healthcare infrastructure, implement strict quarantine measures, develop vaccines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1948.md)
 * [Implement social distancing measures, increase access to healthcare, and improve hygiene practices.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1896.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Nosocomial acquisition of COVID-19 despite screening programs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1287.md)
 

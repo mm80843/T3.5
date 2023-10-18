@@ -2,9 +2,9 @@
 
 # __general population undergoing isolation and social distancing__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Impact on mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1597.md)
+* [Individuals and communities experiencing socioeconomic disparities, economic hardship, housing instability, and social disadvantage.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_393.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [individuals living alone or with limited social connections; older adults; individuals in quarantine or isolation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2204.md)
 * [individual living alone or with limited social connections; older adults; individual in quarantine or isolation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2225.md)
 * [individuals living alone](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_614.md)
+
+## Risk affecting this stakeholder
+
+* [Impact on mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1597.md)
 

@@ -2,9 +2,9 @@
 
 # __api calls__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Real-time data access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2403.md)
+* [Measures promoting accountability, media control, real-time updates, and virtual experiences for physical distancing and education.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [mobile phone call data records](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1683.md)
 * [Mobile phone call data records](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2405.md)
 * [use of contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_557.md)
+
+## This Technology enables the following mitigations
+
+* [Real-time data access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2403.md)
 

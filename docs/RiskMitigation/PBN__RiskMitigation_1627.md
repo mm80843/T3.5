@@ -2,9 +2,9 @@
 
 # __Use computational fluid dynamics (CFD) to assess the limitations of the upper-room UVGI system in disinfecting larger aerosol particles__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Decoupling of larger aerosol particles from air stream in upper-room UVGI system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1175.md)
+* [Utilize UVGI technology to disinfect air, surfaces, and clothing, ensuring proper installation, training, and research to optimize effectiveness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_352.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement strategies to promote good room air mixing, such as ceiling mounted fans, to ensure even distribution of aerosol particles in the UV field](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1626.md)
 * [Study of the effect of RH on UV susceptibility of pathogenic viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_451.md)
 * [Use UVGI systems in air ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1644.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Decoupling of larger aerosol particles from air stream in upper-room UVGI system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1175.md)
 

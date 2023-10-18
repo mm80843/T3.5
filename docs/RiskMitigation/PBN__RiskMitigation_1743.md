@@ -2,9 +2,9 @@
 
 # __Provide alternative learning methods such as simulation and viewing high-quality surgical videos.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Minimized Surgery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1264.md)
+* [Enrich education through digital tools, virtual experiences, remote learning, and alternative forms of exercise and interaction.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_3.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Provide virtual reality-based training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2738.md)
 * [Implement novel techniques such as flipped classrooms, video lectures, and teleconferencing.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1741.md)
 * [Online learning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_981.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Minimized Surgery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1264.md)
 

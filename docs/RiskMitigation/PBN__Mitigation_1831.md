@@ -2,8 +2,9 @@
 
 # __Strong institutions__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Global cooperation and collaboration for the purpose of coordinated action and shared knowledge exchange among various sectors and institutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_183.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Decentralized Finance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_434.md)
 * [Government Coordination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2184.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Lack of peace and justice](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3266.md)
-
 ## Property: has_MitigationPrinciple
 
 Strengthen governance and institutions for sustainable development
 
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of peace and justice](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3266.md)
+
 ## Property: has_MitigationSource
 
 * [COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_58.md)
+
+## This Mitigation is enabled by the following technologies
+
 

@@ -2,13 +2,13 @@
 
 # __vaccine distributors__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q2379469](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2379469.md)
+* [Entities and individuals who interact with or are affected by a system, organization, or public facility.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_1.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+* [Vaccine distribution and storage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1908.md)
 
 ## Closest similar item
 
@@ -23,14 +23,18 @@
 * [Pharmaceutical companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1987.md)
 * [pharmaceutical companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_124.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder can get these Benefits from mitigation measures
 
-* [Vaccine distribution and storage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1908.md)
+* [Optimized storage capacity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_211.md)
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 
-## This Stakeholder can get these Benefits from mitigation measures
+## This Stakeholder is identified by the following QID
 
-* [Optimized storage capacity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_211.md)
+* [Q2379469](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2379469.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 

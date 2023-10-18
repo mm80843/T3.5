@@ -2,9 +2,9 @@
 
 # __Uncertainty of vaccine effectiveness, time-consuming research process__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Increased Funding for Vaccine Research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1452.md)
+* [The challenges in vaccination include limited storage capacity, high patient demand, inefficient resource use, distribution difficulties, waning vaccine effectiveness, and unequal access.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_113.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inefficient use of resources in vaccination process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_156.md)
 * [Vaccine access disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1939.md)
 * [Lack of knowledge about the virus, treatments, and vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2920.md)
+
+## Mitigations of this risk
+
+* [Increased Funding for Vaccine Research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1452.md)
 

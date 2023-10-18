@@ -2,13 +2,9 @@
 
 # __Use of specific medicines__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [antiviral](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3919.md)
-* [antimalarial](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3918.md)
-* [anti-bacterial](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3917.md)
-* [corticosteroids](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3921.md)
-* [protease inhibitors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3920.md)
+* [Streamlining and optimizing healthcare operations, from patient isolation to medical waste management, through advanced technology and efficient supply chain practices.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_189.md)
 
 ## Closest similar item
 
@@ -23,14 +19,22 @@
 * [Preventive and therapeutic measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1627.md)
 * [Precision Medicine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_762.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Repurposing existing medicines such as anti-bacterial, antimalarial, and antiviral drugs, as well as protease inhibitors and corticosteroids, for the treatment of COVID-19. These medicines are used to reduce the severity of symptoms and prevent complications in infected individuals.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Nurture to nature via COVID-19, a self-regenerating environmental strategy of environment in global context](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_44.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [antiviral](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3919.md)
+* [antimalarial](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3918.md)
+* [anti-bacterial](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3917.md)
+* [corticosteroids](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3921.md)
+* [protease inhibitors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3920.md)
 

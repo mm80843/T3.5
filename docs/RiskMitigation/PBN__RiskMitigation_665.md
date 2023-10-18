@@ -2,13 +2,9 @@
 
 # __Infrastructure improvements__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Investments in improving water storage, sanitation, drainage, and housing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_475.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduced vulnerability and improved living conditions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_671.md)
+* [Promote equitable, sustainable, and inclusive urban planning to enhance living conditions, mitigate overcrowding, and reduce disparities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_324.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Investing in infrastructure and training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_10.md)
 * [Improve urban planning to provide adequate housing, infrastructure, and services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1453.md)
 * [Expansion of urban green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_420.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced vulnerability and improved living conditions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_671.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Investments in improving water storage, sanitation, drainage, and housing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_475.md)
 

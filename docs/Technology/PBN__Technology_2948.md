@@ -2,9 +2,9 @@
 
 # __electronic products for human-computer interaction__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Exergames](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_67.md)
+* [Technologies and tools used for working, monitoring, communicating, and assessing remotely, including remote healthcare and education technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_215.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [technological tracking device](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3376.md)
 * [wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3189.md)
 * [digital devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_573.md)
+
+## This Technology enables the following mitigations
+
+* [Exergames](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_67.md)
 

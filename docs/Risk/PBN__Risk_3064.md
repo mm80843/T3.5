@@ -2,9 +2,9 @@
 
 # __Improper system configuration and settings__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Proper system configuration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1426.md)
+* [A list of challenges and uncertainties surrounding the impact and response to various events and crises in different sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_124.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Misdiagnosis and equipment malfunction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2345.md)
 * [Lack of control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1072.md)
 * [Administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2143.md)
+
+## Mitigations of this risk
+
+* [Proper system configuration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1426.md)
 

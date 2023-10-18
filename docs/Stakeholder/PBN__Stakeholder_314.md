@@ -2,9 +2,9 @@
 
 # __-------------------__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q7958](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7958.md)
+* [Entities and individuals who interact with or are affected by a system, organization, or public facility.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_1.md)
 
 ## Closest similar item
 
@@ -27,4 +27,8 @@
 ## Risks that can be mitigated by this stakeholder
 
 * [--------------------------------](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1577.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q7958](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7958.md)
 

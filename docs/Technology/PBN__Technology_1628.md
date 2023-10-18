@@ -2,9 +2,9 @@
 
 # __scaling up production capacity__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1417724](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1417724.md)
+* [Maximizing economic efficiency while promoting financial stability through innovative strategies, investments, and partnerships at various levels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_195.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_608.md)
 * [supply chain optimization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1852.md)
 * [manufacturing capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1851.md)
+
+## This Technology is identified by the following QID
+
+* [Q1417724](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1417724.md)
 

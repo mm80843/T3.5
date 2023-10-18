@@ -2,15 +2,9 @@
 
 # __Sanitation and Safety__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [Filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2680.md)
-* [UV disinfection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2681.md)
-* [UV-C disinfection technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2349.md)
-* [Safety barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2675.md)
-* [polycarbonate](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_480.md)
-* [tempered glass](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_481.md)
-* [Plexiglass](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2663.md)
+* [Sanitary measures encompassing hygiene protocols, safety standards, waste management, and cleaning supplies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_47.md)
 
 ## Closest similar item
 
@@ -24,4 +18,14 @@
 * [Disinfection and Cleaning Techniques](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_15.md)
 * [Disinfection Equipment and Supplies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_87.md)
 * [Public Health Measures and Regulations](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_92.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [Filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2680.md)
+* [UV disinfection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2681.md)
+* [UV-C disinfection technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2349.md)
+* [Safety barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2675.md)
+* [polycarbonate](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_480.md)
+* [tempered glass](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_481.md)
+* [Plexiglass](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2663.md)
 

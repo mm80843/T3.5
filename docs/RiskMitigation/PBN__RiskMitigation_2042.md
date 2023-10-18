@@ -2,9 +2,9 @@
 
 # __Improve indoor ventilation systems and install physical barriers to reduce close contact and promote physical distancing__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Inadequate implementation of environmental adjustments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1516.md)
+* [Enhance airflow, increase fresh air intake, and optimize ventilation systems to improve air quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_329.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Encourage wearing masks, practice social distancing, improve ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1594.md)
 * [Improve ventilation systems, increase outdoor air supply.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1808.md)
 * [Improving ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_517.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inadequate implementation of environmental adjustments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1516.md)
 

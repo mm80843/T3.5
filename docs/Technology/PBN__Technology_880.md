@@ -2,9 +2,9 @@
 
 # __social media campaigns__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q847301](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q847301.md)
+* [Various campaigns and programs to inform and engage the public, raise awareness, educate, and promote reliable information.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_207.md)
 
 ## Risks linked to this technology
 
@@ -23,4 +23,8 @@
 * [information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_437.md)
 * [Information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2147.md)
 * [communication campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1157.md)
+
+## This Technology is identified by the following QID
+
+* [Q847301](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q847301.md)
 

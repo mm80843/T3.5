@@ -2,9 +2,9 @@
 
 # __subsidized access to wearable devices__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q4845080](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4845080.md)
+* [A comprehensive range of advanced, interconnected devices that offer efficiency, convenience, and enhanced functionality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_238.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1235.md)
 * [access control technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4178.md)
 * [access to healthcare technologies and facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1944.md)
+
+## This Technology is identified by the following QID
+
+* [Q4845080](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4845080.md)
 

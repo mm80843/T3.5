@@ -2,9 +2,9 @@
 
 # __verification processes__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q2919644](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2919644.md)
+* [Enhanced diagnostic techniques and screening methods, including the development of rapid and reliable testing technologies and increased availability of diagnostic tools and kits.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_211.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Data validation techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2613.md)
 * [data validation techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_824.md)
 * [validation platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1900.md)
+
+## This Technology is identified by the following QID
+
+* [Q2919644](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2919644.md)
 

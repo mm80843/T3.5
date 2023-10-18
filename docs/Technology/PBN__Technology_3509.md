@@ -2,9 +2,9 @@
 
 # __respiratory etiquette__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Hygienic measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_878.md)
+* [Improved ventilation and air purification methods are implemented, incorporating natural and mechanical systems, upgraded technologies, regular maintenance, and smart controls.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_200.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3132.md)
 * [use of energy-efficient and properly sized ventilation equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1114.md)
 * [mechanical ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_271.md)
+
+## This Technology enables the following mitigations
+
+* [Hygienic measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_878.md)
 

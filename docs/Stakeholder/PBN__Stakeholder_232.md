@@ -2,6 +2,16 @@
 
 # __civil society organizations__
 
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Facilitating coordination and multidisciplinary approach](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_542.md)
+* [Better crisis management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1200.md)
+* [Efficient resource utilization](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1203.md)
+
+## Category to which it belongs
+
+* [A diverse array of entities dedicated to various industries, causes, or services, promoting growth and welfare in society.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_369.md)
+
 ## Closest similar item
 
 * [civil society](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_148.md)
@@ -15,17 +25,6 @@
 * [social service organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_662.md)
 * [organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1929.md)
 
-## Risk affecting this stakeholder
-
-* [Lack of public participation and citizen empowerment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2102.md)
-* [Inadequate collaboration and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1361.md)
-
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Facilitating coordination and multidisciplinary approach](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_542.md)
-* [Better crisis management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1200.md)
-* [Efficient resource utilization](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1203.md)
-
 ## Risks that can be mitigated by this stakeholder
 
 * [Inequalities in smart city development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2099.md)
@@ -33,4 +32,9 @@
 * [Surveillance and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_877.md)
 * [Lack of public participation and citizen empowerment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2102.md)
 * [Social unrest](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2015.md)
+
+## Risk affecting this stakeholder
+
+* [Lack of public participation and citizen empowerment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2102.md)
+* [Inadequate collaboration and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1361.md)
 

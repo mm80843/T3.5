@@ -2,13 +2,9 @@
 
 # __Walkable urban design__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [High prevalence of obesity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_622.md)
-
-## Property: has_MitigationBenefit
-
-* [Lower COVID-19 mortality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_862.md)
+* [Promote equitable, sustainable, and inclusive urban planning to enhance living conditions, mitigate overcrowding, and reduce disparities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_324.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Improved urban planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_659.md)
 * [Re-design streets to widen sidewalks, create more bike lanes, and prioritize pedestrian spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1973.md)
 * [Revisit planning strategies, redefine compactness and density considerations, implement new urban layout planning and design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1736.md)
+
+## Property: has_MitigationBenefit
+
+* [Lower COVID-19 mortality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_862.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [High prevalence of obesity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_622.md)
 

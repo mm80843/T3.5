@@ -2,10 +2,9 @@
 
 # __Inadequate physical distancing__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Outdoor Activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_928.md)
-* [Wider doorways and corridors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_779.md)
+* [The challenges include reduced surgical education, loss of control, limited diagnostics, slow drug development, inadequate patient monitoring, and lack of drug therapy options.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_110.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Ineffective implementation of social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1027.md)
 * [Lack of social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2071.md)
 * [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_332.md)
+
+## Mitigations of this risk
+
+* [Outdoor Activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_928.md)
+* [Wider doorways and corridors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_779.md)
 

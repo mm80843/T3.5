@@ -2,9 +2,9 @@
 
 # __communication strategies__
 
-## Risks linked to this technology
+## Category to which it belongs
 
-* [Dependency on technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1233.md)
+* [Enhanced connectivity and diverse communication platforms enable the dissemination of reliable information and promote open communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_225.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [public health communication strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1635.md)
 * [risk communication strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1174.md)
 * [accurate and calm communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3516.md)
+
+## Risks linked to this technology
+
+* [Dependency on technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1233.md)
 

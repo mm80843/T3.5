@@ -2,9 +2,9 @@
 
 # __material support__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Support at individual level](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_804.md)
+* [Explore a diverse range of materials, from sound-absorbing to eco-friendly, that contribute to innovative building solutions and educational resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_222.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [material connection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3707.md)
 * [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2658.md)
 * [support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3422.md)
+
+## This Technology enables the following mitigations
+
+* [Support at individual level](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_804.md)
 

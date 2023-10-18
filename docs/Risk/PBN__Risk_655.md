@@ -2,9 +2,9 @@
 
 # __Inadequate disinfection methods and side effects of chemical disinfectants__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Use of nanomaterials and graphene-based coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_919.md)
+* [The widespread presence and transfer of harmful pathogens and contaminants on various surfaces and environments pose serious risks to public health and the ecosystem.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_100.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Operating room disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_255.md)
 * [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_254.md)
 * [Lack of supplemental air disinfection methods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_277.md)
+
+## Mitigations of this risk
+
+* [Use of nanomaterials and graphene-based coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_919.md)
 

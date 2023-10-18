@@ -2,13 +2,9 @@
 
 # __Design level adjustments on noise insulation__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [PC4: Personal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_204.md)
-
-## Property: has_MitigationBenefit
-
-* [Noise reduction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_254.md)
+* [Enhance acoustics and reduce noise through design, materials, insulation, regulations, and community engagement.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_350.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implement noise reduction measures, regulate noise levels in urban areas, promote soundproofing measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2459.md)
 * [Improved acoustic design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_152.md)
 * [insulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1193.md)
+
+## Property: has_MitigationBenefit
+
+* [Noise reduction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_254.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [PC4: Personal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_204.md)
 

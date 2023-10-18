@@ -2,10 +2,9 @@
 
 # __Increase public interest and awareness through targeted communication strategies.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Avoidance of COVID-19 news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1222.md)
-* [Decreased interest in COVID-19 news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1221.md)
+* [Promote understanding and knowledge sharing through educational campaigns, dissemination of accurate information, and public awareness initiatives.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_318.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Increasing public interest](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_134.md)
 * [Promote transparency, communication, and community engagement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2646.md)
 * [Clear communication channels, public education campaigns.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2241.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Avoidance of COVID-19 news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1222.md)
+* [Decreased interest in COVID-19 news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1221.md)
 

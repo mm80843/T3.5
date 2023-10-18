@@ -2,9 +2,9 @@
 
 # __knowledge graphs__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Data intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_58.md)
+* [Advanced analytics, fact-checking, project management, reliable sources, knowledge extraction, and collaboration ensure accurate information dissemination and effective decision-making.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_192.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Knowledge translation platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2041.md)
 * [knowledge management platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3888.md)
 * [graph-based structure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3177.md)
+
+## This Technology enables the following mitigations
+
+* [Data intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_58.md)
 

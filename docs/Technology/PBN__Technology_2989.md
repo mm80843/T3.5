@@ -2,9 +2,9 @@
 
 # __designated space__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Threshold Design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_141.md)
+* [Available green spaces and outdoor gathering areas allow for access and enjoyment of public parks and communal areas.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_218.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_146.md)
 * [public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3580.md)
 * [intermediate spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4246.md)
+
+## This Technology enables the following mitigations
+
+* [Threshold Design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_141.md)
 

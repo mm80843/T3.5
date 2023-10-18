@@ -2,9 +2,9 @@
 
 # __Limited testing capacity__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Increased sampling of wastewater treatment plants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_760.md)
+* [The challenges include inadequate testing capacity, slow identification of cases, limited evidence, and variability in PCR methods.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_140.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Insufficient testing data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1308.md)
 * [Limited data and sample size](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1661.md)
 * [Limited diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2604.md)
+
+## Mitigations of this risk
+
+* [Increased sampling of wastewater treatment plants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_760.md)
 

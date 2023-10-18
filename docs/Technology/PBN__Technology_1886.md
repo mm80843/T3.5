@@ -2,9 +2,9 @@
 
 # __disease surveillance__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q3555250](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3555250.md)
+* [Advancements in molecular biology, diagnostics, vaccines, antiviral technologies, and disease surveillance for pathogen detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_223.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_0.md)
 * [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2434.md)
 * [increased surveillance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_525.md)
+
+## This Technology is identified by the following QID
+
+* [Q3555250](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3555250.md)
 

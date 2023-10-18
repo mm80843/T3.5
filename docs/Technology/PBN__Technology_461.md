@@ -2,9 +2,9 @@
 
 # __workplace safety technology__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q2064531](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2064531.md)
+* [Safety protocols, emergency response plans, risk assessment tools, and comprehensive risk communication strategies ensure workplace safety and crisis management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_232.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [safety regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1160.md)
 * [health and safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_695.md)
 * [safety awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1669.md)
+
+## This Technology is identified by the following QID
+
+* [Q2064531](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2064531.md)
 

@@ -2,9 +2,9 @@
 
 # __Asset value improvement__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Wastewater-based surveillance (WBS)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1205.md)
+* [Financial vulnerability and instability permeate various sectors and industries, hindering growth, sustainability, and access to resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_114.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Decreasing revenues and illiquidity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2870.md)
 * [Reduced sales and fixed costs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1598.md)
 * [Impact on economy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1596.md)
+
+## Mitigations of this risk
+
+* [Wastewater-based surveillance (WBS)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1205.md)
 

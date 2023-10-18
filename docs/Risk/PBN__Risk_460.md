@@ -2,9 +2,9 @@
 
 # __Slow identification of cases__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [AI for rapid identification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_650.md)
+* [The challenges include inadequate testing capacity, slow identification of cases, limited evidence, and variability in PCR methods.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_140.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inaccurate identification and tracking of infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2035.md)
 * [Under-notification of cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1368.md)
 * [Importation of cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1594.md)
+
+## Mitigations of this risk
+
+* [AI for rapid identification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_650.md)
 

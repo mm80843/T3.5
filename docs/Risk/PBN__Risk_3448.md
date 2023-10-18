@@ -2,9 +2,9 @@
 
 # __Variability in wastewater samples__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [PMMoV as an internal reference](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2413.md)
+* [The challenges of urban water management include water contamination, waste management, inadequate water storage, and poor drainage.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_120.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Wastewater collection and treatment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1917.md)
 * [Water and wastewater management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_574.md)
 * [Inaccurate estimation of COVID-19 prevalence from wastewater data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1951.md)
+
+## Mitigations of this risk
+
+* [PMMoV as an internal reference](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2413.md)
 

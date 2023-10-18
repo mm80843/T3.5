@@ -2,9 +2,9 @@
 
 # __fact-checking platforms__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q59555084](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q59555084.md)
+* [Advanced analytics, fact-checking, project management, reliable sources, knowledge extraction, and collaboration ensure accurate information dissemination and effective decision-making.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_192.md)
 
 ## Risks linked to this technology
 
@@ -23,4 +23,8 @@
 * [fact-checking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_808.md)
 * [fact-checking organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_937.md)
 * [fact-checking websites and organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1437.md)
+
+## This Technology is identified by the following QID
+
+* [Q59555084](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q59555084.md)
 

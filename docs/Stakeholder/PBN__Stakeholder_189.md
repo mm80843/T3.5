@@ -6,6 +6,10 @@
 
 * [Fever detection and screening](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_400.md)
 
+## Category to which it belongs
+
+* [Individuals involved in the design, construction, management, and occupation of various types of buildings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_367.md)
+
 ## Closest similar item
 
 * [commercial buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_672.md)

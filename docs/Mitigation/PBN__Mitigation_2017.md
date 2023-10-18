@@ -2,8 +2,9 @@
 
 # __Redundant Wet Cells__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Strengthening waste management and surveillance, utilizing wastewater-based epidemiology, to improve environmental sanitation and water quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_9.md)
 
 ## Closest similar item
 
@@ -18,14 +19,17 @@
 * [Water bodies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_638.md)
 * [Regular disinfection of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1276.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Provide multiple wet cells to avoid sharing facilities and reduce the risk of transmission within the household.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [RESIDENTIAL ARCHITECTURE IN A POST-PANDEMIC WORLD: IMPLICATIONS OF COVID-19 FOR NEW CONSTRUCTION AND FOR ADAPTING HERITAGE BUILDINGS](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_56.md)
+
+## This Mitigation is enabled by the following technologies
+
 

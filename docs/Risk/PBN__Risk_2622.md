@@ -2,6 +2,23 @@
 
 # __Infection__
 
+## Category to which it belongs
+
+* [The dissemination of infectious diseases, characterized by outbreaks from various sources, inadequate preparedness, and insufficient reporting and understanding, poses a global threat.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_106.md)
+
+## Closest similar item
+
+* [infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2324.md)
+* [Infection and disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2618.md)
+* [Infectious disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2938.md)
+* [Transmission of Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2812.md)
+* [Undetected infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2788.md)
+* [Infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_711.md)
+* [Spread of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2408.md)
+* [Infection through contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2541.md)
+* [Cross-infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3012.md)
+* [Infection control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2410.md)
+
 ## Mitigations of this risk
 
 * [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_217.md)
@@ -20,17 +37,4 @@
 * [Adaptation of supermarkets](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2004.md)
 * [Isolation of patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1314.md)
 * [Autonomous Vehicles](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1318.md)
-
-## Closest similar item
-
-* [infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2324.md)
-* [Infection and disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2618.md)
-* [Infectious disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2938.md)
-* [Transmission of Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2812.md)
-* [Undetected infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2788.md)
-* [Infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_711.md)
-* [Spread of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2408.md)
-* [Infection through contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2541.md)
-* [Cross-infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3012.md)
-* [Infection control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2410.md)
 

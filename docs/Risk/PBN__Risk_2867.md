@@ -2,9 +2,9 @@
 
 # __Exclusion of startups/delayed support__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Government Policy Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1029.md)
+* [Limited monitoring, technical limitations, language barriers, expensive optimization, lack of connection with nature, and limited sensor diversity hinder effective response and resource allocation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_107.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Delayed treatment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3273.md)
 * [Delay in works due to lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_498.md)
 * [Delay in works due to staff members at high risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_499.md)
+
+## Mitigations of this risk
+
+* [Government Policy Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1029.md)
 

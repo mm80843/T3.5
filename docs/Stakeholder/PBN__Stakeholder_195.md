@@ -2,14 +2,9 @@
 
 # __tourism providers and destinations__
 
-## This Stakeholder can get these Benefits from mitigation measures
+## Category to which it belongs
 
-* [Preparation for changed vacation behavior](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_408.md)
-* [Reduction of negative environmental and social costs of tourism](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_409.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q1200957](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1200957.md)
+* [Foreign nationals residing in or visiting various destinations for tourism, with a focus on travelers during the pandemic and the industries reliant on tourism, such as hotels, tourism operators, and tourism boards.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_380.md)
 
 ## Closest similar item
 
@@ -23,4 +18,13 @@
 * [tourism operator](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2047.md)
 * [tourists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_72.md)
 * [tourism sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2059.md)
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Preparation for changed vacation behavior](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_408.md)
+* [Reduction of negative environmental and social costs of tourism](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_409.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q1200957](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1200957.md)
 

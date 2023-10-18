@@ -2,9 +2,9 @@
 
 # __Development and implementation of standardized protocols and assays for SARS-CoV-2 detection in environmental samples can ensure consistency and comparability of data.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of standardized method for SARS-CoV-2 detection in environmental samples](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1626.md)
+* [Efforts to study, detect, and control the spread of SARS-CoV-2 in various environments and populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_353.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Continue research and development of vaccines against SARS-CoV-2.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3065.md)
 * [Regular testing and evaluation of the effectiveness of portable air filters in reducing SARS-CoV-2 transmission](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2837.md)
 * [Conduct comprehensive phylogenetic analysis to identify the original host animal of SARS-CoV-2.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3060.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of standardized method for SARS-CoV-2 detection in environmental samples](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1626.md)
 

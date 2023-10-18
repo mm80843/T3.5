@@ -2,9 +2,9 @@
 
 # __Virtual Gaming__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [online gaming platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3884.md)
+* [Maximizing control and efficiency in various domains through advanced technology and strategic planning.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_163.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Virtualization of public services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2332.md)
 * [Indoor challenging games](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_448.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Increased screen time, potential for addiction, social isolation, cybersecurity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3086.md)
-
 ## Property: has_MitigationPrinciple
 
 Provide entertainment and social interaction through online gaming platforms
 
+## Risks possibly mitigated by this Mitigation
+
+* [Increased screen time, potential for addiction, social isolation, cybersecurity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3086.md)
+
 ## Property: has_MitigationSource
 
 * [The socio-economic implications of the coronavirus pandemic (COVID-19): A review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_135.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [online gaming platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3884.md)
 

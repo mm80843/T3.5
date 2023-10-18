@@ -2,9 +2,9 @@
 
 # __Food Parcels and Free Meals__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [food resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3881.md)
+* [Optimizing the global trade network and supply chains through decentralization, cost concern, and integrated management, while promoting resilience and equity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_146.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Increase cooking and eating at home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1532.md)
 * [Providing shelters and nutrition for refugees and the homeless](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_206.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Limited food availability, distribution challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3081.md)
-
 ## Property: has_MitigationPrinciple
 
 Provide free meals and food assistance to vulnerable populations
 
+## Risks possibly mitigated by this Mitigation
+
+* [Limited food availability, distribution challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3081.md)
+
 ## Property: has_MitigationSource
 
 * [The socio-economic implications of the coronavirus pandemic (COVID-19): A review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_135.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [food resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3881.md)
 

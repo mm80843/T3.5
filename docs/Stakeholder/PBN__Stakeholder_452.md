@@ -2,13 +2,9 @@
 
 # __healthcare authorities__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q63122029](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q63122029.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
+* [Public health stakeholders and individuals alike are concerned about health, seeking information and guidance from trusted sources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_354.md)
 
 ## Closest similar item
 
@@ -22,9 +18,6 @@
 * [public health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_173.md)
 * [healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_193.md)
 * [Healthcare resources](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2740.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
 
 ## This Stakeholder can get these Benefits from mitigation measures
 
@@ -42,4 +35,15 @@
 * [Local transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1595.md)
 * [Spread from Wuhan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1593.md)
 * [Vulnerability to COVID-19 in LMICs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1709.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+
+## This Stakeholder is identified by the following QID
+
+* [Q63122029](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q63122029.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
 

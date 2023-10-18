@@ -2,18 +2,9 @@
 
 # __risk experts__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Error accumulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1658.md)
-* [Lack of real people flow data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1656.md)
-
-## Risk affecting this stakeholder
-
-* [Model identification](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1654.md)
-* [Computational expense](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1655.md)
-* [Inaccurate measurement data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1657.md)
-* [Error accumulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1658.md)
-* [Lack of real people flow data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1656.md)
+* [Experts from various fields including research, risk assessment, education, science, HVAC, and IT.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_356.md)
 
 ## Closest similar item
 
@@ -27,4 +18,17 @@
 * [experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_540.md)
 * [individuals in high-risk areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1078.md)
 * [high-risk group](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2392.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Error accumulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1658.md)
+* [Lack of real people flow data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1656.md)
+
+## Risk affecting this stakeholder
+
+* [Model identification](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1654.md)
+* [Computational expense](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1655.md)
+* [Inaccurate measurement data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1657.md)
+* [Error accumulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1658.md)
+* [Lack of real people flow data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1656.md)
 

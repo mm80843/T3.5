@@ -2,9 +2,9 @@
 
 # __Forming an ad hoc committee to establish a preparedness plan__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Development of a COVID-19 crisis management plan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_356.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Develop comprehensive pandemic preparedness plans and invest in healthcare infrastructure; conduct regular simulations and training exercises](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2695.md)
 * [Enhance preparedness and response plans, stockpile essential medical supplies, and improve coordination between Member States and EU institutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2116.md)
 * [COVID-19 preparedness and response plans](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_502.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Development of a COVID-19 crisis management plan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_356.md)
 

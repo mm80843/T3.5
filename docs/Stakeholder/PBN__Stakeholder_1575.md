@@ -2,10 +2,9 @@
 
 # __individuals with symptoms or high-risk exposures__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Invasive individual testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2367.md)
-* [Limited access to testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2366.md)
+* [Especially susceptible individuals, such as allergy sufferers, those with weakened immune systems, and individuals with respiratory conditions, are at higher risk.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_388.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [general populations at risk of exposure to new diseases](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1573.md)
 * [individuals at risk](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_798.md)
 * [individuals with comorbidities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1260.md)
+
+## Risk affecting this stakeholder
+
+* [Invasive individual testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2367.md)
+* [Limited access to testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2366.md)
 

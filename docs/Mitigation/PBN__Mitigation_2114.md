@@ -2,10 +2,9 @@
 
 # __AI algorithms for initial screening__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [artificial intelligence (ai)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1714.md)
-* [deep learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1715.md)
+* [Maximizing control and efficiency in various domains through advanced technology and strategic planning.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_163.md)
 
 ## Closest similar item
 
@@ -20,14 +19,19 @@
 * [Preprint screening measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2336.md)
 * [Population screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2244.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Developing AI algorithms as an initial screening tool for suspected cases of COVID-19, allowing for targeted confirmatory tests or isolation for individuals at higher risk.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Digital technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_278.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [artificial intelligence (ai)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1714.md)
+* [deep learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1715.md)
 

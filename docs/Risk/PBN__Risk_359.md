@@ -2,9 +2,9 @@
 
 # __Changes in work schedules for nursing staff__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Revised work schedules](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_470.md)
+* [The impact of various factors on the workforce, including job insecurity, changes in work schedules, unemployment, and decreased productivity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_4.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Pre-employment and periodic medical check-ups (MCUs)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2135.md)
 * [Decreased working time](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1996.md)
 * [Psychological problems among nurses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_358.md)
+
+## Mitigations of this risk
+
+* [Revised work schedules](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_470.md)
 

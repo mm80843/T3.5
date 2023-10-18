@@ -2,9 +2,9 @@
 
 # __Implement data filtering and nan analysis__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Data overload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2088.md)
+* [Enable transparent and secure data management, traceability, and efficient distribution while promoting accurate information dissemination and verification.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_321.md)
 
 ## Closest similar item
 
@@ -17,4 +17,8 @@
 * [Use of proper filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_519.md)
 * [Establish reliable filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1444.md)
 * [Implement routine cleaning and disinfection, remove visible nan contaminants from surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3016.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Data overload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2088.md)
 

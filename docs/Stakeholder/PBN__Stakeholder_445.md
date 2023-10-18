@@ -2,13 +2,9 @@
 
 # __populations of lower socioeconomic status__
 
-## This Stakeholder can get these Benefits from mitigation measures
+## Category to which it belongs
 
-* [Reduction in health inequalities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_226.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q116701699](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q116701699.md)
+* [Individuals and communities experiencing socioeconomic disparities, economic hardship, housing instability, and social disadvantage.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_393.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Low-income population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2300.md)
 * [affected populations in low-income areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_280.md)
 * [socially and economically disadvantaged group](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2106.md)
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Reduction in health inequalities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_226.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q116701699](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q116701699.md)
 

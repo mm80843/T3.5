@@ -2,9 +2,9 @@
 
 # __Scarcity of research__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Search for evidence beyond conventional types](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_610.md)
+* [Fragmented global governance, reduced aid, ethical concerns, educational disruption, impacts on peace and justice, and inadequate coordination between stakeholders.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_115.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Barriers to progress, existing challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2639.md)
 * [Economic climate is unfavorable for innovation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_559.md)
 * [Fraudulent research activities, lack of reproducibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2630.md)
+
+## Mitigations of this risk
+
+* [Search for evidence beyond conventional types](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_610.md)
 

@@ -8,6 +8,10 @@
 * [Identification of source and sink areas](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_386.md)
 * [Prioritization of high-risk areas](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_388.md)
 
+## Category to which it belongs
+
+* [All those involved in the management, access, and utilization of data in various communities and industries.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_358.md)
+
 ## Closest similar item
 
 * [vulnerable communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_28.md)

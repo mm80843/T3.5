@@ -2,13 +2,9 @@
 
 # __Scaling up provision of water and safe sanitation in settlements__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of access to water and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_119.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved access to water and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_161.md)
+* [Promote efficient and sustainable water practices, enhance infrastructure, and ensure access to clean water and sanitation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_339.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Environmental sanitation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1366.md)
 * [Prioritize investments in clean water, appropriate sanitation, and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1497.md)
 * [Implement strategies for reduced contact and improved hygiene, provide access to water and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3051.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved access to water and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_161.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of access to water and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_119.md)
 

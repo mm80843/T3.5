@@ -2,9 +2,9 @@
 
 # ____
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1659.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [loc](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3077.md)
 * [pm](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4250.md)
 * [community support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4075.md)
+
+## This Technology enables the following mitigations
+
+* [Sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1659.md)
 

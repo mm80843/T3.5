@@ -2,9 +2,9 @@
 
 # __helplines and hotlines__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1482145](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1482145.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [mental health hotlines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1811.md)
 * [support services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3412.md)
 * [tele-counseling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1429.md)
+
+## This Technology is identified by the following QID
+
+* [Q1482145](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1482145.md)
 

@@ -2,9 +2,9 @@
 
 # __limited diagnostic capacity__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Faecal-oral transmission of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1660.md)
+* [Individuals affected by various medical conditions, including COVID-19, seeking information and care.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_394.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [suspected cases](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1198.md)
 * [testing laboratories](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1159.md)
 * [individuals with symptoms or high-risk exposures](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1575.md)
+
+## Risk affecting this stakeholder
+
+* [Faecal-oral transmission of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1660.md)
 

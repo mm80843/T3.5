@@ -2,16 +2,9 @@
 
 # __Filtration__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
-* [Droplet transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_253.md)
-* [Airborne pathogen](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_845.md)
-
-## Property: has_MitigationBenefit
-
-* [Removal of particles](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_314.md)
-* [Improved air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_192.md)
+* [Efforts include RNA monitoring, occupant exposure modeling, targeted messages, adoption of principles, copper coating, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_311.md)
 
 ## Closest similar item
 
@@ -25,4 +18,15 @@
 * [water filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3275.md)
 * [mechanical filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3276.md)
 * [air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3277.md)
+
+## Property: has_MitigationBenefit
+
+* [Removal of particles](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_314.md)
+* [Improved air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_192.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
+* [Droplet transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_253.md)
+* [Airborne pathogen](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_845.md)
 

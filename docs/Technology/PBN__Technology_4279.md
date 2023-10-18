@@ -2,9 +2,9 @@
 
 # __smart temperature control__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Programmable thermostats](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2153.md)
+* [Various technologies and devices are used to measure and regulate temperature, including cameras, scanners, sensors, and thermostats.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_220.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [temperature sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3044.md)
 * [energy-efficient technologies such as smart thermostats](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_78.md)
 * [temperature detection devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3200.md)
+
+## This Technology enables the following mitigations
+
+* [Programmable thermostats](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2153.md)
 

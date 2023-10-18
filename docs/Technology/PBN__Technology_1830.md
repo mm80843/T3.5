@@ -2,9 +2,9 @@
 
 # __targeted outreach to disadvantaged communities__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q11640](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11640.md)
+* [A range of community-centered initiatives, programs, and strategies foster participation, collaboration, and social support for diverse groups.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_236.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Outreach campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2164.md)
 * [community outreach programs for social support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1445.md)
 * [community mobilization efforts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2954.md)
+
+## This Technology is identified by the following QID
+
+* [Q11640](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11640.md)
 

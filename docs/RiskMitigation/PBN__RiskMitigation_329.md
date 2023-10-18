@@ -2,13 +2,9 @@
 
 # __Designated community-level areas for essential services__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Provision of community-level designated zones as key public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_271.md)
-
-## Property: has_MitigationBenefit
-
-* [Empowered communities and improved support systems](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_333.md)
+* [Promote equitable, sustainable, and inclusive urban planning to enhance living conditions, mitigate overcrowding, and reduce disparities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_324.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Develop and implement policies that address the specific needs of deprived areas.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2542.md)
 * [Closure of non-essential public places](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_328.md)
 * [Transforming public places for essential uses, such as food distribution, medical support, etc.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1727.md)
+
+## Property: has_MitigationBenefit
+
+* [Empowered communities and improved support systems](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_333.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Provision of community-level designated zones as key public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_271.md)
 

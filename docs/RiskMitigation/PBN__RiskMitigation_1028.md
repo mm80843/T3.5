@@ -2,13 +2,9 @@
 
 # __Extended service life of HVAC systems__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Operating costs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_746.md)
-
-## Property: has_MitigationBenefit
-
-* [System longevity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1025.md)
+* [Optimize indoor environments, regulate temperature and humidity, control air quality, and extend HVAC system operations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_341.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implementation of adaptable HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1086.md)
 * [Regular maintenance and cleaning of HVAC systems, following proper cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2389.md)
 * [Regular maintenance and cleaning of HVAC systems, improved ventilation and filtration.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2181.md)
+
+## Property: has_MitigationBenefit
+
+* [System longevity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1025.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Operating costs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_746.md)
 

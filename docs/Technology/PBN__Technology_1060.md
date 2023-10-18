@@ -2,9 +2,9 @@
 
 # __can be used to regulate ah and rh levels__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q898753](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q898753.md)
+* [Advancements in biotechnology, clinical research, and innovative therapies contribute to the development of medical solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [respirators](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_485.md)
 * [rt-qpcr assay](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3751.md)
 * [n95 respirators](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3504.md)
+
+## This Technology is identified by the following QID
+
+* [Q898753](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q898753.md)
 

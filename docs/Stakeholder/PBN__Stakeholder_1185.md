@@ -2,9 +2,9 @@
 
 # __infection control teams__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Inadequate ventilation in hospital settings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1778.md)
+* [A diverse array of collaborative and specialized groups in various fields working together towards specific goals.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_5.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [individuals in close proximity to an infected person](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_794.md)
 * [individuals in close proximity to infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_741.md)
 * [disaster response teams](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2713.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Inadequate ventilation in hospital settings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1778.md)
 

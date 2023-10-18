@@ -2,10 +2,9 @@
 
 # __Efficient Cooking Practices__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3132.md)
-* [cooking techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4061.md)
+* [Promoting effective communication, education, and trust through transparency, clear guidelines, and innovative strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_144.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Water-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2234.md)
 * [Building resilient food systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_81.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [IAP, Poor Indoor Air Quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3247.md)
-
 ## Property: has_MitigationPrinciple
 
 Promote efficient cooking practices, such as proper ventilation during cooking, to minimize the release of pollutants and improve indoor air quality in individual households.
 
+## Risks possibly mitigated by this Mitigation
+
+* [IAP, Poor Indoor Air Quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3247.md)
+
 ## Property: has_MitigationSource
 
 * [A comprehensive review on indoor air quality monitoring systems for enhanced public health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_281.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3132.md)
+* [cooking techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4061.md)
 

@@ -2,9 +2,13 @@
 
 # __low-income citizens__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q191159](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q191159.md)
+* [Vulnerable and economically disadvantaged individuals and communities, including low-income workers, renters, and households, particularly in urban areas and minority communities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_375.md)
+
+## Risk affecting this stakeholder
+
+* [Limited accessibility for low-income citizens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2245.md)
 
 ## Closest similar item
 
@@ -19,12 +23,12 @@
 * [Low-income individual](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2203.md)
 * [Low-income community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2373.md)
 
-## Risk affecting this stakeholder
-
-* [Limited accessibility for low-income citizens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2245.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Improved access](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1293.md)
 * [Reduced financial barrier](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1294.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q191159](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q191159.md)
 

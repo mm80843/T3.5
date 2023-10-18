@@ -2,9 +2,9 @@
 
 # __virtual tours__
 
-## Risks linked to this technology
+## Category to which it belongs
 
-* [Reduction in tourism revenue for PCAs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_105.md)
+* [Measures promoting accountability, media control, real-time updates, and virtual experiences for physical distancing and education.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1233.md)
 * [Virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2097.md)
 * [virtual meeting platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3925.md)
+
+## Risks linked to this technology
+
+* [Reduction in tourism revenue for PCAs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_105.md)
 

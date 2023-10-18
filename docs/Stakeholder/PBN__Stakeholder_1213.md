@@ -2,9 +2,9 @@
 
 # __oil companies__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Disruption in petroleum and oil industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1809.md)
+* [These companies span a wide array of industries, including renewable energy, construction, pharmaceuticals, logistics, and technology.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_387.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [energy company](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2010.md)
 * [logistics companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_424.md)
 * [company](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1444.md)
+
+## Risk affecting this stakeholder
+
+* [Disruption in petroleum and oil industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1809.md)
 

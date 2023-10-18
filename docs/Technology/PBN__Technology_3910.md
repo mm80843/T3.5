@@ -2,9 +2,9 @@
 
 # __water supply infrastructure__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Provision of water in informal settlements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1530.md)
+* [Improvements in wastewater, waste management, sanitation, water purification, and plumbing technologies aim for sustainable and efficient infrastructure development.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_234.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [water treatment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4367.md)
 * [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2310.md)
 * [infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3614.md)
+
+## This Technology enables the following mitigations
+
+* [Provision of water in informal settlements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1530.md)
 

@@ -2,9 +2,9 @@
 
 # __international coordination__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q9378718](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q9378718.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [coordination systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1285.md)
 * [transnational governance mechanisms and cooperative agreements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_736.md)
 * [coordination with suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3142.md)
+
+## This Technology is identified by the following QID
+
+* [Q9378718](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q9378718.md)
 

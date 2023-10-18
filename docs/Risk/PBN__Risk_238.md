@@ -2,9 +2,9 @@
 
 # __Lack of access to clean water__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Improving access to safe drinking water](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_287.md)
+* [Lack of proper hygiene and sanitation practices result in inadequate access to clean water and facilities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_129.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of access to clean energy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3319.md)
 * [Water and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2037.md)
 * [Poor housing, lack of water](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2432.md)
+
+## Mitigations of this risk
+
+* [Improving access to safe drinking water](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_287.md)
 

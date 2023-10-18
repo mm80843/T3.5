@@ -2,10 +2,9 @@
 
 # __Better working conditions__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [policy changes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_445.md)
-* [workforce support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4082.md)
+* [Enhancing safety and efficiency through comprehensive measures, technology integration, diverse environments, and behavioral adjustments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_157.md)
 
 ## Closest similar item
 
@@ -20,14 +19,19 @@
 * [Better healthcare protection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1885.md)
 * [Strengthening enforcement of labour standards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2260.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Ensuring healthcare professionals have safe and supportive working environments
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [From Viral City to Smart City: Learning from Pandemic Experiences](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_183.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [policy changes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_445.md)
+* [workforce support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4082.md)
 

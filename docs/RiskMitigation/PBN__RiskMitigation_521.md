@@ -2,13 +2,9 @@
 
 # __Use of UVGI devices__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Transmission of SARS-CoV-2 in built environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_377.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction in airborne virus concentration](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_511.md)
+* [Utilize UVGI technology to disinfect air, surfaces, and clothing, ensuring proper installation, training, and research to optimize effectiveness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_352.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [UV-based technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_994.md)
 * [Implement Ultraviolet Germicidal Irradiation (UVGI)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_191.md)
 * [Develop standardized tests and protocols for UVGI efficacy, ensure testing reflects real-world conditions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2327.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction in airborne virus concentration](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_511.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Transmission of SARS-CoV-2 in built environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_377.md)
 

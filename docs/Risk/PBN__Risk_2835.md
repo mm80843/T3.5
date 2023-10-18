@@ -2,9 +2,9 @@
 
 # __Decreased emphasis on personal and environmental hygiene__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Increased emphasis on hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_966.md)
+* [Lack of proper hygiene and sanitation practices result in inadequate access to clean water and facilities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_129.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inadequate Hygiene Facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1204.md)
 * [Inadequate housing hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_573.md)
 * [Lack of hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2287.md)
+
+## Mitigations of this risk
+
+* [Increased emphasis on hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_966.md)
 

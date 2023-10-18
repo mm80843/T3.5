@@ -2,9 +2,9 @@
 
 # __rearrangement of furniture__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q161519](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q161519.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Outdoor furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2361.md)
 * [ergonomic office furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_127.md)
 * [room dividers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1004.md)
+
+## This Technology is identified by the following QID
+
+* [Q161519](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q161519.md)
 

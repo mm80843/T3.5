@@ -2,9 +2,9 @@
 
 # __Research and develop alternative materials that prevent mosquito attraction while remaining environmentally sustainable.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Material selection for buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1834.md)
+* [Efforts include RNA monitoring, occupant exposure modeling, targeted messages, adoption of principles, copper coating, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_311.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Design buildings with optimized size, location, and orientation of openings to minimize mosquito access.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2419.md)
 * [Increase public education and awareness campaigns about mosquito-borne diseases and personal protective measures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2627.md)
 * [Use of materials with low virus survivability](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1197.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Material selection for buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1834.md)
 

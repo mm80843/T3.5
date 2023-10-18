@@ -2,13 +2,9 @@
 
 # __Targeted communication strategies__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [COVID-19 impact on immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_981.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved health literacy](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_901.md)
+* [Facilitate transparent communication, enabling reliable information sharing through standardized protocols and effective channels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_0.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Develop culturally relevant communication strategies, address factors influencing communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1612.md)
 * [Implement effective communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_46.md)
 * [Establishing effective communication channels](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_647.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved health literacy](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_901.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [COVID-19 impact on immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_981.md)
 

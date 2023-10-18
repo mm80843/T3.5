@@ -2,9 +2,9 @@
 
 # __task classification (low__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Daily Tasks and Activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_297.md)
+* [Advanced technologies and algorithms for modeling, simulation, optimization, and artificial intelligence in various applications, including robotics and computational fluid dynamics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_239.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [deep learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1715.md)
 * [natural language processing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4398.md)
 * [surface classification](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4234.md)
+
+## This Technology enables the following mitigations
+
+* [Daily Tasks and Activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_297.md)
 

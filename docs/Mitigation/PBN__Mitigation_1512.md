@@ -2,10 +2,9 @@
 
 # __Integration policies for migrant workers__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [social support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3899.md)
-* [integration programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3898.md)
+* [Embracing flexible work arrangements, such as remote work and staggered schedules, to enhance productivity and adapt to digital transformation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_171.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Migration control programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1269.md)
 * [Worker Education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_870.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Labour market vulnerabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3114.md)
-
 ## Property: has_MitigationPrinciple
 
 Implementing integration policies and providing social support can help improve the labour market outcomes of immigrant workers and reduce their vulnerability during economic crises.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Labour market vulnerabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3114.md)
+
 ## Property: has_MitigationSource
 
 * [What has been the impact of the COVID-19 pandemic on immigrants? An update on recent evidence](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_287.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [social support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3899.md)
+* [integration programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3898.md)
 

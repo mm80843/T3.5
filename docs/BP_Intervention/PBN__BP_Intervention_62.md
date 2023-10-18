@@ -2,11 +2,11 @@
 
 # __Staff training / upskilling__
 
-## Property: has_BP_InterventionTitle
-
-Staff training / upskilling
-
 ## Property: has_BP_InterventionKey
 
 HU3
+
+## Property: has_BP_InterventionTitle
+
+Staff training / upskilling
 

@@ -2,11 +2,9 @@
 
 # __Energy insecurity__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Energy bill deferral and payment extension plans](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1979.md)
-* [Disconnection bans](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1978.md)
-* [Bans on disconnections](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1981.md)
+* [Issues related to energy use, including increased consumption, inefficient usage, and lack of understanding, have various implications in different settings and sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_133.md)
 
 ## Closest similar item
 
@@ -20,4 +18,10 @@
 * [High energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2431.md)
 * [Energy Efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3251.md)
 * [Energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_745.md)
+
+## Mitigations of this risk
+
+* [Energy bill deferral and payment extension plans](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1979.md)
+* [Disconnection bans](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1978.md)
+* [Bans on disconnections](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1981.md)
 

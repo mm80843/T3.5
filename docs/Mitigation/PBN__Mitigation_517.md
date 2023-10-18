@@ -2,8 +2,9 @@
 
 # __Open-source model__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Promoting effective communication, education, and trust through transparency, clear guidelines, and innovative strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_144.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Data-driven solutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_150.md)
 * [Regression modeling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1196.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Proprietary monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2610.md)
-
 ## Property: has_MitigationPrinciple
 
 Encourage the use of open-source platforms and systems for WBE to facilitate widespread adoption and minimize costs
 
+## Risks possibly mitigated by this Mitigation
+
+* [Proprietary monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2610.md)
+
 ## Property: has_MitigationSource
 
 * [Wastewater surveillance for population-wide Covid-19: The present and future](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_213.md)
+
+## This Mitigation is enabled by the following technologies
+
 

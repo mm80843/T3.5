@@ -2,9 +2,9 @@
 
 # __Lack of greenery and natural elements__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Presence of green spaces and natural elements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1157.md)
+* [The interconnectedness of environmental degradation, social inequalities, and the need for climate action and conservation efforts.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_104.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of contact with nature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_735.md)
 * [Lack of natural light](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1804.md)
 * [Lack of connection with nature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_114.md)
+
+## Mitigations of this risk
+
+* [Presence of green spaces and natural elements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1157.md)
 

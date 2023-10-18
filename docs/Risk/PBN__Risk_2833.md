@@ -2,9 +2,9 @@
 
 # __Circulation of fake news__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Validation of news sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_962.md)
+* [The proliferation of false and misleading information, misinformation, and inaccurate news during pandemics creates confusion and a lack of trust in reliable sources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_127.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Misdiagnosis and fake news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_768.md)
 * [Circulation of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2832.md)
 * [Spread of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_396.md)
+
+## Mitigations of this risk
+
+* [Validation of news sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_962.md)
 

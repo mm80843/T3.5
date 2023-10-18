@@ -2,9 +2,9 @@
 
 # __data validation systems__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q3306762](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3306762.md)
+* [Data-driven insights and analysis for decision making, anonymized data, transparency, visualization, and advanced techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_205.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [data integration and validation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1894.md)
 * [data cleansing and validation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1126.md)
 * [validation studies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_905.md)
+
+## This Technology is identified by the following QID
+
+* [Q3306762](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3306762.md)
 

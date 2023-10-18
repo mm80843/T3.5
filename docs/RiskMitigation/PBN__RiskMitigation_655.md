@@ -2,13 +2,9 @@
 
 # __AI for patient management__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Inadequate patient monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_465.md)
-
-## Property: has_MitigationBenefit
-
-* [Automated patient monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_662.md)
+* [Advancements in bioinformatics, divestment, automated sample collection, and artificial intelligence are facilitating early disease detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_336.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Tracking patient numbers and capacity prediction; balancing patient load across multiple hospitals; tracking key medical personnel and prioritizing their access to necessary items](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3037.md)
 * [Utilize AI algorithms as an initial screening tool and develop alternative diagnostic tests.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2856.md)
 * [Digital patient management solutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_474.md)
+
+## Property: has_MitigationBenefit
+
+* [Automated patient monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_662.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inadequate patient monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_465.md)
 

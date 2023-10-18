@@ -2,9 +2,9 @@
 
 # __people in indoor spaces with air-conditioning systems__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Bad use of air-conditioning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1427.md)
+* [Individuals in poorly ventilated indoor environments, especially those in enclosed spaces with limited air flow, such as offices, homes, and buildings with inadequate air filtration, are at risk of exposure to poor indoor air quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_398.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [individuals in crowded indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_887.md)
 * [Occupants of indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2562.md)
 * [occupants of indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_846.md)
+
+## Risk affecting this stakeholder
+
+* [Bad use of air-conditioning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1427.md)
 

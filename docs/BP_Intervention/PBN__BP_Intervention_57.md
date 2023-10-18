@@ -2,11 +2,11 @@
 
 # __Optimize users flows to prevent contamination__
 
-## Property: has_BP_InterventionTitle
-
-Optimize users flows to prevent contamination
-
 ## Property: has_BP_InterventionKey
 
 HJ1
+
+## Property: has_BP_InterventionTitle
+
+Optimize users flows to prevent contamination
 

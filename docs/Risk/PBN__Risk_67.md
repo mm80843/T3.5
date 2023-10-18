@@ -2,9 +2,9 @@
 
 # __Urban bodies of water and wetlands__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Increase water movement and aeration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_79.md)
+* [The challenges of urban water management include water contamination, waste management, inadequate water storage, and poor drainage.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_120.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Stagnant pools in urban areas as breeding grounds](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3116.md)
 * [Loss of urban biodiversity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1381.md)
 * [Investments in improving water storage, sanitation, drainage, and housing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_475.md)
+
+## Mitigations of this risk
+
+* [Increase water movement and aeration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_79.md)
 

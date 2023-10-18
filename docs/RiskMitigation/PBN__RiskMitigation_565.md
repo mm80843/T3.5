@@ -2,13 +2,9 @@
 
 # __Voluntary home quarantine__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Community mitigation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_405.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduced stress on healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_552.md)
+* [Enforcing strict measures such as containment strategies, isolation, quarantine, and travel restrictions to prevent the spread of diseases.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_333.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Isolation and quarantine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_432.md)
 * [Implementation of quarantine measures, social distancing, and isolation of confirmed cases](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1756.md)
 * [Implement social distancing measures, case isolation, and home quarantine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1885.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced stress on healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_552.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Community mitigation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_405.md)
 

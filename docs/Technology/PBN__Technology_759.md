@@ -2,9 +2,9 @@
 
 # __modeling and simulation tools__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q7263963](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7263963.md)
+* [Advanced technologies and algorithms for modeling, simulation, optimization, and artificial intelligence in various applications, including robotics and computational fluid dynamics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_239.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [advanced modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1201.md)
 * [Building design software and modeling tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2323.md)
 * [advanced analytics and simulation models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1130.md)
+
+## This Technology is identified by the following QID
+
+* [Q7263963](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7263963.md)
 

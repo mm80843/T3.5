@@ -2,9 +2,9 @@
 
 # __diversification of suppliers__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Prevention of Disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2183.md)
+* [Maximizing economic efficiency while promoting financial stability through innovative strategies, investments, and partnerships at various levels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_195.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [commercial vendors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3312.md)
 * [supply chain optimization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1852.md)
 * [supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_767.md)
+
+## This Technology enables the following mitigations
+
+* [Prevention of Disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2183.md)
 

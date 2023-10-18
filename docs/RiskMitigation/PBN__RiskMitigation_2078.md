@@ -2,9 +2,9 @@
 
 # __Use of recommended concentrations of biocidal agents for disinfection__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Inactivation of coronaviruses by biocidal agents in suspension tests](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1549.md)
+* [Implement rigorous cleaning and disinfection measures, including the use of antimicrobial materials and advanced technologies, to maintain a safe and hygienic environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_2.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Develop and implement effective disinfection protocols, invest in environmentally friendly disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1596.md)
 * [Preprocessing disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_266.md)
 * [Use high-performing filters, proper disposal of disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2875.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inactivation of coronaviruses by biocidal agents in suspension tests](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1549.md)
 

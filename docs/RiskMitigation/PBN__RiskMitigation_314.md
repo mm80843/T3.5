@@ -2,13 +2,9 @@
 
 # __Purification__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Droplet transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_253.md)
-
-## Property: has_MitigationBenefit
-
-* [Destruction of pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_315.md)
+* [Efforts include RNA monitoring, occupant exposure modeling, targeted messages, adoption of principles, copper coating, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_311.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Specific approaches for containment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_98.md)
 * [Implement strict disinfection and](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3022.md)
 * [Isolation and quarantine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_432.md)
+
+## Property: has_MitigationBenefit
+
+* [Destruction of pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_315.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Droplet transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_253.md)
 

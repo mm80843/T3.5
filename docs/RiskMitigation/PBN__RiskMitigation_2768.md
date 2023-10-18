@@ -2,9 +2,9 @@
 
 # __Conduct gender-specific research on green space benefits, develop targeted interventions based on gender.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Gender differences in green space benefits](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2117.md)
+* [Promote biodiversity and sustainable urban development through the establishment and accessibility of green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_322.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Encourage utilization of private green spaces, create guidelines for safe access, facilitate use of nearby green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2766.md)
 * [Increase the availability and accessibility of urban green spaces, create new green spaces, and improve existing ones](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2408.md)
 * [Provide green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2867.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Gender differences in green space benefits](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2117.md)
 

@@ -2,19 +2,19 @@
 
 # __Enhanced data privacy and autonomy__
 
+## Name of the Benefit
+
+Allowing patients to authorize access to their medical records improves their control over personal data and ensures privacy and autonomy.
+
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Increased patient satisfaction and trust in healthcare providers.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_425.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
 
 ## Articles mentionning this Benefit
 
 * [Health Information Exchange with Blockchain amid Covid-19-like Pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_78.md)
 
-## Name of the Benefit
+## Stakeholders benefitting from this Benefit
 
-Allowing patients to authorize access to their medical records improves their control over personal data and ensures privacy and autonomy.
+* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
 

@@ -2,10 +2,9 @@
 
 # __Implementing sound insulation measures__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [soundproofing materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_119.md)
-* [double-glazed windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3257.md)
+* [Prioritizing safety measures, personal protective equipment, reliability, cybersecurity, risk perception, and general prevention to ensure protection and resilience in various domains.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_168.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Proper insulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_816.md)
 * [Improved Building Insulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1782.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Noise disturbances](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2582.md)
-
 ## Property: has_MitigationPrinciple
 
 Effective sound insulation minimizes noise disturbances, creating a quieter and more peaceful living environment.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Noise disturbances](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2582.md)
+
 ## Property: has_MitigationSource
 
 * [A Mixed Approach on Resilience of Spanish Dwellings and Households during COVID-19 Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_89.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [soundproofing materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_119.md)
+* [double-glazed windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3257.md)
 

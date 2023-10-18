@@ -2,13 +2,9 @@
 
 # __Placemaking approaches for urban regeneration__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Impact of COVID-19 on commercial and artisanal spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_757.md)
-
-## Property: has_MitigationBenefit
-
-* [Revitalization of commercial and artisanal spaces, enhanced public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1044.md)
+* [Promote equitable, sustainable, and inclusive urban planning to enhance living conditions, mitigate overcrowding, and reduce disparities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_324.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implement compact design principles, preserve existing green spaces, create new green spaces in urban developments](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1876.md)
 * [Improved urban planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_659.md)
 * [Horizontal urban development](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_20.md)
+
+## Property: has_MitigationBenefit
+
+* [Revitalization of commercial and artisanal spaces, enhanced public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1044.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Impact of COVID-19 on commercial and artisanal spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_757.md)
 

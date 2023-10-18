@@ -2,9 +2,9 @@
 
 # __local organizations__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Insufficient social adaptive capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2155.md)
+* [A diverse array of entities dedicated to various industries, causes, or services, promoting growth and welfare in society.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_369.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [local governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_568.md)
 * [local government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_307.md)
 * [local government authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1577.md)
+
+## Risk affecting this stakeholder
+
+* [Insufficient social adaptive capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2155.md)
 

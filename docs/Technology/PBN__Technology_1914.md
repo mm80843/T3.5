@@ -2,9 +2,9 @@
 
 # __improve broadband availability and invest in digital literacy programs__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1068473](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1068473.md)
+* [The digital revolution encompasses various aspects, from online promotion to contactless payment systems and virtual learning platforms.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_190.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [expansion of digital](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1875.md)
 * [digital technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2920.md)
 * [digital inclusion initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_700.md)
+
+## This Technology is identified by the following QID
+
+* [Q1068473](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1068473.md)
 

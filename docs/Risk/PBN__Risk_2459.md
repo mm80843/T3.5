@@ -2,9 +2,9 @@
 
 # __Work-life distinction__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Threshold Design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_141.md)
+* [The impact of various factors on the workforce, including job insecurity, changes in work schedules, unemployment, and decreased productivity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_4.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Workforce Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1953.md)
 * [Health and well-being](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_747.md)
 * [Workplace productivity decrease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1477.md)
+
+## Mitigations of this risk
+
+* [Threshold Design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_141.md)
 

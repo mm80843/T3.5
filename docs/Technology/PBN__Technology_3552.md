@@ -2,9 +2,9 @@
 
 # __presence of forest and trees__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Air Quality Improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_225.md)
+* [Urban green space solutions include tree planting, zoning regulations, landscape architecture, community gardens, outdoor furniture, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_231.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [nature-based features and systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4526.md)
 * [landscaping](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_965.md)
 * [landscaping techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_923.md)
+
+## This Technology enables the following mitigations
+
+* [Air Quality Improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_225.md)
 

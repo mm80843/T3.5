@@ -2,9 +2,9 @@
 
 # __id now test)__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Rapid Testing Methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2477.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [chat bot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1717.md)
 * [spea2)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3810.md)
 * [rigorous testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2033.md)
+
+## This Technology enables the following mitigations
+
+* [Rapid Testing Methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2477.md)
 

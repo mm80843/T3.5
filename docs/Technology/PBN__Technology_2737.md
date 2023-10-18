@@ -2,9 +2,9 @@
 
 # __Signs and information boards__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
-* [Communication and Information Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_46.md)
+* [The digital revolution encompasses various aspects, from online promotion to contactless payment systems and virtual learning platforms.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_190.md)
 
 ## Closest similar item
 
@@ -19,11 +19,15 @@
 * [digital signatures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3005.md)
 * [signs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3923.md)
 
-## This Technology belongs to this TechGroup
-
-* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1211272](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1211272.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Communication and Information Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_46.md)
+
+## This Technology belongs to this TechGroup
+
+* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
 

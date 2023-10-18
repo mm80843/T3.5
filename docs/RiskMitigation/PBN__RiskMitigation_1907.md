@@ -2,9 +2,9 @@
 
 # __Highlight the public health impacts of climate change in climate change discussions and communication.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of emphasis on public health impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1402.md)
+* [Promote public health through policy implementation, strengthened systems, health literacy, and targeted interventions for vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_314.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Educational campaigns on public health measures, improving communication and dissemination of information.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1805.md)
 * [Communicate and educate the public about the health benefits of policies, use evidence-based arguments to justify policy decisions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2011.md)
 * [Engage and educate the public on the benefits of sustainable energy, advocate for green recovery measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2148.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of emphasis on public health impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1402.md)
 

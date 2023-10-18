@@ -2,9 +2,9 @@
 
 # __advanced monitoring and data analysis techniques can be used to study the relationship between indoor and outdoor conditions and influenza seasonality__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q905504](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q905504.md)
+* [Improved air quality can be achieved through the use of various technologies such as air purifiers and monitoring systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_221.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Air quality monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2530.md)
 * [environmental monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_707.md)
 * [Environmental monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2533.md)
+
+## This Technology is identified by the following QID
+
+* [Q905504](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q905504.md)
 

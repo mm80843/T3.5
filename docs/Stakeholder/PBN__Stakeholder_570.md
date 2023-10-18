@@ -2,9 +2,9 @@
 
 # __people living near poorly maintained green spaces__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Poor quality of green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1042.md)
+* [Individuals in various types of spaces, including public, indoor, and confined areas, with varying access to green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_378.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [visitors of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_41.md)
 * [individuals living in areas with natural outdoor environments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_306.md)
 * [especially those living in densely populated areas with limited access to natural environments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_898.md)
+
+## Risk affecting this stakeholder
+
+* [Poor quality of green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1042.md)
 

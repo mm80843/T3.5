@@ -2,9 +2,9 @@
 
 # __ventilation system modifications__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Negative pressure isolation ward](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1368.md)
+* [Improved ventilation and air purification methods are implemented, incorporating natural and mechanical systems, upgraded technologies, regular maintenance, and smart controls.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_200.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Ventilation Systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2701.md)
 * [advanced ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1294.md)
 * [implementation of ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_556.md)
+
+## This Technology enables the following mitigations
+
+* [Negative pressure isolation ward](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1368.md)
 

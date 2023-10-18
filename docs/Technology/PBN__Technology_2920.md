@@ -2,11 +2,9 @@
 
 # __digital technology__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Digital Transformation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_432.md)
-* [Digital contact tracing application](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_42.md)
-* [Hybrid work models](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2010.md)
+* [Technological advancements encompass a wide range of innovations, such as blockchain, touchless, renewable energy, and communication technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
 
 ## Closest similar item
 
@@ -20,4 +18,10 @@
 * [digital tools and technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3528.md)
 * [technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3618.md)
 * [digital techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3209.md)
+
+## This Technology enables the following mitigations
+
+* [Digital Transformation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_432.md)
+* [Digital contact tracing application](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_42.md)
+* [Hybrid work models](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2010.md)
 

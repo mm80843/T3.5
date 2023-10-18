@@ -6,6 +6,10 @@
 
 * [Accessible and actionable data](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_802.md)
 
+## Category to which it belongs
+
+* [Providers of vital services, including startups, founders, and various essential service fields such as cleaning, pest control, and emergency services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_396.md)
+
 ## Closest similar item
 
 * [service providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_476.md)

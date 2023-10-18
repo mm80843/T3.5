@@ -2,9 +2,9 @@
 
 # __use operable windows and shading devices for natural ventilation and temperature control__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1427418](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1427418.md)
+* [Improved ventilation and air purification methods are implemented, incorporating natural and mechanical systems, upgraded technologies, regular maintenance, and smart controls.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_200.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [use of outdoor air and natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_677.md)
 * [enhanced ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3113.md)
 * [improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_249.md)
+
+## This Technology is identified by the following QID
+
+* [Q1427418](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1427418.md)
 

@@ -2,9 +2,9 @@
 
 # __cold-spray technique to deposit copper coatings__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1683415](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1683415.md)
+* [The range of materials and techniques listed includes various disinfectants, nanomaterials, manufacturing methods, coatings, sustainability measures, and analytical tools.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_237.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [safe coating materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_266.md)
 * [alloys copper](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4273.md)
 * [copper](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4272.md)
+
+## This Technology is identified by the following QID
+
+* [Q1683415](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1683415.md)
 

@@ -2,13 +2,9 @@
 
 # __Strengthen public and universal health systems__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Health care system overload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_12.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced access to healthcare for all](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_24.md)
+* [Promote public health through policy implementation, strengthened systems, health literacy, and targeted interventions for vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_314.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Strengthening healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_725.md)
 * [Increase public health funding](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_621.md)
 * [Public health policies and regulations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_8.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced access to healthcare for all](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_24.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Health care system overload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_12.md)
 

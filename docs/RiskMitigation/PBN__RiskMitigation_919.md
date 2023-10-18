@@ -2,13 +2,9 @@
 
 # __Use of nanomaterials and graphene-based coatings__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Inadequate disinfection methods and side effects of chemical disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_655.md)
-
-## Property: has_MitigationBenefit
-
-* [Safer and more effective disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_919.md)
+* [Efforts include RNA monitoring, occupant exposure modeling, targeted messages, adoption of principles, copper coating, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_311.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Antiviral surface coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_917.md)
 * [Coating with cuprous oxide (Cu2O)/polyurethane (PU) film](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_964.md)
 * [Development of coatings that reduce the viability period of SARS-CoV-2 on solids](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1630.md)
+
+## Property: has_MitigationBenefit
+
+* [Safer and more effective disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_919.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inadequate disinfection methods and side effects of chemical disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_655.md)
 

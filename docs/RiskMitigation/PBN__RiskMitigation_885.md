@@ -2,13 +2,9 @@
 
 # __Optimize layout for north-south orientation__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Limited space and inadequate room quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_640.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved thermal comfort and energy efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_888.md)
+* [Designing affordable, adaptable, and sustainable housing with improved building environments and optimized spatial layouts, while incorporating flexible and human-centric design elements and considering health, safety, and environmental parameters.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_326.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Adjustments to spacing and circulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_478.md)
 * [Revisit planning strategies, redefine compactness and density considerations, implement new urban layout planning and design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1736.md)
 * [Incorporate larger windows, skylights, light tubes, optimize interior layout](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1535.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved thermal comfort and energy efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_888.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limited space and inadequate room quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_640.md)
 

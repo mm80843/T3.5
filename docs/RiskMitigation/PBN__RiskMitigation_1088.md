@@ -2,13 +2,9 @@
 
 # __Integration of portable and temporary installations__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Insufficient technical installations for adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_794.md)
-
-## Property: has_MitigationBenefit
-
-* [Temporary adaptations](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1080.md)
+* [Implementing a comprehensive package of measures to ensure the smooth functioning and safety of essential services and activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_6.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Regular maintenance and inspections, backup systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2341.md)
 * [Retrofitting existing buildings with containment space, additional wet cells, and compartmentalization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_274.md)
 * [Implement flexible scheduling and occupancy measures, redistribute resources as needed.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2753.md)
+
+## Property: has_MitigationBenefit
+
+* [Temporary adaptations](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1080.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Insufficient technical installations for adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_794.md)
 

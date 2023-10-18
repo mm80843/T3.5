@@ -2,9 +2,9 @@
 
 # __financial literacy and inclusion technologies__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q60852](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q60852.md)
+* [Maximizing economic efficiency while promoting financial stability through innovative strategies, investments, and partnerships at various levels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_195.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [financial support mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_631.md)
 * [financial support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_607.md)
 * [financial resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3637.md)
+
+## This Technology is identified by the following QID
+
+* [Q60852](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q60852.md)
 

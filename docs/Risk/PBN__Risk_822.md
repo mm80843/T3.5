@@ -2,9 +2,9 @@
 
 # __Psychological and mental health challenges during COVID-19__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Virtual reality psychological treatment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1128.md)
+* [The far-reaching consequences of COVID-19 include its transmission through various settings, impact on urban areas, and scarcity of resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Loss of family or friends and economic well-being due to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1717.md)
 * [about COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_535.md)
 * [COVID-19 risk perception](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1206.md)
+
+## Mitigations of this risk
+
+* [Virtual reality psychological treatment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1128.md)
 

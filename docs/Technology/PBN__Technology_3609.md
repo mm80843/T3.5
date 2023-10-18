@@ -2,10 +2,9 @@
 
 # __effective communication channels__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1063.md)
-* [Local strategies for isolation and physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2382.md)
+* [Enhanced connectivity and diverse communication platforms enable the dissemination of reliable information and promote open communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_225.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [dissemination of accurate information through various channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1995.md)
 * [Dissemination of accurate information through various channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2152.md)
 * [communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3463.md)
+
+## This Technology enables the following mitigations
+
+* [Communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1063.md)
+* [Local strategies for isolation and physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2382.md)
 

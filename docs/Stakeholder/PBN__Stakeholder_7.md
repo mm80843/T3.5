@@ -2,13 +2,15 @@
 
 # __victims of domestic violence__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q156537](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q156537.md)
+* [Survivors of abuse seeking support from organizations combating domestic violence and aiding victims.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_361.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Increase in domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1438.md)
+* [Domestic violence increase](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1139.md)
+* [Impact on family dynamics: domestic violence & home video-gaming](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1817.md)
 
 ## Closest similar item
 
@@ -23,17 +25,19 @@
 * [domestic violence victim in residential building](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1728.md)
 * [women experiencing intimate partner violence](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_564.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder can get these Benefits from mitigation measures
 
-* [Increase in domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1438.md)
-* [Domestic violence increase](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1139.md)
-* [Impact on family dynamics: domestic violence & home video-gaming](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1817.md)
+* [Increased reporting of domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_10.md)
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Personal Safety and Security](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_113.md)
 
-## This Stakeholder can get these Benefits from mitigation measures
+## This Stakeholder is identified by the following QID
 
-* [Increased reporting of domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_10.md)
+* [Q156537](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q156537.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 

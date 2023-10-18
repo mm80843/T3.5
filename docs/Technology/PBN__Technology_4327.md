@@ -2,9 +2,9 @@
 
 # __international partnerships__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Collaboration with national and international partners](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2213.md)
+* [Maximizing economic efficiency while promoting financial stability through innovative strategies, investments, and partnerships at various levels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_195.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [public-private partnerships](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_55.md)
 * [collaboration agreements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4328.md)
 * [transnational governance mechanisms and cooperative agreements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_736.md)
+
+## This Technology enables the following mitigations
+
+* [Collaboration with national and international partners](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2213.md)
 

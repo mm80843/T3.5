@@ -2,10 +2,9 @@
 
 # __procurement__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Central control of medical countermeasures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_995.md)
-* [Creation of rescEU stockpile of medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_997.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [PPE equipment and supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2595.md)
 * [logistics providers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1085.md)
 * [Logistics providers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2381.md)
+
+## This Technology enables the following mitigations
+
+* [Central control of medical countermeasures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_995.md)
+* [Creation of rescEU stockpile of medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_997.md)
 

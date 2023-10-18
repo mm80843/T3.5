@@ -2,9 +2,9 @@
 
 # __UV light disinfection__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [uvc and uvgi lights](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3298.md)
+* [Enhancing cleanliness and sanitation through various methods such as UV light, chemicals, and routine cleaning.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_169.md)
 
 ## Closest similar item
 
@@ -19,14 +19,18 @@
 * [uv-c disinfection technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2875.md)
 * [UV-C disinfection technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2876.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Inactivates viruses, including CoVs, in the air and on surfaces, reducing the risk of transmission.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [2019 Novel Coronavirus (COVID-19) Pandemic: Built Environment Considerations To Reduce Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_288.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [uvc and uvgi lights](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3298.md)
 

@@ -7,6 +7,10 @@
 * [Reduction in transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_262.md)
 * [Reduction in energy waste](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1345.md)
 
+## Category to which it belongs
+
+* [Individuals involved in the design, construction, management, and occupation of various types of buildings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_367.md)
+
 ## Closest similar item
 
 * [building owners/occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_61.md)

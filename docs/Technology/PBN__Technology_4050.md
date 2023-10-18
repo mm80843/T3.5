@@ -2,10 +2,9 @@
 
 # __temperature control__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Adjustability of indoor temperature/humidity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2124.md)
-* [Control of Indoor Temperatures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1760.md)
+* [Various technologies and devices are used to measure and regulate temperature, including cameras, scanners, sensors, and thermostats.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_220.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Temperature monitoring devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2518.md)
 * [temperature](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1063.md)
 * [thermostats](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3742.md)
+
+## This Technology enables the following mitigations
+
+* [Adjustability of indoor temperature/humidity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2124.md)
+* [Control of Indoor Temperatures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1760.md)
 

@@ -2,13 +2,9 @@
 
 # __Value engineering with lean construction and risk management__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Delay and disruption due to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_300.md)
-
-## Property: has_MitigationBenefit
-
-* [Increased project resilience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_370.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Risk mapping process](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_391.md)
 * [Improve building design and operation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1371.md)
 * [Measures in design and construction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_109.md)
+
+## Property: has_MitigationBenefit
+
+* [Increased project resilience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_370.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Delay and disruption due to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_300.md)
 

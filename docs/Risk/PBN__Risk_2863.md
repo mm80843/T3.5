@@ -2,10 +2,9 @@
 
 # __Exclusion of startups__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Policy Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1033.md)
-* [Government Support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1022.md)
+* [Limited monitoring, technical limitations, language barriers, expensive optimization, lack of connection with nature, and limited sensor diversity hinder effective response and resource allocation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_107.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Exclusion from government support programs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1600.md)
 * [Digital exclusion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1369.md)
 * [Lack of business continuity planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2226.md)
+
+## Mitigations of this risk
+
+* [Policy Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1033.md)
+* [Government Support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1022.md)
 

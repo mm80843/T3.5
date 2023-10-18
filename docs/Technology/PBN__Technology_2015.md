@@ -2,9 +2,9 @@
 
 # __improved 3d printing technology__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q229367](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q229367.md)
+* [Technological advancements encompass a wide range of innovations, such as blockchain, touchless, renewable energy, and communication technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Additive manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2654.md)
 * [ordinary printer paper](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3768.md)
 * [advanced manufacturing techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1557.md)
+
+## This Technology is identified by the following QID
+
+* [Q229367](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q229367.md)
 

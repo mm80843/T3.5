@@ -2,9 +2,9 @@
 
 # __expansion of digital__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q690079](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q690079.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Digital devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2653.md)
 * [digital techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3209.md)
 * [expansion of digital platforms and virtual experiences](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2738.md)
+
+## This Technology is identified by the following QID
+
+* [Q690079](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q690079.md)
 

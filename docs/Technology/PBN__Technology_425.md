@@ -2,9 +2,9 @@
 
 # __air purifiers and ventilation systems__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1196206](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1196206.md)
+* [Improved ventilation and air purification methods are implemented, incorporating natural and mechanical systems, upgraded technologies, regular maintenance, and smart controls.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_200.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Ventilation Systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2701.md)
 * [improved ventilation and air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_642.md)
 * [Improved ventilation and air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2538.md)
+
+## This Technology is identified by the following QID
+
+* [Q1196206](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1196206.md)
 

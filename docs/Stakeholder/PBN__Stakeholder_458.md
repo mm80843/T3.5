@@ -6,6 +6,10 @@
 
 * [Improvement in mood disorders](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1177.md)
 
+## Category to which it belongs
+
+* [A diverse array of groups and individuals, encompassing all segments of society and the natural world.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_363.md)
+
 ## Closest similar item
 
 * [especially socially disadvantaged individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1065.md)

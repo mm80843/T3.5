@@ -2,9 +2,9 @@
 
 # __plastic tubes with insecticide-laden electrostatic netting__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Eave tubes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2395.md)
+* [The range of materials and techniques listed includes various disinfectants, nanomaterials, manufacturing methods, coatings, sustainability measures, and analytical tools.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_237.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [mosquito-resistant alternative building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2775.md)
 * [electrostatic filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1116.md)
 * [mosquito control operations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4049.md)
+
+## This Technology enables the following mitigations
+
+* [Eave tubes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2395.md)
 

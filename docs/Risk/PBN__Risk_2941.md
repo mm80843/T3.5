@@ -2,9 +2,9 @@
 
 # __Gastrointestinal symptoms in COVID-19 patients__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Enteric involvement studies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1143.md)
+* [The far-reaching consequences of COVID-19 include its transmission through various settings, impact on urban areas, and scarcity of resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Severe cases of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3441.md)
 * [Aggravating COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3130.md)
 * [Spread of Covid-19 through faecal-oral route](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_691.md)
+
+## Mitigations of this risk
+
+* [Enteric involvement studies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1143.md)
 

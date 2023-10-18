@@ -2,13 +2,9 @@
 
 # __Migrants and Minorities__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [People of color](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2362.md)
-* [Migrants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2346.md)
-* [Minority populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2318.md)
-* [racial and ethnic minorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_661.md)
-* [individual with different gender identity](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2348.md)
+* [Mobile individuals who belong to the field of welcoming guests, accommodating tourists, assisting migrants, transiting people](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_255.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Residents/Visitors](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_109.md)
 * [Residents](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_72.md)
 * [Population Density and Urbanization](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_100.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [People of color](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2362.md)
+* [Migrants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2346.md)
+* [Minority populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2318.md)
+* [racial and ethnic minorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_661.md)
+* [individual with different gender identity](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2348.md)
 

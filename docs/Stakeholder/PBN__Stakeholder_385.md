@@ -6,6 +6,10 @@
 
 * [Social and economic](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_980.md)
 
+## Category to which it belongs
+
+* [Local enterprises and establishments, encompassing various sectors, sizes, and ownership types.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_381.md)
+
 ## Closest similar item
 
 * [local businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_300.md)

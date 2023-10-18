@@ -2,13 +2,9 @@
 
 # __HVAC system modifications__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Airborne transmission of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_967.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction of virus concentration](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1328.md)
+* [Optimize indoor environments, regulate temperature and humidity, control air quality, and extend HVAC system operations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_341.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Installation of efficient HVAC systems, proper insulation, and controls for temperature regulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1566.md)
 * [Regular maintenance and calibration of HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2003.md)
 * [Extended service life of HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1028.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction of virus concentration](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1328.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Airborne transmission of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_967.md)
 

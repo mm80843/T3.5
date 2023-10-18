@@ -2,9 +2,9 @@
 
 # __Access to mental health services, teletherapy, social support networks__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Increased prevalence of mental health symptoms during quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1278.md)
+* [Promote mental well-being through access to resources, support services, and strategies for coping with stress.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_313.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Expand telehealth services for virtual therapy and counseling; increase availability of online mental health resources; train and support mental health professionals in remote service delivery.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2608.md)
 * [Provide mental health support services and hotlines, promote community support systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2366.md)
 * [Provision of mental health support services, remote counseling, awareness campaigns, and community support programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2772.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Increased prevalence of mental health symptoms during quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1278.md)
 

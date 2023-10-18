@@ -2,13 +2,9 @@
 
 # __intrusion detection systems__
 
-## Risks linked to this technology
+## Category to which it belongs
 
-* [Security risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2127.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Firewalls and Intrusion Detection Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_144.md)
+* [These resources aim to enhance security, convenience, and efficiency in managing access, spaces, and systems within various environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_206.md)
 
 ## Closest similar item
 
@@ -26,4 +22,12 @@
 ## This Technology belongs to this TechGroup
 
 * [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_5.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Firewalls and Intrusion Detection Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_144.md)
+
+## Risks linked to this technology
+
+* [Security risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2127.md)
 

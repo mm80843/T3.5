@@ -2,13 +2,9 @@
 
 # __Decentralization__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Spread of infections and diseases in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1010.md)
-
-## Property: has_MitigationBenefit
-
-* [Health and safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_524.md)
+* [Advancements in bioinformatics, divestment, automated sample collection, and artificial intelligence are facilitating early disease detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_336.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Multi-scalar governance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_61.md)
 * [Blockchain-based decentralized framework for health information exchange](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_399.md)
 * [Ensuring equitable access](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2978.md)
+
+## Property: has_MitigationBenefit
+
+* [Health and safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_524.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of infections and diseases in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1010.md)
 

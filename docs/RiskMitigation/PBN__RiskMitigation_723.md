@@ -2,13 +2,9 @@
 
 # __Implementation of non-pharmaceutical interventions__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Economic decline during the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_516.md)
-
-## Property: has_MitigationBenefit
-
-* [Economic stability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_734.md)
+* [Monitoring, analysis, and standardization of various technologies and protocols for accurate and reliable healthcare data collection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_310.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Combination of multiple interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_409.md)
 * [Implementing targeted healthcare interventions, increasing access to healthcare services, addressing social determinants of health](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1587.md)
 * [Prevention efforts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_827.md)
+
+## Property: has_MitigationBenefit
+
+* [Economic stability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_734.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Economic decline during the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_516.md)
 

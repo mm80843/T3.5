@@ -2,16 +2,9 @@
 
 # __Adaptive design of built environment__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_133.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved indoor environment quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_758.md)
-* [Increased natural light in built environment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_759.md)
-* [Isolation spaces in built environment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_760.md)
-* [Open relaxation spaces in built environment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_761.md)
+* [Designing affordable, adaptable, and sustainable housing with improved building environments and optimized spatial layouts, while incorporating flexible and human-centric design elements and considering health, safety, and environmental parameters.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_326.md)
 
 ## Closest similar item
 
@@ -25,4 +18,15 @@
 * [Designate areas for relaxation within built environment, create outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1541.md)
 * [Green building design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1392.md)
 * [Modify office building design and layout](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_603.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved indoor environment quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_758.md)
+* [Increased natural light in built environment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_759.md)
+* [Isolation spaces in built environment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_760.md)
+* [Open relaxation spaces in built environment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_761.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_133.md)
 

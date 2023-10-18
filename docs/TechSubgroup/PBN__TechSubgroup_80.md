@@ -2,13 +2,9 @@
 
 # __Lighting Solutions__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [skylights](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_141.md)
-* [light tubes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_142.md)
-* [Windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2360.md)
-* [adjustable lighting controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_197.md)
-* [Windows with views](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2672.md)
+* [Soundproofing, climate control, and illumination options for spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_39.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Technologies for Monitoring and Mitigation](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_64.md)
 * [Thermal Screening Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_189.md)
 * [Green Spaces and Urban Design](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_84.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [skylights](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_141.md)
+* [light tubes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_142.md)
+* [Windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2360.md)
+* [adjustable lighting controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_197.md)
+* [Windows with views](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2672.md)
 

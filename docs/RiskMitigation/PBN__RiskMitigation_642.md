@@ -2,13 +2,9 @@
 
 # __Implementation of virtual training classes__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [COVID-19 propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_453.md)
-
-## Property: has_MitigationBenefit
-
-* [Increased accessibility and convenience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_645.md)
+* [Enrich education through digital tools, virtual experiences, remote learning, and alternative forms of exercise and interaction.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_3.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Online learning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_981.md)
 * [Virtual care platforms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_638.md)
 * [Implement flexible working arrangements, remote working, and training programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1791.md)
+
+## Property: has_MitigationBenefit
+
+* [Increased accessibility and convenience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_645.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [COVID-19 propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_453.md)
 

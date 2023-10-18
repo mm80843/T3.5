@@ -2,9 +2,9 @@
 
 # __automated windows__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q787116](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q787116.md)
+* [These resources aim to enhance security, convenience, and efficiency in managing access, spaces, and systems within various environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_206.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Automation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2863.md)
 * [testing automation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_783.md)
 * [operable windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3938.md)
+
+## This Technology is identified by the following QID
+
+* [Q787116](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q787116.md)
 

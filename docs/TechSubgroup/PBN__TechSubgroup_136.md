@@ -2,15 +2,9 @@
 
 # __Encryption and Security Algorithms__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [encryption](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_97.md)
-* [encryption algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_317.md)
-* [Encryption algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2427.md)
-* [Encryption](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2411.md)
-* [Encryption technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2414.md)
-* [Data encryption](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2409.md)
-* [Data encryption technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2424.md)
+* [Ensuring secure and anonymous data storage and transmission through advanced cryptographic techniques like blockchain and encryption.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_34.md)
 
 ## Closest similar item
 
@@ -24,4 +18,14 @@
 * [Firewalls and Intrusion Detection Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_144.md)
 * [Communication and Information Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_46.md)
 * [Communication and Data Sharing](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_3.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [encryption](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_97.md)
+* [encryption algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_317.md)
+* [Encryption algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2427.md)
+* [Encryption](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2411.md)
+* [Encryption technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2414.md)
+* [Data encryption](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2409.md)
+* [Data encryption technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2424.md)
 

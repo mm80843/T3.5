@@ -2,9 +2,9 @@
 
 # __use of alcohol-based hand sanitizers__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q520181](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q520181.md)
+* [Enhanced hygiene practices and strict adherence to cleaning protocols ensure rigorous sanitation and disinfection measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_196.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [hand sanitizer dispensers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4201.md)
 * [soap and water or hand sanitizer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3798.md)
 * [alcohol-based hand rubs (80% ethanol](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3554.md)
+
+## This Technology is identified by the following QID
+
+* [Q520181](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q520181.md)
 

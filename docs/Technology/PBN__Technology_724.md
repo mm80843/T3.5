@@ -2,9 +2,9 @@
 
 # __health-focused design principles and guidelines__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1519843](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1519843.md)
+* [Improved healthcare infrastructure and resources enable public health authorities to implement effective messaging and interventions, ensuring equitable access to healthcare facilities and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_209.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_523.md)
 * [mobile health technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1691.md)
 * [workplace health promotion technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1517.md)
+
+## This Technology is identified by the following QID
+
+* [Q1519843](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1519843.md)
 

@@ -2,10 +2,9 @@
 
 # __air conditioning__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Urban housing improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1116.md)
-* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_775.md)
+* [Improved air quality can be achieved through the use of various technologies such as air purifiers and monitoring systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_221.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2232.md)
 * [portable air conditioners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4173.md)
 * [in hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_683.md)
+
+## This Technology enables the following mitigations
+
+* [Urban housing improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1116.md)
+* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_775.md)
 

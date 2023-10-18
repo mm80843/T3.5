@@ -2,9 +2,9 @@
 
 # __eco-active materials__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Indoor building and finishing materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_502.md)
+* [Explore a diverse range of materials, from sound-absorbing to eco-friendly, that contribute to innovative building solutions and educational resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_222.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [suitable materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3267.md)
 * [green sustainable materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4484.md)
 * [recycled materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4519.md)
+
+## This Technology enables the following mitigations
+
+* [Indoor building and finishing materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_502.md)
 

@@ -2,8 +2,9 @@
 
 # __Translation services__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
+* [Enhancing accessibility and support through a range of remote healthcare, counseling, transportation, and translation services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_213.md)
 
 ## Closest similar item
 
@@ -21,4 +22,7 @@
 ## This Technology belongs to this TechGroup
 
 * [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
+
+## This Technology belongs to this TechSubgroup
+
 

@@ -2,9 +2,9 @@
 
 # __political actors__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Conflicting interests and governance models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1196.md)
+* [Experts from various fields including research, risk assessment, education, science, HVAC, and IT.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_356.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [economic policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_895.md)
 * [policy-makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_229.md)
 * [government authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_302.md)
+
+## Risk affecting this stakeholder
+
+* [Conflicting interests and governance models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1196.md)
 

@@ -2,8 +2,9 @@
 
 # __Business return plan__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Promoting financial stability and inclusivity through diverse funding sources, transparent donations, and innovative investment incentives.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_174.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Enhancing Financial Capital](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1035.md)
 * [Equitable Park Investment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1067.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Uncertainty and lack of direction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2808.md)
-
 ## Property: has_MitigationPrinciple
 
 Provides a detailed plan for returning to business operations as the COVID-19 situation evolves
 
+## Risks possibly mitigated by this Mitigation
+
+* [Uncertainty and lack of direction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2808.md)
+
 ## Property: has_MitigationSource
 
 * [The impact of COVID-19 outbreak on United Kingdom infrastructure sector](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_141.md)
+
+## This Mitigation is enabled by the following technologies
+
 

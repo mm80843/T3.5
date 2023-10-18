@@ -2,13 +2,9 @@
 
 # __Prioritizing shipments of essential goods__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Shocks in global value chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_251.md)
-
-## Property: has_MitigationBenefit
-
-* [Priority access to essential goods](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_304.md)
+* [Promote flexibility and resilience in supply chains through diversification, local production, and proactive strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_320.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Minimize supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3124.md)
 * [Effective supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_672.md)
 * [Monitoring buying behavior and limiting purchases; optimizing supply chains; surveillance and enforcement against hoarding](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3038.md)
+
+## Property: has_MitigationBenefit
+
+* [Priority access to essential goods](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_304.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Shocks in global value chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_251.md)
 

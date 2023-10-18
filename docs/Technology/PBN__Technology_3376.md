@@ -2,9 +2,9 @@
 
 # __technological tracking device__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Mobile phone apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_671.md)
+* [Technological advancements encompass a wide range of innovations, such as blockchain, touchless, renewable energy, and communication technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [wearable device technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3181.md)
 * [location tracking technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3708.md)
 * [monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1846.md)
+
+## This Technology enables the following mitigations
+
+* [Mobile phone apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_671.md)
 

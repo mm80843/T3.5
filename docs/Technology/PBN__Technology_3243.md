@@ -2,10 +2,9 @@
 
 # __heart rate monitors__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Exercising on treadmills and stationary bikes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_454.md)
-* [Rowing ergometers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_455.md)
+* [Advanced monitoring systems and sensor integration for IoT devices and biosensor technology facilitate environmental monitoring and facility usage tracking.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_229.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [fitness tracker](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3162.md)
 * [remote patient monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1504.md)
 * [Remote patient monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2291.md)
+
+## This Technology enables the following mitigations
+
+* [Exercising on treadmills and stationary bikes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_454.md)
+* [Rowing ergometers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_455.md)
 

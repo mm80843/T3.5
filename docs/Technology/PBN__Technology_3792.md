@@ -2,9 +2,9 @@
 
 # __medical imaging techniques__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [AI-based Diagnosis and Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1321.md)
+* [Advancements in biotechnology, clinical research, and innovative therapies contribute to the development of medical solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [artificial intelligence and ct imaging data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3841.md)
 * [digital techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3209.md)
 * [thermographic cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4088.md)
+
+## This Technology enables the following mitigations
+
+* [AI-based Diagnosis and Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1321.md)
 

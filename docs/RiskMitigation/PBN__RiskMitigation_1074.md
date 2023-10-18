@@ -2,13 +2,9 @@
 
 # __Promote WASH interventions__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Unhealthy household environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_781.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved access to clean water and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1068.md)
+* [Promote and enforce hygiene practices, implement sanitation measures, and provide education on proper handwashing techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_332.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Regularly educate and remind individuals about proper hygiene practices, provide access to hand sanitizers and cleaning supplies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2260.md)
 * [Hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_985.md)
 * [Promote and enforce good hygiene practices, provide handwashing facilities and education.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2106.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved access to clean water and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1068.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Unhealthy household environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_781.md)
 

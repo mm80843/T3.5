@@ -2,9 +2,9 @@
 
 # __surgical teams__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Minimized Surgery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1264.md)
+* [A diverse array of collaborative and specialized groups in various fields working together towards specific goals.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_5.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [team members](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_989.md)
 * [infection control team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_699.md)
 * [procurement teams](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_908.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Minimized Surgery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1264.md)
 

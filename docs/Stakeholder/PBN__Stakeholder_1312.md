@@ -2,10 +2,9 @@
 
 # __mobile app developers__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Privacy and data security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1370.md)
-* [Inaccurate tracking and notifications](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1962.md)
+* [A diverse group specializing in the creation and implementation of various technological projects.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_383.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_637.md)
 * [app users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1141.md)
 * [software developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1574.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Privacy and data security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1370.md)
+* [Inaccurate tracking and notifications](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1962.md)
 

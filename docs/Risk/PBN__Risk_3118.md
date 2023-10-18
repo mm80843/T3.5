@@ -2,9 +2,9 @@
 
 # __Spread and transmission of mosquito and tick-borne diseases__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Vector control programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1516.md)
+* [The proliferation of diseases carried by ticks and mosquitoes, exacerbated by climate change, inadequate control measures, and wildlife disturbance, causing increased prevalence and spread of various illnesses.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_119.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Tick-borne infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2944.md)
 * [Increased occurrence of ticks and tick-borne diseases in urban locations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1666.md)
 * [Climate change impacts on mosquito-borne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_758.md)
+
+## Mitigations of this risk
+
+* [Vector control programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1516.md)
 

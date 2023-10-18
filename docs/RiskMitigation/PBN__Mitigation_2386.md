@@ -2,11 +2,9 @@
 
 # __Environmental management__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [habitat manipulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4453.md)
-* [habitat modification](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4452.md)
-* [drainage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4451.md)
+* [Efficient control and supervision to ensure the proper handling and disposal of various types of waste and potential risks.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_8.md)
 
 ## Closest similar item
 
@@ -21,14 +19,20 @@
 * [Implement sustainable land use practices, protect and restore ecosystems, and mitigate climate change](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3325.md)
 * [Centralize environmental quality improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2056.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Environmental management aims to modify the environment to reduce or eliminate vector breeding habitats. This can be achieved through drainage of standing water, modification of water bodies, or manipulation of the environment to remove suitable breeding sites.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [The importance of vector control for the control and elimination of vector-borne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_64.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [habitat manipulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4453.md)
+* [habitat modification](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4452.md)
+* [drainage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4451.md)
 

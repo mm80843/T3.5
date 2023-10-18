@@ -2,13 +2,9 @@
 
 # __Improve insulation and heating systems__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Inadequate thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_342.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved comfort and energy efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_438.md)
+* [Optimize indoor environments, regulate temperature and humidity, control air quality, and extend HVAC system operations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_341.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Optimize HVAC systems, provide individual temperature control options, insulate the building envelope](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2383.md)
 * [Research and develop new materials for insulation and building performance, enhance construction methods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1735.md)
 * [Increase cooling systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1076.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved comfort and energy efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_438.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inadequate thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_342.md)
 

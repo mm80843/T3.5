@@ -2,9 +2,9 @@
 
 # __isolation areas__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Exposure Response Plan](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_299.md)
+* [These resources aim to enhance security, convenience, and efficiency in managing access, spaces, and systems within various environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_206.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [isolation and quarantine room equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1657.md)
 * [designated areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4351.md)
 * [separation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4353.md)
+
+## This Technology enables the following mitigations
+
+* [Exposure Response Plan](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_299.md)
 

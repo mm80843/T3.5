@@ -2,9 +2,9 @@
 
 # __energy-efficient technologies such as smart thermostats__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q14554973](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q14554973.md)
+* [Improved and energy-efficient HVAC systems, along with advanced technologies, for efficient energy management and environmental control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_227.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [energy-efficient systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_325.md)
 * [Energy-efficient systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2676.md)
 * [thermostats](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3742.md)
+
+## This Technology is identified by the following QID
+
+* [Q14554973](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q14554973.md)
 

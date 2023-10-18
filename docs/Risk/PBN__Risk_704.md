@@ -2,9 +2,9 @@
 
 # __Difficulty in confinement of COVID-19 patients__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Offshore medical rigs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_969.md)
+* [The far-reaching consequences of COVID-19 include its transmission through various settings, impact on urban areas, and scarcity of resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Rapidly changing understanding of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1455.md)
 * [Underreporting of COVID-19 cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1735.md)
 * [Inability to differentiate COVID-19 from other viral infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1003.md)
+
+## Mitigations of this risk
+
+* [Offshore medical rigs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_969.md)
 

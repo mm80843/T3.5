@@ -2,12 +2,9 @@
 
 # __Specific Populations__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [People in residential and commercial buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2147.md)
-* [People in shops](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2135.md)
-* [People living and working near roads with planted vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2129.md)
-* [person in shop](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2205.md)
+* [Social networks, individuals, groups, technology, and protection, all interrelated in the context of communities and online safety.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_266.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [Residents](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_72.md)
 * [Migrants and Minorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_111.md)
 * [Ecology](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_165.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [People in residential and commercial buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2147.md)
+* [People in shops](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2135.md)
+* [People living and working near roads with planted vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2129.md)
+* [person in shop](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2205.md)
 

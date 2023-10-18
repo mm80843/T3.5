@@ -2,9 +2,9 @@
 
 # __designated social spaces__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Building Layout and Design for Social Interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_187.md)
+* [Available green spaces and outdoor gathering areas allow for access and enjoyment of public parks and communal areas.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_218.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [designated areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4351.md)
 * [updated terminology and classification systems for public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_727.md)
 * [Updated terminology and classification systems for public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2371.md)
+
+## This Technology enables the following mitigations
+
+* [Building Layout and Design for Social Interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_187.md)
 

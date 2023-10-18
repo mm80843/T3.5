@@ -2,6 +2,23 @@
 
 # __IoT__
 
+## Category to which it belongs
+
+* [The interconnection of physical devices, enabling them to send and receive data without human intervention.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_299.md)
+
+## Closest similar item
+
+* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
+* [iots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_94.md)
+* [iot devices](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_95.md)
+* [IoT devices](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_96.md)
+* [iot networks](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_97.md)
+* [iot sensors](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_98.md)
+* [iot protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_99.md)
+* [IoT protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_100.md)
+* [internet of things](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_101.md)
+* [internet of things (iot)](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_102.md)
+
 ## This Technology belongs to this TechnologyGroup
 
 * [air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
@@ -104,17 +121,4 @@
 * [MEC](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2857.md)
 * [L5GO networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2858.md)
 * [Network slicing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2855.md)
-
-## Closest similar item
-
-* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
-* [iots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_94.md)
-* [iot devices](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_95.md)
-* [IoT devices](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_96.md)
-* [iot networks](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_97.md)
-* [iot sensors](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_98.md)
-* [iot protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_99.md)
-* [IoT protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_100.md)
-* [internet of things](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_101.md)
-* [internet of things (iot)](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_102.md)
 

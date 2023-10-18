@@ -2,9 +2,9 @@
 
 # __industries affected by travel restrictions__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Impact on economy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1596.md)
+* [The realm of those involved in the movement of people and goods, including workers, authorities, and operators.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_390.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [travel agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_563.md)
 * [workers in affected industries](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1476.md)
 * [workers in the tourism industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1777.md)
+
+## Risk affecting this stakeholder
+
+* [Impact on economy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1596.md)
 

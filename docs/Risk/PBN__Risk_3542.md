@@ -2,6 +2,10 @@
 
 # __SMEs’ difficulty accessing finance__
 
+## Category to which it belongs
+
+* [Financial vulnerability and instability permeate various sectors and industries, hindering growth, sustainability, and access to resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_114.md)
+
 ## Closest similar item
 
 * [Difficulty accessing finance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2158.md)

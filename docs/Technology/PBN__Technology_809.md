@@ -2,9 +2,9 @@
 
 # __historical data analysis__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1988917](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1988917.md)
+* [Data-driven insights and analysis for decision making, anonymized data, transparency, visualization, and advanced techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_205.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [data collection and analysis methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1817.md)
 * [data analysis and modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_299.md)
 * [Data analysis and modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2055.md)
+
+## This Technology is identified by the following QID
+
+* [Q1988917](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1988917.md)
 

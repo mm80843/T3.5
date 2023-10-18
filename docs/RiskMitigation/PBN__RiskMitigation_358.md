@@ -2,13 +2,9 @@
 
 # __Promotion of television and social media-based exercise programs__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Impact of control measures on diet and physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_283.md)
-
-## Property: has_MitigationBenefit
-
-* [Increased physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_352.md)
+* [Enrich education through digital tools, virtual experiences, remote learning, and alternative forms of exercise and interaction.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_3.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Home-based exercises and physical activity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_894.md)
 * [Encourage and provide resources for individuals to engage in regular physical activity at home or in limited outdoor spaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2277.md)
 * [Incorporating physical activity spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_154.md)
+
+## Property: has_MitigationBenefit
+
+* [Increased physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_352.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Impact of control measures on diet and physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_283.md)
 

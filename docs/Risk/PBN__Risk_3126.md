@@ -2,9 +2,9 @@
 
 # __Inequitable distribution__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Multisectoral action to reduce inequalities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1538.md)
+* [Fragmented global governance, reduced aid, ethical concerns, educational disruption, impacts on peace and justice, and inadequate coordination between stakeholders.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_115.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inequitable access to virtual community spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2326.md)
 * [Economic impact on government budgets, inequitable distribution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3079.md)
 * [Social inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_858.md)
+
+## Mitigations of this risk
+
+* [Multisectoral action to reduce inequalities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1538.md)
 

@@ -2,10 +2,9 @@
 
 # __Quarantine Facilities__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [quarantine facility operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1428.md)
-* [quarantine facility operator](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2416.md)
+* [Isolation centers and air pollution risks.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_284.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Landlords](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_71.md)
 * [Crisis and Disaster Management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_168.md)
 * [Residents/Visitors](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_109.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [quarantine facility operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1428.md)
+* [quarantine facility operator](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2416.md)
 

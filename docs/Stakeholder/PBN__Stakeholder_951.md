@@ -2,9 +2,9 @@
 
 # __refugees__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Disruption of global settlement system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1468.md)
+* [Individuals of different ages, including children, parents, migrants, and vulnerable groups, such as women and racial minorities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_389.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [temporary migrants)](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_258.md)
 * [temporary migrants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1516.md)
 * [migrant populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1386.md)
+
+## Risk affecting this stakeholder
+
+* [Disruption of global settlement system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1468.md)
 

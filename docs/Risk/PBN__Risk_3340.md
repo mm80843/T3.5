@@ -2,9 +2,9 @@
 
 # __Economic instability and overreliance on certain revenue streams__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Diversify income sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2092.md)
+* [Financial vulnerability and instability permeate various sectors and industries, hindering growth, sustainability, and access to resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_114.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Shocks in global value chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_251.md)
 * [Economic downfall](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_707.md)
 * [Economic strain](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1987.md)
+
+## Mitigations of this risk
+
+* [Diversify income sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2092.md)
 

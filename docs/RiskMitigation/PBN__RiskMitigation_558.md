@@ -2,13 +2,9 @@
 
 # __Remain alert and responsive to changing priorities__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Changing priorities and needs not addressed](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_401.md)
-
-## Property: has_MitigationBenefit
-
-* [Addressing context-specific knowledge gaps and needs](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_546.md)
+* [Implementing a comprehensive package of measures to ensure the smooth functioning and safety of essential services and activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_6.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Ensure timely implementation of control measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2849.md)
 * [Emphasize the importance of multiple preventive measures and the need for continued vigilance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2416.md)
 * [Monitoring and evaluating policy response](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_555.md)
+
+## Property: has_MitigationBenefit
+
+* [Addressing context-specific knowledge gaps and needs](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_546.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Changing priorities and needs not addressed](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_401.md)
 

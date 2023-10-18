@@ -2,13 +2,9 @@
 
 # __Data activism__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of data for pandemic management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_876.md)
-
-## Property: has_MitigationBenefit
-
-* [Better crisis management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1200.md)
+* [Advancements in bioinformatics, divestment, automated sample collection, and artificial intelligence are facilitating early disease detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_336.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Improved data sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_526.md)
 * [Embrace data science and digital techniques](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_292.md)
 * [Rigorous data scrutiny and review](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_856.md)
+
+## Property: has_MitigationBenefit
+
+* [Better crisis management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1200.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of data for pandemic management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_876.md)
 

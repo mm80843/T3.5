@@ -2,13 +2,9 @@
 
 # __Enhanced data analytics__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Data management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_721.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_661.md)
+* [Promote standardized data collection, ontology-based representation, and enhanced data sharing to improve decision-making processes and data quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_319.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Big-data analytics modeling](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1326.md)
 * [Capture and report on extra relevant data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1387.md)
 * [Develop intelligent IEQ monitoring devices that allow for simultaneous data collection of objective IEQ data and occupant opinions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1912.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_661.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Data management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_721.md)
 

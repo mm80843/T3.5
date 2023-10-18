@@ -2,9 +2,9 @@
 
 # __Temperature fluctuations, Lack of infrastructure__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Cold chain logistics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1620.md)
+* [Limited physical/social distancing, thermal discomfort, poor lighting, and inadequate air quality negatively impact personal comfort.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_130.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inadequate temperature screening](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2033.md)
 * [Lack of global response to climate change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2691.md)
 * [Decreased performance due to high temperatures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3244.md)
+
+## Mitigations of this risk
+
+* [Cold chain logistics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1620.md)
 

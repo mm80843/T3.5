@@ -2,10 +2,9 @@
 
 # __disinfectant products__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_191.md)
-* [Disinfection of fomites](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_216.md)
+* [The implementation of various disinfection methods, improved cleaning and sanitization protocols, and the use of eco-friendly disinfectants and advanced technologies have been prioritized.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_199.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_350.md)
 * [Disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2572.md)
 * [disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_835.md)
+
+## This Technology enables the following mitigations
+
+* [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_191.md)
+* [Disinfection of fomites](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_216.md)
 

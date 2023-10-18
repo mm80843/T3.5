@@ -2,9 +2,9 @@
 
 # __design professionals__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q7552504](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7552504.md)
+* [Experts from various fields including research, risk assessment, education, science, HVAC, and IT.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_356.md)
 
 ## Closest similar item
 
@@ -28,4 +28,8 @@
 * [Spatial planning considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_247.md)
 * [Smaller and individual internal layouts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_248.md)
 * [Lack of design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2106.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q7552504](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7552504.md)
 

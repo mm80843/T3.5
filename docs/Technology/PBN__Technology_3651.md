@@ -2,9 +2,9 @@
 
 # __behaviour transition matrix__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Context-Responsive Behaviours](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1102.md)
+* [Advanced technologies and algorithms for modeling, simulation, optimization, and artificial intelligence in various applications, including robotics and computational fluid dynamics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_239.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [kalman filter](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3677.md)
 * [control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4235.md)
 * [agent-based modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1464.md)
+
+## This Technology enables the following mitigations
+
+* [Context-Responsive Behaviours](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1102.md)
 

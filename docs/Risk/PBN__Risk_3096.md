@@ -2,9 +2,9 @@
 
 # __Construction and demolition waste provides breeding sites__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Waste management in demolition](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1481.md)
+* [Challenges in building industry include lack of understanding, high costs, inadequate preparedness, and slow adoption of new technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_98.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Poor waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2434.md)
 * [Environmental impacts of construction during pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1562.md)
 * [Building Occupancy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1769.md)
+
+## Mitigations of this risk
+
+* [Waste management in demolition](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1481.md)
 

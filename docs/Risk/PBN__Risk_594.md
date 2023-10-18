@@ -2,9 +2,9 @@
 
 # __Increased stress and potential overwhelm among health care providers__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Monitoring and support mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_831.md)
+* [The toll of mental health harms, health harming behaviors, and the psychological impact of quarantine, fear, and anxiety has increased, affecting various populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_95.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Stress and Mental Fatigue](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2481.md)
 * [Health care system overload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_12.md)
 * [Overwhelm, stress](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3159.md)
+
+## Mitigations of this risk
+
+* [Monitoring and support mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_831.md)
 

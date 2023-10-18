@@ -2,13 +2,9 @@
 
 # __Facilitating collaborative and integrated planning and management__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Fragmented governance and limited cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_805.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced coordination and cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1096.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Alternative planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_834.md)
 * [Establish mechanisms for coordinating and integrating research, data, and expertise across stakeholders and sectors, facilitate dialogue and exchange of information, and promote a multidisciplinary approach](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1857.md)
 * [Strengthening planning mechanism](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_280.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced coordination and cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1096.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Fragmented governance and limited cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_805.md)
 

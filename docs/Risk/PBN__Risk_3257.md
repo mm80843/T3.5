@@ -2,9 +2,9 @@
 
 # __Lack of sustainable development plans__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Planning mechanism](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1821.md)
+* [The interconnectedness of environmental degradation, social inequalities, and the need for climate action and conservation efforts.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_104.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of consideration for social and environmental factors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2743.md)
 * [Lack of funding and maintenance for green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_145.md)
 * [Lack of comprehensive and coordinated climate action](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3325.md)
+
+## Mitigations of this risk
+
+* [Planning mechanism](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1821.md)
 

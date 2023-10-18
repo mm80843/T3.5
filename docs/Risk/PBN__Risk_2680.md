@@ -2,9 +2,9 @@
 
 # __Transmission, Gatherings__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Public events ban](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_674.md)
+* [Infectious spread through various modes such as close contact, social gatherings, fomites, bodily fluids, and respiratory droplets.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_123.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
 * [transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2285.md)
 * [Risk of transmission during social gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_228.md)
+
+## Mitigations of this risk
+
+* [Public events ban](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_674.md)
 

@@ -2,14 +2,9 @@
 
 # __Wildlife support__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Flat topography](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_649.md)
-* [Aesthetic management practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_652.md)
-* [Avoidance of intense management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_642.md)
-* [Native plant species diversity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_644.md)
-* [Non-clearing of understory vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_651.md)
-* [Inclusion of flowers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_647.md)
+* [The interconnectedness of environmental degradation, social inequalities, and the need for climate action and conservation efforts.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_104.md)
 
 ## Closest similar item
 
@@ -23,4 +18,13 @@
 * [Support at organizational level](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1475.md)
 * [Increased habitat suitability for vectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1847.md)
 * [Insufficient local engagement and authority in conservation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3344.md)
+
+## Mitigations of this risk
+
+* [Flat topography](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_649.md)
+* [Aesthetic management practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_652.md)
+* [Avoidance of intense management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_642.md)
+* [Native plant species diversity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_644.md)
+* [Non-clearing of understory vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_651.md)
+* [Inclusion of flowers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_647.md)
 

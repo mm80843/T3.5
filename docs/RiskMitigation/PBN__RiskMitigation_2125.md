@@ -2,9 +2,9 @@
 
 # __Continuously monitor and analyze social media data to identify trends and changes in prevalence of loneliness themes__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Variations in prevalence of loneliness themes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1592.md)
+* [Strengthen collaborations, implement behavioral change, deploy social robots, and promote sustainable content consumption for community-based strategies, holistic research, and positive media representation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_316.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [AI-based social media analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1436.md)
 * [Strict social distancing measures, widespread testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2170.md)
 * [Strengthen social support systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1037.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Variations in prevalence of loneliness themes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1592.md)
 

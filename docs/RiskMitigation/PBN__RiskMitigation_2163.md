@@ -2,9 +2,9 @@
 
 # __Support local production, enhance capacity building__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Gaps in capacity and resilience across industries](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1622.md)
+* [Promote flexibility and resilience in supply chains through diversification, local production, and proactive strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_320.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Strengthen supply chains, increase production capacity, improve stockpiling and distribution systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1451.md)
 * [Diversifying supply chains, increasing local production, implementing alternative sourcing strategies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2452.md)
 * [Diversify sources of imports, restructure supply chains, increase domestic manufacturing capacity.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2951.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Gaps in capacity and resilience across industries](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1622.md)
 

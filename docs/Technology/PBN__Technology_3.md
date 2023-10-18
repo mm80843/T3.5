@@ -2,6 +2,10 @@
 
 # __healthcare infrastructure__
 
+## Category to which it belongs
+
+* [Improved healthcare infrastructure and resources enable public health authorities to implement effective messaging and interventions, ensuring equitable access to healthcare facilities and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_209.md)
+
 ## Risks linked to this technology
 
 * [Health risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2014.md)
@@ -9,9 +13,6 @@
 * [Healthcare system collapse](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2036.md)
 * [Failure in containment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1017.md)
 * [Inequities in disease vulnerability and access to care](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1860.md)
-
-## This Technology belongs to this TechSubgroup
-
 
 ## Closest similar item
 
@@ -26,13 +27,16 @@
 * [investments in healthcare facilities and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3283.md)
 * [healthcare technologies and facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1946.md)
 
-## This Technology belongs to this TechGroup
-
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
-
 ## This Technology is identified by the following QID
 
 * [Q31207](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q31207.md)
+
+## This Technology belongs to this TechSubgroup
+
+
+## This Technology belongs to this TechGroup
+
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 
 ## This Technology enables the following mitigations
 

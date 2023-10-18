@@ -2,9 +2,9 @@
 
 # __AQ3: Airflows control__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Control the airflows in micro spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_226.md)
+* [Insufficient ventilation and indoor air pollution pose a risk to air quality and respiratory health, exacerbated by inadequate airflow control, limited natural ventilation, and air recirculation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_128.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inadequate ventilation and airflow management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2047.md)
 * [Inadequate airflow in apartment buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_229.md)
 * [Air recirculation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1319.md)
+
+## Mitigations of this risk
+
+* [Control the airflows in micro spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_226.md)
 

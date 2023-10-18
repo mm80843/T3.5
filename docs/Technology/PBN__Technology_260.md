@@ -2,9 +2,9 @@
 
 # __computational fluid dynamics (cfd) modeling__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q24717965](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q24717965.md)
+* [Advanced technologies and algorithms for modeling, simulation, optimization, and artificial intelligence in various applications, including robotics and computational fluid dynamics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_239.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [mathematical modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_298.md)
 * [Mathematical modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2054.md)
 * [adequate airflow](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3054.md)
+
+## This Technology is identified by the following QID
+
+* [Q24717965](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q24717965.md)
 

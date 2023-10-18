@@ -2,9 +2,9 @@
 
 # __Uncertainty about job status__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Recognizing stress symptoms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_208.md)
+* [The impact of various factors on the workforce, including job insecurity, changes in work schedules, unemployment, and decreased productivity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_4.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Job loss](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2683.md)
 * [Confusion and Uncertainty](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1723.md)
 * [Uncertainty in Construction Market](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1956.md)
+
+## Mitigations of this risk
+
+* [Recognizing stress symptoms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_208.md)
 

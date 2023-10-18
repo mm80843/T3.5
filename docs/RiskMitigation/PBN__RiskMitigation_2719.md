@@ -2,9 +2,9 @@
 
 # __Implementing targeted public health interventions for vulnerable populations, promoting healthy behaviors, and improving healthcare accessibility__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Population characteristics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2076.md)
+* [Promote public health through policy implementation, strengthened systems, health literacy, and targeted interventions for vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_314.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Educate the public about preventive measures, promote health literacy, disseminate accurate information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1819.md)
 * [Prioritize healthcare resources for vulnerable populations, improve access to healthcare, address systemic injustices and disparities.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2447.md)
 * [Promote public health](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_767.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Population characteristics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2076.md)
 

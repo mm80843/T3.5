@@ -2,9 +2,9 @@
 
 # __Encourage critical thinking, promote responsible information sharing__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Individual responsibility for sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1863.md)
+* [Promote accurate and reliable information, combat misinformation, and increase media and public health literacy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_343.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Foster a "smart community" mindset and enhance knowledge sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2645.md)
 * [Develop interventions to reduce the spread of misinformation, educate the public on how to verify information sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2150.md)
 * [Promote the use of research evidence in decision-making processes, engage decision-makers in priority setting, and provide accessible and relevant evidence to inform critical decisions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1854.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Individual responsibility for sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1863.md)
 

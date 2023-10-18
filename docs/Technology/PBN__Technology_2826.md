@@ -2,9 +2,9 @@
 
 # __Control samples__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
-* [Diagnostic and Testing Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_12.md)
+* [These resources aim to enhance security, convenience, and efficiency in managing access, spaces, and systems within various environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_206.md)
 
 ## Closest similar item
 
@@ -19,11 +19,15 @@
 * [vector control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4115.md)
 * [crowd control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_777.md)
 
-## This Technology belongs to this TechGroup
-
-* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
-
 ## This Technology is identified by the following QID
 
 * [Q2148398](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2148398.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Diagnostic and Testing Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_12.md)
+
+## This Technology belongs to this TechGroup
+
+* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
 

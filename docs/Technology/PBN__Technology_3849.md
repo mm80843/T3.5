@@ -2,9 +2,9 @@
 
 # __artificial intelligence and health data__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [AI-based tools for biomedical research and remote patient monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1407.md)
+* [Improved healthcare infrastructure and resources enable public health authorities to implement effective messaging and interventions, ensuring equitable access to healthcare facilities and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_209.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [artificial intelligence and diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3845.md)
 * [data analytics for public health monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_476.md)
 * [existing health data capture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3320.md)
+
+## This Technology enables the following mitigations
+
+* [AI-based tools for biomedical research and remote patient monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1407.md)
 

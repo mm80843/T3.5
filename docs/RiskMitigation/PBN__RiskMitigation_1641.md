@@ -2,9 +2,9 @@
 
 # __Control temperature and humidity levels, use UVGI or filtration systems__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Survival of pathogens in air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1189.md)
+* [Utilize UVGI technology to disinfect air, surfaces, and clothing, ensuring proper installation, training, and research to optimize effectiveness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_352.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Maintain appropriate temperature and humidity levels, improve ventilation and filtration systems, and ensure proper cleaning and disinfection protocols.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1592.md)
 * [Ensure proper use and maintenance of UVGI systems, provide training and protective equipment for occupants and service personnel](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2330.md)
 * [Increase ventilation and air filtration, use UV germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2982.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Survival of pathogens in air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1189.md)
 

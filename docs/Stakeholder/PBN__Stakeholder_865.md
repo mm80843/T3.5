@@ -2,9 +2,9 @@
 
 # __individuals in contact with confirmed cases__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Challenges with quarantining](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1351.md)
+* [A diverse range of individuals, including citizens, pedestrians, people with disabilities, and those in crowded environments, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_368.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [clients of telepsychiatry consultations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1502.md)
 * [contact tracing personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1153.md)
 * [individuals who come into contact with infected individuals or contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_796.md)
+
+## Risk affecting this stakeholder
+
+* [Challenges with quarantining](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1351.md)
 

@@ -2,9 +2,9 @@
 
 # __Airborne transmission of infectious microorganisms indoors__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Use of 254 nm UVGI](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_447.md)
+* [The wide-ranging transmission, survival, and spread of infectious respiratory viruses and pathogens indoors and on surfaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_122.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Airborne pathogen generation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1188.md)
 * [Dissemination of infectious aerosols in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3057.md)
 * [Airborne transmission of the virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3112.md)
+
+## Mitigations of this risk
+
+* [Use of 254 nm UVGI](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_447.md)
 

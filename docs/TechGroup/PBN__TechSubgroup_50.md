@@ -2,12 +2,9 @@
 
 # __Public Awareness and Information Sharing__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_102.md)
-* [signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_230.md)
-* [PPE guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2557.md)
-* [Information pamphlets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2201.md)
+* [Promoting knowledge, understanding, and openness through educational campaigns, communication tools, privacy techniques, and information sharing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_24.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [Communication and Information Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_46.md)
 * [Communication and Collaboration Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_111.md)
 * [Data Anonymization and Protection](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_137.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_102.md)
+* [signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_230.md)
+* [PPE guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2557.md)
+* [Information pamphlets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2201.md)
 

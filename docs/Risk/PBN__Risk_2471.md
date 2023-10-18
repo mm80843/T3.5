@@ -2,11 +2,9 @@
 
 # __Data Security__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Remote Monitoring of Infected Patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1930.md)
-* [Real-time Health Data Capture](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1928.md)
-* [Local Data Processing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_168.md)
+* [The challenges include disintegrated and non-interoperable data, limited data access, data quality issues, and lack of standardized data sharing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_111.md)
 
 ## Closest similar item
 
@@ -20,4 +18,10 @@
 * [Privacy and data security concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2065.md)
 * [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2439.md)
 * [Privacy of Data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3288.md)
+
+## Mitigations of this risk
+
+* [Remote Monitoring of Infected Patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1930.md)
+* [Real-time Health Data Capture](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1928.md)
+* [Local Data Processing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_168.md)
 

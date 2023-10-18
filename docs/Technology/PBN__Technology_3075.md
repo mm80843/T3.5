@@ -2,9 +2,9 @@
 
 # __adsorption-elution__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Concentration methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_230.md)
+* [The range of materials and techniques listed includes various disinfectants, nanomaterials, manufacturing methods, coatings, sustainability measures, and analytical tools.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_237.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3770.md)
 * [filtration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1752.md)
 * [Filtration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2716.md)
+
+## This Technology enables the following mitigations
+
+* [Concentration methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_230.md)
 

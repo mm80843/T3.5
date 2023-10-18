@@ -2,9 +2,9 @@
 
 # __Contamination of indoor air with volatile organic compounds (VOCs)__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Monitoring and control of indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1349.md)
+* [Insufficient ventilation and indoor air pollution pose a risk to air quality and respiratory health, exacerbated by inadequate airflow control, limited natural ventilation, and air recirculation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_128.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [VOC Pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3249.md)
 * [High indoor pollutant concentrations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2756.md)
 * [Increased air pollution from emissions of volatile organic compounds by urban trees](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1664.md)
+
+## Mitigations of this risk
+
+* [Monitoring and control of indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1349.md)
 

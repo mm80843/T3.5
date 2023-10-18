@@ -2,13 +2,9 @@
 
 # __Clean air__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Link between human activity and health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_46.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved public health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_47.md)
+* [Enhancing air quality through effective air filtration, ventilation, and pollution reduction strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_338.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Improve air filtration and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1925.md)
 * [Improvement of air quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1294.md)
 * [Proper maintenance and cleaning of ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_518.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved public health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_47.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Link between human activity and health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_46.md)
 

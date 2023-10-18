@@ -2,13 +2,9 @@
 
 # __Checkpoint allocation__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Checkpoint allocation for monitory and recording opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_265.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced monitoring and safety checks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_327.md)
+* [Implementing a comprehensive package of measures to ensure the smooth functioning and safety of essential services and activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_6.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Enhance system resilience, diversify dependencies, and establish backup systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2901.md)
 * [Phasing out of lockdown with local strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_904.md)
 * [Increase decontamination efforts, assign individual patrol cars](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2809.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced monitoring and safety checks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_327.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Checkpoint allocation for monitory and recording opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_265.md)
 

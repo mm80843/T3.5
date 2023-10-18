@@ -2,8 +2,9 @@
 
 # __Information transparency__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Improved data management and sharing for efficient and secure information exchange and analysis across various platforms and stakeholders.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_182.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Transparent Communication and Prevention of Fake News](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1872.md)
 * [Trust in Official Governmental Media](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1466.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Lack of information transparency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_658.md)
-
 ## Property: has_MitigationPrinciple
 
 Enhancing information disclosure and openness to build trust and facilitate effective risk communication
 
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of information transparency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_658.md)
+
 ## Property: has_MitigationSource
 
 * [Effective Risk Communication for Public Health Emergency: Reflection on the COVID-19 (2019-nCoV) Outbreak in Wuhan, China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_188.md)
+
+## This Mitigation is enabled by the following technologies
+
 

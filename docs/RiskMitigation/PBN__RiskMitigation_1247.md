@@ -2,12 +2,9 @@
 
 # __and bio-ontologies__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [surveillance terms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_905.md)
-
-## Property: has_MitigationBenefit
-
+* [Efforts include RNA monitoring, occupant exposure modeling, targeted messages, adoption of principles, copper coating, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_311.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [Adopt ontology formalism and upper-level ontologies to resolve inconsistencies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2546.md)
 * [Explore the use of established ontological models such as EQ or REA to fill the gap.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2547.md)
 * [Follow OBO Foundry guidelines for term requests and updating of ontologies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1967.md)
+
+## Property: has_MitigationBenefit
+
+
+## Risks possibly mitigated by this Mitigation
+
+* [surveillance terms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_905.md)
 

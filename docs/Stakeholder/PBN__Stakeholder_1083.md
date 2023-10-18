@@ -2,9 +2,9 @@
 
 # __activities__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Performance Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_86.md)
+* [Entities and individuals who interact with or are affected by a system, organization, or public facility.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_1.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [individual spending time indoor](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2115.md)
 * [tours](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1082.md)
 * [gyms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_665.md)
+
+## Risk affecting this stakeholder
+
+* [Performance Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_86.md)
 

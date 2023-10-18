@@ -2,20 +2,20 @@
 
 # __Monitoring of agglomerations through geolocation data__
 
+## Name of the Benefit
+
+Geolocation data enable monitoring of healthcare resources and allocation
+
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Ensure compliance with social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_786.md)
 * [Optimize healthcare resource allocation and emergency response](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_789.md)
 
-## Stakeholders benefitting from this Benefit
-
-* [government authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_302.md)
-
 ## Articles mentionning this Benefit
 
 * [Smart cities and the pandemic: digital technologies on the urban management of Brazilian cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_143.md)
 
-## Name of the Benefit
+## Stakeholders benefitting from this Benefit
 
-Geolocation data enable monitoring of healthcare resources and allocation
+* [government authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_302.md)
 

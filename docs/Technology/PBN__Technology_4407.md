@@ -2,9 +2,9 @@
 
 # __high temperature steam__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Physical disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2316.md)
+* [Various technologies and devices are used to measure and regulate temperature, including cameras, scanners, sensors, and thermostats.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_220.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [thermometers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3922.md)
 * [heat treatment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3633.md)
 * [heat](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3404.md)
+
+## This Technology enables the following mitigations
+
+* [Physical disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2316.md)
 

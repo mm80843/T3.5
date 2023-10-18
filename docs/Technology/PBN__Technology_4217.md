@@ -2,9 +2,9 @@
 
 # __fihr__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Common standards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2060.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [mechanical](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3105.md)
 * [technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3618.md)
 * [chloramine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3754.md)
+
+## This Technology enables the following mitigations
+
+* [Common standards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2060.md)
 

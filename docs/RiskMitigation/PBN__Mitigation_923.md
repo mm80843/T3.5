@@ -2,9 +2,9 @@
 
 # __Wearing Gloves__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [gloves](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_487.md)
+* [Enhancing safety and efficiency through comprehensive measures, technology integration, diverse environments, and behavioral adjustments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_157.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Implement hand hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_982.md)
 * [Hand sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1241.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Transmission of Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2812.md)
-
 ## Property: has_MitigationPrinciple
 
 Wearing gloves can provide a barrier against direct contact with contaminated surfaces and reduce transmission.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Transmission of Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2812.md)
+
 ## Property: has_MitigationSource
 
 * [Physical interventions to interrupt or reduce the spread of respiratory viruses: systematic review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_22.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [gloves](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_487.md)
 

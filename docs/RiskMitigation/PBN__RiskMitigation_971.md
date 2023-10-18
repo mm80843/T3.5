@@ -2,13 +2,9 @@
 
 # __service__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-
-## Property: has_MitigationBenefit
-
-* [improvement](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_979.md)
-* [recovery](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_981.md)
+* [Advancements in bioinformatics, divestment, automated sample collection, and artificial intelligence are facilitating early disease detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_336.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Availability of self-dependent services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_244.md)
 * [Access to shops and services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_861.md)
 * [Support for people who cannot stop working and provide essential services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_146.md)
+
+## Property: has_MitigationBenefit
+
+* [improvement](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_979.md)
+* [recovery](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_981.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

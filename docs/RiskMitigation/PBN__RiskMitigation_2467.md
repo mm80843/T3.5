@@ -2,9 +2,9 @@
 
 # __Increase healthcare capacity, optimize resource allocation, and enhance emergency preparedness.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Healthcare system strain](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1875.md)
+* [Enhancing healthcare infrastructure, increasing capacity, and ensuring access to medical resources and services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_330.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Strengthen healthcare infrastructure, increase resources and capacity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2286.md)
 * [Increase healthcare capacity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1112.md)
 * [Increase healthcare capacity, establish additional temporary facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2993.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Healthcare system strain](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1875.md)
 

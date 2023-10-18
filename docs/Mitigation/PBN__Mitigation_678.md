@@ -2,8 +2,9 @@
 
 # __Promotion of healthier lifestyles__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Advocacy and initiatives promoting well-being, knowledge, equitable access to healthcare, and healthy lifestyles.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_188.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Public health campaigns/education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_268.md)
 * [Health and prevention measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_28.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Higher COVID-19 mortality rate](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2682.md)
-
 ## Property: has_MitigationPrinciple
 
 Promoting healthier lifestyles, including regular physical activity and a balanced diet, can help reduce the risk of obesity and chronic diseases, thus decreasing the mortality risk from COVID-19.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Higher COVID-19 mortality rate](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2682.md)
+
 ## Property: has_MitigationSource
 
 * [Treating two pandemics for the price of one: Chronic and infectious disease impacts of the built and natural environment](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_174.md)
+
+## This Mitigation is enabled by the following technologies
+
 

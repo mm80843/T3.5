@@ -2,6 +2,22 @@
 
 # __designers__
 
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Flexible customization](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_119.md)
+* [Visualizing virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_120.md)
+* [Configurable simulation parameters](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_121.md)
+* [Analysis of large-scale and longitudinal aspects](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_122.md)
+* [Evaluation of design decisions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_123.md)
+* [Improved design quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1075.md)
+* [Consistency in parking standards](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1076.md)
+* [Adaptive design approach](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1083.md)
+* [Improved understanding and analysis of public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1245.md)
+
+## Category to which it belongs
+
+* [Individuals involved in the design, construction, management, and occupation of various types of buildings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_367.md)
+
 ## Closest similar item
 
 * [Urban designers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2800.md)
@@ -14,25 +30,6 @@
 * [building design](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2804.md)
 * [building engineers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2805.md)
 * [Building engineers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2806.md)
-
-## Risk affecting this stakeholder
-
-* [Site selection near open water bodies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1832.md)
-* [Material selection for buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1834.md)
-* [Lack of design flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1694.md)
-* [UVGI systems require careful design and installation to ensure proper efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1760.md)
-
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Flexible customization](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_119.md)
-* [Visualizing virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_120.md)
-* [Configurable simulation parameters](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_121.md)
-* [Analysis of large-scale and longitudinal aspects](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_122.md)
-* [Evaluation of design decisions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_123.md)
-* [Improved design quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1075.md)
-* [Consistency in parking standards](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1076.md)
-* [Adaptive design approach](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1083.md)
-* [Improved understanding and analysis of public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1245.md)
 
 ## Risks that can be mitigated by this stakeholder
 
@@ -65,4 +62,11 @@
 * [Inconvenience and cost of mask filters in smart face masks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2400.md)
 * [Noise and inconvenience of personal air-purifying shields](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2399.md)
 * [Lack of airtightness and safety concerns with reusable face shields](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2401.md)
+
+## Risk affecting this stakeholder
+
+* [Site selection near open water bodies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1832.md)
+* [Material selection for buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1834.md)
+* [Lack of design flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1694.md)
+* [UVGI systems require careful design and installation to ensure proper efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1760.md)
 

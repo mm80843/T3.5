@@ -2,9 +2,9 @@
 
 # __Difficulty in vaccine distribution__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Ensuring global coverage of vaccination](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_726.md)
+* [The challenges in vaccination include limited storage capacity, high patient demand, inefficient resource use, distribution difficulties, waning vaccine effectiveness, and unequal access.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_113.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Unequal vaccine access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2907.md)
 * [Waning efficacy of vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_861.md)
 * [Vaccine hesitancy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1909.md)
+
+## Mitigations of this risk
+
+* [Ensuring global coverage of vaccination](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_726.md)
 

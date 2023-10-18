@@ -2,9 +2,9 @@
 
 # __Implementing strategies to cope with staff shortages and consider alternative staffing options__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Shortage in nursing staff](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1469.md)
+* [Ensuring equitable access, promoting flexible work, implementing safety measures, and providing support for remote work and flexible schedules.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_323.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implementing collaborative agreements and policies for staff redistribution](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1990.md)
 * [Restructuring workforce](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_708.md)
 * [Increase healthcare capacity, ensure availability of medical supplies and equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1456.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Shortage in nursing staff](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1469.md)
 

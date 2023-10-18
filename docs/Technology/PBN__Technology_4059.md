@@ -2,9 +2,9 @@
 
 # __hvac maintenance and cleaning__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Regular HVAC Maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1779.md)
+* [Improved and energy-efficient HVAC systems, along with advanced technologies, for efficient energy management and environmental control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_227.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Proper operation and maintenance of heat recovery systems in HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2765.md)
 * [air cleaning systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4394.md)
 * [cleaning practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4065.md)
+
+## This Technology enables the following mitigations
+
+* [Regular HVAC Maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1779.md)
 

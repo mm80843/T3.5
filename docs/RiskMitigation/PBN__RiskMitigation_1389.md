@@ -2,13 +2,9 @@
 
 # __Employ longitudinal elements in research design__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Validity concerns in energy social science research during the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_983.md)
-
-## Property: has_MitigationBenefit
-
-* [Longitudinal insights](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1354.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Establish mechanisms for coordinating and integrating research, data, and expertise across stakeholders and sectors, facilitate dialogue and exchange of information, and promote a multidisciplinary approach](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1857.md)
 * [Introduce "multi-use" / modular designs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3267.md)
 * [Incorporate design flexibility in the planning and construction process.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2252.md)
+
+## Property: has_MitigationBenefit
+
+* [Longitudinal insights](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1354.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Validity concerns in energy social science research during the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_983.md)
 

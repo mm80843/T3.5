@@ -2,10 +2,9 @@
 
 # __cloud service__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Cloud service and database](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_695.md)
-* [Spatiotemporal IEQ monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_702.md)
+* [Enhancing accessibility and support through a range of remote healthcare, counseling, transportation, and translation services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_213.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [digital services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4168.md)
 * [remote service platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4286.md)
 * [delivery services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4388.md)
+
+## This Technology enables the following mitigations
+
+* [Cloud service and database](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_695.md)
+* [Spatiotemporal IEQ monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_702.md)
 

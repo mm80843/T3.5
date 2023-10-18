@@ -2,9 +2,9 @@
 
 # __Improve detection methods and adjust decay kinetics for accurate estimation of virus prevalence in wastewater samples.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Decay of SARS-CoV-2 in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1450.md)
+* [Implement wastewater surveillance techniques to detect viral presence, optimize treatment processes, and inform public health interventions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_308.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement wastewater-based surveillance systems to detect and monitor viral presence in communities, identify local hot spots, and deploy targeted interventions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3075.md)
 * [Regular monitoring and testing of wastewater samples for SARS-CoV-2 can provide early detection and enable prompt control measures to prevent further spread.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2165.md)
 * [Improvement of assay sensitivity through the development and implementation of more sensitive and specific assays for SARS-CoV-2 detection in sewage samples.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2168.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Decay of SARS-CoV-2 in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1450.md)
 

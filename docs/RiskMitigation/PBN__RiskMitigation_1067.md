@@ -2,13 +2,9 @@
 
 # __Strengthening partnerships__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Livelihood and trade disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_774.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved collaboration and cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1062.md)
+* [Strengthen collaborations, implement behavioral change, deploy social robots, and promote sustainable content consumption for community-based strategies, holistic research, and positive media representation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_316.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Develop cost-effective solutions, provide financial incentives, and promote collaboration.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2784.md)
 * [Collaboration with WHO and Government Organizations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1361.md)
 * [Strengthen partnerships with donors, improve access to funding opportunities, and highlight the importance of conservation in development efforts.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1783.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved collaboration and cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1062.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Livelihood and trade disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_774.md)
 

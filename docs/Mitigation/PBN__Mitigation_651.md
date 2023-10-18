@@ -2,9 +2,9 @@
 
 # __Non-clearing of understory vegetation__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [green space management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3372.md)
+* [Enhancing safety and efficiency through comprehensive measures, technology integration, diverse environments, and behavioral adjustments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_157.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Minimizing forest edges](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_650.md)
 * [Dynamic botanical air filtration system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2305.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Wildlife support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2672.md)
-
 ## Property: has_MitigationPrinciple
 
 Implementing management practices that preserve understory vegetation cover in green spaces to provide habitat and shelter for wildlife species.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Wildlife support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2672.md)
+
 ## Property: has_MitigationSource
 
 * [Green infrastructure through the lens of “One Health”: A systematic review and integrative framework uncovering synergies and trade-offs between mental health and wildlife support in cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_150.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [green space management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3372.md)
 

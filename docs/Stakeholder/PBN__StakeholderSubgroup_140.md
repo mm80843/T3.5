@@ -2,11 +2,9 @@
 
 # __Gardening Clubs/Members__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [gardeners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_801.md)
-* [gardening clubs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_805.md)
-* [gardening club](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2481.md)
+* [Green thumb enthusiasts and public leisure spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_280.md)
 
 ## Closest similar item
 
@@ -20,4 +18,10 @@
 * [Venue Owners](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_10.md)
 * [Residents/Visitors](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_109.md)
 * [Community Support Networks/Services](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_133.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [gardeners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_801.md)
+* [gardening clubs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_805.md)
+* [gardening club](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2481.md)
 

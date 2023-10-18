@@ -2,13 +2,9 @@
 
 # __Age-Specific Concerns__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [the elderly](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_824.md)
-* [elderly population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_615.md)
-* [especially elderly and individuals with chronic conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_792.md)
-* [younger age groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1338.md)
-* [especially vulnerable individual such a child and person with respiratory condition](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2399.md)
+* [Demographic characteristics that categorize individuals based on their age and gender, along with related concerns.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_243.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Personal Safety and Security](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_113.md)
 * [Economic and Social Status](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_106.md)
 * [Affected Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_79.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [the elderly](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_824.md)
+* [elderly population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_615.md)
+* [especially elderly and individuals with chronic conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_792.md)
+* [younger age groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1338.md)
+* [especially vulnerable individual such a child and person with respiratory condition](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2399.md)
 

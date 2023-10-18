@@ -2,9 +2,9 @@
 
 # __Proper rodent control measures, sanitation practices__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Increased population of urban rats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1667.md)
+* [Promote and enforce hygiene practices, implement sanitation measures, and provide education on proper handwashing techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_332.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Increased sanitation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1418.md)
 * [Improved sanitation and cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_529.md)
 * [Environmental sanitation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1366.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Increased population of urban rats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1667.md)
 

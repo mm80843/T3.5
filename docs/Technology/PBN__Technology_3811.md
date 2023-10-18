@@ -2,9 +2,9 @@
 
 # __hvac systems with increased fresh air flowrate__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Increasing fresh air supply in HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1345.md)
+* [Improved and energy-efficient HVAC systems, along with advanced technologies, for efficient energy management and environmental control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_227.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Energy-efficient HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2363.md)
 * [energy-efficient hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_750.md)
 * [hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_185.md)
+
+## This Technology enables the following mitigations
+
+* [Increasing fresh air supply in HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1345.md)
 

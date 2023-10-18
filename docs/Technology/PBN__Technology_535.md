@@ -2,9 +2,9 @@
 
 # __sustainable agriculture__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q2751054](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2751054.md)
+* [Promotion of environmentally-friendly practices, green infrastructure, sustainable housing, renewable energy, and responsible building to enhance spaces and mitigate climate change.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_224.md)
 
 ## Risks linked to this technology
 
@@ -23,4 +23,8 @@
 * [Sustainable practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2750.md)
 * [urban/community farming](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4362.md)
 * [sustainable development initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_452.md)
+
+## This Technology is identified by the following QID
+
+* [Q2751054](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2751054.md)
 

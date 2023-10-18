@@ -2,9 +2,9 @@
 
 # __Timeliness of Information__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Real-time Information Sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1932.md)
+* [The proliferation of false and misleading information, misinformation, and inaccurate news during pandemics creates confusion and a lack of trust in reliable sources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_127.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of timely information and evidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2794.md)
 * [Time constraints](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3143.md)
 * [Lack of Historical Data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1098.md)
+
+## Mitigations of this risk
+
+* [Real-time Information Sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1932.md)
 

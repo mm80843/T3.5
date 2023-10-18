@@ -2,13 +2,9 @@
 
 # __Workforce and Resource Management Tools__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [Remote healthcare technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2278.md)
-* [healthcare resource optimization tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1554.md)
-* [staff oversight](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_395.md)
-* [support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1492.md)
-* [Workforce management tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2303.md)
+* [Tools and programs to aid in managing resources, projects, workforce, and providing support and building capacity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_15.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Energy and Resource Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_118.md)
 * [Digital Communication and Collaboration Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_93.md)
 * [Collaboration and Community Engagement Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_37.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [Remote healthcare technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2278.md)
+* [healthcare resource optimization tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1554.md)
+* [staff oversight](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_395.md)
+* [support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1492.md)
+* [Workforce management tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2303.md)
 

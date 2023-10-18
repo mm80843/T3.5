@@ -2,13 +2,9 @@
 
 # __Prioritize participatory governance structures__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_492.md)
-
-## Property: has_MitigationBenefit
-
-* [Social cohesion and network formation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_701.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implementation of ETs-based governance models](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_874.md)
 * [Strengthen governance structures, promote transparency and accountability, and invest in strong leadership](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1839.md)
 * [Promotion of citizen engagement, participatory planning, transparency in decision-making processes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2752.md)
+
+## Property: has_MitigationBenefit
+
+* [Social cohesion and network formation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_701.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_492.md)
 

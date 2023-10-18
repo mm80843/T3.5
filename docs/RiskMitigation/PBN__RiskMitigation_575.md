@@ -2,13 +2,9 @@
 
 # __Preparation of clear financial documentation and tracking metrics__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Increased workload for nurses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_409.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved financial management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_562.md)
+* [Promote standardized data collection, ontology-based representation, and enhanced data sharing to improve decision-making processes and data quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_319.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Providing clear and transparent information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_101.md)
 * [Engaging finance sector](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_133.md)
 * [Short-term cash flow management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_712.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved financial management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_562.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Increased workload for nurses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_409.md)
 

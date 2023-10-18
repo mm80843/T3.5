@@ -2,10 +2,9 @@
 
 # __Affected Individuals__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [individuals infected with COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2157.md)
-* [individual infected with COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2100.md)
+* [Marginalized individuals facing health risks due to isolation and residing in disadvantaged communities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_245.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Quarantined or Isolated Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_95.md)
 * [Homeless Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_96.md)
 * [Vulnerable and Underserved Communities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_102.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [individuals infected with COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2157.md)
+* [individual infected with COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2100.md)
 

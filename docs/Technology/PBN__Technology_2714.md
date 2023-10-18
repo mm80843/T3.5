@@ -2,9 +2,9 @@
 
 # __Openable windows__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
-* [Ventilation Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_77.md)
+* [These resources aim to enhance security, convenience, and efficiency in managing access, spaces, and systems within various environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_206.md)
 
 ## Closest similar item
 
@@ -19,11 +19,15 @@
 * [access to windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3067.md)
 * [window design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3253.md)
 
-## This Technology belongs to this TechGroup
-
-* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_13.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1190017](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1190017.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Ventilation Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_77.md)
+
+## This Technology belongs to this TechGroup
+
+* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_13.md)
 

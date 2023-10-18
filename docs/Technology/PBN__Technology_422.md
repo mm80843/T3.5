@@ -2,9 +2,9 @@
 
 # __social media groups__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q874405](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q874405.md)
+* [A range of community-centered initiatives, programs, and strategies foster participation, collaboration, and social support for diverse groups.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_236.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [social networking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_426.md)
 * [Social networking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2137.md)
 * [social-media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1712.md)
+
+## This Technology is identified by the following QID
+
+* [Q874405](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q874405.md)
 

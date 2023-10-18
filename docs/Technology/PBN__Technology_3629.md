@@ -2,9 +2,9 @@
 
 # __integrated data systems__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Strengthened data infrastructure and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1079.md)
+* [Data-driven insights and analysis for decision making, anonymized data, transparency, visualization, and advanced techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_205.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [data management techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_158.md)
 * [integrated healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4074.md)
 * [digital data collection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_40.md)
+
+## This Technology enables the following mitigations
+
+* [Strengthened data infrastructure and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1079.md)
 

@@ -2,9 +2,9 @@
 
 # __High cost of adaptation__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Financial support for adaptation projects](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1089.md)
+* [Limited monitoring, technical limitations, language barriers, expensive optimization, lack of connection with nature, and limited sensor diversity hinder effective response and resource allocation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_107.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Minimum cost and disturbance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2961.md)
 * [High cost, limited infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2988.md)
 * [Inefficient infrastructure and response](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2983.md)
+
+## Mitigations of this risk
+
+* [Financial support for adaptation projects](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1089.md)
 

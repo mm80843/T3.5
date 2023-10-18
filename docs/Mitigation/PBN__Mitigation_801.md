@@ -2,11 +2,9 @@
 
 # __Equipping the hospital__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3460.md)
-* [rapid response team](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3458.md)
-* [supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3459.md)
+* [Enhancing safety and efficiency through comprehensive measures, technology integration, diverse environments, and behavioral adjustments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_157.md)
 
 ## Closest similar item
 
@@ -21,15 +19,21 @@
 * [Insufficient medical facilities and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3365.md)
 * [Limited space for healthcare operations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3366.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Hospital preparation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_360.md)
-
 ## Property: has_MitigationPrinciple
 
 Equip hospitals with necessary supplies, rapid response teams, and training to effectively respond to the COVID-19 pandemic.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Hospital preparation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_360.md)
+
 ## Property: has_MitigationSource
 
 * [Management of the COVID-19 pandemic: challenges, practices, and organizational support](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_92.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3460.md)
+* [rapid response team](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3458.md)
+* [supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3459.md)
 

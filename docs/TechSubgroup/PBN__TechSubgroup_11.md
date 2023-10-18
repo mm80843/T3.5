@@ -2,11 +2,9 @@
 
 # __Wastewater Management__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [Development and implementation of wastewater sampling and analysis techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2800.md)
-* [WBE technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2064.md)
-* [WBE sampling and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2799.md)
+* [Management of resources and control of potential hazards in relation to water and waste.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_50.md)
 
 ## Closest similar item
 
@@ -20,4 +18,10 @@
 * [Air Quality and Filtration Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_76.md)
 * [Environmental Controls](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_185.md)
 * [Air Purification Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_74.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [Development and implementation of wastewater sampling and analysis techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2800.md)
+* [WBE technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2064.md)
+* [WBE sampling and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2799.md)
 

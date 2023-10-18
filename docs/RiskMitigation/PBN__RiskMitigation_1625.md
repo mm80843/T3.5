@@ -2,9 +2,9 @@
 
 # __Ensure that upper-room UVGI systems are properly designed with louvers or shields to prevent UV-C light exposure to room occupants__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Harmful effects of UV-C light on humans if not properly shielded](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1173.md)
+* [Utilize UVGI technology to disinfect air, surfaces, and clothing, ensuring proper installation, training, and research to optimize effectiveness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_352.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement safety measures to protect against UV-C radiation exposure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2985.md)
 * [Increase ventilation and air filtration, use UV germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2982.md)
 * [Set and enforce regulatory limits on far-UVC light exposure.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1680.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Harmful effects of UV-C light on humans if not properly shielded](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1173.md)
 

@@ -2,9 +2,9 @@
 
 # __Lack of understanding of regulatory changes__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Regulatory adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_908.md)
+* [Fragmented global governance, reduced aid, ethical concerns, educational disruption, impacts on peace and justice, and inadequate coordination between stakeholders.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_115.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of behavior change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2428.md)
 * [Lack of Legislation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1102.md)
 * [Inadequate implementation of environmental adjustments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1516.md)
+
+## Mitigations of this risk
+
+* [Regulatory adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_908.md)
 

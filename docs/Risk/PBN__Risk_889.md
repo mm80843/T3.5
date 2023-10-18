@@ -2,9 +2,9 @@
 
 # __Increased recreational activity during lockdown__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Accessible green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1228.md)
+* [Lockdowns exacerbate social inequalities, limit access to green spaces, shift energy demands, cause delays, and impact mental health.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_102.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Impact of reduced traffic noise during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1633.md)
 * [Shifts in energy demands for the building sector during lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_391.md)
 * [Increase in outdoor noise during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1631.md)
+
+## Mitigations of this risk
+
+* [Accessible green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1228.md)
 

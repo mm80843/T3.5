@@ -2,9 +2,9 @@
 
 # __advanced wastewater treatment technologies such as uv disinfection or ozonation__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q20127660](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q20127660.md)
+* [The implementation of various disinfection methods, improved cleaning and sanitization protocols, and the use of eco-friendly disinfectants and advanced technologies have been prioritized.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_199.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [UV-C disinfection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2195.md)
 * [wastewater treatment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3987.md)
 * [water treatment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_975.md)
+
+## This Technology is identified by the following QID
+
+* [Q20127660](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q20127660.md)
 

@@ -2,11 +2,9 @@
 
 # __Indoor building and finishing materials__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [regular disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3276.md)
-* [photocatalytic paints](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3275.md)
-* [eco-active materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3274.md)
+* [Creating resilient urban environments through strategic planning, adaptable design, reduced density, and improved building infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_164.md)
 
 ## Closest similar item
 
@@ -21,15 +19,21 @@
 * [Availability of outdoor spaces in the building](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2126.md)
 * [Multi-functional Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_717.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Emissions of VOCs, risk of surface contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2597.md)
-
 ## Property: has_MitigationPrinciple
 
 Use eco-active materials, regular disinfection of frequently touched surfaces, proper ventilation for healthy environments
 
+## Risks possibly mitigated by this Mitigation
+
+* [Emissions of VOCs, risk of surface contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2597.md)
+
 ## Property: has_MitigationSource
 
 * [COVID-19 and Living space challenge. Well-being and Public Health recommendations for a healthy, safe, and sustainable housing.](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_161.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [regular disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3276.md)
+* [photocatalytic paints](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3275.md)
+* [eco-active materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3274.md)
 

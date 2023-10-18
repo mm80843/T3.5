@@ -2,9 +2,9 @@
 
 # __mobile payment technology__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Contactless payment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1552.md)
+* [Technological advancements encompass a wide range of innovations, such as blockchain, touchless, renewable energy, and communication technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Contactless payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2834.md)
 * [contactless payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_746.md)
 * [mobile app technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3152.md)
+
+## This Technology enables the following mitigations
+
+* [Contactless payment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1552.md)
 

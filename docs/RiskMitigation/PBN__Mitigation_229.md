@@ -2,9 +2,9 @@
 
 # __Nucleic acid-based polymerase chain reaction (PCR)__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [pcr assay](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3073.md)
+* [Enhanced disease investigation and prevention methods, including biomarkers, antimicrobial coatings, and AI-driven tools, advance public health.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_155.md)
 
 ## Closest similar item
 
@@ -19,14 +19,18 @@
 * [Antimicrobial Resistance Gene Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1925.md)
 * [BioSampler](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_328.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 PCR is used for confirmation of COVID-19 patients by detecting viral RNA in feces, even in the absence of gastrointestinal symptoms or diarrhea.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Wastewater-Based Epidemiology to monitor COVID-19 outbreak: Present and future diagnostic methods to be in your radar](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_178.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [pcr assay](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3073.md)
 

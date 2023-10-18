@@ -2,13 +2,9 @@
 
 # __Emphasis on ICT infrastructure access__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [PC1: Personal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_201.md)
-
-## Property: has_MitigationBenefit
-
-* [Stable internet access](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_251.md)
+* [Accelerate the shift to digitalization by embracing emerging technologies and implementing innovative solutions across various sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_346.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Adoption of digital technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_751.md)
 * [Investment in digital health infrastructure, adoption of interoperable systems, data sharing protocols.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2599.md)
 * [Establish standardized data collection protocols, promote data sharing, address structural and cultural barriers to data sharing.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1830.md)
+
+## Property: has_MitigationBenefit
+
+* [Stable internet access](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_251.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [PC1: Personal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_201.md)
 

@@ -2,9 +2,9 @@
 
 # __local sourcing networks__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q17083947](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q17083947.md)
+* [Efficiently manage and optimize the flow of goods, data, and suppliers for resilient local supply chains.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_191.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Local infrastructure development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2373.md)
 * [network of partners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3591.md)
 * [localization of production](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1798.md)
+
+## This Technology is identified by the following QID
+
+* [Q17083947](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q17083947.md)
 

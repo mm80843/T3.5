@@ -2,9 +2,9 @@
 
 # __Labor shortage__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Ensure labor supply](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_987.md)
+* [The impact of various factors on the workforce, including job insecurity, changes in work schedules, unemployment, and decreased productivity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_4.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Job retention schemes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3549.md)
 * [Workplace redesign](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3546.md)
 * [Absorb resource shortages](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3697.md)
+
+## Mitigations of this risk
+
+* [Ensure labor supply](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_987.md)
 

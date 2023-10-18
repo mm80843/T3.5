@@ -2,13 +2,9 @@
 
 # __Proper disposal of PPE__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Environmental contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_923.md)
-
-## Property: has_MitigationBenefit
-
-* [Prevention of cross-contamination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1259.md)
+* [Promote environmentally-friendly waste management, sanitation, and maintenance practices, including rodent control, decontamination, and segregation of waste.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_340.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Increase production and distribution of PPE, stockpiling for emergencies, and implementing reuse and decontamination strategies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2775.md)
 * [Personal Protective Equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_415.md)
 * [Personal protective equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1367.md)
+
+## Property: has_MitigationBenefit
+
+* [Prevention of cross-contamination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1259.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Environmental contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_923.md)
 

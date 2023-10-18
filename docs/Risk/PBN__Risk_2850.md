@@ -2,12 +2,9 @@
 
 # __Limited mandate on public health__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Strengthening the European Centre for Disease Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_996.md)
-* [Central control of medical countermeasures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_995.md)
-* [Improved coordination at federal level](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_994.md)
-* [Creation of rescEU stockpile of medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_997.md)
+* [The intersection of human activity and health, integrating databases, limited healthcare access, sedentary lifestyles, neglecting public health requirements, and disparities in urban design contribute to public health concerns.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_116.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [Noncompliance with public health directives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1897.md)
 * [Lack of public-health education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2184.md)
 * [Lack of awareness and compliance with public health protocols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1678.md)
+
+## Mitigations of this risk
+
+* [Strengthening the European Centre for Disease Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_996.md)
+* [Central control of medical countermeasures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_995.md)
+* [Improved coordination at federal level](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_994.md)
+* [Creation of rescEU stockpile of medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_997.md)
 

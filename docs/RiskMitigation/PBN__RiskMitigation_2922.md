@@ -2,9 +2,9 @@
 
 # __Utilizing web-based platforms and virtual methods to provide PFA, ensuring accessibility and availability of PFA services.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Restriction in delivery capability for PFA interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2244.md)
+* [Implementing a comprehensive package of measures to ensure the smooth functioning and safety of essential services and activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_6.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement robust security measures, use encryption and anonymization techniques, obtain informed consent from users, comply with data protection regulations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2574.md)
 * [Improve digital infrastructure and provide equal access to reliable internet connection for all residents.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3026.md)
 * [Rapid development of virtual educational platforms, e-learning packages, virtual assessments.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2597.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Restriction in delivery capability for PFA interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2244.md)
 

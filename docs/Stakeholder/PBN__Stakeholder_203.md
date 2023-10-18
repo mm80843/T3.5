@@ -2,9 +2,13 @@
 
 # __nursing managers__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q2084130](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2084130.md)
+* [Managers responsible for overseeing various aspects of a building, including supply chain, facilities, construction projects, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_366.md)
+
+## Risk affecting this stakeholder
+
+* [Development of a COVID-19 crisis management plan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_356.md)
 
 ## Closest similar item
 
@@ -18,10 +22,6 @@
 * [office managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1289.md)
 * [Office managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1725.md)
 * [management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1453.md)
-
-## Risk affecting this stakeholder
-
-* [Development of a COVID-19 crisis management plan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_356.md)
 
 ## This Stakeholder can get these Benefits from mitigation measures
 
@@ -39,4 +39,8 @@
 * [Exchange process (deal between university hospitals)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1472.md)
 * [Support at individual level](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1476.md)
 * [Training and education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1474.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q2084130](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2084130.md)
 

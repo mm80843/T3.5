@@ -2,9 +2,9 @@
 
 # __user awareness__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Increased self-awareness of social media users](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_964.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Public awareness programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2172.md)
 * [public awareness programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1302.md)
 * [user behavior](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3563.md)
+
+## This Technology enables the following mitigations
+
+* [Increased self-awareness of social media users](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_964.md)
 

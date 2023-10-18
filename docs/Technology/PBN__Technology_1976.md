@@ -2,9 +2,9 @@
 
 # __development of storage protocols for maintaining sample integrity__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q461671](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q461671.md)
+* [Data-driven insights and analysis for decision making, anonymized data, transparency, visualization, and advanced techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_205.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Implementation of enhanced cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2489.md)
 * [secure data storage systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1304.md)
 * [Secure data storage systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2600.md)
+
+## This Technology is identified by the following QID
+
+* [Q461671](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q461671.md)
 

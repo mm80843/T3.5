@@ -2,9 +2,9 @@
 
 # __Developing alternative transportation options and ensuring safe access to construction sites.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Transportation challenges for construction workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1563.md)
+* [Implement travel restrictions, promote active transportation, streamline processes, provide accurate information, and develop sustainable transport options.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_325.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Use of off-site construction methods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_293.md)
 * [Design buildings with safety measures and emergency preparedness in mind, such as evacuation routes, emergency supplies, and structural resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2573.md)
 * [Improve accessibility to UGS by creating inclusive infrastructure and providing transportation options.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2249.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Transportation challenges for construction workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1563.md)
 

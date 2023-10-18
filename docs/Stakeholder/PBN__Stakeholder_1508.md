@@ -2,9 +2,9 @@
 
 # __low education level individuals__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Limited accessibility due to education level](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2246.md)
+* [All people, especially those at risk or facing various circumstances, including age, health conditions, or unemployment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_374.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [lower-income individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1515.md)
 * [low-income individuals and families](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_409.md)
 * [students from low-income backgrounds](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_410.md)
+
+## Risk affecting this stakeholder
+
+* [Limited accessibility due to education level](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2246.md)
 

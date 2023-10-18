@@ -2,9 +2,9 @@
 
 # __agricultural organizations__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Crash in demand for agricultural commodities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1808.md)
+* [A diverse array of entities dedicated to various industries, causes, or services, promoting growth and welfare in society.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_369.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [economic organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_977.md)
 * [businesses and organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_262.md)
 * [local organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1463.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Crash in demand for agricultural commodities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1808.md)
 

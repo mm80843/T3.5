@@ -2,9 +2,9 @@
 
 # __cleaning solutions__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1974312](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1974312.md)
+* [Enhanced hygiene practices and strict adherence to cleaning protocols ensure rigorous sanitation and disinfection measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_196.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [cleaning practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4065.md)
 * [cleaning services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1355.md)
 * [Cleaning services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2551.md)
+
+## This Technology is identified by the following QID
+
+* [Q1974312](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1974312.md)
 

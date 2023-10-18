@@ -2,17 +2,9 @@
 
 # __Ultrabrief psychological interventions (UBPI)__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Psychological distress in healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_896.md)
-* [Psychological distress in general population](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_895.md)
-* [Limited resources for mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_898.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved psychological well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_84.md)
-* [Reduced stress and improved mental health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1230.md)
-* [Increased accessibility and standardization of mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1232.md)
+* [Enrich education through digital tools, virtual experiences, remote learning, and alternative forms of exercise and interaction.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_3.md)
 
 ## Closest similar item
 
@@ -26,4 +18,16 @@
 * [Provide targeted interventions for individuals with previous mental health or psychiatric illnesses](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_630.md)
 * [Monitor reactions and performance, alter assignments and schedules, offer psychosocial support as needed](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2499.md)
 * [Combination of multiple interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_409.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved psychological well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_84.md)
+* [Reduced stress and improved mental health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1230.md)
+* [Increased accessibility and standardization of mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1232.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Psychological distress in healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_896.md)
+* [Psychological distress in general population](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_895.md)
+* [Limited resources for mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_898.md)
 

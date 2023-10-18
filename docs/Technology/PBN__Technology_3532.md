@@ -2,9 +2,9 @@
 
 # __employee support programs__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Employee support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_907.md)
+* [Government programs and initiatives provide support, training, and financial assistance for education, healthcare, employment, and overall well-being.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_210.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [community support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_595.md)
 * [support services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3412.md)
 * [business assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1889.md)
+
+## This Technology enables the following mitigations
+
+* [Employee support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_907.md)
 

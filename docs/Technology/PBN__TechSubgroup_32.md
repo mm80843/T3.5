@@ -2,17 +2,9 @@
 
 # __Education and Training__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [simulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_389.md)
-* [simulation activities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_396.md)
-* [flipped classroom](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_386.md)
-* [video lectures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_387.md)
-* [teleconferencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_388.md)
-* [surgical videos](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_390.md)
-* [surgical video libraries](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_394.md)
-* [screen recording](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_393.md)
-* [staff oversight](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_395.md)
+* [Knowledge enhancement and skill development through AI, ML, and educational resources and programs.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_14.md)
 
 ## Closest similar item
 
@@ -26,4 +18,16 @@
 * [Research and Data Analysis](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_186.md)
 * [Artificial Intelligence and Machine Learning](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_1.md)
 * [Infrastructure and Transportation](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_115.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [simulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_389.md)
+* [simulation activities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_396.md)
+* [flipped classroom](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_386.md)
+* [video lectures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_387.md)
+* [teleconferencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_388.md)
+* [surgical videos](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_390.md)
+* [surgical video libraries](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_394.md)
+* [screen recording](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_393.md)
+* [staff oversight](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_395.md)
 

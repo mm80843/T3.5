@@ -2,14 +2,9 @@
 
 # __Use of face masks__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_324.md)
-
-## Property: has_MitigationBenefit
-
-* [Controlling infection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_702.md)
-* [Economic compromise](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_705.md)
+* [Encouraging the use of masks, practicing social distancing, and promoting good hygiene practices are vital preventive measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_345.md)
 
 ## Closest similar item
 
@@ -23,4 +18,13 @@
 * [Regular testing, contact tracing, promoting mask-wearing and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2791.md)
 * [Face mask detection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1278.md)
 * [Wearing face masks, practicing social distancing, and promoting good respiratory hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1702.md)
+
+## Property: has_MitigationBenefit
+
+* [Controlling infection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_702.md)
+* [Economic compromise](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_705.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_324.md)
 

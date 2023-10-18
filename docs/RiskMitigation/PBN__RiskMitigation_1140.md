@@ -2,13 +2,9 @@
 
 # __Implement measures to reduce interpersonal conflict__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Impact on families and domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_833.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction in domestic violence and family conflict](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1137.md)
+* [Strengthen collaborations, implement behavioral change, deploy social robots, and promote sustainable content consumption for community-based strategies, holistic research, and positive media representation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_316.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_416.md)
 * [Design communal spaces that support physical distancing and social interactions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2490.md)
 * [Increase perceived threat](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1211.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction in domestic violence and family conflict](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1137.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Impact on families and domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_833.md)
 

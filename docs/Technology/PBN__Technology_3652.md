@@ -2,9 +2,9 @@
 
 # __customized occupancy simulation parameters__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Configurable Simulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1103.md)
+* [Design and construction professionals use innovative techniques and strategies to create adaptable, sustainable, and inclusive buildings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_217.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [occupancy tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_775.md)
 * [Occupancy tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2453.md)
 * [real-time occupancy tracking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1028.md)
+
+## This Technology enables the following mitigations
+
+* [Configurable Simulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1103.md)
 

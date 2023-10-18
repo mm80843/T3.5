@@ -2,9 +2,9 @@
 
 # __real-time rt-pcr__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1676.md)
+* [Technologies and tools used for working, monitoring, communicating, and assessing remotely, including remote healthcare and education technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_215.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [digital PCR](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2103.md)
 * [pcr techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4138.md)
 * [pcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3069.md)
+
+## This Technology enables the following mitigations
+
+* [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1676.md)
 

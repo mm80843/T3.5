@@ -2,9 +2,9 @@
 
 # __border control agencies__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Reintroduction of parasites through human movement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2165.md)
+* [Government and non-governmental organizations responsible for a wide range of services, including health, development, regulation, and emergency response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_382.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [law enforcement agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_603.md)
 * [social protection agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1570.md)
 * [social protection agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1870.md)
+
+## Risk affecting this stakeholder
+
+* [Reintroduction of parasites through human movement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2165.md)
 

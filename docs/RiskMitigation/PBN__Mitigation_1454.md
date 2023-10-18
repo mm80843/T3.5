@@ -2,8 +2,9 @@
 
 # __Flexible Delivery Hours__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Embracing flexible work arrangements, such as remote work and staggered schedules, to enhance productivity and adapt to digital transformation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_171.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Flexible manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1360.md)
 * [Caution in receiving deliveries](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1564.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Increase in demand, logistical challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3082.md)
-
 ## Property: has_MitigationPrinciple
 
 Allow retailers to restock shelves with basic food products
 
+## Risks possibly mitigated by this Mitigation
+
+* [Increase in demand, logistical challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3082.md)
+
 ## Property: has_MitigationSource
 
 * [The socio-economic implications of the coronavirus pandemic (COVID-19): A review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_135.md)
+
+## This Mitigation is enabled by the following technologies
+
 

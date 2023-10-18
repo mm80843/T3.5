@@ -2,9 +2,9 @@
 
 # __Collect more data from countries at earlier stages of the epidemic; account for potential differences in intervention impacts across countries__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Overreliance on data from countries with advanced epidemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1395.md)
+* [Implement comprehensive strategies to control virus transmission, improve surveillance, develop antiviral coatings, and enhance infection control measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_309.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Outbreak investigations and response](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1224.md)
 * [Control the virus outbreak and promote economic stability](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2114.md)
 * [Enhance surveillance systems to detect and respond to emerging diseases in new areas.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2434.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Overreliance on data from countries with advanced epidemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1395.md)
 

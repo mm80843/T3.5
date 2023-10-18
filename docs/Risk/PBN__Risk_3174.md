@@ -2,9 +2,9 @@
 
 # __Unreported infections__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Seroprevalence surveys](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1624.md)
+* [The dissemination of infectious diseases, characterized by outbreaks from various sources, inadequate preparedness, and insufficient reporting and understanding, poses a global threat.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_106.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of knowledge of infection status](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2801.md)
 * [Cross-infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3012.md)
 * [Infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_711.md)
+
+## Mitigations of this risk
+
+* [Seroprevalence surveys](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1624.md)
 

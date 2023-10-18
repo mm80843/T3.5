@@ -2,11 +2,9 @@
 
 # __Taiwanese Citizens and Communities__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [taiwanese citizen and community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2427.md)
-* [taiwanese citizens and communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1547.md)
-* [taiwanese citizen](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2412.md)
+* [Social networks, individuals, groups, technology, and protection, all interrelated in the context of communities and online safety.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_266.md)
 
 ## Closest similar item
 
@@ -20,4 +18,10 @@
 * [Community Associations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_137.md)
 * [Community Groups/Organizations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_134.md)
 * [Specific Populations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_91.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [taiwanese citizen and community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2427.md)
+* [taiwanese citizens and communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1547.md)
+* [taiwanese citizen](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2412.md)
 

@@ -2,9 +2,9 @@
 
 # __vaccine distribution to vulnerable populations__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q736798](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q736798.md)
+* [Advancements in molecular biology, diagnostics, vaccines, antiviral technologies, and disease surveillance for pathogen detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_223.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2270.md)
 * [vaccination campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3624.md)
 * [vaccination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2915.md)
+
+## This Technology is identified by the following QID
+
+* [Q736798](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q736798.md)
 

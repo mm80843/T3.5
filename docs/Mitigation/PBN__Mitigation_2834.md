@@ -2,6 +2,10 @@
 
 # __Assessing citizens’ willingness to pay__
 
+## Category to which it belongs
+
+* [Promoting financial stability and inclusivity through diverse funding sources, transparent donations, and innovative investment incentives.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_174.md)
+
 ## Closest similar item
 
 * [Determining citizens’ preferences](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2835.md)

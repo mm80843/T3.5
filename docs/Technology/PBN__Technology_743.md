@@ -2,9 +2,9 @@
 
 # __designated workspaces__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q2094455](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2094455.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3580.md)
 * [open spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2990.md)
 * [physical activity spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3050.md)
+
+## This Technology is identified by the following QID
+
+* [Q2094455](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2094455.md)
 

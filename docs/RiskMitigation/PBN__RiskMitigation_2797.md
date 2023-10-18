@@ -2,9 +2,9 @@
 
 # __Use individual or limited capacity transportation with partitions/barriers, enforce mask-wearing and no talking, disinfect vehicles after each use__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Transportation protocols and precautions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2138.md)
+* [Implement travel restrictions, promote active transportation, streamline processes, provide accurate information, and develop sustainable transport options.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_325.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Develop and enforce strict sanitization protocols for all surfaces and equipment in the facility](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2025.md)
 * [Implement proper disinfection measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2884.md)
 * [Implement hygiene protocols and regular cleaning of shared vehicles following health guidelines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1979.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Transportation protocols and precautions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2138.md)
 

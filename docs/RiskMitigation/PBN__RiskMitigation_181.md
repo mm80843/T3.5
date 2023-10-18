@@ -2,13 +2,9 @@
 
 # __Medicaid expansion__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Eviction increases the risk of COVID-19 acquisition and transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_147.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduced eviction rates](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_198.md)
+* [Enhancing healthcare infrastructure, increasing capacity, and ensuring access to medical resources and services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_330.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Design interventions to improve access to healthcare services in underserved areas and mitigate disease transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1667.md)
 * [Ensure healthcare accessibility and affordability, address social determinants of health, provide targeted support to vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2276.md)
 * [Implement targeted interventions and resources in areas with high risk factors, such as increased access to healthcare services, targeted education campaigns, and economic support for affected populations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1853.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced eviction rates](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_198.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Eviction increases the risk of COVID-19 acquisition and transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_147.md)
 

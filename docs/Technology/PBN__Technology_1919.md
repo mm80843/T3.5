@@ -2,9 +2,9 @@
 
 # __use firewalls__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q568215](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q568215.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [secure server networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_347.md)
 * [access control protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_827.md)
 * [networking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3037.md)
+
+## This Technology is identified by the following QID
+
+* [Q568215](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q568215.md)
 

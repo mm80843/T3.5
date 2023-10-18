@@ -2,6 +2,23 @@
 
 # __Blockchain and cryptography__
 
+## Category to which it belongs
+
+* [Secure decentralized digital technology.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_306.md)
+
+## Closest similar item
+
+* [blockchain](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_163.md)
+* [Blockchain](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_164.md)
+* [blockchain technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_165.md)
+* [Blockchain security protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_166.md)
+* [blockchain security protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_167.md)
+* [Blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_168.md)
+* [blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_169.md)
+* [blockchain)](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_170.md)
+* [encryption](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_171.md)
+* [Encryption](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_172.md)
+
 ## This Technology belongs to this TechnologyGroup
 
 * [blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_211.md)
@@ -50,17 +67,4 @@
 * [multi-factor authentication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1864.md)
 * [secure file sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2603.md)
 * [VPN](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2601.md)
-
-## Closest similar item
-
-* [blockchain](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_163.md)
-* [Blockchain](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_164.md)
-* [blockchain technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_165.md)
-* [Blockchain security protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_166.md)
-* [blockchain security protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_167.md)
-* [Blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_168.md)
-* [blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_169.md)
-* [blockchain)](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_170.md)
-* [encryption](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_171.md)
-* [Encryption](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_172.md)
 

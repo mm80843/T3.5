@@ -2,13 +2,9 @@
 
 # __Flipped classroom strategy__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Decreased in-person exposure to surgical education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_32.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved knowledge acquisition](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_48.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Public education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_66.md)
 * [Digital educational initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_473.md)
 * [Communication strategy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_410.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved knowledge acquisition](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_48.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Decreased in-person exposure to surgical education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_32.md)
 

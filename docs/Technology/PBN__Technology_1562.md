@@ -2,9 +2,9 @@
 
 # __antibiotic stewardship programs__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q112581955](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q112581955.md)
+* [Government programs and initiatives provide support, training, and financial assistance for education, healthcare, employment, and overall well-being.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_210.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2645.md)
 * [outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_174.md)
 * [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_341.md)
+
+## This Technology is identified by the following QID
+
+* [Q112581955](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q112581955.md)
 

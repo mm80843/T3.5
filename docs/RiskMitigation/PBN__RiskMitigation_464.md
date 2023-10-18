@@ -2,13 +2,9 @@
 
 # __Development of IoMT applications__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Shortage of COVID-19 testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_353.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved remote monitoring and diagnosis of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_447.md)
+* [Facilitate transparent communication, enabling reliable information sharing through standardized protocols and effective channels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_0.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [IoT in drug delivery](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_141.md)
 * [Internet of Things (IoT)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1098.md)
 * [Develop IoT-based monitoring systems that allow for long-term continuous measurement of IEQ on a broader scale.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1911.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved remote monitoring and diagnosis of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_447.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Shortage of COVID-19 testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_353.md)
 

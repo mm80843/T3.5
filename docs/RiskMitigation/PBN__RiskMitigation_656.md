@@ -2,13 +2,9 @@
 
 # __AI for drug discovery__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Slow drug development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_466.md)
-
-## Property: has_MitigationBenefit
-
-* [Accelerated drug testing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_663.md)
+* [Advancements in bioinformatics, divestment, automated sample collection, and artificial intelligence are facilitating early disease detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_336.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [AI for outbreak prediction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_658.md)
 * [AI for health equity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_657.md)
 * [AI-powered applications for diagnosis and treatment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1435.md)
+
+## Property: has_MitigationBenefit
+
+* [Accelerated drug testing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_663.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Slow drug development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_466.md)
 

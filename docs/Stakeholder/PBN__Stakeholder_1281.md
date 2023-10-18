@@ -2,9 +2,9 @@
 
 # __ministry of education__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [School closures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1887.md)
+* [The community, including residents, educators, healthcare institutions, and government research institutions, is involved in education and healthcare.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_377.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [ministry of commerce](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1283.md)
 * [Ministry of Commerce](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2411.md)
 * [education authority](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1637.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [School closures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1887.md)
 

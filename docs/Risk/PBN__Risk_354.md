@@ -2,9 +2,9 @@
 
 # __Weak health-care systems and limited resources__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Integration of GIS and GPS applications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_465.md)
+* [Healthcare systems overwhelmed with limited resources, shortage of personnel, and inadequate infrastructure face challenges in providing accessible and quality care.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_101.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Health system collapse](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_233.md)
 * [Lack of healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3194.md)
 * [Inadequate healthcare capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2901.md)
+
+## Mitigations of this risk
+
+* [Integration of GIS and GPS applications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_465.md)
 

@@ -2,8 +2,9 @@
 
 # __Improved hygiene__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Enhanced focus on cleanliness, including hand and respiratory hygiene, to prevent infection and improve personal wellbeing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_162.md)
 
 ## Closest similar item
 
@@ -18,14 +19,17 @@
 * [Environmental hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1115.md)
 * [Enhanced cleaning and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1279.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Promote proper hygiene practices, such as frequent handwashing, to reduce the spread of COVID-19.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Local response in health emergencies: key considerations for addressing the COVID-19 pandemic in informal urban settlements](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_36.md)
+
+## This Mitigation is enabled by the following technologies
+
 

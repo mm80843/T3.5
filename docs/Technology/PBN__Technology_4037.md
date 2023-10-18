@@ -2,9 +2,9 @@
 
 # __zoning systems__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Zoning and Staggered Work Schedules](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1737.md)
+* [Urban green space solutions include tree planting, zoning regulations, landscape architecture, community gardens, outdoor furniture, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_231.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [designated areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4351.md)
 * [urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_379.md)
 * [Urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2332.md)
+
+## This Technology enables the following mitigations
+
+* [Zoning and Staggered Work Schedules](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1737.md)
 

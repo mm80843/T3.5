@@ -2,9 +2,9 @@
 
 # __gastrointestinal monitoring tools__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q73218639](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q73218639.md)
+* [Advanced monitoring systems and sensor integration for IoT devices and biosensor technology facilitate environmental monitoring and facility usage tracking.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_229.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [surveillance systems for disease monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_977.md)
 * [technology for disease surveillance and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1031.md)
 * [Technology for disease surveillance and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2468.md)
+
+## This Technology is identified by the following QID
+
+* [Q73218639](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q73218639.md)
 

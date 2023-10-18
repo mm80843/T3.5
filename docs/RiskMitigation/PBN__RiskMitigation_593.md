@@ -2,13 +2,9 @@
 
 # __Proteolysis of S protein by cathepsin__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Cell entry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_427.md)
-
-## Property: has_MitigationBenefit
-
-* [Antiviral targets](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_591.md)
+* [Efforts include RNA monitoring, occupant exposure modeling, targeted messages, adoption of principles, copper coating, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_311.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [SPARQL endpoint](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_114.md)
 * [Regular monitoring of coated surfaces for changes in viral viability and development of alternative coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1633.md)
 * [Use of insecticide-treated bed nets](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_332.md)
+
+## Property: has_MitigationBenefit
+
+* [Antiviral targets](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_591.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Cell entry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_427.md)
 

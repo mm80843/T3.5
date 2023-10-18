@@ -2,9 +2,9 @@
 
 # __Regulate and control AH and RH levels in the built environment to reduce virus survival and transmission.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Influenza virus survival](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1704.md)
+* [Implement comprehensive strategies to control virus transmission, improve surveillance, develop antiviral coatings, and enhance infection control measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_309.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implementation of safety protocols, including personal protective equipment (PPE), proper handling and disposal of samples, and adherence to biosafety guidelines, can minimize the risk of exposure and spread of the virus in the laboratory.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2169.md)
 * [Use of materials with low virus survivability](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1197.md)
 * [Deploy viral testing for healthcare staff, ensure availability of protective equipment and medical supplies, increase investment in disease prevention infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2396.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Influenza virus survival](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1704.md)
 

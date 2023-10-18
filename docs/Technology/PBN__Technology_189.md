@@ -2,9 +2,9 @@
 
 # __glare control devices__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q72759](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q72759.md)
+* [Innovative lighting solutions harnessing ultraviolet technology for optimal germicidal sterilization and energy efficiency, while maximizing natural light.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_235.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [led screens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3996.md)
 * [adjustable lighting controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_197.md)
 * [screens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4292.md)
+
+## This Technology is identified by the following QID
+
+* [Q72759](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q72759.md)
 

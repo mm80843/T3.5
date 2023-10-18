@@ -2,13 +2,9 @@
 
 # __Incorporating green and pedestrian infrastructure__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Impact of Covid-19 on green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_31.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved public health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_47.md)
+* [Promote biodiversity and sustainable urban development through the establishment and accessibility of green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_322.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Urban greening initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_72.md)
 * [Incorporating green infrastructure and UGS in urban planning and development, implementing green roof and wall initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2936.md)
 * [Implement policies and strategies to ensure equitable access to green infrastructure in all neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2579.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved public health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_47.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Impact of Covid-19 on green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_31.md)
 

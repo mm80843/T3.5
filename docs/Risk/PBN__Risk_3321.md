@@ -2,9 +2,9 @@
 
 # __Lack of reliable energy access__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Deployment of microgrids](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1990.md)
+* [Issues related to energy use, including increased consumption, inefficient usage, and lack of understanding, have various implications in different settings and sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_133.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of occupant interest in energy conservation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1063.md)
 * [Energy use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_614.md)
 * [Energy poverty](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3313.md)
+
+## Mitigations of this risk
+
+* [Deployment of microgrids](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1990.md)
 

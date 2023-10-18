@@ -2,9 +2,9 @@
 
 # __biocidal agents such as hydrogen peroxide__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q171877](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q171877.md)
+* [The range of materials and techniques listed includes various disinfectants, nanomaterials, manufacturing methods, coatings, sustainability measures, and analytical tools.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_237.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [antimicrobial materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3442.md)
 * [anti-microbial materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4237.md)
 * [use of bleach solutions or alcohol-based cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_500.md)
+
+## This Technology is identified by the following QID
+
+* [Q171877](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q171877.md)
 

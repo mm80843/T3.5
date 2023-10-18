@@ -2,9 +2,9 @@
 
 # __Lack of standardization, concerns over ethics__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Data sharing for secondary use](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_563.md)
+* [Limited monitoring, technical limitations, language barriers, expensive optimization, lack of connection with nature, and limited sensor diversity hinder effective response and resource allocation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_107.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of awareness and compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1906.md)
 * [Changes in social practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_45.md)
 * [Lack of standardisation, data format limitations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2633.md)
+
+## Mitigations of this risk
+
+* [Data sharing for secondary use](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_563.md)
 

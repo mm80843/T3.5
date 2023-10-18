@@ -2,8 +2,9 @@
 
 # __Decentralization__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Enhancing safety and efficiency through comprehensive measures, technology integration, diverse environments, and behavioral adjustments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_157.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Blockchain-based decentralized framework for health information exchange](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4031.md)
 * [Ensuring equitable access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3648.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Increased risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2956.md)
-
 ## Property: has_MitigationPrinciple
 
 Promoting development horizontally and maintaining lower density to reduce the vulnerability of high-density districts to the transmission of communicable diseases.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Increased risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2956.md)
+
 ## Property: has_MitigationSource
 
 * [Impact of Covid-19 on the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_10.md)
+
+## This Mitigation is enabled by the following technologies
+
 

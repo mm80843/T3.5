@@ -2,9 +2,9 @@
 
 # __funding__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q102265324](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q102265324.md)
+* [Maximizing economic efficiency while promoting financial stability through innovative strategies, investments, and partnerships at various levels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_195.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [adequate funding and staffing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1185.md)
 * [financial grants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1807.md)
 * [Financial incentives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2505.md)
+
+## This Technology is identified by the following QID
+
+* [Q102265324](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q102265324.md)
 

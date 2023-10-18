@@ -2,9 +2,9 @@
 
 # __impact investment__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q17082023](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q17082023.md)
+* [Maximizing economic efficiency while promoting financial stability through innovative strategies, investments, and partnerships at various levels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_195.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [investment in local production](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_945.md)
 * [targeted investment in underserved neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1183.md)
 * [investments in education and training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1473.md)
+
+## This Technology is identified by the following QID
+
+* [Q17082023](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q17082023.md)
 

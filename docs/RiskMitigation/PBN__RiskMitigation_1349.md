@@ -2,13 +2,9 @@
 
 # __Monitoring and control of indoor air quality__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Contamination of indoor air with volatile organic compounds (VOCs)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_966.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduced exposure to VOCs](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1327.md)
+* [Optimize indoor environments, regulate temperature and humidity, control air quality, and extend HVAC system operations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_341.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Monitor air conditions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2872.md)
 * [Improvement of air quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1294.md)
 * [Use of smart/innovative air quality controls technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3263.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced exposure to VOCs](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1327.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Contamination of indoor air with volatile organic compounds (VOCs)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_966.md)
 

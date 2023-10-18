@@ -6,6 +6,10 @@
 
 * [Improved effectiveness of control measures](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_338.md)
 
+## Category to which it belongs
+
+* [Entities and individuals who interact with or are affected by a system, organization, or public facility.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_1.md)
+
 ## Closest similar item
 
 * [national and international vector control programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_160.md)

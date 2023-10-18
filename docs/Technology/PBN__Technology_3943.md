@@ -2,9 +2,9 @@
 
 # __open plan layout redesign__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Distancing and Building Layout](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1611.md)
+* [Design and construction professionals use innovative techniques and strategies to create adaptable, sustainable, and inclusive buildings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_217.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [proper layout](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2987.md)
 * [space planning and layout](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3566.md)
 * [flexible floor plans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3941.md)
+
+## This Technology enables the following mitigations
+
+* [Distancing and Building Layout](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1611.md)
 

@@ -2,9 +2,9 @@
 
 # __Crop and livestock losses__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Resilient agricultural practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1071.md)
+* [The ramifications of global connectivity include economic instability, impacts of the pandemic, unemployment, poverty, reduced tourism revenue, and decline in public budgets.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_103.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Job losses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2173.md)
 * [Job and income loss](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3400.md)
 * [Job and livelihood loss](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1859.md)
+
+## Mitigations of this risk
+
+* [Resilient agricultural practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1071.md)
 

@@ -2,13 +2,9 @@
 
 # __Addition of external communication corridors and emphasis on stair usage__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Inadequate airflow in apartment buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_229.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved ventilation and reduced transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_283.md)
+* [Facilitate transparent communication, enabling reliable information sharing through standardized protocols and effective channels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_0.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implement physical distancing measures, reduce overcrowding, and promote remote work when possible.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2503.md)
 * [Improve communication channels and methods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2532.md)
 * [Communication plan](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_716.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved ventilation and reduced transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_283.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inadequate airflow in apartment buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_229.md)
 

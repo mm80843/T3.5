@@ -2,9 +2,9 @@
 
 # __telework__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1135326](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1135326.md)
+* [Virtual healthcare and remote communication technology including telemedicine, telehealth platforms, teletherapy, teleconferencing, and tele-operation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_202.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2273.md)
 * [Telemedecine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4542.md)
 * [telepsychiatry](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1247.md)
+
+## This Technology is identified by the following QID
+
+* [Q1135326](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1135326.md)
 

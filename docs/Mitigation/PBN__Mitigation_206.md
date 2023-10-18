@@ -2,8 +2,9 @@
 
 # __Providing shelters and nutrition for refugees and the homeless__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Promoting well-being and resilience through various forms of support, resources, and assistance for individuals in need.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_143.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Commercial and healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_860.md)
 * [Health checks on migrants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2103.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Homelessness and food insecurity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2500.md)
-
 ## Property: has_MitigationPrinciple
 
 Establish temporary shelters and provide essential supplies for refugees and homeless individuals.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Homelessness and food insecurity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2500.md)
+
 ## Property: has_MitigationSource
 
 * [Non-medical Interventions to Reduce the Burden of Psychosocial and Economic Impacts of COVID-19 Pandemic: A Scope Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_243.md)
+
+## This Mitigation is enabled by the following technologies
+
 

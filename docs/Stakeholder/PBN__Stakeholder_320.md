@@ -2,13 +2,9 @@
 
 # __suppliers and subcontractors__
 
-## This Stakeholder can get these Benefits from mitigation measures
+## Category to which it belongs
 
-* [Increased supply stability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_785.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q1762621](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1762621.md)
+* [Various industries, businesses, and supply chain partners rely on suppliers and supply chain professionals for their products and services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_370.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [country heavily reliant on specific supplier](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2415.md)
 * [countries heavily reliant on specific suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1243.md)
 * [manufacturing companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1152.md)
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Increased supply stability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_785.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q1762621](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1762621.md)
 

@@ -2,9 +2,9 @@
 
 # __travel advisories and restrictions__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q4462116](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4462116.md)
+* [Enhancing accessibility and support through a range of remote healthcare, counseling, transportation, and translation services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_213.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [implementation of border controls and travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_562.md)
 * [Implementation of border controls and travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2490.md)
 * [travel management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2899.md)
+
+## This Technology is identified by the following QID
+
+* [Q4462116](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4462116.md)
 

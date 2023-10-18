@@ -2,9 +2,9 @@
 
 # __mental health care support__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q67076049](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q67076049.md)
+* [Government programs and initiatives provide support, training, and financial assistance for education, healthcare, employment, and overall well-being.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_210.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [social and mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3942.md)
 * [remote mental health care](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1278.md)
 * [mental health education programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1812.md)
+
+## This Technology is identified by the following QID
+
+* [Q67076049](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q67076049.md)
 

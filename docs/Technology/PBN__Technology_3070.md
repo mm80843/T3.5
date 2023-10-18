@@ -2,9 +2,9 @@
 
 # __wbe__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Sewage Epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_224.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [MEC](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2857.md)
 * [ppe](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1463.md)
 * [kgx](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_57.md)
+
+## This Technology enables the following mitigations
+
+* [Sewage Epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_224.md)
 

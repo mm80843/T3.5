@@ -2,13 +2,9 @@
 
 # __Phase II relaxation__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Uncontrolled SARS-CoV-2 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_330.md)
-
-## Property: has_MitigationBenefit
-
-* [Transmission reduction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_420.md)
+* [Efforts include RNA monitoring, occupant exposure modeling, targeted messages, adoption of principles, copper coating, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_311.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Generating Negative Pressure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_394.md)
 * [Designate areas for relaxation within built environment, create outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1541.md)
 * [Negative air ionization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_523.md)
+
+## Property: has_MitigationBenefit
+
+* [Transmission reduction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_420.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Uncontrolled SARS-CoV-2 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_330.md)
 

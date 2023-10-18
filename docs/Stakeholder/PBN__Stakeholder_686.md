@@ -2,10 +2,9 @@
 
 # __individuals infected with covid-19__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Lack of Effective Treatment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1868.md)
-* [Lack of drug therapy options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1146.md)
+* [Individuals affected by various medical conditions, including COVID-19, seeking information and care.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_394.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [all individual seeking covid-19 information and application](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2367.md)
 * [individuals with long covid](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_373.md)
 * [infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_161.md)
+
+## Risk affecting this stakeholder
+
+* [Lack of Effective Treatment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1868.md)
+* [Lack of drug therapy options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1146.md)
 

@@ -2,9 +2,9 @@
 
 # __fitness tracker__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_329.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [fitness facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1376.md)
 * [online fitness programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3240.md)
 * [tracking technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1722.md)
+
+## This Technology enables the following mitigations
+
+* [Wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_329.md)
 

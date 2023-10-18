@@ -2,13 +2,13 @@
 
 # __Covid-19 and civil engineering – the need for a better understanding of epidemiology__
 
-## Title of the article
-
-Covid-19 and civil engineering – the need for a better understanding of epidemiology
-
 ## DOI of the article
 
 10.1680/jcien.2021.174.2.52
+
+## Title of the article
+
+Covid-19 and civil engineering – the need for a better understanding of epidemiology
 
 ## Year of publication
 

@@ -2,13 +2,9 @@
 
 # __Variety in visual and thermal comfort__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Insufficient lighting and thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_953.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced comfort and well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1314.md)
+* [Optimize indoor environment by maximizing natural light, ventilation, and incorporating efficient lighting systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_348.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Improve living conditions, access to natural light and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2896.md)
 * [Spatial variety in window design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1333.md)
 * [Natural light](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_218.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced comfort and well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1314.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Insufficient lighting and thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_953.md)
 

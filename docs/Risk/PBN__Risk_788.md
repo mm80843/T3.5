@@ -2,9 +2,9 @@
 
 # __Insufficient design guidelines for transformation, adaptation, and flexibility__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Development of detailed design guidelines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1082.md)
+* [Challenges in building industry include lack of understanding, high costs, inadequate preparedness, and slow adoption of new technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_98.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Insufficient technical installations for adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_794.md)
 * [Flexibility and speed](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3361.md)
 * [Difficulty in adapting to new rules and regulations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2809.md)
+
+## Mitigations of this risk
+
+* [Development of detailed design guidelines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1082.md)
 

@@ -2,9 +2,9 @@
 
 # __wireless data transmission (3g__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Wireless data transmission](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_694.md)
+* [Enhanced connectivity and diverse communication platforms enable the dissemination of reliable information and promote open communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_225.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [5g](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4121.md)
 * [5G](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4528.md)
 * [4g](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3386.md)
+
+## This Technology enables the following mitigations
+
+* [Wireless data transmission](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_694.md)
 

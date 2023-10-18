@@ -2,11 +2,11 @@
 
 # __Control of airflows (airtight / negative pressure)__
 
-## Property: has_BP_InterventionTitle
-
-Control of airflows (airtight / negative pressure)
-
 ## Property: has_BP_InterventionKey
 
 PA8
+
+## Property: has_BP_InterventionTitle
+
+Control of airflows (airtight / negative pressure)
 

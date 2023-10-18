@@ -2,13 +2,9 @@
 
 # __Addressing security and privacy issues__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Privacy and security concerns with IoT data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1001.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced data security](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1393.md)
+* [Data privacy and security are prioritized through encryption, access controls, consent, and robust cybersecurity measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_335.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Strict adherence to privacy regulations, encryption of sensitive data, secure access control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1753.md)
 * [Enhanced security measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2987.md)
 * [Implement privacy protection measures, obtain consent, anonymize data.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2714.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced data security](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1393.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Privacy and security concerns with IoT data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1001.md)
 

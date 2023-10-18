@@ -2,9 +2,9 @@
 
 # __lcd panel__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Digital signage player](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_829.md)
+* [These resources aim to enhance security, convenience, and efficiency in managing access, spaces, and systems within various environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_206.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Glare control devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2854.md)
 * [screen recording](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_393.md)
 * [touch screen control tablet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3095.md)
+
+## This Technology enables the following mitigations
+
+* [Digital signage player](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_829.md)
 

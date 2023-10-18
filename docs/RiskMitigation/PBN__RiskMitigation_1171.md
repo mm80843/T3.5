@@ -2,13 +2,9 @@
 
 # __Use of blockchain for donation tracking__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Corruption in donation processes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_847.md)
-
-## Property: has_MitigationBenefit
-
-* [Transparency of donation process](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1171.md)
+* [Enable transparent and secure data management, traceability, and efficient distribution while promoting accurate information dissemination and verification.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_321.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1104.md)
 * [Collaborate with blockchain companies for secure and timely medication delivery with accurate tracking.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2859.md)
 * [Blockchain technology for supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1057.md)
+
+## Property: has_MitigationBenefit
+
+* [Transparency of donation process](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1171.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Corruption in donation processes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_847.md)
 

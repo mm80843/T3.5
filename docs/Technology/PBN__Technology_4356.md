@@ -2,9 +2,9 @@
 
 # __broadband connection__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [ICT infrastructure access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2235.md)
+* [Enhanced connectivity and diverse communication platforms enable the dissemination of reliable information and promote open communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_225.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [connectivity technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3373.md)
 * [Internet-connected devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2840.md)
 * [telecommunication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2925.md)
+
+## This Technology enables the following mitigations
+
+* [ICT infrastructure access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2235.md)
 

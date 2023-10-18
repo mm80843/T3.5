@@ -2,13 +2,9 @@
 
 # __Occupant of building with contaminated surface__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q5164914](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5164914.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Building Occupants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_11.md)
+* [Individuals and organizations involved in the management and treatment of water, waste, and wastewater.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_397.md)
 
 ## Closest similar item
 
@@ -26,4 +22,12 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Building Conditions](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_67.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q5164914](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5164914.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Building Occupants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_11.md)
 

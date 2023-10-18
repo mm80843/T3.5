@@ -2,13 +2,9 @@
 
 # __Use of high-efficiency air filters__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [COVID-19 transmission in crowded occupational environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_301.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction of airborne virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_371.md)
+* [Enhancing air quality through effective air filtration, ventilation, and pollution reduction strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_338.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Use high-efficiency air filters, regularly replace filters, and properly maintain air filtration systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2310.md)
 * [High-level air filtration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_342.md)
 * [Regular maintenance and inspection of ventilation systems, proper design and installation of ventilation systems, and use of high-efficiency air filters.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2309.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction of airborne virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_371.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [COVID-19 transmission in crowded occupational environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_301.md)
 

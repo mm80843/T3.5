@@ -2,9 +2,9 @@
 
 # __Ineffective dissemination of evidence__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Contextualising and disseminating actionable evidence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_552.md)
+* [A list of challenges and uncertainties surrounding the impact and response to various events and crises in different sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_124.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of evidence-informed decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_393.md)
 * [Insufficient evidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2790.md)
 * [Limited evidence available](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_402.md)
+
+## Mitigations of this risk
+
+* [Contextualising and disseminating actionable evidence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_552.md)
 

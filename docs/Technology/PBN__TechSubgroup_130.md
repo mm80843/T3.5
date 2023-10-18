@@ -2,9 +2,9 @@
 
 # __Biological and Chemical Methods__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [reducing chemical use in indoor environments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1486.md)
+* [Promotion of cleanliness, hygiene, and health through various purification, disinfection, and eco-friendly practices and materials.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_44.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Disinfection and Cleaning Protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_73.md)
 * [Environmental Controls](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_185.md)
 * [Technology and Materials for Protection](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_71.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [reducing chemical use in indoor environments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1486.md)
 

@@ -2,9 +2,9 @@
 
 # __Separate toilets for infected__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [designated toilet facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4364.md)
+* [Promotion and implementation of rigorous hygiene protocols and use of sanitary facilities and materials.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_166.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Wiping surfaces with disinfectant](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2329.md)
 * [Airborne infection isolation rooms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1518.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Virus propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1032.md)
-
 ## Property: has_MitigationPrinciple
 
 Provide separate toilets for infected individuals to prevent the spread of pathogens
 
+## Risks possibly mitigated by this Mitigation
+
+* [Virus propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1032.md)
+
 ## Property: has_MitigationSource
 
 * [How to Make Green Building Certification \& Rating Systems More Pandemic-Sustainable?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_172.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [designated toilet facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4364.md)
 

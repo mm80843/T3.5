@@ -2,13 +2,9 @@
 
 # __Job retention schemes__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [COVID-19 impact on immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_981.md)
-
-## Property: has_MitigationBenefit
-
-* [Minimized job losses](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1350.md)
+* [Ensuring equitable access, promoting flexible work, implementing safety measures, and providing support for remote work and flexible schedules.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_323.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Enhance job training and reskilling programs, promote entrepreneurship, and support job creation in new industries.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2629.md)
 * [Job training programs, re-skilling initiatives, and government assistance for unemployed individuals.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2842.md)
 * [Overhaul employment services and vocational training systems, coordinate efforts to retrain and redeploy workers.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2957.md)
+
+## Property: has_MitigationBenefit
+
+* [Minimized job losses](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1350.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [COVID-19 impact on immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_981.md)
 

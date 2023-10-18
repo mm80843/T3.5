@@ -2,13 +2,9 @@
 
 # __Local strategies for isolation and physical distancing__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Limited physical/social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_120.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduced transmission of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_162.md)
+* [Promotion and enforcement of physical separation measures to prevent the spread of disease.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_327.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Maintaining social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_251.md)
 * [Social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_416.md)
 * [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_275.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced transmission of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_162.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limited physical/social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_120.md)
 

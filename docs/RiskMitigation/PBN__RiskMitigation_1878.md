@@ -2,9 +2,9 @@
 
 # __Implement biodiversity conservation strategies in urban planning, prioritize the creation of diverse green spaces__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Loss of urban biodiversity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1381.md)
+* [Promote biodiversity and sustainable urban development through the establishment and accessibility of green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_322.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement urban greening initiatives to create and enhance green spaces in highly urbanized areas, consider green roofs and vertical gardens](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2075.md)
 * [Create and maintain green spaces, parks, and public gardens in urban areas.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1923.md)
 * [Including green space in urban planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_167.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Loss of urban biodiversity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1381.md)
 

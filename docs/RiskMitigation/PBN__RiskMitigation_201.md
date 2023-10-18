@@ -2,13 +2,9 @@
 
 # __Implement IoT technologies and data collection systems__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Limited access to patient health data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_158.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved data collection and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_215.md)
+* [Promote standardized data collection, ontology-based representation, and enhanced data sharing to improve decision-making processes and data quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_319.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Water digitalization and IoT](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_805.md)
 * [Implement blockchain technology to ensure accurate and secure data collection and storage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2700.md)
 * [Implement standardized data collection methods, invest in data integration platforms and tools.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1543.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved data collection and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_215.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limited access to patient health data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_158.md)
 

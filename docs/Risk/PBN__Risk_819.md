@@ -2,9 +2,9 @@
 
 # __Classical format of research funding__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Alternative funding formats](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1125.md)
+* [Financial vulnerability and instability permeate various sectors and industries, hindering growth, sustainability, and access to resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_114.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Insufficient funding and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2613.md)
 * [Insufficient funding for green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1044.md)
 * [Financial constraints](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1294.md)
+
+## Mitigations of this risk
+
+* [Alternative funding formats](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1125.md)
 

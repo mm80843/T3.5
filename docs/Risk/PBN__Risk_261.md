@@ -2,9 +2,9 @@
 
 # __Information asymmetry between occupants and indoor environment__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [IBEM](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_320.md)
+* [Limited physical/social distancing, thermal discomfort, poor lighting, and inadequate air quality negatively impact personal comfort.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_130.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inappropriate humidity levels in indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3063.md)
 * [Indoor Environmental Quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3253.md)
 * [Lack of quantitative understanding of the impact of social distancing measures on building occupant exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_8.md)
+
+## Mitigations of this risk
+
+* [IBEM](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_320.md)
 

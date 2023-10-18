@@ -2,9 +2,9 @@
 
 # __uv-c light disinfection systems__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q961734](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q961734.md)
+* [The implementation of various disinfection methods, improved cleaning and sanitization protocols, and the use of eco-friendly disinfectants and advanced technologies have been prioritized.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_199.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [uv-c disinfection technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1627.md)
 * [UV-C disinfection technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2349.md)
 * [UV-C disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2706.md)
+
+## This Technology is identified by the following QID
+
+* [Q961734](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q961734.md)
 

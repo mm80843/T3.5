@@ -2,9 +2,9 @@
 
 # __Benchmarking__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
-* [Benchmarking](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_172.md)
+* [Advanced technologies and algorithms for modeling, simulation, optimization, and artificial intelligence in various applications, including robotics and computational fluid dynamics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_239.md)
 
 ## Closest similar item
 
@@ -19,11 +19,15 @@
 * [Monitoring Systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4578.md)
 * [Simulation and Forecasting Tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4579.md)
 
-## This Technology belongs to this TechGroup
-
-* [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_10.md)
-
 ## This Technology is identified by the following QID
 
 * [Q816754](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q816754.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Benchmarking](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_172.md)
+
+## This Technology belongs to this TechGroup
+
+* [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_10.md)
 

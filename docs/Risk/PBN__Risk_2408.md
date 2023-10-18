@@ -2,15 +2,9 @@
 
 # __Spread of infection__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Quarantines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_18.md)
-* [Testing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_21.md)
-* [Edge expansion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_23.md)
-* [Informal settlements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_24.md)
-* [Access to adequate sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_25.md)
-* [Quarantine/isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_249.md)
-* [Teleconsultations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_616.md)
+* [The dissemination of infectious diseases, characterized by outbreaks from various sources, inadequate preparedness, and insufficient reporting and understanding, poses a global threat.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_106.md)
 
 ## Closest similar item
 
@@ -24,4 +18,14 @@
 * [Spread of infection in crowded spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3410.md)
 * [Spread of infections through surface touch](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2475.md)
 * [Spread of Virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2518.md)
+
+## Mitigations of this risk
+
+* [Quarantines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_18.md)
+* [Testing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_21.md)
+* [Edge expansion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_23.md)
+* [Informal settlements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_24.md)
+* [Access to adequate sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_25.md)
+* [Quarantine/isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_249.md)
+* [Teleconsultations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_616.md)
 

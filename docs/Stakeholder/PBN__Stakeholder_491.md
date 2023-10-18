@@ -2,13 +2,9 @@
 
 # __youth__
 
-## This Stakeholder can get these Benefits from mitigation measures
+## Category to which it belongs
 
-* [Increased inclusivity and accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1250.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q1367219](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1367219.md)
+* [Individuals of different ages, including children, parents, migrants, and vulnerable groups, such as women and racial minorities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_389.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [older adults](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_461.md)
 * [Older adults](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2150.md)
 * [all age groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_327.md)
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Increased inclusivity and accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1250.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q1367219](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1367219.md)
 

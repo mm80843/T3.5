@@ -2,9 +2,9 @@
 
 # __temporary use agreements__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q321839](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q321839.md)
+* [Advancements in biotechnology, clinical research, and innovative therapies contribute to the development of medical solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [flexible work policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_126.md)
 * [legal frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1431.md)
 * [access control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_329.md)
+
+## This Technology is identified by the following QID
+
+* [Q321839](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q321839.md)
 

@@ -2,9 +2,9 @@
 
 # __Mental health issues among healthcare professionals__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Training for healthcare professionals in psychosocial skills](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1340.md)
+* [The toll of mental health harms, health harming behaviors, and the psychological impact of quarantine, fear, and anxiety has increased, affecting various populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_95.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Mental and physical health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2460.md)
 * [Increased mental and physical health problems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3087.md)
 * [Mental health impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1161.md)
+
+## Mitigations of this risk
+
+* [Training for healthcare professionals in psychosocial skills](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1340.md)
 

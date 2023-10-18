@@ -2,9 +2,9 @@
 
 # __use of drainage design and maintenance techniques__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q7481320](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7481320.md)
+* [Improvements in wastewater, waste management, sanitation, water purification, and plumbing technologies aim for sustainable and efficient infrastructure development.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_234.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [water treatment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4367.md)
 * [moisture management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4068.md)
 * [proper sewage and treatment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4276.md)
+
+## This Technology is identified by the following QID
+
+* [Q7481320](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7481320.md)
 

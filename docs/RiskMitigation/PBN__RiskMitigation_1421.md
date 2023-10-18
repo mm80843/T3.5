@@ -2,17 +2,9 @@
 
 # __Implementation of IoT__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Ineffective reachability to patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_997.md)
-* [Increased workload for medical staff](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_998.md)
-* [Lack of monitoring system for high-risk patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_999.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved patient care](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1390.md)
-* [Increased efficiency of medical staff](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1391.md)
-* [Remote patient monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_485.md)
+* [Facilitate transparent communication, enabling reliable information sharing through standardized protocols and effective channels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_0.md)
 
 ## Closest similar item
 
@@ -26,4 +18,16 @@
 * [Development of IoMT applications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_464.md)
 * [Water digitalization and IoT](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_805.md)
 * [IoT monitoring and alert systems; prioritization of activities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3039.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved patient care](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1390.md)
+* [Increased efficiency of medical staff](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1391.md)
+* [Remote patient monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_485.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Ineffective reachability to patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_997.md)
+* [Increased workload for medical staff](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_998.md)
+* [Lack of monitoring system for high-risk patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_999.md)
 

@@ -2,9 +2,9 @@
 
 # __iaq experts__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Lack of IAQ monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2020.md)
+* [Experts from various fields including research, risk assessment, education, science, HVAC, and IT.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_356.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [IT expert](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2610.md)
 * [AI company](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2655.md)
 * [communication experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_831.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Lack of IAQ monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2020.md)
 

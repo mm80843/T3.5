@@ -2,9 +2,9 @@
 
 # __questionnaire design__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Standardized questionnaires](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_587.md)
+* [Design and construction professionals use innovative techniques and strategies to create adaptable, sustainable, and inclusive buildings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_217.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [web surveys](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3187.md)
 * [self-assessment applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1655.md)
 * [online survey platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4318.md)
+
+## This Technology enables the following mitigations
+
+* [Standardized questionnaires](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_587.md)
 

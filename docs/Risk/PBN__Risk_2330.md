@@ -2,25 +2,9 @@
 
 # __Influence of preprints on public health decisions__
 
-## Property: has_RiskHealth
+## Category to which it belongs
 
-* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Description of the risk
-
-Preprints can influence public health policies, but they may contain incomplete or unreliable information.
-
-## Property: has_RiskType
-
-* [political](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_1.md)
-
-## Articles mentionning the risk
-
-* [Rise of the preprint: how rapid data sharing during COVID-19 has changed science forever](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_173.md)
+* [The intersection of human activity and health, integrating databases, limited healthcare access, sedentary lifestyles, neglecting public health requirements, and disparities in urban design contribute to public health concerns.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_116.md)
 
 ## Closest similar item
 
@@ -35,33 +19,53 @@ Preprints can influence public health policies, but they may contain incomplete 
 * [Limited mandate on public health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2850.md)
 * [Politicization of public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1586.md)
 
-## People affected by this risk
+## Description of the risk
 
-* [public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_222.md)
-* [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
+Preprints can influence public health policies, but they may contain incomplete or unreliable information.
+
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Property: has_RiskHealth
+
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_4.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+
+## Mitigations of this risk
+
+* [Public health agencies should evaluate multiple sources of evidence and consider the quality and reliability of preprints before making decisions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3031.md)
+
+## Name of the risk
+
+Incorrect or incomplete information can lead to ineffective policies and public confusion.
 
 ## Stakeholders who can mitigate this risk
 
 * [public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_222.md)
 * [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
 
-## Name of the risk
+## Articles mentionning the risk
 
-Incorrect or incomplete information can lead to ineffective policies and public confusion.
+* [Rise of the preprint: how rapid data sharing during COVID-19 has changed science forever](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_173.md)
 
-## Mitigations of this risk
+## People affected by this risk
 
-* [Public health agencies should evaluate multiple sources of evidence and consider the quality and reliability of preprints before making decisions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3031.md)
-
-## Property: has_RiskISO_Purpose
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+* [public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_222.md)
+* [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
 
 ## Technologies linked to the risk
 
 * [improved evaluation and synthesis of preprint data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1923.md)
+
+## Property: has_RiskType
+
+* [political](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_1.md)
 

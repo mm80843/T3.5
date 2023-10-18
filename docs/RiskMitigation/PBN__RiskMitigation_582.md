@@ -2,13 +2,9 @@
 
 # __Increase investment in healthcare__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Surge demands of critical care facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_419.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_576.md)
+* [Promote public health through policy implementation, strengthened systems, health literacy, and targeted interventions for vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_314.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Increase public health funding](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_621.md)
 * [Strengthen healthcare infrastructure, increase resources and capacity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2286.md)
 * [Improve healthcare facilities, increase capacity and resources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2474.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_576.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Surge demands of critical care facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_419.md)
 

@@ -2,9 +2,9 @@
 
 # __automated face recognition systems__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1192553](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1192553.md)
+* [Advanced technologies and algorithms for modeling, simulation, optimization, and artificial intelligence in various applications, including robotics and computational fluid dynamics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_239.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [voice and face recognition](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4293.md)
 * [Face and voice recognition](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4553.md)
 * [biometrics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_99.md)
+
+## This Technology is identified by the following QID
+
+* [Q1192553](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1192553.md)
 

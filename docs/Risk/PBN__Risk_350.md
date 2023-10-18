@@ -2,9 +2,9 @@
 
 # __Limited access to green views during COVID-19 containment__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Increase availability of green views](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_461.md)
+* [The far-reaching consequences of COVID-19 include its transmission through various settings, impact on urban areas, and scarcity of resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Limited access to COVID-19 data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1719.md)
 * [Decreased visitation to urban green spaces during COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_347.md)
 * [Reduced access to UGS during COVID-19 restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2254.md)
+
+## Mitigations of this risk
+
+* [Increase availability of green views](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_461.md)
 

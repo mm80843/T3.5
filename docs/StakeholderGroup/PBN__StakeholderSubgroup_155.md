@@ -2,9 +2,9 @@
 
 # __Cybersecurity__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [cybersecurity expert](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2609.md)
+* [Social networks, individuals, groups, technology, and protection, all interrelated in the context of communities and online safety.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_266.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Internet Companies](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_158.md)
 * [Digital and Information Access](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_105.md)
 * [Social Services](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_40.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [cybersecurity expert](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2609.md)
 

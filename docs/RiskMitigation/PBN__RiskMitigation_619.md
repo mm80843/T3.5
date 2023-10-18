@@ -2,13 +2,9 @@
 
 # __Research on sustainable solutions__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_446.md)
-
-## Property: has_MitigationBenefit
-
-* [Accelerated sustainability transitions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_625.md)
+* [Efforts include RNA monitoring, occupant exposure modeling, targeted messages, adoption of principles, copper coating, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_311.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Sustainable site management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1395.md)
 * [Seeking short-term relief and long-term sustainable solutions for financial stability.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2090.md)
 * [Create self-dependent and sustainable services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2892.md)
+
+## Property: has_MitigationBenefit
+
+* [Accelerated sustainability transitions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_625.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_446.md)
 

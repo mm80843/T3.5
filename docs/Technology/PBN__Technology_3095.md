@@ -2,9 +2,9 @@
 
 # __touch screen control tablet__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Surfacide UV-C Disinfection System](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_252.md)
+* [A comprehensive list of mobile applications, including contact-tracing apps, mental health apps, mobile banking, and fitness tracking devices, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_197.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [smartphone control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3863.md)
 * [screens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4292.md)
 * [touchless household technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1726.md)
+
+## This Technology enables the following mitigations
+
+* [Surfacide UV-C Disinfection System](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_252.md)
 

@@ -2,9 +2,9 @@
 
 # __budgeting tools__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q41263](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q41263.md)
+* [Maximizing economic efficiency while promoting financial stability through innovative strategies, investments, and partnerships at various levels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_195.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [project management tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_633.md)
 * [fund management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1416.md)
 * [production optimization tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_10.md)
+
+## This Technology is identified by the following QID
+
+* [Q41263](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q41263.md)
 

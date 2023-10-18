@@ -2,15 +2,9 @@
 
 # __protocols__
 
-## Risks linked to this technology
+## Category to which it belongs
 
-* [Governance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1099.md)
-* [Ineffective administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1323.md)
-
-## This Technology enables the following mitigations
-
-* [Monitoring and compliance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2039.md)
-* [Improved waste management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2243.md)
+* [Enhanced connectivity and diverse communication platforms enable the dissemination of reliable information and promote open communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_225.md)
 
 ## Closest similar item
 
@@ -24,4 +18,14 @@
 * [uniformity of protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2972.md)
 * [study protocol platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4419.md)
 * [cybersecurity protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_579.md)
+
+## This Technology enables the following mitigations
+
+* [Monitoring and compliance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2039.md)
+* [Improved waste management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2243.md)
+
+## Risks linked to this technology
+
+* [Governance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1099.md)
+* [Ineffective administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1323.md)
 

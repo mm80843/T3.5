@@ -2,9 +2,9 @@
 
 # __ministry of health__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [High population of foreign nationals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1885.md)
+* [Those involved in the provision and management of healthcare services, including workers, professionals, facilities, and users.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_355.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1874.md)
 * [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
 * [health department](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1451.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [High population of foreign nationals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1885.md)
 

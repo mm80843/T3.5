@@ -2,9 +2,9 @@
 
 # __UV disinfection systems__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
-* [Sanitation and Safety](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_123.md)
+* [The implementation of various disinfection methods, improved cleaning and sanitization protocols, and the use of eco-friendly disinfectants and advanced technologies have been prioritized.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_199.md)
 
 ## Closest similar item
 
@@ -19,12 +19,16 @@
 * [uv-c light disinfection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1253.md)
 * [UV-C light disinfection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2705.md)
 
+## This Technology is identified by the following QID
+
+* [Q24887418](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q24887418.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Sanitation and Safety](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_123.md)
+
 ## This Technology belongs to this TechGroup
 
 * [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_12.md)
 * [Indoor air technlogies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_18.md)
-
-## This Technology is identified by the following QID
-
-* [Q24887418](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q24887418.md)
 

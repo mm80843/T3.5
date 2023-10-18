@@ -2,9 +2,9 @@
 
 # __Store donation process in blockchain for transparency and verification, reducing corruption and improving social trust__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Corruption in donation process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1241.md)
+* [Enable transparent and secure data management, traceability, and efficient distribution while promoting accurate information dissemination and verification.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_321.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement blockchain for transparent and efficient supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2704.md)
 * [Store news and information on blockchain to prevent alteration, traceability, and prevention of false information spread](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1700.md)
 * [Digitally data storage using blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1055.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Corruption in donation process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1241.md)
 

@@ -2,13 +2,9 @@
 
 # __Revamp Education and Training__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Automation Disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_370.md)
-
-## Property: has_MitigationBenefit
-
-* [Development of flexible skill sets](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_479.md)
+* [Enrich education through digital tools, virtual experiences, remote learning, and alternative forms of exercise and interaction.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_3.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Provide virtual reality-based training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2738.md)
 * [Education and Awareness Campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_867.md)
 * [Implement novel techniques such as flipped classrooms, video lectures, and teleconferencing.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1741.md)
+
+## Property: has_MitigationBenefit
+
+* [Development of flexible skill sets](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_479.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Automation Disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_370.md)
 

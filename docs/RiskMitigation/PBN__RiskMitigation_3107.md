@@ -2,9 +2,9 @@
 
 # __Regular inspection and maintenance of drainage systems, proper sealing of traps and regular replacement of trap seals.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Contaminated drainage systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2393.md)
+* [Promote environmentally-friendly waste management, sanitation, and maintenance practices, including rodent control, decontamination, and segregation of waste.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_340.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Regular cleaning and disinfection, maintaining good hygiene practices.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2961.md)
 * [Develop and implement proper cleaning and disinfection protocols, provide training and resources for cleaning staff, conduct regular inspections and audits.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1780.md)
 * [Improve maintenance and management practices, allocate sufficient resources for upkeep and maintenance, establish regular inspections and maintenance schedules](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2412.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Contaminated drainage systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2393.md)
 

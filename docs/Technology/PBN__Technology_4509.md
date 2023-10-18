@@ -2,9 +2,9 @@
 
 # __portable air cleaners (pac)__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [HEPA filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2466.md)
+* [Improved air quality can be achieved through the use of various technologies such as air purifiers and monitoring systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_221.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [portable air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3252.md)
 * [air extractors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4275.md)
 * [HVAC system cleaning equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2237.md)
+
+## This Technology enables the following mitigations
+
+* [HEPA filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2466.md)
 

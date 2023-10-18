@@ -2,9 +2,9 @@
 
 # __Lack of logical consistency__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Evaluate the use of the](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1248.md)
+* [Insufficient awareness, limited resources, inadequate communication, and lack of preparedness contribute to various challenges and deficiencies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_118.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of clear guidance and standards](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2477.md)
 * [Inadequate data quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_382.md)
 * [Loss of validity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1383.md)
+
+## Mitigations of this risk
+
+* [Evaluate the use of the](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1248.md)
 

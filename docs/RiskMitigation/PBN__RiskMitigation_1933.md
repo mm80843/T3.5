@@ -2,9 +2,9 @@
 
 # __Maintain physical distancing, use of personal protective equipment__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Transmission distance of SARS-CoV-2 aerosol](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1424.md)
+* [Enforce safety measures, promote responsible behavior, utilize PPE, and prioritize risk prevention to ensure adequate protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_342.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Environmental-Friendly Personal Protective Equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1281.md)
 * [Local strategies for isolation and physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_145.md)
 * [Ensure use of personal protection equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3310.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Transmission distance of SARS-CoV-2 aerosol](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1424.md)
 

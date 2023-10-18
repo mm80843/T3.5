@@ -2,9 +2,9 @@
 
 # __Digital contact tracing application__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [digital technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2920.md)
+* [Mapping, tracking, and monitoring tools for contact tracing and tracking movements and transmission through various apps and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_158.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Testing and Contact Tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1736.md)
 * [Contact tracing and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_542.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Contagious disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1021.md)
-
 ## Property: has_MitigationPrinciple
 
 Gathering information on individuals with symptoms for isolation measures
 
+## Risks possibly mitigated by this Mitigation
+
+* [Contagious disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1021.md)
+
 ## Property: has_MitigationSource
 
 * [Exploring the Non-Medical impacts of Covid-19 using Natural Language Processing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_114.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [digital technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2920.md)
 

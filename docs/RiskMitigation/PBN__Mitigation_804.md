@@ -2,11 +2,9 @@
 
 # __Support at individual level__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3463.md)
-* [collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_151.md)
-* [material support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3464.md)
+* [Promoting well-being and resilience through various forms of support, resources, and assistance for individuals in need.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_143.md)
 
 ## Closest similar item
 
@@ -21,14 +19,20 @@
 * [Exclusion from government support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2970.md)
 * [Support life-saving equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2971.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Facilitate communication and collaboration among healthcare professionals and provide material support to address individual needs.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Management of the COVID-19 pandemic: challenges, practices, and organizational support](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_92.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3463.md)
+* [collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_151.md)
+* [material support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3464.md)
 

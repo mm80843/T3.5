@@ -2,9 +2,9 @@
 
 # __High-Efficiency Particulate Air (HEPA) Filters__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_674.md)
+* [Enhanced air purification through the use of high-efficiency filters, ventilation, UV sterilization, and mechanical filtration systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_178.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Improve indoor air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_980.md)
 * [Improve air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_727.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Poor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_712.md)
-
 ## Property: has_MitigationPrinciple
 
 Installing HEPA filters in indoor spaces to capture and remove airborne particles, including infectious agents
 
+## Risks possibly mitigated by this Mitigation
+
+* [Poor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_712.md)
+
 ## Property: has_MitigationSource
 
 * [Psychological Effects of Home Confinement and Social Distancing Derived from COVID-19 in the General Population—A Systematic Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_126.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_674.md)
 

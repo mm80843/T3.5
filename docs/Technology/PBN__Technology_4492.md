@@ -2,9 +2,9 @@
 
 # __blood collection technology__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Blood test automation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2423.md)
+* [Advancements in biotechnology, clinical research, and innovative therapies contribute to the development of medical solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Data collection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2528.md)
 * [better laboratory equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1546.md)
 * [digital health technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3327.md)
+
+## This Technology enables the following mitigations
+
+* [Blood test automation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2423.md)
 

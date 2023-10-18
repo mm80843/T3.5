@@ -2,9 +2,9 @@
 
 # __rodenticides__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Rat Management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1147.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [corticosteroids](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3921.md)
 * [disinfectant sprays](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_672.md)
 * [Disinfectant sprays](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2220.md)
+
+## This Technology enables the following mitigations
+
+* [Rat Management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1147.md)
 

@@ -2,9 +2,9 @@
 
 # __github repositories__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Shareable data formats](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_575.md)
+* [Urban green space solutions include tree planting, zoning regulations, landscape architecture, community gardens, outdoor furniture, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_231.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Geographic Information Systems (GIS)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2862.md)
 * [project updates](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_818.md)
 * [trusted sources certification](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_938.md)
+
+## This Technology enables the following mitigations
+
+* [Shareable data formats](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_575.md)
 

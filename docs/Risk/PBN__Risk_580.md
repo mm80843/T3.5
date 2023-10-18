@@ -2,9 +2,9 @@
 
 # __Lack of real-time data for policy intervention__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Developing a COVID-19 dashboard](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_813.md)
+* [The challenges include disintegrated and non-interoperable data, limited data access, data quality issues, and lack of standardized data sharing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_111.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of surveillance and control measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1068.md)
 * [Lack of data for AI models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1798.md)
 * [Lack of data support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2002.md)
+
+## Mitigations of this risk
+
+* [Developing a COVID-19 dashboard](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_813.md)
 

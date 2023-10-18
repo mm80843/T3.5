@@ -2,14 +2,9 @@
 
 # __infected individuals__
 
-## This Stakeholder can get these Benefits from mitigation measures
+## Category to which it belongs
 
-* [Reduction in transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_262.md)
-* [Segregation of infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1302.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q54806980](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q54806980.md)
+* [All people, especially those at risk or facing various circumstances, including age, health conditions, or unemployment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_374.md)
 
 ## Closest similar item
 
@@ -23,4 +18,13 @@
 * [individual in close proximity to infected individual](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2122.md)
 * [individuals who come into contact with infected individuals or contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_796.md)
 * [individual in close proximity to an infected person](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2303.md)
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Reduction in transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_262.md)
+* [Segregation of infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1302.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q54806980](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q54806980.md)
 

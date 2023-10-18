@@ -2,9 +2,9 @@
 
 # __Implement stricter vehicle emissions standards, promote electric vehicles and low-carbon fuels, improve public transport and active travel options__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Transport-related greenhouse gas emissions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1220.md)
+* [Implement travel restrictions, promote active transportation, streamline processes, provide accurate information, and develop sustainable transport options.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_325.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement policies to reduce inequality in access to green areas, provide subsidies or incentives for low-income individuals, and improve transportation options](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2927.md)
 * [Strengthen climate action, reduce greenhouse gas emissions, promote sustainable practices.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2669.md)
 * [Implement travel restrictions, reduce travel demand, promote alternative methods of essential supply](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1846.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Transport-related greenhouse gas emissions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1220.md)
 

@@ -2,13 +2,9 @@
 
 # __5g__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Smart city infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1867.md)
-* [Accelerating Transition towards Digitalization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1875.md)
-* [Protection of healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2249.md)
-* [5G technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2023.md)
-* [Self-isolation and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1948.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [massive mimo](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4152.md)
 * [wi-fi](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4019.md)
 * [broadband internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4446.md)
+
+## This Technology enables the following mitigations
+
+* [Smart city infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1867.md)
+* [Accelerating Transition towards Digitalization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1875.md)
+* [Protection of healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2249.md)
+* [5G technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2023.md)
+* [Self-isolation and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1948.md)
 

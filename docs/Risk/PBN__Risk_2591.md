@@ -2,9 +2,9 @@
 
 # __Overcrowding, lack of green space__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Visible and accessible green elements and spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_496.md)
+* [Limited access, funding, and maintenance of green spaces exacerbate inequalities, allergies, and negative perceptions in urban areas.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_121.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Poor quality of green space in disadvantaged communities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_144.md)
 * [Overcrowding and lack of ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1164.md)
 * [Overcrowding in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1022.md)
+
+## Mitigations of this risk
+
+* [Visible and accessible green elements and spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_496.md)
 

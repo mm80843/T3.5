@@ -2,9 +2,9 @@
 
 # __Biological and geophysical sounds__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [acoustic technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3371.md)
+* [Promoting exercise and physical activity through various strategies, monitoring, guidelines, programs, and adaptations, while considering barriers and analyzing movement patterns.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_159.md)
 
 ## Closest similar item
 
@@ -19,14 +19,18 @@
 * [Consideration of noise levels](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_653.md)
 * [Consideration of Noise Levels](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1764.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Incorporating natural sounds, such as bird calls and rustling of leaves, and geophysical sounds, such as wind and water, into urban green spaces to promote mental restoration and a sense of tranquility for humans.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Green infrastructure through the lens of “One Health”: A systematic review and integrative framework uncovering synergies and trade-offs between mental health and wildlife support in cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_150.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [acoustic technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3371.md)
 

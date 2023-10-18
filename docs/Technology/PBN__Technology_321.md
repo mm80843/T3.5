@@ -2,9 +2,9 @@
 
 # __governance mechanisms__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1553864](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1553864.md)
+* [Government actions and regulations addressing various aspects of society, including policy changes, ethical frameworks, governance mechanisms, and public announcements.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_216.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [strengthened regulation and oversight](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4382.md)
 * [data governance agreements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_517.md)
 * [regulatory oversight](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_267.md)
+
+## This Technology is identified by the following QID
+
+* [Q1553864](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1553864.md)
 

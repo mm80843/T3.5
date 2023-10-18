@@ -2,25 +2,9 @@
 
 # __Gender differences in green space benefits__
 
-## Property: has_RiskHealth
+## Category to which it belongs
 
-* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Description of the risk
-
-The effects of green features may vary between males and females, with different impacts on psychological health outcomes.
-
-## Property: has_RiskType
-
-* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
-
-## Articles mentionning the risk
-
-* [Association between indoor-outdoor green features and psychological health during the COVID-19 lockdown in Italy: A cross-sectional nationwide study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_146.md)
+* [Limited access, funding, and maintenance of green spaces exacerbate inequalities, allergies, and negative perceptions in urban areas.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_121.md)
 
 ## Closest similar item
 
@@ -35,14 +19,33 @@ The effects of green features may vary between males and females, with different
 * [Exposure to greenspace and physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_172.md)
 * [Neglected green space quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_533.md)
 
-## People affected by this risk
+## Description of the risk
 
-* [males and females](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1422.md)
-* [individuals with different gender identities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1423.md)
+The effects of green features may vary between males and females, with different impacts on psychological health outcomes.
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Property: has_RiskHealth
+
+* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_0.md)
+
+## Mitigations of this risk
+
+* [Conduct gender-specific research on green space benefits, develop targeted interventions based on gender.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2768.md)
+
+## Name of the risk
+
+Different mental well-being outcomes for males and females, different levels of psychological distress.
 
 ## Stakeholders who can mitigate this risk
 
@@ -50,20 +53,21 @@ The effects of green features may vary between males and females, with different
 * [community organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_150.md)
 * [research institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_413.md)
 
-## Name of the risk
+## Articles mentionning the risk
 
-Different mental well-being outcomes for males and females, different levels of psychological distress.
+* [Association between indoor-outdoor green features and psychological health during the COVID-19 lockdown in Italy: A cross-sectional nationwide study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_146.md)
 
-## Mitigations of this risk
+## People affected by this risk
 
-* [Conduct gender-specific research on green space benefits, develop targeted interventions based on gender.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2768.md)
-
-## Property: has_RiskISO_Purpose
-
-* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_0.md)
+* [males and females](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1422.md)
+* [individuals with different gender identities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1423.md)
 
 ## Technologies linked to the risk
 
 * [gender-sensitive interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1622.md)
 * [gender-specific research studies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1621.md)
+
+## Property: has_RiskType
+
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 

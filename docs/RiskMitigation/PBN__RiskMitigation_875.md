@@ -2,13 +2,9 @@
 
 # __Strategic alignment processes__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Fragmented urban planning and service delivery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_632.md)
-
-## Property: has_MitigationBenefit
-
-* [Integrated planning and delivery](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_876.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Simplify supply chain structures, build collaborative relationships, enhance communication and coordination among stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2346.md)
 * [Planning and coordination](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_578.md)
 * [Strengthen coordination and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1034.md)
+
+## Property: has_MitigationBenefit
+
+* [Integrated planning and delivery](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_876.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Fragmented urban planning and service delivery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_632.md)
 

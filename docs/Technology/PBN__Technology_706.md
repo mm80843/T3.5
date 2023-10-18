@@ -2,9 +2,9 @@
 
 # __temperature adjustments in data analysis__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1862336](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1862336.md)
+* [Various technologies and devices are used to measure and regulate temperature, including cameras, scanners, sensors, and thermostats.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_220.md)
 
 ## Risks linked to this technology
 
@@ -23,4 +23,8 @@
 * [temperature sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3044.md)
 * [temperature monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4112.md)
 * [temperature screening technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_744.md)
+
+## This Technology is identified by the following QID
+
+* [Q1862336](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1862336.md)
 

@@ -2,9 +2,9 @@
 
 # __ipcr__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Improved coordination at federal level](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_994.md)
+* [Enhanced connectivity and diverse communication platforms enable the dissemination of reliable information and promote open communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_225.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [rt-qpcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4479.md)
 * [encryption tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2602.md)
 * [digital communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_719.md)
+
+## This Technology enables the following mitigations
+
+* [Improved coordination at federal level](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_994.md)
 

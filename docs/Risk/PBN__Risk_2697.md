@@ -2,9 +2,9 @@
 
 # __Higher costs and complexity__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Personalized Indoor Controls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_714.md)
+* [The ramifications of global connectivity include economic instability, impacts of the pandemic, unemployment, poverty, reduced tourism revenue, and decline in public budgets.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_103.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inefficient decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3038.md)
 * [High cost, technical expertise](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2994.md)
 * [Technological limitations and dependencies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2100.md)
+
+## Mitigations of this risk
+
+* [Personalized Indoor Controls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_714.md)
 

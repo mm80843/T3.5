@@ -2,13 +2,9 @@
 
 # __Strengthen risk management and cooperation__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Shocks in global value chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_251.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced risk management and cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_312.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Treat risk communication as a process](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_923.md)
 * [Strengthen coordination and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1034.md)
 * [Acknowledge diverse levels of risk tolerance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_926.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced risk management and cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_312.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Shocks in global value chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_251.md)
 

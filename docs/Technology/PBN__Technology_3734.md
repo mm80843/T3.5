@@ -2,9 +2,9 @@
 
 # __hot water of at least 70°c__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Hot water availability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1218.md)
+* [Various technologies and devices are used to measure and regulate temperature, including cameras, scanners, sensors, and thermostats.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_220.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3087.md)
 * [automatic control of temperature](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1733.md)
 * [temperature screenings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_701.md)
+
+## This Technology enables the following mitigations
+
+* [Hot water availability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1218.md)
 

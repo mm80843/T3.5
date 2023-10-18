@@ -2,9 +2,9 @@
 
 # __ensure proper daylight exposure in bedrooms and create dark environments for restful sleep__
 
-## Risks linked to this technology
+## Category to which it belongs
 
-* [Insufficient bedroom design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1893.md)
+* [Innovative lighting solutions harnessing ultraviolet technology for optimal germicidal sterilization and energy efficiency, while maximizing natural light.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_235.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [well-lit environment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4330.md)
 * [access to natural light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3441.md)
 * [use operable windows and shading devices for natural ventilation and temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1268.md)
+
+## Risks linked to this technology
+
+* [Insufficient bedroom design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1893.md)
 

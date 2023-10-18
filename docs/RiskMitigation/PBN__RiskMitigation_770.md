@@ -2,13 +2,9 @@
 
 # __Compliance Indicator__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Low compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_541.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved control of epidemic](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_773.md)
+* [Enforce safety measures, promote responsible behavior, utilize PPE, and prioritize risk prevention to ensure adequate protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_342.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Coordinate and align policies across states, improve public education and communication on compliance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2361.md)
 * [Improve public awareness and understanding of the importance of prevention measures, enforce compliance with guidelines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3094.md)
 * [Promoting regular testing, contact tracing, and adherence to preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1704.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved control of epidemic](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_773.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Low compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_541.md)
 

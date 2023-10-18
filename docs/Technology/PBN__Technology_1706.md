@@ -2,9 +2,9 @@
 
 # __dna barcoding__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1154642](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1154642.md)
+* [Advancements in biotechnology, clinical research, and innovative therapies contribute to the development of medical solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [mrna](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4473.md)
 * [nucleic acid-based polymerase chain reaction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3071.md)
 * [nucleic acid-based polymerase chain reaction (pcr)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3278.md)
+
+## This Technology is identified by the following QID
+
+* [Q1154642](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1154642.md)
 

@@ -2,11 +2,9 @@
 
 # __Wireless data transmission__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [wireless data transmission (3g](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3385.md)
-* [wi-fi)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3387.md)
-* [4g](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3386.md)
+* [Improved data management and sharing for efficient and secure information exchange and analysis across various platforms and stakeholders.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_182.md)
 
 ## Closest similar item
 
@@ -21,14 +19,20 @@
 * [communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2941.md)
 * [Communication technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2942.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Transmit IEQ data to cloud server wirelessly for remote monitoring and analysis
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [An Intelligent IEQ Monitoring and Feedback System: Development and Applications](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_62.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [wireless data transmission (3g](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3385.md)
+* [wi-fi)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3387.md)
+* [4g](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3386.md)
 

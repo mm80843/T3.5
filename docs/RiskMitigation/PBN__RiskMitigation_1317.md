@@ -2,13 +2,9 @@
 
 # __Increase awareness of the value of green areas__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Limited understanding of the value and meaning of green areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_948.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced appreciation of green areas](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1297.md)
+* [Promote biodiversity and sustainable urban development through the establishment and accessibility of green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_322.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Adapt green area management to "new normal" lifestyle](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1318.md)
 * [Improve transportation to green areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1313.md)
 * [Increase in the number and accessibility of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_982.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced appreciation of green areas](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1297.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limited understanding of the value and meaning of green areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_948.md)
 

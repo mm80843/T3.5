@@ -2,9 +2,9 @@
 
 # __room to member ratio__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Personal space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_557.md)
+* [Design and construction professionals use innovative techniques and strategies to create adaptable, sustainable, and inclusive buildings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_217.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [modular spacing systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2992.md)
 * [capacity building](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_451.md)
 * [energy reduction ratio](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4262.md)
+
+## This Technology enables the following mitigations
+
+* [Personal space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_557.md)
 

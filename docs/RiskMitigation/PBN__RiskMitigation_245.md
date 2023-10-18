@@ -2,13 +2,9 @@
 
 # __Urban/community farming__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [LC2: Local services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_206.md)
-
-## Property: has_MitigationBenefit
-
-* [Local food production](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_256.md)
+* [Enhance local self-sufficiency in shopping, recreation, and food production, while promoting sustainable practices and supporting resilient economies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_344.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Increase access to private gardens, allocate dedicated time slots for outdoor activities, create temporary green spaces in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1770.md)
 * [Invest in agricultural technology, promote sustainable farming practices.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2662.md)
 * [Supporting local communities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_132.md)
+
+## Property: has_MitigationBenefit
+
+* [Local food production](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_256.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [LC2: Local services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_206.md)
 

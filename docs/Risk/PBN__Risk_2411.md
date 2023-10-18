@@ -2,9 +2,9 @@
 
 # __Risk communication__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Crisis-information repositories](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_27.md)
+* [Health and safety concerns, risk communication strategy, and inadequate personal protective equipment are all indicative of potential hazards and vulnerabilities in various settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_126.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Psychological Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_84.md)
 * [Increased risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2956.md)
 * [Communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3216.md)
+
+## Mitigations of this risk
+
+* [Crisis-information repositories](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_27.md)
 

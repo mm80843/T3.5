@@ -2,13 +2,9 @@
 
 # __Data mining for insights__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Limited access to data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_723.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced research effect](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1008.md)
+* [Advancements in bioinformatics, divestment, automated sample collection, and artificial intelligence are facilitating early disease detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_336.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Explore alternative data collection methods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1390.md)
 * [Big data analytics for case identification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_99.md)
 * [Big data and AI forecasting](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_634.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced research effect](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1008.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limited access to data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_723.md)
 

@@ -2,9 +2,9 @@
 
 # __visitors to ugs__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Inadequate maintenance of UGS](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1693.md)
+* [Foreign nationals residing in or visiting various destinations for tourism, with a focus on travelers during the pandemic and the industries reliant on tourism, such as hotels, tourism operators, and tourism boards.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_380.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [visitors to pois](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1585.md)
 * [resident and visitor](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2528.md)
 * [tourists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_72.md)
+
+## Risk affecting this stakeholder
+
+* [Inadequate maintenance of UGS](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1693.md)
 

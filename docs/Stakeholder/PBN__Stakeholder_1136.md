@@ -2,9 +2,9 @@
 
 # __population at large is at risk__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Impact of indoor and outdoor conditions on influenza seasonality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1708.md)
+* [Individuals and communities affected by pandemics, particularly in Kalimantan and Papua, individuals infected with HIV, vulnerable populations, and countries reliant on specific suppliers and participating in global value chains face various risks.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_365.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Vulnerable population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2395.md)
 * [communities at high risk](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1349.md)
 * [at-risk populations (e.g. elderly)](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_163.md)
+
+## Risk affecting this stakeholder
+
+* [Impact of indoor and outdoor conditions on influenza seasonality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1708.md)
 

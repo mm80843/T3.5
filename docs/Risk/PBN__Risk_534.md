@@ -2,11 +2,9 @@
 
 # __Decreasing interest in news__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Promote public health](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_767.md)
-* [Diversify information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_765.md)
-* [Promote reliable sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_759.md)
+* [Financial vulnerability and instability permeate various sectors and industries, hindering growth, sustainability, and access to resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_114.md)
 
 ## Closest similar item
 
@@ -20,4 +18,10 @@
 * [Spreading inaccurate news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3131.md)
 * [Divergent interests](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3372.md)
 * [Decreased job opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2844.md)
+
+## Mitigations of this risk
+
+* [Promote public health](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_767.md)
+* [Diversify information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_765.md)
+* [Promote reliable sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_759.md)
 

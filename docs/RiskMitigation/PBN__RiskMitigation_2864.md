@@ -2,9 +2,9 @@
 
 # __Select anti-microbial materials__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [PVP4](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2193.md)
+* [Implement rigorous cleaning and disinfection measures, including the use of antimicrobial materials and advanced technologies, to maintain a safe and hygienic environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_2.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Continuously active antimicrobial coating](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1190.md)
 * [Replace stainless steel surfaces with copper coatings, which have antimicrobial properties.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2015.md)
 * [Development of continuously active antimicrobial coatings and self-disinfecting surfaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2035.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [PVP4](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2193.md)
 

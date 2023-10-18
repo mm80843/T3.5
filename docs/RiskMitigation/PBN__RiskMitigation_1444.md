@@ -2,13 +2,9 @@
 
 # __Establish reliable filters__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Information overload during pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1013.md)
-
-## Property: has_MitigationBenefit
-
-* [Increased signal-to-noise ratio](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1412.md)
+* [Enhancing air quality through effective air filtration, ventilation, and pollution reduction strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_338.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Regular monitoring and maintenance of filters, prevention of microbial growth.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2999.md)
 * [Air filtration with HEPA filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_845.md)
 * [Implement data filtering and nan analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2737.md)
+
+## Property: has_MitigationBenefit
+
+* [Increased signal-to-noise ratio](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1412.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Information overload during pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1013.md)
 

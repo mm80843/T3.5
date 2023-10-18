@@ -2,11 +2,9 @@
 
 # __Insurance__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [insurance companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_358.md)
-* [insurance company](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1973.md)
-* [insurance subscriber](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1928.md)
+* [Financial protection against potential loss or harm.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_268.md)
 
 ## Closest similar item
 
@@ -20,4 +18,10 @@
 * [Healthcare Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_45.md)
 * [Security and Law Enforcement](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_167.md)
 * [Owners](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_59.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [insurance companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_358.md)
+* [insurance company](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1973.md)
+* [insurance subscriber](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1928.md)
 

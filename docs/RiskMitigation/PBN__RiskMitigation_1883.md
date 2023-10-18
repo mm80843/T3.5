@@ -2,9 +2,9 @@
 
 # __Capture and report additional contextual factors (e.g., pandemic-related policies, restrictions, social and economic impacts) during data collection and analysis.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Contextual factors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1386.md)
+* [Promote standardized data collection, ontology-based representation, and enhanced data sharing to improve decision-making processes and data quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_319.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Proper handling of pandemic impact](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1405.md)
 * [Monitor and limit exposure to pandemic-related news, provide accurate and filtered information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2500.md)
 * [Implementing measures to balance the need for contact tracing and privacy, such as data retention for a limited period and lifting non-essential digital measures after the pandemic ends.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3045.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Contextual factors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1386.md)
 

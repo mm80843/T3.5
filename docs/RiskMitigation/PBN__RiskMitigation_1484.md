@@ -2,9 +2,9 @@
 
 # __Evaluate and compare the effectiveness of different virus concentration methods for enveloped viruses in wastewater__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Inconsistent results between concentration methods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1051.md)
+* [Implement comprehensive strategies to control virus transmission, improve surveillance, develop antiviral coatings, and enhance infection control measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_309.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Adjust wastewater temperature in data analysis to accurately estimate virus prevalence and inform public health responses.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1959.md)
 * [Proper ventilation and filtration to reduce the concentration of airborne viral particles.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1823.md)
 * [Research and development of antiviral technologies that are effective against a wider range of viruses.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2038.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inconsistent results between concentration methods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1051.md)
 

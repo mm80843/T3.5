@@ -2,14 +2,9 @@
 
 # __Smart City and Home Technologies__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [Smart city technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2477.md)
-* [Smart city technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2734.md)
-* [Smart city technology to optimize space and resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2725.md)
-* [smart home technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_351.md)
-* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2723.md)
-* [urban surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1550.md)
+* [Connected technologies for monitoring, tracking, and planning in urban areas and homes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_21.md)
 
 ## Closest similar item
 
@@ -23,4 +18,13 @@
 * [Apps and Mobile Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_22.md)
 * [Mobile and Healthcare Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_99.md)
 * [Touchless and Remote Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_53.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [Smart city technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2477.md)
+* [Smart city technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2734.md)
+* [Smart city technology to optimize space and resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2725.md)
+* [smart home technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_351.md)
+* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2723.md)
+* [urban surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1550.md)
 

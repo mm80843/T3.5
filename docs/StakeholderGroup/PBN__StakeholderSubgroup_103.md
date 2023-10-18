@@ -2,13 +2,9 @@
 
 # __Work and Living Environment__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [individual in enclosed space](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2260.md)
-* [Individual working remotely](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2271.md)
-* [individuals who come into contact with contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_667.md)
-* [person in residential and commercial building](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2254.md)
-* [person in space with poor air circulation and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2270.md)
+* [Quality of life factors encompassing the surroundings, health, physical activity, and eco-friendliness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_262.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Responsible or Working Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_78.md)
 * [Ecology](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_165.md)
 * [Indoor Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_24.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [individual in enclosed space](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2260.md)
+* [Individual working remotely](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2271.md)
+* [individuals who come into contact with contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_667.md)
+* [person in residential and commercial building](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2254.md)
+* [person in space with poor air circulation and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2270.md)
 

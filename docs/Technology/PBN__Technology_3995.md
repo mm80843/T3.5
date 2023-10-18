@@ -2,9 +2,9 @@
 
 # __alarms__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Alarm signals and LED screens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1669.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [emergency systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3052.md)
 * [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2457.md)
 * [monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3688.md)
+
+## This Technology enables the following mitigations
+
+* [Alarm signals and LED screens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1669.md)
 

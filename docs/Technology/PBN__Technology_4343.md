@@ -2,9 +2,9 @@
 
 # __cleaning and disinfecting agents__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_191.md)
+* [The implementation of various disinfection methods, improved cleaning and sanitization protocols, and the use of eco-friendly disinfectants and advanced technologies have been prioritized.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_199.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [proper cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_226.md)
 * [Proper cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2546.md)
 * [cleaning agents](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3292.md)
+
+## This Technology enables the following mitigations
+
+* [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_191.md)
 

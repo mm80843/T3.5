@@ -2,9 +2,9 @@
 
 # __community support__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Community-centered care](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1797.md)
+* [A range of community-centered initiatives, programs, and strategies foster participation, collaboration, and social support for diverse groups.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_236.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [online support groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_124.md)
 * [community mobilization efforts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2954.md)
 * [community mobilization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_77.md)
+
+## This Technology enables the following mitigations
+
+* [Community-centered care](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1797.md)
 

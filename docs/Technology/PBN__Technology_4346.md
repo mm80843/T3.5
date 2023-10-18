@@ -2,9 +2,9 @@
 
 # __voice recognition technology__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2148.md)
+* [Technological advancements encompass a wide range of innovations, such as blockchain, touchless, renewable energy, and communication technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [smartphone’s microphone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4593.md)
 * [facial recognition software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3788.md)
 * [soundproofing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1834.md)
+
+## This Technology enables the following mitigations
+
+* [Touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2148.md)
 

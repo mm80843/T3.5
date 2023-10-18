@@ -2,9 +2,9 @@
 
 # __Greywater separation technologies__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [greywater treatment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4365.md)
+* [Strengthening waste management and surveillance, utilizing wastewater-based epidemiology, to improve environmental sanitation and water quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_9.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_815.md)
 * [Access to alternative water sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2138.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Virus propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1032.md)
-
 ## Property: has_MitigationPrinciple
 
 Install greywater separation technologies to prevent the transport of viruses through wastewater
 
+## Risks possibly mitigated by this Mitigation
+
+* [Virus propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1032.md)
+
 ## Property: has_MitigationSource
 
 * [How to Make Green Building Certification \& Rating Systems More Pandemic-Sustainable?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_172.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [greywater treatment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4365.md)
 

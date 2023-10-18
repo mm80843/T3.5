@@ -2,15 +2,9 @@
 
 # __Robotics__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
-* [Contagious transmission in built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_323.md)
-
-## Property: has_MitigationBenefit
-
-* [Remote patient care and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_401.md)
-* [Reduced risk of contamination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1267.md)
+* [Advancements in bioinformatics, divestment, automated sample collection, and artificial intelligence are facilitating early disease detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_336.md)
 
 ## Closest similar item
 
@@ -24,4 +18,14 @@
 * [Planning and coordination](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_578.md)
 * [Deploy telehealth solutions, use of AI and robotics in healthcare, support research and development efforts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2400.md)
 * [Teleoperation technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_91.md)
+
+## Property: has_MitigationBenefit
+
+* [Remote patient care and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_401.md)
+* [Reduced risk of contamination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1267.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
+* [Contagious transmission in built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_323.md)
 

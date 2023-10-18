@@ -2,9 +2,9 @@
 
 # __Investing in public healthcare infrastructure__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [healthcare infrastructure investments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4377.md)
+* [Enhancing healthcare access, facilities, and systems while promoting affordability and strengthening healthcare infrastructure through various strategies and initiatives.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_165.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Increase availability of healthcare resources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2430.md)
 * [Increased health care access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_273.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Inadequate healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1129.md)
-
 ## Property: has_MitigationPrinciple
 
 Investing in public healthcare infrastructure can strengthen the capacity and resilience of healthcare systems, ensuring adequate resources and services to respond to pandemics and protect public health.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Inadequate healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1129.md)
+
 ## Property: has_MitigationSource
 
 * [The COVID-19 pandemic: Lessons on building more equal and sustainable societies](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_124.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [healthcare infrastructure investments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4377.md)
 

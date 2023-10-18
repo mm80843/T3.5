@@ -2,9 +2,9 @@
 
 # __biocidal products__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q4914724](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4914724.md)
+* [Advancements in biotechnology, clinical research, and innovative therapies contribute to the development of medical solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [biodegradable materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1651.md)
 * [products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4058.md)
 * [biophilic design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3940.md)
+
+## This Technology is identified by the following QID
+
+* [Q4914724](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4914724.md)
 

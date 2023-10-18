@@ -2,17 +2,9 @@
 
 # __Building Materials__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2658.md)
-* [Modular furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2668.md)
-* [Building material technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2657.md)
-* [Graphene-based nanomaterials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2684.md)
-* [Non-toxic nanomaterials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2687.md)
-* [Nanotechnology-based disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2685.md)
-* [architectural & Construction Materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2661.md)
-* [Smart storage solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2669.md)
-* [Room dividers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2667.md)
+* [Innovation and resources utilized to create and enhance devices, production, and construction materials.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_30.md)
 
 ## Closest similar item
 
@@ -26,4 +18,16 @@
 * [Green and Outdoor Spaces](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_83.md)
 * [Green and Biodegradable Materials](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_165.md)
 * [Mass Production Techniques](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_188.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2658.md)
+* [Modular furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2668.md)
+* [Building material technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2657.md)
+* [Graphene-based nanomaterials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2684.md)
+* [Non-toxic nanomaterials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2687.md)
+* [Nanotechnology-based disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2685.md)
+* [architectural & Construction Materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2661.md)
+* [Smart storage solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2669.md)
+* [Room dividers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2667.md)
 

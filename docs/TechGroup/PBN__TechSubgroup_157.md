@@ -2,13 +2,9 @@
 
 # __Housing and Building Design__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [door-lock devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_971.md)
-* [ratio of rooms to family members](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1781.md)
-* [flexible layout](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1780.md)
-* [adjustable area ratio](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1779.md)
-* [noise level difference compared to background](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1782.md)
+* [Architectural engineering disciplines and regulations related to constructing and designing residential and commercial buildings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_45.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Infrastructure and Urban Planning](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_86.md)
 * [Indoor Environmental Quality](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_79.md)
 * [Design Strategies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_104.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [door-lock devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_971.md)
+* [ratio of rooms to family members](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1781.md)
+* [flexible layout](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1780.md)
+* [adjustable area ratio](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1779.md)
+* [noise level difference compared to background](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1782.md)
 

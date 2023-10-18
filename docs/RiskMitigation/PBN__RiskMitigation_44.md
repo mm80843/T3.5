@@ -2,13 +2,9 @@
 
 # __Augmentation of resident learning with simulation__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Decreased in-person exposure to surgical education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_32.md)
-
-## Property: has_MitigationBenefit
-
-* [Maintenance of technical skills through deliberate practice](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_52.md)
+* [Enrich education through digital tools, virtual experiences, remote learning, and alternative forms of exercise and interaction.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_3.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Educating building occupants](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_892.md)
 * [Virtual reality patient education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1127.md)
 * [Implement remote learning strategies, provide support for students and families during closures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2483.md)
+
+## Property: has_MitigationBenefit
+
+* [Maintenance of technical skills through deliberate practice](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_52.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Decreased in-person exposure to surgical education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_32.md)
 

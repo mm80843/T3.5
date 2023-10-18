@@ -2,9 +2,9 @@
 
 # __rapid diagnostics for targeted antimicrobial therapy__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q178859](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q178859.md)
+* [Advancements in molecular biology, diagnostics, vaccines, antiviral technologies, and disease surveillance for pathogen detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_223.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [antimicrobial filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3773.md)
 * [antimicrobial coating](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3484.md)
 * [Antimicrobial coating](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4551.md)
+
+## This Technology is identified by the following QID
+
+* [Q178859](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q178859.md)
 

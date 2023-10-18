@@ -2,10 +2,9 @@
 
 # __Remote therapy services__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_135.md)
-* [high-speed internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4282.md)
+* [Enhanced connectivity for remote healthcare, consultations, work, conferences, and learning through telecommunication technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_167.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Telehealth services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_48.md)
 * [Telehealth Services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_361.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Comfort and access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3360.md)
-
 ## Property: has_MitigationPrinciple
 
 Enable remote consultation and therapy services for better access to healthcare
 
+## Risks possibly mitigated by this Mitigation
+
+* [Comfort and access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3360.md)
+
 ## Property: has_MitigationSource
 
 * [How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_135.md)
+* [high-speed internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4282.md)
 

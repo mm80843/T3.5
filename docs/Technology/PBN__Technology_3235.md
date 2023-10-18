@@ -2,9 +2,9 @@
 
 # __online dance classes__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Dancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_445.md)
+* [Digital platforms and online resources facilitate collaboration, communication, and information sharing among individuals and organizations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_193.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [online training platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1210.md)
 * [online fitness platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_408.md)
 * [classes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1917.md)
+
+## This Technology enables the following mitigations
+
+* [Dancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_445.md)
 

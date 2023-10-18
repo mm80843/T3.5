@@ -2,9 +2,9 @@
 
 # __incentives__
 
-## Risks linked to this technology
+## Category to which it belongs
 
-* [Adoption and Trust](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1105.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [government funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1430.md)
 * [surveys](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_900.md)
 * [financial relief](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1888.md)
+
+## Risks linked to this technology
+
+* [Adoption and Trust](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1105.md)
 

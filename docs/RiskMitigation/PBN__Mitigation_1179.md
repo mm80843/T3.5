@@ -2,10 +2,9 @@
 
 # __Real-time tracking of infected patients__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_96.md)
-* [gps technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3164.md)
+* [Advanced monitoring and tracking technology for remote supervision, surveillance, and contactless delivery in healthcare settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_154.md)
 
 ## Closest similar item
 
@@ -20,14 +19,19 @@
 * [Tracking medical personnel](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2352.md)
 * [Remote monitoring of patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1173.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Enables real-time tracking of infected individuals within a specific area, aiding in targeted interventions and resource allocation.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [A Comprehensive Review of Applications of Internet of Things for Covid-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_35.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_96.md)
+* [gps technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3164.md)
 

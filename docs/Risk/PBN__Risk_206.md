@@ -2,9 +2,9 @@
 
 # __LC2: Local services__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Urban/community farming](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_245.md)
+* [A list of various types and aspects of virus propagation, local services, water quality, waste management, and prioritization.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_134.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inadequate allocation of community service facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2325.md)
 * [Mixed-use neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_497.md)
 * [LS2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2222.md)
+
+## Mitigations of this risk
+
+* [Urban/community farming](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_245.md)
 

@@ -2,10 +2,9 @@
 
 # __Population density__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Safe pedestrian navigation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_970.md)
-* [Medium density housing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_703.md)
+* [Dense urban environments face challenges with population growth, inequality, biodiversity, mobility, and poor housing conditions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_105.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Urban Density and Crowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2378.md)
 * [Population movement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_311.md)
 * [Population mobility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_705.md)
+
+## Mitigations of this risk
+
+* [Safe pedestrian navigation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_970.md)
+* [Medium density housing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_703.md)
 

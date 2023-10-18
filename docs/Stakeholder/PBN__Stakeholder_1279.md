@@ -2,9 +2,9 @@
 
 # __pilgrims visiting saudi arabia for religious purposes__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Religious pilgrimages](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1886.md)
+* [Foreign nationals residing in or visiting various destinations for tourism, with a focus on travelers during the pandemic and the industries reliant on tourism, such as hotels, tourism operators, and tourism boards.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_380.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [tourist](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2518.md)
 * [refugees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_951.md)
 * [global migrants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_950.md)
+
+## Risk affecting this stakeholder
+
+* [Religious pilgrimages](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1886.md)
 

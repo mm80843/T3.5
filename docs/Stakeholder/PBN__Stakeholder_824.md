@@ -2,13 +2,13 @@
 
 # __the elderly__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q1358789](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1358789.md)
+* [Entities and individuals who interact with or are affected by a system, organization, or public facility.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_1.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_571.md)
 
 ## Closest similar item
 
@@ -23,11 +23,15 @@
 * [Older person](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2125.md)
 * [elderly and at-risk individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_194.md)
 
-## Risk affecting this stakeholder
-
-* [Overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_571.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Age-Specific Concerns](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_112.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q1358789](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1358789.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 

@@ -2,9 +2,9 @@
 
 # __discussion forums__
 
-## Risks linked to this technology
+## Category to which it belongs
 
-* [Misinformation and communication gaps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1986.md)
+* [Digital platforms and online resources facilitate collaboration, communication, and information sharing among individuals and organizations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_193.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [social media groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_422.md)
 * [Social media groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2138.md)
 * [Online meeting platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2399.md)
+
+## Risks linked to this technology
+
+* [Misinformation and communication gaps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1986.md)
 

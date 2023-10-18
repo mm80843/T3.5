@@ -2,9 +2,9 @@
 
 # __Limited awareness, interoperability__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [IoMT applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1248.md)
+* [Limited monitoring, technical limitations, language barriers, expensive optimization, lack of connection with nature, and limited sensor diversity hinder effective response and resource allocation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_107.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of interoperable data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2723.md)
 * [Lack of awareness and compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1906.md)
 * [Disintegrated and non-interoperable data and knowledge](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_36.md)
+
+## Mitigations of this risk
+
+* [IoMT applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1248.md)
 

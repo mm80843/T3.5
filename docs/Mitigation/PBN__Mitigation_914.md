@@ -2,10 +2,9 @@
 
 # __Real-time Data Capture__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [iot sensing infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3534.md)
-* [data capture infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3539.md)
+* [Improved data management and sharing for efficient and secure information exchange and analysis across various platforms and stakeholders.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_182.md)
 
 ## Closest similar item
 
@@ -20,14 +19,19 @@
 * [Real-time tracking of infected patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1179.md)
 * [Real-time updates and communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1256.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Gathering real-time data to provide timely insights into policy decisions
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Smart cities and a data-driven response to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_164.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [iot sensing infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3534.md)
+* [data capture infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3539.md)
 

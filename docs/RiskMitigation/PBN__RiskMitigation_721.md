@@ -2,13 +2,9 @@
 
 # __Use of disinfectants__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Virus survival on surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_511.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction in surface contamination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_722.md)
+* [Implement rigorous cleaning and disinfection measures, including the use of antimicrobial materials and advanced technologies, to maintain a safe and hygienic environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_2.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Development of sustainable disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1295.md)
 * [Regular cleaning and disinfection protocols, use of EPA-approved disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2557.md)
 * [Use of recommended concentrations of biocidal agents for disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2078.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction in surface contamination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_722.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Virus survival on surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_511.md)
 

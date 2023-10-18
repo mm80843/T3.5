@@ -2,9 +2,9 @@
 
 # __wearable device__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_329.md)
+* [A comprehensive range of advanced, interconnected devices that offer efficiency, convenience, and enhanced functionality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_238.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Smart devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2839.md)
 * [smartwatch](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3161.md)
 * [personal comfort devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1255.md)
+
+## This Technology enables the following mitigations
+
+* [Wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_329.md)
 

@@ -2,9 +2,9 @@
 
 # __Ensuring supplies__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Ensuring basic supplies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1407.md)
+* [The challenges include reduced surgical education, loss of control, limited diagnostics, slow drug development, inadequate patient monitoring, and lack of drug therapy options.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_110.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Essential goods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3398.md)
 * [Supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_993.md)
 * [Contaminated deliveries](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3141.md)
+
+## Mitigations of this risk
+
+* [Ensuring basic supplies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1407.md)
 

@@ -2,9 +2,13 @@
 
 # __cleaning services__
 
-## This Stakeholder belongs to this StakeholderGroup
+## This Stakeholder can get these Benefits from mitigation measures
 
-* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
+* [Enhanced hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1387.md)
+
+## Category to which it belongs
+
+* [Providers of vital services, including startups, founders, and various essential service fields such as cleaning, pest control, and emergency services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_396.md)
 
 ## Closest similar item
 
@@ -19,14 +23,14 @@
 * [cleaning equipment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2865.md)
 * [cleaning solutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2927.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
-
-
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Enhanced hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1387.md)
-
 ## Risks that can be mitigated by this stakeholder
 
 * [Fomite transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_609.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
 

@@ -2,13 +2,9 @@
 
 # __Reduce entrance/membership fees for green areas__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [High entrance/membership fees for green areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_945.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduced financial barrier](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1294.md)
+* [Promote biodiversity and sustainable urban development through the establishment and accessibility of green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_322.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implement policies to reduce inequality in access to green areas, provide subsidies or incentives for low-income individuals, and improve transportation options](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2927.md)
 * [Increase access to green spaces, promote urban greening initiatives, create more parks and gardens](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2141.md)
 * [Increase access to outdoor spaces through the integration of green infrastructure in urban environments](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2242.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced financial barrier](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1294.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [High entrance/membership fees for green areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_945.md)
 

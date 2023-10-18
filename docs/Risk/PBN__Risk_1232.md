@@ -2,25 +2,9 @@
 
 # __Inequality of access__
 
-## Property: has_RiskHealth
+## Category to which it belongs
 
-* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Description of the risk
-
-Wearables are more commonly used by wealthier and more educated individuals, leading to potential exacerbation of health inequalities.
-
-## Property: has_RiskType
-
-* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
-
-## Articles mentionning the risk
-
-* [Wearable technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_195.md)
+* [Restricted availability of various resources, services, and data creates inequalities and obstacles in accessing them.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_132.md)
 
 ## Closest similar item
 
@@ -35,13 +19,33 @@ Wearables are more commonly used by wealthier and more educated individuals, lea
 * [Inequalities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1341.md)
 * [Economic inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2495.md)
 
-## People affected by this risk
+## Description of the risk
 
-* [individuals from lower socio-economic backgrounds](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_745.md)
+Wearables are more commonly used by wealthier and more educated individuals, leading to potential exacerbation of health inequalities.
+
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Property: has_RiskHealth
+
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_5.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_0.md)
+
+## Mitigations of this risk
+
+* [Subsidized or affordable pricing, public health programs promoting access to wearables.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1684.md)
+
+## Name of the risk
+
+Limited access to wearable technology, unequal access to healthcare benefits of wearables.
 
 ## Stakeholders who can mitigate this risk
 
@@ -49,20 +53,20 @@ Wearables are more commonly used by wealthier and more educated individuals, lea
 * [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
 * [insurance companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_358.md)
 
-## Name of the risk
+## Articles mentionning the risk
 
-Limited access to wearable technology, unequal access to healthcare benefits of wearables.
+* [Wearable technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_195.md)
 
-## Mitigations of this risk
+## People affected by this risk
 
-* [Subsidized or affordable pricing, public health programs promoting access to wearables.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1684.md)
-
-## Property: has_RiskISO_Purpose
-
-* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_0.md)
+* [individuals from lower socio-economic backgrounds](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_745.md)
 
 ## Technologies linked to the risk
 
 * [cost reduction strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_318.md)
 * [government support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_319.md)
+
+## Property: has_RiskType
+
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 

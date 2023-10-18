@@ -2,17 +2,9 @@
 
 # __Communication Technologies and Channels__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [online platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_67.md)
-* [communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5.md)
-* [communication campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1157.md)
-* [communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_568.md)
-* [messaging tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1427.md)
-* [public health messaging systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_705.md)
-* [Digital communication tools for cross-regional collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2132.md)
-* [email](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1093.md)
-* [phone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1094.md)
+* [Tools and technologies for interconnected communication, coordination, and collaboration in the digital realm.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_13.md)
 
 ## Closest similar item
 
@@ -26,4 +18,16 @@
 * [Communication and Collaboration Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_111.md)
 * [Hardware and Devices](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_117.md)
 * [Remote Work Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_173.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [online platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_67.md)
+* [communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5.md)
+* [communication campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1157.md)
+* [communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_568.md)
+* [messaging tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1427.md)
+* [public health messaging systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_705.md)
+* [Digital communication tools for cross-regional collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2132.md)
+* [email](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1093.md)
+* [phone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1094.md)
 

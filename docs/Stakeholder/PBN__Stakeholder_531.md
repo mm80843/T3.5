@@ -7,6 +7,10 @@
 * [Improved transport optimization](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1374.md)
 * [Enhanced transport capacity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1386.md)
 
+## Category to which it belongs
+
+* [The realm of those involved in the movement of people and goods, including workers, authorities, and operators.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_390.md)
+
 ## Closest similar item
 
 * [transport authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_733.md)

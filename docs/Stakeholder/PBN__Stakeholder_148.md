@@ -2,9 +2,9 @@
 
 # __civil society__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q181865](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q181865.md)
+* [Entities and individuals who interact with or are affected by a system, organization, or public facility.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_1.md)
 
 ## Closest similar item
 
@@ -26,4 +26,8 @@
 ## Risks that can be mitigated by this stakeholder
 
 * [Constraints on civil liberties](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2269.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q181865](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q181865.md)
 

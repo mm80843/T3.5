@@ -2,10 +2,9 @@
 
 # __ai technology__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Artificial Intelligence and Touchless Technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1299.md)
-* [Tele-response Bots](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1444.md)
+* [Technological advancements encompass a wide range of innovations, such as blockchain, touchless, renewable energy, and communication technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Artificial Intelligence (AI)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2074.md)
 * [ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_149.md)
 * [AI algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2036.md)
+
+## This Technology enables the following mitigations
+
+* [Artificial Intelligence and Touchless Technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1299.md)
+* [Tele-response Bots](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1444.md)
 

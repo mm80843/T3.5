@@ -2,11 +2,11 @@
 
 # __Promote verified information__
 
-## Property: has_BP_InterventionTitle
-
-Promote verified information
-
 ## Property: has_BP_InterventionKey
 
 MI4
+
+## Property: has_BP_InterventionTitle
+
+Promote verified information
 

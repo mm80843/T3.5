@@ -2,9 +2,9 @@
 
 # __flexible living arrangements__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Proximity and distancing architectures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1798.md)
+* [Design and construction professionals use innovative techniques and strategies to create adaptable, sustainable, and inclusive buildings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_217.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [shelter facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2926.md)
 * [ratio of rooms to family members](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1781.md)
 * [use modular design systems and adjustable walls/screens in apartment layouts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1267.md)
+
+## This Technology enables the following mitigations
+
+* [Proximity and distancing architectures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1798.md)
 

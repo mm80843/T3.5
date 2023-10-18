@@ -2,9 +2,9 @@
 
 # __JSOUP library__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [jsoup library](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3826.md)
+* [Enhancing safety and efficiency through comprehensive measures, technology integration, diverse environments, and behavioral adjustments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_157.md)
 
 ## Closest similar item
 
@@ -19,14 +19,18 @@
 * [Internet-based applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1694.md)
 * [Cluster Identification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1938.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Supports the web scraping process by providing tools for HTML parsing and data extraction.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Risk Diagnosis and Mitigation System of COVID-19 Using Expert System and Web Scraping](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_237.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [jsoup library](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3826.md)
 

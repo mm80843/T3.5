@@ -2,9 +2,9 @@
 
 # __Social media__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_47.md)
+* [Promoting equality, understanding nature, norms, perceived usefulness, and fostering social interactions for positive societal change.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_175.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4151.md)
 * [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4152.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Communication barriers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3231.md)
-
 ## Property: has_MitigationPrinciple
 
 Use social media platforms like Facebook and Twitter for professional communication to exchange information, share experiences, and learn from colleagues
 
+## Risks possibly mitigated by this Mitigation
+
+* [Communication barriers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3231.md)
+
 ## Property: has_MitigationSource
 
 * [COVID-19: A new digital dawn?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_93.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_47.md)
 

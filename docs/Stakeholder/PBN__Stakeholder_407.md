@@ -6,6 +6,10 @@
 
 * [Emissions reduction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1027.md)
 
+## Category to which it belongs
+
+* [The realm of nature and its impact on humanity, from researchers and scientists to workers and individuals.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_373.md)
+
 ## Closest similar item
 
 * [the environment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_25.md)

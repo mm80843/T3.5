@@ -2,9 +2,9 @@
 
 # __Adoption of teleoperation and online interactions to facilitate remote work and learning.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Remote operation and telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2376.md)
+* [Enrich education through digital tools, virtual experiences, remote learning, and alternative forms of exercise and interaction.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_3.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Establish virtual clinics for remote consultations and utilize telemedicine and e-learning platforms.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2857.md)
 * [Encouraging the use of videoconferencing tools, exploring innovative modes of remote communication.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2568.md)
 * [Encourage regular virtual team meetings and social activities, provide opportunities for teleworkers to connect with colleagues, and promote a healthy work-life balance.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2585.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Remote operation and telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2376.md)
 

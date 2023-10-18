@@ -2,9 +2,9 @@
 
 # __bathroom)__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Enhanced sanitation room](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_777.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3087.md)
 * [phone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1094.md)
 * [ssd)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4133.md)
+
+## This Technology enables the following mitigations
+
+* [Enhanced sanitation room](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_777.md)
 

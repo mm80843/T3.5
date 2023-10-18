@@ -2,13 +2,9 @@
 
 # __water management agency__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q7973406](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7973406.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
+* [Individuals and organizations involved in the management and treatment of water, waste, and wastewater.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_397.md)
 
 ## Closest similar item
 
@@ -26,4 +22,12 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Water Management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_117.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q7973406](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7973406.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
 

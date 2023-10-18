@@ -2,10 +2,9 @@
 
 # __operable windows__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Natural ventilation and thermal comfort at home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1598.md)
-* [Circadian regulation: bedrooms designed for sleep](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1596.md)
+* [These resources aim to enhance security, convenience, and efficiency in managing access, spaces, and systems within various environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_206.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [provide large windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1264.md)
 * [opening windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3061.md)
 * [windows with views](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1011.md)
+
+## This Technology enables the following mitigations
+
+* [Natural ventilation and thermal comfort at home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1598.md)
+* [Circadian regulation: bedrooms designed for sleep](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1596.md)
 

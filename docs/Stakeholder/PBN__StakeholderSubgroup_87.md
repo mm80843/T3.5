@@ -2,19 +2,9 @@
 
 # __Individuals in Specific Settings__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [individuals in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_757.md)
-* [individual who frequent public space](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2116.md)
-* [individuals in crowded indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_887.md)
-* [individuals in indoor environments with poor environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_674.md)
-* [Individuals working remotely](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2180.md)
-* [individual in indoor setting with poor ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2189.md)
-* [individual in indoor environment with poor environmental control](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2220.md)
-* [individuals in environments where UV light disinfection is employed](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2175.md)
-* [all individual living in poorly ventilated and dimly lit space](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2111.md)
-* [individual in poorly ventilated space](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2137.md)
-* [individuals in spaces with poor air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1208.md)
+* [Vulnerable populations with varied health needs, settings, and disabilities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_277.md)
 
 ## Closest similar item
 
@@ -28,4 +18,18 @@
 * [Specific Populations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_91.md)
 * [Individuals in Developing Countries](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_92.md)
 * [Affected Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_79.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [individuals in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_757.md)
+* [individual who frequent public space](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2116.md)
+* [individuals in crowded indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_887.md)
+* [individuals in indoor environments with poor environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_674.md)
+* [Individuals working remotely](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2180.md)
+* [individual in indoor setting with poor ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2189.md)
+* [individual in indoor environment with poor environmental control](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2220.md)
+* [individuals in environments where UV light disinfection is employed](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2175.md)
+* [all individual living in poorly ventilated and dimly lit space](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2111.md)
+* [individual in poorly ventilated space](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2137.md)
+* [individuals in spaces with poor air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1208.md)
 

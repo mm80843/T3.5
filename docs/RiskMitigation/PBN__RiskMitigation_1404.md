@@ -2,13 +2,9 @@
 
 # __Improved remote work capabilities__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [COVID-19 impact on construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_987.md)
-
-## Property: has_MitigationBenefit
-
-* [Increased flexibility in work arrangements](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1369.md)
+* [Ensuring equitable access, promoting flexible work, implementing safety measures, and providing support for remote work and flexible schedules.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_323.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implement remote work, flexible schedules, prioritize worker safety](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1531.md)
 * [Implementing remote work, flexible scheduling, and virtual meetings.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2453.md)
 * [Promoting remote work for office workers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_205.md)
+
+## Property: has_MitigationBenefit
+
+* [Increased flexibility in work arrangements](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1369.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [COVID-19 impact on construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_987.md)
 

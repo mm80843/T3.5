@@ -2,9 +2,9 @@
 
 # __Lack of data for pandemic management__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Data activism](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1200.md)
+* [The challenge lies in the lack of knowledge, limited consideration, and inherent limitations in representing disease transmission mechanisms, mobility patterns, and heterogeneity in macroscopic epidemiological models.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_97.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Exaggerated pandemic estimates](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_374.md)
 * [Pandemic modelling](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_607.md)
 * [Lack of capacity in traditional hospitals during a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_441.md)
+
+## Mitigations of this risk
+
+* [Data activism](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1200.md)
 

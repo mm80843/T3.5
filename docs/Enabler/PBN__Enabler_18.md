@@ -2,13 +2,13 @@
 
 # __3D printing__
 
-## Property: has_TechEquivalent
-
-* [3D printing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4543.md)
-
 ## Property: has_BP_EnablerTitle
 
 enabler_019
+
+## Category to which it belongs
+
+* [Additive manufacturing technology that creates three-dimensional objects by layering materials based on digital designs.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_78.md)
 
 ## Closest similar item
 
@@ -26,4 +26,8 @@ enabler_019
 ## Thees blueprints use this enabler
 
 * [Tracking and enforcing use of Personal Protective Equipment](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_19.md)
+
+## Property: has_TechEquivalent
+
+* [3D printing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4543.md)
 

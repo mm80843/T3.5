@@ -2,9 +2,9 @@
 
 # __research on potential therapeutic options__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q128406](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q128406.md)
+* [Advancements in biotechnology, clinical research, and innovative therapies contribute to the development of medical solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [tailored interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1341.md)
 * [antiretroviral therapy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2809.md)
 * [psychological interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1541.md)
+
+## This Technology is identified by the following QID
+
+* [Q128406](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q128406.md)
 

@@ -2,9 +2,9 @@
 
 # __Safety training programs__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
-* [Regulation, Governance, and Policies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_66.md)
+* [Safety protocols, emergency response plans, risk assessment tools, and comprehensive risk communication strategies ensure workplace safety and crisis management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_232.md)
 
 ## Closest similar item
 
@@ -19,11 +19,15 @@
 * [social safety net programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3619.md)
 * [safety regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1160.md)
 
-## This Technology belongs to this TechGroup
-
-* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
-
 ## This Technology is identified by the following QID
 
 * [Q70348564](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q70348564.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Regulation, Governance, and Policies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_66.md)
+
+## This Technology belongs to this TechGroup
+
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 

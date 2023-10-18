@@ -2,11 +2,9 @@
 
 # __Age Groups__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [adolescents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_579.md)
-* [all age groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_327.md)
-* [all age group](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2525.md)
+* [Demographic characteristics that categorize individuals based on their age and gender, along with related concerns.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_243.md)
 
 ## Closest similar item
 
@@ -20,4 +18,10 @@
 * [Specific Populations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_91.md)
 * [Social Gatherings](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_136.md)
 * [Community Members](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_130.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [adolescents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_579.md)
+* [all age groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_327.md)
+* [all age group](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2525.md)
 

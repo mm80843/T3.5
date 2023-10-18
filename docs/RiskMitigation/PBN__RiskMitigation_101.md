@@ -2,13 +2,9 @@
 
 # __Providing clear and transparent information__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Psychological Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_84.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction in psychological risks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_114.md)
+* [Promote accurate and reliable information, combat misinformation, and increase media and public health literacy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_343.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Improving transparency and communication, providing accurate and timely information, addressing concerns and misinformation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2102.md)
 * [Embrace transparency and reproducibility practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1391.md)
 * [Improve access to reliable information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_628.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction in psychological risks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_114.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Psychological Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_84.md)
 

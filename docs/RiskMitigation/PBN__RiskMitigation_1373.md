@@ -2,13 +2,9 @@
 
 # __Analyze and adjust energy contracts based on actual energy demand__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Failure to adjust energy contracts based on actual energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_978.md)
-
-## Property: has_MitigationBenefit
-
-* [More accurate energy billing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1347.md)
+* [Transition to sustainable energy sources, implement energy-efficient measures, and absorb increased service demand.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_351.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implement energy-efficient appliances, promote alternative energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2942.md)
 * [Conduct comprehensive energy consumption breakdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1372.md)
 * [Implement energy-efficient systems and equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1374.md)
+
+## Property: has_MitigationBenefit
+
+* [More accurate energy billing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1347.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Failure to adjust energy contracts based on actual energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_978.md)
 

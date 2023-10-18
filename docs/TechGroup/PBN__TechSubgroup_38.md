@@ -2,13 +2,9 @@
 
 # __Social Media and Online Platforms Monitoring__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [social media monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_31.md)
-* [Social media monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2161.md)
-* [social media monitoring tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_566.md)
-* [Social media monitoring tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2142.md)
-* [Media monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2146.md)
+* [Digital tools for observing, managing, interacting, and maintaining physical distance in virtual and online spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_25.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Apps and Mobile Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_22.md)
 * [Monitoring Systems and Maintenance Protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_155.md)
 * [Public Awareness and Information Sharing](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_50.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [social media monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_31.md)
+* [Social media monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2161.md)
+* [social media monitoring tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_566.md)
+* [Social media monitoring tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2142.md)
+* [Media monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2146.md)
 

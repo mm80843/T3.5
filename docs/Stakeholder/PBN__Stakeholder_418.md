@@ -8,6 +8,10 @@
 * [Prevention of panic buying](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1382.md)
 * [Efficient supply chain operations](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1383.md)
 
+## Category to which it belongs
+
+* [Local enterprises and establishments, encompassing various sectors, sizes, and ownership types.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_381.md)
+
 ## Closest similar item
 
 * [businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)

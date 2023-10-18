@@ -2,9 +2,9 @@
 
 # __Use of energy-efficient appliances__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [energy reduction ratio](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4262.md)
+* [Promoting sustainable and eco-friendly practices that enhance urban green spaces, energy efficiency, and renewable energy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_180.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Promote energy-saving practices, provide energy efficiency advice and incentives](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3428.md)
 * [Promote energy efficiency measures and renewable energy production](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3429.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_745.md)
-
 ## Property: has_MitigationPrinciple
 
 Use energy-efficient appliances and equipment to reduce energy consumption
 
+## Risks possibly mitigated by this Mitigation
+
+* [Energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_745.md)
+
 ## Property: has_MitigationSource
 
 * [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [energy reduction ratio](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4262.md)
 

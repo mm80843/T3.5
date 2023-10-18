@@ -2,10 +2,9 @@
 
 # __UVGI systems__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
-* [Air Quality and Filtration Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_76.md)
-* [Purification and Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_88.md)
+* [Innovative lighting solutions harnessing ultraviolet technology for optimal germicidal sterilization and energy efficiency, while maximizing natural light.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_235.md)
 
 ## Closest similar item
 
@@ -20,12 +19,17 @@
 * [uv light systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_882.md)
 * [cost-effective uv systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1162.md)
 
+## This Technology is identified by the following QID
+
+* [Q961734](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q961734.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Air Quality and Filtration Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_76.md)
+* [Purification and Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_88.md)
+
 ## This Technology belongs to this TechGroup
 
 * [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
 * [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_13.md)
-
-## This Technology is identified by the following QID
-
-* [Q961734](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q961734.md)
 

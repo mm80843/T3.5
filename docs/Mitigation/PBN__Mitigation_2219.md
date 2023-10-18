@@ -2,10 +2,9 @@
 
 # __Deep learning__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [video surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4336.md)
-* [object detection algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4337.md)
+* [Promoting effective communication, education, and trust through transparency, clear guidelines, and innovative strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_144.md)
 
 ## Closest similar item
 
@@ -20,14 +19,19 @@
 * [Deep learning-based drug discovery pipeline](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1397.md)
 * [Face recognition](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_830.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Using deep learning techniques to detect and enforce social distancing in public areas
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Social distancing enhanced automated optimal design of physical spaces in the wake of the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_186.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [video surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4336.md)
+* [object detection algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4337.md)
 

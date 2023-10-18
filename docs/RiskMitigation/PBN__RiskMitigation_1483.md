@@ -2,9 +2,9 @@
 
 # __Cross-validate the performance of different RT-qPCR assays on wastewater samples and ensure sequencing of positive samples for confirmation__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Undetected SARS-CoV-2 in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1050.md)
+* [Implement wastewater surveillance techniques to detect viral presence, optimize treatment processes, and inform public health interventions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_308.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement wastewater-based epidemiology (WBE), target specific subpopulations, improve testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1798.md)
 * [Monitoring community wastewater influent and implementing real-time monitoring.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2521.md)
 * [Improvement of assay sensitivity through the development and implementation of more sensitive and specific assays for SARS-CoV-2 detection in sewage samples.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2168.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Undetected SARS-CoV-2 in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1050.md)
 

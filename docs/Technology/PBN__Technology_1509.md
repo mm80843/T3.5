@@ -2,9 +2,9 @@
 
 # __distance learning technology__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1362939](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1362939.md)
+* [Technological advancements encompass a wide range of innovations, such as blockchain, touchless, renewable energy, and communication technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Digital learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2643.md)
 * [Remote learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2634.md)
 * [remote education technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1262.md)
+
+## This Technology is identified by the following QID
+
+* [Q1362939](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1362939.md)
 

@@ -2,9 +2,9 @@
 
 # __active listening skills__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q6646450](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6646450.md)
+* [Measures promoting accountability, media control, real-time updates, and virtual experiences for physical distancing and education.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3463.md)
 * [music](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3234.md)
 * [training sessions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3461.md)
+
+## This Technology is identified by the following QID
+
+* [Q6646450](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6646450.md)
 

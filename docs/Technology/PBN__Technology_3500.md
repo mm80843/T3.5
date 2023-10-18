@@ -2,9 +2,9 @@
 
 # __stainless steel__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Stainless steel coupons](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_857.md)
+* [The range of materials and techniques listed includes various disinfectants, nanomaterials, manufacturing methods, coatings, sustainability measures, and analytical tools.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_237.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [better materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2016.md)
 * [Better materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2656.md)
 * [metal cable](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1777.md)
+
+## This Technology enables the following mitigations
+
+* [Stainless steel coupons](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_857.md)
 

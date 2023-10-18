@@ -2,13 +2,13 @@
 
 # __data-driven decision making__
 
+## Category to which it belongs
+
+* [Data-driven insights and analysis for decision making, anonymized data, transparency, visualization, and advanced techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_205.md)
+
 ## Risks linked to this technology
 
 * [Inequalities in access to resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1023.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Data Analytics and Modeling](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_2.md)
 
 ## Closest similar item
 
@@ -23,11 +23,15 @@
 * [proactive decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1709.md)
 * [improved communication and decision-making tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_889.md)
 
-## This Technology belongs to this TechGroup
-
-* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
-
 ## This Technology is identified by the following QID
 
 * [Q287472](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q287472.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Data Analytics and Modeling](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_2.md)
+
+## This Technology belongs to this TechGroup
+
+* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
 

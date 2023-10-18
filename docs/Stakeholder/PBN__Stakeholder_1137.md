@@ -2,9 +2,9 @@
 
 # __especially during flu seasons__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Impact of indoor and outdoor conditions on influenza seasonality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1708.md)
+* [Especially susceptible individuals, such as allergy sufferers, those with weakened immune systems, and individuals with respiratory conditions, are at higher risk.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_388.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [especially in area with high infection rate](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2396.md)
 * [especially in areas with high infection rates](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_602.md)
 * [especially in area with higher infection rate](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2176.md)
+
+## Risk affecting this stakeholder
+
+* [Impact of indoor and outdoor conditions on influenza seasonality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1708.md)
 

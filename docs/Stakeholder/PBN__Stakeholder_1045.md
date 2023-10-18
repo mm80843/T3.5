@@ -2,13 +2,13 @@
 
 # __individuals seeking health information__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q5691085](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5691085.md)
+* [Public health stakeholders and individuals alike are concerned about health, seeking information and guidance from trusted sources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_354.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Perceived susceptibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1615.md)
 
 ## Closest similar item
 
@@ -23,11 +23,15 @@
 * [individual with underlying health condition](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2257.md)
 * [individuals with pre-existing health conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1569.md)
 
-## Risk affecting this stakeholder
-
-* [Perceived susceptibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1615.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Digital and Information Access](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_105.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q5691085](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5691085.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 

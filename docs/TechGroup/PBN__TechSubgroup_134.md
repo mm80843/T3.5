@@ -2,14 +2,9 @@
 
 # __Water and Waste Management__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [Sanitation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2406.md)
-* [Water purification and distribution technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2727.md)
-* [Water purification systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2758.md)
-* [Waste collection and disposal technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2728.md)
-* [wastewater treatment plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1353.md)
-* [water treatment facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_666.md)
+* [Management of resources and control of potential hazards in relation to water and waste.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_50.md)
 
 ## Closest similar item
 
@@ -23,4 +18,13 @@
 * [Energy Management and Efficiency](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_95.md)
 * [Cleaning Supplies and Hygiene Practices](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_61.md)
 * [Hygiene and Sanitation Practices and Protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_60.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [Sanitation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2406.md)
+* [Water purification and distribution technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2727.md)
+* [Water purification systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2758.md)
+* [Waste collection and disposal technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2728.md)
+* [wastewater treatment plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1353.md)
+* [water treatment facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_666.md)
 

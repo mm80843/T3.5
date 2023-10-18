@@ -2,9 +2,9 @@
 
 # __biomarkers__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Biomarker testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_513.md)
+* [Advancements in biotechnology, clinical research, and innovative therapies contribute to the development of medical solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [urine proteomics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4142.md)
 * [biosensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2813.md)
 * [identification of potential therapeutic targets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1956.md)
+
+## This Technology enables the following mitigations
+
+* [Biomarker testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_513.md)
 

@@ -2,17 +2,9 @@
 
 # __Personal Protective Equipment (PPE)__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [COVID-19 exposure in offshore workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_376.md)
-* [COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_133.md)
-* [COVID-19 transmission in workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_371.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved worker safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_412.md)
-* [Protection for workers](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_492.md)
-* [Protection against virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_503.md)
+* [Enforce safety measures, promote responsible behavior, utilize PPE, and prioritize risk prevention to ensure adequate protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_342.md)
 
 ## Closest similar item
 
@@ -26,4 +18,16 @@
 * [Testing and Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3250.md)
 * [Sanitation and Safety](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3251.md)
 * [Preventive Measures and Public Health Initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3252.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved worker safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_412.md)
+* [Protection for workers](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_492.md)
+* [Protection against virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_503.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [COVID-19 exposure in offshore workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_376.md)
+* [COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_133.md)
+* [COVID-19 transmission in workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_371.md)
 

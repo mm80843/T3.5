@@ -2,9 +2,9 @@
 
 # __Insufficient fresh air delivery in HVAC systems__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [High-level air filtration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_342.md)
+* [Insufficient ventilation and indoor air pollution pose a risk to air quality and respiratory health, exacerbated by inadequate airflow control, limited natural ventilation, and air recirculation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_128.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Insufficient outdoor air supply](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3065.md)
 * [HVAC Systems Failure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1770.md)
 * [Inadequate airflow in apartment buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_229.md)
+
+## Mitigations of this risk
+
+* [High-level air filtration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_342.md)
 

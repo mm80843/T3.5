@@ -2,9 +2,9 @@
 
 # __electronic health record systems__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q10871684](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q10871684.md)
+* [Improved healthcare infrastructure and resources enable public health authorities to implement effective messaging and interventions, ensuring equitable access to healthcare facilities and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_209.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [digital health technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3327.md)
 * [Data recording systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2450.md)
 * [data recording systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_362.md)
+
+## This Technology is identified by the following QID
+
+* [Q10871684](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q10871684.md)
 

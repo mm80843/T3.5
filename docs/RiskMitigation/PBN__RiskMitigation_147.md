@@ -2,13 +2,9 @@
 
 # __Engagement of private and informal healthcare providers in response__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Limited access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_122.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved access to healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_164.md)
+* [Enhancing healthcare infrastructure, increasing capacity, and ensuring access to medical resources and services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_330.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Ensure healthcare accessibility and affordability, address social determinants of health, provide targeted support to vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2276.md)
 * [Strengthen primary healthcare](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1072.md)
 * [Implementing strict social distancing measures, promoting urban planning for public health, and improving access to healthcare services in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2717.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved access to healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_164.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limited access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_122.md)
 

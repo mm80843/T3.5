@@ -2,9 +2,9 @@
 
 # __Strengthen EU-level coordination and cooperation, establish common protocols and guidelines, and promote information sharing between Member States__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Fragmented political responses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1585.md)
+* [Facilitate transparent communication, enabling reliable information sharing through standardized protocols and effective channels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_0.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [International coordination and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1025.md)
 * [Enhance preparedness and response plans, stockpile essential medical supplies, and improve coordination between Member States and EU institutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2116.md)
 * [Improve communication and outreach to foreign nationals, provide clear instructions and guidelines in multiple languages.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2481.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Fragmented political responses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1585.md)
 

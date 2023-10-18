@@ -2,9 +2,9 @@
 
 # __Enhance surveillance systems to detect and respond to emerging diseases in new areas.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Changes in disease distribution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1848.md)
+* [Implement comprehensive strategies to control virus transmission, improve surveillance, develop antiviral coatings, and enhance infection control measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_309.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Enhance surveillance systems, strengthen global cooperation, and invest in research and development.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2726.md)
 * [Development of novel surveillance systems, improved reporting and communication channels](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2683.md)
 * [Improve surveillance and detection systems at borders, increase public awareness of risks.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2625.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Changes in disease distribution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1848.md)
 

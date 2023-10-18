@@ -6,6 +6,10 @@
 
 * [Estimation of exposure metrics](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_16.md)
 
+## Category to which it belongs
+
+* [Experts from various fields including research, risk assessment, education, science, HVAC, and IT.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_356.md)
+
 ## Closest similar item
 
 * [risk experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1077.md)

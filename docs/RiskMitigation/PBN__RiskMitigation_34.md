@@ -2,13 +2,9 @@
 
 # __5G deployment and limited connectivity challenges__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Technical limitations and limited connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_26.md)
-
-## Property: has_MitigationBenefit
-
-* [Expanded 5G coverage and connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_42.md)
+* [Facilitate transparent communication, enabling reliable information sharing through standardized protocols and effective channels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_0.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Accelerate deployment plans, encourage small scale deployments, support purpose-built IoT devices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2745.md)
 * [Provide reliable and constant ICT connections](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2888.md)
 * [Implement network slicing, utilize virtual NFs and MEC, deploy full beamforming technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2744.md)
+
+## Property: has_MitigationBenefit
+
+* [Expanded 5G coverage and connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_42.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Technical limitations and limited connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_26.md)
 

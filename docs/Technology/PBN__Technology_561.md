@@ -2,9 +2,9 @@
 
 # __use of digital communication tools for cross-regional collaboration__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q5145802](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5145802.md)
+* [The digital revolution encompasses various aspects, from online promotion to contactless payment systems and virtual learning platforms.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_190.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [cross-sector collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3529.md)
 * [online communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4031.md)
 * [Online collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2131.md)
+
+## This Technology is identified by the following QID
+
+* [Q5145802](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5145802.md)
 

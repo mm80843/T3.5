@@ -2,13 +2,13 @@
 
 # __Disease Control Priorities, Third Edition (Volume 9): Improving Health and Reducing Poverty__
 
-## Title of the article
-
-Disease Control Priorities, Third Edition (Volume 9): Improving Health and Reducing Poverty
-
 ## DOI of the article
 
 10.1596/978-1-4648-0527-1
+
+## Title of the article
+
+Disease Control Priorities, Third Edition (Volume 9): Improving Health and Reducing Poverty
 
 ## Year of publication
 

@@ -2,9 +2,9 @@
 
 # __Overcrowding and agglomerations in cities__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Digital tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_722.md)
+* [Dense urban environments face challenges with population growth, inequality, biodiversity, mobility, and poor housing conditions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_105.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Overcrowding, inadequate space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2592.md)
 * [Overcrowding and poor community behavior](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_355.md)
 * [Urban crowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1064.md)
+
+## Mitigations of this risk
+
+* [Digital tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_722.md)
 

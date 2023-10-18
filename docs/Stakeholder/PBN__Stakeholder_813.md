@@ -2,9 +2,9 @@
 
 # __particularly those with respiratory conditions or weakened immune systems__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Inadequate indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1295.md)
+* [Especially susceptible individuals, such as allergy sufferers, those with weakened immune systems, and individuals with respiratory conditions, are at higher risk.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_388.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [especially those with respiratory conditions or allergies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_650.md)
 * [especially those with respiratory condition or allergy](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2154.md)
 * [especially those with respiratory and cardiovascular problem](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2107.md)
+
+## Risk affecting this stakeholder
+
+* [Inadequate indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1295.md)
 

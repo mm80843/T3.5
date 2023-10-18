@@ -2,13 +2,9 @@
 
 # __Building resilience measures__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Extreme events](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_132.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced occupant safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_176.md)
+* [Implementing a comprehensive package of measures to ensure the smooth functioning and safety of essential services and activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_6.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Affordable housing with resilient design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_23.md)
 * [Design buildings with safety measures and emergency preparedness in mind, such as evacuation routes, emergency supplies, and structural resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2573.md)
 * [Provide mental health support, promote awareness and resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2995.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced occupant safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_176.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Extreme events](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_132.md)
 

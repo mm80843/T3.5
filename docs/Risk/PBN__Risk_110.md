@@ -2,9 +2,9 @@
 
 # __Raising public support for nature conservation__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Increasing public interest](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_134.md)
+* [The interconnectedness of environmental degradation, social inequalities, and the need for climate action and conservation efforts.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_104.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inadequate provision of public parks without government intervention](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_143.md)
 * [Limited understanding of complex conservation challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3342.md)
 * [Limited access to nature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1891.md)
+
+## Mitigations of this risk
+
+* [Increasing public interest](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_134.md)
 

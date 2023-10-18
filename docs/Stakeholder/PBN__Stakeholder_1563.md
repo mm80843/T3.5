@@ -2,9 +2,9 @@
 
 # __ecosystem__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Ineffectiveness of conventional wastewater treatment processes in removing SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2341.md)
+* [The realm of nature and its impact on humanity, from researchers and scientists to workers and individuals.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_373.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [ecologists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1461.md)
 * [environmental entity](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2692.md)
 * [Environmental entity](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2694.md)
+
+## Risk affecting this stakeholder
+
+* [Ineffectiveness of conventional wastewater treatment processes in removing SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2341.md)
 

@@ -2,9 +2,9 @@
 
 # __building material technologies__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q12144907](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q12144907.md)
+* [Technological advancements encompass a wide range of innovations, such as blockchain, touchless, renewable energy, and communication technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [sustainable materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4067.md)
 * [construction technology and software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_374.md)
 * [Construction technology and software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2329.md)
+
+## This Technology is identified by the following QID
+
+* [Q12144907](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q12144907.md)
 

@@ -2,9 +2,9 @@
 
 # __urine proteomics__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Protein-based Inflammation Biomarkers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1923.md)
+* [Advancements in biotechnology, clinical research, and innovative therapies contribute to the development of medical solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Bioinformatics tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2127.md)
 * [bioinformatics software and algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3438.md)
 * [drug development and testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3437.md)
+
+## This Technology enables the following mitigations
+
+* [Protein-based Inflammation Biomarkers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1923.md)
 

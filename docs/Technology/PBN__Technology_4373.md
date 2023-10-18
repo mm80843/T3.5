@@ -2,9 +2,9 @@
 
 # __diversification__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Rethinking global trade and supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2259.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [efficient allocation strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3517.md)
 * [microfinance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_957.md)
 * [restructuring models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2969.md)
+
+## This Technology enables the following mitigations
+
+* [Rethinking global trade and supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2259.md)
 

@@ -2,9 +2,9 @@
 
 # __socioeconomically disadvantaged groups__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Inequality exacerbation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2039.md)
+* [Individuals and communities experiencing socioeconomic disparities, economic hardship, housing instability, and social disadvantage.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_393.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [disadvantaged populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1347.md)
 * [disadvantaged communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1143.md)
 * [individuals from lower socio-economic backgrounds](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_745.md)
+
+## Risk affecting this stakeholder
+
+* [Inequality exacerbation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2039.md)
 

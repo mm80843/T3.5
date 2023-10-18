@@ -2,9 +2,9 @@
 
 # __Congested areas__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Using smart technologies for site access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1687.md)
+* [Dense urban environments face challenges with population growth, inequality, biodiversity, mobility, and poor housing conditions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_105.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inadequate public transport capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1216.md)
 * [Spillover effects between neighboring regions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1356.md)
 * [Urban density and crowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_16.md)
+
+## Mitigations of this risk
+
+* [Using smart technologies for site access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1687.md)
 

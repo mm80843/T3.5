@@ -2,18 +2,9 @@
 
 # __Simulation and Forecasting Tools__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [Optimization algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2077.md)
-* [optimization algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_988.md)
-* [simulation models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1458.md)
-* [simulation activities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_396.md)
-* [Demand forecasting and planning software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2082.md)
-* [Advanced analytics and simulation models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2081.md)
-* [AnyLogic simulation software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2076.md)
-* [forecasting tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_820.md)
-* [Kalman filter algorithm](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2078.md)
-* [Agent-based modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2035.md)
+* [Technological resources facilitating virtual education, hardware, digital tools, simulations, diagnostics, and health record management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_31.md)
 
 ## Closest similar item
 
@@ -27,4 +18,17 @@
 * [Digital Communication and Collaboration Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_93.md)
 * [Software and Applications](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_122.md)
 * [Digital Learning Platforms and Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_56.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [Optimization algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2077.md)
+* [optimization algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_988.md)
+* [simulation models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1458.md)
+* [simulation activities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_396.md)
+* [Demand forecasting and planning software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2082.md)
+* [Advanced analytics and simulation models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2081.md)
+* [AnyLogic simulation software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2076.md)
+* [forecasting tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_820.md)
+* [Kalman filter algorithm](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2078.md)
+* [Agent-based modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2035.md)
 

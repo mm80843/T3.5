@@ -2,9 +2,9 @@
 
 # __Generating negative pressure__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [negative air machines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3660.md)
+* [Enhancing safety and efficiency through comprehensive measures, technology integration, diverse environments, and behavioral adjustments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_157.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Differential pressurization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1326.md)
 * [Airflow Direction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2013.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Spread of pathogens or dust through the exhaust ducts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2929.md)
-
 ## Property: has_MitigationPrinciple
 
 Using negative air machines with high air flow and High Efficiency Particulate Air filters to create reliable and stable negative pressure in the AIIRs, preventing the spread of pathogens or dust through the exhaust ducts.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of pathogens or dust through the exhaust ducts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2929.md)
+
 ## Property: has_MitigationSource
 
 * [Rapid expansion of temporary, reliable airborne-infection isolation rooms with negative air machines for critical COVID-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_77.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [negative air machines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3660.md)
 

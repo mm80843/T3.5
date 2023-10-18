@@ -2,13 +2,13 @@
 
 # __Social Networks__
 
-## Property: has_TechEquivalent
-
-* [Social Networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4545.md)
-
 ## Property: has_BP_EnablerTitle
 
 enabler_021
+
+## Category to which it belongs
+
+* [Interconnected digital platforms for online social interactions and communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_80.md)
 
 ## Closest similar item
 
@@ -27,4 +27,8 @@ enabler_021
 
 * [Resilience in staffing and skills training](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_12.md)
 * [Good hand hygiene practice](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_14.md)
+
+## Property: has_TechEquivalent
+
+* [Social Networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4545.md)
 

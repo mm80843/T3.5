@@ -2,9 +2,9 @@
 
 # __inclusive economic policies__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q582577](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q582577.md)
+* [Government actions and regulations addressing various aspects of society, including policy changes, ethical frameworks, governance mechanisms, and public announcements.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_216.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [economic support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1601.md)
 * [Economic support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2252.md)
 * [policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_482.md)
+
+## This Technology is identified by the following QID
+
+* [Q582577](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q582577.md)
 

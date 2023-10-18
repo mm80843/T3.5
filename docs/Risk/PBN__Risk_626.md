@@ -2,9 +2,9 @@
 
 # __Poor practices for COVID-19 prevention__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Behavior Change Interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_869.md)
+* [The far-reaching consequences of COVID-19 include its transmission through various settings, impact on urban areas, and scarcity of resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Spread of COVID-19 in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1980.md)
 * [Lack of drug therapies for COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_935.md)
 * [Risk of spreading COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2982.md)
+
+## Mitigations of this risk
+
+* [Behavior Change Interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_869.md)
 

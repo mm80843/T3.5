@@ -2,13 +2,9 @@
 
 # __country and industry reliant on gvc for foreign input and export__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q1144513](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1144513.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
+* [All actors in the economic and political landscape, including policymakers, governments, and regulatory bodies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_357.md)
 
 ## Closest similar item
 
@@ -26,4 +22,12 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Economic and Trade Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_122.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q1144513](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1144513.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
 

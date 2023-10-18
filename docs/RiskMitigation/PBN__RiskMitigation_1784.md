@@ -2,9 +2,9 @@
 
 # __Support local economies and livelihoods, promote sustainable alternative income-generating activities, and engage local communities in conservation efforts.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Increase in local opportunity cost for PCA-adjacent communities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1300.md)
+* [Enhance local self-sufficiency in shopping, recreation, and food production, while promoting sustainable practices and supporting resilient economies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_344.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Develop and promote alternative outdoor recreation opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2155.md)
 * [Provide financial support to affected businesses, encourage e-commerce and online sales, promote local shopping.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2907.md)
 * [Advocate for green recovery initiatives that support PCA conservation, monitor policy changes and investment opportunities, and ensure effective use of funding for conservation efforts.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1785.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Increase in local opportunity cost for PCA-adjacent communities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1300.md)
 

@@ -2,9 +2,9 @@
 
 # __Attacks on healthcare systems__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Security challenges](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1950.md)
+* [Healthcare systems overwhelmed with limited resources, shortage of personnel, and inadequate infrastructure face challenges in providing accessible and quality care.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_101.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Limited access to healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1984.md)
 * [Overburdened healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1749.md)
 * [Healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2517.md)
+
+## Mitigations of this risk
+
+* [Security challenges](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1950.md)
 

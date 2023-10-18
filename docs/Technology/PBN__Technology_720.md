@@ -2,9 +2,9 @@
 
 # __sanitization devices__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q652289](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q652289.md)
+* [The implementation of various disinfection methods, improved cleaning and sanitization protocols, and the use of eco-friendly disinfectants and advanced technologies have been prioritized.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_199.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [cleaning and sanitization equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3556.md)
 * [enhanced cleaning and sanitization technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_737.md)
 * [Enhanced cleaning and sanitization technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2354.md)
+
+## This Technology is identified by the following QID
+
+* [Q652289](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q652289.md)
 

@@ -2,12 +2,9 @@
 
 # __AI-powered diagnosis applications__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-
-## Property: has_MitigationBenefit
-
-* [Early detection of carriers](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1400.md)
+* [Advancements in bioinformatics, divestment, automated sample collection, and artificial intelligence are facilitating early disease detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_336.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [AI for decision-making](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_654.md)
 * [Implementation of AI technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_463.md)
 * [Artificial intelligence/machine learning (AI/ML)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1100.md)
+
+## Property: has_MitigationBenefit
+
+* [Early detection of carriers](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1400.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

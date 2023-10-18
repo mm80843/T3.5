@@ -2,13 +2,9 @@
 
 # __Traffic restriction__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Decrease in traffic flow](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_868.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduced noise levels](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1195.md)
+* [Implement travel restrictions, promote active transportation, streamline processes, provide accurate information, and develop sustainable transport options.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_325.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Restrict inter-city connections](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_124.md)
 * [Travel bans](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_862.md)
 * [Reduction in traffic volumes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_814.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced noise levels](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1195.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Decrease in traffic flow](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_868.md)
 

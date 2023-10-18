@@ -2,13 +2,13 @@
 
 # __The Handbook of Salutogenesis__
 
-## Title of the article
-
-The Handbook of Salutogenesis
-
 ## DOI of the article
 
 10.1007/978-3-030-79515-3
+
+## Title of the article
+
+The Handbook of Salutogenesis
 
 ## Year of publication
 

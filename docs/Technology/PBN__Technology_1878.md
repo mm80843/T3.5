@@ -2,13 +2,13 @@
 
 # __promotion of virtual tours and classes__
 
+## Category to which it belongs
+
+* [Measures promoting accountability, media control, real-time updates, and virtual experiences for physical distancing and education.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
+
 ## Risks linked to this technology
 
 * [and physical health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2293.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Educational and Training Resources](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_39.md)
 
 ## Closest similar item
 
@@ -23,13 +23,17 @@
 * [online promotion](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_441.md)
 * [Online promotion](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2165.md)
 
+## This Technology is identified by the following QID
+
+* [Q2915546](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2915546.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Educational and Training Resources](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_39.md)
+
 ## This Technology belongs to this TechGroup
 
 * [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
 * [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
 * [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
-
-## This Technology is identified by the following QID
-
-* [Q2915546](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2915546.md)
 

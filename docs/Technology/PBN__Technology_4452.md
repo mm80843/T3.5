@@ -2,9 +2,9 @@
 
 # __habitat modification__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Environmental management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2386.md)
+* [Urban green space solutions include tree planting, zoning regulations, landscape architecture, community gardens, outdoor furniture, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_231.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3716.md)
 * [vegetation management techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1842.md)
 * [Vegetation management techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2352.md)
+
+## This Technology enables the following mitigations
+
+* [Environmental management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2386.md)
 

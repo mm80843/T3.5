@@ -2,13 +2,9 @@
 
 # __Utilization of ozone, ultraviolet irradiation, liquid chlorine, chlorine dioxide, and sodium hypochlorite disinfection technologies__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Inadequate disinfection of hospital wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_668.md)
-
-## Property: has_MitigationBenefit
-
-* [Fecal coliform and pathogen destruction in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_938.md)
+* [Utilize UVGI technology to disinfect air, surfaces, and clothing, ensuring proper installation, training, and research to optimize effectiveness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_352.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Use of disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_721.md)
 * [Air filtration and UV light sterilisation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1130.md)
 * [Use high-performing filters, proper disposal of disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2875.md)
+
+## Property: has_MitigationBenefit
+
+* [Fecal coliform and pathogen destruction in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_938.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inadequate disinfection of hospital wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_668.md)
 

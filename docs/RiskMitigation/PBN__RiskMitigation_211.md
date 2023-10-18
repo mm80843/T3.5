@@ -2,13 +2,9 @@
 
 # __Improve park quality in low-socioeconomic status neighborhoods__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Quality of greenspace in high-socioeconomic status neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_171.md)
-
-## Property: has_MitigationBenefit
-
-* [Increased park utilization and improved health outcomes](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_227.md)
+* [Promote equitable, sustainable, and inclusive urban planning to enhance living conditions, mitigate overcrowding, and reduce disparities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_324.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Address spatial inequalities and social disparities in urban design and planning. Improve access to healthcare, essential services, and amenities in disadvantaged neighborhoods.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3090.md)
 * [Emphasize community-level design, develop green spaces and local amenities, promote accessibility](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1739.md)
 * [Ensure equitable distribution of urban green spaces by prioritizing underserved neighborhoods for green space development and improvement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2411.md)
+
+## Property: has_MitigationBenefit
+
+* [Increased park utilization and improved health outcomes](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_227.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Quality of greenspace in high-socioeconomic status neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_171.md)
 

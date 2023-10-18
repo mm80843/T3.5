@@ -2,9 +2,9 @@
 
 # __Implement robust cybersecurity measures, including encryption, secure data storage, regular system updates, and employee training on cybersecurity awareness. Develop contingency plans for potential cyber attacks.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Cybersecurity threats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1910.md)
+* [Data privacy and security are prioritized through encryption, access controls, consent, and robust cybersecurity measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_335.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement robust data security measures, encryption, access controls](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2065.md)
 * [Implement policies and technologies to ensure data privacy and cybersecurity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2323.md)
 * [Implement robust cybersecurity nan measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2736.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Cybersecurity threats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1910.md)
 

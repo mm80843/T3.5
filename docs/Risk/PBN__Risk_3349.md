@@ -2,10 +2,9 @@
 
 # __Air quality__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Level of natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2132.md)
-* [Smart air quality control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2239.md)
+* [Insufficient ventilation and indoor air pollution pose a risk to air quality and respiratory health, exacerbated by inadequate airflow control, limited natural ventilation, and air recirculation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_128.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Poor ventilation and air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2733.md)
 * [Lack of adequate indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_341.md)
 * [High air pollution levels](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1145.md)
+
+## Mitigations of this risk
+
+* [Level of natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2132.md)
+* [Smart air quality control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2239.md)
 

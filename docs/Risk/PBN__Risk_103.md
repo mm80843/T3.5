@@ -2,9 +2,9 @@
 
 # __Positive health effects (reduced environmental pollution, fewer accidents, lower ARI incidence)__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Implementation of NPIs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_119.md)
+* [The interconnectedness of environmental degradation, social inequalities, and the need for climate action and conservation efforts.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_104.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of environmental precautions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1331.md)
 * [Environmental Pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1869.md)
 * [Environmental pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_581.md)
+
+## Mitigations of this risk
+
+* [Implementation of NPIs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_119.md)
 

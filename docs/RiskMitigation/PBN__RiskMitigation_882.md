@@ -2,15 +2,9 @@
 
 # __Development of biosensors and LOC/POC systems for wastewater analysis__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Limited availability of biosensors and LOC/POC technologies for wastewater analysis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_638.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved detection capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_884.md)
-* [Simplified and user-friendly analysis](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_885.md)
-* [Cost-effective and portable technology](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_886.md)
+* [Implement wastewater surveillance techniques to detect viral presence, optimize treatment processes, and inform public health interventions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_308.md)
 
 ## Closest similar item
 
@@ -24,4 +18,14 @@
 * [Sequencing wastewater samples](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_990.md)
 * [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_149.md)
 * [Wastewater-based surveillance (WBS)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1205.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved detection capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_884.md)
+* [Simplified and user-friendly analysis](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_885.md)
+* [Cost-effective and portable technology](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_886.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limited availability of biosensors and LOC/POC technologies for wastewater analysis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_638.md)
 

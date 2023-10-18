@@ -2,9 +2,9 @@
 
 # __empathy-building programs__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q182263](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q182263.md)
+* [A range of community-centered initiatives, programs, and strategies foster participation, collaboration, and social support for diverse groups.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_236.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [fostering community](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4073.md)
 * [targeted outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1339.md)
 * [community support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_595.md)
+
+## This Technology is identified by the following QID
+
+* [Q182263](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q182263.md)
 

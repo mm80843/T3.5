@@ -2,9 +2,9 @@
 
 # __Landlords__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [landlords](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2013.md)
+* [Rental participants.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_261.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Occupants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_55.md)
 * [Specific Building Occupants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_68.md)
 * [People in Buildings](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_93.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [landlords](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2013.md)
 

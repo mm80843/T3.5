@@ -2,10 +2,9 @@
 
 # __Universal access to critical infrastructures__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [infrastructure development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_76.md)
-* [healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3384.md)
+* [Optimizing the global trade network and supply chains through decentralization, cost concern, and integrated management, while promoting resilience and equity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_146.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Reliable electrical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4264.md)
 * [Improve accessibility to UGS by creating inclusive infrastructure and providing transportation options.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4265.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Vulnerability to disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3336.md)
-
 ## Property: has_MitigationPrinciple
 
 Improve access to basic infrastructure such as water and shelter to reduce susceptibility to diseases, prioritize equitable housing, infrastructure, and healthcare access
 
+## Risks possibly mitigated by this Mitigation
+
+* [Vulnerability to disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3336.md)
+
 ## Property: has_MitigationSource
 
 * [Learning from pandemics: Applying resilience thinking to identify priorities for planning urban settlements](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_137.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [infrastructure development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_76.md)
+* [healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3384.md)
 

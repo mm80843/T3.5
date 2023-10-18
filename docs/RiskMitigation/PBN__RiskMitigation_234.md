@@ -2,13 +2,9 @@
 
 # __Promotion of sustainable energy sources__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [EU2: Energy use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_194.md)
-
-## Property: has_MitigationBenefit
-
-* [Sustainable energy use](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_245.md)
+* [Transition to sustainable energy sources, implement energy-efficient measures, and absorb increased service demand.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_351.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implement energy-efficient appliances, promote alternative energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2942.md)
 * [Promote energy-saving practices, provide energy efficiency advice and incentives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1712.md)
 * [Support and invest in low-carbon sources of electricity and transportation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1714.md)
+
+## Property: has_MitigationBenefit
+
+* [Sustainable energy use](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_245.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [EU2: Energy use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_194.md)
 

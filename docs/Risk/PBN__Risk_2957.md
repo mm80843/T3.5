@@ -2,9 +2,9 @@
 
 # __Higher installation and maintenance costs__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Green roofs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1187.md)
+* [Challenges in building industry include lack of understanding, high costs, inadequate preparedness, and slow adoption of new technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_98.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Increase in demand, logistical challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3082.md)
 * [Increase in off-site construction and engineering](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_244.md)
 * [High cost, limited infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2988.md)
+
+## Mitigations of this risk
+
+* [Green roofs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1187.md)
 

@@ -2,9 +2,9 @@
 
 # __Cold chain management systems__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
-* [Logistics and Supply Chain Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_127.md)
+* [Efficiently manage and optimize the flow of goods, data, and suppliers for resilient local supply chains.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_191.md)
 
 ## Closest similar item
 
@@ -19,11 +19,15 @@
 * [supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_767.md)
 * [supply chain management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_639.md)
 
-## This Technology belongs to this TechGroup
-
-* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
-
 ## This Technology is identified by the following QID
 
 * [Q592197](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q592197.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Logistics and Supply Chain Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_127.md)
+
+## This Technology belongs to this TechGroup
+
+* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
 

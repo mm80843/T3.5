@@ -2,9 +2,9 @@
 
 # __climate change mitigation techniques and mosquito control methods__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q2003646](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2003646.md)
+* [Advancements in molecular biology, diagnostics, vaccines, antiviral technologies, and disease surveillance for pathogen detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_223.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Climate control technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2365.md)
 * [pest control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3902.md)
 * [environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1882.md)
+
+## This Technology is identified by the following QID
+
+* [Q2003646](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2003646.md)
 

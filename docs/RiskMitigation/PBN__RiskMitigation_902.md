@@ -2,13 +2,9 @@
 
 # __Implementation of wellbeing economies and budgets__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Limited learning from public health crises](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_647.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved wellbeing economy](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_904.md)
+* [Promote sustainable development through infrastructure investments, training, diversification, financial support, and government partnerships.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_315.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Ensuring domestic budgets support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_130.md)
 * [Addressing socioeconomic factors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_687.md)
 * [Adoption of better working conditions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_901.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved wellbeing economy](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_904.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limited learning from public health crises](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_647.md)
 

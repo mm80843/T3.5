@@ -2,13 +2,9 @@
 
 # __Investment in social and healthcare systems__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Economic impact of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_386.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduced poverty](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_528.md)
+* [Enhancing healthcare infrastructure, increasing capacity, and ensuring access to medical resources and services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_330.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Increase investment in preventive medicine, community health, disaster management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2947.md)
 * [Ensuring access to healthcare and accurate information, providing support and resources, addressing social inequities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2335.md)
 * [Investment in digital health infrastructure, adoption of interoperable systems, data sharing protocols.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2599.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced poverty](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_528.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Economic impact of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_386.md)
 

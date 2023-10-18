@@ -2,9 +2,9 @@
 
 # __sms messaging__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Health declaration border pass](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2317.md)
+* [A comprehensive list of mobile applications, including contact-tracing apps, mental health apps, mobile banking, and fitness tracking devices, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_197.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [public health messaging](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1158.md)
 * [mobile phone application](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4443.md)
 * [mobile phones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4435.md)
+
+## This Technology enables the following mitigations
+
+* [Health declaration border pass](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2317.md)
 

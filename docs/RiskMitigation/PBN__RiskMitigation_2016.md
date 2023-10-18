@@ -2,9 +2,9 @@
 
 # __Develop and distribute effective medications and vaccines.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of medication and vaccines for COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1495.md)
+* [Maximizing vaccine efficacy and ensuring equitable access through research, development, distribution, and targeted outreach.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_337.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Vaccine development and distribution](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_866.md)
 * [Improve surveillance for drug resistance, invest in vaccine development infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2137.md)
 * [Vaccine development](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_598.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of medication and vaccines for COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1495.md)
 

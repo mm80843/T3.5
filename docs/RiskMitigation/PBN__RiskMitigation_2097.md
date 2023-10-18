@@ -2,9 +2,9 @@
 
 # __Provide financial assistance programs, energy efficiency upgrades, and education on energy-saving practices for low-income households.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Financial burden on low-income households](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1567.md)
+* [Transition to sustainable energy sources, implement energy-efficient measures, and absorb increased service demand.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_351.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Increased funding for clean energy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_620.md)
 * [Implement demand response programs, promote energy conservation practices, and optimize grid operations to accommodate changing energy consumption patterns.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2096.md)
 * [Provide stable housing options, create affordable housing programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1635.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Financial burden on low-income households](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1567.md)
 

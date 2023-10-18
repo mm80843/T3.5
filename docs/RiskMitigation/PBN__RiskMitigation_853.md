@@ -2,13 +2,9 @@
 
 # __Improved peer review process__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Spread of fraudulent studies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_615.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced scientific integrity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_857.md)
+* [Promote accurate and reliable information, combat misinformation, and increase media and public health literacy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_343.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Promote reliable and verified sources of information, increase public awareness about trusted applications, implement strict review and approval processes for app stores](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2577.md)
 * [Improve testing and reporting systems, increase transparency](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2850.md)
 * [Promote verified information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3389.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced scientific integrity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_857.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of fraudulent studies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_615.md)
 

@@ -2,9 +2,9 @@
 
 # __Redesign and allocate more space for street open spaces in densely populated areas__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Unequal distribution of street open spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1969.md)
+* [Promote equitable, sustainable, and inclusive urban planning to enhance living conditions, mitigate overcrowding, and reduce disparities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_324.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Open green spaces in urban periphery](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1232.md)
 * [Urban planning and design to create more open space, improve infrastructure, and promote safe transportation options.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1921.md)
 * [Re-design streets to widen sidewalks, create more bike lanes, and prioritize pedestrian spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1973.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Unequal distribution of street open spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1969.md)
 

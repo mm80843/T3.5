@@ -2,9 +2,9 @@
 
 # __close contacts of asymptomatic carriers__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Hidden transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2133.md)
+* [Entities and individuals who interact with or are affected by a system, organization, or public facility.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_1.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [individuals in close proximity to infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_741.md)
 * [individual in close proximity](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2285.md)
 * [telecommunication companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_633.md)
+
+## Risk affecting this stakeholder
+
+* [Hidden transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2133.md)
 

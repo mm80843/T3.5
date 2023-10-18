@@ -2,10 +2,9 @@
 
 # __Circadian regulation: bedrooms designed for sleep__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [operable windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3938.md)
-* [glazing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3937.md)
+* [Creating resilient urban environments through strategic planning, adaptable design, reduced density, and improved building infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_164.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Combination of social distancing and high ventilation effectiveness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2047.md)
 * [Residential environments](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_859.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Disrupted sleep](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3151.md)
-
 ## Property: has_MitigationPrinciple
 
 Designing bedrooms with natural light, operable windows, and the ability to regulate thermal comfort to support restful sleep and circadian rhythms
 
+## Risks possibly mitigated by this Mitigation
+
+* [Disrupted sleep](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3151.md)
+
 ## Property: has_MitigationSource
 
 * [How our homes impact our health: using a COVID-19 informed approach to examine urban apartment housing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_279.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [operable windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3938.md)
+* [glazing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3937.md)
 

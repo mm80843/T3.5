@@ -2,10 +2,9 @@
 
 # __microorganisms__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Biological methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2304.md)
-* [Dynamic botanical air filtration system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2305.md)
+* [Advancements in biotechnology, clinical research, and innovative therapies contribute to the development of medical solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_770.md)
 * [Sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2590.md)
 * [antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_228.md)
+
+## This Technology enables the following mitigations
+
+* [Biological methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2304.md)
+* [Dynamic botanical air filtration system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2305.md)
 

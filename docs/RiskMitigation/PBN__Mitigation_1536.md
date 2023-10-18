@@ -2,8 +2,9 @@
 
 # __Creation of space for walking and cycling__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Enhancing urban mobility through pedestrian-friendly infrastructure, optimized transportation, and improved public transportation systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_151.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Outdoor Design and Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1739.md)
 * [Physical Activity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_929.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Inaccessible built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3125.md)
-
 ## Property: has_MitigationPrinciple
 
 Provides safe and accessible space for individuals to engage in walking and cycling activities, promoting physical activity and reducing reliance on motorized transportation
 
+## Risks possibly mitigated by this Mitigation
+
+* [Inaccessible built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3125.md)
+
 ## Property: has_MitigationSource
 
 * [Implications of COVID-19 control measures for diet and physical activity, and lessons for addressing other pandemics facing rapidly urbanising countries](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_68.md)
+
+## This Mitigation is enabled by the following technologies
+
 

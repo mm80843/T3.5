@@ -2,6 +2,10 @@
 
 # __Maintenance / decontamination of building water sytems__
 
+## Category to which it belongs
+
+* [Promote efficient and sustainable water practices, enhance infrastructure, and ensure access to clean water and sanitation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_339.md)
+
 ## Closest similar item
 
 * [Maintenance and decontamination](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_229.md)

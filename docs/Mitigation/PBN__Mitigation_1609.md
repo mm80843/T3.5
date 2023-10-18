@@ -2,8 +2,9 @@
 
 # __Limiting media exposure__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Movement and accessibility constraints, including travel bans, visitor restrictions, and limitations on gatherings and travel.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_160.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Augmented surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_242.md)
 * [Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_731.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Emotional disturbance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3158.md)
-
 ## Property: has_MitigationPrinciple
 
 Monitor and control exposure to pandemic-related news to reduce anxiety and distress
 
+## Risks possibly mitigated by this Mitigation
+
+* [Emotional disturbance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3158.md)
+
 ## Property: has_MitigationSource
 
 * [Mental Health and the Covid-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_167.md)
+
+## This Mitigation is enabled by the following technologies
+
 

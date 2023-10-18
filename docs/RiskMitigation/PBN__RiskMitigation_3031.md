@@ -2,9 +2,9 @@
 
 # __Public health agencies should evaluate multiple sources of evidence and consider the quality and reliability of preprints before making decisions.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Influence of preprints on public health decisions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2330.md)
+* [Promote accurate and reliable information, combat misinformation, and increase media and public health literacy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_343.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Provide accurate and evidence-based information through trusted sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2371.md)
 * [Maintain transparency and objectivity in evidence generation and communication, actively combat misinformation, and build trust through consistent and reliable delivery of evidence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1856.md)
 * [Provide clear and consistent risk messages based on the latest scientific evidence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3104.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Influence of preprints on public health decisions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2330.md)
 

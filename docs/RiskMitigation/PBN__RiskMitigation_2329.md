@@ -2,9 +2,9 @@
 
 # __Use safety factors, know lamp output, avoid relying solely on design equations, and ensure proper testing and validation of systems__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [UVGI systems require careful design and installation to ensure proper efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1760.md)
+* [Optimize indoor environment by maximizing natural light, ventilation, and incorporating efficient lighting systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_348.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Regular maintenance, cleanliness, proper lighting and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1542.md)
 * [Conduct rigorous implementation and real-world validation of proposed solutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1478.md)
 * [Design for natural lighting and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_136.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [UVGI systems require careful design and installation to ensure proper efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1760.md)
 

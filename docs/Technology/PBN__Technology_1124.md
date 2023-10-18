@@ -2,9 +2,9 @@
 
 # __data integration and exchange platforms__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1172338](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1172338.md)
+* [Data-driven insights and analysis for decision making, anonymized data, transparency, visualization, and advanced techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_205.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [open data platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_284.md)
 * [data access platforms and applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1969.md)
 * [data sharing platforms and policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1125.md)
+
+## This Technology is identified by the following QID
+
+* [Q1172338](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1172338.md)
 

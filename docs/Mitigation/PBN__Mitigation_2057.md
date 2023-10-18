@@ -2,10 +2,9 @@
 
 # __Facilitate response diversity__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [redundant infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4211.md)
-* [flexibility in operations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4212.md)
+* [Promoting effective communication, education, and trust through transparency, clear guidelines, and innovative strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_144.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Encouraging effective communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3866.md)
 * [Improve communication and outreach to foreign nationals, provide clear instructions and guidelines in multiple languages.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4271.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Shortage of critical supplies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3337.md)
-
 ## Property: has_MitigationPrinciple
 
 Develop redundant systems and infrastructure to support the production and distribution of essential goods and services, promote adaptive capacity in supply chains, encourage local and regional resilience in food systems, ensure flexibility in operations to adapt to changing conditions
 
+## Risks possibly mitigated by this Mitigation
+
+* [Shortage of critical supplies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3337.md)
+
 ## Property: has_MitigationSource
 
 * [Learning from pandemics: Applying resilience thinking to identify priorities for planning urban settlements](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_137.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [redundant infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4211.md)
+* [flexibility in operations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4212.md)
 

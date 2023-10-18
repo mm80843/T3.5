@@ -2,8 +2,9 @@
 
 # __Strengthening the European Centre for Disease Control__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Enhancing healthcare access, facilities, and systems while promoting affordability and strengthening healthcare infrastructure through various strategies and initiatives.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_165.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Better healthcare protection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1885.md)
 * [Involvement of architectural and urban institutions in addressing pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_117.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Limited mandate on public health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2850.md)
-
 ## Property: has_MitigationPrinciple
 
 Enhance data compilation and testing capability
 
+## Risks possibly mitigated by this Mitigation
+
+* [Limited mandate on public health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2850.md)
+
 ## Property: has_MitigationSource
 
 * [Borders and Catastrophe: lessons from COVID-19 for the European Green Deal](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_156.md)
+
+## This Mitigation is enabled by the following technologies
+
 

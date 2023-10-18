@@ -2,13 +2,9 @@
 
 # __Offshore medical rigs__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Difficulty in confinement of COVID-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_704.md)
-
-## Property: has_MitigationBenefit
-
-* [Additional healthcare capacity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_976.md)
+* [Enhancing healthcare infrastructure, increasing capacity, and ensuring access to medical resources and services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_330.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Supply chain management for healthcare](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_29.md)
 * [Enhance healthcare capacity, stockpile medical supplies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2851.md)
 * [Ensuring appropriate training and support for healthcare professionals, regular maintenance and quality control of equipment.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3047.md)
+
+## Property: has_MitigationBenefit
+
+* [Additional healthcare capacity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_976.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Difficulty in confinement of COVID-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_704.md)
 

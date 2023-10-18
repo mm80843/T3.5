@@ -2,9 +2,9 @@
 
 # __Variation in interior finishing materials__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Integration of adaptable finishing materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1087.md)
+* [Challenges in building industry include lack of understanding, high costs, inadequate preparedness, and slow adoption of new technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_98.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Opportunities for new materials for performative insulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_245.md)
 * [Inflexible building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2738.md)
 * [Manual contact with surfaces during door opening](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2731.md)
+
+## Mitigations of this risk
+
+* [Integration of adaptable finishing materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1087.md)
 

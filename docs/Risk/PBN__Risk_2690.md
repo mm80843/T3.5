@@ -2,9 +2,9 @@
 
 # __Disparities in economic, political, and cultural contexts__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Tailored Policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_687.md)
+* [The ramifications of global connectivity include economic instability, impacts of the pandemic, unemployment, poverty, reduced tourism revenue, and decline in public budgets.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_103.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Health Disparities and Equity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1186.md)
 * [Testing disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1936.md)
 * [Incidence disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1937.md)
+
+## Mitigations of this risk
+
+* [Tailored Policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_687.md)
 

@@ -2,9 +2,9 @@
 
 # __mosquito control operations__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Community-level vector control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1754.md)
+* [Advancements in molecular biology, diagnostics, vaccines, antiviral technologies, and disease surveillance for pathogen detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_223.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [integrated pest management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1213.md)
 * [Integrated pest management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2387.md)
 * [mosquito-resistant alternative building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2775.md)
+
+## This Technology enables the following mitigations
+
+* [Community-level vector control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1754.md)
 

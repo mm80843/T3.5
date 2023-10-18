@@ -2,13 +2,9 @@
 
 # __Increase water movement and aeration__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Urban bodies of water and wetlands](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_67.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction in mosquito breeding](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_92.md)
+* [Promote efficient and sustainable water practices, enhance infrastructure, and ensure access to clean water and sanitation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_339.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Improve water and food safety measures, implement vector control strategies, strengthen health systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2193.md)
 * [Establish measures to control water quality and availability](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2939.md)
 * [Ensure access to clean drinking water, improve wastewater treatment and management systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2552.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction in mosquito breeding](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_92.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Urban bodies of water and wetlands](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_67.md)
 

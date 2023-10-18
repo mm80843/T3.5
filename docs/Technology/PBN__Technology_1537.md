@@ -2,18 +2,9 @@
 
 # __social networks__
 
-## Risks linked to this technology
+## Category to which it belongs
 
-* [Psychological impact of quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_33.md)
-* [Pervasive anxiety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2055.md)
-* [Disabling loneliness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2057.md)
-* [Aspecific and uncontrolled fears related to infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2054.md)
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2061.md)
-* [Social support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2062.md)
-* [Frustration and boredom](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2056.md)
-
-## This Technology belongs to this TechSubgroup
-
+* [Digital platforms and online resources facilitate collaboration, communication, and information sharing among individuals and organizations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_193.md)
 
 ## Closest similar item
 
@@ -32,7 +23,20 @@
 
 * [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
 
+## This Technology belongs to this TechSubgroup
+
+
 ## This Technology enables the following mitigations
 
 * [Social Support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1726.md)
+
+## Risks linked to this technology
+
+* [Psychological impact of quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_33.md)
+* [Pervasive anxiety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2055.md)
+* [Disabling loneliness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2057.md)
+* [Aspecific and uncontrolled fears related to infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2054.md)
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2061.md)
+* [Social support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2062.md)
+* [Frustration and boredom](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2056.md)
 

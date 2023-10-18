@@ -2,17 +2,9 @@
 
 # __Home Energy Management Systems (HEMS)__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Increase in electricity usage during pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_433.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction in electricity bills](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_599.md)
-* [Improvement of energy efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_600.md)
-* [Demand response automation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_601.md)
-* [Environmental consciousness](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_602.md)
-* [Social and lifestyle benefits](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_603.md)
+* [Transition to sustainable energy sources, implement energy-efficient measures, and absorb increased service demand.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_351.md)
 
 ## Closest similar item
 
@@ -26,4 +18,16 @@
 * [Encourage energy efficiency practices, educate households on thermostat settings and HVAC maintenance, and promote the use of energy-efficient HVAC systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2095.md)
 * [Optimize HVAC system operations, implement energy-efficient measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2984.md)
 * [Use of energy-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_235.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction in electricity bills](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_599.md)
+* [Improvement of energy efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_600.md)
+* [Demand response automation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_601.md)
+* [Environmental consciousness](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_602.md)
+* [Social and lifestyle benefits](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_603.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Increase in electricity usage during pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_433.md)
 

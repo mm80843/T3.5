@@ -2,10 +2,9 @@
 
 # __3d printing technology__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [3D-Printed PPE](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2473.md)
-* [3D-Printed Isolation Wards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2476.md)
+* [Technological advancements encompass a wide range of innovations, such as blockchain, touchless, renewable energy, and communication technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Additive manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2654.md)
 * [ordinary printer paper](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3768.md)
 * [printing company services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3769.md)
+
+## This Technology enables the following mitigations
+
+* [3D-Printed PPE](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2473.md)
+* [3D-Printed Isolation Wards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2476.md)
 

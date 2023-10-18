@@ -2,9 +2,9 @@
 
 # __regular system security updates__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1497831](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1497831.md)
+* [Various security measures, such as encryption, authentication protocols, secure data storage, and blockchain, are used to protect digital platforms and ensure privacy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_201.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [lightweight security algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3713.md)
 * [data monitoring tools and regular updates](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1966.md)
 * [project updates](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_818.md)
+
+## This Technology is identified by the following QID
+
+* [Q1497831](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1497831.md)
 

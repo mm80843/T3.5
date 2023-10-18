@@ -2,19 +2,9 @@
 
 # __Online Counseling and Therapy Platforms__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [online counseling platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_220.md)
-* [remote mental health care](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1278.md)
-* [Online counseling platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2281.md)
-* [Online therapy platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2288.md)
-* [online therapy platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_116.md)
-* [online counseling services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1626.md)
-* [online support forums](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1248.md)
-* [teletherapy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_609.md)
-* [telepsychiatry](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1247.md)
-* [teletherapy platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1857.md)
-* [online mental health resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1887.md)
+* [Accessible digital platforms providing support and resources for mental health counseling and therapy services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_37.md)
 
 ## Closest similar item
 
@@ -28,4 +18,18 @@
 * [Communication and Coordination Platforms](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_26.md)
 * [Digital Platforms and Apps](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_54.md)
 * [Health Behavior Change Interventions](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_164.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [online counseling platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_220.md)
+* [remote mental health care](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1278.md)
+* [Online counseling platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2281.md)
+* [Online therapy platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2288.md)
+* [online therapy platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_116.md)
+* [online counseling services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1626.md)
+* [online support forums](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1248.md)
+* [teletherapy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_609.md)
+* [telepsychiatry](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1247.md)
+* [teletherapy platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1857.md)
+* [online mental health resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1887.md)
 

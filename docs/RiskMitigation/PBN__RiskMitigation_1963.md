@@ -2,9 +2,9 @@
 
 # __Develop ontologies for data standardization and integration.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Disintegrated and non-interoperable data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1451.md)
+* [Promote standardized data collection, ontology-based representation, and enhanced data sharing to improve decision-making processes and data quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_319.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Ontology-based systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_840.md)
 * [Develop and enhance tools to automate ontology models and applications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1480.md)
 * [Development of CIDO ontology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_56.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Disintegrated and non-interoperable data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1451.md)
 

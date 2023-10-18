@@ -2,13 +2,9 @@
 
 # __Use of copper or copper alloys__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Stability on surfaces of fomites](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_874.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduced surface contamination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1199.md)
+* [Efforts include RNA monitoring, occupant exposure modeling, targeted messages, adoption of principles, copper coating, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_311.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Use of digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_707.md)
 * [Use of coatings that have been proven safe for human health and the environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1632.md)
 * [Use of nanomaterials and graphene-based coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_919.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced surface contamination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1199.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Stability on surfaces of fomites](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_874.md)
 

@@ -2,9 +2,9 @@
 
 # __Use of portable air filters to remove other pathogens from the air in hospital wards__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Inadequate filtration of other pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2169.md)
+* [Enhancing air quality through effective air filtration, ventilation, and pollution reduction strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_338.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Use portable room air cleaners with HEPA filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_190.md)
 * [Disinfection of air](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3190.md)
 * [Portable room air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_343.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inadequate filtration of other pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2169.md)
 

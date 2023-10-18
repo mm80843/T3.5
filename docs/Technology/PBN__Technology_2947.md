@@ -2,9 +2,9 @@
 
 # __digital rt-pcr__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Robust RT-qPCR assays](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_64.md)
+* [The digital revolution encompasses various aspects, from online promotion to contactless payment systems and virtual learning platforms.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_190.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [rt-qpcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4479.md)
 * [pcr techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4138.md)
 * [qRT-PCR](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2102.md)
+
+## This Technology enables the following mitigations
+
+* [Robust RT-qPCR assays](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_64.md)
 

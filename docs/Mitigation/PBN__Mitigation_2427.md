@@ -2,9 +2,9 @@
 
 # __Robotics in industrial applications__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [industrial robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4497.md)
+* [Maximizing control and efficiency in various domains through advanced technology and strategic planning.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_163.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Social robots for continued social interactions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2425.md)
 * [Engineering Controls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_298.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Hazardous tasks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3456.md)
-
 ## Property: has_MitigationPrinciple
 
 Deployment of robots in environments unsuitable for human workers
 
+## Risks possibly mitigated by this Mitigation
+
+* [Hazardous tasks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3456.md)
+
 ## Property: has_MitigationSource
 
 * [Combating COVID-19—The role of robotics in managing public health and infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_23.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [industrial robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4497.md)
 

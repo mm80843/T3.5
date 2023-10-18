@@ -6,6 +6,10 @@
 
 * [Improved immunity and immune protection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1178.md)
 
+## Category to which it belongs
+
+* [Especially susceptible individuals, such as allergy sufferers, those with weakened immune systems, and individuals with respiratory conditions, are at higher risk.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_388.md)
+
 ## Closest similar item
 
 * [people with compromised immune function](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_337.md)

@@ -2,13 +2,9 @@
 
 # __Widespread testing__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Mass testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_335.md)
-
-## Property: has_MitigationBenefit
-
-* [Control over spread of infection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_430.md)
+* [Promote comprehensive testing and tracing, prioritize vulnerable populations, reduce diagnosis-to-surgery time, recognize stress symptoms, and improve testing accuracy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_347.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Increased testing in densely pop.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_684.md)
 * [Testing policy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_772.md)
 * [Improve testing methods, consider testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2047.md)
+
+## Property: has_MitigationBenefit
+
+* [Control over spread of infection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_430.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Mass testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_335.md)
 

@@ -2,9 +2,9 @@
 
 # __reticulated air conditioning__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Ventilation design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2000.md)
+* [Improved air quality can be achieved through the use of various technologies such as air purifiers and monitoring systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_221.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [enhanced hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1519.md)
 * [Improved HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2311.md)
 * [improved hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_662.md)
+
+## This Technology enables the following mitigations
+
+* [Ventilation design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2000.md)
 

@@ -2,9 +2,9 @@
 
 # __sustainable financing models__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q85559999](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q85559999.md)
+* [Maximizing economic efficiency while promoting financial stability through innovative strategies, investments, and partnerships at various levels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_195.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [investments in clean energy and sustainable industries](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4384.md)
 * [financial resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3637.md)
 * [financial management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3531.md)
+
+## This Technology is identified by the following QID
+
+* [Q85559999](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q85559999.md)
 

@@ -2,8 +2,9 @@
 
 # __Improved virus concentration methods__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
+* [Advancements in molecular biology, diagnostics, vaccines, antiviral technologies, and disease surveillance for pathogen detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_223.md)
 
 ## Closest similar item
 
@@ -18,11 +19,14 @@
 * [viral survival](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1959.md)
 * [antiviral drugs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_236.md)
 
-## This Technology belongs to this TechGroup
-
-* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
-
 ## This Technology is identified by the following QID
 
 * [Q7933598](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7933598.md)
+
+## This Technology belongs to this TechSubgroup
+
+
+## This Technology belongs to this TechGroup
+
+* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
 

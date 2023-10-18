@@ -2,9 +2,9 @@
 
 # __Implement strategies to support and stabilize agricultural sector, find alternative markets for agricultural products__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Crash in demand for agricultural commodities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1808.md)
+* [Enhance local self-sufficiency in shopping, recreation, and food production, while promoting sustainable practices and supporting resilient economies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_344.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Urban/community farming](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_245.md)
 * [Provide food parcels and free meals, increase availability of basic food products, adapt delivery services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2401.md)
 * [Urban farming integrated approaches](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1438.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Crash in demand for agricultural commodities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1808.md)
 

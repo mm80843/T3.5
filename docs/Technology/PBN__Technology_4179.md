@@ -2,9 +2,9 @@
 
 # __microgrid technologies__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Deployment of microgrids](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1990.md)
+* [Improved and energy-efficient HVAC systems, along with advanced technologies, for efficient energy management and environmental control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_227.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [renewable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_866.md)
 * [Renewable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2390.md)
 * [energy storage systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1765.md)
+
+## This Technology enables the following mitigations
+
+* [Deployment of microgrids](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1990.md)
 

@@ -2,11 +2,9 @@
 
 # __Public Entities__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [city dwellers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_772.md)
-* [public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_682.md)
-* [city dweller](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1605.md)
+* [An assemblage of organizations responsible for governance, infrastructure, resources, networking, public services, and commerce.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_256.md)
 
 ## Closest similar item
 
@@ -20,4 +18,10 @@
 * [Non-Governmental Organizations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_126.md)
 * [Agencies/Providers/Associations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_66.md)
 * [Urban Planning Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_0.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [city dwellers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_772.md)
+* [public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_682.md)
+* [city dweller](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1605.md)
 

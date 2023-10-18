@@ -2,9 +2,9 @@
 
 # __Avoid air recirculation__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [filtering devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3819.md)
+* [Promote clean, fresh air by monitoring and controlling indoor pollution, using portable air cleaners, and increasing outdoor air flow.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_172.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Increased outdoor air](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2465.md)
 * [Improved Air Filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1645.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
-
 ## Property: has_MitigationPrinciple
 
 Prevents the transportation of airborne contaminants from one space to another through the recirculation of air, reducing the risk of airborne infection
 
+## Risks possibly mitigated by this Mitigation
+
+* [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
+
 ## Property: has_MitigationSource
 
 * [How can airborne transmission of COVID-19 indoors be minimised?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_121.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [filtering devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3819.md)
 

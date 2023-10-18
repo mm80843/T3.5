@@ -2,9 +2,9 @@
 
 # __covering high-touch surfaces with antimicrobial material__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q41568378](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q41568378.md)
+* [The implementation of various disinfection methods, improved cleaning and sanitization protocols, and the use of eco-friendly disinfectants and advanced technologies have been prioritized.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_199.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [antimicrobial materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3442.md)
 * [regular cleaning of high-touch surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_506.md)
 * [surface sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3141.md)
+
+## This Technology is identified by the following QID
+
+* [Q41568378](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q41568378.md)
 

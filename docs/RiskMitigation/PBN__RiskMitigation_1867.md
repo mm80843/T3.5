@@ -2,9 +2,9 @@
 
 # __Develop backup systems and contingency plans, enhance cybersecurity measures, diversify communication channels and platforms.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Reliance on digital platforms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1371.md)
+* [Data privacy and security are prioritized through encryption, access controls, consent, and robust cybersecurity measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_335.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implementation of robust cybersecurity measures, data encryption, regular security audits](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2751.md)
 * [Improve capacity and resilience in the health sector, enhance surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2160.md)
 * [Implement robust cybersecurity nan measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2736.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Reliance on digital platforms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1371.md)
 

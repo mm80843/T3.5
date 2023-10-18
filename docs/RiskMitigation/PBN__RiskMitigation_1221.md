@@ -2,13 +2,9 @@
 
 # __Support for working from home__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lockdown Impact on Mental Health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_886.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved working performance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1216.md)
+* [Ensuring equitable access, promoting flexible work, implementing safety measures, and providing support for remote work and flexible schedules.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_323.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Promote home-based exercise programs, provide alternative modes of exercise that can be done at home.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1491.md)
 * [Implement flexible working arrangements, remote working, and training programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1791.md)
 * [Providing support and assistance to vulnerable populations in accessing UGS, such as transportation services or home visits](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2935.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved working performance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1216.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lockdown Impact on Mental Health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_886.md)
 

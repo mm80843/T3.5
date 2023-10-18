@@ -2,13 +2,9 @@
 
 # __Ethical guidelines for WBE__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Ethical considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_163.md)
-
-## Property: has_MitigationBenefit
-
-* [Protection of privacy and vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_220.md)
+* [Enforce safety measures, promote responsible behavior, utilize PPE, and prioritize risk prevention to ensure adequate protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_342.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [WBE for monitoring Covid-19](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1024.md)
 * [Use of WBE for tracking COVID-19 prevalence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1208.md)
 * [Implement workplace regulations and directives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_602.md)
+
+## Property: has_MitigationBenefit
+
+* [Protection of privacy and vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_220.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Ethical considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_163.md)
 

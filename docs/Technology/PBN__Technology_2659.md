@@ -2,9 +2,9 @@
 
 # __Far-UVC light sources__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
-* [Resilient Design](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_182.md)
+* [Innovative lighting solutions harnessing ultraviolet technology for optimal germicidal sterilization and energy efficiency, while maximizing natural light.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_235.md)
 
 ## Closest similar item
 
@@ -19,11 +19,15 @@
 * [uv-c emitters or lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4391.md)
 * [uv light fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3361.md)
 
-## This Technology belongs to this TechGroup
-
-* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_12.md)
-
 ## This Technology is identified by the following QID
 
 * [Q961734](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q961734.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Resilient Design](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_182.md)
+
+## This Technology belongs to this TechGroup
+
+* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_12.md)
 

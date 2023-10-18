@@ -2,9 +2,9 @@
 
 # __Ensure staff oversight when reviewing videos of questionable quality; use video libraries from surgical societies.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Access to Videos](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1268.md)
+* [Promote accurate and reliable information, combat misinformation, and increase media and public health literacy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_343.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Transparency and accountability in peer review](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_857.md)
 * [Development of clear legal and ethical guidelines, establishment of ethical review committees.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2603.md)
 * [Ensuring appropriate training and support for healthcare professionals, regular maintenance and quality control of equipment.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3047.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Access to Videos](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1268.md)
 

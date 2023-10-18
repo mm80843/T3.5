@@ -2,10 +2,9 @@
 
 # __Noise and Light Conditions__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [especially those in poorly lit areas or those performing visually demanding tasks](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_646.md)
-* [especially those who work in open offices or noisy environments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_653.md)
+* [Creating and maintaining a harmony between nature, sound and light, and structural surroundings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_271.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Landlords](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_71.md)
 * [Residential Characteristics](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_110.md)
 * [Ecology](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_165.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [especially those in poorly lit areas or those performing visually demanding tasks](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_646.md)
+* [especially those who work in open offices or noisy environments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_653.md)
 

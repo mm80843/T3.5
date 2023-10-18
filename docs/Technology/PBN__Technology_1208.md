@@ -2,9 +2,9 @@
 
 # __language-specific materials__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q34770](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q34770.md)
+* [Explore a diverse range of materials, from sound-absorbing to eco-friendly, that contribute to innovative building solutions and educational resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_222.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [education materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4344.md)
 * [multilingual communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1258.md)
 * [Multilingual communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2735.md)
+
+## This Technology is identified by the following QID
+
+* [Q34770](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q34770.md)
 

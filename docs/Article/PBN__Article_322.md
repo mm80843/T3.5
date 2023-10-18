@@ -2,6 +2,10 @@
 
 # __COVID-19 and Green Housing: A Review of Relevant Literature__
 
+## DOI of the article
+
+10.3390/en14082072
+
 ## Referenced by other articles
 
 * [COVID-19 Could Leverage a Sustainable Built Environment](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_316.md)
@@ -13,10 +17,6 @@
 * [Covid-19 and the politics of sustainable energy transitions](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_14.md)
 * [The Impact of Pandemic Crisis on the Survival of Construction Industry: A Case of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_168.md)
 * [The Effects of Pandemic on Construction Industry in the UK](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_75.md)
-
-## DOI of the article
-
-10.3390/en14082072
 
 ## Title of the article
 

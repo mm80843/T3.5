@@ -2,13 +2,9 @@
 
 # __Increased use of telehealth clinics__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Decreased in-person exposure to surgical education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_32.md)
-
-## Property: has_MitigationBenefit
-
-* [Continued involvement of residents with clinic](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_51.md)
+* [The trend towards remote and digital healthcare is encompassing telecommuting, telehealth, teleconferencing, wearable technology, touchless technologies, and mobile applications.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_328.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Telemedicine for psychosocial services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_830.md)
 * [Telemedicine and remote consultations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1434.md)
 * [Encourage voluntary home quarantine, expand telehealth services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1847.md)
+
+## Property: has_MitigationBenefit
+
+* [Continued involvement of residents with clinic](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_51.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Decreased in-person exposure to surgical education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_32.md)
 

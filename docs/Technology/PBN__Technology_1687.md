@@ -2,9 +2,9 @@
 
 # __statistical models__
 
-## Risks linked to this technology
+## Category to which it belongs
 
-* [Inaccurate case-based risk maps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2166.md)
+* [Advanced technologies and algorithms for modeling, simulation, optimization, and artificial intelligence in various applications, including robotics and computational fluid dynamics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_239.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [statistical software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4321.md)
 * [data analysis and modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_299.md)
 * [Data analysis and modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2055.md)
+
+## Risks linked to this technology
+
+* [Inaccurate case-based risk maps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2166.md)
 

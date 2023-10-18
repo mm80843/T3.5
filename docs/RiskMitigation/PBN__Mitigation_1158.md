@@ -2,8 +2,9 @@
 
 # __Individual hygiene__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Enhanced focus on cleanliness, including hand and respiratory hygiene, to prevent infection and improve personal wellbeing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_162.md)
 
 ## Closest similar item
 
@@ -18,14 +19,17 @@
 * [Improved hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2381.md)
 * [Hygiene and Sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_301.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Individuals should follow all government norms including washing hands, not touching their faces, adopting respiratory practices, maintaining physical distance, and self-isolating.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Impact of Covid-19 on the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_10.md)
+
+## This Mitigation is enabled by the following technologies
+
 

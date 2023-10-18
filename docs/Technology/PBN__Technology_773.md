@@ -2,9 +2,9 @@
 
 # __sanitizing wipes__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q15113991](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q15113991.md)
+* [The implementation of various disinfection methods, improved cleaning and sanitization protocols, and the use of eco-friendly disinfectants and advanced technologies have been prioritized.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_199.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [cleaning and sanitization equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3556.md)
 * [sanitization devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_720.md)
 * [Sanitization devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2592.md)
+
+## This Technology is identified by the following QID
+
+* [Q15113991](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q15113991.md)
 

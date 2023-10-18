@@ -2,9 +2,9 @@
 
 # __Low air change rates__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Glazed windows](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_813.md)
+* [Insufficient ventilation and indoor air pollution pose a risk to air quality and respiratory health, exacerbated by inadequate airflow control, limited natural ventilation, and air recirculation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_128.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Insufficient fresh air delivery in HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_276.md)
 * [Uneven air distribution and stagnant air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2755.md)
 * [Low indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1417.md)
+
+## Mitigations of this risk
+
+* [Glazed windows](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_813.md)
 

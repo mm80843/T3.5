@@ -2,9 +2,9 @@
 
 # __uv filter glass__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Roof UV filter glass](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1415.md)
+* [Innovative lighting solutions harnessing ultraviolet technology for optimal germicidal sterilization and energy efficiency, while maximizing natural light.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_235.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [water filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4259.md)
 * [uv irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_235.md)
 * [UV irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2703.md)
+
+## This Technology enables the following mitigations
+
+* [Roof UV filter glass](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1415.md)
 

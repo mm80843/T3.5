@@ -2,13 +2,9 @@
 
 # __Research and evaluation of UBPI effectiveness__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of quantitative evidence for UBPI](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_899.md)
-
-## Property: has_MitigationBenefit
-
-* [Increased evidence-base for UBPI](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1233.md)
+* [Monitoring, analysis, and standardization of various technologies and protocols for accurate and reliable healthcare data collection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_310.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Smartphone technology in research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1165.md)
 * [Screening technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_635.md)
 * [Increased testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_864.md)
+
+## Property: has_MitigationBenefit
+
+* [Increased evidence-base for UBPI](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1233.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of quantitative evidence for UBPI](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_899.md)
 

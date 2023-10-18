@@ -2,9 +2,9 @@
 
 # __Regular disinfection of frequently touched surfaces__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Contamination of frequently touched surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1421.md)
+* [Effective surface disinfection through regular cleaning and use of self-cleaning materials and antimicrobial coatings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_334.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Regular cleaning and disinfection, minimizing contact with high-touch surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2790.md)
 * [Regular cleaning and disinfection of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_718.md)
 * [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1131.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Contamination of frequently touched surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1421.md)
 

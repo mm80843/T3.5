@@ -2,10 +2,9 @@
 
 # __Guidelines and standards__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [certification systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3042.md)
-* [building codes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1495.md)
+* [Synthesizing, standardizing, and disseminating evidence to enhance accessibility and harmonize protocols for seamless communication and provision of public places.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_186.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Compliance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_296.md)
 * [Harmonisation guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2066.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Lack of clear guidance and standards](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2477.md)
-
 ## Property: has_MitigationPrinciple
 
 Develop and implement guidelines and standards for healthy building design, construction, and operation.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of clear guidance and standards](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2477.md)
+
 ## Property: has_MitigationSource
 
 * [Occupant health in buildings: Impact of the COVID-19 pandemic on the opinions of building professionals and implications on research](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_273.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [certification systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3042.md)
+* [building codes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1495.md)
 

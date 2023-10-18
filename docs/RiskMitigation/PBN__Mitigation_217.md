@@ -2,13 +2,9 @@
 
 # __Hand hygiene__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_412.md)
-* [hand sanitizer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3258.md)
-* [soap and water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3064.md)
-* [soap](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3086.md)
-* [water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3087.md)
+* [Enhanced focus on cleanliness, including hand and respiratory hygiene, to prevent infection and improve personal wellbeing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_162.md)
 
 ## Closest similar item
 
@@ -22,6 +18,10 @@
 * [Hand hygiene stations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2553.md)
 * [personal hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2554.md)
 * [hand soap](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2555.md)
+
+## Property: has_MitigationPrinciple
+
+Regular handwashing with soap and water or the use of hand sanitizers reduces the risk of transmission through contaminated hands.
 
 ## Risks possibly mitigated by this Mitigation
 
@@ -37,10 +37,6 @@
 * [Contagion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2685.md)
 * [Contaminated hands](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2505.md)
 * [Potential medium of transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3120.md)
-
-## Property: has_MitigationPrinciple
-
-Regular handwashing with soap and water or the use of hand sanitizers reduces the risk of transmission through contaminated hands.
 
 ## Property: has_MitigationSource
 
@@ -60,4 +56,12 @@ Regular handwashing with soap and water or the use of hand sanitizers reduces th
 * [El impacto del teletrabajo en tiempos del COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_108.md)
 * [Should I Stay or Should I Go? Tourists’ COVID-19 Risk Perception and Vacation Behavior Shift](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_81.md)
 * [Role of Information Technology in Covid-19 Prevention](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_267.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_412.md)
+* [hand sanitizer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3258.md)
+* [soap and water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3064.md)
+* [soap](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3086.md)
+* [water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3087.md)
 

@@ -2,9 +2,9 @@
 
 # __investments in clean energy and sustainable industries__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Green New Deal](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2267.md)
+* [Promotion of environmentally-friendly practices, green infrastructure, sustainable housing, renewable energy, and responsible building to enhance spaces and mitigate climate change.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_224.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [energy-efficient technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2312.md)
 * [investment in park infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3612.md)
 * [investments in healthcare facilities and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3283.md)
+
+## This Technology enables the following mitigations
+
+* [Green New Deal](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2267.md)
 

@@ -2,9 +2,9 @@
 
 # __strengthen peer review process__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q7096397](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7096397.md)
+* [Advanced analytics, fact-checking, project management, reliable sources, knowledge extraction, and collaboration ensure accurate information dissemination and effective decision-making.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_192.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [expert review platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1897.md)
 * [review committees](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1433.md)
 * [contract review systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4126.md)
+
+## This Technology is identified by the following QID
+
+* [Q7096397](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7096397.md)
 

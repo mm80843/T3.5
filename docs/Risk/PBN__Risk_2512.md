@@ -2,9 +2,9 @@
 
 # __Harmful to humans__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Upper-room UVGI](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_261.md)
+* [Health and safety concerns, risk communication strategy, and inadequate personal protective equipment are all indicative of potential hazards and vulnerabilities in various settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_126.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Health and safety concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_557.md)
 * [Harmful indoor air pollutants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_969.md)
 * [Health Harming Behaviours](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1433.md)
+
+## Mitigations of this risk
+
+* [Upper-room UVGI](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_261.md)
 

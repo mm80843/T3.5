@@ -2,9 +2,9 @@
 
 # __Homeless Individuals__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [homeless populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_711.md)
+* [A compilation of various groups of people distinguished by location, socio-economic status, and gender, related to real estate and housing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_242.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Affected Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_79.md)
 * [Social Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_138.md)
 * [Housing Authorities/Agencies](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_73.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [homeless populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_711.md)
 

@@ -2,9 +2,9 @@
 
 # __Financial risks, stranded assets__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Fossil fuel divestment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1055.md)
+* [Financial vulnerability and instability permeate various sectors and industries, hindering growth, sustainability, and access to resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_114.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Financial burden](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2496.md)
 * [Financial vulnerability of SMEs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_678.md)
 * [Financial crisis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2067.md)
+
+## Mitigations of this risk
+
+* [Fossil fuel divestment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1055.md)
 

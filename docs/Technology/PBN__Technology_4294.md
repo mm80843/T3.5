@@ -2,9 +2,9 @@
 
 # __recycling__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Proper waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_346.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Waste collection and disposal technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2728.md)
 * [waste management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_867.md)
 * [Waste management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2391.md)
+
+## This Technology enables the following mitigations
+
+* [Proper waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_346.md)
 

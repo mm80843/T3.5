@@ -2,9 +2,9 @@
 
 # __Media should accurately and responsibly report on preprints, and the public should rely on trusted sources for information.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Misuse of preprints by media and bad-faith actors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2331.md)
+* [Promote accurate and reliable information, combat misinformation, and increase media and public health literacy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_343.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Promote accurate information and fact-checking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2971.md)
 * [Promote accurate and timely information, combat misinformation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2475.md)
 * [Promoting accurate information from reliable sources, fact-checking, and public education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1464.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Misuse of preprints by media and bad-faith actors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2331.md)
 

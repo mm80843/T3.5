@@ -2,9 +2,9 @@
 
 # __Detection of SARS-CoV-2 in wastewater as a data source__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_149.md)
+* [The widespread transmission and persistence of the SARS-CoV-2 virus in various environments and the challenges in detecting and removing it.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_93.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [SARS-CoV-2 transmission through wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_368.md)
 * [Transmission of SARS-CoV-2 through sewage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_222.md)
 * [Poor removal of SARS-CoV-2 fragments in wastewater treatment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3429.md)
+
+## Mitigations of this risk
+
+* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_149.md)
 

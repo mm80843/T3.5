@@ -2,9 +2,9 @@
 
 # __Implement policies and strategies to ensure equitable access to green infrastructure in all neighborhoods__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Uneven distribution of green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1966.md)
+* [Promote biodiversity and sustainable urban development through the establishment and accessibility of green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_322.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Incorporating green and pedestrian infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_39.md)
 * [Urban greening initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_72.md)
 * [Ensure equitable distribution of urban green spaces by prioritizing underserved neighborhoods for green space development and improvement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2411.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Uneven distribution of green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1966.md)
 

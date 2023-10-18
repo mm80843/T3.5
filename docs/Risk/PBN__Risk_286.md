@@ -2,9 +2,9 @@
 
 # __Inequalities in health driven by urban design__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Redistributing housing, schools, and businesses to decrease agglomeration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_361.md)
+* [The intersection of human activity and health, integrating databases, limited healthcare access, sedentary lifestyles, neglecting public health requirements, and disparities in urban design contribute to public health concerns.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_116.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Building health issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1095.md)
 * [Inequalities in smart city development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2099.md)
 * [Open green spaces in urban periphery providing resilience to public health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_893.md)
+
+## Mitigations of this risk
+
+* [Redistributing housing, schools, and businesses to decrease agglomeration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_361.md)
 

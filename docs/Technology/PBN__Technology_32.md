@@ -2,9 +2,9 @@
 
 # __emergency response systems__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q814610](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q814610.md)
+* [Safety protocols, emergency response plans, risk assessment tools, and comprehensive risk communication strategies ensure workplace safety and crisis management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_232.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [emergency transportation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4177.md)
 * [emergency psychiatric services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1289.md)
 * [disaster management center](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4410.md)
+
+## This Technology is identified by the following QID
+
+* [Q814610](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q814610.md)
 

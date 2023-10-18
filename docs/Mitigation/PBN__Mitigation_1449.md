@@ -2,8 +2,9 @@
 
 # __Support for Unemployed Individuals__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Promoting well-being and resilience through various forms of support, resources, and assistance for individuals in need.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_143.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Socioeconomic Support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1651.md)
 * [Government Support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1022.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Financial strain on government budgets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3077.md)
-
 ## Property: has_MitigationPrinciple
 
 Provide financial support to individuals who have lost their jobs due to the pandemic
 
+## Risks possibly mitigated by this Mitigation
+
+* [Financial strain on government budgets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3077.md)
+
 ## Property: has_MitigationSource
 
 * [The socio-economic implications of the coronavirus pandemic (COVID-19): A review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_135.md)
+
+## This Mitigation is enabled by the following technologies
+
 

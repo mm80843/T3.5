@@ -2,9 +2,9 @@
 
 # __iot device manufacturers__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [IoT device vulnerabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1276.md)
+* [Stakeholders in various industries, from manufacturing to retail, including users and suppliers, with a focus on wearables.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_371.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [purpose-built IoT devices](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2980.md)
 * [iot sensors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2978.md)
 * [internet of things (iot) devices](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2976.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [IoT device vulnerabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1276.md)
 

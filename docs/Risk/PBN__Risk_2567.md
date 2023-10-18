@@ -2,9 +2,9 @@
 
 # __Resistance to new materials__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Opportunities for new materials for performative insulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_419.md)
+* [Challenges in building industry include lack of understanding, high costs, inadequate preparedness, and slow adoption of new technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_98.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Material shortages](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3218.md)
 * [Risk of resistance development to anti-SARS-CoV-2 coatings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1181.md)
 * [Delays due to lack of materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2846.md)
+
+## Mitigations of this risk
+
+* [Opportunities for new materials for performative insulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_419.md)
 

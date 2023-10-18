@@ -2,13 +2,9 @@
 
 # __Collaboration with universities__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Impact on future workforce](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_503.md)
-
-## Property: has_MitigationBenefit
-
-* [Skill development](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_715.md)
+* [Strengthen collaborations, implement behavioral change, deploy social robots, and promote sustainable content consumption for community-based strategies, holistic research, and positive media representation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_316.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Collaborate with multiple institutions to share data, invest in data collection and analysis.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1545.md)
 * [Strengthening partnerships](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1067.md)
 * [Strengthen coordination and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1034.md)
+
+## Property: has_MitigationBenefit
+
+* [Skill development](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_715.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Impact on future workforce](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_503.md)
 

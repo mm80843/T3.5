@@ -2,9 +2,9 @@
 
 # __proper operation and maintenance of heat recovery systems in hvac systems__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q10717653](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q10717653.md)
+* [Improved and energy-efficient HVAC systems, along with advanced technologies, for efficient energy management and environmental control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_227.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Continuous operation of HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2764.md)
 * [hvac maintenance and cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4059.md)
 * [in hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_683.md)
+
+## This Technology is identified by the following QID
+
+* [Q10717653](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q10717653.md)
 

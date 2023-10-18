@@ -2,9 +2,9 @@
 
 # __WhatsApp Chatbot__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [whatsapp](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4020.md)
+* [Enabling technology and tools for connectivity, privacy, convenience, and efficient communication in a digital age.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_156.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Phone-based AI software for patient data collection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1406.md)
 * [Social robots for continued social interactions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2425.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Security risks, spread of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3224.md)
-
 ## Property: has_MitigationPrinciple
 
 Provides accurate information about COVID-19 and combats the spread of misinformation by sharing guidelines and updates from legitimate sources.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Security risks, spread of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3224.md)
+
 ## Property: has_MitigationSource
 
 * [Mobile Technology Solution for COVID-19: Surveillance and Prevention](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_239.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [whatsapp](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4020.md)
 

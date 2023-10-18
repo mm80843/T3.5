@@ -2,9 +2,9 @@
 
 # __Financial viability of businesses__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Support measures for commercial and small industrial activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1984.md)
+* [Financial vulnerability and instability permeate various sectors and industries, hindering growth, sustainability, and access to resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_114.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Financial difficulties](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2848.md)
 * [Financial impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_599.md)
 * [SMEs’ difficulty accessing finance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3542.md)
+
+## Mitigations of this risk
+
+* [Support measures for commercial and small industrial activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1984.md)
 

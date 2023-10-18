@@ -2,9 +2,9 @@
 
 # __Incomplete vaccination data__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Data completion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1623.md)
+* [The challenges in vaccination include limited storage capacity, high patient demand, inefficient resource use, distribution difficulties, waning vaccine effectiveness, and unequal access.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_113.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Vaccine distribution and storage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1908.md)
 * [Unequal vaccine access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2907.md)
 * [High patient demand for vaccinations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_155.md)
+
+## Mitigations of this risk
+
+* [Data completion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1623.md)
 

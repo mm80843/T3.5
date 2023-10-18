@@ -2,13 +2,9 @@
 
 # __Shift towards integrated and non-centralized building systems__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [New opportunities for non-centralized building systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_250.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved indoor air quality and health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_302.md)
+* [Designing affordable, adaptable, and sustainable housing with improved building environments and optimized spatial layouts, while incorporating flexible and human-centric design elements and considering health, safety, and environmental parameters.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_326.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Green retrofit of buildings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_423.md)
 * [Adaptive design of built environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_753.md)
 * [Use more energy-efficient building designs, integrate energy-saving technologies (e.g., DBAF).](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3000.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved indoor air quality and health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_302.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [New opportunities for non-centralized building systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_250.md)
 

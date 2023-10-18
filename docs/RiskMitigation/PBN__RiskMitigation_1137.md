@@ -2,13 +2,9 @@
 
 # __Provide adequate healthcare services and support__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Precarious situation of vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_830.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction in health inequalities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_226.md)
+* [Enhancing healthcare infrastructure, increasing capacity, and ensuring access to medical resources and services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_330.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Increase healthcare resources and facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2008.md)
 * [Strengthen healthcare infrastructure, increase resources and capacity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2286.md)
 * [Provide financial support to affected individuals and businesses, maintain access to essential services.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2485.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction in health inequalities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_226.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Precarious situation of vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_830.md)
 

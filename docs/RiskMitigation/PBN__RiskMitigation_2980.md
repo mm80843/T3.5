@@ -2,9 +2,9 @@
 
 # __to digital platforms for__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [mobility on mental](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2292.md)
+* [Accelerate the shift to digitalization by embracing emerging technologies and implementing innovative solutions across various sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_346.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Bridge the digital divide, ensure equal access and affordability, promote digital literacy.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2785.md)
 * [Adoption of digital technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_751.md)
 * [Integration of digital solutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1433.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [mobility on mental](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2292.md)
 

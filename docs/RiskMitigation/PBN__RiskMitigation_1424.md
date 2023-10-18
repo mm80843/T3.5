@@ -2,13 +2,9 @@
 
 # __Wearable devices for the detection of COVID-19__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Asymptomatic and pre-symptomatic cases of COVID-19 not being detected early](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1002.md)
-
-## Property: has_MitigationBenefit
-
-* [Early detection of asymptomatic and pre-symptomatic cases](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1394.md)
+* [Implement comprehensive strategies to control virus transmission, improve surveillance, develop antiviral coatings, and enhance infection control measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_309.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Conducting training programs and educational sessions on COVID-19 protocols and infection control measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1992.md)
 * [Use of WBE for tracking COVID-19 prevalence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1208.md)
 * [Wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_498.md)
+
+## Property: has_MitigationBenefit
+
+* [Early detection of asymptomatic and pre-symptomatic cases](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1394.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Asymptomatic and pre-symptomatic cases of COVID-19 not being detected early](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1002.md)
 

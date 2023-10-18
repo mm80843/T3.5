@@ -2,6 +2,23 @@
 
 # __Surveillance systems__
 
+## Category to which it belongs
+
+* [Watchful electronic systems that monitor and observe activities or situations for security purposes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_290.md)
+
+## Closest similar item
+
+* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
+* [surveillance system](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_19.md)
+* [digital surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_20.md)
+* [surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_21.md)
+* [Surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_22.md)
+* [surveillance technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_23.md)
+* [improved surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_24.md)
+* [Improved surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_25.md)
+* [video surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_26.md)
+* [surveillance](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_27.md)
+
 ## This Technology belongs to this TechnologyGroup
 
 * [contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
@@ -100,17 +117,4 @@
 * [CCTV](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2430.md)
 * [vital sign monitoring equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2465.md)
 * [Beach monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2448.md)
-
-## Closest similar item
-
-* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
-* [surveillance system](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_19.md)
-* [digital surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_20.md)
-* [surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_21.md)
-* [Surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_22.md)
-* [surveillance technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_23.md)
-* [improved surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_24.md)
-* [Improved surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_25.md)
-* [video surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_26.md)
-* [surveillance](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_27.md)
 

@@ -2,13 +2,13 @@
 
 # __route optimization algorithms__
 
+## Category to which it belongs
+
+* [Advanced technologies and algorithms for modeling, simulation, optimization, and artificial intelligence in various applications, including robotics and computational fluid dynamics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_239.md)
+
 ## Risks linked to this technology
 
 * [Inefficient navigation routes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1238.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Resource and Project Management Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_4.md)
 
 ## Closest similar item
 
@@ -23,11 +23,15 @@
 * [data optimization techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_176.md)
 * [Data optimization techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2099.md)
 
-## This Technology belongs to this TechGroup
-
-* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
-
 ## This Technology is identified by the following QID
 
 * [Q350882](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q350882.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Resource and Project Management Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_4.md)
+
+## This Technology belongs to this TechGroup
+
+* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
 

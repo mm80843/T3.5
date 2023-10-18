@@ -2,9 +2,9 @@
 
 # __surgical techniques__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Cytoreduction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_593.md)
+* [Advancements in biotechnology, clinical research, and innovative therapies contribute to the development of medical solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [heat treatment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3633.md)
 * [sterilization procedures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4108.md)
 * [surgical video libraries](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_394.md)
+
+## This Technology enables the following mitigations
+
+* [Cytoreduction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_593.md)
 

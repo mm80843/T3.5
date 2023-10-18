@@ -2,9 +2,9 @@
 
 # __Consult ethical guidelines, obtain necessary approvals, and ensure proper data interpretation and use__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Ethical considerations for wastewater-based epidemiology (WBE)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1054.md)
+* [Enforce safety measures, promote responsible behavior, utilize PPE, and prioritize risk prevention to ensure adequate protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_342.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Adhere to privacy policies, standardize and regulate healthcare technology, obtain legal advice](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2747.md)
 * [Stay updated on laws and regulations, implement appropriate compliance measures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2787.md)
 * [Evaluate and update NPHIs based on scientific evidence, implement a combination of interventions, ensure compliance with guidelines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2030.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Ethical considerations for wastewater-based epidemiology (WBE)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1054.md)
 

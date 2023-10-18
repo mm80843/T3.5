@@ -2,13 +2,9 @@
 
 # __Streamlining travel processes and minimizing delays__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Time Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_88.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction in time-related risks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_118.md)
+* [Implement travel restrictions, promote active transportation, streamline processes, provide accurate information, and develop sustainable transport options.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_325.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Providing accurate and up-to-date information, offering flexible travel options, and ensuring efficient transportation and service operations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2212.md)
 * [Implement travel restrictions and controls](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2848.md)
 * [Responsible transport](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_278.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction in time-related risks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_118.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Time Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_88.md)
 

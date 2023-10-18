@@ -2,13 +2,9 @@
 
 # __Implementing flexible work schedules__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Increase in workload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_166.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduced stress and overwhelm](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_222.md)
+* [Ensuring equitable access, promoting flexible work, implementing safety measures, and providing support for remote work and flexible schedules.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_323.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implement shift and break schedules](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_385.md)
 * [Adjusting work schedules, staggering shifts, use of PPE](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2708.md)
 * [Providing appropriate resources and support for remote work, implementing flexible working hours, and utilizing technology for virtual collaboration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1996.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced stress and overwhelm](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_222.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Increase in workload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_166.md)
 

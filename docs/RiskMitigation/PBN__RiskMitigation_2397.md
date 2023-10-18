@@ -2,9 +2,9 @@
 
 # __Provide financial aid and support to hospitality and tourism industry, adapt business models for survival__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Impact on hospitality, tourism, and aviation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1813.md)
+* [Promote sustainable development through infrastructure investments, training, diversification, financial support, and government partnerships.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_315.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Provide job retention schemes and financial support for affected industries, promote job transitions and reskilling opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2431.md)
 * [Adaptation of tourism offerings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_411.md)
 * [Seek alternative sources of funding, diversify revenue streams, engage in partnerships and collaborations for financial support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2843.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Impact on hospitality, tourism, and aviation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1813.md)
 

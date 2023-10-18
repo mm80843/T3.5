@@ -2,9 +2,9 @@
 
 # __Privacy risks, stigmatization__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Ethical Considerations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1926.md)
+* [Concerns about the protection of personal information, surveillance, data security, and risks of privacy infringement.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_108.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Security and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2083.md)
 * [Stigma and discrimination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_123.md)
 * [Discrimination and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3127.md)
+
+## Mitigations of this risk
+
+* [Ethical Considerations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1926.md)
 

@@ -2,10 +2,9 @@
 
 # __Increased anxiety and negative psychological effects__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Creation of online content for psychological support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_970.md)
-* [Decreased show-off behavior on social media](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_967.md)
+* [The toll of mental health harms, health harming behaviors, and the psychological impact of quarantine, fear, and anxiety has increased, affecting various populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_95.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Psychological impact and mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1765.md)
 * [Increased fear, disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2644.md)
 * [Impact on Mental Health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1077.md)
+
+## Mitigations of this risk
+
+* [Creation of online content for psychological support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_970.md)
+* [Decreased show-off behavior on social media](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_967.md)
 

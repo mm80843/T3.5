@@ -2,9 +2,9 @@
 
 # __augmented reality technology__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Public places as informative nodes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_410.md)
+* [Technological advancements encompass a wide range of innovations, such as blockchain, touchless, renewable energy, and communication technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [digital technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2920.md)
 * [computer vision](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3762.md)
 * [tracking technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1722.md)
+
+## This Technology enables the following mitigations
+
+* [Public places as informative nodes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_410.md)
 

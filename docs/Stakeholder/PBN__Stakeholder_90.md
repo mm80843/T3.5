@@ -2,13 +2,9 @@
 
 # __finance sector__
 
-## This Stakeholder can get these Benefits from mitigation measures
+## Category to which it belongs
 
-* [Private investment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_151.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q57774188](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q57774188.md)
+* [All actors in the economic and political landscape, including policymakers, governments, and regulatory bodies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_357.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [global economic and financial systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_24.md)
 * [real estate sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1886.md)
 * [housing sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1938.md)
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Private investment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_151.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q57774188](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q57774188.md)
 

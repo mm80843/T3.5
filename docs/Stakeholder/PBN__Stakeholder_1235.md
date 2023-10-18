@@ -2,9 +2,9 @@
 
 # __users of urban green spaces__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Inadequate maintenance and management of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1826.md)
+* [Individuals in various types of spaces, including public, indoor, and confined areas, with varying access to green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_378.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [green space advocates](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2690.md)
 * [visitors to green areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1509.md)
 * [individuals with access to private green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_305.md)
+
+## Risk affecting this stakeholder
+
+* [Inadequate maintenance and management of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1826.md)
 

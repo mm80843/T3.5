@@ -2,9 +2,9 @@
 
 # __Increased air change rates__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Window opening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_811.md)
+* [Insufficient ventilation and indoor air pollution pose a risk to air quality and respiratory health, exacerbated by inadequate airflow control, limited natural ventilation, and air recirculation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_128.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Air control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_496.md)
 * [Air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3349.md)
 * [Increased congestion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2798.md)
+
+## Mitigations of this risk
+
+* [Window opening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_811.md)
 

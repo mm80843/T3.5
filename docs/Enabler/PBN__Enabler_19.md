@@ -2,13 +2,13 @@
 
 # __SmartPhones__
 
-## Property: has_TechEquivalent
-
-* [SmartPhones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4544.md)
-
 ## Property: has_BP_EnablerTitle
 
 enabler_020
+
+## Category to which it belongs
+
+* [Mobile communication devices with advanced features and capabilities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_79.md)
 
 ## Closest similar item
 
@@ -36,4 +36,8 @@ enabler_020
 * [Good hand hygiene practice](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_14.md)
 * [Reducing contact points](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_15.md)
 * [Animal vectors control measures](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_18.md)
+
+## Property: has_TechEquivalent
+
+* [SmartPhones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4544.md)
 

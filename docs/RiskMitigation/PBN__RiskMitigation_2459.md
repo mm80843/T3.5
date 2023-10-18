@@ -2,9 +2,9 @@
 
 # __Implement noise reduction measures, regulate noise levels in urban areas, promote soundproofing measures__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Noise Pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1120.md)
+* [Enhance acoustics and reduce noise through design, materials, insulation, regulations, and community engagement.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_350.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement crowd control measures, promote physical distancing, limit occupancy in congested areas.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2182.md)
 * [Enhance sound insulation guidelines for buildings and encourage respectful neighbor behavior during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2176.md)
 * [Implement proper noise insulation and acoustics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2891.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Noise Pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1120.md)
 

@@ -2,10 +2,9 @@
 
 # __Design Strategies__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [biophilic design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1374.md)
-* [Indoor biophilic design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2262.md)
+* [Strategic approaches that promote adaptability and durability in the field of design.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_55.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Building Materials](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_180.md)
 * [Capacity Building and Support Programs](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_105.md)
 * [Communication and Coordination Platforms](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_26.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [biophilic design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1374.md)
+* [Indoor biophilic design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2262.md)
 

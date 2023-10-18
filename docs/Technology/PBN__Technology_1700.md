@@ -2,9 +2,9 @@
 
 # __remote data collection tools__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q28454366](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q28454366.md)
+* [Technologies and tools used for working, monitoring, communicating, and assessing remotely, including remote healthcare and education technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_215.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Remote working tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2831.md)
 * [data management tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_781.md)
 * [data collection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_760.md)
+
+## This Technology is identified by the following QID
+
+* [Q28454366](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q28454366.md)
 

@@ -2,9 +2,9 @@
 
 # __high-resolution land use data__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Land use data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2206.md)
+* [Urban green space solutions include tree planting, zoning regulations, landscape architecture, community gardens, outdoor furniture, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_231.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [landscaping techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_923.md)
 * [geographic information systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1214.md)
 * [Geographic information systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2385.md)
+
+## This Technology enables the following mitigations
+
+* [Land use data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2206.md)
 

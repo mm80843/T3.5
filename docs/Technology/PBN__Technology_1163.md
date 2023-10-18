@@ -2,9 +2,9 @@
 
 # __funding support__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q6055890](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6055890.md)
+* [Government programs and initiatives provide support, training, and financial assistance for education, healthcare, employment, and overall well-being.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_210.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Financial support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2249.md)
 * [healthcare funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1854.md)
 * [local funding sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4226.md)
+
+## This Technology is identified by the following QID
+
+* [Q6055890](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6055890.md)
 

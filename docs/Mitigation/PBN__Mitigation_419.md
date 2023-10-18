@@ -2,10 +2,9 @@
 
 # __Opportunities for new materials for performative insulation__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [airborne virus filtration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3211.md)
-* [new material composites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3210.md)
+* [Enhanced disease investigation and prevention methods, including biomarkers, antimicrobial coatings, and AI-driven tools, advance public health.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_155.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Shielding](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3789.md)
 * [Material shortage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3790.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Resistance to new materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2567.md)
-
 ## Property: has_MitigationPrinciple
 
 Develop and implement new materials for performative insulation in buildings to enhance safety, health, and building performance
 
+## Risks possibly mitigated by this Mitigation
+
+* [Resistance to new materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2567.md)
+
 ## Property: has_MitigationSource
 
 * [Revisiting the built environment: 10 potential development changes and paradigm shifts due to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_59.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [airborne virus filtration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3211.md)
+* [new material composites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3210.md)
 

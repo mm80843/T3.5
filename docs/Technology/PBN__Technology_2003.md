@@ -2,9 +2,9 @@
 
 # __recycling infrastructure__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q132580](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q132580.md)
+* [The built environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_230.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [waste collection and disposal technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_92.md)
 * [Waste collection and disposal technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2728.md)
 * [waste management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_867.md)
+
+## This Technology is identified by the following QID
+
+* [Q132580](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q132580.md)
 

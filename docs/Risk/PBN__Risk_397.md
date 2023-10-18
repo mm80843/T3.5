@@ -2,9 +2,9 @@
 
 # __Lack of collaboration and coordination__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Providing platforms for cross-sectoral dialogue](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_554.md)
+* [Insufficient awareness, limited resources, inadequate communication, and lack of preparedness contribute to various challenges and deficiencies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_118.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of collaboration between stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1435.md)
 * [Lack of multi-sectoral collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1648.md)
 * [Lack of coordination and harmonization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_815.md)
+
+## Mitigations of this risk
+
+* [Providing platforms for cross-sectoral dialogue](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_554.md)
 

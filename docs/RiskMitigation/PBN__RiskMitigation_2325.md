@@ -2,9 +2,9 @@
 
 # __Control humidity levels to 60% or less when using UVGI systems__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Effectiveness of UVGI decreases as humidity increases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1756.md)
+* [Utilize UVGI technology to disinfect air, surfaces, and clothing, ensuring proper installation, training, and research to optimize effectiveness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_352.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Use of UVGI devices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_521.md)
 * [Temperature and humidity control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_194.md)
 * [Consider alternative infection control technologies, such as laminar airflow, before using UVGI systems in operating rooms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2328.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Effectiveness of UVGI decreases as humidity increases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1756.md)
 

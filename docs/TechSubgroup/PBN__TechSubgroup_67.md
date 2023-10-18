@@ -2,12 +2,9 @@
 
 # __Emergency Support and Safety__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [Hotlines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2191.md)
-* [Community support groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2192.md)
-* [Community outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2190.md)
-* [Easily accessible safety resources and contacts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2189.md)
+* [Assistance and protection in times of crisis and potential harm.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_56.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [Risk Detection and Early Response Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_154.md)
 * [Financial Support and Funding](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_35.md)
 * [Personal Protective Equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_58.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [Hotlines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2191.md)
+* [Community support groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2192.md)
+* [Community outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2190.md)
+* [Easily accessible safety resources and contacts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2189.md)
 

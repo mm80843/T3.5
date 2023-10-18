@@ -2,9 +2,9 @@
 
 # __proper sanitation practices__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Hygienic measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_878.md)
+* [Enhanced hygiene practices and strict adherence to cleaning protocols ensure rigorous sanitation and disinfection measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_196.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Improved sanitation and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2593.md)
 * [sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_626.md)
 * [increased cleaning and sanitation protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1824.md)
+
+## This Technology enables the following mitigations
+
+* [Hygienic measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_878.md)
 

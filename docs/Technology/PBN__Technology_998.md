@@ -2,9 +2,9 @@
 
 # __improved water treatment technologies__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1058719](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1058719.md)
+* [Improvements in wastewater, waste management, sanitation, water purification, and plumbing technologies aim for sustainable and efficient infrastructure development.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_234.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Water purification technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2786.md)
 * [water-saving technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4280.md)
 * [water purification and distribution technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_91.md)
+
+## This Technology is identified by the following QID
+
+* [Q1058719](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1058719.md)
 

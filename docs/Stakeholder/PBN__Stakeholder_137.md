@@ -7,6 +7,10 @@
 * [Enhanced understanding of virus transmission mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_272.md)
 * [Better understanding of virus viability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_274.md)
 
+## Category to which it belongs
+
+* [Experts from various fields including research, risk assessment, education, science, HVAC, and IT.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_356.md)
+
 ## Closest similar item
 
 * [scientists and researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_355.md)

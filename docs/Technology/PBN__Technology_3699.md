@@ -2,9 +2,9 @@
 
 # __water movement__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Algae Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1149.md)
+* [Improvements in wastewater, waste management, sanitation, water purification, and plumbing technologies aim for sustainable and efficient infrastructure development.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_234.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [rainwater capture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1774.md)
 * [fountains](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3695.md)
 * [water usage reduction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4260.md)
+
+## This Technology enables the following mitigations
+
+* [Algae Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1149.md)
 

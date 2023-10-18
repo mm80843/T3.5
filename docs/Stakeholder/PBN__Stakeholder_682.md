@@ -2,13 +2,13 @@
 
 # __public spaces__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q294440](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q294440.md)
+* [Individuals in various types of spaces, including public, indoor, and confined areas, with varying access to green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_378.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [City Officials](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_0.md)
+* [Insufficient behavior and adherence to guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1143.md)
 
 ## Closest similar item
 
@@ -23,11 +23,15 @@
 * [outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3026.md)
 * [Outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3027.md)
 
-## Risk affecting this stakeholder
-
-* [Insufficient behavior and adherence to guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1143.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Public Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_3.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q294440](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q294440.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [City Officials](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_0.md)
 

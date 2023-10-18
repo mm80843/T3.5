@@ -2,13 +2,17 @@
 
 # __nurses__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q3879911](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3879911.md)
+* [Entities and individuals who interact with or are affected by a system, organization, or public facility.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_1.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
+* [Psychological problems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1470.md)
+* [Shortage in nursing staff](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1469.md)
+* [Changes in work schedules of nursing staff](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1471.md)
+* [Exchange process (deal between university hospitals)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1472.md)
+* [Support at individual level](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1476.md)
 
 ## Closest similar item
 
@@ -23,15 +27,15 @@
 * [hospital workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_432.md)
 * [healthcare staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_139.md)
 
-## Risk affecting this stakeholder
-
-* [Psychological problems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1470.md)
-* [Shortage in nursing staff](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1469.md)
-* [Changes in work schedules of nursing staff](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1471.md)
-* [Exchange process (deal between university hospitals)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1472.md)
-* [Support at individual level](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1476.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Specific Roles and Job Titles](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_21.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q3879911](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3879911.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
 

@@ -2,9 +2,9 @@
 
 # __Further research and investigation needed to confirm the possibility of fecal-oral transmission route.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Potential fecal-oral transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1948.md)
+* [Implement wastewater surveillance techniques to detect viral presence, optimize treatment processes, and inform public health interventions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_308.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Provide separate toilets for infected](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2878.md)
 * [Use appropriate personal protective equipment (PPE) and adhere to hygiene protocols.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1828.md)
 * [IoT in drug delivery](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_141.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Potential fecal-oral transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1948.md)
 

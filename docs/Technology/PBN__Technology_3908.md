@@ -2,9 +2,9 @@
 
 # __sartorius md8 sampler__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Air sampling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1521.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [pcr techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4138.md)
 * [pcr assay](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3073.md)
 * [digital rt-pcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2947.md)
+
+## This Technology enables the following mitigations
+
+* [Air sampling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1521.md)
 

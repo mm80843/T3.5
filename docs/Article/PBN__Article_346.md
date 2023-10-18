@@ -2,13 +2,13 @@
 
 # __Urban forms and green infrastructure – the implications for public health during the COVID-19 pandemic__
 
-## Title of the article
-
-Urban forms and green infrastructure – the implications for public health during the COVID-19 pandemic
-
 ## DOI of the article
 
 10.1080/23748834.2020.1791441
+
+## Title of the article
+
+Urban forms and green infrastructure – the implications for public health during the COVID-19 pandemic
 
 ## Year of publication
 

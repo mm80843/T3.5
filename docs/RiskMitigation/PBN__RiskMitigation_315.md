@@ -2,15 +2,9 @@
 
 # __UVGI__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_254.md)
-* [Airborne pathogen](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_845.md)
-
-## Property: has_MitigationBenefit
-
-* [Inactivation of pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_316.md)
-* [Pathogen inactivation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_998.md)
+* [Utilize UVGI technology to disinfect air, surfaces, and clothing, ensuring proper installation, training, and research to optimize effectiveness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_352.md)
 
 ## Closest similar item
 
@@ -24,4 +18,14 @@
 * [Develop standardized tests and protocols for UVGI efficacy, ensure testing reflects real-world conditions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2327.md)
 * [Implement Ultraviolet Germicidal Irradiation (UVGI)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_191.md)
 * [Ensure proper use and maintenance of UVGI systems, provide training and protective equipment for occupants and service personnel](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2330.md)
+
+## Property: has_MitigationBenefit
+
+* [Inactivation of pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_316.md)
+* [Pathogen inactivation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_998.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_254.md)
+* [Airborne pathogen](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_845.md)
 

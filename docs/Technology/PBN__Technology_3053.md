@@ -2,9 +2,9 @@
 
 # __safety measures__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Emergency Preparedness Planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_190.md)
+* [Safety protocols, emergency response plans, risk assessment tools, and comprehensive risk communication strategies ensure workplace safety and crisis management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_232.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2178.md)
 * [fire safety measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3418.md)
 * [rigorous safety testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2025.md)
+
+## This Technology enables the following mitigations
+
+* [Emergency Preparedness Planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_190.md)
 

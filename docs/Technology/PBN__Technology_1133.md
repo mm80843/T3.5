@@ -2,9 +2,9 @@
 
 # __demand forecasting and planning software__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q3409300](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3409300.md)
+* [A list of diverse software tools, including financial management, construction technology, project management, communication, and monitoring software.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_219.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [demand response technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_353.md)
 * [Space planning software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2327.md)
 * [space planning software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1835.md)
+
+## This Technology is identified by the following QID
+
+* [Q3409300](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3409300.md)
 

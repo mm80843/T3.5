@@ -2,10 +2,9 @@
 
 # __online survey platforms__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Online data collection methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2447.md)
-* [Online questionnaire survey](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2205.md)
+* [Digital platforms and online resources facilitate collaboration, communication, and information sharing among individuals and organizations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_193.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [online recruitment platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_813.md)
 * [online platforms for sharing information](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_253.md)
 * [e-participation platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3117.md)
+
+## This Technology enables the following mitigations
+
+* [Online data collection methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2447.md)
+* [Online questionnaire survey](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2205.md)
 

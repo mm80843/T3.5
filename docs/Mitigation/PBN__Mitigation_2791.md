@@ -2,6 +2,10 @@
 
 # __Marking 6’ distances and one-way traffic__
 
+## Category to which it belongs
+
+* [Enhancing urban mobility through pedestrian-friendly infrastructure, optimized transportation, and improved public transportation systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_151.md)
+
 ## Closest similar item
 
 * [Broad sidewalks and pedestrian crossings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1169.md)

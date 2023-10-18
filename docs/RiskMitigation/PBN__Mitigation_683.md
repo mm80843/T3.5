@@ -2,8 +2,9 @@
 
 # __Immediate Consequences Messaging__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Enhancing safety and efficiency through comprehensive measures, technology integration, diverse environments, and behavioral adjustments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_157.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1063.md)
 * [Clear communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_594.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Perception of climate change as distant](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2686.md)
-
 ## Property: has_MitigationPrinciple
 
 Emphasize the immediate impacts of climate change on individuals to increase awareness and perception of personal risk
 
+## Risks possibly mitigated by this Mitigation
+
+* [Perception of climate change as distant](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2686.md)
+
 ## Property: has_MitigationSource
 
 * [What our response to the COVID-19 pandemic tells us of our capacity to respond to climate change](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_257.md)
+
+## This Mitigation is enabled by the following technologies
+
 

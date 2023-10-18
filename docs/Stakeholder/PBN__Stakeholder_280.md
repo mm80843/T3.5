@@ -6,6 +6,10 @@
 
 * [Reduced vulnerability and improved living conditions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_671.md)
 
+## Category to which it belongs
+
+* [Vulnerable and economically disadvantaged individuals and communities, including low-income workers, renters, and households, particularly in urban areas and minority communities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_375.md)
+
 ## Closest similar item
 
 * [low-income populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_110.md)

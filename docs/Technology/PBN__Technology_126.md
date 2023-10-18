@@ -2,9 +2,9 @@
 
 # __flexible work policies__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1135326](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1135326.md)
+* [Government actions and regulations addressing various aspects of society, including policy changes, ethical frameworks, governance mechanisms, and public announcements.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_216.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [enhanced legal protections for workers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4380.md)
 * [inclusive policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1806.md)
 * [policy measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3590.md)
+
+## This Technology is identified by the following QID
+
+* [Q1135326](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1135326.md)
 

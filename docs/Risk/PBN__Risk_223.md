@@ -2,9 +2,9 @@
 
 # __Transmission of SARS-CoV-2 through respiratory droplets__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Staff respiratory specimens testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_267.md)
+* [The widespread transmission and persistence of the SARS-CoV-2 virus in various environments and the challenges in detecting and removing it.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_93.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Transmission of SARS-CoV-2 through indoor air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2294.md)
 * [Transmission of SARS-CoV-2 through contact with contaminated objects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_221.md)
 * [Spread of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_642.md)
+
+## Mitigations of this risk
+
+* [Staff respiratory specimens testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_267.md)
 

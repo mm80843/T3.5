@@ -2,9 +2,9 @@
 
 # __Lack of understanding and data on virus spread__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Virus Quantification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_948.md)
+* [The wide-ranging transmission, survival, and spread of infectious respiratory viruses and pathogens indoors and on surfaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_122.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Virus outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_959.md)
 * [Virus propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1032.md)
 * [Outbreak spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2759.md)
+
+## Mitigations of this risk
+
+* [Virus Quantification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_948.md)
 

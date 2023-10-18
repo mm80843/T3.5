@@ -2,9 +2,9 @@
 
 # __Implement proper disinfection measures__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [WM2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2213.md)
+* [Implement rigorous cleaning and disinfection measures, including the use of antimicrobial materials and advanced technologies, to maintain a safe and hygienic environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_2.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Preprocessing disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_266.md)
 * [Implement improved cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_604.md)
 * [Use of disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_721.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [WM2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2213.md)
 

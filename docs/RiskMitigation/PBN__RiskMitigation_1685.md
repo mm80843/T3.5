@@ -2,9 +2,9 @@
 
 # __Clear guidelines and regulations on data usage, decentralization of data ownership.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Ethical considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_163.md)
+* [Data privacy and security are prioritized through encryption, access controls, consent, and robust cybersecurity measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_335.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Decentralizing data ownership and establishing secure transmission of biometric data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_950.md)
 * [Establish limits for private use of public data, ensure data is used solely for urban management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1517.md)
 * [Strong data encryption, secure data storage, consent-based data sharing.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1683.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Ethical considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_163.md)
 

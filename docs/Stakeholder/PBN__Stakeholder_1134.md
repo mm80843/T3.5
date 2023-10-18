@@ -2,9 +2,9 @@
 
 # __such as tropical regions or areas with poor ventilation__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Effect of humidity on virus viability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1707.md)
+* [Individuals in low-income or low-education groups, crowded/poorly ventilated spaces, lockdown areas, and densely populated places are particularly affected/risked by various factors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_364.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [poorly ventilated indoor environments such as offices](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_664.md)
 * [especially in enclosed spaces with limited fresh air exchange](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1591.md)
 * [especially in enclosed space with limited fresh air exchange](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2227.md)
+
+## Risk affecting this stakeholder
+
+* [Effect of humidity on virus viability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1707.md)
 

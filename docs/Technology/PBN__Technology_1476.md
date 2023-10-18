@@ -2,9 +2,9 @@
 
 # __social distancing technologies__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q30314010](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q30314010.md)
+* [Technological advancements encompass a wide range of innovations, such as blockchain, touchless, renewable energy, and communication technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [public space design with social distancing in mind](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1499.md)
 * [Public space design with social distancing in mind](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2730.md)
 * [signage for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1823.md)
+
+## This Technology is identified by the following QID
+
+* [Q30314010](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q30314010.md)
 

@@ -2,9 +2,13 @@
 
 # __racial minorities__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q30103](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q30103.md)
+* [Individuals of different ages, including children, parents, migrants, and vulnerable groups, such as women and racial minorities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_389.md)
+
+## Risk affecting this stakeholder
+
+* [Inequities and exclusions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1467.md)
 
 ## Closest similar item
 
@@ -19,11 +23,11 @@
 * [disadvantaged populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1347.md)
 * [especially low-income and minority community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2211.md)
 
-## Risk affecting this stakeholder
-
-* [Inequities and exclusions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1467.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Increased inclusivity and accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1250.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q30103](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q30103.md)
 

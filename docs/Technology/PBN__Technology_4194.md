@@ -2,9 +2,9 @@
 
 # __covered spaces with soft walls__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Design of public open-air spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2006.md)
+* [A list of diverse software tools, including financial management, construction technology, project management, communication, and monitoring software.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_219.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [specialized room design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3247.md)
 * [roof spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1738.md)
 * [containment spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4191.md)
+
+## This Technology enables the following mitigations
+
+* [Design of public open-air spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2006.md)
 

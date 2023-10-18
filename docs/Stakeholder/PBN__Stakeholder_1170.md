@@ -2,9 +2,9 @@
 
 # __indoor environments__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Effectiveness of UVGI decreases as humidity increases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1756.md)
+* [Individuals in poorly ventilated indoor environments, especially those in enclosed spaces with limited air flow, such as offices, homes, and buildings with inadequate air filtration, are at risk of exposure to poor indoor air quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_398.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Occupants of indoor spaces (homes](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2577.md)
 * [Occupant of indoor space (home](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2590.md)
 * [Workers in indoor environments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1794.md)
+
+## Risk affecting this stakeholder
+
+* [Effectiveness of UVGI decreases as humidity increases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1756.md)
 

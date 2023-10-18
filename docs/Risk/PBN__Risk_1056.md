@@ -2,25 +2,9 @@
 
 # __Decreased Physical Activity__
 
-## Property: has_RiskHealth
+## Category to which it belongs
 
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Description of the risk
-
-Measures to curb the spread of COVID-19 have led to a decline in physical activity, especially among children and adolescents.
-
-## Property: has_RiskType
-
-* [environmental](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_0.md)
-
-## Articles mentionning the risk
-
-* [Mental Health and the Role of Physical Activity During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_242.md)
+* [The challenges include reduced surgical education, loss of control, limited diagnostics, slow drug development, inadequate patient monitoring, and lack of drug therapy options.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_110.md)
 
 ## Closest similar item
 
@@ -35,34 +19,54 @@ Measures to curb the spread of COVID-19 have led to a decline in physical activi
 * [Lack of access to regular sporting or exercise routines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1716.md)
 * [Increase in chronic diseases from sedentary lifestyles](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_113.md)
 
-## People affected by this risk
+## Description of the risk
 
-* [children](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_62.md)
-* [adolescents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_579.md)
+Measures to curb the spread of COVID-19 have led to a decline in physical activity, especially among children and adolescents.
+
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
+## Mitigations of this risk
+
+* [Encourage physical exercise at home, balance and flexibility training, muscle strength exercise, and endurance training.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1489.md)
+
+## Name of the risk
+
+Increase in inactivity and sedentary behavior.
 
 ## Stakeholders who can mitigate this risk
 
 * [families](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_580.md)
 * [schools](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_366.md)
 
-## Name of the risk
+## Articles mentionning the risk
 
-Increase in inactivity and sedentary behavior.
+* [Mental Health and the Role of Physical Activity During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_242.md)
 
-## Mitigations of this risk
+## People affected by this risk
 
-* [Encourage physical exercise at home, balance and flexibility training, muscle strength exercise, and endurance training.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1489.md)
-
-## Property: has_RiskISO_Purpose
-
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+* [children](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_62.md)
+* [adolescents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_579.md)
 
 ## Technologies linked to the risk
 
 * [home-based exercise programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_63.md)
 * [exergames](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_64.md)
+
+## Property: has_RiskType
+
+* [environmental](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_0.md)
 

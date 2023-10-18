@@ -2,9 +2,9 @@
 
 # __Targeted communication strategies, improving housing conditions, and enhancing public transport safety measures.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Higher likelihood of COVID-19 infection among immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1842.md)
+* [Implement travel restrictions, promote active transportation, streamline processes, provide accurate information, and develop sustainable transport options.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_325.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Public awareness campaigns, enforcement of social distancing measures, designated seating areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2555.md)
 * [Targeted communication strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1376.md)
 * [Develop and implement effective communication strategies to educate and inform individuals about the risks and precautionary measures in the facility](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2028.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Higher likelihood of COVID-19 infection among immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1842.md)
 

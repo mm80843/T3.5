@@ -2,9 +2,9 @@
 
 # __Inconsistent information disclosure__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Implementation of Open Government projects](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_872.md)
+* [The proliferation of false and misleading information, misinformation, and inaccurate news during pandemics creates confusion and a lack of trust in reliable sources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_127.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inaccurate Information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_972.md)
 * [Concealment of information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2390.md)
 * [Lack of transparent information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2791.md)
+
+## Mitigations of this risk
+
+* [Implementation of Open Government projects](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_872.md)
 

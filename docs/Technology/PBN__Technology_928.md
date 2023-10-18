@@ -2,9 +2,9 @@
 
 # __financial instruments for price hedging__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q247506](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q247506.md)
+* [Maximizing economic efficiency while promoting financial stability through innovative strategies, investments, and partnerships at various levels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_195.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Targeted investments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2733.md)
 * [financial management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1331.md)
 * [financial management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3531.md)
+
+## This Technology is identified by the following QID
+
+* [Q247506](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q247506.md)
 

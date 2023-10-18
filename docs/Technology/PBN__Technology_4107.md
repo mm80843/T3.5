@@ -2,9 +2,9 @@
 
 # __ppe supply__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Providing personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1851.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [proper training and use of ppe](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_61.md)
 * [ppe (masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3145.md)
 * [proper training on ppe usage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_511.md)
+
+## This Technology enables the following mitigations
+
+* [Providing personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1851.md)
 

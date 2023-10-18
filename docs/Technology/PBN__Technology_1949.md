@@ -2,9 +2,9 @@
 
 # __development of new insecticides__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q181322](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q181322.md)
+* [Advancements in molecular biology, diagnostics, vaccines, antiviral technologies, and disease surveillance for pathogen detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_223.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [pest control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3902.md)
 * [mosquito control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2963.md)
 * [mosquito control operations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4049.md)
+
+## This Technology is identified by the following QID
+
+* [Q181322](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q181322.md)
 

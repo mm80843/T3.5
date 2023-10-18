@@ -6,6 +6,10 @@
 
 * [Remote patient monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_485.md)
 
+## Category to which it belongs
+
+* [Entities and individuals who interact with or are affected by a system, organization, or public facility.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_1.md)
+
 ## Closest similar item
 
 * [high-risk individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_69.md)

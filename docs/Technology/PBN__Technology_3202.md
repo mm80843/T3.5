@@ -2,9 +2,9 @@
 
 # __adaptive infrastructure__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Flexible public places](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_411.md)
+* [The built environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_230.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [adaptation of existing infrastructure for new uses](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_367.md)
 * [Adaptation of existing infrastructure for new uses](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2356.md)
 * [infrastructure support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2953.md)
+
+## This Technology enables the following mitigations
+
+* [Flexible public places](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_411.md)
 

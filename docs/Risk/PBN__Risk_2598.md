@@ -2,9 +2,9 @@
 
 # __Labour shortages, low productivity__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Offsite construction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_504.md)
+* [The impact of various factors on the workforce, including job insecurity, changes in work schedules, unemployment, and decreased productivity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_4.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inadequate working conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2025.md)
 * [Technological limitations, lack of productivity, isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3073.md)
 * [Less productivity compared to agriculture and manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1434.md)
+
+## Mitigations of this risk
+
+* [Offsite construction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_504.md)
 

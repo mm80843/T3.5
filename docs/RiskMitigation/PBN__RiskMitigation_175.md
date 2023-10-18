@@ -2,13 +2,9 @@
 
 # __Adoption of cleaner and renewable energy sources__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Spread of COVID-19 due to air pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_146.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduced air pollution](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_193.md)
+* [Transition to sustainable energy sources, implement energy-efficient measures, and absorb increased service demand.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_351.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Increased funding for clean energy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_620.md)
 * [Implement energy-efficient appliances, promote alternative energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2942.md)
 * [Implement measures to reduce air pollution, promote clean energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2140.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced air pollution](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_193.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of COVID-19 due to air pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_146.md)
 

@@ -2,6 +2,23 @@
 
 # __nan__
 
+## Category to which it belongs
+
+* [Insignificant or extremely small entities or quantities that have no significant impact or value.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_11.md)
+
+## Closest similar item
+
+* [Financial Measures](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_160.md)
+* [Filters](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_96.md)
+* [Training and Education](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_62.md)
+* [Education and Training](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_32.md)
+* [Data Governance and Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_142.md)
+* [Experimental Apparatus](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_190.md)
+* [Blockchain and Cryptography](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_169.md)
+* [Fact-Checking and Information Verification](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_17.md)
+* [Security Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_133.md)
+* [Sanitation and Waste Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_121.md)
+
 ## This Technology belongs to this TechnologySubgroup
 
 * [blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_211.md)
@@ -243,17 +260,4 @@
 * [ambience Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2521.md)
 * [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2772.md)
 * [condom distribution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2810.md)
-
-## Closest similar item
-
-* [Financial Measures](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_160.md)
-* [Filters](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_96.md)
-* [Training and Education](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_62.md)
-* [Education and Training](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_32.md)
-* [Data Governance and Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_142.md)
-* [Experimental Apparatus](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_190.md)
-* [Blockchain and Cryptography](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_169.md)
-* [Fact-Checking and Information Verification](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_17.md)
-* [Security Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_133.md)
-* [Sanitation and Waste Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_121.md)
 

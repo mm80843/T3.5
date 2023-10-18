@@ -2,9 +2,9 @@
 
 # __protective barriers__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q808918](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q808918.md)
+* [Explore a diverse range of materials, from sound-absorbing to eco-friendly, that contribute to innovative building solutions and educational resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_222.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [plastic barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4200.md)
 * [barriers such as plexiglass](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3288.md)
 * [protective clothing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3337.md)
+
+## This Technology is identified by the following QID
+
+* [Q808918](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q808918.md)
 

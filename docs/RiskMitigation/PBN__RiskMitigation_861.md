@@ -2,13 +2,9 @@
 
 # __Access to shops and services__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [High prevalence of obesity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_622.md)
-
-## Property: has_MitigationBenefit
-
-* [Lower COVID-19 mortality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_862.md)
+* [Ensuring equitable access, promoting flexible work, implementing safety measures, and providing support for remote work and flexible schedules.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_323.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Monitoring buying behavior and limiting purchases; optimizing supply chains; surveillance and enforcement against hoarding](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3038.md)
 * [Provide food parcels and free meals, increase availability of basic food products, adapt delivery services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2401.md)
 * [Designated community-level areas for essential services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_329.md)
+
+## Property: has_MitigationBenefit
+
+* [Lower COVID-19 mortality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_862.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [High prevalence of obesity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_622.md)
 

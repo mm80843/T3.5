@@ -2,13 +2,9 @@
 
 # __academia__
 
-## This Stakeholder can get these Benefits from mitigation measures
+## Category to which it belongs
 
-* [Effective decision-making and implementation of preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1134.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q4033184](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4033184.md)
+* [Experts from various fields including research, risk assessment, education, science, HVAC, and IT.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_356.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [university community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1458.md)
 * [Education](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1630.md)
 * [education](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1647.md)
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Effective decision-making and implementation of preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1134.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q4033184](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4033184.md)
 

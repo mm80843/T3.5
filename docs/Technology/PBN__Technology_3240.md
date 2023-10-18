@@ -2,9 +2,9 @@
 
 # __online fitness programs__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Multicomponent exercise program](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_450.md)
+* [Government programs and initiatives provide support, training, and financial assistance for education, healthcare, employment, and overall well-being.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_210.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [exercise programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1224.md)
 * [online training platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1210.md)
 * [mobile fitness applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1074.md)
+
+## This Technology enables the following mitigations
+
+* [Multicomponent exercise program](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_450.md)
 

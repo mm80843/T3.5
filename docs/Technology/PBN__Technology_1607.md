@@ -2,9 +2,9 @@
 
 # __local manufacturing__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q9386255](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q9386255.md)
+* [Urban green space solutions include tree planting, zoning regulations, landscape architecture, community gardens, outdoor furniture, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_231.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [investment in local production](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_945.md)
 * [local vaccine manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3623.md)
 * [local sourcing and sustainable material choices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3454.md)
+
+## This Technology is identified by the following QID
+
+* [Q9386255](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q9386255.md)
 

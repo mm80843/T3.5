@@ -2,9 +2,9 @@
 
 # __Regular maintenance and calibration of HVAC systems__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [HVAC characteristics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1484.md)
+* [Optimize indoor environments, regulate temperature and humidity, control air quality, and extend HVAC system operations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_341.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [HVAC system modifications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1350.md)
 * [Optimized operation of HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1027.md)
 * [Implementation of adaptable HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1086.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [HVAC characteristics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1484.md)
 

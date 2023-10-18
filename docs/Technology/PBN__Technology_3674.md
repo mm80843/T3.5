@@ -2,9 +2,9 @@
 
 # __population density data__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Reducing population density of built-up areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1122.md)
+* [Data-driven insights and analysis for decision making, anonymized data, transparency, visualization, and advanced techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_205.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [urban planning and design strategies to manage population density and promote a well-distributed urban development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1989.md)
 * [Urban planning and design strategies to manage population density and promote a well-distributed urban development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2740.md)
 * [data analytics for public health monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_476.md)
+
+## This Technology enables the following mitigations
+
+* [Reducing population density of built-up areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1122.md)
 

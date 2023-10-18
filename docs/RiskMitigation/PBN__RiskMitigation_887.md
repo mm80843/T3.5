@@ -2,13 +2,9 @@
 
 # __Separation of wet and living spaces__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Limited space and inadequate room quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_640.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved hygiene and cleanliness](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_890.md)
+* [Promote the integration of natural elements and communal areas, enhance accessibility and quality, and foster positive perception and functionality of public and private green and outdoor spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_331.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Provide access to nature and green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_886.md)
 * [Creating isolation room](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1321.md)
 * [Provision of safe water, sanitation, and hygienic conditions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_364.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved hygiene and cleanliness](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_890.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limited space and inadequate room quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_640.md)
 

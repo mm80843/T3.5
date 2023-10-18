@@ -2,9 +2,9 @@
 
 # __community mobilization efforts__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Safe water access and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_84.md)
+* [A range of community-centered initiatives, programs, and strategies foster participation, collaboration, and social support for diverse groups.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_236.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Community engagement strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2163.md)
 * [fostering community](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4073.md)
 * [community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_51.md)
+
+## This Technology enables the following mitigations
+
+* [Safe water access and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_84.md)
 

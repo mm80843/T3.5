@@ -2,9 +2,9 @@
 
 # __Heat loss or gain__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Proper insulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_816.md)
+* [Limited physical/social distancing, thermal discomfort, poor lighting, and inadequate air quality negatively impact personal comfort.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_130.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Thermal discomfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_126.md)
 * [Thermal Discomfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2479.md)
 * [Increased thermal discomfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2932.md)
+
+## Mitigations of this risk
+
+* [Proper insulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_816.md)
 

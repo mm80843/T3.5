@@ -2,13 +2,13 @@
 
 # __Robots, Drones & Automated Vehicules__
 
-## Property: has_TechEquivalent
-
-* [Robots, Drones & Automated Vehicules](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4539.md)
-
 ## Property: has_BP_EnablerTitle
 
 enabler_014
+
+## Category to which it belongs
+
+* [Mechanical entities that possess artificial intelligence, can fly or maneuver independently, and operate without human intervention.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_73.md)
 
 ## Closest similar item
 
@@ -29,4 +29,8 @@ enabler_014
 * [Reducing contact points](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_15.md)
 * [Animal vectors control measures](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_18.md)
 * [Infection tracking](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_20.md)
+
+## Property: has_TechEquivalent
+
+* [Robots, Drones & Automated Vehicules](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4539.md)
 

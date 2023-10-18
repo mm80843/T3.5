@@ -2,9 +2,9 @@
 
 # __designated areas__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Household-level activity/sports spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2128.md)
+* [Urban green space solutions include tree planting, zoning regulations, landscape architecture, community gardens, outdoor furniture, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_231.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [designated space](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2989.md)
 * [facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3685.md)
 * [isolation rooms or designated isolation areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3801.md)
+
+## This Technology enables the following mitigations
+
+* [Household-level activity/sports spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2128.md)
 

@@ -2,16 +2,9 @@
 
 # __Water Management__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [water and sanitation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1945.md)
-* [water purification systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_625.md)
-* [low-flow fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1773.md)
-* [Hot water supply](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2366.md)
-* [greywater reuse](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1772.md)
-* [graywater reuse](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1775.md)
-* [rainwater harvesting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1771.md)
-* [rainwater capture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1774.md)
+* [Management of resources and control of potential hazards in relation to water and waste.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_50.md)
 
 ## Closest similar item
 
@@ -25,4 +18,15 @@
 * [Infrastructure and Resource Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_126.md)
 * [Waste Management Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_161.md)
 * [Crowd Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_152.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [water and sanitation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1945.md)
+* [water purification systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_625.md)
+* [low-flow fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1773.md)
+* [Hot water supply](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2366.md)
+* [greywater reuse](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1772.md)
+* [graywater reuse](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1775.md)
+* [rainwater harvesting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1771.md)
+* [rainwater capture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1774.md)
 

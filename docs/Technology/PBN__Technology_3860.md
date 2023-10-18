@@ -2,9 +2,9 @@
 
 # __epm1 95% filter__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Mechanical filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1413.md)
+* [Various systems and technologies that purify and clean the air, including air filters, HEPA filters, and filtration systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_198.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2393.md)
 * [high-efficiency filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_272.md)
 * [filters (merv 7 and merv 14)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3796.md)
+
+## This Technology enables the following mitigations
+
+* [Mechanical filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1413.md)
 

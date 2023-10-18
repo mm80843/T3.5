@@ -2,14 +2,9 @@
 
 # __company__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q783794](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q783794.md)
-* [Q2915810](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2915810.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+* [These companies span a wide array of industries, including renewable energy, construction, pharmaceuticals, logistics, and technology.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_387.md)
 
 ## Closest similar item
 
@@ -24,9 +19,6 @@
 * [tech company](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2611.md)
 * [construction company](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_621.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
-
-
 ## Risks that can be mitigated by this stakeholder
 
 * [Close contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2140.md)
@@ -39,4 +31,16 @@
 * [Monitoring of confirmed cases and close contacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2141.md)
 * [Comorbid workers working from home (WFH)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2136.md)
 * [Self-health evaluation before boarding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2137.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+
+## This Stakeholder is identified by the following QID
+
+* [Q783794](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q783794.md)
+* [Q2915810](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2915810.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 

@@ -2,22 +2,9 @@
 
 # __and sanitation__
 
-## Property: has_RiskHealth
+## Category to which it belongs
 
-
-## Property: has_RiskGBN
-
-
-## Description of the risk
-
-measures in public spaces
-
-## Property: has_RiskType
-
-
-## Articles mentionning the risk
-
-* [venter_urban_2020 venter_urban_2020 nan venter_urban_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_304.md)
+* [The challenges and consequences of the global pandemic include poor acoustics, noise pollution, food security, increase in inequality, waste, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_131.md)
 
 ## Closest similar item
 
@@ -32,33 +19,50 @@ measures in public spaces
 * [Inadequate sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1416.md)
 * [Lack of proper cleaning and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1946.md)
 
-## People affected by this risk
+## Description of the risk
 
-* [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
-* [food establishments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1526.md)
+measures in public spaces
+
+## Property: has_RiskGBN
+
+
+## Property: has_RiskHealth
+
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Stakeholders who can mitigate this risk
+## Property: has_RiskISO_Purpose
 
-* [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
-
-## Name of the risk
-
-transmission and infection
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
 
 ## Mitigations of this risk
 
 * [practices, providing access to hand sanitizers nan and disinfectant stations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2977.md)
 
-## Property: has_RiskISO_Purpose
+## Name of the risk
 
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+transmission and infection
+
+## Stakeholders who can mitigate this risk
+
+* [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
+
+## Articles mentionning the risk
+
+* [venter_urban_2020 venter_urban_2020 nan venter_urban_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_304.md)
+
+## People affected by this risk
+
+* [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
+* [food establishments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1526.md)
 
 ## Technologies linked to the risk
 
 * [hygiene measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1871.md)
 * [public education and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1872.md)
+
+## Property: has_RiskType
+
 

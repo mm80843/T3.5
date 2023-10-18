@@ -2,10 +2,9 @@
 
 # __Health risk, data source__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Environmental surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1140.md)
-* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1138.md)
+* [The intersection of human activity and health, integrating databases, limited healthcare access, sedentary lifestyles, neglecting public health requirements, and disparities in urban design contribute to public health concerns.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_116.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Health and safety risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_733.md)
 * [Risk of exposure in healthcare settings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_362.md)
 * [Limited access to patient health data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_158.md)
+
+## Mitigations of this risk
+
+* [Environmental surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1140.md)
+* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1138.md)
 

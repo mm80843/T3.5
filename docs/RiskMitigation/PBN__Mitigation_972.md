@@ -2,10 +2,9 @@
 
 # __Posting caps with real data related to COVID-19__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_47.md)
-* [internet access](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1211.md)
+* [Effective management of viral outbreaks through control measures, viral detection, disease tracking, and public awareness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_149.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Spatial mapping of COVID-19 hotspots](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_284.md)
 * [AI algorithms for identification of COVID-19 on CT chest](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1400.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Circulation of fake news and misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2840.md)
-
 ## Property: has_MitigationPrinciple
 
 Provide accurate and validated information to combat fake news and misinformation
 
+## Risks possibly mitigated by this Mitigation
+
+* [Circulation of fake news and misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2840.md)
+
 ## Property: has_MitigationSource
 
 * [The changes in the effects of social media use of Cypriots due to COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_185.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_47.md)
+* [internet access](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1211.md)
 

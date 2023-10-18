@@ -2,13 +2,9 @@
 
 # __Establish and enforce workplace rules and signage__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Social distancing challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_307.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced worker safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_383.md)
+* [Ensuring equitable access, promoting flexible work, implementing safety measures, and providing support for remote work and flexible schedules.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_323.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Integrating informal street vendors and workers into public space design and regulations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1265.md)
 * [Implement and enforce strict social distancing guidelines.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2712.md)
 * [Enforce measures such as social distancing and remote work.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1813.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced worker safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_383.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Social distancing challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_307.md)
 

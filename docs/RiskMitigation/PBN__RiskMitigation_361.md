@@ -2,13 +2,9 @@
 
 # __Redistributing housing, schools, and businesses to decrease agglomeration__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Inequalities in health driven by urban design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_286.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction in health inequalities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_226.md)
+* [Promote equitable, sustainable, and inclusive urban planning to enhance living conditions, mitigate overcrowding, and reduce disparities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_324.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Transforming public places for essential uses, such as food distribution, medical support, etc.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1727.md)
 * [Increase access to green spaces, promote urban greening initiatives, create more parks and gardens](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2141.md)
 * [Investment in improving housing conditions and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1504.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction in health inequalities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_226.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inequalities in health driven by urban design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_286.md)
 

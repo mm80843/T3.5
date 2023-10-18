@@ -2,9 +2,9 @@
 
 # __clinical trials__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q30612](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q30612.md)
+* [Advancements in biotechnology, clinical research, and innovative therapies contribute to the development of medical solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
 
 ## Risks linked to this technology
 
@@ -23,4 +23,8 @@
 * [Research on potential therapeutic options](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2797.md)
 * [research studies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1816.md)
 * [including confirmation with clinical testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1360.md)
+
+## This Technology is identified by the following QID
+
+* [Q30612](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q30612.md)
 

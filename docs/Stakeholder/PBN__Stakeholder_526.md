@@ -6,6 +6,10 @@
 
 * [Enhanced data collection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1355.md)
 
+## Category to which it belongs
+
+* [Experts from various fields including research, risk assessment, education, science, HVAC, and IT.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_356.md)
+
 ## Closest similar item
 
 * [data analysts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_479.md)

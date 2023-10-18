@@ -2,9 +2,9 @@
 
 # __Lack of access to natural light__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Natural Lighting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1690.md)
+* [Limited physical/social distancing, thermal discomfort, poor lighting, and inadequate air quality negatively impact personal comfort.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_130.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of natural outdoor environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2116.md)
 * [Inadequate ventilation and lighting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1303.md)
 * [Inadequate sunlight exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2730.md)
+
+## Mitigations of this risk
+
+* [Natural Lighting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1690.md)
 

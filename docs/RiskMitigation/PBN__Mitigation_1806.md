@@ -2,8 +2,9 @@
 
 # __Cancellation of mass gatherings__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Movement and accessibility constraints, including travel bans, visitor restrictions, and limitations on gatherings and travel.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_160.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Restriction on crowding](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3867.md)
 * [Mobilize online fundraising campaigns, promote virtual conservation initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3871.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Disease spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2651.md)
-
 ## Property: has_MitigationPrinciple
 
 Cancel events with large crowds to minimize transmission
 
+## Risks possibly mitigated by this Mitigation
+
+* [Disease spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2651.md)
+
 ## Property: has_MitigationSource
 
 * [Coronavirus questions that will not go away: interrogating urban and socio-spatial implications of COVID-19 measures](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_184.md)
+
+## This Mitigation is enabled by the following technologies
+
 

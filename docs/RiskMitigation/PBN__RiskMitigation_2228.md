@@ -2,9 +2,9 @@
 
 # __Minimize the sharing of vertical shaft systems, ensure proper ventilation and air filtration, regular cleaning and maintenance__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Sharing systems in apartments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1673.md)
+* [Enhance airflow, increase fresh air intake, and optimize ventilation systems to improve air quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_329.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Adjust workstations, establish physical barriers/partitions, ensure good ventilation, provide handwashing stations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2801.md)
 * [Improve ventilation systems, increase airflow rates, use outdoor air ventilation, and consider the installation of air purifiers or filtration systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1591.md)
 * [Check and control pressure differentials, increase ventilation rates, and monitor and maintain the operation of heat recovery systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1939.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Sharing systems in apartments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1673.md)
 

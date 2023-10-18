@@ -2,17 +2,9 @@
 
 # __Preserving and developing forests and other green spaces__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Spread of SARS-CoV-2 infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_459.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction in infection rates](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_652.md)
-* [Physical activity promotion](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_653.md)
-* [Mental health improvement](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_654.md)
-* [Social cohesion and cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_655.md)
-* [Ambient pollutant reduction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_656.md)
+* [Promote the integration of natural elements and communal areas, enhance accessibility and quality, and foster positive perception and functionality of public and private green and outdoor spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_331.md)
 
 ## Closest similar item
 
@@ -26,4 +18,16 @@
 * [Increase the availability and accessibility of urban green spaces, create new green spaces, and improve existing ones](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2408.md)
 * [Design smaller, local green spaces and prioritize accessibility and biodiversity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1975.md)
 * [Availability of greenery and gardens](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_220.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction in infection rates](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_652.md)
+* [Physical activity promotion](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_653.md)
+* [Mental health improvement](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_654.md)
+* [Social cohesion and cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_655.md)
+* [Ambient pollutant reduction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_656.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of SARS-CoV-2 infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_459.md)
 

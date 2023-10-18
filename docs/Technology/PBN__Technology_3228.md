@@ -2,9 +2,9 @@
 
 # __ipfs__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Health Information Exchange](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_437.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2412.md)
 * [secure file sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2603.md)
 * [virtual networking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_741.md)
+
+## This Technology enables the following mitigations
+
+* [Health Information Exchange](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_437.md)
 

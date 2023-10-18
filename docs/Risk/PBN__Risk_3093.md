@@ -2,9 +2,9 @@
 
 # __Openings allow mosquito access__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Window and vent design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1478.md)
+* [The proliferation of diseases carried by ticks and mosquitoes, exacerbated by climate change, inadequate control measures, and wildlife disturbance, causing increased prevalence and spread of various illnesses.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_119.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Emergence of mosquito-borne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_57.md)
 * [Increased mosquito breeding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2933.md)
 * [Stagnant water provides mosquito breeding grounds](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3092.md)
+
+## Mitigations of this risk
+
+* [Window and vent design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1478.md)
 

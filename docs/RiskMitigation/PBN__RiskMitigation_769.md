@@ -2,13 +2,9 @@
 
 # __Stringency Index__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [High positivity rate](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_540.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction in infections](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_772.md)
+* [Advancements in bioinformatics, divestment, automated sample collection, and artificial intelligence are facilitating early disease detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_336.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Fact-checking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_506.md)
 * [Testing and validation of the expert system’s performance and accuracy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3370.md)
 * [Development of efficient algorithms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2203.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction in infections](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_772.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [High positivity rate](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_540.md)
 

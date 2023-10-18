@@ -2,9 +2,9 @@
 
 # __Thermal treatment__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [heat treatment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3633.md)
+* [Achieving comfort through temperature management, monitoring, and control while implementing climate-sensitive design and utilizing thermal imaging technology for screening and measurement purposes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_185.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Temperature Screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_466.md)
 * [Infrared thermal imaging](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1814.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Safety during sample manipulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2913.md)
-
 ## Property: has_MitigationPrinciple
 
 Heating samples at 56 °C for 30 minutes to reduce the virulence of SARS-CoV-2 while preserving RNA integrity, to ensure the safety of laboratory personnel during sample handling.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Safety during sample manipulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2913.md)
+
 ## Property: has_MitigationSource
 
 * [First detection of SARS-CoV-2 in untreated wastewaters in Italy](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_37.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [heat treatment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3633.md)
 

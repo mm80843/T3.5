@@ -2,13 +2,9 @@
 
 # __Increasing international support__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Reduction in official development aid](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_107.md)
-
-## Property: has_MitigationBenefit
-
-* [Additional funding](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_149.md)
+* [Promote sustainable development through infrastructure investments, training, diversification, financial support, and government partnerships.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_315.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Enhance support services for victims, raise awareness, and strengthen legal and policy frameworks.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2470.md)
 * [Strengthen EU-level institutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_775.md)
 * [Strengthening international cooperation in public health, implementing risk assessments and contingency plans for global trade, and diversifying supply chains](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2718.md)
+
+## Property: has_MitigationBenefit
+
+* [Additional funding](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_149.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Reduction in official development aid](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_107.md)
 

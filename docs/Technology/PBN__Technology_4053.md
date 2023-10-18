@@ -2,9 +2,9 @@
 
 # __sensor networks__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Indoor Air Quality Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1773.md)
+* [Advanced monitoring systems and sensor integration for IoT devices and biosensor technology facilitate environmental monitoring and facility usage tracking.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_229.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [wireless sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3929.md)
 * [sensor integration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_644.md)
 * [sensor integration and development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_643.md)
+
+## This Technology enables the following mitigations
+
+* [Indoor Air Quality Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1773.md)
 

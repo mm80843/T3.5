@@ -2,9 +2,9 @@
 
 # __Limiting occupancy, improving ventilation systems, promoting outdoor spaces, implementing social distancing measures.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Overcrowding and lack of ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1164.md)
+* [Promotion and enforcement of physical separation measures to prevent the spread of disease.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_327.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement occupancy limits, encourage social distancing, provide adequate facilities and services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1576.md)
 * [Ventilation systems, air filtration, social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3079.md)
 * [Improving ventilation systems, promoting outdoor activities, wearing masks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1574.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Overcrowding and lack of ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1164.md)
 

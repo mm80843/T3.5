@@ -2,9 +2,9 @@
 
 # __flexible sick leave__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Physical and Mental Health](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_303.md)
+* [Improved healthcare infrastructure and resources enable public health authorities to implement effective messaging and interventions, ensuring equitable access to healthcare facilities and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_209.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [promotion of flexible visiting hours](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1822.md)
 * [modular healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_474.md)
 * [flexible living arrangements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4077.md)
+
+## This Technology enables the following mitigations
+
+* [Physical and Mental Health](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_303.md)
 

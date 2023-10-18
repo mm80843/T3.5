@@ -2,13 +2,9 @@
 
 # __Mitigation measure__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_985.md)
-
-## Property: has_MitigationBenefit
-
-* [Benefit title](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1364.md)
+* [Implementing a comprehensive package of measures to ensure the smooth functioning and safety of essential services and activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_6.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Containment measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_507.md)
 * [Environmental measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1369.md)
 * [Implement measures to reduce air pollution, promote clean energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2140.md)
+
+## Property: has_MitigationBenefit
+
+* [Benefit title](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1364.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_985.md)
 

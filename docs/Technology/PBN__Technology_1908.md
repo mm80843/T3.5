@@ -2,9 +2,9 @@
 
 # __hazardous waste treatment__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1069369](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1069369.md)
+* [Improvements in wastewater, waste management, sanitation, water purification, and plumbing technologies aim for sustainable and efficient infrastructure development.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_234.md)
 
 ## Risks linked to this technology
 
@@ -23,4 +23,8 @@
 * [waste separation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4289.md)
 * [waste management measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4257.md)
 * [waste management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3440.md)
+
+## This Technology is identified by the following QID
+
+* [Q1069369](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1069369.md)
 

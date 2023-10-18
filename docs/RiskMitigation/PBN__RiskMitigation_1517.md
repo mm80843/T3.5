@@ -2,9 +2,9 @@
 
 # __Establish limits for private use of public data, ensure data is used solely for urban management__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1072.md)
+* [Data privacy and security are prioritized through encryption, access controls, consent, and robust cybersecurity measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_335.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Clear data usage policies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_67.md)
 * [Clear urban policy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_279.md)
 * [Ensure data privacy and confidentiality when collecting sensitive data, justify the need for collecting such data and consider participant burden.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1884.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1072.md)
 

@@ -2,9 +2,9 @@
 
 # __Financial Measures__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [Financial incentives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2505.md)
+* [Assistance in the form of money and resources for community projects, contractual obligations, and economic stability.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_26.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Payment and Transaction Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_171.md)
 * [Regulation, Governance, and Policies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_66.md)
 * [Infrastructure and Transportation](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_115.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [Financial incentives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2505.md)
 

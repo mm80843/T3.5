@@ -2,13 +2,9 @@
 
 # __Reduce wildlife urban interfaces__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Zoonotic disease emergence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_488.md)
-
-## Property: has_MitigationBenefit
-
-* [Biodiversity as disease reservoir](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_696.md)
+* [Promote equitable, sustainable, and inclusive urban planning to enhance living conditions, mitigate overcrowding, and reduce disparities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_324.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implement biodiversity conservation strategies in urban planning, prioritize the creation of diverse green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1878.md)
 * [Increase in the number and accessibility of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_982.md)
 * [Implement mosquito and tick control measures in urban greening initiatives and ensure proper maintenance of green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2436.md)
+
+## Property: has_MitigationBenefit
+
+* [Biodiversity as disease reservoir](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_696.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Zoonotic disease emergence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_488.md)
 

@@ -2,9 +2,9 @@
 
 # __Reduce positivity rate through increased testing and strict adherence to mitigation measures__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [High positivity rate](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_540.md)
+* [Promote comprehensive testing and tracing, prioritize vulnerable populations, reduce diagnosis-to-surgery time, recognize stress symptoms, and improve testing accuracy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_347.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Voluntary testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_161.md)
 * [Increase testing capacity and accessibility, prioritize testing for high-risk individuals and areas, utilize alternative testing methods such as wastewater-based surveillance.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3073.md)
 * [Improve test sensitivity and accuracy to minimize false-negative results](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3118.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [High positivity rate](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_540.md)
 

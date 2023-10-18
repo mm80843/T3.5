@@ -2,10 +2,9 @@
 
 # __employees in high-traffic/public spaces__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Risk of human infection from contact with contaminated solids (fomites)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1177.md)
-* [Risk of low viability period of SARS-CoV-2 on solids](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1178.md)
+* [Individuals in various types of spaces, including public, indoor, and confined areas, with varying access to green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_378.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [public transport users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_236.md)
 * [particularly individuals in crowded public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_740.md)
 * [Particularly individuals in crowded public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2398.md)
+
+## Risk affecting this stakeholder
+
+* [Risk of human infection from contact with contaminated solids (fomites)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1177.md)
+* [Risk of low viability period of SARS-CoV-2 on solids](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1178.md)
 

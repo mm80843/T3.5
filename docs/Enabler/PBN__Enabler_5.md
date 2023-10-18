@@ -2,13 +2,13 @@
 
 # __IoT__
 
-## Property: has_TechEquivalent
-
-* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2828.md)
-
 ## Property: has_BP_EnablerTitle
 
 enabler_006
+
+## Category to which it belongs
+
+* [Internet-connected devices.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_65.md)
 
 ## Closest similar item
 
@@ -37,4 +37,8 @@ enabler_006
 * [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_17.md)
 * [Drinking Water Safety - Biofilm formation](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_21.md)
 * [Drinking Water Safety - Restoring water quality in buildings after forced closure](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_22.md)
+
+## Property: has_TechEquivalent
+
+* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2828.md)
 

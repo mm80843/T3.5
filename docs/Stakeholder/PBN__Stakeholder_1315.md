@@ -2,9 +2,9 @@
 
 # __less technologically advanced individuals__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Low adoption and accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1963.md)
+* [All people, especially those at risk or facing various circumstances, including age, health conditions, or unemployment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_374.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [populations of lower socioeconomic status](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_445.md)
 * [technology developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_763.md)
 * [future generation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2549.md)
+
+## Risk affecting this stakeholder
+
+* [Low adoption and accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1963.md)
 

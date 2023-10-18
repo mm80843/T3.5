@@ -2,9 +2,9 @@
 
 # __laboratories performing wastewater testing__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Low sensitivity of current assays for SARS-CoV-2 detection in sewage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1627.md)
+* [Individuals and organizations involved in the management and treatment of water, waste, and wastewater.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_397.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [wastewater treatment facility](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2704.md)
 * [wastewater treatment authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1140.md)
 * [wastewater treatment plant operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1050.md)
+
+## Risk affecting this stakeholder
+
+* [Low sensitivity of current assays for SARS-CoV-2 detection in sewage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1627.md)
 

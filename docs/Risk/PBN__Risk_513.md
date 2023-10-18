@@ -2,9 +2,9 @@
 
 # __Economic impact on local businesses__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Digital tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_722.md)
+* [The ramifications of global connectivity include economic instability, impacts of the pandemic, unemployment, poverty, reduced tourism revenue, and decline in public budgets.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_103.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Impact on informal street economy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_919.md)
 * [Financial impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_553.md)
 * [Negative effects on the economy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1791.md)
+
+## Mitigations of this risk
+
+* [Digital tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_722.md)
 

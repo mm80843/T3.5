@@ -2,9 +2,9 @@
 
 # __participatory tools__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1038171](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1038171.md)
+* [A range of community-centered initiatives, programs, and strategies foster participation, collaboration, and social support for diverse groups.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_236.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [collaboration tools)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4387.md)
 * [e-participation platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3117.md)
 * [collaboration tools (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3119.md)
+
+## This Technology is identified by the following QID
+
+* [Q1038171](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1038171.md)
 

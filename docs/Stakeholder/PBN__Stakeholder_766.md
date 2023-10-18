@@ -2,14 +2,9 @@
 
 # __industry__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q927094](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q927094.md)
-* [Q979263](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q979263.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+* [Various industries, businesses, and supply chain partners rely on suppliers and supply chain professionals for their products and services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_370.md)
 
 ## Closest similar item
 
@@ -24,11 +19,20 @@
 * [industry association](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2056.md)
 * [automobile industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_241.md)
 
+## Risks that can be mitigated by this stakeholder
+
+* [Decreased carbon emissions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1254.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Manufacturing and Industry](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_62.md)
 
-## Risks that can be mitigated by this stakeholder
+## This Stakeholder is identified by the following QID
 
-* [Decreased carbon emissions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1254.md)
+* [Q927094](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q927094.md)
+* [Q979263](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q979263.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 

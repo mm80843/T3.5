@@ -2,9 +2,9 @@
 
 # __Emotional distress, psychiatric illness__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Screening for mental health problems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1603.md)
+* [The toll of mental health harms, health harming behaviors, and the psychological impact of quarantine, fear, and anxiety has increased, affecting various populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_95.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Emotional stress](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3334.md)
 * [Emotional disturbance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3158.md)
 * [Psychological distress in healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_896.md)
+
+## Mitigations of this risk
+
+* [Screening for mental health problems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1603.md)
 

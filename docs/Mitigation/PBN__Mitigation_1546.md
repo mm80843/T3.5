@@ -2,9 +2,9 @@
 
 # __Use reliable sources__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [credible sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3913.md)
+* [Synthesizing, standardizing, and disseminating evidence to enhance accessibility and harmonize protocols for seamless communication and provision of public places.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_186.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Promoting trust and countering misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_604.md)
 * [Timely and high-quality evidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_560.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Inaccurate news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3132.md)
-
 ## Property: has_MitigationPrinciple
 
 Rely on reliable sources and filters to ensure the accuracy and reliability of information being shared.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Inaccurate news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3132.md)
+
 ## Property: has_MitigationSource
 
 * [Infodemic and the spread of fake news in the COVID-19-era](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_299.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [credible sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3913.md)
 

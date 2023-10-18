@@ -2,9 +2,9 @@
 
 # __Evaluate the difference in efficacy between symptomatic and asymptomatic individuals.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Variation in protection against re-infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1914.md)
+* [Promote comprehensive testing and tracing, prioritize vulnerable populations, reduce diagnosis-to-surgery time, recognize stress symptoms, and improve testing accuracy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_347.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Conduct more efficacy studies in clinical settings to evaluate the impact of these measures on TB transmission](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1863.md)
 * [Meta-analyses should carefully evaluate the quality and reliability of included studies and exclude studies with flawed or fraudulent data.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3034.md)
 * [Strengthen surveillance systems to actively detect and treat asymptomatic and unreported cases](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2833.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Variation in protection against re-infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1914.md)
 

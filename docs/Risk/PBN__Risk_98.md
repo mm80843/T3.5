@@ -2,9 +2,9 @@
 
 # __Difficulty in measuring real people flow__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Simulation-based people flow modeling](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_116.md)
+* [A list of challenges and uncertainties surrounding the impact and response to various events and crises in different sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_124.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Crowd congestion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3139.md)
 * [Information asymmetry between occupants and indoor environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_261.md)
 * [Inaccurate positioning of patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3048.md)
+
+## Mitigations of this risk
+
+* [Simulation-based people flow modeling](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_116.md)
 

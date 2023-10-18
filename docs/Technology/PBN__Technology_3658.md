@@ -2,9 +2,9 @@
 
 # __state-transition matrix__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Autonomous Human Behaviour](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1107.md)
+* [Advanced technologies and algorithms for modeling, simulation, optimization, and artificial intelligence in various applications, including robotics and computational fluid dynamics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_239.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [digital control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1315.md)
 * [Energy feedback systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2309.md)
 * [energy feedback systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_656.md)
+
+## This Technology enables the following mitigations
+
+* [Autonomous Human Behaviour](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1107.md)
 

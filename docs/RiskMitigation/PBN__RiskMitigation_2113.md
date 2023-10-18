@@ -2,9 +2,9 @@
 
 # __Provide clear SOP guidelines and assist with management__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1581.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Develop comprehensive plans, allocate resources effectively](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1457.md)
 * [Improve project management and supervision, provide proper training to workforce, implement quality control measures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1944.md)
 * [Establish standards and protocols, promote collaboration and knowledge sharing among stakeholders.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1546.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1581.md)
 

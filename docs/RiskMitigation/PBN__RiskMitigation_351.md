@@ -2,13 +2,9 @@
 
 # __Smart home automation__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_282.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved control and management of the home environment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_349.md)
+* [Enhanced surveillance, monitoring, and real-time tracking for improved control and response to various situations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_312.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [IoT data monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1325.md)
 * [IoT for monitoring and tracking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_140.md)
 * [Implementation of IoT](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1421.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved control and management of the home environment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_349.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_282.md)
 

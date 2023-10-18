@@ -2,9 +2,9 @@
 
 # __layers__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Green roofs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1187.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [deep learning algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3839.md)
 * [connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4145.md)
 * [mask-wearing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_591.md)
+
+## This Technology enables the following mitigations
+
+* [Green roofs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1187.md)
 

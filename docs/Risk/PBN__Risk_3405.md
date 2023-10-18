@@ -2,9 +2,9 @@
 
 # __Climate change and environmental damage__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Green New Deal](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2267.md)
+* [The interconnectedness of environmental degradation, social inequalities, and the need for climate action and conservation efforts.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_104.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of global response to climate change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2691.md)
 * [Environmental impacts, lack of awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2820.md)
 * [Misunderstanding of the permanence of climate change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1403.md)
+
+## Mitigations of this risk
+
+* [Green New Deal](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2267.md)
 

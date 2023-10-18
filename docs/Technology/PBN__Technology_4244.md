@@ -2,10 +2,9 @@
 
 # __water features__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Availability of greenery and gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2125.md)
-* [Indoor biophilia](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2483.md)
+* [Improvements in wastewater, waste management, sanitation, water purification, and plumbing technologies aim for sustainable and efficient infrastructure development.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_234.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [water-saving technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4280.md)
 * [water filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4259.md)
 * [rainwater collection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4366.md)
+
+## This Technology enables the following mitigations
+
+* [Availability of greenery and gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2125.md)
+* [Indoor biophilia](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2483.md)
 

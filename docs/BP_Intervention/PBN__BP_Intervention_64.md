@@ -2,11 +2,11 @@
 
 # __Greenery__
 
-## Property: has_BP_InterventionTitle
-
-Greenery
-
 ## Property: has_BP_InterventionKey
 
 HM1
+
+## Property: has_BP_InterventionTitle
+
+Greenery
 

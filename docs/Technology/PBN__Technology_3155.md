@@ -2,9 +2,9 @@
 
 # __human host cells__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [TCID50 assay](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_325.md)
+* [Advancements in biotechnology, clinical research, and innovative therapies contribute to the development of medical solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_828.md)
 * [Vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2270.md)
 * [immunological memory](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2916.md)
+
+## This Technology enables the following mitigations
+
+* [TCID50 assay](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_325.md)
 

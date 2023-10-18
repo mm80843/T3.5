@@ -2,9 +2,9 @@
 
 # __Disintegrated and non-interoperable data and knowledge__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Ontologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_53.md)
+* [The challenges include disintegrated and non-interoperable data, limited data access, data quality issues, and lack of standardized data sharing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_111.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of interoperability among ontologies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2727.md)
 * [Lack of interoperability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_901.md)
 * [Lack of ontology interoperability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1453.md)
+
+## Mitigations of this risk
+
+* [Ontologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_53.md)
 

@@ -2,9 +2,9 @@
 
 # __openings__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Opening presence for air circulation and sun exposure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1151.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3685.md)
 * [open communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2004.md)
 * [Open communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2155.md)
+
+## This Technology enables the following mitigations
+
+* [Opening presence for air circulation and sun exposure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1151.md)
 

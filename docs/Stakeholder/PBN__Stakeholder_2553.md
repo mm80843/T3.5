@@ -2,13 +2,9 @@
 
 # __Property owner__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q12794619](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q12794619.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Housing And Property](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_10.md)
+* [Property stakeholders ranging from investors, homeowners, and tenants to entrepreneurs and commercial space owners.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_7.md)
 
 ## Closest similar item
 
@@ -26,4 +22,12 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Owners](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_59.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q12794619](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q12794619.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Housing And Property](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_10.md)
 

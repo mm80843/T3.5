@@ -2,9 +2,9 @@
 
 # __Lack of reporting__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Increase helpline](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_46.md)
+* [Insufficient awareness, limited resources, inadequate communication, and lack of preparedness contribute to various challenges and deficiencies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_118.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Delayed reporting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2539.md)
 * [Lack of timely information and evidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2794.md)
 * [Lack of reliable information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2838.md)
+
+## Mitigations of this risk
+
+* [Increase helpline](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_46.md)
 

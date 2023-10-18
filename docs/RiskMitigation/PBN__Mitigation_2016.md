@@ -2,9 +2,9 @@
 
 # __Zoned Air Conditioning__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [ducted air conditioning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4195.md)
+* [Promote clean, fresh air by monitoring and controlling indoor pollution, using portable air cleaners, and increasing outdoor air flow.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_172.md)
 
 ## Closest similar item
 
@@ -19,14 +19,18 @@
 * [Humidity control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_376.md)
 * [Air Quality Improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_225.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Install separate air conditioning systems with individual filter units for each zone or room.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [RESIDENTIAL ARCHITECTURE IN A POST-PANDEMIC WORLD: IMPLICATIONS OF COVID-19 FOR NEW CONSTRUCTION AND FOR ADAPTING HERITAGE BUILDINGS](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_56.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [ducted air conditioning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4195.md)
 

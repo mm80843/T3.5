@@ -2,8 +2,9 @@
 
 # __Green retrofitting__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Promoting sustainable and eco-friendly practices that enhance urban green spaces, energy efficiency, and renewable energy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_180.md)
 
 ## Closest similar item
 
@@ -18,14 +19,17 @@
 * [Increase availability of green views](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3192.md)
 * [Improvement of the quality of green space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3333.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Retrofitting existing buildings for improved sustainability and safety
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Green Buildings: A Post COVID-19 Analysis of Preventive Measures of Spreading the Virus](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_290.md)
+
+## This Mitigation is enabled by the following technologies
+
 

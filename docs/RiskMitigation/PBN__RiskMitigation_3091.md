@@ -2,9 +2,9 @@
 
 # __Increase public awareness through educational campaigns, provide reliable and accessible information__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of knowledge on COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_624.md)
+* [Promote understanding and knowledge sharing through educational campaigns, dissemination of accurate information, and public awareness initiatives.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_318.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Disseminating accurate and up-to-date information, providing education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1765.md)
 * [Increase public and professional awareness through education and training programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2370.md)
 * [Conduct public awareness campaigns and education programs to promote prevention measures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2437.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of knowledge on COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_624.md)
 

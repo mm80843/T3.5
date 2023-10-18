@@ -6,6 +6,10 @@
 
 * [Sustainability and reliance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1273.md)
 
+## Category to which it belongs
+
+* [The realm of those involved in the movement of people and goods, including workers, authorities, and operators.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_390.md)
+
 ## Closest similar item
 
 * [transportation agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_734.md)

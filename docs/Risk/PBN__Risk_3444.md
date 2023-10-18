@@ -2,9 +2,9 @@
 
 # __Emerging infectious pathogens__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Broad-spectrum antiviral drugs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2401.md)
+* [The dissemination of infectious diseases, characterized by outbreaks from various sources, inadequate preparedness, and insufficient reporting and understanding, poses a global threat.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_106.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Disease outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_161.md)
 * [Emerging variants of viruses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3445.md)
 * [Emergence of new vector-borne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2357.md)
+
+## Mitigations of this risk
+
+* [Broad-spectrum antiviral drugs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2401.md)
 

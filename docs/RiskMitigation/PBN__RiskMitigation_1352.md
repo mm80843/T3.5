@@ -2,13 +2,9 @@
 
 # __Antimicrobial surfaces__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Pathogen transmission via surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_968.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction of pathogen spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1330.md)
+* [Effective surface disinfection through regular cleaning and use of self-cleaning materials and antimicrobial coatings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_334.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [antimicrobial coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3452.md)
 * [anti-microbial materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3453.md)
 * [antimicrobial paint](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3454.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction of pathogen spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1330.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Pathogen transmission via surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_968.md)
 

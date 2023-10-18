@@ -2,9 +2,9 @@
 
 # __testing equipment__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q2115486](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2115486.md)
+* [Safety and operational tools for various fields, including healthcare, cleaning, maintenance, and emergency preparation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_212.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [test kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3950.md)
 * [testing and diagnostic technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1.md)
 * [laboratory equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3829.md)
+
+## This Technology is identified by the following QID
+
+* [Q2115486](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2115486.md)
 

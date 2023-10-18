@@ -2,9 +2,9 @@
 
 # __credit scoring algorithms__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q765517](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q765517.md)
+* [Advanced technologies and algorithms for modeling, simulation, optimization, and artificial intelligence in various applications, including robotics and computational fluid dynamics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_239.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [data analysis algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1978.md)
 * [data mining](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3027.md)
 * [rule-based algorithm](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3823.md)
+
+## This Technology is identified by the following QID
+
+* [Q765517](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q765517.md)
 

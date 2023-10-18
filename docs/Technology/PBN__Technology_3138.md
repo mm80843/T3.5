@@ -2,9 +2,9 @@
 
 # __online meetings__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Human Interactions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_300.md)
+* [Digital platforms and online resources facilitate collaboration, communication, and information sharing among individuals and organizations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_193.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Online collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2131.md)
 * [online counseling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1128.md)
 * [Online counseling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2193.md)
+
+## This Technology enables the following mitigations
+
+* [Human Interactions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_300.md)
 

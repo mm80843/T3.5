@@ -2,9 +2,9 @@
 
 # __Mandate the wearing of masks at all times on construction sites and enforce strict penalties for non-compliance.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Non-compliance with Mask Mandates](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1202.md)
+* [Encouraging the use of masks, practicing social distancing, and promoting good hygiene practices are vital preventive measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_345.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Regular testing, contact tracing, promoting mask-wearing and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2791.md)
 * [Promoting social distancing, wearing masks, and implementing strict hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2656.md)
 * [Implementing strict protocols for personal cleanliness, sanitization, and ventilation on construction sites.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2091.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Non-compliance with Mask Mandates](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1202.md)
 

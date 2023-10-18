@@ -2,9 +2,9 @@
 
 # __Government support for healthcare systems, financial assistance programs, stimulus packages.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Economic strain](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1987.md)
+* [Promote sustainable development through infrastructure investments, training, diversification, financial support, and government partnerships.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_315.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Establish government support programs, provide financial assistance and relief measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2827.md)
 * [Financial support, loans, grants, and stimulus packages for businesses. Support for transitioning to online sales and remote work.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2839.md)
 * [Government support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_940.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Economic strain](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1987.md)
 

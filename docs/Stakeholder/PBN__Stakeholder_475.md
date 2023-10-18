@@ -6,6 +6,10 @@
 
 * [Improved working performance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1216.md)
 
+## Category to which it belongs
+
+* [Employees across various industries, including laboratories, maintenance personnel, cleaning staff, and workers in the informal sector.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_359.md)
+
 ## Closest similar item
 
 * [individuals working remotely](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_617.md)

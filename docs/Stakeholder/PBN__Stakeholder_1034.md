@@ -2,13 +2,16 @@
 
 # __especially those with respiratory conditions__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q570920](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q570920.md)
+* [Especially susceptible individuals, such as allergy sufferers, those with weakened immune systems, and individuals with respiratory conditions, are at higher risk.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_388.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Increased exposure to pollen from urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1671.md)
+* [Air pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_148.md)
+* [Increased air pollution from emissions of volatile organic compounds by urban trees](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1664.md)
+* [Decreased concentrations of NO2 and PM2.5](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2386.md)
 
 ## Closest similar item
 
@@ -23,13 +26,14 @@
 * [especially those with medical conditions and sensitivity to temperature](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_651.md)
 * [individuals with respiratory conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1270.md)
 
-## Risk affecting this stakeholder
-
-* [Increased exposure to pollen from urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1671.md)
-* [Air pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_148.md)
-* [Increased air pollution from emissions of volatile organic compounds by urban trees](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1664.md)
-* [Decreased concentrations of NO2 and PM2.5](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2386.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
+
+## This Stakeholder is identified by the following QID
+
+* [Q570920](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q570920.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 

@@ -2,9 +2,9 @@
 
 # __Shortage of critical supplies__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Facilitate response diversity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2057.md)
+* [The challenges include reduced surgical education, loss of control, limited diagnostics, slow drug development, inadequate patient monitoring, and lack of drug therapy options.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_110.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Supply disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3035.md)
 * [Inventory shortage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3037.md)
 * [Increased demand, logistical challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3084.md)
+
+## Mitigations of this risk
+
+* [Facilitate response diversity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2057.md)
 

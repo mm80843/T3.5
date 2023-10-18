@@ -2,9 +2,9 @@
 
 # __Limit the number of pilgrims, implement rigorous testing and quarantine measures, enforce physical distancing and hygiene protocols.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Religious pilgrimages](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1886.md)
+* [Enforcing strict measures such as containment strategies, isolation, quarantine, and travel restrictions to prevent the spread of diseases.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_333.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement strict measures and screening at airports, enforce travel restrictions when necessary](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1953.md)
 * [Promote awareness and education about preventive measures, enforce guidelines and restrictions, and encourage responsible behavior and adherence to protocols.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1593.md)
 * [Implement safety protocols, increase hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2059.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Religious pilgrimages](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1886.md)
 

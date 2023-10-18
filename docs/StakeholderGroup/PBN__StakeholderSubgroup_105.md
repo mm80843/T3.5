@@ -2,13 +2,9 @@
 
 # __Digital and Information Access__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [individual seeking health information online](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2388.md)
-* [all individuals relying on mobile application notifications](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1313.md)
-* [individuals seeking health information](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1045.md)
-* [individuals without internet access or limited digital literacy](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1238.md)
-* [all individual relying on mobile application notification](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2389.md)
+* [Technology and resources for accessing and managing digital information and providing technical assistance.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_278.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Security and Law Enforcement](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_167.md)
 * [Social Media](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_38.md)
 * [Internet Companies](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_158.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [individual seeking health information online](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2388.md)
+* [all individuals relying on mobile application notifications](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1313.md)
+* [individuals seeking health information](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1045.md)
+* [individuals without internet access or limited digital literacy](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1238.md)
+* [all individual relying on mobile application notification](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2389.md)
 

@@ -2,9 +2,9 @@
 
 # __pharmaceutical companies__
 
-## Risks linked to this technology
+## Category to which it belongs
 
-* [Lack of medication and vaccines for COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1495.md)
+* [Advancements in biotechnology, clinical research, and innovative therapies contribute to the development of medical solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [healthcare authorities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1065.md)
 * [commercial vendors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3312.md)
 * [products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4058.md)
+
+## Risks linked to this technology
+
+* [Lack of medication and vaccines for COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1495.md)
 

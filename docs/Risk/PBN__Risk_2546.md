@@ -2,9 +2,9 @@
 
 # __Controlling humidity__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Humidity control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_376.md)
+* [Limited physical/social distancing, thermal discomfort, poor lighting, and inadequate air quality negatively impact personal comfort.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_130.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Aerosol transmission in dry environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2880.md)
 * [Meteorological conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1482.md)
 * [Effect of relative humidity (RH) on UV susceptibility of bacterial aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_339.md)
+
+## Mitigations of this risk
+
+* [Humidity control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_376.md)
 

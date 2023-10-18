@@ -2,13 +2,9 @@
 
 # __Total volume air distribution__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Airborne pathogen](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_845.md)
-
-## Property: has_MitigationBenefit
-
-* [Dilution of contaminants](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1168.md)
+* [Optimize indoor environments, regulate temperature and humidity, control air quality, and extend HVAC system operations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_341.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Increase ventilation rates, use proper air distribution patterns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1646.md)
 * [Proper ventilation and air quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_348.md)
 * [Improve air filtration and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1925.md)
+
+## Property: has_MitigationBenefit
+
+* [Dilution of contaminants](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1168.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Airborne pathogen](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_845.md)
 

@@ -2,13 +2,9 @@
 
 # __Increase greenspace availability__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of access to greenspace](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_169.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved cardiovascular health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_225.md)
+* [Promote biodiversity and sustainable urban development through the establishment and accessibility of green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_322.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Increased green space](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_277.md)
 * [Improvement of the quality of green space](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_170.md)
 * [Promote physical activity in greenspaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_212.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved cardiovascular health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_225.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of access to greenspace](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_169.md)
 

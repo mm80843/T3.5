@@ -2,10 +2,9 @@
 
 # __Flexibility, adaptability, sharing, and crowding of living spaces, and compliant functions located within the buildings__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [flexible design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3262.md)
-* [adaptable spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3263.md)
+* [Creating resilient urban environments through strategic planning, adaptable design, reduced density, and improved building infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_164.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Design communal spaces that support physical distancing and social interactions.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3818.md)
 * [Establish occupancy limits for spaces, provide adequate space and amenities for occupants, promote social distancing measures.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3819.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Overcrowding, inadequate space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2592.md)
-
 ## Property: has_MitigationPrinciple
 
 Ensure ergonomic requirements, adaptability to changes, suitable spaces for isolation and working from home, qualitative and quantitative responses to various needs
 
+## Risks possibly mitigated by this Mitigation
+
+* [Overcrowding, inadequate space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2592.md)
+
 ## Property: has_MitigationSource
 
 * [COVID-19 and Living space challenge. Well-being and Public Health recommendations for a healthy, safe, and sustainable housing.](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_161.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [flexible design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3262.md)
+* [adaptable spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3263.md)
 

@@ -2,13 +2,9 @@
 
 # __Mental health disturbances due to social distancing and home confinement__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Improve access to reliable information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_628.md)
-* [Promote strategies for managing anxiety, stress, and depression](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_632.md)
-* [Increase social support for vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_629.md)
-* [Provide targeted interventions for individuals with previous mental health or psychiatric illnesses](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_630.md)
-* [Address socioeconomic factors (e.g. income, education)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_631.md)
+* [The toll of mental health harms, health harming behaviors, and the psychological impact of quarantine, fear, and anxiety has increased, affecting various populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_95.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Mental health issues due to extended lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_729.md)
 * [Psychological impact of social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3034.md)
 * [Ineffective home isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2704.md)
+
+## Mitigations of this risk
+
+* [Improve access to reliable information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_628.md)
+* [Promote strategies for managing anxiety, stress, and depression](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_632.md)
+* [Increase social support for vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_629.md)
+* [Provide targeted interventions for individuals with previous mental health or psychiatric illnesses](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_630.md)
+* [Address socioeconomic factors (e.g. income, education)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_631.md)
 

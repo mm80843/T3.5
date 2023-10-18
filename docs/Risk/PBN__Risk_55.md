@@ -2,9 +2,9 @@
 
 # __High cost of replacing steel surfaces with copper bulk parts__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Copper coating via cold-spray technique](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_69.md)
+* [Challenges in building industry include lack of understanding, high costs, inadequate preparedness, and slow adoption of new technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_98.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Resistance to new materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2567.md)
 * [Material shortages](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3218.md)
 * [High installation and maintenance costs of green roofs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1687.md)
+
+## Mitigations of this risk
+
+* [Copper coating via cold-spray technique](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_69.md)
 

@@ -2,9 +2,9 @@
 
 # __smart energy management__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1779504](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1779504.md)
+* [Improved and energy-efficient HVAC systems, along with advanced technologies, for efficient energy management and environmental control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_227.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [power management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3399.md)
 * [energy monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_352.md)
 * [smart grid systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_354.md)
+
+## This Technology is identified by the following QID
+
+* [Q1779504](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1779504.md)
 

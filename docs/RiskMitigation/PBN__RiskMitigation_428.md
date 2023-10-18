@@ -2,13 +2,9 @@
 
 # __Phase I relaxation__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Uncontrolled SARS-CoV-2 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_330.md)
-
-## Property: has_MitigationBenefit
-
-* [Transmission reduction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_420.md)
+* [Implementing a comprehensive package of measures to ensure the smooth functioning and safety of essential services and activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_6.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Minimize negative](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_763.md)
 * [Checkpoint allocation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_323.md)
 * [Generating Negative Pressure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_394.md)
+
+## Property: has_MitigationBenefit
+
+* [Transmission reduction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_420.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Uncontrolled SARS-CoV-2 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_330.md)
 

@@ -2,9 +2,9 @@
 
 # __Need for flexible room configurations__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Sliding panels](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_778.md)
+* [Challenges in building industry include lack of understanding, high costs, inadequate preparedness, and slow adoption of new technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_98.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inadequate housing layout](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1737.md)
 * [Inflexible building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2738.md)
 * [Minimizing the number of people in indoor environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1781.md)
+
+## Mitigations of this risk
+
+* [Sliding panels](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_778.md)
 

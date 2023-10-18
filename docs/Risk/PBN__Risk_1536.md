@@ -2,25 +2,9 @@
 
 # __Data security__
 
-## Property: has_RiskHealth
+## Category to which it belongs
 
-* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Description of the risk
-
-Risk of data breaches or unauthorized access to the data collected by the Newcastle Urban Observatory
-
-## Property: has_RiskType
-
-* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
-
-## Articles mentionning the risk
-
-* [Smart cities and a data-driven response to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_164.md)
+* [The challenges include disintegrated and non-interoperable data, limited data access, data quality issues, and lack of standardized data sharing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_111.md)
 
 ## Closest similar item
 
@@ -35,23 +19,25 @@ Risk of data breaches or unauthorized access to the data collected by the Newcas
 * [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2439.md)
 * [Privacy of Data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3288.md)
 
-## People affected by this risk
+## Description of the risk
 
-* [data scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_627.md)
-* [newcastle urban observatory](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_991.md)
+Risk of data breaches or unauthorized access to the data collected by the Newcastle Urban Observatory
+
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Property: has_RiskHealth
+
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_5.md)
 
-## Stakeholders who can mitigate this risk
+## Property: has_RiskISO_Purpose
 
-* [data scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_627.md)
-* [newcastle urban observatory](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_991.md)
-
-## Name of the risk
-
-Unauthorized use of data, compromising privacy
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
 
 ## Mitigations of this risk
 
@@ -60,12 +46,30 @@ Unauthorized use of data, compromising privacy
 * [5G technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2023.md)
 * [Cloud computing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2027.md)
 
-## Property: has_RiskISO_Purpose
+## Name of the risk
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+Unauthorized use of data, compromising privacy
+
+## Stakeholders who can mitigate this risk
+
+* [data scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_627.md)
+* [newcastle urban observatory](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_991.md)
+
+## Articles mentionning the risk
+
+* [Smart cities and a data-driven response to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_164.md)
+
+## People affected by this risk
+
+* [data scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_627.md)
+* [newcastle urban observatory](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_991.md)
 
 ## Technologies linked to the risk
 
 * [access control protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_827.md)
 * [data encryption techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_826.md)
+
+## Property: has_RiskType
+
+* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 

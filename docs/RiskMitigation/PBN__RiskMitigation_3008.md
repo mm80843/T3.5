@@ -2,9 +2,9 @@
 
 # __Proper disposal methods for pharmaceutical wastes, including incineration and hazardous waste treatment.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Improper disposal of pharmaceutical wastes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2315.md)
+* [Promote environmentally-friendly waste management, sanitation, and maintenance practices, including rodent control, decontamination, and segregation of waste.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_340.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Proper classification and disinfection of hospital wastes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_933.md)
 * [Waste management strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1147.md)
 * [Proper segregation of medical waste](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_236.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Improper disposal of pharmaceutical wastes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2315.md)
 

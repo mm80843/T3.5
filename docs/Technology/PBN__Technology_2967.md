@@ -2,9 +2,9 @@
 
 # __video networking__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Video surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_104.md)
+* [Enhanced connectivity and diverse communication platforms enable the dissemination of reliable information and promote open communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_225.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [video conferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_123.md)
 * [video conferencing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3526.md)
 * [video conferencing tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_428.md)
+
+## This Technology enables the following mitigations
+
+* [Video surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_104.md)
 

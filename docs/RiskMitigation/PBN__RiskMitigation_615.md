@@ -2,13 +2,9 @@
 
 # __Integration of information and technology solutions__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of communication and surveillance capabilities in makeshift hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_445.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced communication and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_622.md)
+* [Accelerate the shift to digitalization by embracing emerging technologies and implementing innovative solutions across various sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_346.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Integration of smart city technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1343.md)
 * [Adoption of digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_588.md)
 * [Adoption of digital technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_751.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced communication and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_622.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of communication and surveillance capabilities in makeshift hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_445.md)
 

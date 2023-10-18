@@ -2,9 +2,9 @@
 
 # __Communicate safety measures and hygiene protocols, provide real-time information on passenger flow and occupancy levels__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Fear of using public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1218.md)
+* [Promote and enforce hygiene practices, implement sanitation measures, and provide education on proper handwashing techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_332.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement hygiene protocols and regular cleaning of shared vehicles following health guidelines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1979.md)
 * [Conduct timely close contact tracing through interviews and CCTV footage, maintain records of passenger names and seat numbers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2799.md)
 * [Implement strict hygiene protocols, provide Personal Protective Equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2461.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Fear of using public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1218.md)
 

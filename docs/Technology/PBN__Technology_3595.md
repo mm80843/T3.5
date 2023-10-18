@@ -2,10 +2,9 @@
 
 # __energy efficiency__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Green building design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2415.md)
-* [Green stimulus](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1053.md)
+* [Improved and energy-efficient HVAC systems, along with advanced technologies, for efficient energy management and environmental control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_227.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [water efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4483.md)
 * [energy-efficient systems and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_652.md)
 * [Energy-efficient systems and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2307.md)
+
+## This Technology enables the following mitigations
+
+* [Green building design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2415.md)
+* [Green stimulus](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1053.md)
 

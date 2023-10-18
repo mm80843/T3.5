@@ -2,9 +2,9 @@
 
 # __cooperative frameworks__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Stakeholder Cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2185.md)
+* [Digital platforms and online resources facilitate collaboration, communication, and information sharing among individuals and organizations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_193.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [coordinated services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4080.md)
 * [communication and coordination platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1151.md)
 * [Communication and coordination platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2503.md)
+
+## This Technology enables the following mitigations
+
+* [Stakeholder Cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2185.md)
 

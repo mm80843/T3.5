@@ -2,13 +2,9 @@
 
 # __Implementation of adaptable HVAC systems__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Challenges in ventilation and air conditioning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_792.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_321.md)
+* [Optimize indoor environments, regulate temperature and humidity, control air quality, and extend HVAC system operations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_341.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Regular maintenance and calibration of HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2003.md)
 * [Proper design and maintenance of HVAC systems, use of individual controls, insulation, and shading.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1570.md)
 * [Install high-efficiency filters in HVAC systems, regularly clean and replace filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1643.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_321.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Challenges in ventilation and air conditioning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_792.md)
 

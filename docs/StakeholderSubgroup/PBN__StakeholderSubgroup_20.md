@@ -2,10 +2,9 @@
 
 # __Unions and Organizations__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [Labor union](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1648.md)
-* [Labor organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1672.md)
+* [Global associations working in various sectors, such as health, training, vector-control, unions, and non-governmental activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_282.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Agencies/Providers/Associations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_66.md)
 * [Community Associations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_137.md)
 * [International and Health Organizations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_116.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [Labor union](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1648.md)
+* [Labor organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1672.md)
 

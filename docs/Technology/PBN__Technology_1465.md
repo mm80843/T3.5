@@ -2,9 +2,9 @@
 
 # __microscopic crowd models__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1093434](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1093434.md)
+* [Effective management and surveillance of crowds through advanced technologies, tools, and strategic measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_233.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [crowd management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_619.md)
 * [crowd management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_434.md)
 * [Crowd management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2766.md)
+
+## This Technology is identified by the following QID
+
+* [Q1093434](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1093434.md)
 

@@ -2,9 +2,9 @@
 
 # __High false positive rate__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Schema matching](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2307.md)
+* [The challenges include inadequate testing capacity, slow identification of cases, limited evidence, and variability in PCR methods.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_140.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Risk of misdiagnosis or false results](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_839.md)
 * [Inaccurate symptom screening](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_674.md)
 * [Low testing frequency in previously infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_864.md)
+
+## Mitigations of this risk
+
+* [Schema matching](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2307.md)
 

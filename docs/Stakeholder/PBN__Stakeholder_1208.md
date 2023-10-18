@@ -2,13 +2,13 @@
 
 # __individuals in spaces with poor air filtration__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q272730](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q272730.md)
+* [Individuals in poorly ventilated indoor environments, especially those in enclosed spaces with limited air flow, such as offices, homes, and buildings with inadequate air filtration, are at risk of exposure to poor indoor air quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_398.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Ineffective air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1321.md)
 
 ## Closest similar item
 
@@ -23,11 +23,15 @@
 * [People exposed to the filtered air](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2592.md)
 * [worker in workplace with inadequate air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1741.md)
 
-## Risk affecting this stakeholder
-
-* [Ineffective air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1321.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Individuals in Specific Settings](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_87.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q272730](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q272730.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 

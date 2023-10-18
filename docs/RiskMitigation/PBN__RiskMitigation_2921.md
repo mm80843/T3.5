@@ -2,9 +2,9 @@
 
 # __Task-shifting UBPI interventions to non-clinical staff or students, providing training and support for these individuals.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Limited human resources for occupational mental health interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2243.md)
+* [Enrich education through digital tools, virtual experiences, remote learning, and alternative forms of exercise and interaction.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_3.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Behavior Change Interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_869.md)
 * [Improve working conditions and support for healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2649.md)
 * [Ensuring appropriate training and support for healthcare professionals, regular maintenance and quality control of equipment.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3047.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limited human resources for occupational mental health interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2243.md)
 

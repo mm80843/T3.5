@@ -2,9 +2,9 @@
 
 # __Strengthen healthcare infrastructure, implement strict quarantine measures, develop vaccines__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Global pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1437.md)
+* [Maximizing vaccine efficacy and ensuring equitable access through research, development, distribution, and targeted outreach.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_337.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Improve screening programs, implement infection control measures, improve ventilation systems, implement air filtration and UV light sterilisation technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1769.md)
 * [Prioritize vaccination for vulnerable populations, implement protective measures in healthcare settings, provide support and resources for at-risk individuals.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1874.md)
 * [Strengthen healthcare systems, promote public health measures, increase access to testing and treatment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2272.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Global pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1437.md)
 

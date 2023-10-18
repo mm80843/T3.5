@@ -2,9 +2,9 @@
 
 # __widening testing networks__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q10986558](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q10986558.md)
+* [Enhanced diagnostic techniques and screening methods, including the development of rapid and reliable testing technologies and increased availability of diagnostic tools and kits.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_211.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_37.md)
 * [testing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3527.md)
 * [testing protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_265.md)
+
+## This Technology is identified by the following QID
+
+* [Q10986558](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q10986558.md)
 

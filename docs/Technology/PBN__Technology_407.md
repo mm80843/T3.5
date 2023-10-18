@@ -2,9 +2,9 @@
 
 # __fitness tracking devices__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q16001686](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q16001686.md)
+* [A comprehensive range of advanced, interconnected devices that offer efficiency, convenience, and enhanced functionality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_238.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [tracking technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1722.md)
 * [wearable sensors for exercise monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_66.md)
 * [wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3189.md)
+
+## This Technology is identified by the following QID
+
+* [Q16001686](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q16001686.md)
 

@@ -2,11 +2,9 @@
 
 # __pedestrian trajectories__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Physical Contact](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1746.md)
-* [Social Distance Radius](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1747.md)
-* [Face-to-face Contact within Social Distance Radius](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1748.md)
+* [Optimizing urban spaces through inclusive strategies and technologies, integrating green spaces, and managing population density and transportation systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_226.md)
 
 ## Closest similar item
 
@@ -20,4 +18,10 @@
 * [public transport](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3647.md)
 * [urban planning and transportation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_373.md)
 * [Urban planning and transportation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2328.md)
+
+## This Technology enables the following mitigations
+
+* [Physical Contact](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1746.md)
+* [Social Distance Radius](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1747.md)
+* [Face-to-face Contact within Social Distance Radius](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1748.md)
 

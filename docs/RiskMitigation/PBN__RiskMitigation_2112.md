@@ -2,9 +2,9 @@
 
 # __Revise contracts to include virus outbreak as force majeure__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Legal Issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1580.md)
+* [Implement comprehensive strategies to control virus transmission, improve surveillance, develop antiviral coatings, and enhance infection control measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_309.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Outbreak investigations and response](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1224.md)
 * [Early deployment of viral testing for asymptomatic and frontline healthcare staff](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_674.md)
 * [Promote inclusivity, educate the public about the virus and the importance of empathy and support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2417.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Legal Issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1580.md)
 

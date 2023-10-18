@@ -2,13 +2,9 @@
 
 # __Research and study on implementation of smart car parking systems__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Opportunity for smart rotary car parking](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_798.md)
-
-## Property: has_MitigationBenefit
-
-* [Efficient use of space](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1084.md)
+* [Enhanced surveillance, monitoring, and real-time tracking for improved control and response to various situations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_312.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implementation of IoT](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1421.md)
 * [Integration of smart city technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1343.md)
 * [Integration of smart building technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_158.md)
+
+## Property: has_MitigationBenefit
+
+* [Efficient use of space](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1084.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Opportunity for smart rotary car parking](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_798.md)
 

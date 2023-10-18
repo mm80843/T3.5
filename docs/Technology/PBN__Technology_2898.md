@@ -2,9 +2,9 @@
 
 # __education technology__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [School and university closures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_10.md)
+* [Technological advancements encompass a wide range of innovations, such as blockchain, touchless, renewable energy, and communication technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [educational platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1860.md)
 * [technology for remote learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1169.md)
 * [Educational programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2621.md)
+
+## This Technology enables the following mitigations
+
+* [School and university closures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_10.md)
 

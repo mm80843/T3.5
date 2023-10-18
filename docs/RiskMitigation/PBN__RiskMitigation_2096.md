@@ -2,9 +2,9 @@
 
 # __Implement demand response programs, promote energy conservation practices, and optimize grid operations to accommodate changing energy consumption patterns.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Shift in energy consumption behavior](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1566.md)
+* [Transition to sustainable energy sources, implement energy-efficient measures, and absorb increased service demand.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_351.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Provide financial assistance programs, energy efficiency upgrades, and education on energy-saving practices for low-income households.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2097.md)
 * [Encourage energy efficiency practices, educate households on thermostat settings and HVAC maintenance, and promote the use of energy-efficient HVAC systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2095.md)
 * [Promote energy efficiency measures and renewable energy production](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2145.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Shift in energy consumption behavior](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1566.md)
 

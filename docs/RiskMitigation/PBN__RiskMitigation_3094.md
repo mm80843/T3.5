@@ -2,9 +2,9 @@
 
 # __Improve public awareness and understanding of the importance of prevention measures, enforce compliance with guidelines__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of adherence to prevention measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2384.md)
+* [Enforce safety measures, promote responsible behavior, utilize PPE, and prioritize risk prevention to ensure adequate protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_342.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Promote and educate on the importance of preventive measures, enforce regulations on mask wearing and hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2407.md)
 * [Public health education and awareness campaigns, communication of guidelines and protocols through various channels, enforcement of regulations, and penalties for non-compliance.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2233.md)
 * [Prevention efforts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_827.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of adherence to prevention measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2384.md)
 

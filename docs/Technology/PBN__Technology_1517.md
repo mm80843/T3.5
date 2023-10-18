@@ -2,9 +2,9 @@
 
 # __workplace health promotion technologies__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1851928](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1851928.md)
+* [Improved healthcare infrastructure and resources enable public health authorities to implement effective messaging and interventions, ensuring equitable access to healthcare facilities and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_209.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [workplace safety technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_461.md)
 * [mobile health apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1552.md)
 * [digital health technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3327.md)
+
+## This Technology is identified by the following QID
+
+* [Q1851928](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1851928.md)
 

@@ -2,9 +2,9 @@
 
 # __uv-c emitters__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Surfacide UV-C Disinfection System](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_252.md)
+* [Innovative lighting solutions harnessing ultraviolet technology for optimal germicidal sterilization and energy efficiency, while maximizing natural light.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_235.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [far-uvc light sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_311.md)
 * [Far-UVC light sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2659.md)
 * [ultraviolet light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4402.md)
+
+## This Technology enables the following mitigations
+
+* [Surfacide UV-C Disinfection System](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_252.md)
 

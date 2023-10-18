@@ -2,13 +2,9 @@
 
 # __Monitoring regulatory environment__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Compliance with regulatory changes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_505.md)
-
-## Property: has_MitigationBenefit
-
-* [Regulatory compliance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_717.md)
+* [Enhanced surveillance, monitoring, and real-time tracking for improved control and response to various situations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_312.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implement safety measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_569.md)
 * [Address safety concerns through research, testing, and regulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2373.md)
 * [Retailers should implement strict monitoring and enforcement procedures, such as regular inspections, staff training, and the use of surveillance technology, to ensure compliance with social distancing measures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2292.md)
+
+## Property: has_MitigationBenefit
+
+* [Regulatory compliance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_717.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Compliance with regulatory changes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_505.md)
 

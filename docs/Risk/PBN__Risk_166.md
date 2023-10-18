@@ -2,9 +2,9 @@
 
 # __Increase in workload__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Implementing flexible work schedules](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_206.md)
+* [Issues related to energy use, including increased consumption, inefficient usage, and lack of understanding, have various implications in different settings and sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_133.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Decreased productivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2750.md)
 * [Decreased working time](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1996.md)
 * [Capacity Overload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2669.md)
+
+## Mitigations of this risk
+
+* [Implementing flexible work schedules](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_206.md)
 

@@ -2,8 +2,9 @@
 
 # __Stay-at-home recommendations__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Enhancing safety and efficiency through comprehensive measures, technology integration, diverse environments, and behavioral adjustments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_157.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Nursing Home Visiting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1383.md)
 * [Home Confinement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1724.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Transmission in the community](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3029.md)
-
 ## Property: has_MitigationPrinciple
 
 To limit the movement and interaction of individuals within the community to minimize the risk of transmission
 
+## Risks possibly mitigated by this Mitigation
+
+* [Transmission in the community](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3029.md)
+
 ## Property: has_MitigationSource
 
 * [COVID-19: The forgotten priorities of the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_236.md)
+
+## This Mitigation is enabled by the following technologies
+
 

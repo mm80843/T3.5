@@ -2,9 +2,9 @@
 
 # __Record short video while scrolling through imaging to share during teleconferences.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Imaging Limitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1267.md)
+* [The trend towards remote and digital healthcare is encompassing telecommuting, telehealth, teleconferencing, wearable technology, touchless technologies, and mobile applications.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_328.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Mobile technology for surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1166.md)
 * [Promote collaboration and regionalization of educational teleconferences and resource sharing.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1749.md)
 * [Adoption of teleoperation and online interactions to facilitate remote work and learning.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3085.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Imaging Limitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1267.md)
 

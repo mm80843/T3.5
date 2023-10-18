@@ -2,9 +2,9 @@
 
 # __Infected individuals entering a location__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Entry port screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_879.md)
+* [The dissemination of infectious diseases, characterized by outbreaks from various sources, inadequate preparedness, and insufficient reporting and understanding, poses a global threat.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_106.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Transmission of Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2812.md)
 * [Transmission of pathogens within a confined space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2716.md)
 * [Population-based data and modeling unable to accurately predict infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1005.md)
+
+## Mitigations of this risk
+
+* [Entry port screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_879.md)
 

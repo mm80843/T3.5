@@ -2,13 +2,13 @@
 
 # __Automation__
 
-## Property: has_TechEquivalent
-
-* [Automation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4541.md)
-
 ## Property: has_BP_EnablerTitle
 
 enabler_017
+
+## Category to which it belongs
+
+* [Streamlined process of performing tasks automatically without the need for human intervention.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_76.md)
 
 ## Closest similar item
 
@@ -37,4 +37,8 @@ enabler_017
 * [Building adaptation for flexible use](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_13.md)
 * [Reducing contact points](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_15.md)
 * [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_17.md)
+
+## Property: has_TechEquivalent
+
+* [Automation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4541.md)
 

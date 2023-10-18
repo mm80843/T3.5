@@ -2,6 +2,10 @@
 
 # __Image acquisition & CCTV__
 
+## Category to which it belongs
+
+* [Enhanced monitoring and surveillance technologies enable real-time tracking, video conferencing, and improved detection methods.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_214.md)
+
 ## Closest similar item
 
 * [cctv cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3409.md)

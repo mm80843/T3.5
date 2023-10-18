@@ -2,13 +2,9 @@
 
 # __Green trail segments with greater tree cover and vegetation greenness values__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Preference for greenviews during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_890.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced mental health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1223.md)
+* [Promote biodiversity and sustainable urban development through the establishment and accessibility of green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_322.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Green plants](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1351.md)
 * [Widening trails and walkways](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_38.md)
 * [Increase availability of green views](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_461.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced mental health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1223.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Preference for greenviews during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_890.md)
 

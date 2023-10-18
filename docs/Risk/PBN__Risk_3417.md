@@ -2,12 +2,9 @@
 
 # __Questionable__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Full data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2337.md)
-* [Publishing registered reports](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2338.md)
-* [Making modeling public](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2339.md)
-* [Improved peer-review process](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2340.md)
+* [The challenges and consequences of the global pandemic include poor acoustics, noise pollution, food security, increase in inequality, waste, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_131.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [Misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1033.md)
 * [Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_985.md)
 * [Insufficient evidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2790.md)
+
+## Mitigations of this risk
+
+* [Full data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2337.md)
+* [Publishing registered reports](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2338.md)
+* [Making modeling public](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2339.md)
+* [Improved peer-review process](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2340.md)
 

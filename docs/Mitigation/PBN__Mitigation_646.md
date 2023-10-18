@@ -2,8 +2,9 @@
 
 # __Dog walking guidelines__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Enhancing urban mobility through pedestrian-friendly infrastructure, optimized transportation, and improved public transportation systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_151.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Restrictions of movement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1385.md)
 * [Correlating health issues with movement patterns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2346.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Wildlife disturbance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2674.md)
-
 ## Property: has_MitigationPrinciple
 
 Implementing clear guidelines and rules for dog walking in green spaces to minimize the impact on wildlife and their habitats.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Wildlife disturbance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2674.md)
+
 ## Property: has_MitigationSource
 
 * [Green infrastructure through the lens of “One Health”: A systematic review and integrative framework uncovering synergies and trade-offs between mental health and wildlife support in cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_150.md)
+
+## This Mitigation is enabled by the following technologies
+
 

@@ -2,9 +2,9 @@
 
 # __Ensure proper sanitation and disinfection of bathrooms, promote hand hygiene after toilet use.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Fecal shedding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1853.md)
+* [Promote and enforce hygiene practices, implement sanitation measures, and provide education on proper handwashing techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_332.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Promote proper hand hygiene practices through education and awareness campaigns, provide hand sanitization stations, and enforce hand hygiene protocols.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3110.md)
 * [Provide access to hand hygiene stations, improve sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1971.md)
 * [Increase frequency of cleaning, provide hand sanitizers, promote personal hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1575.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Fecal shedding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1853.md)
 

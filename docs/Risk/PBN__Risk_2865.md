@@ -2,9 +2,9 @@
 
 # __Negative consequences__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Crisis Management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1027.md)
+* [The challenges and consequences of the global pandemic include poor acoustics, noise pollution, food security, increase in inequality, waste, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_131.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [False negatives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2761.md)
 * [Risk of false negatives or false positives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3070.md)
 * [Psychological effects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_855.md)
+
+## Mitigations of this risk
+
+* [Crisis Management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1027.md)
 

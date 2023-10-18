@@ -2,9 +2,9 @@
 
 # __External pressure to adapt__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Change and Opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1038.md)
+* [Insufficient air filtration, lack of evidence synthesis, shortages of protective equipment, and ineffective filtration highlight the concerns.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_135.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Poor air circulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2508.md)
 * [Controlling human circulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2555.md)
 * [Insufficient use of outdoor air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1320.md)
+
+## Mitigations of this risk
+
+* [Change and Opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1038.md)
 

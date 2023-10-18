@@ -2,9 +2,9 @@
 
 # __Use virtual reality for pain management__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Inefficient pain management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2092.md)
+* [Enrich education through digital tools, virtual experiences, remote learning, and alternative forms of exercise and interaction.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_3.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Virtual care platforms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_638.md)
 * [Virtual clinics and tele-medicine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1329.md)
 * [Adoption of emerging technologies (e.g., virtual reality)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_466.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inefficient pain management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2092.md)
 

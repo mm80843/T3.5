@@ -2,9 +2,9 @@
 
 # __artificial intelligence and epidemiological data__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [AI-based prediction models for pandemic forecasting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1405.md)
+* [Improved healthcare infrastructure and resources enable public health authorities to implement effective messaging and interventions, ensuring equitable access to healthcare facilities and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_209.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Disease surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2479.md)
 * [ai in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1508.md)
 * [AI in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2083.md)
+
+## This Technology enables the following mitigations
+
+* [AI-based prediction models for pandemic forecasting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1405.md)
 

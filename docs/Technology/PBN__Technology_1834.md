@@ -2,9 +2,9 @@
 
 # __soundproofing technology__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q589260](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q589260.md)
+* [Technological advancements encompass a wide range of innovations, such as blockchain, touchless, renewable energy, and communication technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [sound-absorbing materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_198.md)
 * [noise reduction technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2002.md)
 * [Noise reduction technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2446.md)
+
+## This Technology is identified by the following QID
+
+* [Q589260](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q589260.md)
 

@@ -2,9 +2,9 @@
 
 # __solar chargers__
 
-## Risks linked to this technology
+## Category to which it belongs
 
-* [Increased energy usage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2225.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Renewable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2390.md)
 * [develop electric vehicle charging infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_308.md)
 * [implement electric vehicle charging infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_307.md)
+
+## Risks linked to this technology
+
+* [Increased energy usage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2225.md)
 

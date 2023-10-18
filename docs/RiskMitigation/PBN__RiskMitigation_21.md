@@ -2,13 +2,9 @@
 
 # __Promote active transportation__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Urban mobility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_17.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduced infection risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_29.md)
+* [Implement travel restrictions, promote active transportation, streamline processes, provide accurate information, and develop sustainable transport options.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_325.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Job proximity and active transportation support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_24.md)
 * [Increase public transport capacity to ensure physical distancing, provide alternative transport options](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1668.md)
 * [Responsible transport](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_278.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced infection risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_29.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Urban mobility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_17.md)
 

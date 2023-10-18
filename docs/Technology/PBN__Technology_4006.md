@@ -2,9 +2,9 @@
 
 # __digital rt-qpcr assay__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Digital RT-qPCR](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1679.md)
+* [Advancements in biotechnology, clinical research, and innovative therapies contribute to the development of medical solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [reverse transcriptase quantitative polymerase chain reaction (rt-qpcr)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2943.md)
 * [qrt pcr testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3433.md)
 * [qRT-PCR](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2102.md)
+
+## This Technology enables the following mitigations
+
+* [Digital RT-qPCR](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1679.md)
 

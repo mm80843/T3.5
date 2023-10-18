@@ -2,13 +2,9 @@
 
 # __Increased surveillance and support services__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Domestic violence and intimate partner violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2.md)
-
-## Property: has_MitigationBenefit
-
-* [Increased reporting of domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_10.md)
+* [Enhanced surveillance, monitoring, and real-time tracking for improved control and response to various situations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_312.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Improve surveillance and detection systems at borders, increase public awareness of risks.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2625.md)
 * [Regulation of surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1201.md)
 * [Enhance surveillance systems, strengthen global cooperation, and invest in research and development.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2726.md)
+
+## Property: has_MitigationBenefit
+
+* [Increased reporting of domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_10.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Domestic violence and intimate partner violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2.md)
 

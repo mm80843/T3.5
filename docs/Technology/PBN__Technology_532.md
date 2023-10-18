@@ -2,9 +2,9 @@
 
 # __risk management strategies__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q7336243](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7336243.md)
+* [Safety protocols, emergency response plans, risk assessment tools, and comprehensive risk communication strategies ensure workplace safety and crisis management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_232.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [comprehensive urban planning and risk management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1948.md)
 * [risk assessment tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1457.md)
 * [Risk assessment tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2045.md)
+
+## This Technology is identified by the following QID
+
+* [Q7336243](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7336243.md)
 

@@ -2,12 +2,9 @@
 
 # __IoT Devices and Protocols__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [IoT devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2429.md)
-* [IoT protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2428.md)
-* [sensor redundancy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_332.md)
-* [remote diagnostics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_333.md)
+* [Tools and technologies for interconnected communication, coordination, and collaboration in the digital realm.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_13.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [Technologies and Techniques](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_179.md)
 * [Monitoring Systems and Sensors](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_119.md)
 * [Sensor and Remote Sensing Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_153.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [IoT devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2429.md)
+* [IoT protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2428.md)
+* [sensor redundancy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_332.md)
+* [remote diagnostics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_333.md)
 

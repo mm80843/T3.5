@@ -2,9 +2,9 @@
 
 # __international classification of diseases (icd) codes__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q45127](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q45127.md)
+* [Advancements in biotechnology, clinical research, and innovative therapies contribute to the development of medical solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [artificial intelligence and health data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3849.md)
 * [mobile-health disease-monitoring data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3310.md)
 * [technology for disease surveillance and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1031.md)
+
+## This Technology is identified by the following QID
+
+* [Q45127](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q45127.md)
 

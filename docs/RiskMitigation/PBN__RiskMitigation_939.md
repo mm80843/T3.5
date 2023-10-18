@@ -2,13 +2,9 @@
 
 # __Portfolio transformation__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [COVID-19 spread in the workplace](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_675.md)
-
-## Property: has_MitigationBenefit
-
-* [Increased flexibility in office space provision](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_947.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Restructuring workforce](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_708.md)
 * [Change management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_714.md)
 * [Supplier diversification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_782.md)
+
+## Property: has_MitigationBenefit
+
+* [Increased flexibility in office space provision](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_947.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [COVID-19 spread in the workplace](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_675.md)
 

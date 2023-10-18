@@ -2,9 +2,9 @@
 
 # __routine maintenance__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Maintenance and/or decontamination of water](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2134.md)
+* [Measures promoting accountability, media control, real-time updates, and virtual experiences for physical distancing and education.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [maintenance and inspection protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1184.md)
 * [such as regular cleaning and repairs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1197.md)
 * [maintenance and landscaping equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_844.md)
+
+## This Technology enables the following mitigations
+
+* [Maintenance and/or decontamination of water](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2134.md)
 

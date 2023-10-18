@@ -2,9 +2,9 @@
 
 # __clinical trial data__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Timely and high-quality evidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_560.md)
+* [Advancements in biotechnology, clinical research, and innovative therapies contribute to the development of medical solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [clinical assessment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3957.md)
 * [improved evaluation and selection criteria for meta-analyses](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1929.md)
 * [including confirmation with clinical testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1360.md)
+
+## This Technology enables the following mitigations
+
+* [Timely and high-quality evidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_560.md)
 

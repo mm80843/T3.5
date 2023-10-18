@@ -2,10 +2,9 @@
 
 # __Artificial intelligence__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [zigbee-based monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4335.md)
-* [fast prediction models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4334.md)
+* [Maximizing control and efficiency in various domains through advanced technology and strategic planning.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_163.md)
 
 ## Closest similar item
 
@@ -20,14 +19,19 @@
 * [ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3008.md)
 * [AI algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3259.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Using AI to control ventilation systems and predict the risk of infection in hospital environments
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Social distancing enhanced automated optimal design of physical spaces in the wake of the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_186.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [zigbee-based monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4335.md)
+* [fast prediction models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4334.md)
 

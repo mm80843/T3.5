@@ -2,9 +2,9 @@
 
 # __supply chain management technologies__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q492886](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q492886.md)
+* [Efficiently manage and optimize the flow of goods, data, and suppliers for resilient local supply chains.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_191.md)
 
 ## Risks linked to this technology
 
@@ -23,4 +23,8 @@
 * [supply chain management platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_817.md)
 * [supply chain management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_639.md)
 * [Supply chain management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2347.md)
+
+## This Technology is identified by the following QID
+
+* [Q492886](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q492886.md)
 

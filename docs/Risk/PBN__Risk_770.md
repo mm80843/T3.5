@@ -2,9 +2,9 @@
 
 # __Losses in supply and demand__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Blockchain technology for supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1057.md)
+* [Supply chain disruptions and logistical challenges have caused global supply chains to be heavily impacted.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_99.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Changes in demand patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1772.md)
 * [Crop and livestock losses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2903.md)
 * [Shortage of supplies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3310.md)
+
+## Mitigations of this risk
+
+* [Blockchain technology for supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1057.md)
 

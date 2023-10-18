@@ -2,9 +2,9 @@
 
 # __evaluation and adaptation of temporary changes__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q7256373](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7256373.md)
+* [Measures promoting accountability, media control, real-time updates, and virtual experiences for physical distancing and education.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Behavior change programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2174.md)
 * [climate change adaptation strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3966.md)
 * [task-shifting strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1818.md)
+
+## This Technology is identified by the following QID
+
+* [Q7256373](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7256373.md)
 

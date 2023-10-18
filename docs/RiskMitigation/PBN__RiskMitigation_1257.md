@@ -2,13 +2,9 @@
 
 # __Creating smaller, local green spaces__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [New designs, uses, and practices for green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_911.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced access to nature and recreation for residents](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1243.md)
+* [Promote the integration of natural elements and communal areas, enhance accessibility and quality, and foster positive perception and functionality of public and private green and outdoor spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_331.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Open green spaces in urban periphery](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1232.md)
 * [Design smaller, local green spaces and prioritize accessibility and biodiversity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1975.md)
 * [Enhance accessibility to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_458.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced access to nature and recreation for residents](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1243.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [New designs, uses, and practices for green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_911.md)
 

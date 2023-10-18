@@ -2,9 +2,9 @@
 
 # __advanced energy modeling software and data analytics tools__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q58504889](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q58504889.md)
+* [Improved and energy-efficient HVAC systems, along with advanced technologies, for efficient energy management and environmental control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_227.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2382.md)
 * [energy assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_871.md)
 * [data analysis software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1534.md)
+
+## This Technology is identified by the following QID
+
+* [Q58504889](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q58504889.md)
 

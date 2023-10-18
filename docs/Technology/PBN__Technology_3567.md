@@ -2,9 +2,9 @@
 
 # __spatial layout and design__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Increase distance between spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_977.md)
+* [Design and construction professionals use innovative techniques and strategies to create adaptable, sustainable, and inclusive buildings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_217.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3564.md)
 * [building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4056.md)
 * [landscape design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3594.md)
+
+## This Technology enables the following mitigations
+
+* [Increase distance between spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_977.md)
 

@@ -2,9 +2,9 @@
 
 # __Publishing__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [publisher](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1825.md)
+* [Information dissemination and news organizations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_286.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Community Developers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_141.md)
 * [Education and Research](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_15.md)
 * [Manufacturing and Industry](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_62.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [publisher](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1825.md)
 

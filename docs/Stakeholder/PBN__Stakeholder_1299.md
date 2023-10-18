@@ -2,10 +2,9 @@
 
 # __commercial areas__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Wastewater collection and treatment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1917.md)
-* [Water use patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1916.md)
+* [People residing in densely populated districts or neighborhoods, including those in high-risk, low-income, or underserved areas, as well as visitors and tenants in urban locations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_384.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [local businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_300.md)
 * [local industries and businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_412.md)
 * [rural area](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2431.md)
+
+## Risk affecting this stakeholder
+
+* [Wastewater collection and treatment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1917.md)
+* [Water use patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1916.md)
 

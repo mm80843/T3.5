@@ -2,9 +2,9 @@
 
 # __whatsapp__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [WhatsApp Chatbot](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1700.md)
+* [A comprehensive list of mobile applications, including contact-tracing apps, mental health apps, mobile banking, and fitness tracking devices, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_197.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [facebook](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4230.md)
 * [chat rooms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3120.md)
 * [public health messaging systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_705.md)
+
+## This Technology enables the following mitigations
+
+* [WhatsApp Chatbot](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1700.md)
 

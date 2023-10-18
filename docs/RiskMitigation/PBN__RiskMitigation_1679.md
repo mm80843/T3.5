@@ -2,9 +2,9 @@
 
 # __Incorporate far-UVC light as a disinfection measure in public spaces__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Inactivation of human coronaviruses by far-UVC light](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1228.md)
+* [Implement rigorous cleaning and disinfection measures, including the use of antimicrobial materials and advanced technologies, to maintain a safe and hygienic environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_2.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement physical distancing measures, increased frequency of cleaning and disinfection, and revised operational procedures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1980.md)
 * [Use of far-UVC light](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_897.md)
 * [UVGI systems for air disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1199.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inactivation of human coronaviruses by far-UVC light](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1228.md)
 

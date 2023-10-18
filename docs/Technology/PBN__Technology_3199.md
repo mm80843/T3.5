@@ -2,9 +2,9 @@
 
 # __checkpoint stations__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Checkpoint allocation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_408.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [testing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3527.md)
 * [quarantine facilities or designated quarantine areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3802.md)
 * [personnel tracking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4426.md)
+
+## This Technology enables the following mitigations
+
+* [Checkpoint allocation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_408.md)
 

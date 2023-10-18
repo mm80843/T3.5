@@ -2,13 +2,9 @@
 
 # __Self-health evaluation before onboard__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [COVID-19 exposure in offshore workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_376.md)
-
-## Property: has_MitigationBenefit
-
-* [Early detection of COVID-19 cases](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_498.md)
+* [Promote public health through policy implementation, strengthened systems, health literacy, and targeted interventions for vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_314.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Incorporate health criteria into planning and design practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1974.md)
 * [Virtual reality medical training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1126.md)
 * [New ways of remote and digital health working](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_475.md)
+
+## Property: has_MitigationBenefit
+
+* [Early detection of COVID-19 cases](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_498.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [COVID-19 exposure in offshore workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_376.md)
 

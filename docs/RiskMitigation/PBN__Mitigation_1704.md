@@ -2,10 +2,9 @@
 
 # __Frequent Hand Washing__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [hand soap](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4021.md)
-* [water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3087.md)
+* [Promotion and implementation of rigorous hygiene protocols and use of sanitary facilities and materials.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_166.md)
 
 ## Closest similar item
 
@@ -20,14 +19,19 @@
 * [Regular Hand Hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_805.md)
 * [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_217.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Regular hand hygiene helps prevent the spread of contagious diseases, including COVID-19.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Urban Green Infrastructure and Green Open Spaces: An Issue of Social Fairness in Times of COVID-19 Crisis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_83.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [hand soap](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4021.md)
+* [water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3087.md)
 

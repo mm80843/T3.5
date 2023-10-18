@@ -2,9 +2,9 @@
 
 # __Building Codes and Standards__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [Building codes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2355.md)
+* [Architectural engineering disciplines and regulations related to constructing and designing residential and commercial buildings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_45.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Urban Planning and Zoning](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_125.md)
 * [Indoor Environment and Ventilation Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_75.md)
 * [Green Spaces and Urban Design](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_84.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [Building codes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2355.md)
 

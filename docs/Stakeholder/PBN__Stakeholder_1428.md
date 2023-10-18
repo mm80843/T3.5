@@ -2,13 +2,9 @@
 
 # __quarantine facility operators__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q182899](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q182899.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
+* [Individuals at risk, including vulnerable populations, individuals in quarantine or isolation, and those in close proximity to infected individuals or contaminated surfaces, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_392.md)
 
 ## Closest similar item
 
@@ -23,11 +19,19 @@
 * [facility operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_439.md)
 * [patients in quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1581.md)
 
+## Risks that can be mitigated by this stakeholder
+
+* [Risk of external seeding events and uncontrolled quarantines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2122.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Quarantine Facilities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_124.md)
 
-## Risks that can be mitigated by this stakeholder
+## This Stakeholder is identified by the following QID
 
-* [Risk of external seeding events and uncontrolled quarantines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2122.md)
+* [Q182899](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q182899.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
 

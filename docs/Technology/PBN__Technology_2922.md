@@ -2,10 +2,9 @@
 
 # __screening technology__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Screening masses](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_44.md)
-* [Entry port screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_879.md)
+* [Technological advancements encompass a wide range of innovations, such as blockchain, touchless, renewable energy, and communication technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [surveillance technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3635.md)
 * [diagnostic testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1309.md)
 * [Diagnostic testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2778.md)
+
+## This Technology enables the following mitigations
+
+* [Screening masses](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_44.md)
+* [Entry port screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_879.md)
 

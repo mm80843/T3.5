@@ -2,13 +2,9 @@
 
 # __Raising awareness about the relevance of UGS in urban landscape__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Limited recognition of UGS as important places in the city](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_697.md)
-
-## Property: has_MitigationBenefit
-
-* [Increased recognition of UGS importance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_968.md)
+* [Promote equitable, sustainable, and inclusive urban planning to enhance living conditions, mitigate overcrowding, and reduce disparities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_324.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Increase the density of UGS per person by creating new green spaces and expanding existing ones.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2248.md)
 * [Suburban landscape design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_71.md)
 * [Reduce wildlife urban interfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_688.md)
+
+## Property: has_MitigationBenefit
+
+* [Increased recognition of UGS importance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_968.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limited recognition of UGS as important places in the city](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_697.md)
 

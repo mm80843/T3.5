@@ -8,6 +8,10 @@
 * [Reduction in virus viability in indoor air](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_95.md)
 * [Reduced transmission indoors](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_269.md)
 
+## Category to which it belongs
+
+* [Individuals involved in the design, construction, management, and occupation of various types of buildings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_367.md)
+
 ## Closest similar item
 
 * [building owners and occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_143.md)

@@ -2,9 +2,9 @@
 
 # __job placement platforms__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q629194](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q629194.md)
+* [Digital platforms and online resources facilitate collaboration, communication, and information sharing among individuals and organizations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_193.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Job creation initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2250.md)
 * [employment opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1227.md)
 * [workforce management tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1491.md)
+
+## This Technology is identified by the following QID
+
+* [Q629194](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q629194.md)
 

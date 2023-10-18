@@ -2,9 +2,9 @@
 
 # __Transmission of SARS-CoV-2 through sewage__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Preprocessing disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_266.md)
+* [The widespread transmission and persistence of the SARS-CoV-2 virus in various environments and the challenges in detecting and removing it.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_93.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Detection of SARS-CoV-2 in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1446.md)
 * [Detection of SARS-CoV-2 in wastewater as a data source](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_291.md)
 * [Low sensitivity of current assays for SARS-CoV-2 detection in sewage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1627.md)
+
+## Mitigations of this risk
+
+* [Preprocessing disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_266.md)
 

@@ -2,9 +2,9 @@
 
 # __Liver transplant recipients with metabolic comorbidities__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Maintaining immunosuppression in liver transplant recipients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1142.md)
+* [The challenges include reduced surgical education, loss of control, limited diagnostics, slow drug development, inadequate patient monitoring, and lack of drug therapy options.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_110.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Increase in chronic diseases from sedentary lifestyles](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_113.md)
 * [Importation of diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3270.md)
 * [Increased risk of obesity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2813.md)
+
+## Mitigations of this risk
+
+* [Maintaining immunosuppression in liver transplant recipients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1142.md)
 

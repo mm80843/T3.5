@@ -2,9 +2,9 @@
 
 # __antimicrobial materials__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Use of hygienic materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_772.md)
+* [The implementation of various disinfection methods, improved cleaning and sanitization protocols, and the use of eco-friendly disinfectants and advanced technologies have been prioritized.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_199.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [antimicrobial coating](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3484.md)
 * [Antimicrobial coating](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4551.md)
 * [antimicrobial coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_789.md)
+
+## This Technology enables the following mitigations
+
+* [Use of hygienic materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_772.md)
 

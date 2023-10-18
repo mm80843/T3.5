@@ -2,15 +2,9 @@
 
 # __Containment measures__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Exaggerated pandemic estimates](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_374.md)
-* [Zoonotic infections from wild animals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_699.md)
-
-## Property: has_MitigationBenefit
-
-* [Effective containment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_494.md)
-* [Prevention of outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_973.md)
+* [Implementing a comprehensive package of measures to ensure the smooth functioning and safety of essential services and activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_6.md)
 
 ## Closest similar item
 
@@ -24,4 +18,14 @@
 * [Mitigation measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1290.md)
 * [Organizational measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1368.md)
 * [Enhance containment measures, strengthen healthcare systems, improve coordination and communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1448.md)
+
+## Property: has_MitigationBenefit
+
+* [Effective containment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_494.md)
+* [Prevention of outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_973.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Exaggerated pandemic estimates](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_374.md)
+* [Zoonotic infections from wild animals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_699.md)
 

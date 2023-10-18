@@ -2,11 +2,9 @@
 
 # __disadvantaged populations__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Urbanization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2074.md)
-* [Social unrest](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2015.md)
-* [Inequality in access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1994.md)
+* [A diverse array of groups and individuals, encompassing all segments of society and the natural world.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_363.md)
 
 ## Closest similar item
 
@@ -20,4 +18,10 @@
 * [socially and economically disadvantaged group](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2106.md)
 * [populations of lower socioeconomic status](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_445.md)
 * [socially and economically disadvantaged groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1377.md)
+
+## Risk affecting this stakeholder
+
+* [Urbanization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2074.md)
+* [Social unrest](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2015.md)
+* [Inequality in access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1994.md)
 

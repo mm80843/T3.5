@@ -2,11 +2,9 @@
 
 # __High prevalence of obesity__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_747.md)
-* [Walkable urban design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_860.md)
-* [Access to shops and services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_861.md)
+* [The intersection of human activity and health, integrating databases, limited healthcare access, sedentary lifestyles, neglecting public health requirements, and disparities in urban design contribute to public health concerns.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_116.md)
 
 ## Closest similar item
 
@@ -20,4 +18,10 @@
 * [Physical health issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2986.md)
 * [High HIV prevalence in women](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1345.md)
 * [Increased prevalence of respiratory diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3245.md)
+
+## Mitigations of this risk
+
+* [Access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_747.md)
+* [Walkable urban design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_860.md)
+* [Access to shops and services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_861.md)
 

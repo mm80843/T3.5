@@ -2,9 +2,9 @@
 
 # __Implement measures to reduce population density, such as decentralization and expanding horizontally__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Increased population density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1397.md)
+* [Promote equitable, sustainable, and inclusive urban planning to enhance living conditions, mitigate overcrowding, and reduce disparities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_324.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Urban planning and infrastructure to accommodate growing populations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1503.md)
 * [Mitigation measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1290.md)
 * [Mitigation measure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1399.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Increased population density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1397.md)
 

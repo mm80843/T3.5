@@ -2,13 +2,9 @@
 
 # __Pooled-sample analysis__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Insufficient testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_740.md)
-
-## Property: has_MitigationBenefit
-
-* [Increased testing capacity and throughput](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1019.md)
+* [Advancements in bioinformatics, divestment, automated sample collection, and artificial intelligence are facilitating early disease detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_336.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implement measures early, based on evidence and research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1849.md)
 * [Evidence-based research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1445.md)
 * [Collect more data, conduct larger studies for more solid conclusions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2216.md)
+
+## Property: has_MitigationBenefit
+
+* [Increased testing capacity and throughput](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1019.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Insufficient testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_740.md)
 

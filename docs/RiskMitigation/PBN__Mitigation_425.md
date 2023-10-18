@@ -2,9 +2,9 @@
 
 # __Flipped Classroom Strategy__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [prerecorded video lecture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3218.md)
+* [Promoting effective communication, education, and trust through transparency, clear guidelines, and innovative strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_144.md)
 
 ## Closest similar item
 
@@ -19,14 +19,18 @@
 * [Closing of schools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1528.md)
 * [Isolate and Test with School Closure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1591.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Learners are provided with didactic material to watch prior to the conference, shifting the conference session to synthesis, application, and case-based discussion.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Using Technology to Maintain the Education of Residents During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_11.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [prerecorded video lecture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3218.md)
 

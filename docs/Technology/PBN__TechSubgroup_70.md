@@ -2,14 +2,9 @@
 
 # __Physical Distancing Tools and Measures__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [crowd management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_434.md)
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2212.md)
-* [isolation measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1855.md)
-* [Occupancy limits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2199.md)
-* [physical distancing markers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_968.md)
-* [Physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2224.md)
+* [Tools and technologies for observing, measuring, and controlling various aspects of the environment, including noise levels and physical distancing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_10.md)
 
 ## Closest similar item
 
@@ -23,4 +18,13 @@
 * [Contact Tracing Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_23.md)
 * [Physical Barriers and Signage](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_132.md)
 * [Physical Health Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_59.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [crowd management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_434.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2212.md)
+* [isolation measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1855.md)
+* [Occupancy limits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2199.md)
+* [physical distancing markers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_968.md)
+* [Physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2224.md)
 

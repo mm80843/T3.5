@@ -2,9 +2,9 @@
 
 # __steam sterilization__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q188223](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q188223.md)
+* [The implementation of various disinfection methods, improved cleaning and sanitization protocols, and the use of eco-friendly disinfectants and advanced technologies have been prioritized.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_199.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [preprocessing disinfection equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4416.md)
 * [steam or specialized commercial steam bags](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3735.md)
 * [regular cleaning and disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1290.md)
+
+## This Technology is identified by the following QID
+
+* [Q188223](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q188223.md)
 

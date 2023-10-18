@@ -2,9 +2,9 @@
 
 # __temporary closure protocols__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Closure of secondary public places](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_413.md)
+* [Consistent oversight and regulation ensure compliance, as standardized protocols are enforced by enforcement personnel and regulatory bodies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_228.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Reliable communication protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2860.md)
 * [secure protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4425.md)
 * [isolation protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_675.md)
+
+## This Technology enables the following mitigations
+
+* [Closure of secondary public places](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_413.md)
 

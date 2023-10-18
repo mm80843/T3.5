@@ -2,9 +2,9 @@
 
 # __Biased estimates and inferences__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Unbiased data collection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_889.md)
+* [The proliferation of false and misleading information, misinformation, and inaccurate news during pandemics creates confusion and a lack of trust in reliable sources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_127.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Non-evidence-based measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_375.md)
 * [Lack of evidence synthesis and filtering](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_394.md)
 * [Sample bias in wearable device studies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1111.md)
+
+## Mitigations of this risk
+
+* [Unbiased data collection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_889.md)
 

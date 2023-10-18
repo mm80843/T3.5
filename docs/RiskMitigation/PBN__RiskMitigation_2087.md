@@ -2,9 +2,9 @@
 
 # __Delivery in negative pressure isolation rooms, strict hygiene and infection control measures__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Mother-to-child transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_803.md)
+* [Promote and enforce hygiene practices, implement sanitation measures, and provide education on proper handwashing techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_332.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Equipping hospitals and infection control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_471.md)
 * [Upper room GUV air disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_340.md)
 * [Establish temporary isolation and quarantine rooms with necessary equipment and supplies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2798.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Mother-to-child transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_803.md)
 

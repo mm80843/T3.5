@@ -2,6 +2,10 @@
 
 # __Air filtration__
 
+## Category to which it belongs
+
+* [Enhancing air quality through effective air filtration, ventilation, and pollution reduction strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_338.md)
+
 ## Closest similar item
 
 * [Air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1355.md)

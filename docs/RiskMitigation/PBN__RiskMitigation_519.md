@@ -2,13 +2,9 @@
 
 # __Use of proper filters__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Transmission of SARS-CoV-2 in built environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_377.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction in airborne virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_509.md)
+* [Enhancing air quality through effective air filtration, ventilation, and pollution reduction strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_338.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Install high-efficiency filters in HVAC systems, regularly clean and replace filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1643.md)
 * [Implement data filtering and nan analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2737.md)
 * [Air filtration with HEPA filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_845.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction in airborne virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_509.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Transmission of SARS-CoV-2 in built environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_377.md)
 

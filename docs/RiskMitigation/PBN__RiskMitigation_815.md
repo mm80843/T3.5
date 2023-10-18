@@ -2,13 +2,9 @@
 
 # __Transparency and governance of data__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Privacy concerns and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_582.md)
-
-## Property: has_MitigationBenefit
-
-* [Balancing privacy with value of data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_819.md)
+* [Promote standardized data collection, ontology-based representation, and enhanced data sharing to improve decision-making processes and data quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_319.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implement strong data protection measures, ensure transparency and consent, use decentralized and secure systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2275.md)
 * [Embrace transparency and reproducibility practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1391.md)
 * [Providing clear and transparent information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_101.md)
+
+## Property: has_MitigationBenefit
+
+* [Balancing privacy with value of data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_819.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Privacy concerns and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_582.md)
 

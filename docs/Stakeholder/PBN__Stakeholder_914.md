@@ -2,10 +2,9 @@
 
 # __iot technology providers__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Information asymmetry between occupants and indoor environmental data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1406.md)
-* [Lack of spatiotemporal scale and resolution in data collection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1405.md)
+* [All those involved in the management, access, and utilization of data in various communities and industries.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_358.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [IoT devices](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2628.md)
 * [IoT device manufacturer and service provider](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2661.md)
 * [IoT device](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2648.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Information asymmetry between occupants and indoor environmental data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1406.md)
+* [Lack of spatiotemporal scale and resolution in data collection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1405.md)
 

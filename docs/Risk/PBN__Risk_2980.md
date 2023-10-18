@@ -2,9 +2,9 @@
 
 # __Inactivation of SARS-CoV-2 in water__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Disinfection of water](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1230.md)
+* [The widespread transmission and persistence of the SARS-CoV-2 virus in various environments and the challenges in detecting and removing it.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_93.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Decay rate of SARS-CoV-2 in the environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2273.md)
 * [Ineffectiveness of conventional wastewater treatment processes in removing SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2341.md)
 * [Possible pathways of SARS-CoV-2 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_875.md)
+
+## Mitigations of this risk
+
+* [Disinfection of water](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1230.md)
 

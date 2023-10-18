@@ -2,9 +2,9 @@
 
 # __improved sample collection and handling protocols__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q47484892](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q47484892.md)
+* [Data-driven insights and analysis for decision making, anonymized data, transparency, visualization, and advanced techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_205.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [protocol guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2903.md)
 * [cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1102.md)
 * [Cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2394.md)
+
+## This Technology is identified by the following QID
+
+* [Q47484892](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q47484892.md)
 

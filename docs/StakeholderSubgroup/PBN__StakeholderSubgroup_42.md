@@ -2,12 +2,9 @@
 
 # __Contact Tracing Entities__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [contact tracing teams](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_759.md)
-* [contact tracing team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1852.md)
-* [contact tracing agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1845.md)
-* [contact tracing agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1154.md)
+* [Entities responsible for tracking and tracing contacts of individuals infected with a communicable disease.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_279.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [Economic and Trade Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_122.md)
 * [Urban Planning Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_0.md)
 * [Data Protection Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_159.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [contact tracing teams](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_759.md)
+* [contact tracing team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1852.md)
+* [contact tracing agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1845.md)
+* [contact tracing agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1154.md)
 

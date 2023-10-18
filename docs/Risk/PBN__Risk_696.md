@@ -2,9 +2,9 @@
 
 # __Underestimation of UGS in urban design and environmental management__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Incorporation of sustainability criteria for urban design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_962.md)
+* [Challenges in building industry include lack of understanding, high costs, inadequate preparedness, and slow adoption of new technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_98.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Uneven distribution of UGS](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1689.md)
 * [Limited access to UGS for vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2256.md)
 * [Health inequalities resulting from urban design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1215.md)
+
+## Mitigations of this risk
+
+* [Incorporation of sustainability criteria for urban design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_962.md)
 

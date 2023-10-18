@@ -2,10 +2,9 @@
 
 # __Reproducible analytics__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_358.md)
-* [machine learning methodologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3316.md)
+* [Synthesis of statistical analysis, machine learning, artificial intelligence, and data visualization for informed decision-making and pattern discovery.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_184.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Strengthened data infrastructure and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1079.md)
 * [Predictive Analytics for Resource Planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1322.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Fraudulent research activities, lack of reproducibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2630.md)
-
 ## Property: has_MitigationPrinciple
 
 Improve research reliability, facilitate collaborative research
 
+## Risks possibly mitigated by this Mitigation
+
+* [Fraudulent research activities, lack of reproducibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2630.md)
+
 ## Property: has_MitigationSource
 
 * [Data capture and sharing in the COVID-19 pandemic: a cause for concern](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_208.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_358.md)
+* [machine learning methodologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3316.md)
 

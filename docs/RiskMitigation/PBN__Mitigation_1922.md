@@ -2,11 +2,9 @@
 
 # __Pathogenic DNA/RNA Residues Detection__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [qpcr techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4139.md)
-* [dpcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4140.md)
-* [next generation sequencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4141.md)
+* [Effective management of viral outbreaks through control measures, viral detection, disease tracking, and public awareness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_149.md)
 
 ## Closest similar item
 
@@ -21,14 +19,20 @@
 * [Infection tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2245.md)
 * [CRISPR-based lateral flow assay](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_232.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Detection of circulating diseases in a population, rapid monitoring, potential for early detection of disease outbreaks
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Future perspectives of wastewater-based epidemiology: Monitoring infectious disease spread and resistance to the community level](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_48.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [qpcr techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4139.md)
+* [dpcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4140.md)
+* [next generation sequencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4141.md)
 

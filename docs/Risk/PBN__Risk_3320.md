@@ -2,9 +2,9 @@
 
 # __Insufficient funding for climate action__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Substantially increase funding for climate and development organizations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1989.md)
+* [The interconnectedness of environmental degradation, social inequalities, and the need for climate action and conservation efforts.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_104.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of alignment with global climate goals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3323.md)
 * [Lack of funding and maintenance for green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_145.md)
 * [Neglecting climate change measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2875.md)
+
+## Mitigations of this risk
+
+* [Substantially increase funding for climate and development organizations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1989.md)
 

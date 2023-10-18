@@ -2,8 +2,9 @@
 
 # __Scalable infrastructure__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
+* [The built environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_230.md)
 
 ## Closest similar item
 
@@ -18,11 +19,14 @@
 * [adaptive infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3202.md)
 * [technology infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3891.md)
 
-## This Technology belongs to this TechGroup
-
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
-
 ## This Technology is identified by the following QID
 
 * [Q121359](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q121359.md)
+
+## This Technology belongs to this TechSubgroup
+
+
+## This Technology belongs to this TechGroup
+
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 

@@ -2,9 +2,9 @@
 
 # __Malaria case risk mapping__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Risk mapping process](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_391.md)
+* [The challenge lies in the lack of knowledge, limited consideration, and inherent limitations in representing disease transmission mechanisms, mobility patterns, and heterogeneity in macroscopic epidemiological models.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_97.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Spread of mosquito-borne diseases due to variable climate and extreme weather events](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_58.md)
 * [Vulnerability to disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3336.md)
 * [Increased risk of mosquito-borne diseases from bodies of water](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1669.md)
+
+## Mitigations of this risk
+
+* [Risk mapping process](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_391.md)
 

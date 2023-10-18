@@ -2,9 +2,9 @@
 
 # __Uncertainty and lack of direction__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Business return plan](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_905.md)
+* [The proliferation of false and misleading information, misinformation, and inaccurate news during pandemics creates confusion and a lack of trust in reliable sources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_127.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Handling uncertain risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_661.md)
 * [Inconsistencies in Accuracy Measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1260.md)
 * [Real estate industry uncertainty](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_481.md)
+
+## Mitigations of this risk
+
+* [Business return plan](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_905.md)
 

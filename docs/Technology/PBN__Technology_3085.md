@@ -2,9 +2,9 @@
 
 # __vaccine__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Vaccination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_245.md)
+* [Advancements in molecular biology, diagnostics, vaccines, antiviral technologies, and disease surveillance for pathogen detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_223.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [vaccine development technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_917.md)
 * [vaccine development and manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1885.md)
 * [Vaccine development and manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2806.md)
+
+## This Technology enables the following mitigations
+
+* [Vaccination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_245.md)
 

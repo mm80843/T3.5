@@ -2,9 +2,9 @@
 
 # __Travel restrictions, isolation, testing__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Spread from Wuhan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1593.md)
+* [Implement travel restrictions, promote active transportation, streamline processes, provide accurate information, and develop sustainable transport options.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_325.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Travel restrictions and border control measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_437.md)
 * [Mobility restrictions,](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_975.md)
 * [Implement strict measures and screening at airports, enforce travel restrictions when necessary](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1953.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Spread from Wuhan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1593.md)
 

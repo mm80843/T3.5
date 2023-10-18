@@ -2,8 +2,9 @@
 
 # __Flexibility and Adaptability__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Promoting exercise and physical activity through various strategies, monitoring, guidelines, programs, and adaptations, while considering barriers and analyzing movement patterns.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_159.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Flexible building](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1662.md)
 * [Flexible building systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2167.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Uncertainty and changes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2864.md)
-
 ## Property: has_MitigationPrinciple
 
 Demonstrates the ability of startups to adjust their business models and practices to respond to the crisis and adapt to new circumstances.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Uncertainty and changes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2864.md)
+
 ## Property: has_MitigationSource
 
 * [Startups in times of crisis – A rapid response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_158.md)
+
+## This Mitigation is enabled by the following technologies
+
 

@@ -2,9 +2,9 @@
 
 # __foreign nationals living or visiting saudi arabia__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [High population of foreign nationals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1885.md)
+* [Foreign nationals residing in or visiting various destinations for tourism, with a focus on travelers during the pandemic and the industries reliant on tourism, such as hotels, tourism operators, and tourism boards.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_380.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [occupants of residential buildings in kuwait](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_583.md)
 * [Occupants of residential buildings in Kuwait](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2580.md)
 * [refugees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_951.md)
+
+## Risk affecting this stakeholder
+
+* [High population of foreign nationals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1885.md)
 

@@ -2,9 +2,9 @@
 
 # __Risk of non-compliance__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [SOP compliance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_983.md)
+* [Health and safety concerns, risk communication strategy, and inadequate personal protective equipment are all indicative of potential hazards and vulnerabilities in various settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_126.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Economic impacts, Compliance issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3167.md)
 * [Inadequate Compliance Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1727.md)
 * [Non-compliance with guidelines and protocols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1702.md)
+
+## Mitigations of this risk
+
+* [SOP compliance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_983.md)
 

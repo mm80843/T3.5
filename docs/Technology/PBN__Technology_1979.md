@@ -2,13 +2,13 @@
 
 # __modeling techniques__
 
+## Category to which it belongs
+
+* [Advanced technologies and algorithms for modeling, simulation, optimization, and artificial intelligence in various applications, including robotics and computational fluid dynamics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_239.md)
+
 ## Risks linked to this technology
 
 * [Fluctuations in sewage flow rate](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2370.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Data Analytics and Modeling](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_2.md)
 
 ## Closest similar item
 
@@ -23,11 +23,15 @@
 * [data analysis and modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_299.md)
 * [Data analysis and modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2055.md)
 
-## This Technology belongs to this TechGroup
-
-* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
-
 ## This Technology is identified by the following QID
 
 * [Q17143560](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q17143560.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Data Analytics and Modeling](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_2.md)
+
+## This Technology belongs to this TechGroup
+
+* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
 

@@ -2,9 +2,9 @@
 
 # __equitable healthcare systems__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q562125](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q562125.md)
+* [Improved healthcare infrastructure and resources enable public health authorities to implement effective messaging and interventions, ensuring equitable access to healthcare facilities and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_209.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Smart healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2269.md)
 * [health information systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1516.md)
 * [improved healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1204.md)
+
+## This Technology is identified by the following QID
+
+* [Q562125](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q562125.md)
 

@@ -2,9 +2,9 @@
 
 # __Increase availability of greenspaces for physical activity__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Obesity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2238.md)
+* [Promote biodiversity and sustainable urban development through the establishment and accessibility of green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_322.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Incorporating physical activity spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_154.md)
 * [Increase access to greenspace for mental health benefits](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_213.md)
 * [Provide green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2867.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Obesity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2238.md)
 

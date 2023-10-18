@@ -2,9 +2,9 @@
 
 # __humanitarian organizations__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Food insecurity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1876.md)
+* [A diverse array of entities dedicated to various industries, causes, or services, promoting growth and welfare in society.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_369.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [international organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_242.md)
 * [nonprofits](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_810.md)
 * [Nonprofits](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2449.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Food insecurity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1876.md)
 

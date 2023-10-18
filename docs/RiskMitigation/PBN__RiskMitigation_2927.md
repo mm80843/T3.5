@@ -2,9 +2,9 @@
 
 # __Implement policies to reduce inequality in access to green areas, provide subsidies or incentives for low-income individuals, and improve transportation options__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Inequality in access to green areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2249.md)
+* [Promote biodiversity and sustainable urban development through the establishment and accessibility of green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_322.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Improve access to healthcare, address health disparities, implement equity-focused policies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1638.md)
 * [Improve park access and quality in marginalized communities through equitable policies and investments.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2158.md)
 * [Government financial assistance, subsidies, or relief programs for public transport operators](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2537.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inequality in access to green areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2249.md)
 

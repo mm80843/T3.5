@@ -2,15 +2,9 @@
 
 # __Blockchain technology for supply chain management__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Disruptions in global supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_767.md)
-* [Losses in supply and demand](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_770.md)
-
-## Property: has_MitigationBenefit
-
-* [Provenance and transparency in supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1055.md)
-* [Reliability in supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1058.md)
+* [Enable transparent and secure data management, traceability, and efficient distribution while promoting accurate information dissemination and verification.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_321.md)
 
 ## Closest similar item
 
@@ -24,4 +18,14 @@
 * [Supply chain optimization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1415.md)
 * [Use of blockchain for reporting systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1170.md)
 * [Supply chain management for healthcare](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_29.md)
+
+## Property: has_MitigationBenefit
+
+* [Provenance and transparency in supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1055.md)
+* [Reliability in supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1058.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Disruptions in global supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_767.md)
+* [Losses in supply and demand](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_770.md)
 

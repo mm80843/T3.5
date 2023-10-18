@@ -2,9 +2,9 @@
 
 # __facilities__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Healthcare capacity expansion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1136.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [laboratory facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3513.md)
 * [healthcare technologies and facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1946.md)
 * [sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_626.md)
+
+## This Technology enables the following mitigations
+
+* [Healthcare capacity expansion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1136.md)
 

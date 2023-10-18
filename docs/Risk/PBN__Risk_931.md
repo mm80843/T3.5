@@ -2,9 +2,9 @@
 
 # __Environmental impacts of the pandemic__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Sustainable design and construction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1291.md)
+* [The interconnectedness of environmental degradation, social inequalities, and the need for climate action and conservation efforts.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_104.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Pandemic containment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_706.md)
 * [Increase in electricity usage during pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_433.md)
 * [Limited resources for pandemic mitigation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_879.md)
+
+## Mitigations of this risk
+
+* [Sustainable design and construction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1291.md)
 

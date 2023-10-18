@@ -2,9 +2,9 @@
 
 # __communication software__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q3635085](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3635085.md)
+* [A list of diverse software tools, including financial management, construction technology, project management, communication, and monitoring software.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_219.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5.md)
 * [communication systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1057.md)
 * [communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_135.md)
+
+## This Technology is identified by the following QID
+
+* [Q3635085](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3635085.md)
 

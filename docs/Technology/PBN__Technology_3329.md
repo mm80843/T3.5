@@ -2,9 +2,9 @@
 
 # __international policy framework__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Wildlife trade ban](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_580.md)
+* [Government actions and regulations addressing various aspects of society, including policy changes, ethical frameworks, governance mechanisms, and public announcements.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_216.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [international cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3601.md)
 * [policy measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3590.md)
 * [government policies and guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4329.md)
+
+## This Technology enables the following mitigations
+
+* [Wildlife trade ban](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_580.md)
 

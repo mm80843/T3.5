@@ -2,13 +2,9 @@
 
 # __Surveillance system__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Emerging pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_710.md)
-
-## Property: has_MitigationBenefit
-
-* [Early detection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_0.md)
+* [Enhanced surveillance, monitoring, and real-time tracking for improved control and response to various situations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_312.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Increased surveillance and support services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_6.md)
 * [Strengthening surveillance and control programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1507.md)
 * [WBE surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_881.md)
+
+## Property: has_MitigationBenefit
+
+* [Early detection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_0.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Emerging pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_710.md)
 

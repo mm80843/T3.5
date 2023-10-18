@@ -2,15 +2,9 @@
 
 # __Access to green spaces__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [High prevalence of obesity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_622.md)
-* [Psychological stress and mental health issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_532.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved mental health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_442.md)
-* [Lower COVID-19 mortality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_862.md)
+* [Promote the integration of natural elements and communal areas, enhance accessibility and quality, and foster positive perception and functionality of public and private green and outdoor spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_331.md)
 
 ## Closest similar item
 
@@ -24,4 +18,14 @@
 * [Redistribution of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_422.md)
 * [Visible and accessible green elements and spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_799.md)
 * [Increase the availability and accessibility of green spaces close to residential areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2580.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved mental health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_442.md)
+* [Lower COVID-19 mortality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_862.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [High prevalence of obesity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_622.md)
+* [Psychological stress and mental health issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_532.md)
 

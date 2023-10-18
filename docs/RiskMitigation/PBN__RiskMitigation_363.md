@@ -2,13 +2,9 @@
 
 # __Introducing neighborhood-level processes in large-scale models__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Homogeneous mixing assumptions in large-scale epidemiological models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_288.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved accuracy of model results](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_357.md)
+* [Advancements in bioinformatics, divestment, automated sample collection, and artificial intelligence are facilitating early disease detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_336.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Neighbourhood hygiene maintenance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_754.md)
 * [Develop cost-effective and scalable production methods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1583.md)
 * [Big-data analytics modeling](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1326.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved accuracy of model results](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_357.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Homogeneous mixing assumptions in large-scale epidemiological models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_288.md)
 

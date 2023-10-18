@@ -2,9 +2,9 @@
 
 # __Mental health issues due to extended lockdowns__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Systematic approach led by mental health experts, social communication through technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1011.md)
+* [Lockdowns exacerbate social inequalities, limit access to green spaces, shift energy demands, cause delays, and impact mental health.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_102.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Mental health disturbances due to social distancing and home confinement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_452.md)
 * [Increase in mental health issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1137.md)
 * [Mental health, social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3394.md)
+
+## Mitigations of this risk
+
+* [Systematic approach led by mental health experts, social communication through technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1011.md)
 

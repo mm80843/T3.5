@@ -2,9 +2,9 @@
 
 # __signage materials__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Posting hygiene signage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1844.md)
+* [Explore a diverse range of materials, from sound-absorbing to eco-friendly, that contribute to innovative building solutions and educational resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_222.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [hygiene signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_435.md)
 * [Hygiene signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2265.md)
 * [social distancing signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1297.md)
+
+## This Technology enables the following mitigations
+
+* [Posting hygiene signage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1844.md)
 

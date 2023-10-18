@@ -2,19 +2,19 @@
 
 # __High-quality green space__
 
+## Name of the Benefit
+
+Lack of funding results in declining quality of green space, which is particularly detrimental during a pandemic
+
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Proper investment and management of green space can increase community morale, improve mental and physical health, and enhance property values](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_195.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_4.md)
 
 ## Articles mentionning this Benefit
 
 * [Urban form: Realising the value of green space: a planners’ perspective on the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_41.md)
 
-## Name of the Benefit
+## Stakeholders benefitting from this Benefit
 
-Lack of funding results in declining quality of green space, which is particularly detrimental during a pandemic
+* [communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_4.md)
 

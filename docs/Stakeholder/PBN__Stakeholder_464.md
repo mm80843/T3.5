@@ -6,6 +6,10 @@
 
 * [Tailored protection for symptomatic and asymptomatic patients](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1189.md)
 
+## Category to which it belongs
+
+* [Especially susceptible individuals, such as allergy sufferers, those with weakened immune systems, and individuals with respiratory conditions, are at higher risk.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_388.md)
+
 ## Closest similar item
 
 * [re-infected patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1295.md)

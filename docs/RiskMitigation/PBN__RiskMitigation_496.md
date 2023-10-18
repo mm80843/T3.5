@@ -2,13 +2,9 @@
 
 # __Softening Labor Market Impact__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Automation Disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_370.md)
-
-## Property: has_MitigationBenefit
-
-* [Mitigating job displacement](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_481.md)
+* [Ensuring equitable access, promoting flexible work, implementing safety measures, and providing support for remote work and flexible schedules.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_323.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Bailouts for industries](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_979.md)
 * [Employment protections](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1181.md)
 * [Economic diversification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1002.md)
+
+## Property: has_MitigationBenefit
+
+* [Mitigating job displacement](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_481.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Automation Disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_370.md)
 

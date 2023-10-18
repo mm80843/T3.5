@@ -2,9 +2,9 @@
 
 # __Workplace closures__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Business Continuity Guideline](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1617.md)
+* [The impact of various factors on the workforce, including job insecurity, changes in work schedules, unemployment, and decreased productivity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_4.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Workplace transformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3424.md)
 * [Delay in works due to staff members at high risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_499.md)
 * [Lack of employee awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3165.md)
+
+## Mitigations of this risk
+
+* [Business Continuity Guideline](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1617.md)
 

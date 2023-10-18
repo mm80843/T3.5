@@ -2,9 +2,9 @@
 
 # __building design and construction techniques__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q811936](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q811936.md)
+* [Design and construction professionals use innovative techniques and strategies to create adaptable, sustainable, and inclusive buildings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_217.md)
 
 ## Risks linked to this technology
 
@@ -23,4 +23,8 @@
 * [Construction technology and software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2329.md)
 * [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2658.md)
 * [architectural & Construction Materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2661.md)
+
+## This Technology is identified by the following QID
+
+* [Q811936](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q811936.md)
 

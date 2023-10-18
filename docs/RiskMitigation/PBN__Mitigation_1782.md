@@ -2,9 +2,9 @@
 
 # __Improved Building Insulation__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [building insulation materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4062.md)
+* [Creating resilient urban environments through strategic planning, adaptable design, reduced density, and improved building infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_164.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Design level adjustments on noise insulation and acoustics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2145.md)
 * [Healthy Building Design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_140.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Energy Efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3251.md)
-
 ## Property: has_MitigationPrinciple
 
 Use improved building insulation materials to reduce energy loss and decrease the need for heating and cooling systems, which can contribute to indoor air pollution.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Energy Efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3251.md)
+
 ## Property: has_MitigationSource
 
 * [A comprehensive review on indoor air quality monitoring systems for enhanced public health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_281.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [building insulation materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4062.md)
 

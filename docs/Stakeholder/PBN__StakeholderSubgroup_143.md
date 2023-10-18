@@ -2,11 +2,9 @@
 
 # __Households__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [household](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2530.md)
-* [households](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_764.md)
-* [households without cars](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_735.md)
+* [Those affected by abuse within the home.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_274.md)
 
 ## Closest similar item
 
@@ -20,4 +18,10 @@
 * [Society](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_128.md)
 * [Socioeconomic Defined Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_89.md)
 * [Occupants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_55.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [household](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2530.md)
+* [households](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_764.md)
+* [households without cars](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_735.md)
 

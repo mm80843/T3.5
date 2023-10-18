@@ -2,9 +2,9 @@
 
 # __re-infected individuals__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Variation in protection against re-infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1914.md)
+* [All people, especially those at risk or facing various circumstances, including age, health conditions, or unemployment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_374.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [individuals in close proximity to an infected person](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_794.md)
 * [individual in close proximity to infected individual](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2122.md)
 * [contact persons of infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1051.md)
+
+## Risk affecting this stakeholder
+
+* [Variation in protection against re-infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1914.md)
 

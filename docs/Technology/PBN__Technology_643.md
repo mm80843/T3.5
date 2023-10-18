@@ -2,9 +2,9 @@
 
 # __sensor integration and development__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q167676](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q167676.md)
+* [Advanced monitoring systems and sensor integration for IoT devices and biosensor technology facilitate environmental monitoring and facility usage tracking.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_229.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [smart sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3766.md)
 * [sensor-based technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3036.md)
 * [sensor maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_990.md)
+
+## This Technology is identified by the following QID
+
+* [Q167676](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q167676.md)
 

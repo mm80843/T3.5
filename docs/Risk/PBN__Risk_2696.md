@@ -2,9 +2,9 @@
 
 # __Higher energy consumption__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Retrofits](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_713.md)
+* [Issues related to energy use, including increased consumption, inefficient usage, and lack of understanding, have various implications in different settings and sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_133.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Energy Efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3251.md)
 * [Energy use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_614.md)
 * [Increased energy requirements](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3183.md)
+
+## Mitigations of this risk
+
+* [Retrofits](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_713.md)
 

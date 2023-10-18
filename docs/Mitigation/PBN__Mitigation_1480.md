@@ -2,8 +2,9 @@
 
 # __Indoor air quality and thermal comfort__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Promote clean, fresh air by monitoring and controlling indoor pollution, using portable air cleaners, and increasing outdoor air flow.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_172.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Improved ventilation in indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1275.md)
 * [Indoor air quality monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1432.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Poor indoor air quality and discomfort lead to increased time spent outdoors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3095.md)
-
 ## Property: has_MitigationPrinciple
 
 Balance building modifications for malaria mitigation with indoor air quality and human comfort
 
+## Risks possibly mitigated by this Mitigation
+
+* [Poor indoor air quality and discomfort lead to increased time spent outdoors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3095.md)
+
 ## Property: has_MitigationSource
 
 * [Decision Making within the Built Environment as a Strategy for Mitigating the Risk of Malaria and Other Vector-Borne Diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_272.md)
+
+## This Mitigation is enabled by the following technologies
+
 

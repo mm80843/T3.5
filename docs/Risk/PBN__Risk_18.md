@@ -2,9 +2,9 @@
 
 # __Urban activities__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Balanced allocation of POIs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_22.md)
+* [Dense urban environments face challenges with population growth, inequality, biodiversity, mobility, and poor housing conditions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_105.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Urban Density and Crowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2378.md)
 * [Homogeneity in urban park use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1617.md)
 * [Public places as informative nodes in the city](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_267.md)
+
+## Mitigations of this risk
+
+* [Balanced allocation of POIs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_22.md)
 

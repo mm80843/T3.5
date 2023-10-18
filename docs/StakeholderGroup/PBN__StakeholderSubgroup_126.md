@@ -2,13 +2,9 @@
 
 # __Non-Governmental Organizations__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [NGOs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2463.md)
-* [NGO](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2443.md)
-* [Nonprofits](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2449.md)
-* [Nonprofit](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2458.md)
-* [Nonprofit organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2460.md)
+* [Global associations working in various sectors, such as health, training, vector-control, unions, and non-governmental activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_282.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Training Organizations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_18.md)
 * [Unions and Organizations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_20.md)
 * [International and Health Organizations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_116.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [NGOs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2463.md)
+* [NGO](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2443.md)
+* [Nonprofits](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2449.md)
+* [Nonprofit](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2458.md)
+* [Nonprofit organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2460.md)
 

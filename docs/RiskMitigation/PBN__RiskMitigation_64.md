@@ -2,13 +2,9 @@
 
 # __Encryption and anonymity__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_47.md)
-
-## Property: has_MitigationBenefit
-
-* [Data protection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_70.md)
+* [Data privacy and security are prioritized through encryption, access controls, consent, and robust cybersecurity measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_335.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Secure storage or deletion of personal data; careful consideration of data sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3035.md)
 * [Privacy protection measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_528.md)
 * [Strict adherence to privacy regulations, encryption of sensitive data, secure access control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1753.md)
+
+## Property: has_MitigationBenefit
+
+* [Data protection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_70.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_47.md)
 

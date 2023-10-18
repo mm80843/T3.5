@@ -2,13 +2,9 @@
 
 # __Control the airflows in micro spaces__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [AQ3: Airflows control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_186.md)
-
-## Property: has_MitigationBenefit
-
-* [Limited virus spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_237.md)
+* [Optimize indoor environments, regulate temperature and humidity, control air quality, and extend HVAC system operations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_341.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Improving ventilation systems, increasing airflow, using air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2021.md)
 * [Implement strategies to promote good room air mixing, such as ceiling mounted fans, to ensure even distribution of aerosol particles in the UV field](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1626.md)
 * [Proper ventilation in indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_719.md)
+
+## Property: has_MitigationBenefit
+
+* [Limited virus spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_237.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [AQ3: Airflows control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_186.md)
 

@@ -2,9 +2,9 @@
 
 # __Install water-efficient appliances__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [WC2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2216.md)
+* [Promote efficient and sustainable water practices, enhance infrastructure, and ensure access to clean water and sanitation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_339.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Smart water systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_806.md)
 * [Encourage energy efficiency practices, educate households on energy use, and promote the use of energy-efficient appliances.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2094.md)
 * [Develop alternative water sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2886.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [WC2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2216.md)
 

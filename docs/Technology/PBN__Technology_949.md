@@ -2,9 +2,9 @@
 
 # __development of standardized protocols and assays for sars-cov-2 detection in environmental samples__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q86901049](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q86901049.md)
+* [Advancements in molecular biology, diagnostics, vaccines, antiviral technologies, and disease surveillance for pathogen detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_223.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [rapid and reliable covid-19 testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_794.md)
 * [Rapid and reliable COVID-19 testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2542.md)
 * [co2 concentration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4251.md)
+
+## This Technology is identified by the following QID
+
+* [Q86901049](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q86901049.md)
 

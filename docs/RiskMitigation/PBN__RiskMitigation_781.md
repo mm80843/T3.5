@@ -2,15 +2,9 @@
 
 # __Safety protocols__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Project delays](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_554.md)
-* [Health and safety concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_557.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved productivity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_784.md)
-* [Improved worker well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_787.md)
+* [Enforce safety measures, promote responsible behavior, utilize PPE, and prioritize risk prevention to ensure adequate protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_342.md)
 
 ## Closest similar item
 
@@ -24,4 +18,14 @@
 * [safety monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3377.md)
 * [safety barriers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3378.md)
 * [Safety barriers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3379.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved productivity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_784.md)
+* [Improved worker well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_787.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Project delays](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_554.md)
+* [Health and safety concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_557.md)
 

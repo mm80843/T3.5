@@ -2,9 +2,9 @@
 
 # __Engage and educate the public on the benefits of sustainable energy, advocate for green recovery measures__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Shift in public priorities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1609.md)
+* [Transition to sustainable energy sources, implement energy-efficient measures, and absorb increased service demand.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_351.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Encourage energy efficiency practices, educate households on energy use, and promote the use of energy-efficient appliances.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2094.md)
 * [Raise awareness about energy conservation and promote energy-efficient designs and behaviors.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1498.md)
 * [Promote awareness and education about the benefits of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_459.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Shift in public priorities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1609.md)
 

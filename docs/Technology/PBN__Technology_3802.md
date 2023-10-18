@@ -2,10 +2,9 @@
 
 # __quarantine facilities or designated quarantine areas__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Mandatory quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1338.md)
-* [Quarantine of persons in contact](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1336.md)
+* [Advancements in molecular biology, diagnostics, vaccines, antiviral technologies, and disease surveillance for pathogen detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_223.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [material quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3143.md)
 * [shelter facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2926.md)
 * [sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_626.md)
+
+## This Technology enables the following mitigations
+
+* [Mandatory quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1338.md)
+* [Quarantine of persons in contact](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1336.md)
 

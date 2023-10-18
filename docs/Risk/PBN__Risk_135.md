@@ -2,9 +2,9 @@
 
 # __Future research__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Holistic and interdisciplinary approach to building research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_159.md)
+* [The challenges of implementing a digital culture include lack of interoperability, missing information, emerging technologies, and technological limitations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_112.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Need for innovative and modern technologies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_424.md)
 * [Limited data, efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2998.md)
 * [Knowledge gaps and future threats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2362.md)
+
+## Mitigations of this risk
+
+* [Holistic and interdisciplinary approach to building research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_159.md)
 

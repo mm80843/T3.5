@@ -2,13 +2,9 @@
 
 # __Relational capabilities__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Economic climate is unfavorable for innovation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_559.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced resource pool](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_789.md)
+* [Promote standardized data collection, ontology-based representation, and enhanced data sharing to improve decision-making processes and data quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_319.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Strengthening partnerships and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_290.md)
 * [Data collection and harmonization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1120.md)
 * [Coordinate and fund national and international research efforts, establish databases for knowledge sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1801.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced resource pool](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_789.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Economic climate is unfavorable for innovation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_559.md)
 

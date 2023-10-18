@@ -2,9 +2,9 @@
 
 # __common data dictionaries__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Common data infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_566.md)
+* [Data-driven insights and analysis for decision making, anonymized data, transparency, visualization, and advanced techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_205.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [standardized data recording structures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_520.md)
 * [efficient data collection and processing methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_177.md)
 * [data collection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_760.md)
+
+## This Technology enables the following mitigations
+
+* [Common data infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_566.md)
 

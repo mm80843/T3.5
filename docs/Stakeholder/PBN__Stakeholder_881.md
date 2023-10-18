@@ -2,13 +2,13 @@
 
 # __users of digital tools and platforms__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q241317](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q241317.md)
+* [All those involved in the management, access, and utilization of data in various communities and industries.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_358.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Technology Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_12.md)
+* [Privacy and data security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1370.md)
 
 ## Closest similar item
 
@@ -23,11 +23,15 @@
 * [residents with limited knowledge or skills in using digital technology](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1556.md)
 * [users of iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1434.md)
 
-## Risk affecting this stakeholder
-
-* [Privacy and data security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1370.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Users](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_101.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q241317](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q241317.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Technology Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_12.md)
 

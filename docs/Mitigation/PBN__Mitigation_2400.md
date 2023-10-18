@@ -2,8 +2,9 @@
 
 # __Global virus surveillance__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Effective management of viral outbreaks through control measures, viral detection, disease tracking, and public awareness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_149.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Surveillance of vector](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1753.md)
 * [Tracing and Tracking of Infected Individuals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1871.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Future threats of new pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3443.md)
-
 ## Property: has_MitigationPrinciple
 
 Proactively monitors and identifies potential novel human-infecting coronaviruses
 
+## Risks possibly mitigated by this Mitigation
+
+* [Future threats of new pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3443.md)
+
 ## Property: has_MitigationSource
 
 * [Current knowledge of COVID-19: Advances, challenges and future perspectives](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_118.md)
+
+## This Mitigation is enabled by the following technologies
+
 

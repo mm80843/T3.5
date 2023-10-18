@@ -2,9 +2,9 @@
 
 # __Representation and analysis of vaccine candidates__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Annotating and modeling vaccine candidates](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_58.md)
+* [The challenges in vaccination include limited storage capacity, high patient demand, inefficient resource use, distribution difficulties, waning vaccine effectiveness, and unequal access.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_113.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Incomplete vaccination data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3173.md)
 * [Vaccine access disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1939.md)
 * [Inadequate vaccine efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1911.md)
+
+## Mitigations of this risk
+
+* [Annotating and modeling vaccine candidates](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_58.md)
 

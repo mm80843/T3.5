@@ -2,25 +2,9 @@
 
 # __Centralization of economic activities__
 
-## Property: has_RiskHealth
+## Category to which it belongs
 
-* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Description of the risk
-
-Concentration of economic activities in a few areas of the city
-
-## Property: has_RiskType
-
-* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_3.md)
-
-## Articles mentionning the risk
-
-* [Understanding the role of urban design in disease spreading](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_69.md)
+* [The ramifications of global connectivity include economic instability, impacts of the pandemic, unemployment, poverty, reduced tourism revenue, and decline in public budgets.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_103.md)
 
 ## Closest similar item
 
@@ -35,13 +19,33 @@ Concentration of economic activities in a few areas of the city
 * [Limited capital and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2868.md)
 * [Global coordination, political challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2917.md)
 
-## People affected by this risk
+## Description of the risk
 
-* [residents of central areas with high economic activity](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_727.md)
+Concentration of economic activities in a few areas of the city
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Property: has_RiskHealth
+
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Culture and collective identity](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_13.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Mitigations of this risk
+
+* [Decentralize economic activities to distribute economic opportunities more evenly throughout the city](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1664.md)
+
+## Name of the risk
+
+Higher contact rates and increased risk of infection among residents of central areas
 
 ## Stakeholders who can mitigate this risk
 
@@ -49,19 +53,19 @@ Concentration of economic activities in a few areas of the city
 * [business owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_728.md)
 * [city officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_726.md)
 
-## Name of the risk
+## Articles mentionning the risk
 
-Higher contact rates and increased risk of infection among residents of central areas
+* [Understanding the role of urban design in disease spreading](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_69.md)
 
-## Mitigations of this risk
+## People affected by this risk
 
-* [Decentralize economic activities to distribute economic opportunities more evenly throughout the city](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1664.md)
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+* [residents of central areas with high economic activity](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_727.md)
 
 ## Technologies linked to the risk
 
 * [economic and business development strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_297.md)
+
+## Property: has_RiskType
+
+* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_3.md)
 

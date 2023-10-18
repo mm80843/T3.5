@@ -2,13 +2,9 @@
 
 # __Improve coordination between researchers, academia, and policymakers__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Flawed communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_829.md)
-
-## Property: has_MitigationBenefit
-
-* [Effective decision-making and implementation of preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1134.md)
+* [Strengthen collaborations, implement behavioral change, deploy social robots, and promote sustainable content consumption for community-based strategies, holistic research, and positive media representation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_316.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Strengthening partnerships and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_290.md)
 * [Promote transparency, communication, and community engagement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2646.md)
 * [Invest time and effort in overcoming technology barriers and considering multi-institutional collaborations.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1744.md)
+
+## Property: has_MitigationBenefit
+
+* [Effective decision-making and implementation of preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1134.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Flawed communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_829.md)
 

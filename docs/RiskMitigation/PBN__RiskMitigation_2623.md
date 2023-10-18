@@ -2,9 +2,9 @@
 
 # __Develop a universal occupant exposure model that can be used with microscopic crowd models__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of occupant exposure model](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2005.md)
+* [Efforts include RNA monitoring, occupant exposure modeling, targeted messages, adoption of principles, copper coating, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_311.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement crowd control measures, promote physical distancing, limit occupancy in congested areas.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2182.md)
 * [Implementing crowd management measures, promoting social distancing, providing hand hygiene stations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1999.md)
 * [Less crowded living environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_444.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of occupant exposure model](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2005.md)
 

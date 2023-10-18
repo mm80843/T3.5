@@ -2,9 +2,9 @@
 
 # __inclusive design principles and social equity considerations__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q3149923](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3149923.md)
+* [Design and construction professionals use innovative techniques and strategies to create adaptable, sustainable, and inclusive buildings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_217.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Digital inclusion initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2133.md)
 * [resilient design principles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4304.md)
 * [design principles that allow for future modifications and customization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3450.md)
+
+## This Technology is identified by the following QID
+
+* [Q3149923](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3149923.md)
 

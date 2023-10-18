@@ -2,9 +2,9 @@
 
 # __park design__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Adequate green space allocation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2432.md)
+* [Urban green space solutions include tree planting, zoning regulations, landscape architecture, community gardens, outdoor furniture, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_231.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [park with workout stations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4248.md)
 * [landscape design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3594.md)
 * [outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1848.md)
+
+## This Technology enables the following mitigations
+
+* [Adequate green space allocation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2432.md)
 

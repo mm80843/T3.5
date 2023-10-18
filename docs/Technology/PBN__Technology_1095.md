@@ -2,9 +2,9 @@
 
 # __websites can be used to provide alternative contact options for customers__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q5321499](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5321499.md)
+* [Digital platforms and online resources facilitate collaboration, communication, and information sharing among individuals and organizations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_193.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [online recruitment platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_813.md)
 * [digital marketing techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_443.md)
 * [contactless technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1556.md)
+
+## This Technology is identified by the following QID
+
+* [Q5321499](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5321499.md)
 

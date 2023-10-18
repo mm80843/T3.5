@@ -2,9 +2,9 @@
 
 # __energy reduction ratio__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Use of energy-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2142.md)
+* [Improved and energy-efficient HVAC systems, along with advanced technologies, for efficient energy management and environmental control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_227.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [incentives for energy conservation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_87.md)
 * [energy-efficient technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2312.md)
 * [reduced fossil fuel use](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3615.md)
+
+## This Technology enables the following mitigations
+
+* [Use of energy-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2142.md)
 

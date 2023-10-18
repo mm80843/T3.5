@@ -2,9 +2,9 @@
 
 # __Data gaps and lack of information__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Strengthened data infrastructure and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1079.md)
+* [The challenges include disintegrated and non-interoperable data, limited data access, data quality issues, and lack of standardized data sharing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_111.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of Information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2519.md)
 * [Lack of information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2599.md)
 * [Incomplete knowledge and research gaps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_743.md)
+
+## Mitigations of this risk
+
+* [Strengthened data infrastructure and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1079.md)
 

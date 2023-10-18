@@ -2,9 +2,9 @@
 
 # __data analysis technology__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Analysis of Root Causes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_921.md)
+* [Technological advancements encompass a wide range of innovations, such as blockchain, touchless, renewable energy, and communication technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [data analysis tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_554.md)
 * [data tracking and analysis technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4176.md)
 * [data visualization technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3542.md)
+
+## This Technology enables the following mitigations
+
+* [Analysis of Root Causes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_921.md)
 

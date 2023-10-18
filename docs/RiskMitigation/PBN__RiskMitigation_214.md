@@ -2,13 +2,9 @@
 
 # __Use of new smart/innovative technologies__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [PVP1: Virus propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_174.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_230.md)
+* [Accelerate the shift to digitalization by embracing emerging technologies and implementing innovative solutions across various sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_346.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Adoption of smart communities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_898.md)
 * [Wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_498.md)
 * [Adoption of digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_588.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_230.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [PVP1: Virus propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_174.md)
 

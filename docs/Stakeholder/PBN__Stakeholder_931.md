@@ -2,13 +2,13 @@
 
 # __victims of domestic violence and intimate partner violence__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q156537](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q156537.md)
+* [Survivors of abuse seeking support from organizations combating domestic violence and aiding victims.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_361.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Domestic Violence and Intimate Partner Violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1431.md)
 
 ## Closest similar item
 
@@ -23,11 +23,15 @@
 * [domestic violence organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_934.md)
 * [domestic violence organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1736.md)
 
-## Risk affecting this stakeholder
-
-* [Domestic Violence and Intimate Partner Violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1431.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Domestic Violence Victims](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_90.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q156537](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q156537.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 

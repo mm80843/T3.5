@@ -2,13 +2,13 @@
 
 # __countries participating in gvcs__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q17154120](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q17154120.md)
+* [Individuals and communities affected by pandemics, particularly in Kalimantan and Papua, individuals infected with HIV, vulnerable populations, and countries reliant on specific suppliers and participating in global value chains face various risks.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_365.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
+* [Propagation of shocks in GVCs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1839.md)
 
 ## Closest similar item
 
@@ -23,11 +23,15 @@
 * [countries heavily reliant on specific suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1243.md)
 * [governments and international organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1246.md)
 
-## Risk affecting this stakeholder
-
-* [Propagation of shocks in GVCs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1839.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Economic and Trade Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_122.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q17154120](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q17154120.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
 

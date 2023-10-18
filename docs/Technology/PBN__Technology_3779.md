@@ -2,9 +2,9 @@
 
 # __high voltage electrodes__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Bipolar ionization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1307.md)
+* [The range of materials and techniques listed includes various disinfectants, nanomaterials, manufacturing methods, coatings, sustainability measures, and analytical tools.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_237.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [such as coils](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4466.md)
 * [electric vehicles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_356.md)
 * [low-power silicon electronics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3025.md)
+
+## This Technology enables the following mitigations
+
+* [Bipolar ionization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1307.md)
 

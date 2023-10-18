@@ -2,13 +2,9 @@
 
 # __Development of bioinformatics tools__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of bioinformatics tools for data integration and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_37.md)
-
-## Property: has_MitigationBenefit
-
-* [Data analysis efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_61.md)
+* [Advancements in bioinformatics, divestment, automated sample collection, and artificial intelligence are facilitating early disease detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_336.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Embrace data science and digital techniques](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_292.md)
 * [Develop tools and platforms to provide direct access to real-time epidemiological data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3068.md)
 * [Phylogenetic analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_590.md)
+
+## Property: has_MitigationBenefit
+
+* [Data analysis efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_61.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of bioinformatics tools for data integration and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_37.md)
 

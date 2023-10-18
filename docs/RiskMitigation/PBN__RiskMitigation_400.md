@@ -2,13 +2,9 @@
 
 # __Patient-controlled access to medical records__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of patient control over medical data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_321.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced data privacy and autonomy](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_397.md)
+* [Enhancing healthcare infrastructure, increasing capacity, and ensuring access to medical resources and services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_330.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Digital patient management solutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_474.md)
 * [Patient tracking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1411.md)
 * [Accurate and reliable medical data communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_398.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced data privacy and autonomy](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_397.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of patient control over medical data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_321.md)
 

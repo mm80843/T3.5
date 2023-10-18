@@ -2,8 +2,9 @@
 
 # __Just Transition strategies__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Promoting effective communication, education, and trust through transparency, clear guidelines, and innovative strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_144.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Scenario planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1355.md)
 * [Structuring activities and maintaining routines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1608.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Social justice and inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3317.md)
-
 ## Property: has_MitigationPrinciple
 
 Implement policies and programs to ensure a fair and equitable transition to a low-carbon economy, considering the needs and rights of affected communities
 
+## Risks possibly mitigated by this Mitigation
+
+* [Social justice and inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3317.md)
+
 ## Property: has_MitigationSource
 
 * [Contextualizing the Covid-19 pandemic for a carbon-constrained world: Insights for sustainability transitions, energy justice, and research methodology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_123.md)
+
+## This Mitigation is enabled by the following technologies
+
 

@@ -2,13 +2,9 @@
 
 # __Infrastructure development and planning__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Respiratory pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_476.md)
-
-## Property: has_MitigationBenefit
-
-* [Resilient transport infrastructure to prevent virus spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_676.md)
+* [Promote equitable, sustainable, and inclusive urban planning to enhance living conditions, mitigate overcrowding, and reduce disparities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_324.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Investment in improving housing conditions and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1504.md)
 * [Preparing and providing smart city infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1105.md)
 * [Alternative planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_834.md)
+
+## Property: has_MitigationBenefit
+
+* [Resilient transport infrastructure to prevent virus spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_676.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Respiratory pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_476.md)
 

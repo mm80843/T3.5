@@ -2,13 +2,17 @@
 
 # __city dwellers__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q29325697](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q29325697.md)
+* [Areas inhabited by people in cities, focusing on residents, professionals, researchers, decision-makers, and institutions involved in urban planning and development.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_376.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [City Officials](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_0.md)
+* [Urban density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2028.md)
+* [Limited access to green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1289.md)
+* [Decline in car-based transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_242.md)
+* [Revisions in density and compact design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_246.md)
+* [Spatial planning considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_247.md)
 
 ## Closest similar item
 
@@ -23,15 +27,15 @@
 * [individuals in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2534.md)
 * [homeless people](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_444.md)
 
-## Risk affecting this stakeholder
-
-* [Urban density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2028.md)
-* [Limited access to green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1289.md)
-* [Decline in car-based transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_242.md)
-* [Revisions in density and compact design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_246.md)
-* [Spatial planning considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_247.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Public Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_3.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q29325697](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q29325697.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [City Officials](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_0.md)
 

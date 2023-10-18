@@ -2,10 +2,9 @@
 
 # __Society__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [society](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_53.md)
-* [society as a whole](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_437.md)
+* [Social hierarchy and its impact on individuals within a community.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_253.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Socioeconomic Defined Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_89.md)
 * [Community Members](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_130.md)
 * [Economic and Social Status](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_106.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [society](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_53.md)
+* [society as a whole](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_437.md)
 

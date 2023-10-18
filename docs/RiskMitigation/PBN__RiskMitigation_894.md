@@ -2,15 +2,9 @@
 
 # __Home-based exercises and physical activity__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Negative physical effects of quarantine and social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_644.md)
-* [Negative psychological effects of quarantine and social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_643.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction in anxiety, stress, and depression](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_894.md)
-* [Maintenance of physical fitness and health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_895.md)
+* [Enrich education through digital tools, virtual experiences, remote learning, and alternative forms of exercise and interaction.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_3.md)
 
 ## Closest similar item
 
@@ -24,4 +18,14 @@
 * [Family-based exercise programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1176.md)
 * [Moderate physical exercise](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1178.md)
 * [Incorporating physical activity spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_154.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction in anxiety, stress, and depression](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_894.md)
+* [Maintenance of physical fitness and health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_895.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Negative physical effects of quarantine and social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_644.md)
+* [Negative psychological effects of quarantine and social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_643.md)
 

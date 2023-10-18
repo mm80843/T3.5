@@ -2,13 +2,9 @@
 
 # __Automated sample collection__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of qualified staff for sample collection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_74.md)
-
-## Property: has_MitigationBenefit
-
-* [Speed up testing process](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_103.md)
+* [Advancements in bioinformatics, divestment, automated sample collection, and artificial intelligence are facilitating early disease detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_336.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Sequencing wastewater samples](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_990.md)
 * [Gather and analyze accurate data, rely on evidence-based estimates](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2046.md)
 * [Improve data quality through standardized data collection processes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2322.md)
+
+## Property: has_MitigationBenefit
+
+* [Speed up testing process](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_103.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of qualified staff for sample collection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_74.md)
 

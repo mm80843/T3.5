@@ -2,9 +2,9 @@
 
 # __enhanced legal protections for workers__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Protecting vulnerable workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2263.md)
+* [Consistent oversight and regulation ensure compliance, as standardized protocols are enforced by enforcement personnel and regulatory bodies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_228.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2486.md)
 * [enforcement personnel](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_371.md)
 * [Enforcement personnel](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2500.md)
+
+## This Technology enables the following mitigations
+
+* [Protecting vulnerable workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2263.md)
 

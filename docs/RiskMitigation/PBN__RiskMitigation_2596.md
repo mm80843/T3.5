@@ -2,9 +2,9 @@
 
 # __Implementing measures for staff protection, monitoring and support, flexible work arrangements.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Staff sickness and self-isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1982.md)
+* [Ensuring equitable access, promoting flexible work, implementing safety measures, and providing support for remote work and flexible schedules.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_323.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implementing safety measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_100.md)
 * [Develop industry-specific working procedures, enforce safety protocols, promote worker mental health.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1794.md)
 * [Implement online meetings and shift arrangements, provide training and company policies, enforce health protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2802.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Staff sickness and self-isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1982.md)
 

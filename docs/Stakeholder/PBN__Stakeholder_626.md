@@ -2,9 +2,9 @@
 
 # __property management__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Building health issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1095.md)
+* [Managers responsible for overseeing various aspects of a building, including supply chain, facilities, construction projects, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_366.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [property owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_177.md)
 * [Property owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2556.md)
 * [property developer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2008.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Building health issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1095.md)
 

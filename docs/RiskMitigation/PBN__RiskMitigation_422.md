@@ -2,13 +2,9 @@
 
 # __Redistribution of green spaces__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Unequal distribution of urban green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_327.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved social and spatial justice](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_418.md)
+* [Promote the integration of natural elements and communal areas, enhance accessibility and quality, and foster positive perception and functionality of public and private green and outdoor spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_331.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Increase green space availability](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_457.md)
 * [Accessible green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1228.md)
 * [Enhance accessibility to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_458.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved social and spatial justice](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_418.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Unequal distribution of urban green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_327.md)
 

@@ -2,11 +2,9 @@
 
 # __Education and training__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [workshops](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3039.md)
-* [courses](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3040.md)
-* [webinars](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3041.md)
+* [Promoting effective communication, education, and trust through transparency, clear guidelines, and innovative strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_144.md)
 
 ## Closest similar item
 
@@ -21,15 +19,21 @@
 * [Training programs for skill development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1506.md)
 * [Education and engagement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1485.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Lack of knowledge and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1284.md)
-
 ## Property: has_MitigationPrinciple
 
 Provide education and training programs for building professionals to increase awareness and knowledge about healthy buildings.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of knowledge and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1284.md)
+
 ## Property: has_MitigationSource
 
 * [Occupant health in buildings: Impact of the COVID-19 pandemic on the opinions of building professionals and implications on research](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_273.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [workshops](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3039.md)
+* [courses](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3040.md)
+* [webinars](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3041.md)
 

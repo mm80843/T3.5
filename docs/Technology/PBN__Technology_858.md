@@ -2,9 +2,9 @@
 
 # __education and training on hand hygiene practices__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q552461](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q552461.md)
+* [Enhanced hygiene practices and strict adherence to cleaning protocols ensure rigorous sanitation and disinfection measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_196.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Hand hygiene stations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2550.md)
 * [hygiene education programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_627.md)
 * [personal hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2211.md)
+
+## This Technology is identified by the following QID
+
+* [Q552461](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q552461.md)
 

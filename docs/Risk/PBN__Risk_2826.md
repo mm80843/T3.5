@@ -2,9 +2,9 @@
 
 # __Limited testing and treatment capabilities__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Medical Technological Development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_949.md)
+* [The challenges include inadequate testing capacity, slow identification of cases, limited evidence, and variability in PCR methods.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_140.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Invasive individual testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2367.md)
 * [Insufficient testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_740.md)
 * [Limited data, efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2998.md)
+
+## Mitigations of this risk
+
+* [Medical Technological Development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_949.md)
 

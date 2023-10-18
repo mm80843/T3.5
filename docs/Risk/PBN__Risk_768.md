@@ -2,9 +2,9 @@
 
 # __Misdiagnosis and fake news__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Blockchain-based medical record management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1058.md)
+* [The proliferation of false and misleading information, misinformation, and inaccurate news during pandemics creates confusion and a lack of trust in reliable sources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_127.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Unreliable reporting, atypical symptoms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2551.md)
 * [Spread of inaccurate medical information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1861.md)
 * [Fake news, rumors, panic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2642.md)
+
+## Mitigations of this risk
+
+* [Blockchain-based medical record management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1058.md)
 

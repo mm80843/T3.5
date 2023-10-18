@@ -2,9 +2,9 @@
 
 # __organizations promoting gender equality__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Gender inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_237.md)
+* [Members of the public, including social media users, organizations promoting gender equality, and individuals in various social settings and groups.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_385.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [vulnerable groups (e.g. women](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_263.md)
 * [social organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1493.md)
 * [males and females](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1422.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Gender inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_237.md)
 

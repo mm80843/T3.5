@@ -2,9 +2,9 @@
 
 # __Accumulation of dirt, dust, and microbial growth in HVAC system components__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Good housekeeping practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1423.md)
+* [The widespread presence and transfer of harmful pathogens and contaminants on various surfaces and environments pose serious risks to public health and the ecosystem.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_100.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Insufficient fresh air delivery in HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_276.md)
 * [Spread of pathogens or dust through the exhaust ducts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2929.md)
 * [HVAC characteristics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1484.md)
+
+## Mitigations of this risk
+
+* [Good housekeeping practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1423.md)
 

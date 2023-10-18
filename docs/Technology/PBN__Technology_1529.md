@@ -2,9 +2,9 @@
 
 # __iot devices for monitoring and controlling cleanliness protocols__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q251212](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q251212.md)
+* [Advanced monitoring systems and sensor integration for IoT devices and biosensor technology facilitate environmental monitoring and facility usage tracking.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_229.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [IoT protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2428.md)
 * [iot devices for monitoring building health conditions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1524.md)
 * [iot sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3790.md)
+
+## This Technology is identified by the following QID
+
+* [Q251212](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q251212.md)
 

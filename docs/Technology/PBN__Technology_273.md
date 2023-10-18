@@ -2,6 +2,10 @@
 
 # __personalized ventilation systems__
 
+## Category to which it belongs
+
+* [Improved ventilation and air purification methods are implemented, incorporating natural and mechanical systems, upgraded technologies, regular maintenance, and smart controls.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_200.md)
+
 ## Risks linked to this technology
 
 * [Personalized ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1193.md)

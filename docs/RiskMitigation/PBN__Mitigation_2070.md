@@ -2,8 +2,9 @@
 
 # __Funding for IT support__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Promoting well-being and resilience through various forms of support, resources, and assistance for individuals in need.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_143.md)
 
 ## Closest similar item
 
@@ -18,14 +19,17 @@
 * [Creation of funds and other support measures to suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1985.md)
 * [Employee support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_907.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Allocate funds for IT and data curation support
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Challenges of data sharing in European Covid-19 projects: A learning opportunity for advancing pandemic preparedness and response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_230.md)
+
+## This Mitigation is enabled by the following technologies
+
 

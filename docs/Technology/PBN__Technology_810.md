@@ -2,9 +2,9 @@
 
 # __communication and collaboration tools__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q5145802](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5145802.md)
+* [Enhanced connectivity and diverse communication platforms enable the dissemination of reliable information and promote open communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_225.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Online collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2131.md)
 * [collaborative tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3038.md)
 * [remote collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_125.md)
+
+## This Technology is identified by the following QID
+
+* [Q5145802](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5145802.md)
 

@@ -2,13 +2,9 @@
 
 # __Environmental sanitation__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction of transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1342.md)
+* [Promote environmentally-friendly waste management, sanitation, and maintenance practices, including rodent control, decontamination, and segregation of waste.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_340.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Enhance water treatment processes, implement effective sanitation measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2213.md)
 * [Prioritize investments in clean water, appropriate sanitation, and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1497.md)
 * [Improve access to safe drinking water and sanitation infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2666.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction of transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1342.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
 

@@ -2,9 +2,9 @@
 
 # __Insufficient emissions targets__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Sustainable energy policy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1054.md)
+* [The interconnectedness of environmental degradation, social inequalities, and the need for climate action and conservation efforts.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_104.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Challenges in promoting low-carbon policies in Member States](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2855.md)
 * [Insufficient funding for climate action](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3320.md)
 * [Transport-related greenhouse gas emissions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1220.md)
+
+## Mitigations of this risk
+
+* [Sustainable energy policy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1054.md)
 

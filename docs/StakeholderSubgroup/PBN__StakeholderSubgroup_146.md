@@ -2,9 +2,9 @@
 
 # __Donors__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [donors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_453.md)
+* [People involved in healthcare.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_246.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Public](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_147.md)
 * [Non-Governmental Organizations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_126.md)
 * [Owners](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_59.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [donors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_453.md)
 

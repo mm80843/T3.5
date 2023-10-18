@@ -2,12 +2,9 @@
 
 # __Technologies for Monitoring and Mitigation__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [ecological monitoring and regulation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1672.md)
-* [Monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2228.md)
-* [Fitness tracking devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2182.md)
-* [Energy-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2231.md)
+* [Tools and technologies for observing, measuring, and controlling various aspects of the environment, including noise levels and physical distancing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_10.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [Surveillance and Tracking Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_21.md)
 * [Technology and Materials for Protection](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_71.md)
 * [Testing and Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_25.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [ecological monitoring and regulation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1672.md)
+* [Monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2228.md)
+* [Fitness tracking devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2182.md)
+* [Energy-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2231.md)
 

@@ -2,13 +2,13 @@
 
 # __press releases__
 
+## Category to which it belongs
+
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
+
 ## Risks linked to this technology
 
 * [Lack of official communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1820.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Public Awareness Campaigns and Communication Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_49.md)
 
 ## Closest similar item
 
@@ -23,11 +23,15 @@
 * [reliable news sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1127.md)
 * [mass media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1540.md)
 
-## This Technology belongs to this TechGroup
-
-* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
-
 ## This Technology is identified by the following QID
 
 * [Q96727886](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q96727886.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Public Awareness Campaigns and Communication Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_49.md)
+
+## This Technology belongs to this TechGroup
+
+* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
 

@@ -2,9 +2,9 @@
 
 # __Physical inactivity during pandemic__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Home-based exercise](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1174.md)
+* [Limited physical/social distancing, thermal discomfort, poor lighting, and inadequate air quality negatively impact personal comfort.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_130.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Negative physical effects of quarantine and social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_644.md)
 * [Increase in electricity usage during pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_433.md)
 * [Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_446.md)
+
+## Mitigations of this risk
+
+* [Home-based exercise](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1174.md)
 

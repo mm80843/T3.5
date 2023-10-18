@@ -2,9 +2,9 @@
 
 # __Conduct studies in diverse geographic regions to obtain more representative data__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Underrepresentation of Geographic Regions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1261.md)
+* [Promote standardized data collection, ontology-based representation, and enhanced data sharing to improve decision-making processes and data quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_319.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Develop outreach programs to encourage park use among underrepresented populations.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2156.md)
 * [Consider implications for design, conduct, and interpretation of research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1388.md)
 * [Improve testing frequency and accuracy, conduct seroprevalence surveys.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2514.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Underrepresentation of Geographic Regions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1261.md)
 

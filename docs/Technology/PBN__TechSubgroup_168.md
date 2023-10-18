@@ -2,10 +2,9 @@
 
 # __Noise Control__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [Noise reduction measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2749.md)
-* [Noise filtering algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2578.md)
+* [Tools and technologies for observing, measuring, and controlling various aspects of the environment, including noise levels and physical distancing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_10.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Technologies and Techniques](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_179.md)
 * [Technologies for Monitoring and Mitigation](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_64.md)
 * [Vector Control Methods](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_156.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [Noise reduction measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2749.md)
+* [Noise filtering algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2578.md)
 

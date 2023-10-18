@@ -2,13 +2,9 @@
 
 # __Including health considerations in public space design__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Mainstreaming health criteria in public space design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_910.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved public health outcomes](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_691.md)
+* [Promote public health through policy implementation, strengthened systems, health literacy, and targeted interventions for vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_314.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Repurposing large public spaces for emergency health purposes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1258.md)
 * [Promoting personal hygiene, social distancing, and proper ventilation in buildings.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2774.md)
 * [Design and develop public spaces that encourage social interaction and physical activity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2144.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved public health outcomes](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_691.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Mainstreaming health criteria in public space design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_910.md)
 

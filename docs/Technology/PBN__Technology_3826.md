@@ -2,9 +2,9 @@
 
 # __jsoup library__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [JSOUP library](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1374.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [data collection tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1003.md)
 * [real-time data collection tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4437.md)
 * [web-based applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_243.md)
+
+## This Technology enables the following mitigations
+
+* [JSOUP library](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1374.md)
 

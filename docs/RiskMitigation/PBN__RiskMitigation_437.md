@@ -2,13 +2,9 @@
 
 # __Travel restrictions and border control measures__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Global containment strategy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_333.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction in disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_426.md)
+* [Implement travel restrictions, promote active transportation, streamline processes, provide accurate information, and develop sustainable transport options.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_325.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Strengthen border control measures and screening procedures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3012.md)
 * [Travel restrictions, isolation, testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2126.md)
 * [Implement strict measures and screening at airports, enforce travel restrictions when necessary](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1953.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction in disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_426.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Global containment strategy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_333.md)
 

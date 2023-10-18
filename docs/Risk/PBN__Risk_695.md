@@ -2,9 +2,9 @@
 
 # __Heterogeneous access to UGS__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Providing integrated spaces for social interaction and relaxation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_961.md)
+* [Limited monitoring, technical limitations, language barriers, expensive optimization, lack of connection with nature, and limited sensor diversity hinder effective response and resource allocation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_107.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Underestimation of UGS in urban design and environmental management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_696.md)
 * [Lack of maintenance and upkeep of UGS](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2258.md)
 * [Lack of UGS during pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1692.md)
+
+## Mitigations of this risk
+
+* [Providing integrated spaces for social interaction and relaxation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_961.md)
 

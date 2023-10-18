@@ -2,13 +2,9 @@
 
 # __Emphasizing use of personal protective measures__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Limitations of broad-scale mosquito control programs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_760.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved effectiveness of mitigation efforts](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1048.md)
+* [Enforce safety measures, promote responsible behavior, utilize PPE, and prioritize risk prevention to ensure adequate protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_342.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Emphasize the importance of multiple preventive measures and the need for continued vigilance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2416.md)
 * [Adoption of safety measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_711.md)
 * [Using appropriate protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1093.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved effectiveness of mitigation efforts](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1048.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limitations of broad-scale mosquito control programs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_760.md)
 

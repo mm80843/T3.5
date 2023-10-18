@@ -2,13 +2,9 @@
 
 # __Responsible information sharing__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Spread of inaccurate news on social media](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1015.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduced misinformation dissemination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1414.md)
+* [Promote accurate and reliable information, combat misinformation, and increase media and public health literacy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_343.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Increase data sharing and collaboration among researchers and institutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2283.md)
 * [Promoting awareness and knowledge sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_13.md)
 * [Providing clear and transparent information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_101.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced misinformation dissemination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1414.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of inaccurate news on social media](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1015.md)
 

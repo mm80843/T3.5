@@ -2,9 +2,9 @@
 
 # __Uncertainty in contractual entitlements__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Clear contractual arrangements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_989.md)
+* [A list of challenges and uncertainties surrounding the impact and response to various events and crises in different sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_124.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Financial constraints](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1294.md)
 * [Uncertainty about future](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1874.md)
 * [Uncertainty in Construction Market](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1956.md)
+
+## Mitigations of this risk
+
+* [Clear contractual arrangements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_989.md)
 

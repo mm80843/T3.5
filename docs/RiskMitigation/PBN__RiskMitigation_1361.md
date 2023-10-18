@@ -2,13 +2,9 @@
 
 # __Collaboration with WHO and Government Organizations__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Misleading Information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_971.md)
-
-## Property: has_MitigationBenefit
-
-* [Reliable Information](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1340.md)
+* [Strengthen collaborations, implement behavioral change, deploy social robots, and promote sustainable content consumption for community-based strategies, holistic research, and positive media representation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_316.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Collaboration with universities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_713.md)
 * [Improve coordination between researchers, academia, and policymakers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1136.md)
 * [Foster collaboration and coordination among stakeholders, align governance models with common public health goals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1648.md)
+
+## Property: has_MitigationBenefit
+
+* [Reliable Information](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1340.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Misleading Information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_971.md)
 

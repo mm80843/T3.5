@@ -2,13 +2,9 @@
 
 # __Improve surveillance__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Health care, surveillance and monitoring gaps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_749.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced early detection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1028.md)
+* [Efforts include RNA monitoring, occupant exposure modeling, targeted messages, adoption of principles, copper coating, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_311.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Strengthening public health surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_727.md)
 * [Mobile technology for surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1166.md)
 * [Improve surveillance and detection systems at borders, increase public awareness of risks.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2625.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced early detection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1028.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Health care, surveillance and monitoring gaps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_749.md)
 

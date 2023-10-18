@@ -2,13 +2,9 @@
 
 # __Integration of latrine sampling in WBE__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Spread of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_642.md)
-
-## Property: has_MitigationBenefit
-
-* [Extended reach of WBE](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1213.md)
+* [Efforts include RNA monitoring, occupant exposure modeling, targeted messages, adoption of principles, copper coating, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_311.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implement WBE surveillance as a cost-effective and rapid tool for population health assessment and monitoring.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1961.md)
 * [Automated sample collection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_89.md)
 * [Pooled-sample analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1022.md)
+
+## Property: has_MitigationBenefit
+
+* [Extended reach of WBE](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1213.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_642.md)
 

@@ -2,9 +2,9 @@
 
 # __diversification of supply chains__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1824206](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1824206.md)
+* [Efficiently manage and optimize the flow of goods, data, and suppliers for resilient local supply chains.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_191.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [improving supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1629.md)
 * [diversification](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4373.md)
 * [local supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3626.md)
+
+## This Technology is identified by the following QID
+
+* [Q1824206](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1824206.md)
 

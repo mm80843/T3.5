@@ -2,9 +2,9 @@
 
 # __air travel__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Restricting inter-city connections](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1118.md)
+* [Improved air quality can be achieved through the use of various technologies such as air purifiers and monitoring systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_221.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [air exhaustion](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4252.md)
 * [flight data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3673.md)
 * [emergency transportation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4177.md)
+
+## This Technology enables the following mitigations
+
+* [Restricting inter-city connections](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1118.md)
 

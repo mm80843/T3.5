@@ -2,10 +2,9 @@
 
 # __Infrared thermal imaging__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [infrared cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4087.md)
-* [thermographic cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4088.md)
+* [Achieving comfort through temperature management, monitoring, and control while implementing climate-sensitive design and utilizing thermal imaging technology for screening and measurement purposes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_185.md)
 
 ## Closest similar item
 
@@ -20,14 +19,19 @@
 * [UV-based technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1304.md)
 * [Shading](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3165.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Infrared thermal imaging is used to measure surface temperatures without direct contact. It can be used to detect fever in individuals, which is a common symptom of COVID-19. Thermal cameras can rapidly scan large groups of people and detect temperature changes. This technology allows for non-intrusive and safe temperature screening, reducing the risk of infection transmission.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Recently employed engineering techniques to reduce the spread of COVID-19 (corona virus disease 2019): a review study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_79.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [infrared cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4087.md)
+* [thermographic cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4088.md)
 

@@ -2,13 +2,9 @@
 
 # __Design and implement mass vaccination clinics__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [High patient demand for vaccinations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_155.md)
-
-## Property: has_MitigationBenefit
-
-* [Increased vaccination capacity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_212.md)
+* [Maximizing vaccine efficacy and ensuring equitable access through research, development, distribution, and targeted outreach.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_337.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Continued implementation of NPIs, vaccination campaigns, promote hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2369.md)
 * [Ensuring vaccination equity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1378.md)
 * [Prioritize vaccination and medical care for vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2761.md)
+
+## Property: has_MitigationBenefit
+
+* [Increased vaccination capacity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_212.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [High patient demand for vaccinations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_155.md)
 

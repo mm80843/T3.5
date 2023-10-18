@@ -2,13 +2,9 @@
 
 # __Promote gender equality in recovery plans__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Gender inequalities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_449.md)
-
-## Property: has_MitigationBenefit
-
-* [Greater gender equity in employment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_630.md)
+* [Implement comprehensive measures to ensure support, protection, and assistance for vulnerable populations during the pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_349.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implement social protection measures, promote economic recovery.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2661.md)
 * [Conduct gender-specific research on green space benefits, develop targeted interventions based on gender.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2768.md)
 * [Direct recovery funds towards sustainable development](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_19.md)
+
+## Property: has_MitigationBenefit
+
+* [Greater gender equity in employment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_630.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Gender inequalities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_449.md)
 

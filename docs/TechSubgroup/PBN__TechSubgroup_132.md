@@ -2,14 +2,9 @@
 
 # __Physical Barriers and Signage__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_833.md)
-* [Physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2396.md)
-* [Signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2498.md)
-* [Barricades](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2497.md)
-* [Closure signs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2496.md)
-* [Designated zones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2499.md)
+* [Obstacles and visuals communicate necessary information and restrict movement.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_53.md)
 
 ## Closest similar item
 
@@ -23,4 +18,13 @@
 * [Contact Tracing Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_23.md)
 * [Building Systems and Design](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_89.md)
 * [Travel Restrictions and Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_159.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_833.md)
+* [Physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2396.md)
+* [Signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2498.md)
+* [Barricades](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2497.md)
+* [Closure signs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2496.md)
+* [Designated zones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2499.md)
 

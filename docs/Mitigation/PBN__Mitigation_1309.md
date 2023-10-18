@@ -2,10 +2,9 @@
 
 # __Passive design strategies__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [urban design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3430.md)
-* [architecture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3431.md)
+* [Promoting effective communication, education, and trust through transparency, clear guidelines, and innovative strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_144.md)
 
 ## Closest similar item
 
@@ -20,14 +19,19 @@
 * [Incorporating exercise opportunities in design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2697.md)
 * [Development of detailed design guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3028.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Incorporating design strategies, such as optimizing natural ventilation, proper building orientation, and careful openings design, to enhance indoor air quality and reduce the risk of transmission in the built environment.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Indoor Air Quality: Rethinking rules of building design strategies in post-pandemic architecture](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_206.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [urban design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3430.md)
+* [architecture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3431.md)
 

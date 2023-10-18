@@ -2,9 +2,9 @@
 
 # __Habitat encroachment__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Land-use Planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1859.md)
+* [The interconnectedness of environmental degradation, social inequalities, and the need for climate action and conservation efforts.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_104.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Raising public support for nature conservation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_110.md)
 * [Construction and demolition waste provides breeding sites](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3096.md)
 * [Zoonotic transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_982.md)
+
+## Mitigations of this risk
+
+* [Land-use Planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1859.md)
 

@@ -2,9 +2,9 @@
 
 # __Provide social support and promote social connections through technology.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Disabling loneliness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2057.md)
+* [Strengthen collaborations, implement behavioral change, deploy social robots, and promote sustainable content consumption for community-based strategies, holistic research, and positive media representation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_316.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Facilitate engagement in meaningful activities, provide social support, and address individual needs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2688.md)
 * [Encouraging healthy social media habits, promoting digital well-being, providing mental health resources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2100.md)
 * [Promote access to mental health services, increase social support networks.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1941.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Disabling loneliness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2057.md)
 

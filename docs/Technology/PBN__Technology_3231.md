@@ -2,9 +2,9 @@
 
 # __resistance bands)__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Muscle strengthening exercises](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_443.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_343.md)
 * [Physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2396.md)
 * [cables](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4164.md)
+
+## This Technology enables the following mitigations
+
+* [Muscle strengthening exercises](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_443.md)
 

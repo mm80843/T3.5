@@ -2,15 +2,9 @@
 
 # __Touchless and Remote Technologies__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2145.md)
-* [Temperature screening technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2833.md)
-* [rapid testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_796.md)
-* [Digital contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2867.md)
-* [Contactless payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2834.md)
-* [Touchless entry systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2835.md)
-* [Rapid and reliable COVID-19 testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2542.md)
+* [Innovative technologies that enhance health, safety, and productivity in the digital age.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_18.md)
 
 ## Closest similar item
 
@@ -24,4 +18,14 @@
 * [Apps and Mobile Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_22.md)
 * [Communication Technologies and Channels](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_27.md)
 * [Contact Tracing Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_23.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2145.md)
+* [Temperature screening technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2833.md)
+* [rapid testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_796.md)
+* [Digital contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2867.md)
+* [Contactless payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2834.md)
+* [Touchless entry systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2835.md)
+* [Rapid and reliable COVID-19 testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2542.md)
 

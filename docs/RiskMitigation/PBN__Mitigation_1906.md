@@ -2,9 +2,9 @@
 
 # __Improving office productivity and lowering overhead costs__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [productivity improvement tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4128.md)
+* [Embracing flexible work arrangements, such as remote work and staggered schedules, to enhance productivity and adapt to digital transformation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_171.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Extending working hours of the building](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1348.md)
 * [Remote work for office workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1567.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Financial crisis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2067.md)
-
 ## Property: has_MitigationPrinciple
 
 Implementing strategies to enhance office productivity and reduce overhead costs during financial crises.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Financial crisis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2067.md)
+
 ## Property: has_MitigationSource
 
 * [The Effects of Pandemic on Construction Industry in the UK](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_75.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [productivity improvement tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4128.md)
 

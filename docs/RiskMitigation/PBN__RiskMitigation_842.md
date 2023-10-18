@@ -2,13 +2,9 @@
 
 # __Ontological reasoning__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [COVID-19 analytics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_608.md)
-
-## Property: has_MitigationBenefit
-
-* [Semantic representation of data](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_846.md)
+* [Advancements in bioinformatics, divestment, automated sample collection, and artificial intelligence are facilitating early disease detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_336.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Ontology-based representation of missing information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_57.md)
 * [and bio-ontologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1247.md)
 * [Conduct qualitative analysis and evaluation of proposed ontologies based on existing criteria](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1482.md)
+
+## Property: has_MitigationBenefit
+
+* [Semantic representation of data](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_846.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [COVID-19 analytics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_608.md)
 

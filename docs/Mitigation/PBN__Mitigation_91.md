@@ -2,8 +2,9 @@
 
 # __Enhanced urban planning__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Enhancing urban mobility through pedestrian-friendly infrastructure, optimized transportation, and improved public transportation systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_151.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Horizontal urban development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2428.md)
 * [Offering Lessons to Optimize City Operations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1876.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Poor housing, lack of water](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2432.md)
-
 ## Property: has_MitigationPrinciple
 
 Improve infrastructure and housing in urban areas to reduce disease transmission
 
+## Risks possibly mitigated by this Mitigation
+
+* [Poor housing, lack of water](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2432.md)
+
 ## Property: has_MitigationSource
 
 * [Global policy challenges for urban vector-borne disease risks](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_132.md)
+
+## This Mitigation is enabled by the following technologies
+
 

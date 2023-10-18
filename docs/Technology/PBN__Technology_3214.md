@@ -2,9 +2,9 @@
 
 # __interior design__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Smaller and individual internal layouts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_422.md)
+* [Design and construction professionals use innovative techniques and strategies to create adaptable, sustainable, and inclusive buildings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_217.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Architectural design and building technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2720.md)
 * [architecture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3431.md)
 * [architects](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_380.md)
+
+## This Technology enables the following mitigations
+
+* [Smaller and individual internal layouts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_422.md)
 

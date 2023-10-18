@@ -2,9 +2,9 @@
 
 # __---------------------------__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [------------------------](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2286.md)
+* [Strengthen collaborations, implement behavioral change, deploy social robots, and promote sustainable content consumption for community-based strategies, holistic research, and positive media representation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_316.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [destination](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3473.md)
 * [economy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3474.md)
 * [student](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3475.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [------------------------](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2286.md)
 

@@ -2,17 +2,17 @@
 
 # __on contact surfaces__
 
+## Name of the Benefit
+
+nan
+
 ## Description of Benefits pertaining to Beneficiaries
-
-
-## Stakeholders benefitting from this Benefit
 
 
 ## Articles mentionning this Benefit
 
 * [Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_282.md)
 
-## Name of the Benefit
+## Stakeholders benefitting from this Benefit
 
-nan
 

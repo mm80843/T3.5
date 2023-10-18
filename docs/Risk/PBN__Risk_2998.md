@@ -2,9 +2,9 @@
 
 # __Limited data, efficacy__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Vaccine development and drug discovery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1255.md)
+* [The challenges include disintegrated and non-interoperable data, limited data access, data quality issues, and lack of standardized data sharing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_111.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Limited statistical significance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3383.md)
 * [Lack of patient control over medical data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_321.md)
 * [Limited sample size in observational studies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_814.md)
+
+## Mitigations of this risk
+
+* [Vaccine development and drug discovery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1255.md)
 

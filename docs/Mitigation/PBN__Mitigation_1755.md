@@ -2,10 +2,9 @@
 
 # __Automation__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_358.md)
-* [robotics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1173.md)
+* [Maximizing control and efficiency in various domains through advanced technology and strategic planning.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_163.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [building automation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3591.md)
 * [automated windows](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3592.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Job displacement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2011.md)
-
 ## Property: has_MitigationPrinciple
 
 Replaces human workers with machines to minimize human interaction and reduce the spread of contagious diseases
 
+## Risks possibly mitigated by this Mitigation
+
+* [Job displacement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2011.md)
+
 ## Property: has_MitigationSource
 
 * [Pandemics and Automation: Will the Lost Jobs Come Back?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_98.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_358.md)
+* [robotics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1173.md)
 

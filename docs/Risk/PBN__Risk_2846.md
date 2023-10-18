@@ -2,9 +2,9 @@
 
 # __Delays due to lack of materials__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Resume material supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_988.md)
+* [Challenges in building industry include lack of understanding, high costs, inadequate preparedness, and slow adoption of new technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_98.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Disruption in material supply](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3210.md)
 * [Material shortages](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3218.md)
 * [Slowed development, lack of progress](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3256.md)
+
+## Mitigations of this risk
+
+* [Resume material supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_988.md)
 

@@ -2,13 +2,9 @@
 
 # __national__
 
-## This Stakeholder can get these Benefits from mitigation measures
+## Category to which it belongs
 
-* [Improved wellbeing economy](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_904.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q6038654](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6038654.md)
+* [All actors in the economic and political landscape, including policymakers, governments, and regulatory bodies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_357.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [national economies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_86.md)
 * [local and national governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_550.md)
 * [National public health agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1864.md)
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Improved wellbeing economy](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_904.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q6038654](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6038654.md)
 

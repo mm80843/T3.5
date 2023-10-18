@@ -2,9 +2,9 @@
 
 # __portable partitions__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Portable Acoustic Partitions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1961.md)
+* [A comprehensive range of advanced, interconnected devices that offer efficiency, convenience, and enhanced functionality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_238.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [smart storage solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1006.md)
 * [Smart storage solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2669.md)
 * [backup systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_578.md)
+
+## This Technology enables the following mitigations
+
+* [Portable Acoustic Partitions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1961.md)
 

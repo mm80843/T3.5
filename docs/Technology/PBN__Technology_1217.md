@@ -2,9 +2,9 @@
 
 # __health promotion campaigns__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1851928](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1851928.md)
+* [Various campaigns and programs to inform and engage the public, raise awareness, educate, and promote reliable information.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_207.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [outreach campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1206.md)
 * [Outreach campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2164.md)
 * [Social media campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2150.md)
+
+## This Technology is identified by the following QID
+
+* [Q1851928](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1851928.md)
 

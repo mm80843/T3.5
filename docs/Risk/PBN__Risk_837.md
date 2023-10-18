@@ -2,9 +2,9 @@
 
 # __Limited access to expert knowledge__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Implementation of an expert system in the mobile application](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1144.md)
+* [Restricted availability of various resources, services, and data creates inequalities and obstacles in accessing them.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_132.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of knowledge](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2652.md)
 * [Lack of Knowledge](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3248.md)
 * [Lack of expertise](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2468.md)
+
+## Mitigations of this risk
+
+* [Implementation of an expert system in the mobile application](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1144.md)
 

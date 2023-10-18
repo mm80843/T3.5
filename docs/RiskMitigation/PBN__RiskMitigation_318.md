@@ -2,13 +2,9 @@
 
 # __Research__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Research needs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_257.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved systems design](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_319.md)
+* [Strengthen collaborations, implement behavioral change, deploy social robots, and promote sustainable content consumption for community-based strategies, holistic research, and positive media representation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_316.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [reliable research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3293.md)
 * [research priorities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3294.md)
 * [marketing research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3295.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved systems design](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_319.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Research needs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_257.md)
 

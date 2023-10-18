@@ -2,9 +2,9 @@
 
 # __Inadequate natural ventilation__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Mechanical ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_341.md)
+* [Insufficient ventilation and indoor air pollution pose a risk to air quality and respiratory health, exacerbated by inadequate airflow control, limited natural ventilation, and air recirculation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_128.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Insufficient Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1771.md)
 * [Inadequate ventilation and cooling](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_782.md)
 * [Inadequate ventilation and airflow management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2047.md)
+
+## Mitigations of this risk
+
+* [Mechanical ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_341.md)
 

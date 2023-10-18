@@ -2,9 +2,9 @@
 
 # __general population in areas with underfunded green space__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Insufficient funding for green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1044.md)
+* [Individuals in various types of spaces, including public, indoor, and confined areas, with varying access to green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_378.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [individuals with private green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1419.md)
 * [especially those living in densely populated area with limited acce to natural environment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2354.md)
 * [especially those living in densely populated area with limited acces to natural environment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2273.md)
+
+## Risk affecting this stakeholder
+
+* [Insufficient funding for green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1044.md)
 

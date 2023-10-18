@@ -2,9 +2,9 @@
 
 # __research and development of drugs and vaccines__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q3242415](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3242415.md)
+* [Advancements in molecular biology, diagnostics, vaccines, antiviral technologies, and disease surveillance for pathogen detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_223.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [vaccine development and improvement technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1307.md)
 * [Vaccine development and improvement technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2608.md)
 * [vaccine development technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_917.md)
+
+## This Technology is identified by the following QID
+
+* [Q3242415](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3242415.md)
 

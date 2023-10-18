@@ -2,13 +2,9 @@
 
 # __Early enforcement of lockdown__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [COVID-19 spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_63.md)
-
-## Property: has_MitigationBenefit
-
-* [Decrease in case growth rate](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_85.md)
+* [Implementing a comprehensive package of measures to ensure the smooth functioning and safety of essential services and activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_6.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Social lockdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_182.md)
 * [virtual access to green spaces during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2981.md)
 * [Ensure timely implementation of control measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2849.md)
+
+## Property: has_MitigationBenefit
+
+* [Decrease in case growth rate](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_85.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [COVID-19 spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_63.md)
 

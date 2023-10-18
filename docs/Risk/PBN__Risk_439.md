@@ -2,9 +2,9 @@
 
 # __Airborne transmission of SARS-CoV-2 in built environments__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Enhanced ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_607.md)
+* [The widespread transmission and persistence of the SARS-CoV-2 virus in various environments and the challenges in detecting and removing it.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_93.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Reduction in transmission of SAR-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_888.md)
 * [Spread of SARS-CoV-2 through aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_69.md)
 * [Transmission distance of SARS-CoV-2 aerosol](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1424.md)
+
+## Mitigations of this risk
+
+* [Enhanced ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_607.md)
 

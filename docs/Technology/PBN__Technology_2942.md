@@ -2,9 +2,9 @@
 
 # __interconnected devices__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Information repositories](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_60.md)
+* [A comprehensive range of advanced, interconnected devices that offer efficiency, convenience, and enhanced functionality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_238.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [control measures for shared facilities and devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3203.md)
 * [iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_96.md)
 * [IoT devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2429.md)
+
+## This Technology enables the following mitigations
+
+* [Information repositories](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_60.md)
 

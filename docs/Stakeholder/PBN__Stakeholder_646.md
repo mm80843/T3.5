@@ -2,13 +2,13 @@
 
 # __especially those in poorly lit areas or those performing visually demanding tasks__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q16649002](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q16649002.md)
+* [Individuals in low-income or low-education groups, crowded/poorly ventilated spaces, lockdown areas, and densely populated places are particularly affected/risked by various factors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_364.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Inadequate Lighting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1119.md)
 
 ## Closest similar item
 
@@ -23,11 +23,15 @@
 * [especially those in occupied public setting](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2156.md)
 * [especially those who work in open offices or noisy environments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_653.md)
 
-## Risk affecting this stakeholder
-
-* [Inadequate Lighting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1119.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Noise and Light Conditions](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_99.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q16649002](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q16649002.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 

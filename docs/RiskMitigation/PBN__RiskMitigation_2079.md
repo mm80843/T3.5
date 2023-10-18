@@ -2,9 +2,9 @@
 
 # __Proper application of biocidal agents on surfaces__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Inactivation of coronaviruses by biocidal agents in carrier tests](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1550.md)
+* [Effective surface disinfection through regular cleaning and use of self-cleaning materials and antimicrobial coatings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_334.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Regular and thorough cleaning and disinfection of frequently touched surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2657.md)
 * [Self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1189.md)
 * [Regular cleaning and disinfection of frequently touched surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2299.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inactivation of coronaviruses by biocidal agents in carrier tests](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1550.md)
 

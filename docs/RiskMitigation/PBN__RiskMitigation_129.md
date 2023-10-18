@@ -2,13 +2,9 @@
 
 # __Improving revenue generation__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Reduction in tourism revenue for PCAs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_105.md)
-
-## Property: has_MitigationBenefit
-
-* [Increased funding](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_147.md)
+* [Promote sustainable development through infrastructure investments, training, diversification, financial support, and government partnerships.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_315.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Diversify funding sources, develop alternative revenue streams, promote domestic tourism, and enhance marketing strategies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1781.md)
 * [Seek financial assistance or stimulus packages, explore cost-saving measures, diversify revenue streams.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1904.md)
 * [Implement effective cash flow management strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2061.md)
+
+## Property: has_MitigationBenefit
+
+* [Increased funding](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_147.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Reduction in tourism revenue for PCAs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_105.md)
 

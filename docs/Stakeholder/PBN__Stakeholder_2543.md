@@ -2,13 +2,9 @@
 
 # __internet service subscribers__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q19967801](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q19967801.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
+* [Providers of vital services, including startups, founders, and various essential service fields such as cleaning, pest control, and emergency services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_396.md)
 
 ## Closest similar item
 
@@ -26,4 +22,12 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Subscribers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_149.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q19967801](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q19967801.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
 

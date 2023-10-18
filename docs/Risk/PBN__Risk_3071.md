@@ -2,9 +2,9 @@
 
 # __Data breaches, technological limitations__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Tele-response Bots](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1444.md)
+* [Protection of sensitive information and prevention of unauthorized access or breaches in various technological contexts.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_117.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Misdiagnoses, privacy breaches, equipment malfunction, costs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3432.md)
 * [Potential breach of privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2676.md)
 * [Poor compliance, concern over data misuse](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2637.md)
+
+## Mitigations of this risk
+
+* [Tele-response Bots](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1444.md)
 

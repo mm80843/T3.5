@@ -2,9 +2,9 @@
 
 # __Effect of relative humidity (RH) on UV susceptibility of bacterial aerosols__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Study of the effect of RH on UV susceptibility of bacterial aerosols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_450.md)
+* [The impact of UV light on bacteria, the need for proper installation and maintenance of UVGI systems, and the risks associated with UV-C exposure.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_139.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Contamination from respiratory droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3024.md)
 * [Limited effectiveness of upper-room UVGI if room air is not well mixed](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1174.md)
 * [Airborne transmission of pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2714.md)
+
+## Mitigations of this risk
+
+* [Study of the effect of RH on UV susceptibility of bacterial aerosols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_450.md)
 

@@ -2,17 +2,9 @@
 
 # __Surface disinfection__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Spread of coronavirus on surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_825.md)
-* [Fomite transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_609.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction in infectiousness](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1123.md)
-* [Prevention of viral transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1124.md)
-* [Reduced viral load on surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1125.md)
-* [Reduction of infectious viruses](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1191.md)
+* [Implement rigorous cleaning and disinfection measures, including the use of antimicrobial materials and advanced technologies, to maintain a safe and hygienic environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_2.md)
 
 ## Closest similar item
 
@@ -26,4 +18,16 @@
 * [regular disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3386.md)
 * [disinfection processes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3387.md)
 * [disinfection methods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3388.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction in infectiousness](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1123.md)
+* [Prevention of viral transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1124.md)
+* [Reduced viral load on surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1125.md)
+* [Reduction of infectious viruses](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1191.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of coronavirus on surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_825.md)
+* [Fomite transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_609.md)
 

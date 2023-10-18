@@ -2,9 +2,9 @@
 
 # __tcid50 technique__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Tissue culture infectious dose at the 50% endpoint (TCID50) technique](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_850.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [qpcr techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4139.md)
 * [rt-pcr test](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3400.md)
 * [pcr techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4138.md)
+
+## This Technology enables the following mitigations
+
+* [Tissue culture infectious dose at the 50% endpoint (TCID50) technique](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_850.md)
 

@@ -2,9 +2,9 @@
 
 # __Compliance, accuracy__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Self-quarantine and self-screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1253.md)
+* [A list of challenges and uncertainties surrounding the impact and response to various events and crises in different sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_124.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Compliance with regulatory changes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_505.md)
 * [Failure to detect non-compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1947.md)
 * [Inconsistencies in Accuracy Measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1260.md)
+
+## Mitigations of this risk
+
+* [Self-quarantine and self-screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1253.md)
 

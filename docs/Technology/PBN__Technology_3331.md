@@ -2,9 +2,9 @@
 
 # __organic farming methods__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Sustainable farming](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_583.md)
+* [Urban green space solutions include tree planting, zoning regulations, landscape architecture, community gardens, outdoor furniture, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_231.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [agricultural technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_69.md)
 * [apartment-level farming](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4267.md)
 * [climate-smart agriculture methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3617.md)
+
+## This Technology enables the following mitigations
+
+* [Sustainable farming](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_583.md)
 

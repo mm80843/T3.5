@@ -2,13 +2,13 @@
 
 # __Image acquisition & CCTV__
 
-## Property: has_TechEquivalent
-
-* [Image acquisition & CCTV](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4538.md)
-
 ## Property: has_BP_EnablerTitle
 
 enabler_013
+
+## Category to which it belongs
+
+* [Capturing visual data through surveillance systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_72.md)
 
 ## Closest similar item
 
@@ -28,4 +28,8 @@ enabler_013
 * [Access control, limitation, or lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_7.md)
 * [Animal vectors control measures](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_18.md)
 * [Tracking and enforcing use of Personal Protective Equipment](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_19.md)
+
+## Property: has_TechEquivalent
+
+* [Image acquisition & CCTV](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4538.md)
 

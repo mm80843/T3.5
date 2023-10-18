@@ -2,9 +2,9 @@
 
 # __Accuracy of data, Representativeness__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Monitoring sewage for virus detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1633.md)
+* [The challenges include disintegrated and non-interoperable data, limited data access, data quality issues, and lack of standardized data sharing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_111.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Limited data, accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2997.md)
 * [Inaccurate Information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_972.md)
 * [Incomplete or inaccurate data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3049.md)
+
+## Mitigations of this risk
+
+* [Monitoring sewage for virus detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1633.md)
 

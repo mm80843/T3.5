@@ -2,9 +2,9 @@
 
 # __food storage and preservation technologies__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q173514](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q173514.md)
+* [Improvements in wastewater, waste management, sanitation, water purification, and plumbing technologies aim for sustainable and efficient infrastructure development.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_234.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [food resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3881.md)
 * [water-saving technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4280.md)
 * [waste collection and disposal technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_92.md)
+
+## This Technology is identified by the following QID
+
+* [Q173514](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q173514.md)
 

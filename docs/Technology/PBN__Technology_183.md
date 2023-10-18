@@ -2,9 +2,9 @@
 
 # __ethical review boards__
 
-## Risks linked to this technology
+## Category to which it belongs
 
-* [Data security, encryption, ethics, and regulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1115.md)
+* [Government actions and regulations addressing various aspects of society, including policy changes, ethical frameworks, governance mechanisms, and public announcements.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_216.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [peer review](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3525.md)
 * [peer-review platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4421.md)
 * [expert review platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1897.md)
+
+## Risks linked to this technology
+
+* [Data security, encryption, ethics, and regulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1115.md)
 

@@ -2,10 +2,9 @@
 
 # __Tissue tropism__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [ACE2 and TMPRSS2 inhibitors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_595.md)
-* [Thrombotomodulin](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_596.md)
+* [The spread of diseases through various methods, including contact, droplets, and contaminated surfaces, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_137.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Stresses exacerbating disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_490.md)
 * [Respiratory pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_476.md)
 * [Cyberchondria](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1611.md)
+
+## Mitigations of this risk
+
+* [ACE2 and TMPRSS2 inhibitors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_595.md)
+* [Thrombotomodulin](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_596.md)
 

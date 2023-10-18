@@ -2,9 +2,9 @@
 
 # __Increased cost and workload__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Facility Management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_747.md)
+* [The ramifications of global connectivity include economic instability, impacts of the pandemic, unemployment, poverty, reduced tourism revenue, and decline in public budgets.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_103.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Higher installation and maintenance costs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2957.md)
 * [Improved resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_884.md)
 * [Increase in local opportunity cost](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_108.md)
+
+## Mitigations of this risk
+
+* [Facility Management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_747.md)
 

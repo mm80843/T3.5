@@ -2,13 +2,9 @@
 
 # __Relocation of healthcare personnel__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Shortage of experienced healthcare personnel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_317.md)
-
-## Property: has_MitigationBenefit
-
-* [Expanded Workforce](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_393.md)
+* [Enhancing healthcare infrastructure, increasing capacity, and ensuring access to medical resources and services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_330.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Job proximity and active transportation support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_24.md)
 * [Integration of primary, hospital, long term, and social care](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_905.md)
 * [Ensuring equitable access to healthcare services and resources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2610.md)
+
+## Property: has_MitigationBenefit
+
+* [Expanded Workforce](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_393.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Shortage of experienced healthcare personnel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_317.md)
 

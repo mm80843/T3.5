@@ -2,9 +2,9 @@
 
 # __Microbial community variation among offices__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Implementing mechanically ventilated offices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_249.md)
+* [The widespread presence and transfer of harmful pathogens and contaminants on various surfaces and environments pose serious risks to public health and the ecosystem.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_100.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of sanitation in shared spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1127.md)
 * [Spread of infection in crowded spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3410.md)
 * [Worker infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3212.md)
+
+## Mitigations of this risk
+
+* [Implementing mechanically ventilated offices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_249.md)
 

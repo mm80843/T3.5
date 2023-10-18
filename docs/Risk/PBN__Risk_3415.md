@@ -2,9 +2,9 @@
 
 # __Low precision__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Entity alignment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2308.md)
+* [The challenges and consequences of the global pandemic include poor acoustics, noise pollution, food security, increase in inequality, waste, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_131.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inaccurate input](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3041.md)
 * [Performance, scalability, accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2422.md)
 * [Diagnostic Accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3291.md)
+
+## Mitigations of this risk
+
+* [Entity alignment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2308.md)
 

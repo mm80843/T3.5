@@ -2,11 +2,9 @@
 
 # __Ventilation design__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_674.md)
-* [floor-level air returns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4182.md)
-* [reticulated air conditioning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4181.md)
+* [Optimal air circulation and fresh airflow to enhance indoor environment and promote health in buildings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_177.md)
 
 ## Closest similar item
 
@@ -21,15 +19,21 @@
 * [Ventilation Improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1576.md)
 * [Ventilation distribution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1366.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2622.md)
-
 ## Property: has_MitigationPrinciple
 
 Ensure proper air circulation and reduce the residence time of aerosol droplets in enclosed spaces
 
+## Risks possibly mitigated by this Mitigation
+
+* [Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2622.md)
+
 ## Property: has_MitigationSource
 
 * [Designing for COVID-2x: Reflecting on Future-Proofing Human Habitation for the Inevitable Next Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_149.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_674.md)
+* [floor-level air returns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4182.md)
+* [reticulated air conditioning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4181.md)
 

@@ -2,9 +2,9 @@
 
 # __Delayed implementation__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Digital care processes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1723.md)
+* [A list of challenges and uncertainties surrounding the impact and response to various events and crises in different sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_124.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Project delays](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_554.md)
 * [Inconsistent implementation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2569.md)
 * [Improper implementation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_297.md)
+
+## Mitigations of this risk
+
+* [Digital care processes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1723.md)
 

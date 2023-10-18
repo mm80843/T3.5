@@ -2,9 +2,9 @@
 
 # __enhanced regulatory frameworks__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Strengthening enforcement of labour standards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2260.md)
+* [Consistent oversight and regulation ensure compliance, as standardized protocols are enforced by enforcement personnel and regulatory bodies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_228.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [strengthened regulation and oversight](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4382.md)
 * [adherence to regulatory standards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2034.md)
 * [policy and regulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3597.md)
+
+## This Technology enables the following mitigations
+
+* [Strengthening enforcement of labour standards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2260.md)
 

@@ -2,9 +2,9 @@
 
 # __Establish standardized accuracy measures specific to COVID-19 detection and adoption for evaluating the performance of wearable technology__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Inconsistencies in Accuracy Measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1260.md)
+* [Monitoring, analysis, and standardization of various technologies and protocols for accurate and reliable healthcare data collection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_310.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Utilize WBE for early-warning ability, establish baselines for incidence of Covid-19 before re-opening](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1799.md)
 * [Protocols for managing confirmed COVID-19 cases](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_512.md)
 * [Provide education and communication on COVID-19 risks and preventive measures, enforce and monitor compliance with protocols.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2505.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inconsistencies in Accuracy Measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1260.md)
 

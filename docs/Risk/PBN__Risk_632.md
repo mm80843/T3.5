@@ -2,9 +2,9 @@
 
 # __Fragmented urban planning and service delivery__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Strategic alignment processes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_875.md)
+* [Dense urban environments face challenges with population growth, inequality, biodiversity, mobility, and poor housing conditions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_105.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Deprioritization of green space in urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1043.md)
 * [Lack of availability of mobility data for most cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1214.md)
 * [Urban density and crowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_16.md)
+
+## Mitigations of this risk
+
+* [Strategic alignment processes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_875.md)
 

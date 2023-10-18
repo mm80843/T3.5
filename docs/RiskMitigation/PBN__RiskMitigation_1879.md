@@ -2,9 +2,9 @@
 
 # __Incorporate wildlife support into green space design and management, create diverse habitats and food sources__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of wildlife support in green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1382.md)
+* [Promote biodiversity and sustainable urban development through the establishment and accessibility of green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_322.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lobby for continued or increased budget allocations, integrate biodiversity benefits into national development strategies, and prioritize conservation in recovery packages.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1782.md)
 * [Incorporating green spaces in building design, promoting access to public parks and gardens](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3081.md)
 * [Provide access to nature and green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_886.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of wildlife support in green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1382.md)
 

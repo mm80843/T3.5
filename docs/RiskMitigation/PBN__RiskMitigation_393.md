@@ -2,13 +2,9 @@
 
 # __Partitioning to create anterooms__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Migration of infectious particles from patient room to corridor](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_314.md)
-
-## Property: has_MitigationBenefit
-
-* [Infection Control](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_390.md)
+* [Efforts include RNA monitoring, occupant exposure modeling, targeted messages, adoption of principles, copper coating, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_311.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Forming an ad hoc committee to establish a preparedness plan](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1986.md)
 * [Optimize layout to provide separate spaces, utilize room dividers and soundproofing materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2231.md)
 * [Redesign housing layouts to include more partitions, wider corridors, and improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2304.md)
+
+## Property: has_MitigationBenefit
+
+* [Infection Control](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_390.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Migration of infectious particles from patient room to corridor](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_314.md)
 

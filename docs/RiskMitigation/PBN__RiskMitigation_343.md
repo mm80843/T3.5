@@ -2,13 +2,9 @@
 
 # __Portable room air cleaners__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of supplemental air disinfection methods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_277.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction in airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_341.md)
+* [Enhancing air quality through effective air filtration, ventilation, and pollution reduction strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_338.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Regular cleaning and disinfection, proper ventilation and air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2476.md)
 * [Air disinfection strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_993.md)
 * [Implement germicidal ultraviolet or air cleaning devices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2353.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction in airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_341.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of supplemental air disinfection methods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_277.md)
 

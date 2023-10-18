@@ -6,6 +6,10 @@
 
 * [Psychological well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_740.md)
 
+## Category to which it belongs
+
+* [Individuals in various types of spaces, including public, indoor, and confined areas, with varying access to green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_378.md)
+
 ## Closest similar item
 
 * [individuals with private green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1419.md)

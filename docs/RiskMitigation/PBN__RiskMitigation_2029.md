@@ -2,9 +2,9 @@
 
 # __Implement NPHIs in a timely manner, closely monitor the spread of the virus, prioritize early intervention__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Late adoption of NPHIs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1504.md)
+* [Implement comprehensive strategies to control virus transmission, improve surveillance, develop antiviral coatings, and enhance infection control measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_309.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement measures to control the spread of infectious diseases, such as social distancing, improved hygiene practices, and vaccination programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2243.md)
 * [Implement proactive measures to control outbreak spread and minimize economic disruptions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1511.md)
 * [Control the virus outbreak and promote economic stability](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2114.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Late adoption of NPHIs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1504.md)
 

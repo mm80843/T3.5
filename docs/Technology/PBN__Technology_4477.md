@@ -2,10 +2,9 @@
 
 # __rstudio shiny framework__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Forecasting module](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2406.md)
-* [Interactive web apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2407.md)
+* [Advancements in biotechnology, clinical research, and innovative therapies contribute to the development of medical solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [rt-qpcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4479.md)
 * [rt-pcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3197.md)
 * [Remote working tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2831.md)
+
+## This Technology enables the following mitigations
+
+* [Forecasting module](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2406.md)
+* [Interactive web apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2407.md)
 

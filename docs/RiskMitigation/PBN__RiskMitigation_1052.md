@@ -2,13 +2,9 @@
 
 # __nCov2019 package__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of real-time data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_762.md)
-
-## Property: has_MitigationBenefit
-
-* [Access to real-time data](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1050.md)
+* [Efforts include RNA monitoring, occupant exposure modeling, targeted messages, adoption of principles, copper coating, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_311.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Validate and optimize PCR assays to ensure accurate detection of SARS-CoV-2 genetic material.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3041.md)
 * [Implementation of NPIs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_119.md)
 * [Support ongoing research for vaccine development and antiviral medications, repurpose existing drugs for treatment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2457.md)
+
+## Property: has_MitigationBenefit
+
+* [Access to real-time data](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1050.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of real-time data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_762.md)
 

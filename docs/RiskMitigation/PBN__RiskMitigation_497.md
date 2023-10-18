@@ -2,13 +2,9 @@
 
 # __Progressive Tax System__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Automation Disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_370.md)
-
-## Property: has_MitigationBenefit
-
-* [Balancing income distribution](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_482.md)
+* [Promote sustainable development through infrastructure investments, training, diversification, financial support, and government partnerships.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_315.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Develop alternative revenue streams, reduce costs, seek government support.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2132.md)
 * [Increase investment in renewable energy incentives and tax credits, support renewable energy companies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2763.md)
 * [Diversifying income streams](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1065.md)
+
+## Property: has_MitigationBenefit
+
+* [Balancing income distribution](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_482.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Automation Disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_370.md)
 

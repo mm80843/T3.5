@@ -2,9 +2,9 @@
 
 # __Poor Mood and Sleep__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Natural Daylight Access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_182.md)
+* [The challenges include reduced surgical education, loss of control, limited diagnostics, slow drug development, inadequate patient monitoring, and lack of drug therapy options.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_110.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Poor work productivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2600.md)
 * [Distress, psychiatric illness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3154.md)
 * [Increased stress and anxiety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2810.md)
+
+## Mitigations of this risk
+
+* [Natural Daylight Access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_182.md)
 

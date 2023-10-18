@@ -2,13 +2,9 @@
 
 # __Divestment__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Falling investment in fossil fuels](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_43.md)
-
-## Property: has_MitigationBenefit
-
-* [Financial resilience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_67.md)
+* [Advancements in bioinformatics, divestment, automated sample collection, and artificial intelligence are facilitating early disease detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_336.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Promote diversification and self-sufficiency](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_18.md)
 * [information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_762.md)
 * [Clearly defining force majeure clauses, renegotiating contracts, alternative dispute resolution methods.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2454.md)
+
+## Property: has_MitigationBenefit
+
+* [Financial resilience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_67.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Falling investment in fossil fuels](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_43.md)
 

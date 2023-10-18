@@ -2,9 +2,9 @@
 
 # __phylogenetic analysis__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q171184](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q171184.md)
+* [Advanced analytics, fact-checking, project management, reliable sources, knowledge extraction, and collaboration ensure accurate information dissemination and effective decision-making.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_192.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [AI and machine learning for gene analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2061.md)
 * [biological structures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2931.md)
 * [genome sequencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1952.md)
+
+## This Technology is identified by the following QID
+
+* [Q171184](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q171184.md)
 

@@ -2,13 +2,9 @@
 
 # __Urban greening initiatives__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Increase in risk of West Nile virus infection due to urban greening](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_61.md)
-
-## Property: has_MitigationBenefit
-
-* [Decreased risk of West Nile infection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_83.md)
+* [Promote biodiversity and sustainable urban development through the establishment and accessibility of green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_322.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [creation of green spaces and green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3176.md)
 * [green infrastructure management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3177.md)
 * [Green infrastructure management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3178.md)
+
+## Property: has_MitigationBenefit
+
+* [Decreased risk of West Nile infection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_83.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Increase in risk of West Nile virus infection due to urban greening](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_61.md)
 

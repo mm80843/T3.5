@@ -2,11 +2,9 @@
 
 # __Availability of outdoor spaces in the building__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [open spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2990.md)
-* [roof spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1738.md)
-* [private balcony](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4245.md)
+* [Creating resilient urban environments through strategic planning, adaptable design, reduced density, and improved building infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_164.md)
 
 ## Closest similar item
 
@@ -21,15 +19,21 @@
 * [Incorporation of gardens and outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_783.md)
 * [Outdoor access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_776.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_611.md)
-
 ## Property: has_MitigationPrinciple
 
 Provide outdoor spaces for residents to use and socialize within social distancing rules
 
+## Risks possibly mitigated by this Mitigation
+
+* [Mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_611.md)
+
 ## Property: has_MitigationSource
 
 * [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [open spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2990.md)
+* [roof spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1738.md)
+* [private balcony](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4245.md)
 

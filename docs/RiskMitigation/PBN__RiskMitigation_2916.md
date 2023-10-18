@@ -2,9 +2,9 @@
 
 # __Improve quality and maintenance of greenspaces__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2237.md)
+* [Promote biodiversity and sustainable urban development through the establishment and accessibility of green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_322.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Proper planning, designing, and managing of green space](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_171.md)
 * [Regular maintenance and cleaning of green spaces, improve amenities and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1475.md)
 * [Increase green space availability](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_457.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2237.md)
 

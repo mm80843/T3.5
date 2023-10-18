@@ -2,9 +2,9 @@
 
 # __Challenges in global climate diplomacy__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Leadership by example and ambition](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_779.md)
+* [The interconnectedness of environmental degradation, social inequalities, and the need for climate action and conservation efforts.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_104.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Climate change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_894.md)
 * [Lack of coordination, geopolitical tensions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2891.md)
 * [Lack of coordinated global governance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_44.md)
+
+## Mitigations of this risk
+
+* [Leadership by example and ambition](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_779.md)
 

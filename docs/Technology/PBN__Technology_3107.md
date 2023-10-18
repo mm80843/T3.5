@@ -2,9 +2,9 @@
 
 # __uvgi lamps__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Ultraviolet Germicidal Irradiation (UVGI)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_275.md)
+* [Innovative lighting solutions harnessing ultraviolet technology for optimal germicidal sterilization and energy efficiency, while maximizing natural light.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_235.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [uvgi systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3062.md)
 * [254 nm uv lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4392.md)
 * [uv light fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3361.md)
+
+## This Technology enables the following mitigations
+
+* [Ultraviolet Germicidal Irradiation (UVGI)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_275.md)
 

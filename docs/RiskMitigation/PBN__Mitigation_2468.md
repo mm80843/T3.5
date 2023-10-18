@@ -2,10 +2,9 @@
 
 # __Air pressure controls__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [negative pressure system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4511.md)
-* [positive pressure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4512.md)
+* [Promote clean, fresh air by monitoring and controlling indoor pollution, using portable air cleaners, and increasing outdoor air flow.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_172.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Humidity Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1226.md)
 * [Humidity control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_376.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Air leakage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3467.md)
-
 ## Property: has_MitigationPrinciple
 
 Air pressure controls prevent virus transmission between rooms by creating pressure differentials
 
+## Risks possibly mitigated by this Mitigation
+
+* [Air leakage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3467.md)
+
 ## Property: has_MitigationSource
 
 * [A review of facilities management interventions to mitigate respiratory infections in existing buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_171.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [negative pressure system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4511.md)
+* [positive pressure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4512.md)
 

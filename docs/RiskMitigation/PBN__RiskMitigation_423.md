@@ -2,13 +2,9 @@
 
 # __Green retrofit of buildings__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Limited accessibility to green spaces during lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_328.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced emotional health and well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_419.md)
+* [Promote biodiversity and sustainable urban development through the establishment and accessibility of green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_322.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Upgrade and maintain urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_460.md)
 * [Incorporate green elements in urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1786.md)
 * [Implementation of green construction practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_670.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced emotional health and well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_419.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limited accessibility to green spaces during lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_328.md)
 

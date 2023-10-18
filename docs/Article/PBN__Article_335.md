@@ -2,13 +2,13 @@
 
 # __Impacts of the coronavirus pandemic on biodiversity conservation__
 
-## Title of the article
-
-Impacts of the coronavirus pandemic on biodiversity conservation
-
 ## DOI of the article
 
 10.1016/j.biocon.2020.108571
+
+## Title of the article
+
+Impacts of the coronavirus pandemic on biodiversity conservation
 
 ## Year of publication
 

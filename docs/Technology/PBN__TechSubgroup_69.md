@@ -2,14 +2,9 @@
 
 # __Contact Tracing and Control__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1008.md)
-* [temperature screenings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_701.md)
-* [Touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2196.md)
-* [Touch-free technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2571.md)
-* [Contactless fare payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2589.md)
-* [Contact tracing software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2482.md)
+* [Innovative technologies that enhance health, safety, and productivity in the digital age.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_18.md)
 
 ## Closest similar item
 
@@ -23,4 +18,13 @@
 * [Communication and Collaboration Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_111.md)
 * [Monitoring Systems and Sensors](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_119.md)
 * [Surveillance and Monitoring Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_147.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1008.md)
+* [temperature screenings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_701.md)
+* [Touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2196.md)
+* [Touch-free technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2571.md)
+* [Contactless fare payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2589.md)
+* [Contact tracing software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2482.md)
 

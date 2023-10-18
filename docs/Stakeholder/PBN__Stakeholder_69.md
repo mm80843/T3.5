@@ -2,13 +2,9 @@
 
 # __high-risk individuals__
 
-## This Stakeholder can get these Benefits from mitigation measures
+## Category to which it belongs
 
-* [Infection control](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_106.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q4150801](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4150801.md)
+* [All people, especially those at risk or facing various circumstances, including age, health conditions, or unemployment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_374.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [at-risk populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_44.md)
 * [workers in high-risk industries](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_834.md)
 * [individuals with symptoms or high-risk exposures](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1575.md)
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Infection control](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_106.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q4150801](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4150801.md)
 

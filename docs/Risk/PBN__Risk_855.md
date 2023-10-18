@@ -2,9 +2,9 @@
 
 # __Psychological effects__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Virtual platforms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1179.md)
+* [The toll of mental health harms, health harming behaviors, and the psychological impact of quarantine, fear, and anxiety has increased, affecting various populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_95.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Psychological impacts and social tensions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1075.md)
 * [Psychological distress](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2091.md)
 * [Psychological impact of fear and anxiety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_35.md)
+
+## Mitigations of this risk
+
+* [Virtual platforms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1179.md)
 

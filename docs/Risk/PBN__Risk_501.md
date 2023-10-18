@@ -2,9 +2,9 @@
 
 # __Client confidence in project completion__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Adoption of safety measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_711.md)
+* [Limited monitoring, technical limitations, language barriers, expensive optimization, lack of connection with nature, and limited sensor diversity hinder effective response and resource allocation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_107.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Delay in project](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2842.md)
 * [Uncertainty in Construction Market](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1956.md)
 * [Lack of confidence in service](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3184.md)
+
+## Mitigations of this risk
+
+* [Adoption of safety measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_711.md)
 

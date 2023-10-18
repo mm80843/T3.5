@@ -2,11 +2,9 @@
 
 # __Advocacy and Sustainability__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [sustainability organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2674.md)
-* [sustainability organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2695.md)
-* [green space advocates](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2690.md)
+* [Various types of services related to commerce, finance, administration, retail, society, and environmental support.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_252.md)
 
 ## Closest similar item
 
@@ -20,4 +18,10 @@
 * [Community Associations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_137.md)
 * [Social Groups/Organizations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_131.md)
 * [Public Health Agencies](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_43.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [sustainability organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2674.md)
+* [sustainability organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2695.md)
+* [green space advocates](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2690.md)
 

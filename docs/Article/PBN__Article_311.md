@@ -2,13 +2,13 @@
 
 # __Combating COVID-19 in Indonesia: Local Government Use of Smart City System Support__
 
-## Referenced by other articles
-
-* [From Viral City to Smart City: Learning from Pandemic Experiences](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_183.md)
-
 ## DOI of the article
 
 10.1007/978-3-031-08087-6_15
+
+## Referenced by other articles
+
+* [From Viral City to Smart City: Learning from Pandemic Experiences](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_183.md)
 
 ## Title of the article
 

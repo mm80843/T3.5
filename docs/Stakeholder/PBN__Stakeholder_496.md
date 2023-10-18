@@ -6,6 +6,10 @@
 
 * [Ease in production](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1262.md)
 
+## Category to which it belongs
+
+* [A diverse array of collaborative and specialized groups in various fields working together towards specific goals.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_5.md)
+
 ## Closest similar item
 
 * [research groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_172.md)

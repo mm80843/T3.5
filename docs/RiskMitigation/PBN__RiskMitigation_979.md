@@ -2,13 +2,9 @@
 
 # __Bailouts for industries__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Economic downfall](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_707.md)
-
-## Property: has_MitigationBenefit
-
-* [Financial support](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_794.md)
+* [Promote sustainable development through infrastructure investments, training, diversification, financial support, and government partnerships.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_315.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Engaging finance sector](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_133.md)
 * [Provide job retention schemes and financial support for affected industries, promote job transitions and reskilling opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2431.md)
 * [Economic diversification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1002.md)
+
+## Property: has_MitigationBenefit
+
+* [Financial support](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_794.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Economic downfall](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_707.md)
 

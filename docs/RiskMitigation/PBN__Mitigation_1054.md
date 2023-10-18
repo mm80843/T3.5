@@ -2,9 +2,9 @@
 
 # __Sustainable energy policy__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [policy and regulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3597.md)
+* [Promoting sustainable and eco-friendly practices that enhance urban green spaces, energy efficiency, and renewable energy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_180.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Direct energy assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1980.md)
 * [Enhancement of energy assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1982.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Insufficient emissions targets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2889.md)
-
 ## Property: has_MitigationPrinciple
 
 Implementation of policies and regulations to promote decarbonization and sustainable energy practices in the energy sector.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Insufficient emissions targets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2889.md)
+
 ## Property: has_MitigationSource
 
 * [Covid-19 and the politics of sustainable energy transitions](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_14.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [policy and regulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3597.md)
 

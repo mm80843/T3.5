@@ -2,9 +2,9 @@
 
 # __hazard mapping tools__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1503166](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1503166.md)
+* [Safety protocols, emergency response plans, risk assessment tools, and comprehensive risk communication strategies ensure workplace safety and crisis management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_232.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Simulation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2527.md)
 * [diagnostic tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_611.md)
 * [Diagnostic tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2779.md)
+
+## This Technology is identified by the following QID
+
+* [Q1503166](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1503166.md)
 

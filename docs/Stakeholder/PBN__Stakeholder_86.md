@@ -7,6 +7,10 @@
 * [Increased funding](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_147.md)
 * [Prevent community transmission and protect national economies by maintaining open and safe workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_604.md)
 
+## Category to which it belongs
+
+* [All actors in the economic and political landscape, including policymakers, governments, and regulatory bodies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_357.md)
+
 ## Closest similar item
 
 * [local economies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_520.md)

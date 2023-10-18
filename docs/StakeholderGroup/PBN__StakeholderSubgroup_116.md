@@ -2,13 +2,9 @@
 
 # __International and Health Organizations__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [veterinary organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2409.md)
-* [government and international organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2442.md)
-* [governments and international organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1246.md)
-* [taiwan cdc](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1546.md)
-* [world health organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1039.md)
+* [Global associations working in various sectors, such as health, training, vector-control, unions, and non-governmental activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_282.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Agencies/Providers/Associations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_66.md)
 * [Training Organizations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_18.md)
 * [Unions and Organizations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_20.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [veterinary organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2409.md)
+* [government and international organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2442.md)
+* [governments and international organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1246.md)
+* [taiwan cdc](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1546.md)
+* [world health organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1039.md)
 

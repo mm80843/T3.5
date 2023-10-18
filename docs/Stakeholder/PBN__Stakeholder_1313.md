@@ -2,14 +2,13 @@
 
 # __all individuals relying on mobile application notifications__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q620615](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q620615.md)
+* [All those involved in the management, access, and utilization of data in various communities and industries.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_358.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
-* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
+* [Inaccurate tracking and notifications](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1962.md)
 
 ## Closest similar item
 
@@ -24,12 +23,17 @@
 * [app user](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1913.md)
 * [users of shared mobility services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_485.md)
 
-## Risk affecting this stakeholder
-
-* [Inaccurate tracking and notifications](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1962.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Users](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_101.md)
 * [Digital and Information Access](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_105.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q620615](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q620615.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
 

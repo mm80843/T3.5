@@ -2,9 +2,9 @@
 
 # __graphical representation__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Data Visualization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_916.md)
+* [Advanced technologies and algorithms for modeling, simulation, optimization, and artificial intelligence in various applications, including robotics and computational fluid dynamics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_239.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [data visualization platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3435.md)
 * [vector-based](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4472.md)
 * [image processing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3006.md)
+
+## This Technology enables the following mitigations
+
+* [Data Visualization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_916.md)
 

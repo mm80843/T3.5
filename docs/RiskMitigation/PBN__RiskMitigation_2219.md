@@ -2,9 +2,9 @@
 
 # __Planting low VOC emitting tree species, proper tree maintenance__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Increased air pollution from emissions of volatile organic compounds by urban trees](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1664.md)
+* [Efforts include RNA monitoring, occupant exposure modeling, targeted messages, adoption of principles, copper coating, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_311.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Further research on plant efficiency, explore other removal methods, such as activated carbon.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2998.md)
 * [Improved air quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1114.md)
 * [Green trail segments with greater tree cover and vegetation greenness values](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1229.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Increased air pollution from emissions of volatile organic compounds by urban trees](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1664.md)
 

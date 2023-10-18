@@ -2,9 +2,9 @@
 
 # __Promote virtual social activities, establish phone buddy systems, provide mental health support services__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Isolation and loneliness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1291.md)
+* [Promote mental well-being through access to resources, support services, and strategies for coping with stress.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_313.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Promoting social connections, providing psychosocial support, mental health services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2336.md)
 * [Foster community engagement and social support networks; promote virtual social interactions and activities; provide mental health resources and support for individuals experiencing loneliness.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2607.md)
 * [Provide mental health support services, promote healthy coping mechanisms, and ensure access to healthcare resources.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1523.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Isolation and loneliness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1291.md)
 

@@ -2,13 +2,9 @@
 
 # __Improved ventilation and air filtration__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Infectious disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_942.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduced risk of airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_612.md)
+* [Enhancing air quality through effective air filtration, ventilation, and pollution reduction strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_338.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implement proper ventilation systems and air filtration methods to ensure adequate fresh air circulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2024.md)
 * [Ventilation improvement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_372.md)
 * [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_84.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced risk of airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_612.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Infectious disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_942.md)
 

@@ -2,9 +2,9 @@
 
 # __Individual exposure__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Personal Protective Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_754.md)
+* [A compilation of topics including energy use, mechanisms, gender inequality, contractual issues, musculoskeletal disorders, and mental health among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_136.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Secondhand Smoke Exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3250.md)
 * [Inadequate sunlight exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2730.md)
 * [Contaminated environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3148.md)
+
+## Mitigations of this risk
+
+* [Personal Protective Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_754.md)
 

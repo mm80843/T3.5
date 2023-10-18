@@ -2,9 +2,9 @@
 
 # __hospitalized covid-19 patients__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Enteric involvement in COVID-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_292.md)
+* [Individuals affected by various medical conditions, including COVID-19, seeking information and care.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_394.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [all individuals seeking covid-19 information and applications](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1317.md)
 * [re-infected patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1295.md)
 * [individuals with long covid](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_373.md)
+
+## Risk affecting this stakeholder
+
+* [Enteric involvement in COVID-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_292.md)
 

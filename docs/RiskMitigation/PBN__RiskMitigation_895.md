@@ -2,13 +2,9 @@
 
 # __Exergames and active video games__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Negative effects of sedentary behavior during quarantine and social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_645.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction in sedentary behavior](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_896.md)
+* [Enrich education through digital tools, virtual experiences, remote learning, and alternative forms of exercise and interaction.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_3.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Incorporating physical activity spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_154.md)
 * [Promotion of television and social media-based exercise programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_358.md)
 * [Provide spaces for physical activities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2870.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction in sedentary behavior](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_896.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Negative effects of sedentary behavior during quarantine and social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_645.md)
 

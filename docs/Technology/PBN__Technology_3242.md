@@ -2,9 +2,9 @@
 
 # __stationary bikes__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Exercising on treadmills and stationary bikes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_454.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [e-scooters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3148.md)
 * [rowing machines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3244.md)
 * [gyms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1741.md)
+
+## This Technology enables the following mitigations
+
+* [Exercising on treadmills and stationary bikes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_454.md)
 

@@ -2,13 +2,13 @@
 
 # __5G__
 
-## Property: has_TechEquivalent
-
-* [5G](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4528.md)
-
 ## Property: has_BP_EnablerTitle
 
 enabler_001
+
+## Category to which it belongs
+
+* [Next-generation cellular network technology providing faster speeds and lower latency for data transmission.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_60.md)
 
 ## Closest similar item
 
@@ -37,4 +37,8 @@ enabler_001
 * [Acces to green space](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_16.md)
 * [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_17.md)
 * [Enhancing physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_23.md)
+
+## Property: has_TechEquivalent
+
+* [5G](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4528.md)
 

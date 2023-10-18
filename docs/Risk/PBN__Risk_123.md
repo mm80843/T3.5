@@ -2,9 +2,9 @@
 
 # __Stigma and discrimination__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Avoidance of stigmatizing and blaming informal settlements and their residents](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_148.md)
+* [The ramifications of social distancing include inconsistent recommendations, increased violence, changes in social practices, and lack of interaction, among other social issues.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_96.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Social equity disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1418.md)
 * [Lack of cultural sensitivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2392.md)
 * [Mental problems of the population](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1009.md)
+
+## Mitigations of this risk
+
+* [Avoidance of stigmatizing and blaming informal settlements and their residents](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_148.md)
 

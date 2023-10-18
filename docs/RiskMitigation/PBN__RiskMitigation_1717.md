@@ -2,9 +2,9 @@
 
 # __Conduct validation studies with reliable reference tests and establish validation standards__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Inaccurate Reference Tests](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1257.md)
+* [Promote comprehensive testing and tracing, prioritize vulnerable populations, reduce diagnosis-to-surgery time, recognize stress symptoms, and improve testing accuracy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_347.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Public health agencies should evaluate multiple sources of evidence and consider the quality and reliability of preprints before making decisions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3031.md)
 * [Implement quality control measures and validation protocols to minimize false positive results.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2561.md)
 * [Conduct rigorous implementation and real-world validation of proposed solutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1478.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inaccurate Reference Tests](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1257.md)
 

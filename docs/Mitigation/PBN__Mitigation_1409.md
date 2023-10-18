@@ -2,13 +2,9 @@
 
 # __Antimicrobial surfaces__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [carbon-based coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3856.md)
-* [silver nanocoating](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3854.md)
-* [titanium-based coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3855.md)
-* [antimicrobial paint](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3852.md)
-* [copper alloy coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3853.md)
+* [Enhanced disease investigation and prevention methods, including biomarkers, antimicrobial coatings, and AI-driven tools, advance public health.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_155.md)
 
 ## Closest similar item
 
@@ -23,14 +19,22 @@
 * [anti-microbial materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3067.md)
 * [antimicrobial paint](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3068.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Apply surfaces that have antimicrobial properties to reduce the spread of germs and viruses
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_282.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [carbon-based coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3856.md)
+* [silver nanocoating](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3854.md)
+* [titanium-based coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3855.md)
+* [antimicrobial paint](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3852.md)
+* [copper alloy coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3853.md)
 

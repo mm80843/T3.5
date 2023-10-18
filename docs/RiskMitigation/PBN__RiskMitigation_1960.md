@@ -2,9 +2,9 @@
 
 # __Adjust surveillance focus based on seasonal changes in wastewater temperature to obtain accurate health profiles of communities.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Seasonal changes in wastewater temperature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1448.md)
+* [Implement wastewater surveillance techniques to detect viral presence, optimize treatment processes, and inform public health interventions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_308.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Wastewater-based surveillance (WBS)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1205.md)
 * [Sewage epidemiology indicator](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1293.md)
 * [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_149.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Seasonal changes in wastewater temperature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1448.md)
 

@@ -2,9 +2,9 @@
 
 # __Filtering noise from big data sets, assessing accuracy and reliability of AI forecasts.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Noise in big data sets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2346.md)
+* [Advancements in bioinformatics, divestment, automated sample collection, and artificial intelligence are facilitating early disease detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_336.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [AI for outbreak prediction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_658.md)
 * [Establish reliable filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1444.md)
 * [Big data analytics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_843.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Noise in big data sets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2346.md)
 

@@ -2,16 +2,9 @@
 
 # __Enforcement and Regulation Measures__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [enforcement of mitigation measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1150.md)
-* [enforcement of guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1999.md)
-* [government policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1853.md)
-* [enforcement of regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_112.md)
-* [enforcement mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1152.md)
-* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2486.md)
-* [Verification processes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2494.md)
-* [App store policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2495.md)
+* [Systems and actions related to control, supervision, influence, and management in various fields and sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_36.md)
 
 ## Closest similar item
 
@@ -25,4 +18,15 @@
 * [Travel Restrictions and Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_159.md)
 * [Transparency and Public Awareness Measures](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_48.md)
 * [Testing and Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_25.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [enforcement of mitigation measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1150.md)
+* [enforcement of guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1999.md)
+* [government policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1853.md)
+* [enforcement of regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_112.md)
+* [enforcement mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1152.md)
+* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2486.md)
+* [Verification processes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2494.md)
+* [App store policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2495.md)
 

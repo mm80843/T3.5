@@ -2,9 +2,9 @@
 
 # __indoor biophilic design__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1299240](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1299240.md)
+* [Design and construction professionals use innovative techniques and strategies to create adaptable, sustainable, and inclusive buildings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_217.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [indoor sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3930.md)
 * [indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2587.md)
 * [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2695.md)
+
+## This Technology is identified by the following QID
+
+* [Q1299240](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1299240.md)
 

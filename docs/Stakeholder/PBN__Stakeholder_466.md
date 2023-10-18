@@ -2,13 +2,9 @@
 
 # __commercial facilities__
 
-## This Stakeholder can get these Benefits from mitigation measures
+## Category to which it belongs
 
-* [Efficacy against coronavirus](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1194.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q655686](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q655686.md)
+* [Entities and individuals who interact with or are affected by a system, organization, or public facility.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_1.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [occupants of commercial and healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_972.md)
 * [Occupants of commercial and healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2588.md)
 * [healthcare facilities)](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1037.md)
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Efficacy against coronavirus](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1194.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q655686](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q655686.md)
 

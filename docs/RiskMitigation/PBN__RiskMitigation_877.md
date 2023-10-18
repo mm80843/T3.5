@@ -2,14 +2,9 @@
 
 # __Standardization of PCR platforms and protocols__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Complexity of wastewater matrix](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_634.md)
-* [Lack of standardization in PCR methods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_635.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved comparability and accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_878.md)
+* [Monitoring, analysis, and standardization of various technologies and protocols for accurate and reliable healthcare data collection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_310.md)
 
 ## Closest similar item
 
@@ -23,4 +18,13 @@
 * [Quantification using reference materials and digital droplet PCR](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3.md)
 * [Integration of new technologies (digital PCR, CSRPP, LOC/POC, biosensors)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_878.md)
 * [Transparent and standardized WBE protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1023.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved comparability and accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_878.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Complexity of wastewater matrix](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_634.md)
+* [Lack of standardization in PCR methods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_635.md)
 

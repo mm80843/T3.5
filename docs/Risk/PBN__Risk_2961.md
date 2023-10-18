@@ -2,9 +2,9 @@
 
 # __Minimum cost and disturbance__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Convertibility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1212.md)
+* [Limited monitoring, technical limitations, language barriers, expensive optimization, lack of connection with nature, and limited sensor diversity hinder effective response and resource allocation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_107.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Obstacles in production or transportation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3369.md)
 * [Human disturbance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2673.md)
 * [Ineffective resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2935.md)
+
+## Mitigations of this risk
+
+* [Convertibility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1212.md)
 

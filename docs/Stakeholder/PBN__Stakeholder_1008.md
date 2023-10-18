@@ -2,9 +2,9 @@
 
 # __electric utilities and grid operators__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Shift in energy consumption behavior](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1566.md)
+* [All actors in the economic and political landscape, including policymakers, governments, and regulatory bodies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_357.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [energy providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_746.md)
 * [water utilities/public sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_398.md)
 * [water utilities/consumers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_395.md)
+
+## Risk affecting this stakeholder
+
+* [Shift in energy consumption behavior](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1566.md)
 

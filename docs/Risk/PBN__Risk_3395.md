@@ -2,9 +2,9 @@
 
 # __Water safety__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Safe drinking water](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2231.md)
+* [The challenges of urban water management include water contamination, waste management, inadequate water storage, and poor drainage.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_120.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Safety risks for wastewater sampling personnel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1053.md)
 * [Water supply disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3351.md)
 * [Health and safety risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_733.md)
+
+## Mitigations of this risk
+
+* [Safe drinking water](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2231.md)
 

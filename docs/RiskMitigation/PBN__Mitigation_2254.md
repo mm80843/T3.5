@@ -2,8 +2,9 @@
 
 # __Strengthening of UN and WHO leadership__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Global cooperation and collaboration for the purpose of coordinated action and shared knowledge exchange among various sectors and institutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_183.md)
 
 ## Closest similar item
 
@@ -18,14 +19,17 @@
 * [Increasing international development finance and philanthropy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_490.md)
 * [Support at individual level](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_804.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Strengthening the UN and WHO's leadership and resources can enhance global coordination and response to pandemics, ensuring effective global health governance and the ability to provide critical medical personnel and supplies to all countries in need.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [The COVID-19 pandemic: Lessons on building more equal and sustainable societies](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_124.md)
+
+## This Mitigation is enabled by the following technologies
+
 

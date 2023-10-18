@@ -2,10 +2,9 @@
 
 # __regulatory policies__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Rent controls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_736.md)
-* [Regulatory measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_737.md)
+* [Government actions and regulations addressing various aspects of society, including policy changes, ethical frameworks, governance mechanisms, and public announcements.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_216.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [regulatory oversight](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_267.md)
 * [regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1177.md)
 * [government policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1853.md)
+
+## This Technology enables the following mitigations
+
+* [Rent controls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_736.md)
+* [Regulatory measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_737.md)
 

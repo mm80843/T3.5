@@ -2,9 +2,9 @@
 
 # __communication technology (e.g. internet__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Work from home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1333.md)
+* [Enhanced connectivity and diverse communication platforms enable the dissemination of reliable information and promote open communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_225.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [information communication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4506.md)
 * [telecommunication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4084.md)
 * [telecommunication networks (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4227.md)
+
+## This Technology enables the following mitigations
+
+* [Work from home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1333.md)
 

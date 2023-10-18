@@ -2,9 +2,9 @@
 
 # __Decrease in traffic flow__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Traffic restriction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1191.md)
+* [The changing landscape of travel and transportation has led to concerns over safety, reduced demand, and inadequate infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_125.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Reduced demand for public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1931.md)
 * [High rates of transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2643.md)
 * [Fluctuations in sewage flow rate](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2370.md)
+
+## Mitigations of this risk
+
+* [Traffic restriction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1191.md)
 

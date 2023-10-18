@@ -2,9 +2,9 @@
 
 # __use building materials and systems that are resilient to emergencies__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1460420](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1460420.md)
+* [Safety and operational tools for various fields, including healthcare, cleaning, maintenance, and emergency preparation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_212.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [sustainable and resilient design principles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_472.md)
 * [develop emergency response plans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_494.md)
 * [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2658.md)
+
+## This Technology is identified by the following QID
+
+* [Q1460420](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1460420.md)
 

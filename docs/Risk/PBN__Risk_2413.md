@@ -2,9 +2,9 @@
 
 # __Vulnerable groups__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Mutual aid groups](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_29.md)
+* [The challenges and consequences of the global pandemic include poor acoustics, noise pollution, food security, increase in inequality, waste, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_131.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Vulnerability assessment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_458.md)
 * [Precarious situation of vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_830.md)
 * [Epidemiological Vulnerability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2348.md)
+
+## Mitigations of this risk
+
+* [Mutual aid groups](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_29.md)
 

@@ -2,9 +2,9 @@
 
 # __Develop intelligent IEQ monitoring devices that allow for simultaneous data collection of objective IEQ data and occupant opinions.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Information asymmetry between occupants and indoor environmental data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1406.md)
+* [Promote standardized data collection, ontology-based representation, and enhanced data sharing to improve decision-making processes and data quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_319.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [IoT data monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1325.md)
 * [Data mining for insights](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1006.md)
 * [Enhanced data analytics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1004.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Information asymmetry between occupants and indoor environmental data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1406.md)
 

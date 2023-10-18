@@ -2,12 +2,9 @@
 
 # __Technologies and Techniques__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [Additive manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2654.md)
-* [Advanced data analysis and modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2660.md)
-* [Solubility and processing techniques for graphene](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2686.md)
-* [Scalable production techniques for graphene coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2688.md)
+* [Innovation and resources utilized to create and enhance devices, production, and construction materials.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_30.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [Sensor and Remote Sensing Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_153.md)
 * [Technology and Materials for Protection](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_71.md)
 * [Apps and Mobile Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_22.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [Additive manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2654.md)
+* [Advanced data analysis and modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2660.md)
+* [Solubility and processing techniques for graphene](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2686.md)
+* [Scalable production techniques for graphene coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2688.md)
 

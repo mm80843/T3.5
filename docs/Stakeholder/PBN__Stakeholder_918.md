@@ -2,13 +2,13 @@
 
 # __especially those without access to private outdoor spaces__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q294440](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q294440.md)
+* [Individuals in various types of spaces, including public, indoor, and confined areas, with varying access to green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_378.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Lack of green space in cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1415.md)
 
 ## Closest similar item
 
@@ -23,10 +23,14 @@
 * [individuals with limited access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_803.md)
 * [especially those living in noisy area](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2242.md)
 
-## Risk affecting this stakeholder
-
-* [Lack of green space in cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1415.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
+
+## This Stakeholder is identified by the following QID
+
+* [Q294440](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q294440.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 

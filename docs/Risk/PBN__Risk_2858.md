@@ -2,9 +2,9 @@
 
 # __Limited focus on global climate initiatives__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Supporting access to technology and capital goods in Global South](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1006.md)
+* [The interconnectedness of environmental degradation, social inequalities, and the need for climate action and conservation efforts.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_104.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Impact of climate change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3264.md)
 * [Global coordination, political challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2917.md)
 * [Perception of climate change as a distant threat](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2692.md)
+
+## Mitigations of this risk
+
+* [Supporting access to technology and capital goods in Global South](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1006.md)
 

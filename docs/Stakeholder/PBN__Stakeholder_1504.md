@@ -2,13 +2,13 @@
 
 # __clients and healthcare providers in telepsychiatry consultations__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q2549364](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2549364.md)
+* [Various individuals in the healthcare industry, including epidemiologists, medical personnel, clinicians, surgeons, and patients in need of medical care.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_360.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
+* [Limited availability of non-verbal cues in telepsychiatry consultations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2241.md)
 
 ## Closest similar item
 
@@ -23,11 +23,15 @@
 * [patients receiving care outside of digitized healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_849.md)
 * [users of healthcare technologies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_36.md)
 
-## Risk affecting this stakeholder
-
-* [Limited availability of non-verbal cues in telepsychiatry consultations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2241.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Workers/Professionals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_47.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q2549364](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2549364.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
 

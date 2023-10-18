@@ -2,11 +2,9 @@
 
 # __Face-to-face Contact within Social Distance Radius__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [agent dimensions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4044.md)
-* [pedestrian trajectories](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4043.md)
-* [face orientation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4045.md)
+* [Promoting equality, understanding nature, norms, perceived usefulness, and fostering social interactions for positive societal change.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_175.md)
 
 ## Closest similar item
 
@@ -21,14 +19,20 @@
 * [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2.md)
 * [Social Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_35.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Occupant exposure is accounted for when people are in face-to-face contact within a given angle of interaction and a social distance radius. Trajectories of pedestrians, dimensions of agents, and face orientations are used to evaluate the number of agents in face-to-face contact.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [EXPOSED: An occupant exposure model for confined spaces to retrofit crowd models during a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_3.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [agent dimensions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4044.md)
+* [pedestrian trajectories](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4043.md)
+* [face orientation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4045.md)
 

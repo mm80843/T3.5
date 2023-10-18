@@ -2,9 +2,9 @@
 
 # __resilience-based practices__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Resilient Approach](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2186.md)
+* [Measures promoting accountability, media control, real-time updates, and virtual experiences for physical distancing and education.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [resilient and decentralized economic systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_531.md)
 * [work practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3603.md)
 * [preparedness strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_33.md)
+
+## This Technology enables the following mitigations
+
+* [Resilient Approach](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2186.md)
 

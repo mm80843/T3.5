@@ -2,9 +2,9 @@
 
 # __astm e1153 method__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [ASTM E1153 Method](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_854.md)
+* [Advancements in biotechnology, clinical research, and innovative therapies contribute to the development of medical solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [rfid technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1136.md)
 * [upcode](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4438.md)
 * [standard operating procedures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3347.md)
+
+## This Technology enables the following mitigations
+
+* [ASTM E1153 Method](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_854.md)
 

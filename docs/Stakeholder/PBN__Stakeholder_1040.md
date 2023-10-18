@@ -2,13 +2,13 @@
 
 # __individuals seeking health information online__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q4930](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4930.md)
+* [Public health stakeholders and individuals alike are concerned about health, seeking information and guidance from trusted sources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_354.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Cyberchondria](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1611.md)
 
 ## Closest similar item
 
@@ -23,11 +23,15 @@
 * [individuals providing personal data](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_760.md)
 * [users of healthcare technologies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_36.md)
 
-## Risk affecting this stakeholder
-
-* [Cyberchondria](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1611.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [General Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_88.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q4930](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4930.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 

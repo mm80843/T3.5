@@ -2,13 +2,9 @@
 
 # __Implementing mechanically ventilated offices__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Microbial community variation among offices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_210.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction of bacterial community variation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_260.md)
+* [Enhance airflow, increase fresh air intake, and optimize ventilation systems to improve air quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_329.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Proper ventilation arrangements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1346.md)
 * [Proper ventilation in indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_719.md)
 * [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_84.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction of bacterial community variation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_260.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Microbial community variation among offices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_210.md)
 

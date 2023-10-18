@@ -2,9 +2,9 @@
 
 # __suitable treatment and__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q179661](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q179661.md)
+* [Advancements in biotechnology, clinical research, and innovative therapies contribute to the development of medical solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [psychological interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1541.md)
 * [supportive interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1280.md)
 * [specialized waste treatment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1052.md)
+
+## This Technology is identified by the following QID
+
+* [Q179661](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q179661.md)
 

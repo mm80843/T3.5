@@ -2,9 +2,9 @@
 
 # __Lack of disaster management protocols for pandemics__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Adoption of pandemic preparedness protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_738.md)
+* [Limited monitoring, technical limitations, language barriers, expensive optimization, lack of connection with nature, and limited sensor diversity hinder effective response and resource allocation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_107.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Pandemic containment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_706.md)
 * [Economic and social impact of pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_701.md)
 * [Inadequate preparedness for biological disasters](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2448.md)
+
+## Mitigations of this risk
+
+* [Adoption of pandemic preparedness protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_738.md)
 

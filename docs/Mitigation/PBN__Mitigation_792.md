@@ -2,10 +2,9 @@
 
 # __Implementing new regulations and technologies for tracking and surveillance in public spaces__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1263.md)
-* [tracking technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1722.md)
+* [Enhancing availability and inclusivity of diverse, inviting, well-maintained and accessible natural environments and communal areas.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_145.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Mass video surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1908.md)
 * [Video surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_104.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Invasion of privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2744.md)
-
 ## Property: has_MitigationPrinciple
 
 Monitor public spaces and track potential infections to prevent the spread of diseases
 
+## Risks possibly mitigated by this Mitigation
+
+* [Invasion of privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2744.md)
+
 ## Property: has_MitigationSource
 
 * [The Impact of COVID-19 on Public Space: A Review of the Emerging Questions](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_261.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1263.md)
+* [tracking technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1722.md)
 

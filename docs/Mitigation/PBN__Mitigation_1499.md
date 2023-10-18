@@ -2,10 +2,9 @@
 
 # __Increased access to teleworking__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [internet access](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1211.md)
-* [technology infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3891.md)
+* [Enhanced connectivity for remote healthcare, consultations, work, conferences, and learning through telecommunication technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_167.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Telepsychiatry](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2198.md)
 * [Telehealth for patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1945.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Limited access to teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3103.md)
-
 ## Property: has_MitigationPrinciple
 
 Providing immigrants with the necessary technology and infrastructure for teleworking can reduce their exposure to the virus in crowded workplaces.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Limited access to teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3103.md)
+
 ## Property: has_MitigationSource
 
 * [What has been the impact of the COVID-19 pandemic on immigrants? An update on recent evidence](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_287.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [internet access](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1211.md)
+* [technology infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3891.md)
 

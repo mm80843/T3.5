@@ -2,9 +2,9 @@
 
 # __Building Layout and Design for Social Interaction__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [designated social spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3051.md)
+* [Promoting equality, understanding nature, norms, perceived usefulness, and fostering social interactions for positive societal change.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_175.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Distancing and Building Layout](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1611.md)
 * [Outdoor Design and Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1739.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Social Isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2485.md)
-
 ## Property: has_MitigationPrinciple
 
 Providing spaces for socialization and interaction to foster a sense of belonging and community among occupants.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Social Isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2485.md)
+
 ## Property: has_MitigationSource
 
 * [Ten questions concerning occupant health in buildings during normal operations and extreme events including the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_38.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [designated social spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3051.md)
 

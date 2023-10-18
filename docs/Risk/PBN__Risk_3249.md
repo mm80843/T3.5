@@ -2,10 +2,9 @@
 
 # __VOC Pollution__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Use of Non-Toxic Cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1789.md)
-* [Use of Low-VOC Products](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1778.md)
+* [The challenges and consequences of the global pandemic include poor acoustics, noise pollution, food security, increase in inequality, waste, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_131.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [High air pollution levels](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1145.md)
 * [Air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3349.md)
 * [Indoor air pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_939.md)
+
+## Mitigations of this risk
+
+* [Use of Non-Toxic Cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1789.md)
+* [Use of Low-VOC Products](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1778.md)
 

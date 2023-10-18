@@ -2,9 +2,9 @@
 
 # __carbon accounting systems__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Carbon pricing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_582.md)
+* [Improved and energy-efficient HVAC systems, along with advanced technologies, for efficient energy management and environmental control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_227.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [implement emission monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_309.md)
 * [debt management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1414.md)
 * [activated carbon filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3469.md)
+
+## This Technology enables the following mitigations
+
+* [Carbon pricing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_582.md)
 

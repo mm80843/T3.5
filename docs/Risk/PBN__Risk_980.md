@@ -2,9 +2,9 @@
 
 # __Lack of information on energy performance of buildings__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Conduct energy audits and monitoring of building performance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1375.md)
+* [Issues related to energy use, including increased consumption, inefficient usage, and lack of understanding, have various implications in different settings and sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_133.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_745.md)
 * [Increased energy requirements](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3183.md)
 * [Lack of reliable energy access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3321.md)
+
+## Mitigations of this risk
+
+* [Conduct energy audits and monitoring of building performance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1375.md)
 

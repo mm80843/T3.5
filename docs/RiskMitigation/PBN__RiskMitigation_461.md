@@ -2,13 +2,9 @@
 
 # __Increase availability of green views__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Limited access to green views during COVID-19 containment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_350.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved mental health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_442.md)
+* [Promote biodiversity and sustainable urban development through the establishment and accessibility of green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_322.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Encourage indoor gardening, provide access to natural light, create green views in indoor spaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2765.md)
 * [Adapt green area management to "new normal" lifestyle](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1318.md)
 * [Provide green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2867.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved mental health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_442.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limited access to green views during COVID-19 containment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_350.md)
 

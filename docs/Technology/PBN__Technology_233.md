@@ -2,9 +2,9 @@
 
 # __air pollution monitoring systems__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q65007050](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q65007050.md)
+* [Improved air quality can be achieved through the use of various technologies such as air purifiers and monitoring systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_221.md)
 
 ## Risks linked to this technology
 
@@ -23,4 +23,8 @@
 * [air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_432.md)
 * [Air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2536.md)
 * [smart sensors for monitoring air quality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1021.md)
+
+## This Technology is identified by the following QID
+
+* [Q65007050](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q65007050.md)
 

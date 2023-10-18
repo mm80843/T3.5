@@ -6,6 +6,10 @@
 
 * [Enhancement of social and emotional health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1176.md)
 
+## Category to which it belongs
+
+* [Individuals affected by various medical conditions, including COVID-19, seeking information and care.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_394.md)
+
 ## Closest similar item
 
 * [elderly](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_336.md)

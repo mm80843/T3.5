@@ -2,10 +2,9 @@
 
 # __predictive analytics__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Forecasting of virus spread](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1180.md)
-* [Predictive Analytics for Resource Planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1322.md)
+* [Advanced technologies and algorithms for modeling, simulation, optimization, and artificial intelligence in various applications, including robotics and computational fluid dynamics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_239.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [big data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2938.md)
 * [big-data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1711.md)
 * [data analytics platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_771.md)
+
+## This Technology enables the following mitigations
+
+* [Forecasting of virus spread](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1180.md)
+* [Predictive Analytics for Resource Planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1322.md)
 

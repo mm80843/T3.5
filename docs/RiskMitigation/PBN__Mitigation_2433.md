@@ -2,10 +2,9 @@
 
 # __Affordable housing with resilient building typologies__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [housing policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4501.md)
-* [architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3564.md)
+* [Creating resilient urban environments through strategic planning, adaptable design, reduced density, and improved building infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_164.md)
 
 ## Closest similar item
 
@@ -20,14 +19,19 @@
 * [Even distribution of housing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_307.md)
 * [Multi-functional Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_717.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Providing affordable housing with resilient building typologies can mitigate overcrowding and improve living conditions for vulnerable populations.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Urban design attributes and resilience: COVID-19 evidence from New York City](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_6.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [housing policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4501.md)
+* [architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3564.md)
 

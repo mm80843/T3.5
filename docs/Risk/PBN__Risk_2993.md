@@ -2,9 +2,9 @@
 
 # __Limited infrastructure, cost__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [5G cellular technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1250.md)
+* [Limited monitoring, technical limitations, language barriers, expensive optimization, lack of connection with nature, and limited sensor diversity hinder effective response and resource allocation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_107.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Increased demand, logistical challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3084.md)
 * [Incomplete infrastructure, coordination challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2634.md)
 * [Inadequate public infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1239.md)
+
+## Mitigations of this risk
+
+* [5G cellular technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1250.md)
 

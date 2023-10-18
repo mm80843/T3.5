@@ -2,9 +2,9 @@
 
 # __helpline system__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Increase helpline](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_46.md)
+* [These resources aim to enhance security, convenience, and efficiency in managing access, spaces, and systems within various environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_206.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [hotlines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_222.md)
 * [Hotlines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2191.md)
 * [mental health hotlines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1811.md)
+
+## This Technology enables the following mitigations
+
+* [Increase helpline](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_46.md)
 

@@ -2,9 +2,9 @@
 
 # __monitoring__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Environmental surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1140.md)
+* [Enhanced monitoring and surveillance technologies enable real-time tracking, video conferencing, and improved detection methods.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_214.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [monitoring software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1659.md)
 * [Monitoring software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2481.md)
 * [digital monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4445.md)
+
+## This Technology enables the following mitigations
+
+* [Environmental surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1140.md)
 

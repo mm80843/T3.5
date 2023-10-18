@@ -2,13 +2,13 @@
 
 # __individuals with mental health conditions__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q47326642](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q47326642.md)
+* [Individuals in need of mental health support, including those with pre-existing conditions and from marginalized communities with limited access to services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_362.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Limited access to natural spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2114.md)
 
 ## Closest similar item
 
@@ -23,10 +23,14 @@
 * [individual with mental health need](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2323.md)
 * [individuals with previous mental health or psychiatric illnesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_266.md)
 
-## Risk affecting this stakeholder
-
-* [Limited access to natural spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2114.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
+
+## This Stakeholder is identified by the following QID
+
+* [Q47326642](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q47326642.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 

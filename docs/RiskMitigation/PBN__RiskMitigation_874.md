@@ -2,13 +2,9 @@
 
 # __Implementation of ETs-based governance models__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Inadequate governance models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_631.md)
-
-## Property: has_MitigationBenefit
-
-* [Collaborative governance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_875.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implementing administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_937.md)
 * [Strengthen governance structures, promote transparency and accountability, and invest in strong leadership](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1839.md)
 * [Foster collaboration and coordination among stakeholders, align governance models with common public health goals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1648.md)
+
+## Property: has_MitigationBenefit
+
+* [Collaborative governance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_875.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inadequate governance models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_631.md)
 

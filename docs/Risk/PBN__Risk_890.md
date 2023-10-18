@@ -2,9 +2,9 @@
 
 # __Preference for greenviews during lockdown__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Green trail segments with greater tree cover and vegetation greenness values](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1229.md)
+* [Lockdowns exacerbate social inequalities, limit access to green spaces, shift energy demands, cause delays, and impact mental health.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_102.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of access to green](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2289.md)
 * [Lack of outdoor recreation during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1967.md)
 * [Inflexible or strict lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3390.md)
+
+## Mitigations of this risk
+
+* [Green trail segments with greater tree cover and vegetation greenness values](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1229.md)
 

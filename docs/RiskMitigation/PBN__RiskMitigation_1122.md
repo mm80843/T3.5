@@ -2,13 +2,9 @@
 
 # __Strengthening local support__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Challenges in centralized and federated approaches](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_816.md)
-
-## Property: has_MitigationBenefit
-
-* [Innovation in federated approaches](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1111.md)
+* [Implement comprehensive measures to ensure support, protection, and assistance for vulnerable populations during the pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_349.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Government support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_940.md)
 * [Enhance support services for victims, increase public awareness, provide safe spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1950.md)
 * [Targeted Support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_493.md)
+
+## Property: has_MitigationBenefit
+
+* [Innovation in federated approaches](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1111.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Challenges in centralized and federated approaches](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_816.md)
 

@@ -2,6 +2,23 @@
 
 # __Monitoring__
 
+## Category to which it belongs
+
+* [Observation and surveillance.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_298.md)
+
+## Closest similar item
+
+* [monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_84.md)
+* [monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_85.md)
+* [Monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_86.md)
+* [Monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_87.md)
+* [monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_88.md)
+* [monitoring tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_89.md)
+* [monitoring mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_90.md)
+* [monitoring software](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_91.md)
+* [Monitoring software](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_92.md)
+* [digital monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_93.md)
+
 ## This Technology belongs to this TechnologyGroup
 
 * [online platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_67.md)
@@ -109,17 +126,4 @@
 * [Beach monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2448.md)
 * [ambience Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2521.md)
 * [Epidemiological models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2526.md)
-
-## Closest similar item
-
-* [monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_84.md)
-* [monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_85.md)
-* [Monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_86.md)
-* [Monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_87.md)
-* [monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_88.md)
-* [monitoring tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_89.md)
-* [monitoring mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_90.md)
-* [monitoring software](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_91.md)
-* [Monitoring software](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_92.md)
-* [digital monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_93.md)
 

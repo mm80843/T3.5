@@ -2,9 +2,9 @@
 
 # __backflow valves__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Proper plumbing work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2161.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [vents](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2985.md)
 * [advanced ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1294.md)
 * [low-flow fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1773.md)
+
+## This Technology enables the following mitigations
+
+* [Proper plumbing work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2161.md)
 

@@ -2,9 +2,9 @@
 
 # __Reinforcement of information__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [digital communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_719.md)
+* [Promoting effective communication, education, and trust through transparency, clear guidelines, and innovative strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_144.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Information dissemination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2105.md)
 * [Enhanced communication and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_133.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1033.md)
-
 ## Property: has_MitigationPrinciple
 
 Use of digital platforms to share accurate and timely information about the pandemic
 
+## Risks possibly mitigated by this Mitigation
+
+* [Misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1033.md)
+
 ## Property: has_MitigationSource
 
 * [Smart cities and the pandemic: digital technologies on the urban management of Brazilian cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_143.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [digital communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_719.md)
 

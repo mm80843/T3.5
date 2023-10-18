@@ -2,10 +2,9 @@
 
 # __construction managers__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Lack of hygiene and cleanliness protocols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2048.md)
-* [Limited site access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1527.md)
+* [Managers responsible for overseeing various aspects of a building, including supply chain, facilities, construction projects, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_366.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [construction industry professional](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2012.md)
 * [construction industry professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1308.md)
 * [construction firms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_282.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Lack of hygiene and cleanliness protocols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2048.md)
+* [Limited site access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1527.md)
 

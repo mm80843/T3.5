@@ -2,9 +2,9 @@
 
 # __Develop and implement controls to monitor virus recovery efficiency__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Variability in virus RNA recovery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1736.md)
+* [Implement comprehensive strategies to control virus transmission, improve surveillance, develop antiviral coatings, and enhance infection control measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_309.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement interventions to reduce viral load and interrupt the spread of the virus.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2067.md)
 * [Regular monitoring of wastewater treatment plants to detect the virus and inform public health interventions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1958.md)
 * [Improve wastewater treatment and disinfection processes, monitor wastewater for viral fragments](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2273.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Variability in virus RNA recovery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1736.md)
 

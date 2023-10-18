@@ -2,9 +2,9 @@
 
 # __cycling and pedestrian infrastructure__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Active transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_677.md)
+* [The built environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_230.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [bicycles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3147.md)
 * [road network infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3675.md)
 * [pedestrian sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3536.md)
+
+## This Technology enables the following mitigations
+
+* [Active transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_677.md)
 

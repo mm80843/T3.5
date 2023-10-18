@@ -2,9 +2,9 @@
 
 # __Conduct more research and studies to gather sufficient evidence on the effectiveness of upper-room UVGI against SARS-CoV-2__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Insufficient evidence of UV-C effectiveness against SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1172.md)
+* [Efforts to study, detect, and control the spread of SARS-CoV-2 in various environments and populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_353.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Development and implementation of validated methodological protocols for the quantitative analysis of SARS-CoV-2 in wastewater.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1603.md)
 * [Consider alternative infection control technologies, such as laminar airflow, before using UVGI systems in operating rooms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2328.md)
 * [Use of portable air filters to remove SARS-CoV-2 particles from the air in hospital wards](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2834.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Insufficient evidence of UV-C effectiveness against SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1172.md)
 

@@ -2,9 +2,9 @@
 
 # __Invest time and effort in supporting faculty and increasing familiarity with technology.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Faculty Engagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1271.md)
+* [Accelerate the shift to digitalization by embracing emerging technologies and implementing innovative solutions across various sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_346.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Provide support for vulnerable populations, ensure access to technology for remote learning, provide financial relief for families](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2395.md)
 * [Increased awareness and training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_344.md)
 * [Invest in research and development](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1042.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Faculty Engagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1271.md)
 

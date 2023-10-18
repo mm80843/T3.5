@@ -2,20 +2,20 @@
 
 # __Preserving natural resources__
 
+## Name of the Benefit
+
+Sustainable methods protect and regenerate ecological resources, ensuring long-term food security.
+
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors benefit from increased demand for sustainable and organic food, leading to higher profits and asset value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_304.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [farmers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_145.md)
-* [consumers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_146.md)
 
 ## Articles mentionning this Benefit
 
 * [COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_58.md)
 
-## Name of the Benefit
+## Stakeholders benefitting from this Benefit
 
-Sustainable methods protect and regenerate ecological resources, ensuring long-term food security.
+* [farmers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_145.md)
+* [consumers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_146.md)
 

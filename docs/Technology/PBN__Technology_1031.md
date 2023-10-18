@@ -2,9 +2,9 @@
 
 # __technology for disease surveillance and contact tracing__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q3555250](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3555250.md)
+* [Advancements in molecular biology, diagnostics, vaccines, antiviral technologies, and disease surveillance for pathogen detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_223.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Advanced contact tracing and monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2435.md)
 * [contact tracing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1462.md)
 * [contact tracing software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1068.md)
+
+## This Technology is identified by the following QID
+
+* [Q3555250](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3555250.md)
 

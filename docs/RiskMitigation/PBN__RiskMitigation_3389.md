@@ -2,6 +2,10 @@
 
 # __Promote verified information__
 
+## Category to which it belongs
+
+* [Promote accurate and reliable information, combat misinformation, and increase media and public health literacy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_343.md)
+
 ## Closest similar item
 
 * [Promote reliable information sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1135.md)

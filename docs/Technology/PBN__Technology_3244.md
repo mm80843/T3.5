@@ -2,9 +2,9 @@
 
 # __rowing machines__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Rowing ergometers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_455.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [gyms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1741.md)
 * [medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_108.md)
 * [Medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2245.md)
+
+## This Technology enables the following mitigations
+
+* [Rowing ergometers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_455.md)
 

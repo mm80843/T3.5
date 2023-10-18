@@ -2,9 +2,9 @@
 
 # __adaptation of existing infrastructure for new uses__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q121359](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q121359.md)
+* [Promotion of environmentally-friendly practices, green infrastructure, sustainable housing, renewable energy, and responsible building to enhance spaces and mitigate climate change.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_224.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Infrastructure development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2305.md)
 * [infrastructure redundancy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1595.md)
 * [Infrastructure redundancy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2306.md)
+
+## This Technology is identified by the following QID
+
+* [Q121359](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q121359.md)
 

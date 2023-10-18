@@ -2,9 +2,9 @@
 
 # __sport and recreation spaces__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q484937](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q484937.md)
+* [Available green spaces and outdoor gathering areas allow for access and enjoyment of public parks and communal areas.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_218.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1848.md)
 * [Outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2230.md)
 * [parks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1740.md)
+
+## This Technology is identified by the following QID
+
+* [Q484937](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q484937.md)
 

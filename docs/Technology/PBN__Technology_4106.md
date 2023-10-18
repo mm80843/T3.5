@@ -2,9 +2,9 @@
 
 # __workplace design guidelines__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Social distancing in workplace design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1850.md)
+* [Design and construction professionals use innovative techniques and strategies to create adaptable, sustainable, and inclusive buildings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_217.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Health-focused design principles and guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2744.md)
 * [health-focused design considerations and standards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3451.md)
 * [communication guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1407.md)
+
+## This Technology enables the following mitigations
+
+* [Social distancing in workplace design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1850.md)
 

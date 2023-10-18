@@ -2,9 +2,13 @@
 
 # __operators__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q3354588](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3354588.md)
+* [Entities and individuals who interact with or are affected by a system, organization, or public facility.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_1.md)
+
+## Risk affecting this stakeholder
+
+* [Impacts on public transit](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1463.md)
 
 ## Closest similar item
 
@@ -19,12 +23,12 @@
 * [building owners and operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_525.md)
 * [building owners/operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_406.md)
 
-## Risk affecting this stakeholder
-
-* [Impacts on public transit](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1463.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Optimization of water management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_811.md)
 * [Simulation and prediction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_812.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q3354588](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3354588.md)
 

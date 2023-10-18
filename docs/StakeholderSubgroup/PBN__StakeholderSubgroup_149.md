@@ -2,9 +2,9 @@
 
 # __Subscribers__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [internet service subscribers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2543.md)
+* [People who receive regular updates or have access to certain content, usually by subscribing to a service or platform.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_288.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Community Associations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_137.md)
 * [General Community](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_139.md)
 * [Learners](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_17.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [internet service subscribers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2543.md)
 

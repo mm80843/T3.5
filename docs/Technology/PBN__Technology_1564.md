@@ -2,9 +2,9 @@
 
 # __vaccine education and communication tools__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q27133094](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q27133094.md)
+* [Advancements in molecular biology, diagnostics, vaccines, antiviral technologies, and disease surveillance for pathogen detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_223.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_828.md)
 * [Vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2270.md)
 * [vaccine tracking technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1301.md)
+
+## This Technology is identified by the following QID
+
+* [Q27133094](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q27133094.md)
 

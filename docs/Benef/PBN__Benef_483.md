@@ -2,20 +2,20 @@
 
 # __Real-time disease detection__
 
+## Name of the Benefit
+
+Early detection of disease allows for prompt treatment and isolation, reducing transmission risk
+
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investment in wearable technology can improve public health outcomes and reduce healthcare costs by preventing disease spread](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_526.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
-* [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
 
 ## Articles mentionning this Benefit
 
 * [The Rise of Wearable Devices during the COVID-19 Pandemic: A Systematic Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_99.md)
 
-## Name of the Benefit
+## Stakeholders benefitting from this Benefit
 
-Early detection of disease allows for prompt treatment and isolation, reducing transmission risk
+* [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
+* [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
 

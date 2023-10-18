@@ -2,9 +2,9 @@
 
 # __Increase testing capacity and use alternative surveillance methods such as sewage surveillance__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Underreporting of COVID-19 cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1735.md)
+* [Implement wastewater surveillance techniques to detect viral presence, optimize treatment processes, and inform public health interventions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_308.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement wastewater-based epidemiology (WBE), target specific subpopulations, improve testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1798.md)
 * [Increase testing capacity, implement contact tracing strategies, invest in surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2274.md)
 * [Develop and promote non-invasive testing methods, such as saliva or wastewater-based surveillance, to increase testing uptake.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3074.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Underreporting of COVID-19 cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1735.md)
 

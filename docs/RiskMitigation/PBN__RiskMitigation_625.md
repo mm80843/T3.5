@@ -2,13 +2,9 @@
 
 # __Global cooperation for economic recovery__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Impact on developing countries](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_450.md)
-
-## Property: has_MitigationBenefit
-
-* [Mitigated poverty and inequality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_631.md)
+* [Promote sustainable development through infrastructure investments, training, diversification, financial support, and government partnerships.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_315.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [International coordination and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1025.md)
 * [Implement measures to support employment, provide income support, and promote economic recovery.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2667.md)
 * [Restoration of international travel](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_414.md)
+
+## Property: has_MitigationBenefit
+
+* [Mitigated poverty and inequality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_631.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Impact on developing countries](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_450.md)
 

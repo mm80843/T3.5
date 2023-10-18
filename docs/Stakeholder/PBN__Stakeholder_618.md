@@ -2,9 +2,9 @@
 
 # __knowledge workers__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Impact on Working Performance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1081.md)
+* [Individuals engaged in various types of work, from employees and office workers to agricultural and hospitality workers.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_379.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_677.md)
 * [workers with mid-level skills](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1351.md)
 * [low-skilled workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_212.md)
+
+## Risk affecting this stakeholder
+
+* [Impact on Working Performance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1081.md)
 

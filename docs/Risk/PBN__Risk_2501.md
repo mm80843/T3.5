@@ -2,9 +2,9 @@
 
 # __Job loss and exploitation__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Supporting workers and migrant workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_207.md)
+* [The impact of various factors on the workforce, including job insecurity, changes in work schedules, unemployment, and decreased productivity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_4.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Job and income loss](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3400.md)
 * [Corporate behavior and exploitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3403.md)
 * [Job displacement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2011.md)
+
+## Mitigations of this risk
+
+* [Supporting workers and migrant workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_207.md)
 

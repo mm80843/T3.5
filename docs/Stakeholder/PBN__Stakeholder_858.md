@@ -2,9 +2,9 @@
 
 # __people living in provinces with high hiv prevalence__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Spatial variation in HIV prevalence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1347.md)
+* [Individuals and communities affected by pandemics, particularly in Kalimantan and Papua, individuals infected with HIV, vulnerable populations, and countries reliant on specific suppliers and participating in global value chains face various risks.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_365.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [general population in cities and provinces in china](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1028.md)
 * [especially those living in area with high mosquito population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2102.md)
 * [people living in deprived areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_569.md)
+
+## Risk affecting this stakeholder
+
+* [Spatial variation in HIV prevalence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1347.md)
 

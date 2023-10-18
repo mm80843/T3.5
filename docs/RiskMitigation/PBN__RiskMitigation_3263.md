@@ -2,6 +2,10 @@
 
 # __Use of smart/innovative air quality controls technology__
 
+## Category to which it belongs
+
+* [Optimize indoor environments, regulate temperature and humidity, control air quality, and extend HVAC system operations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_341.md)
+
 ## Closest similar item
 
 * [Improvement of air quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1294.md)

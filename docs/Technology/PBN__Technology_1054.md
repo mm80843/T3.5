@@ -2,9 +2,9 @@
 
 # __space planning__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q149013](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q149013.md)
+* [Optimizing urban spaces through inclusive strategies and technologies, integrating green spaces, and managing population density and transportation systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_226.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_922.md)
 * [Urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2378.md)
 * [Space management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2395.md)
+
+## This Technology is identified by the following QID
+
+* [Q149013](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q149013.md)
 

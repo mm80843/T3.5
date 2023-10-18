@@ -2,9 +2,9 @@
 
 # __re-infected patients__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Disease severity in re-infected patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1913.md)
+* [Individuals affected by various medical conditions, including COVID-19, seeking information and care.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_394.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [individual in close proximity to an infected person](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2303.md)
 * [contact persons of infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1051.md)
 * [individuals in close proximity to an infected person](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_794.md)
+
+## Risk affecting this stakeholder
+
+* [Disease severity in re-infected patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1913.md)
 

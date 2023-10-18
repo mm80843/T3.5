@@ -2,9 +2,9 @@
 
 # __mobile phone application__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Bluetooth contact tracing app](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2375.md)
+* [A comprehensive list of mobile applications, including contact-tracing apps, mental health apps, mobile banking, and fitness tracking devices, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_197.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [mobile technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2902.md)
 * [smartphone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4146.md)
 * [mobile interface](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3391.md)
+
+## This Technology enables the following mitigations
+
+* [Bluetooth contact tracing app](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2375.md)
 

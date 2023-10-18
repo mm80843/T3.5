@@ -2,13 +2,9 @@
 
 # __Improving data quality__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Under-reporting of cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_544.md)
-
-## Property: has_MitigationBenefit
-
-* [Accurate assessment of situation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_774.md)
+* [Promote standardized data collection, ontology-based representation, and enhanced data sharing to improve decision-making processes and data quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_319.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implement quality control measures nan to ensure accurate nan nan and reliable data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2735.md)
 * [Improve data collection and reporting systems, enhance testing capacity, ensure transparency in data reporting](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2031.md)
 * [Improve access to reliable information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_628.md)
+
+## Property: has_MitigationBenefit
+
+* [Accurate assessment of situation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_774.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Under-reporting of cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_544.md)
 

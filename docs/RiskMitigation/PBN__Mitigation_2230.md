@@ -2,10 +2,9 @@
 
 # __Common building spaces__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [controlled access](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4350.md)
-* [social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1101.md)
+* [Enhancing availability and inclusivity of diverse, inviting, well-maintained and accessible natural environments and communal areas.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_145.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Building regulations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_733.md)
 * [Healthy Building Design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_140.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Mental health, social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3394.md)
-
 ## Property: has_MitigationPrinciple
 
 Provide access to common building spaces while ensuring sufficient safety and social distance
 
+## Risks possibly mitigated by this Mitigation
+
+* [Mental health, social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3394.md)
+
 ## Property: has_MitigationSource
 
 * [How to Make Green Building Certification \& Rating Systems More Pandemic-Sustainable?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_172.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [controlled access](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4350.md)
+* [social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1101.md)
 

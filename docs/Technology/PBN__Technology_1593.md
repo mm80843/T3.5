@@ -2,13 +2,13 @@
 
 # __equitable governance structures__
 
+## Category to which it belongs
+
+* [Government actions and regulations addressing various aspects of society, including policy changes, ethical frameworks, governance mechanisms, and public announcements.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_216.md)
+
 ## Risks linked to this technology
 
 * [Inequalities in smart city development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2099.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Collaboration and Communication Platforms](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_5.md)
 
 ## Closest similar item
 
@@ -23,11 +23,15 @@
 * [data governance agreements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_517.md)
 * [equitable distribution of parks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3608.md)
 
-## This Technology belongs to this TechGroup
-
-* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1553864](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1553864.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Collaboration and Communication Platforms](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_5.md)
+
+## This Technology belongs to this TechGroup
+
+* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
 

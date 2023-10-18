@@ -2,9 +2,9 @@
 
 # __Psychological tensions and social conflicts__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Integration of urban technology for disaster preparedness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_737.md)
+* [The ramifications of social distancing include inconsistent recommendations, increased violence, changes in social practices, and lack of interaction, among other social issues.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_96.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of social interaction and isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1972.md)
 * [Psychological stress and mental health issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_532.md)
 * [Mental health, social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3394.md)
+
+## Mitigations of this risk
+
+* [Integration of urban technology for disaster preparedness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_737.md)
 

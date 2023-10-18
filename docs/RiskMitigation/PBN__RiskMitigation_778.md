@@ -2,13 +2,9 @@
 
 # __Strengthening European democracy__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Rise of authoritarian powers in EU Member States](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_551.md)
-
-## Property: has_MitigationBenefit
-
-* [Protection of democratic values and human rights](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_781.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Increasing international support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_131.md)
 * [Strengthen urban governance structures, improve data collection and analysis, involve communities in decision-making processes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1455.md)
 * [Ensure temporary measures are proportionate and temporary, protect civil liberties, and promote democratic governance.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2956.md)
+
+## Property: has_MitigationBenefit
+
+* [Protection of democratic values and human rights](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_781.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Rise of authoritarian powers in EU Member States](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_551.md)
 

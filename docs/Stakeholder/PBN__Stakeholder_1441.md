@@ -2,9 +2,9 @@
 
 # __those who touch shared surfaces__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Fomite transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_609.md)
+* [A diverse range of individuals, including citizens, pedestrians, people with disabilities, and those in crowded environments, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_368.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [especially those who do not practice proper hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1596.md)
 * [individuals in close proximity](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1206.md)
 * [humans](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_17.md)
+
+## Risk affecting this stakeholder
+
+* [Fomite transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_609.md)
 

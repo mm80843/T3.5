@@ -2,8 +2,9 @@
 
 # __Improvement of infrastructure and housing design__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Creating resilient urban environments through strategic planning, adaptable design, reduced density, and improved building infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_164.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Affordable housing with resilient building typologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2433.md)
 * [Even distribution of housing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_307.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Poor infrastructure, inadequate housing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2437.md)
-
 ## Property: has_MitigationPrinciple
 
 Address underlying urban poverty and develop indicators for sustainable development
 
+## Risks possibly mitigated by this Mitigation
+
+* [Poor infrastructure, inadequate housing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2437.md)
+
 ## Property: has_MitigationSource
 
 * [Global policy challenges for urban vector-borne disease risks](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_132.md)
+
+## This Mitigation is enabled by the following technologies
+
 

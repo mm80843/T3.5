@@ -2,9 +2,9 @@
 
 # __data protection systems__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q3242920](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3242920.md)
+* [Various security measures, such as encryption, authentication protocols, secure data storage, and blockchain, are used to protect digital platforms and ensure privacy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_201.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [data management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_514.md)
 * [data encryption techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_826.md)
 * [Data encryption techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2615.md)
+
+## This Technology is identified by the following QID
+
+* [Q3242920](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3242920.md)
 

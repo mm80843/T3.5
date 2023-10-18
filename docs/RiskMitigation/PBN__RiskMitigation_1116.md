@@ -2,13 +2,9 @@
 
 # __Federated data analysis__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_810.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1105.md)
+* [Promote standardized data collection, ontology-based representation, and enhanced data sharing to improve decision-making processes and data quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_319.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Seamless data sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1340.md)
 * [Monitor data sources to ensure they provide consistent and accurate information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3069.md)
 * [Develop tools and platforms for easy access to data from multiple sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3072.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1105.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_810.md)
 

@@ -2,13 +2,13 @@
 
 # __all age groups__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q42401304](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q42401304.md)
+* [Individuals of different ages, including children, parents, migrants, and vulnerable groups, such as women and racial minorities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_389.md)
 
-## This Stakeholder belongs to this StakeholderGroup
+## Risk affecting this stakeholder
 
-* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
+* [Lack of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1302.md)
 
 ## Closest similar item
 
@@ -23,15 +23,19 @@
 * [young people](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_264.md)
 * [elderly](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_336.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder can get these Benefits from mitigation measures
 
-* [Lack of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1302.md)
+* [Health benefits](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_804.md)
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Age Groups](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_142.md)
 
-## This Stakeholder can get these Benefits from mitigation measures
+## This Stakeholder is identified by the following QID
 
-* [Health benefits](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_804.md)
+* [Q42401304](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q42401304.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
 

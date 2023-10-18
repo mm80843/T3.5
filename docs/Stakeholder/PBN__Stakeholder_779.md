@@ -2,9 +2,9 @@
 
 # __surgical residents__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Limited Rotations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1263.md)
+* [The community, including residents, educators, healthcare institutions, and government research institutions, is involved in education and healthcare.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_377.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [healthcare personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_185.md)
 * [hospital administrator](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1869.md)
 * [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
+
+## Risk affecting this stakeholder
+
+* [Limited Rotations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1263.md)
 

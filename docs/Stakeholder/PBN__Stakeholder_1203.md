@@ -2,9 +2,9 @@
 
 # __occupants of buildings with contaminated surfaces__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1802.md)
+* [Individuals in poorly ventilated indoor environments, especially those in enclosed spaces with limited air flow, such as offices, homes, and buildings with inadequate air filtration, are at risk of exposure to poor indoor air quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_398.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Occupants of residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2600.md)
 * [building occupants in environments with high chemical pollutant levels](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1358.md)
 * [individual who come into contact with contaminated surface](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2289.md)
+
+## Risk affecting this stakeholder
+
+* [Contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1802.md)
 

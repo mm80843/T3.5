@@ -2,9 +2,9 @@
 
 # __Spread of mosquito-borne diseases due to variable climate and extreme weather events__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_70.md)
+* [The proliferation of diseases carried by ticks and mosquitoes, exacerbated by climate change, inadequate control measures, and wildlife disturbance, causing increased prevalence and spread of various illnesses.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_119.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Increased mosquito breeding due to heavy rainfall](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3115.md)
 * [Climate change enhancing mosquito populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2006.md)
 * [Increased mosquito intrusion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3090.md)
+
+## Mitigations of this risk
+
+* [Urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_70.md)
 

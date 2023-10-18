@@ -2,9 +2,9 @@
 
 # __Economic and social impact of pandemics__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Fiscal policy measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_967.md)
+* [The ramifications of global connectivity include economic instability, impacts of the pandemic, unemployment, poverty, reduced tourism revenue, and decline in public budgets.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_103.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inadequate global preparedness for pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_726.md)
 * [Lack of disaster management protocols for pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_527.md)
 * [Global pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1437.md)
+
+## Mitigations of this risk
+
+* [Fiscal policy measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_967.md)
 

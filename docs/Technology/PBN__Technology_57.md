@@ -2,9 +2,9 @@
 
 # __kgx__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q3914146](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3914146.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [sio)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3984.md)
 * [spea2)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3810.md)
 * [stockpiling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3573.md)
+
+## This Technology is identified by the following QID
+
+* [Q3914146](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3914146.md)
 

@@ -2,9 +2,9 @@
 
 # __data analytics for targeted assistance__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q485396](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q485396.md)
+* [Data-driven insights and analysis for decision making, anonymized data, transparency, visualization, and advanced techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_205.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [business assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1889.md)
 * [personalized data analysis and treatment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3436.md)
 * [data tracking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3479.md)
+
+## This Technology is identified by the following QID
+
+* [Q485396](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q485396.md)
 

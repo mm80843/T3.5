@@ -2,9 +2,9 @@
 
 # __housing design and construction standards__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1799415](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1799415.md)
+* [Design and construction professionals use innovative techniques and strategies to create adaptable, sustainable, and inclusive buildings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_217.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [construction and technical changes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3730.md)
 * [architectural & Construction Materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2661.md)
 * [building management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3395.md)
+
+## This Technology is identified by the following QID
+
+* [Q1799415](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1799415.md)
 

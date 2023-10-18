@@ -2,9 +2,9 @@
 
 # __individuals providing personal data__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Privacy and security risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1245.md)
+* [All those involved in the management, access, and utilization of data in various communities and industries.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_358.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [residents who engage in online activities and share personal information](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1557.md)
 * [resident who engage in online activity and share personal information](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2475.md)
 * [information provider](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1932.md)
+
+## Risk affecting this stakeholder
+
+* [Privacy and security risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1245.md)
 

@@ -2,9 +2,9 @@
 
 # __ospa-based transmission-blocking vaccine__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Tick Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1146.md)
+* [Advancements in molecular biology, diagnostics, vaccines, antiviral technologies, and disease surveillance for pathogen detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_223.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [vaccine development technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_917.md)
 * [development of various vaccine strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1960.md)
 * [vaccine distribution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1605.md)
+
+## This Technology enables the following mitigations
+
+* [Tick Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1146.md)
 

@@ -2,8 +2,9 @@
 
 # __Timing of mitigation measures__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [A comprehensive set of actions and rules aimed at protecting individuals and controlling the spread of COVID-19.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_173.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Government Policy Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1029.md)
 * [Lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_108.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Delayed outbreak, manageable levels](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2647.md)
-
 ## Property: has_MitigationPrinciple
 
 Early action in implementing mitigation measures can delay outbreaks and slow down the spread of the disease
 
+## Risks possibly mitigated by this Mitigation
+
+* [Delayed outbreak, manageable levels](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2647.md)
+
 ## Property: has_MitigationSource
 
 * [Covid-19 and community mitigation strategies in a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_112.md)
+
+## This Mitigation is enabled by the following technologies
+
 

@@ -2,9 +2,9 @@
 
 # __java programming language__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Java language](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1373.md)
+* [These resources aim to enhance security, convenience, and efficiency in managing access, spaces, and systems within various environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_206.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Translation software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2619.md)
 * [translation software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1322.md)
 * [r software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3160.md)
+
+## This Technology enables the following mitigations
+
+* [Java language](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1373.md)
 

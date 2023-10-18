@@ -2,9 +2,9 @@
 
 # __existing health data capture__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Pragmatic clinical trials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_571.md)
+* [Improved healthcare infrastructure and resources enable public health authorities to implement effective messaging and interventions, ensuring equitable access to healthcare facilities and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_209.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [health information systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1516.md)
 * [mobile health applications for remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1568.md)
 * [electronic health record systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_515.md)
+
+## This Technology enables the following mitigations
+
+* [Pragmatic clinical trials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_571.md)
 

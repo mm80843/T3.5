@@ -2,9 +2,9 @@
 
 # __Insufficient and inappropriate food provision__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Adequate provision of culturally appropriate food](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1642.md)
+* [The challenges include reduced surgical education, loss of control, limited diagnostics, slow drug development, inadequate patient monitoring, and lack of drug therapy options.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_110.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Food insecurity and poor-quality diets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_777.md)
 * [Inadequate supplies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2058.md)
 * [Unavailability and increased costs of healthy foods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3122.md)
+
+## Mitigations of this risk
+
+* [Adequate provision of culturally appropriate food](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1642.md)
 

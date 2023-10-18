@@ -2,12 +2,9 @@
 
 # __Communication Entities__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [communication team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_970.md)
-* [communication experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_831.md)
-* [communication agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_546.md)
-* [communication agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1829.md)
+* [An assemblage of organizations responsible for governance, infrastructure, resources, networking, public services, and commerce.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_256.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [Social Media](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_38.md)
 * [Urban Planning Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_0.md)
 * [Social Groups/Organizations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_131.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [communication team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_970.md)
+* [communication experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_831.md)
+* [communication agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_546.md)
+* [communication agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1829.md)
 

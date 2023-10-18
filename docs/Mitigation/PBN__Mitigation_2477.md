@@ -2,10 +2,9 @@
 
 # __Rapid Testing Methods__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [rapid testing technology (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4520.md)
-* [id now test)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4521.md)
+* [Expansive array of methods, including biomarkers, self-reported symptoms, and AI-powered diagnostics, used for widespread and rapid testing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_179.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Rapid Testing and Contact Tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_806.md)
 * [Mass Testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_38.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [False-negative results](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3470.md)
-
 ## Property: has_MitigationPrinciple
 
 Accelerating the testing process to provide same-day results and increase the volume of tests conducted.
 
+## Risks possibly mitigated by this Mitigation
+
+* [False-negative results](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3470.md)
+
 ## Property: has_MitigationSource
 
 * [Supporting Technologies for COVID-19 Prevention: Systemized Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_266.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [rapid testing technology (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4520.md)
+* [id now test)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4521.md)
 

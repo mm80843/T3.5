@@ -2,9 +2,9 @@
 
 # __Provision of water in informal settlements__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [water supply infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3910.md)
+* [Strengthening waste management and surveillance, utilizing wastewater-based epidemiology, to improve environmental sanitation and water quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_9.md)
 
 ## Closest similar item
 
@@ -19,14 +19,18 @@
 * [Drainage management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1477.md)
 * [Safe water, sanitation, and hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1139.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Ensures access to clean water in informal settlements for hand hygiene, reducing the risk of COVID-19 transmission
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Implications of COVID-19 control measures for diet and physical activity, and lessons for addressing other pandemics facing rapidly urbanising countries](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_68.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [water supply infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3910.md)
 

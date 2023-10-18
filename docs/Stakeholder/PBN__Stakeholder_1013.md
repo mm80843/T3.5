@@ -2,9 +2,9 @@
 
 # __policy advisors__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Impact on decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1571.md)
+* [Experts from various fields including research, risk assessment, education, science, HVAC, and IT.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_356.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [economic policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_895.md)
 * [legal advisors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1408.md)
 * [organizations supporting evidence-informed policy-making](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_877.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Impact on decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1571.md)
 

@@ -2,9 +2,9 @@
 
 # __quaternary ammonium polymer__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Quaternary ammonium polymer coating (SurfaceWise2™)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_842.md)
+* [The range of materials and techniques listed includes various disinfectants, nanomaterials, manufacturing methods, coatings, sustainability measures, and analytical tools.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_237.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [suitable materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3267.md)
 * [molecular technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4369.md)
 * [3d printing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4517.md)
+
+## This Technology enables the following mitigations
+
+* [Quaternary ammonium polymer coating (SurfaceWise2™)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_842.md)
 

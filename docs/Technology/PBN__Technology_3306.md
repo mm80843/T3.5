@@ -2,9 +2,9 @@
 
 # __public epidemiological data__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Timely and high-quality evidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_560.md)
+* [Improved healthcare infrastructure and resources enable public health authorities to implement effective messaging and interventions, ensuring equitable access to healthcare facilities and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_209.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [population data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1363.md)
 * [disease surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1886.md)
 * [Disease surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2479.md)
+
+## This Technology enables the following mitigations
+
+* [Timely and high-quality evidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_560.md)
 

@@ -2,9 +2,9 @@
 
 # __white noise machines__
 
-## Risks linked to this technology
+## Category to which it belongs
 
-* [Noise Pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1120.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [noise reduction measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1239.md)
 * [Noise reduction measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2749.md)
 * [noise filtering algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1941.md)
+
+## Risks linked to this technology
+
+* [Noise Pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1120.md)
 

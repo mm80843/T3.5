@@ -2,13 +2,9 @@
 
 # __Enhanced case finding__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Outbreak from China](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_77.md)
-
-## Property: has_MitigationBenefit
-
-* [Early detection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_0.md)
+* [Advancements in bioinformatics, divestment, automated sample collection, and artificial intelligence are facilitating early disease detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_336.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Development of efficient algorithms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2203.md)
 * [Implement policies and measures to reduce case numbers and flatten the curve](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1886.md)
 * [Integrated surveillance of human cases and vectors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1019.md)
+
+## Property: has_MitigationBenefit
+
+* [Early detection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_0.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Outbreak from China](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_77.md)
 

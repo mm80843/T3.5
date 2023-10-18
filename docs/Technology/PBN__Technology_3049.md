@@ -2,9 +2,9 @@
 
 # __active workstations__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Active Design Strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_186.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [remote working technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_218.md)
 * [access control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_164.md)
 * [Access control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2336.md)
+
+## This Technology enables the following mitigations
+
+* [Active Design Strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_186.md)
 

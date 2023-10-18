@@ -2,13 +2,9 @@
 
 # __Accelerating transition towards digitalization__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Underutilized smart solutions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_808.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved infrastructure and increased connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1100.md)
+* [Advancements in bioinformatics, divestment, automated sample collection, and artificial intelligence are facilitating early disease detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_336.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Embrace data science and digital techniques](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_292.md)
 * [Digital educational initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_473.md)
 * [Digital tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_722.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved infrastructure and increased connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1100.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Underutilized smart solutions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_808.md)
 

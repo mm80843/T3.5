@@ -2,13 +2,9 @@
 
 # __Implementation of AI technologies__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of reliable information on COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_352.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced tracking and prediction of COVID-19 cases](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_446.md)
+* [Accelerate the shift to digitalization by embracing emerging technologies and implementing innovative solutions across various sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_346.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Artificial intelligence/machine learning (AI/ML)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1100.md)
 * [AI for patient management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_655.md)
 * [Deploy telehealth solutions, use of AI and robotics in healthcare, support research and development efforts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2400.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced tracking and prediction of COVID-19 cases](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_446.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of reliable information on COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_352.md)
 

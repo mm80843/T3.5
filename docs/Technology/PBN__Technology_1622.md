@@ -2,9 +2,9 @@
 
 # __gender-sensitive interventions__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q15748953](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q15748953.md)
+* [Measures promoting accountability, media control, real-time updates, and virtual experiences for physical distancing and education.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Behavioral change interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2532.md)
 * [policy interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3423.md)
 * [cultural sensitivity training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_552.md)
+
+## This Technology is identified by the following QID
+
+* [Q15748953](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q15748953.md)
 

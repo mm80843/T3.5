@@ -2,9 +2,9 @@
 
 # __Promoting positive social norms, educating the public on safe travel practices, and addressing misinformation__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Social Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_85.md)
+* [Implement travel restrictions, promote active transportation, streamline processes, provide accurate information, and develop sustainable transport options.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_325.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Develop interventions to reduce the spread of misinformation, educate the public on how to verify information sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2150.md)
 * [Promote evidence-based decision-making, improve public health messaging, and address misinformation and conspiracy theories](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2118.md)
 * [Public awareness campaigns, strict enforcement, penalties for non-compliance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2963.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Social Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_85.md)
 

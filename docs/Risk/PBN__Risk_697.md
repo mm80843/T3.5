@@ -2,9 +2,9 @@
 
 # __Limited recognition of UGS as important places in the city__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Raising awareness about the relevance of UGS in urban landscape](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_963.md)
+* [Limited monitoring, technical limitations, language barriers, expensive optimization, lack of connection with nature, and limited sensor diversity hinder effective response and resource allocation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_107.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of maintenance and upkeep of UGS](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2258.md)
 * [Uneven distribution of UGS](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1689.md)
 * [Lack of UGS during pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1692.md)
+
+## Mitigations of this risk
+
+* [Raising awareness about the relevance of UGS in urban landscape](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_963.md)
 

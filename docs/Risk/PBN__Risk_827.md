@@ -2,9 +2,9 @@
 
 # __Variability in air change rates__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Opening windows](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1134.md)
+* [Insufficient ventilation and indoor air pollution pose a risk to air quality and respiratory health, exacerbated by inadequate airflow control, limited natural ventilation, and air recirculation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_128.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Air control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_496.md)
 * [Improving air circulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2549.md)
 * [Fluctuations in sewage flow rate](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2370.md)
+
+## Mitigations of this risk
+
+* [Opening windows](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1134.md)
 

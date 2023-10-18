@@ -2,13 +2,9 @@
 
 # __Balanced allocation of POIs__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Urban activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_18.md)
-
-## Property: has_MitigationBenefit
-
-* [Lower infection rates](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_30.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Increased funding for vector control programs, allocation of resources to priority areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3056.md)
 * [Absorb resource shortages](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3125.md)
 * [Increase production and distribution of PPE, implement reuse and recycling strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3111.md)
+
+## Property: has_MitigationBenefit
+
+* [Lower infection rates](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_30.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Urban activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_18.md)
 

@@ -2,9 +2,9 @@
 
 # __Extreme Events__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Emergency Preparedness Planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_190.md)
+* [A list of challenges and uncertainties surrounding the impact and response to various events and crises in different sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_124.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Seeding events](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3326.md)
 * [Limited pre-event preparations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_804.md)
 * [Increased fear, disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2644.md)
+
+## Mitigations of this risk
+
+* [Emergency Preparedness Planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_190.md)
 

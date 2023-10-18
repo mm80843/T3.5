@@ -2,9 +2,9 @@
 
 # __Limited data collection in LMIC__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Phone-based AI software for patient data collection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1406.md)
+* [The challenges include disintegrated and non-interoperable data, limited data access, data quality issues, and lack of standardized data sharing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_111.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of access to tests in LMIC](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3050.md)
 * [Lack of evidence in LMIC](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3046.md)
 * [Lack of AI implementation in LMIC](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1799.md)
+
+## Mitigations of this risk
+
+* [Phone-based AI software for patient data collection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1406.md)
 

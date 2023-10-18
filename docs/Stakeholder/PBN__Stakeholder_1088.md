@@ -2,9 +2,9 @@
 
 # __areas with poor sanitation__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Faecal-oral transmission of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1660.md)
+* [People residing in densely populated districts or neighborhoods, including those in high-risk, low-income, or underserved areas, as well as visitors and tenants in urban locations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_384.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [individuals living in apartments without basic water and sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_826.md)
 * [communities with limited access to clean water](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_590.md)
 * [urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_593.md)
+
+## Risk affecting this stakeholder
+
+* [Faecal-oral transmission of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1660.md)
 

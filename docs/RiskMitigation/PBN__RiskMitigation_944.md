@@ -2,13 +2,9 @@
 
 # __Collecting data on resting heart rate and sleep duration from wearables__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Improving models predicting trends in influenza-like illnesses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_680.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced predictive models](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_951.md)
+* [Monitoring, analysis, and standardization of various technologies and protocols for accurate and reliable healthcare data collection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_310.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Remote exercise monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1175.md)
 * [Development of wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_934.md)
 * [Combining telemedicine with wearable technology for remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_952.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced predictive models](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_951.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Improving models predicting trends in influenza-like illnesses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_680.md)
 

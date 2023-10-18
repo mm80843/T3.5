@@ -2,9 +2,9 @@
 
 # __communication experts__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q11024](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11024.md)
+* [Enhanced connectivity and diverse communication platforms enable the dissemination of reliable information and promote open communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_225.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [expertise](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4508.md)
 * [communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_568.md)
 * [communication guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1407.md)
+
+## This Technology is identified by the following QID
+
+* [Q11024](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11024.md)
 

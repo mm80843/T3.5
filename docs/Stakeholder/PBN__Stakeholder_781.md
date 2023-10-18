@@ -2,11 +2,9 @@
 
 # __it support personnel__
 
-## Risks that can be mitigated by this stakeholder
+## Category to which it belongs
 
-* [Technology Access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1265.md)
-* [Imaging Limitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1267.md)
-* [Faculty Engagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1271.md)
+* [Employees across various industries, including laboratories, maintenance personnel, cleaning staff, and workers in the informal sector.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_359.md)
 
 ## Closest similar item
 
@@ -20,4 +18,10 @@
 * [support network](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2459.md)
 * [maintenance personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_151.md)
 * [security personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_635.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Technology Access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1265.md)
+* [Imaging Limitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1267.md)
+* [Faculty Engagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1271.md)
 

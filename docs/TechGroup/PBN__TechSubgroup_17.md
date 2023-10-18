@@ -2,14 +2,9 @@
 
 # __Fact-Checking and Information Verification__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [fact-checking tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_7.md)
-* [Fact-checking mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2095.md)
-* [fact-checking websites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1149.md)
-* [Fact-checking websites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2159.md)
-* [Fact-checking websites and organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2130.md)
-* [Fact-checking tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2089.md)
+* [Evaluating accuracy and filtering content to ensure reliable information.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_16.md)
 
 ## Closest similar item
 
@@ -23,4 +18,13 @@
 * [Monitoring Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_31.md)
 * [Communication and Information Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_46.md)
 * [Public Awareness and Information Sharing](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_50.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [fact-checking tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_7.md)
+* [Fact-checking mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2095.md)
+* [fact-checking websites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1149.md)
+* [Fact-checking websites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2159.md)
+* [Fact-checking websites and organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2130.md)
+* [Fact-checking tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2089.md)
 

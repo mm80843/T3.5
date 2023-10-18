@@ -2,10 +2,9 @@
 
 # __Monitoring Traffic Patterns__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [iot sensing infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3534.md)
-* [traffic camera data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3545.md)
+* [Mapping, tracking, and monitoring tools for contact tracing and tracking movements and transmission through various apps and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_158.md)
 
 ## Closest similar item
 
@@ -20,14 +19,19 @@
 * [Tracking applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1794.md)
 * [Reduction in Traffic](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_909.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Analyzing traffic patterns using Machine Learning algorithms to provide real-time indicators
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Smart cities and a data-driven response to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_164.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [iot sensing infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3534.md)
+* [traffic camera data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3545.md)
 

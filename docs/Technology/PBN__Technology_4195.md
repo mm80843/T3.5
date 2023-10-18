@@ -2,9 +2,9 @@
 
 # __ducted air conditioning__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Zoned Air Conditioning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2016.md)
+* [Improved air quality can be achieved through the use of various technologies such as air purifiers and monitoring systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_221.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [hvac system modifications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3818.md)
 * [air purifiers and ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_425.md)
 * [correct use and maintenance of air-conditioning systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_678.md)
+
+## This Technology enables the following mitigations
+
+* [Zoned Air Conditioning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2016.md)
 

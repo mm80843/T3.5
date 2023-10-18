@@ -2,9 +2,9 @@
 
 # __risk communication strategies__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q24889807](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q24889807.md)
+* [Safety protocols, emergency response plans, risk assessment tools, and comprehensive risk communication strategies ensure workplace safety and crisis management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_232.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [communication campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1157.md)
 * [Communication campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2171.md)
 * [increased awareness and education about transmission risks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_588.md)
+
+## This Technology is identified by the following QID
+
+* [Q24889807](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q24889807.md)
 

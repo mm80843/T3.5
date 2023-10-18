@@ -2,9 +2,9 @@
 
 # __Implementing physical distancing measures, staggering work shifts, reducing team sizes.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Workforce Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1953.md)
+* [Promotion and enforcement of physical separation measures to prevent the spread of disease.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_327.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Implement physical distancing measures, modify layout to allow for more space between individuals, and limit occupancy in common areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2264.md)
 * [Social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_416.md)
 * [Enforce measures such as social distancing and remote work.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1813.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Workforce Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1953.md)
 

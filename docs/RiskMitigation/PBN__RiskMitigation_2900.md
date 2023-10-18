@@ -2,9 +2,9 @@
 
 # __Diversify suppliers and establish backup systems to ensure a steady supply__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Dependence on global suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2227.md)
+* [Promote flexibility and resilience in supply chains through diversification, local production, and proactive strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_320.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Enhance system resilience, diversify dependencies, and establish backup systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2901.md)
 * [Diversify sources of imports, restructure supply chains, increase domestic manufacturing capacity.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2951.md)
 * [Diversifying supply chains and promoting domestic production](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2611.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Dependence on global suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2227.md)
 

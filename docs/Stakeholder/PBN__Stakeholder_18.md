@@ -2,9 +2,14 @@
 
 # __animals__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q729](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q729.md)
+* [Entities and individuals who interact with or are affected by a system, organization, or public facility.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_1.md)
+
+## Risk affecting this stakeholder
+
+* [Environmental degradation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1343.md)
+* [Zoonotic infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1016.md)
 
 ## Closest similar item
 
@@ -19,12 +24,11 @@
 * [veterinary organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2409.md)
 * [veterinary organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_993.md)
 
-## Risk affecting this stakeholder
-
-* [Environmental degradation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1343.md)
-* [Zoonotic infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1016.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Reduced risk of future zoonotic outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_23.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q729](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q729.md)
 

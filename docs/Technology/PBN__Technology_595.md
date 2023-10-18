@@ -2,9 +2,9 @@
 
 # __community support programs__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q112206160](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q112206160.md)
+* [A range of community-centered initiatives, programs, and strategies foster participation, collaboration, and social support for diverse groups.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_236.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [financial support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_44.md)
 * [Financial support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2249.md)
 * [job support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1511.md)
+
+## This Technology is identified by the following QID
+
+* [Q112206160](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q112206160.md)
 

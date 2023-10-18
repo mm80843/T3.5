@@ -2,9 +2,9 @@
 
 # __people in developing countries__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Food insecurity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1876.md)
+* [Global disadvantaged populations, particularly those in developing and non-English speaking countries, including women, children, rural households, and individuals.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_399.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [rural households in developing countries](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1357.md)
 * [individuals from lower socio-economic backgrounds](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_745.md)
 * [rural household in developing country](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2238.md)
+
+## Risk affecting this stakeholder
+
+* [Food insecurity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1876.md)
 

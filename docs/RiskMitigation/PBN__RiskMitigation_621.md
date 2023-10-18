@@ -2,13 +2,9 @@
 
 # __Increase public health funding__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Neoliberalism’s impact on health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_447.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced public health infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_627.md)
+* [Promote public health through policy implementation, strengthened systems, health literacy, and targeted interventions for vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_314.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Strengthen public and universal health systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_16.md)
 * [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_865.md)
 * [Implementation of public health policies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1113.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced public health infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_627.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Neoliberalism’s impact on health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_447.md)
 

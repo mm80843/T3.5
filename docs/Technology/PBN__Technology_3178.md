@@ -2,9 +2,9 @@
 
 # __surveillance camera technology__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Surveillance Cameras](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_354.md)
+* [Enhanced monitoring and surveillance technologies enable real-time tracking, video conferencing, and improved detection methods.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_214.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [video surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3661.md)
 * [video surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4336.md)
 * [surveillance system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3926.md)
+
+## This Technology enables the following mitigations
+
+* [Surveillance Cameras](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_354.md)
 

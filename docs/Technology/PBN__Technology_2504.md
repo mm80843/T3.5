@@ -2,9 +2,9 @@
 
 # __Public education campaigns__
 
-## This Technology belongs to this TechSubgroup
+## Category to which it belongs
 
-* [Public Health and Safety Measures](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_52.md)
+* [Various campaigns and programs to inform and engage the public, raise awareness, educate, and promote reliable information.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_207.md)
 
 ## Closest similar item
 
@@ -19,12 +19,16 @@
 * [education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_748.md)
 * [Education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2156.md)
 
+## This Technology is identified by the following QID
+
+* [Q12182551](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q12182551.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Public Health and Safety Measures](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_52.md)
+
 ## This Technology belongs to this TechGroup
 
 * [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
 * [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
-
-## This Technology is identified by the following QID
-
-* [Q12182551](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q12182551.md)
 

@@ -2,9 +2,9 @@
 
 # __community surveillance__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q334401](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q334401.md)
+* [A range of community-centered initiatives, programs, and strategies foster participation, collaboration, and social support for diverse groups.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_236.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [urban surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1550.md)
 * [increased surveillance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_525.md)
 * [Increased surveillance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2476.md)
+
+## This Technology is identified by the following QID
+
+* [Q334401](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q334401.md)
 

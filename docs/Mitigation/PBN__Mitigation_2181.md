@@ -2,9 +2,9 @@
 
 # __Vulnerability Identification__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [vulnerability assessment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4308.md)
+* [Prioritizing safety measures, personal protective equipment, reliability, cybersecurity, risk perception, and general prevention to ensure protection and resilience in various domains.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_168.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Home Security Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_387.md)
 * [Considering the needs of vulnerable groups in future public space designs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_793.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Exploitation of weaknesses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3368.md)
-
 ## Property: has_MitigationPrinciple
 
 Critical infrastructure entities should conduct vulnerability assessments to identify weaknesses and susceptibility to hazards or threats. This helps in understanding the areas of vulnerability and implementing appropriate countermeasures.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Exploitation of weaknesses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3368.md)
+
 ## Property: has_MitigationSource
 
 * [Preparing critical infrastructure for the future: Lessons learnt from the Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_129.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [vulnerability assessment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4308.md)
 

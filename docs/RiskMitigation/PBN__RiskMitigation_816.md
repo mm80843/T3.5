@@ -2,13 +2,9 @@
 
 # __Analysis of root causes of behavior change__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Limited understanding of human behavior](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_583.md)
-
-## Property: has_MitigationBenefit
-
-* [Deeper understanding of urban science developments](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_820.md)
+* [Implementing a comprehensive package of measures to ensure the smooth functioning and safety of essential services and activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_6.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Reduction in perceived impact over time](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1403.md)
 * [Systemic change](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1069.md)
 * [Conduct research to gather data on virus behavior and characteristics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2319.md)
+
+## Property: has_MitigationBenefit
+
+* [Deeper understanding of urban science developments](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_820.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limited understanding of human behavior](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_583.md)
 

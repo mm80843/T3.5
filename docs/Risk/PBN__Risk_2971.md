@@ -2,9 +2,9 @@
 
 # __Efficient design changes and management__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Building Information Model (BIM)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1222.md)
+* [Challenges in building industry include lack of understanding, high costs, inadequate preparedness, and slow adoption of new technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_98.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Reduction in innovation and experimentation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2872.md)
 * [Revisions in density and compact design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_246.md)
 * [Streets re-designed](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1458.md)
+
+## Mitigations of this risk
+
+* [Building Information Model (BIM)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1222.md)
 

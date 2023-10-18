@@ -2,13 +2,9 @@
 
 # __Integration of person-centered care__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Limited learning from public health crises](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_647.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved care coordination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_902.md)
+* [Implementing a comprehensive package of measures to ensure the smooth functioning and safety of essential services and activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_6.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Monitor reactions, provide psychosocial support and assistance, modify expectations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2498.md)
 * [Implement self-health evaluation protocols, use online questionnaires or applications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2796.md)
 * [Ensuring access to healthcare and accurate information, providing support and resources, addressing social inequities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2335.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved care coordination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_902.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limited learning from public health crises](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_647.md)
 

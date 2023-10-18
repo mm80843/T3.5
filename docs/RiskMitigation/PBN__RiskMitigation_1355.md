@@ -2,13 +2,9 @@
 
 # __Air filtration systems__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Harmful indoor air pollutants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_969.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction of indoor air pollutants](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1333.md)
+* [Enhancing air quality through effective air filtration, ventilation, and pollution reduction strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_338.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3270.md)
 * [portable air filtration devices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3463.md)
 * [water filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3275.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction of indoor air pollutants](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1333.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Harmful indoor air pollutants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_969.md)
 

@@ -2,9 +2,9 @@
 
 # __controlled experiments__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Drug modelling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_57.md)
+* [These resources aim to enhance security, convenience, and efficiency in managing access, spaces, and systems within various environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_206.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [advanced laboratory testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1409.md)
 * [Advanced laboratory testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2777.md)
 * [research and testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1161.md)
+
+## This Technology enables the following mitigations
+
+* [Drug modelling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_57.md)
 

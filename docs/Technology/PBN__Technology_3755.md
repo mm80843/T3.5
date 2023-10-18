@@ -2,9 +2,9 @@
 
 # __bio-sensor technology__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Biosensors for diagnostics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1232.md)
+* [Advanced monitoring systems and sensor integration for IoT devices and biosensor technology facilitate environmental monitoring and facility usage tracking.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_229.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [improved sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_315.md)
 * [Improved sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2451.md)
 * [wearable sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2949.md)
+
+## This Technology enables the following mitigations
+
+* [Biosensors for diagnostics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1232.md)
 

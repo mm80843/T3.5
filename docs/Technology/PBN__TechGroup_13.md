@@ -2,6 +2,23 @@
 
 # __Indoor air technologies__
 
+## Category to which it belongs
+
+* [Enhancements for the air quality within enclosed spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_307.md)
+
+## Closest similar item
+
+* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_13.md)
+* [indoor air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_173.md)
+* [outdoor air monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_174.md)
+* [Outdoor air monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_175.md)
+* [Air Sensors](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_176.md)
+* [indoor sensors](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_177.md)
+* [air circulation devices](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_178.md)
+* [other air cleaning technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_179.md)
+* [Other air cleaning technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_180.md)
+* [improved ventilation technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_181.md)
+
 ## This Technology belongs to this TechnologyGroup
 
 * [air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
@@ -69,17 +86,4 @@
 * [Ultrafiltration or nanomembrane filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2715.md)
 * [Filtration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2716.md)
 * [Compact design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2694.md)
-
-## Closest similar item
-
-* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_13.md)
-* [indoor air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_173.md)
-* [outdoor air monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_174.md)
-* [Outdoor air monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_175.md)
-* [Air Sensors](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_176.md)
-* [indoor sensors](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_177.md)
-* [air circulation devices](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_178.md)
-* [other air cleaning technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_179.md)
-* [Other air cleaning technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_180.md)
-* [improved ventilation technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_181.md)
 

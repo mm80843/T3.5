@@ -2,9 +2,9 @@
 
 # __intermediate spaces__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Access to common building spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2127.md)
+* [Available green spaces and outdoor gathering areas allow for access and enjoyment of public parks and communal areas.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_218.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_146.md)
 * [communal spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3939.md)
 * [physical activity spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3050.md)
+
+## This Technology enables the following mitigations
+
+* [Access to common building spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2127.md)
 

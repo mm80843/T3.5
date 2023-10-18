@@ -2,9 +2,13 @@
 
 # __emergency response teams__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q1122253](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1122253.md)
+* [A diverse array of collaborative and specialized groups in various fields working together towards specific goals.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_5.md)
+
+## Risk affecting this stakeholder
+
+* [Inadequate emergency preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1703.md)
 
 ## Closest similar item
 
@@ -19,11 +23,11 @@
 * [emergency services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_539.md)
 * [emergency service](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2715.md)
 
-## Risk affecting this stakeholder
-
-* [Inadequate emergency preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1703.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Rapid and inexpensive tracking](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1212.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q1122253](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1122253.md)
 

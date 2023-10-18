@@ -6,6 +6,10 @@
 
 * [Financial relief](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_34.md)
 
+## Category to which it belongs
+
+* [Survivors of abuse seeking support from organizations combating domestic violence and aiding victims.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_361.md)
+
 ## Closest similar item
 
 * [victims of domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_7.md)

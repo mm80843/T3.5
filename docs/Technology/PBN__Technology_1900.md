@@ -2,9 +2,9 @@
 
 # __validation platforms__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q212108](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q212108.md)
+* [Consistent oversight and regulation ensure compliance, as standardized protocols are enforced by enforcement personnel and regulatory bodies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_228.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [data integration and validation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1894.md)
 * [validation studies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_905.md)
 * [data cleansing and validation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1126.md)
+
+## This Technology is identified by the following QID
+
+* [Q212108](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q212108.md)
 

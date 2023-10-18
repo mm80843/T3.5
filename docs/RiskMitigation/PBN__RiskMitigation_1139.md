@@ -2,13 +2,9 @@
 
 # __Strengthen psychosocial support__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Impact on elderly and individuals with psychiatric disorders](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_832.md)
-
-## Property: has_MitigationBenefit
-
-* [Improvement in mental health and quality of life](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1136.md)
+* [Promote mental well-being through access to resources, support services, and strategies for coping with stress.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_313.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implement mental health supporting strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_52.md)
 * [Providing mental health support, counseling, and stress management techniques](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2208.md)
 * [Provide mental health support services, such as counseling and helplines, to individuals in self-isolation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2278.md)
+
+## Property: has_MitigationBenefit
+
+* [Improvement in mental health and quality of life](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1136.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Impact on elderly and individuals with psychiatric disorders](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_832.md)
 

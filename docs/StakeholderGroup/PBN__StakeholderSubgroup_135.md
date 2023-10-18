@@ -2,11 +2,9 @@
 
 # __Urban Management__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [urban wildlife](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_890.md)
-* [urban green space management organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2677.md)
-* [urban green space management organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1231.md)
+* [Managing essential resources, handling emergencies, and overseeing urban systems are all components of societal infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_267.md)
 
 ## Closest similar item
 
@@ -20,4 +18,10 @@
 * [Managers/Operators](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_69.md)
 * [Housing Authorities/Agencies](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_73.md)
 * [Emergency Services and Management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_166.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [urban wildlife](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_890.md)
+* [urban green space management organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2677.md)
+* [urban green space management organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1231.md)
 

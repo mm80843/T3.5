@@ -13,6 +13,10 @@
 * [Reduced pressure on secondary services](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_332.md)
 * [Mitigated disease transmission through restricted activities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_334.md)
 
+## Category to which it belongs
+
+* [Members of the public, including social media users, organizations promoting gender equality, and individuals in various social settings and groups.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_385.md)
+
 ## Closest similar item
 
 * [public and users of public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_37.md)

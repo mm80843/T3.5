@@ -2,10 +2,9 @@
 
 # __acoustic technology__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Biological and geophysical sounds](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_643.md)
-* [Consideration of noise levels](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_653.md)
+* [Technological advancements encompass a wide range of innovations, such as blockchain, touchless, renewable energy, and communication technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [Soundproofing materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2233.md)
 * [soundproofing materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_119.md)
 * [sanger technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4429.md)
+
+## This Technology enables the following mitigations
+
+* [Biological and geophysical sounds](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_643.md)
+* [Consideration of noise levels](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_653.md)
 

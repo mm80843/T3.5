@@ -2,9 +2,9 @@
 
 # __Implement quality control measures nan to ensure accurate nan nan and reliable data__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Reliability of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2086.md)
+* [Enable transparent and secure data management, traceability, and efficient distribution while promoting accurate information dissemination and verification.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_321.md)
 
 ## Closest similar item
 
@@ -17,4 +17,8 @@
 * [Data quality improvement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_527.md)
 * [Improving data quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_773.md)
 * [Regular maintenance and calibration of devices, verification of data quality.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2781.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Reliability of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2086.md)
 

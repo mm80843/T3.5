@@ -2,17 +2,9 @@
 
 # __Use of social media data__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Loneliness during COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_664.md)
-
-## Property: has_MitigationBenefit
-
-* [Real-time sentiment analysis](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_931.md)
-* [Identification of coping strategies](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_932.md)
-* [Identification of high-risk individuals](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_933.md)
-* [Research data source](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_934.md)
-* [Awareness raising through influencers](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_935.md)
+* [Promote standardized data collection, ontology-based representation, and enhanced data sharing to improve decision-making processes and data quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_319.md)
 
 ## Closest similar item
 
@@ -26,4 +18,16 @@
 * [Promoting reliable sources, facilitating information sharing, engaging with the public through social media](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2103.md)
 * [Data activism](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1200.md)
 * [Restricting the amount of COVID-19 specific information people are exposed to on social media](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_120.md)
+
+## Property: has_MitigationBenefit
+
+* [Real-time sentiment analysis](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_931.md)
+* [Identification of coping strategies](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_932.md)
+* [Identification of high-risk individuals](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_933.md)
+* [Research data source](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_934.md)
+* [Awareness raising through influencers](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_935.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Loneliness during COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_664.md)
 

@@ -2,9 +2,9 @@
 
 # __Increased congestion__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [One-way systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_893.md)
+* [The challenges and consequences of the global pandemic include poor acoustics, noise pollution, food security, increase in inequality, waste, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_131.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [High rates of transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2643.md)
 * [Increased travel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3004.md)
 * [Increased cost and workload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2710.md)
+
+## Mitigations of this risk
+
+* [One-way systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_893.md)
 

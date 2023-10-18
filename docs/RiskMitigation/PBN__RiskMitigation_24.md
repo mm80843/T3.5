@@ -2,13 +2,9 @@
 
 # __Job proximity and active transportation support__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Urban inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_19.md)
-
-## Property: has_MitigationBenefit
-
-* [Lower vulnerability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_32.md)
+* [Ensuring equitable access, promoting flexible work, implementing safety measures, and providing support for remote work and flexible schedules.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_323.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Extend support measures to temporary migrants and gig workers, strengthen regulation for gig economy workers.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2952.md)
 * [Providing financial support for affected workers, exploring alternative job opportunities, implementing safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1902.md)
 * [Expansion of public transport](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_741.md)
+
+## Property: has_MitigationBenefit
+
+* [Lower vulnerability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_32.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Urban inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_19.md)
 

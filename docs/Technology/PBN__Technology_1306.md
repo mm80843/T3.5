@@ -2,9 +2,9 @@
 
 # __cybersecurity training programs__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q3510521](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3510521.md)
+* [Government programs and initiatives provide support, training, and financial assistance for education, healthcare, employment, and overall well-being.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_210.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Safety training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2186.md)
 * [online training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1701.md)
 * [job training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_632.md)
+
+## This Technology is identified by the following QID
+
+* [Q3510521](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3510521.md)
 

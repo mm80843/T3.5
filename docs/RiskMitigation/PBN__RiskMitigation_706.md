@@ -2,13 +2,9 @@
 
 # __Working from home__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Delay in works due to lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_498.md)
-
-## Property: has_MitigationBenefit
-
-* [Flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_709.md)
+* [Ensuring equitable access, promoting flexible work, implementing safety measures, and providing support for remote work and flexible schedules.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_323.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Remote working and flexible spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_479.md)
 * [Implement flexible working arrangements, remote working, and training programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1791.md)
 * [Promoting remote work for office workers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_205.md)
+
+## Property: has_MitigationBenefit
+
+* [Flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_709.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Delay in works due to lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_498.md)
 

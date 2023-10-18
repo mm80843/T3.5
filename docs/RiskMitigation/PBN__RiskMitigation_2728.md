@@ -2,9 +2,9 @@
 
 # __Public education and awareness campaigns about vaccine safety and importance, strengthen immunization programs.__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Hesitation to vaccinate](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2080.md)
+* [Maximizing vaccine efficacy and ensuring equitable access through research, development, distribution, and targeted outreach.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_337.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Public education, awareness campaigns, and enforcement of preventive measures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2070.md)
 * [Educational campaigns on public health measures, improving communication and dissemination of information.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1805.md)
 * [Promote healthy lifestyles, vaccination campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2296.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Hesitation to vaccinate](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2080.md)
 

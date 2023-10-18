@@ -2,9 +2,9 @@
 
 # __Loss of biodiversity__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Protection of biodiversity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1830.md)
+* [The widespread presence and transfer of harmful pathogens and contaminants on various surfaces and environments pose serious risks to public health and the ecosystem.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_100.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Decline in conservation revenue](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2174.md)
 * [Lack of natural outdoor environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2116.md)
 * [Limited understanding of complex conservation challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3342.md)
+
+## Mitigations of this risk
+
+* [Protection of biodiversity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1830.md)
 

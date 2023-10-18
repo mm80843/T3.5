@@ -2,13 +2,9 @@
 
 # __Provision of guidelines on safe physical activity outdoors__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Impact of control measures on diet and physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_283.md)
-
-## Property: has_MitigationBenefit
-
-* [Increased physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_352.md)
+* [Enforce safety measures, promote responsible behavior, utilize PPE, and prioritize risk prevention to ensure adequate protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_342.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implement public health measures, reduce indoor gatherings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1707.md)
 * [Natural outdoor environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_733.md)
 * [Increase access to greenspaces and promote outdoor activity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2914.md)
+
+## Property: has_MitigationBenefit
+
+* [Increased physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_352.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Impact of control measures on diet and physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_283.md)
 

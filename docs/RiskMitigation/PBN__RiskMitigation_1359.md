@@ -2,13 +2,9 @@
 
 # __Antimicrobial paint__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Reducing transmission in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_970.md)
-
-## Property: has_MitigationBenefit
-
-* [Killing or inhibition of germs](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1338.md)
+* [Implement rigorous cleaning and disinfection measures, including the use of antimicrobial materials and advanced technologies, to maintain a safe and hygienic environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_2.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Antiviral surface coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_917.md)
 * [Use of hygienic and anti-bacterial materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1322.md)
 * [Application of antiviral surface coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_921.md)
+
+## Property: has_MitigationBenefit
+
+* [Killing or inhibition of germs](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1338.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Reducing transmission in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_970.md)
 

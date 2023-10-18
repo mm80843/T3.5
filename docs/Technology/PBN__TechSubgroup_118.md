@@ -2,15 +2,9 @@
 
 # __Energy and Resource Management__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [building automation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_202.md)
-* [Sensor calibration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2519.md)
-* [battery optimization techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_349.md)
-* [Improved cleaning and disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2517.md)
-* [behavior change programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_658.md)
-* [Energy feedback systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2309.md)
-* [Temperature monitoring devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2518.md)
+* [Promoting sustainable practices for efficient management and utilization of energy resources while prioritizing conservation and renewable energy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_32.md)
 
 ## Closest similar item
 
@@ -24,4 +18,14 @@
 * [Workforce and Resource Management Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_110.md)
 * [Resource and Project Management Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_4.md)
 * [Water Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_120.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [building automation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_202.md)
+* [Sensor calibration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2519.md)
+* [battery optimization techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_349.md)
+* [Improved cleaning and disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2517.md)
+* [behavior change programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_658.md)
+* [Energy feedback systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2309.md)
+* [Temperature monitoring devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2518.md)
 

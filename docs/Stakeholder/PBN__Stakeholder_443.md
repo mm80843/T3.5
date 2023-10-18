@@ -2,9 +2,13 @@
 
 # __indigenous populations__
 
-## This Stakeholder is identified by the following QID
+## Category to which it belongs
 
-* [Q1277626](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1277626.md)
+* [A diverse array of groups and individuals, encompassing all segments of society and the natural world.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_363.md)
+
+## Risk affecting this stakeholder
+
+* [Vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1764.md)
 
 ## Closest similar item
 
@@ -19,11 +23,11 @@
 * [minority populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_853.md)
 * [Minority populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2318.md)
 
-## Risk affecting this stakeholder
-
-* [Vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1764.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Reduction in health inequalities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_226.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q1277626](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1277626.md)
 

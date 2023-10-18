@@ -2,9 +2,9 @@
 
 # __connectivity technology__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Connecting green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_654.md)
+* [Technological advancements encompass a wide range of innovations, such as blockchain, touchless, renewable energy, and communication technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [interconnected devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2942.md)
 * [Communication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2617.md)
 * [communication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_546.md)
+
+## This Technology enables the following mitigations
+
+* [Connecting green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_654.md)
 

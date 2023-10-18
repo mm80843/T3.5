@@ -2,13 +2,9 @@
 
 # __Telemedicine and remote testing__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Overwhelmed healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1007.md)
-
-## Property: has_MitigationBenefit
-
-* [Decreased workload for healthcare staff](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1399.md)
+* [The trend towards remote and digital healthcare is encompassing telecommuting, telehealth, teleconferencing, wearable technology, touchless technologies, and mobile applications.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_328.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Implement telemedicine services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_49.md)
 * [Virtual clinics and tele-medicine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1329.md)
 * [Increased use of telehealth clinics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_43.md)
+
+## Property: has_MitigationBenefit
+
+* [Decreased workload for healthcare staff](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1399.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Overwhelmed healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1007.md)
 

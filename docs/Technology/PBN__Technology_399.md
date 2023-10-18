@@ -2,9 +2,9 @@
 
 # __blockchain security protocols__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q1254335](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1254335.md)
+* [Various security measures, such as encryption, authentication protocols, secure data storage, and blockchain, are used to protect digital platforms and ensure privacy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_201.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [Blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2605.md)
 * [cybersecurity protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_579.md)
 * [blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_94.md)
+
+## This Technology is identified by the following QID
+
+* [Q1254335](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1254335.md)
 

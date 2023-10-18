@@ -2,13 +2,9 @@
 
 # __Modifying architectural design__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Variation in built environment microbiome](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_207.md)
-
-## Property: has_MitigationBenefit
-
-* [Improvement in indoor microbial biodiversity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_257.md)
+* [Designing affordable, adaptable, and sustainable housing with improved building environments and optimized spatial layouts, while incorporating flexible and human-centric design elements and considering health, safety, and environmental parameters.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_326.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Incorporate design flexibility in the planning and construction process.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2252.md)
 * [Passive design strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_996.md)
 * [Improved building environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_276.md)
+
+## Property: has_MitigationBenefit
+
+* [Improvement in indoor microbial biodiversity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_257.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Variation in built environment microbiome](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_207.md)
 

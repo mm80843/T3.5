@@ -2,19 +2,14 @@
 
 # __member states__
 
-## Risks that can be mitigated by this stakeholder
-
-* [Lack of preparedness for pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1584.md)
-* [Limited EU mandate in public health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1583.md)
-* [Politicization of public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1586.md)
-* [Economic disparities among Member States](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1587.md)
-* [Regulatory frameworks for data protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_811.md)
-* [Fragmented political responses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1585.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Strengthened unity and cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_779.md)
 * [Enhanced economic support and stability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_780.md)
+
+## Category to which it belongs
+
+* [Entities and individuals who interact with or are affected by a system, organization, or public facility.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_1.md)
 
 ## Closest similar item
 
@@ -28,4 +23,13 @@
 * [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 * [community member](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2491.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Lack of preparedness for pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1584.md)
+* [Limited EU mandate in public health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1583.md)
+* [Politicization of public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1586.md)
+* [Economic disparities among Member States](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1587.md)
+* [Regulatory frameworks for data protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_811.md)
+* [Fragmented political responses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1585.md)
 

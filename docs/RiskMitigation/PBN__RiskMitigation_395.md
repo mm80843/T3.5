@@ -2,13 +2,9 @@
 
 # __Patient Monitoring System and Door-Lock Device__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Difficulty in accessing patients in AIIRs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_316.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved Access to Patients](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_392.md)
+* [Enhanced surveillance, monitoring, and real-time tracking for improved control and response to various situations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_312.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Surveillance system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_983.md)
 * [Worker health monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_419.md)
 * [Monitoring and support mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_831.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved Access to Patients](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_392.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Difficulty in accessing patients in AIIRs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_316.md)
 

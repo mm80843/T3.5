@@ -2,9 +2,9 @@
 
 # __Decreased interest in news__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Minimize negative](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_763.md)
+* [Financial vulnerability and instability permeate various sectors and industries, hindering growth, sustainability, and access to resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_114.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Economic decline](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_856.md)
 * [Divergent interests](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3372.md)
 * [Decreased morale](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_212.md)
+
+## Mitigations of this risk
+
+* [Minimize negative](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_763.md)
 

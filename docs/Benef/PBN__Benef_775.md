@@ -2,20 +2,20 @@
 
 # __Reduces risk of contracting SARS-CoV-2__
 
+## Name of the Benefit
+
+Air filters effectively remove SARS-CoV-2 particles from the air, reducing the risk of transmission in hospitals.
+
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors investing in portable air filters can contribute to creating a safer healthcare environment, increasing asset value and reputation of healthcare facilities.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_845.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
-* [medical staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_93.md)
 
 ## Articles mentionning this Benefit
 
 * [Real-world data show that filters clean COVID-causing virus from air](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_155.md)
 
-## Name of the Benefit
+## Stakeholders benefitting from this Benefit
 
-Air filters effectively remove SARS-CoV-2 particles from the air, reducing the risk of transmission in hospitals.
+* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
+* [medical staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_93.md)
 

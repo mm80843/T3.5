@@ -2,10 +2,9 @@
 
 # __Technical infrastructure__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [server infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4221.md)
-* [it resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4220.md)
+* [Optimizing the global trade network and supply chains through decentralization, cost concern, and integrated management, while promoting resilience and equity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_146.md)
 
 ## Closest similar item
 
@@ -20,14 +19,19 @@
 * [Care infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_735.md)
 * [Redundancy of Critical Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2178.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Provide resources for federated analysis and data sharing
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Challenges of data sharing in European Covid-19 projects: A learning opportunity for advancing pandemic preparedness and response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_230.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [server infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4221.md)
+* [it resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4220.md)
 

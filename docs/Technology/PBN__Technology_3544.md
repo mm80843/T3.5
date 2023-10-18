@@ -2,9 +2,9 @@
 
 # __social behavior analysis__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Monitoring Changing Social Behavior](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_917.md)
+* [A range of community-centered initiatives, programs, and strategies foster participation, collaboration, and social support for diverse groups.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_236.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [modeling and data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4207.md)
 * [social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1101.md)
 * [data analysis and modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_299.md)
+
+## This Technology enables the following mitigations
+
+* [Monitoring Changing Social Behavior](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_917.md)
 

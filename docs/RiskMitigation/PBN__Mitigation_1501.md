@@ -2,10 +2,9 @@
 
 # __Increased testing access__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [testing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3527.md)
-* [healthcare resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1998.md)
+* [Expansive array of methods, including biomarkers, self-reported symptoms, and AI-powered diagnostics, used for widespread and rapid testing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_179.md)
 
 ## Closest similar item
 
@@ -20,15 +19,20 @@
 * [Increase testing frequency](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3605.md)
 * [Increase production and distribution of testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3606.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Limited access to testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2366.md)
-
 ## Property: has_MitigationPrinciple
 
 Ensuring that immigrants have equal access to testing facilities and healthcare resources can help identify and control the spread of COVID-19 among this population.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Limited access to testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2366.md)
+
 ## Property: has_MitigationSource
 
 * [What has been the impact of the COVID-19 pandemic on immigrants? An update on recent evidence](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_287.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [testing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3527.md)
+* [healthcare resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1998.md)
 

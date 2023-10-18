@@ -2,25 +2,9 @@
 
 # __Amplification of flawed data through meta-analyses__
 
-## Property: has_RiskHealth
+## Category to which it belongs
 
-* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Description of the risk
-
-Flawed or fraudulent data can be amplified through meta-analyses, leading to the endorsement of ineffective treatments.
-
-## Property: has_RiskType
-
-* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
-
-## Articles mentionning the risk
-
-* [Rise of the preprint: how rapid data sharing during COVID-19 has changed science forever](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_173.md)
+* [The challenges include disintegrated and non-interoperable data, limited data access, data quality issues, and lack of standardized data sharing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_111.md)
 
 ## Closest similar item
 
@@ -35,33 +19,53 @@ Flawed or fraudulent data can be amplified through meta-analyses, leading to the
 * [Lack of credibility as a source of evidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_400.md)
 * [Inaccurate data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3180.md)
 
-## People affected by this risk
+## Description of the risk
 
-* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
-* [clinicians](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_274.md)
+Flawed or fraudulent data can be amplified through meta-analyses, leading to the endorsement of ineffective treatments.
+
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Property: has_RiskHealth
+
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Innovation, Creativity and research](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_2.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Attractiveness](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_9.md)
+
+## Mitigations of this risk
+
+* [Meta-analyses should carefully evaluate the quality and reliability of included studies and exclude studies with flawed or fraudulent data.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3034.md)
+
+## Name of the risk
+
+Ineffective treatments may be widely adopted, causing harm to patients and wasting resources.
 
 ## Stakeholders who can mitigate this risk
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [clinicians](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_274.md)
 
-## Name of the risk
+## Articles mentionning the risk
 
-Ineffective treatments may be widely adopted, causing harm to patients and wasting resources.
+* [Rise of the preprint: how rapid data sharing during COVID-19 has changed science forever](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_173.md)
 
-## Mitigations of this risk
+## People affected by this risk
 
-* [Meta-analyses should carefully evaluate the quality and reliability of included studies and exclude studies with flawed or fraudulent data.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3034.md)
-
-## Property: has_RiskISO_Purpose
-
-* [Attractiveness](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_9.md)
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [clinicians](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_274.md)
 
 ## Technologies linked to the risk
 
 * [improved evaluation and selection criteria for meta-analyses](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1929.md)
+
+## Property: has_RiskType
+
+* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 

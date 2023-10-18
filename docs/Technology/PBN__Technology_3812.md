@@ -2,9 +2,9 @@
 
 # __virtual learning technologies__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Virtual learning in combination with in-person classes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1350.md)
+* [Technological advancements encompass a wide range of innovations, such as blockchain, touchless, renewable energy, and communication technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [technology for remote learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1169.md)
 * [online learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_74.md)
 * [Online learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2632.md)
+
+## This Technology enables the following mitigations
+
+* [Virtual learning in combination with in-person classes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1350.md)
 

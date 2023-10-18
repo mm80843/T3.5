@@ -2,13 +2,13 @@
 
 # __DigitalPlatform__
 
-## Property: has_TechEquivalent
-
-* [DigitalPlatform](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4529.md)
-
 ## Property: has_BP_EnablerTitle
 
 enabler_002
+
+## Category to which it belongs
+
+* [DigitalPlatform: an online space or framework for accessing and sharing information and resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_61.md)
 
 ## Closest similar item
 
@@ -26,4 +26,8 @@ enabler_002
 ## Thees blueprints use this enabler
 
 * [Public places as information points](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_8.md)
+
+## Property: has_TechEquivalent
+
+* [DigitalPlatform](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4529.md)
 

@@ -2,13 +2,9 @@
 
 # __Increase number of aquatic predators__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Tick-borne diseases in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_65.md)
-
-## Property: has_MitigationBenefit
-
-* [Reduction in tick populations](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_90.md)
+* [Promote efficient and sustainable water practices, enhance infrastructure, and ensure access to clean water and sanitation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_339.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Lobby for continued or increased budget allocations, integrate biodiversity benefits into national development strategies, and prioritize conservation in recovery packages.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1782.md)
 * [Improve animal-human interactions, control illegal wildlife trade, strengthen surveillance and monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1447.md)
 * [Reduce wildlife urban interfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_688.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction in tick populations](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_90.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Tick-borne diseases in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_65.md)
 

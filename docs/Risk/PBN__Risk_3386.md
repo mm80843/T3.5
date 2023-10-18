@@ -2,9 +2,9 @@
 
 # __Inequitable access for specific social groups__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Targeted policies for specific social groups](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2210.md)
+* [Restricted availability of various resources, services, and data creates inequalities and obstacles in accessing them.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_132.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Social inequalities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1935.md)
 * [Unequal access to resources and opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2910.md)
 * [Social inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_858.md)
+
+## Mitigations of this risk
+
+* [Targeted policies for specific social groups](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2210.md)
 

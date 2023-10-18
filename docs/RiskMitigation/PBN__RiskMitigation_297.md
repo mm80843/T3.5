@@ -2,13 +2,9 @@
 
 # __Redesign of internal layouts for better safety and health__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Smaller and individual internal layouts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_248.md)
-
-## Property: has_MitigationBenefit
-
-* [Enhanced safety and well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_300.md)
+* [Designing affordable, adaptable, and sustainable housing with improved building environments and optimized spatial layouts, while incorporating flexible and human-centric design elements and considering health, safety, and environmental parameters.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_326.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Design buildings with safety measures and emergency preparedness in mind, such as evacuation routes, emergency supplies, and structural resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2573.md)
 * [Design buildings with passive design strategies and multiple bathrooms for emergencies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2493.md)
 * [Incorporate proper building design strategies for ventilation, airflow, and social distancing. Design buildings with adequate space for ventilation and airflow.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2312.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced safety and well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_300.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Smaller and individual internal layouts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_248.md)
 

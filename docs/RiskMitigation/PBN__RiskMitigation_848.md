@@ -2,13 +2,9 @@
 
 # __Minimal natural light__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Preventing virus propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_610.md)
-
-## Property: has_MitigationBenefit
-
-* [Bacterial activity prevention](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_852.md)
+* [Optimize indoor environment by maximizing natural light, ventilation, and incorporating efficient lighting systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_348.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Sunlight in the home](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_730.md)
 * [Incorporation of adaptable lighting solutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1085.md)
 * [Design spaces that prioritize natural light and ventilation, incorporate biophilic design principles](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2570.md)
+
+## Property: has_MitigationBenefit
+
+* [Bacterial activity prevention](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_852.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Preventing virus propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_610.md)
 

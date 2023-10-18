@@ -2,9 +2,9 @@
 
 # __Strict social distancing protocols__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [crowd surveillance technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2921.md)
+* [Promoting physical and spatial distancing, considering noise levels, and implementing strict measures are essential for social distancing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_147.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Population-wide social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_669.md)
 * [Lockdown and Social Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1649.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Contagious disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1021.md)
-
 ## Property: has_MitigationPrinciple
 
 Ensuring social distancing guidelines are followed in public spaces
 
+## Risks possibly mitigated by this Mitigation
+
+* [Contagious disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1021.md)
+
 ## Property: has_MitigationSource
 
 * [Exploring the Non-Medical impacts of Covid-19 using Natural Language Processing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_114.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [crowd surveillance technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2921.md)
 

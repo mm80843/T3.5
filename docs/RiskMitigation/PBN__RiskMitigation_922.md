@@ -2,13 +2,9 @@
 
 # __Infuse risk communication into policy decisions__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Lack of information transparency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_658.md)
-
-## Property: has_MitigationBenefit
-
-* [Improved information transparency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_921.md)
+* [Enforce safety measures, promote responsible behavior, utilize PPE, and prioritize risk prevention to ensure adequate protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_342.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Risk perception](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_379.md)
 * [Present risk messages with honesty](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_924.md)
 * [Implement risk management strategies, establish contingency plans, enhance communication and collaboration among supply chain stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2347.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved information transparency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_921.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of information transparency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_658.md)
 

@@ -2,8 +2,9 @@
 
 # __Hygienic Building Materials__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Promotion and implementation of rigorous hygiene protocols and use of sanitary facilities and materials.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_166.md)
 
 ## Closest similar item
 
@@ -18,14 +19,17 @@
 * [Proper selection of indoor materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2122.md)
 * [Personal Cleanliness, Sanitization, and Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_942.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Incorporate hygienic and antibacterial materials in building design to minimize the risk of infection transmission and facilitate easy sanitization.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Antivirus-built environment: Lessons learned from Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_298.md)
+
+## This Mitigation is enabled by the following technologies
+
 

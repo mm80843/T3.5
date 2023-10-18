@@ -2,9 +2,9 @@
 
 # __Computational expensive optimization__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Simulation-based people flow modeling](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_116.md)
+* [Limited monitoring, technical limitations, language barriers, expensive optimization, lack of connection with nature, and limited sensor diversity hinder effective response and resource allocation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_107.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Inefficient decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3038.md)
 * [Increased cost and workload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2710.md)
 * [High cost of adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_795.md)
+
+## Mitigations of this risk
+
+* [Simulation-based people flow modeling](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_116.md)
 

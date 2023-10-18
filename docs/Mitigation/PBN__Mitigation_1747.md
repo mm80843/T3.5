@@ -2,10 +2,9 @@
 
 # __Social Distance Radius__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
-* [agent dimensions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4044.md)
-* [pedestrian trajectories](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4043.md)
+* [Promoting equality, understanding nature, norms, perceived usefulness, and fostering social interactions for positive societal change.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_175.md)
 
 ## Closest similar item
 
@@ -20,14 +19,19 @@
 * [Social Norms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_391.md)
 * [Social Cohesion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_931.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationPrinciple
 
 Occupant exposure is accounted for when people are within a social distance radius. The center of the radius can be defined by the nose, center, or shoulder of the modelled pedestrian. Trajectories of pedestrians are used to evaluate if they are within the given radius of interaction.
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [EXPOSED: An occupant exposure model for confined spaces to retrofit crowd models during a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_3.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [agent dimensions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4044.md)
+* [pedestrian trajectories](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4043.md)
 

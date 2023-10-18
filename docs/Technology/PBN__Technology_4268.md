@@ -2,9 +2,9 @@
 
 # __community-level farming__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Urban/community farming](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2147.md)
+* [A range of community-centered initiatives, programs, and strategies foster participation, collaboration, and social support for diverse groups.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_236.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [community outreach](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1489.md)
 * [community-level infrastructure planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3216.md)
 * [community gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_122.md)
+
+## This Technology enables the following mitigations
+
+* [Urban/community farming](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2147.md)
 

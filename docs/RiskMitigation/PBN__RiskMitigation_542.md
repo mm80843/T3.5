@@ -2,13 +2,9 @@
 
 # __Investment in peace and justice__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Economic impact of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_386.md)
-
-## Property: has_MitigationBenefit
-
-* [Social and political stability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_531.md)
+* [Promote sustainable development through infrastructure investments, training, diversification, financial support, and government partnerships.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_315.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Incentivizing growth capital investment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_791.md)
 * [Local investment and leadership](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1066.md)
 * [Increase investment in preventive medicine, community health, disaster management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2947.md)
+
+## Property: has_MitigationBenefit
+
+* [Social and political stability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_531.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Economic impact of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_386.md)
 

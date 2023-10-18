@@ -2,8 +2,9 @@
 
 # __COVID-19 crisis management plan__
 
-## This Mitigation is enabled by the following technologies
+## Category to which it belongs
 
+* [Effective management of viral outbreaks through control measures, viral detection, disease tracking, and public awareness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_149.md)
 
 ## Closest similar item
 
@@ -18,15 +19,18 @@
 * [Isolation of suspected COVID-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_723.md)
 * [Strict adherence to COVID-19 preventative measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_157.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Development of a crisis plan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2749.md)
-
 ## Property: has_MitigationPrinciple
 
 Establish an ad hoc committee at the hospital level to establish a preparedness plan for confronting the COVID-19 pandemic.
 
+## Risks possibly mitigated by this Mitigation
+
+* [Development of a crisis plan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2749.md)
+
 ## Property: has_MitigationSource
 
 * [Management of the COVID-19 pandemic: challenges, practices, and organizational support](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_92.md)
+
+## This Mitigation is enabled by the following technologies
+
 

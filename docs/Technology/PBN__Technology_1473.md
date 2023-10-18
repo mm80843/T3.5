@@ -2,9 +2,9 @@
 
 # __investments in education and training__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q59243211](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q59243211.md)
+* [Maximizing economic efficiency while promoting financial stability through innovative strategies, investments, and partnerships at various levels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_195.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1119.md)
 * [occupant education and training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_657.md)
 * [educational programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_839.md)
+
+## This Technology is identified by the following QID
+
+* [Q59243211](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q59243211.md)
 

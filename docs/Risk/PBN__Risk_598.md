@@ -2,9 +2,9 @@
 
 # __Cost overrun__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Proactive cost control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_835.md)
+* [Financial vulnerability and instability permeate various sectors and industries, hindering growth, sustainability, and access to resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_114.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Contractual issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_556.md)
 * [Ineffective resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2935.md)
 * [Reduced sales and fixed costs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1598.md)
+
+## Mitigations of this risk
+
+* [Proactive cost control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_835.md)
 

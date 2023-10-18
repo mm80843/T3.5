@@ -2,10 +2,9 @@
 
 # __treadmills__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Exercising on treadmills and stationary bikes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_454.md)
-* [Active Design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1692.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -19,4 +18,9 @@
 * [wearables](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3410.md)
 * [Wearables](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4537.md)
 * [fitness apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3239.md)
+
+## This Technology enables the following mitigations
+
+* [Exercising on treadmills and stationary bikes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_454.md)
+* [Active Design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1692.md)
 

@@ -2,12 +2,9 @@
 
 # __Cybersecurity and Security Protocols__
 
-## This Technology belongs to this TechnologySubgroup
+## Category to which it belongs
 
-* [cybersecurity protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_579.md)
-* [network security measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_101.md)
-* [Regular system security updates](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2407.md)
-* [Cybersecurity training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2408.md)
+* [Secure systems for user verification, protection against cyber threats, detecting risks, and ensuring safe transactions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_35.md)
 
 ## Closest similar item
 
@@ -21,4 +18,11 @@
 * [Authentication and Access Control](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_140.md)
 * [Blockchain and Cryptography](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_169.md)
 * [Surveillance and Monitoring Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_147.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [cybersecurity protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_579.md)
+* [network security measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_101.md)
+* [Regular system security updates](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2407.md)
+* [Cybersecurity training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2408.md)
 

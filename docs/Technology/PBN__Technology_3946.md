@@ -2,9 +2,9 @@
 
 # __routine flushing__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Water and Sanitary System Safety](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1613.md)
+* [Enhanced hygiene practices and strict adherence to cleaning protocols ensure rigorous sanitation and disinfection measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_196.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [enhanced cleaning and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_729.md)
 * [Enhanced cleaning and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2581.md)
 * [sanitizing wipes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_773.md)
+
+## This Technology enables the following mitigations
+
+* [Water and Sanitary System Safety](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1613.md)
 

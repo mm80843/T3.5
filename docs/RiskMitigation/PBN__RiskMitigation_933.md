@@ -2,13 +2,9 @@
 
 # __Proper classification and disinfection of hospital wastes__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Improper disposal of infectious hospital wastes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_669.md)
-
-## Property: has_MitigationBenefit
-
-* [Disease transmission prevention](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_939.md)
+* [Implement rigorous cleaning and disinfection measures, including the use of antimicrobial materials and advanced technologies, to maintain a safe and hygienic environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_2.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Develop waste management strategies, including proper waste segregation and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2940.md)
 * [Implementation of effective disinfection technologies for hospital wastewater treatment.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3010.md)
 * [Regular disinfection and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_324.md)
+
+## Property: has_MitigationBenefit
+
+* [Disease transmission prevention](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_939.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Improper disposal of infectious hospital wastes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_669.md)
 

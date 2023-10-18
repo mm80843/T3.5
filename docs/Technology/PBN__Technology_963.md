@@ -2,12 +2,13 @@
 
 # __traffic management systems__
 
+## Category to which it belongs
+
+* [These resources aim to enhance security, convenience, and efficiency in managing access, spaces, and systems within various environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_206.md)
+
 ## Risks linked to this technology
 
 * [Impact of reduced traffic noise during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1633.md)
-
-## This Technology belongs to this TechSubgroup
-
 
 ## Closest similar item
 
@@ -22,11 +23,14 @@
 * [traffic camera data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3545.md)
 * [urban planning and transportation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_373.md)
 
-## This Technology belongs to this TechGroup
-
-* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
-
 ## This Technology is identified by the following QID
 
 * [Q2516403](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2516403.md)
+
+## This Technology belongs to this TechSubgroup
+
+
+## This Technology belongs to this TechGroup
+
+* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
 

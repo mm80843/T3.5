@@ -2,9 +2,9 @@
 
 # __agricultural workers__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Crash in demand for agricultural commodities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1808.md)
+* [Individuals engaged in various types of work, from employees and office workers to agricultural and hospitality workers.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_379.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [construction workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_197.md)
 * [outdoor workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1098.md)
 * [low-income workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1262.md)
+
+## Risk affecting this stakeholder
+
+* [Crash in demand for agricultural commodities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1808.md)
 

@@ -2,13 +2,9 @@
 
 # __Advanced security measures__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Intrusion and hacking](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_48.md)
-
-## Property: has_MitigationBenefit
-
-* [System protection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_71.md)
+* [Data privacy and security are prioritized through encryption, access controls, consent, and robust cybersecurity measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_335.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Strengthen cybersecurity measures and awareness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2970.md)
 * [Focus on safety and security issues](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_254.md)
 * [Privacy protection measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_528.md)
+
+## Property: has_MitigationBenefit
+
+* [System protection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_71.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Intrusion and hacking](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_48.md)
 

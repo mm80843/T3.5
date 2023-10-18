@@ -2,9 +2,9 @@
 
 # __building information model (bim)__
 
-## This Technology is identified by the following QID
+## Category to which it belongs
 
-* [Q842017](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q842017.md)
+* [Advanced analytics, fact-checking, project management, reliable sources, knowledge extraction, and collaboration ensure accurate information dissemination and effective decision-making.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_192.md)
 
 ## Risks linked to this technology
 
@@ -22,4 +22,8 @@
 * [building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4056.md)
 * [integrated building systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3217.md)
 * [Building design software and modeling tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2323.md)
+
+## This Technology is identified by the following QID
+
+* [Q842017](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q842017.md)
 

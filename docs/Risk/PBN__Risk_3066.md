@@ -2,9 +2,9 @@
 
 # __Inadequate maintenance and operation of HVAC systems and components__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Regular inspection and maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1428.md)
+* [Insufficient ventilation and indoor air pollution pose a risk to air quality and respiratory health, exacerbated by inadequate airflow control, limited natural ventilation, and air recirculation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_128.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Recycling of contaminated air within the HVAC system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3069.md)
 * [High energy consumption of HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_600.md)
 * [Inefficiency in building systems and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_979.md)
+
+## Mitigations of this risk
+
+* [Regular inspection and maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1428.md)
 

@@ -2,9 +2,9 @@
 
 # __areas with limited healthcare access__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Lack of Healthcare Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1881.md)
+* [Those involved in the provision and management of healthcare services, including workers, professionals, facilities, and users.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_355.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [regional health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1.md)
 * [medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_187.md)
 * [healthcare facility](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1254.md)
+
+## Risk affecting this stakeholder
+
+* [Lack of Healthcare Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1881.md)
 

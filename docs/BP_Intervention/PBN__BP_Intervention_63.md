@@ -2,11 +2,11 @@
 
 # __Ensure use of personal protection equipment__
 
-## Property: has_BP_InterventionTitle
-
-Ensure use of personal protection equipment
-
 ## Property: has_BP_InterventionKey
 
 HU4
+
+## Property: has_BP_InterventionTitle
+
+Ensure use of personal protection equipment
 

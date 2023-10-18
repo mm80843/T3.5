@@ -2,9 +2,9 @@
 
 # __Minimizing disease spread__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Restrictions on shared facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_412.md)
+* [The challenge lies in the lack of knowledge, limited consideration, and inherent limitations in representing disease transmission mechanisms, mobility patterns, and heterogeneity in macroscopic epidemiological models.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_97.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Lack of understanding of disease spread and patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3146.md)
 * [Contagious disease spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2027.md)
 * [Contagious diseases propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_153.md)
+
+## Mitigations of this risk
+
+* [Restrictions on shared facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_412.md)
 

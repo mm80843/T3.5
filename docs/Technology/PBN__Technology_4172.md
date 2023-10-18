@@ -2,9 +2,9 @@
 
 # __extra light fixtures__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Additional Lighting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1964.md)
+* [Innovative lighting solutions harnessing ultraviolet technology for optimal germicidal sterilization and energy efficiency, while maximizing natural light.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_235.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [water-efficient fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4354.md)
 * [low-flow fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1773.md)
 * [natural lighting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_424.md)
+
+## This Technology enables the following mitigations
+
+* [Additional Lighting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1964.md)
 

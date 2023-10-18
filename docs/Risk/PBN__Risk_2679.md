@@ -2,9 +2,9 @@
 
 # __Transmission, Detection__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Case-based measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_673.md)
+* [Infectious spread through various modes such as close contact, social gatherings, fomites, bodily fluids, and respiratory droplets.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_123.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Local transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1595.md)
 * [Need for improved detection methods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_637.md)
 * [Transmission, Education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2677.md)
+
+## Mitigations of this risk
+
+* [Case-based measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_673.md)
 

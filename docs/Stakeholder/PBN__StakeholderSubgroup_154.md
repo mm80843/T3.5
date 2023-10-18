@@ -2,9 +2,9 @@
 
 # __Domain Experts__
 
-## Stakeholders in this stakeholder subgroup
+## Category to which it belongs
 
-* [domain experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1539.md)
+* [People living or visiting areas, with specific traits, who travel by various means and possess specialized knowledge.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_254.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Learners](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_17.md)
 * [Workers/Professionals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_47.md)
 * [Governmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_5.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [domain experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1539.md)
 

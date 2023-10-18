@@ -2,13 +2,9 @@
 
 # __Data collection and harmonization__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Limited sample size in observational studies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_814.md)
-
-## Property: has_MitigationBenefit
-
-* [Adequate statistical power](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1109.md)
+* [Promote standardized data collection, ontology-based representation, and enhanced data sharing to improve decision-making processes and data quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_319.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Improve data quality through standardized data collection processes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2322.md)
 * [Continuous collection and processing of individualized data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1427.md)
 * [Implement standardized data collection methods, invest in data integration platforms and tools.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1543.md)
+
+## Property: has_MitigationBenefit
+
+* [Adequate statistical power](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1109.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limited sample size in observational studies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_814.md)
 

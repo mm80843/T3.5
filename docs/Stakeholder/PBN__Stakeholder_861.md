@@ -2,9 +2,9 @@
 
 # __attendees of mass gatherings__
 
-## Risk affecting this stakeholder
+## Category to which it belongs
 
-* [Transmission at mass gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1350.md)
+* [A diverse range of individuals, including citizens, pedestrians, people with disabilities, and those in crowded environments, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_368.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [funeral attendees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_235.md)
 * [public venues](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_942.md)
 * [individuals in crowded](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_663.md)
+
+## Risk affecting this stakeholder
+
+* [Transmission at mass gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1350.md)
 

@@ -2,9 +2,9 @@
 
 # __autoclave__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Autoclaving](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_846.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Automated cleaning systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2767.md)
 * [sealing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4352.md)
 * [automated cleaning tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1321.md)
+
+## This Technology enables the following mitigations
+
+* [Autoclaving](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_846.md)
 

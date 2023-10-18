@@ -2,13 +2,9 @@
 
 # __Green roofs and facades__
 
-## Risks possibly mitigated by this Mitigation
+## Category to which it belongs
 
-* [Urban overheating and heat waves](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_326.md)
-
-## Property: has_MitigationBenefit
-
-* [Temperature reduction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_417.md)
+* [Promote biodiversity and sustainable urban development through the establishment and accessibility of green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_322.md)
 
 ## Closest similar item
 
@@ -22,4 +18,12 @@
 * [Design of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_702.md)
 * [Implement urban greening initiatives to create and enhance green spaces in highly urbanized areas, consider green roofs and vertical gardens](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2075.md)
 * [Incorporating green infrastructure and UGS in urban planning and development, implementing green roof and wall initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2936.md)
+
+## Property: has_MitigationBenefit
+
+* [Temperature reduction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_417.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Urban overheating and heat waves](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_326.md)
 

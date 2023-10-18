@@ -2,9 +2,9 @@
 
 # __Real estate industry uncertainty__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Implementation of virtual house tours](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_678.md)
+* [A list of challenges and uncertainties surrounding the impact and response to various events and crises in different sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_124.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Uncertainty and lack of direction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2808.md)
 * [High uncertainty in estimates and predictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1396.md)
 * [Uncertainty in contractual entitlements](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2847.md)
+
+## Mitigations of this risk
+
+* [Implementation of virtual house tours](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_678.md)
 

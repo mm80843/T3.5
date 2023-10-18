@@ -2,6 +2,23 @@
 
 # __Enforcement measures__
 
+## Category to which it belongs
+
+* [Strong actions taken to ensure compliance or punishment for violating rules, regulations, or laws.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_294.md)
+
+## Closest similar item
+
+* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
+* [enforcement mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_47.md)
+* [Enforcement mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_48.md)
+* [monitoring and enforcement](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_49.md)
+* [enforcement of mitigation measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_50.md)
+* [regular monitoring and enforcement](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_51.md)
+* [compliance measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_52.md)
+* [enforcement personnel](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_53.md)
+* [Enforcement personnel](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_54.md)
+* [enforcement of regulations](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_55.md)
+
 ## This Technology belongs to this TechnologyGroup
 
 * [contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
@@ -84,17 +101,4 @@
 * [keycard swiping](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1724.md)
 * [pressure sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1725.md)
 * [Designated zones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2499.md)
-
-## Closest similar item
-
-* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
-* [enforcement mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_47.md)
-* [Enforcement mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_48.md)
-* [monitoring and enforcement](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_49.md)
-* [enforcement of mitigation measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_50.md)
-* [regular monitoring and enforcement](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_51.md)
-* [compliance measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_52.md)
-* [enforcement personnel](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_53.md)
-* [Enforcement personnel](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_54.md)
-* [enforcement of regulations](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_55.md)
 

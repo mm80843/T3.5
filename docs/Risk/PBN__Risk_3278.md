@@ -2,9 +2,9 @@
 
 # __Increased anxiety/panic__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Non-intrusive audio-visual alerts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1910.md)
+* [The toll of mental health harms, health harming behaviors, and the psychological impact of quarantine, fear, and anxiety has increased, affecting various populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_95.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [COVID-19 travel anxiety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1207.md)
 * [Emotional stress](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3334.md)
 * [Misinterpretation and panic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2611.md)
+
+## Mitigations of this risk
+
+* [Non-intrusive audio-visual alerts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1910.md)
 

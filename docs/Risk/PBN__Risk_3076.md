@@ -2,9 +2,9 @@
 
 # __Risk of loan defaults__
 
-## Mitigations of this risk
+## Category to which it belongs
 
-* [Emergency Loan Guarantees](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1448.md)
+* [Financial vulnerability and instability permeate various sectors and industries, hindering growth, sustainability, and access to resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_114.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [Risk of collapse](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2418.md)
 * [Internal risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1775.md)
 * [Underestimation risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2860.md)
+
+## Mitigations of this risk
+
+* [Emergency Loan Guarantees](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1448.md)
 

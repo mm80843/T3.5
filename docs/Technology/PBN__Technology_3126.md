@@ -2,9 +2,9 @@
 
 # __emails__
 
-## This Technology enables the following mitigations
+## Category to which it belongs
 
-* [Communication and Awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_295.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -18,4 +18,8 @@
 * [targeted messaging](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_893.md)
 * [notifications systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1326.md)
 * [facebook](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4230.md)
+
+## This Technology enables the following mitigations
+
+* [Communication and Awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_295.md)
 
