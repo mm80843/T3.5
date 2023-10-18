@@ -2,8 +2,10 @@
 
 # __Implementation of touchless systems__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
+* [sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
 
 ## Closest similar item
 
@@ -18,16 +20,14 @@
 * [Wearable Devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_161.md)
 * [Wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2019.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Scalable IoT Architecture for Monitoring IEQ Conditions in Public and Private Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_234.md)
 
 ## Property: has_MitigationPrinciple
 
 Reduce the risk of contagion through contact surfaces
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
-* [sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
+* [Scalable IoT Architecture for Monitoring IEQ Conditions in Public and Private Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_234.md)
 

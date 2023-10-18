@@ -2,19 +2,6 @@
 
 # __online platforms__
 
-## Closest similar item
-
-* [online networking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_909.md)
-* [online gaming platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3884.md)
-* [digital platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_640.md)
-* [Digital platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2864.md)
-* [web-based platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1819.md)
-* [Web-based platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2628.md)
-* [collaborative platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1132.md)
-* [online platforms and social media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3363.md)
-* [online social platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1404.md)
-* [web platform](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3390.md)
-
 ## Risks linked to this technology
 
 * [Social Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1059.md)
@@ -39,17 +26,18 @@
 * [Educational and Training Resources](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_39.md)
 * [Healthcare and Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_19.md)
 
-## This Technology enables the following mitigations
+## Closest similar item
 
-* [Social Network](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1730.md)
-* [Cognitive behavioral therapy (CBT), acceptance and commitment-based therapy (ACT), mindfulness-based stress reduction interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_209.md)
-* [Virtual ways of educating the general population and high-risk groups](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_211.md)
-* [Online delivery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2201.md)
-* [Induction process online](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_898.md)
-
-## This Technology is identified by the following QID
-
-* [Q582151](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q582151.md)
+* [online networking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_909.md)
+* [online gaming platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3884.md)
+* [digital platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_640.md)
+* [Digital platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2864.md)
+* [web-based platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1819.md)
+* [Web-based platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2628.md)
+* [collaborative platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1132.md)
+* [online platforms and social media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3363.md)
+* [online social platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1404.md)
+* [web platform](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3390.md)
 
 ## This Technology belongs to this TechGroup
 
@@ -57,4 +45,16 @@
 * [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
 * [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
 * [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
+
+## This Technology is identified by the following QID
+
+* [Q582151](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q582151.md)
+
+## This Technology enables the following mitigations
+
+* [Social Network](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1730.md)
+* [Cognitive behavioral therapy (CBT), acceptance and commitment-based therapy (ACT), mindfulness-based stress reduction interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_209.md)
+* [Virtual ways of educating the general population and high-risk groups](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_211.md)
+* [Online delivery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2201.md)
+* [Induction process online](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_898.md)
 

@@ -19,6 +19,9 @@
 * [healthcare technologies and facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2757.md)
 * [sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3110.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+
 ## Risks that can be mitigated by this stakeholder
 
 * [PVP1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2190.md)
@@ -54,7 +57,4 @@
 * [WWM2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2207.md)
 * [WM3](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2214.md)
 * [WWM3](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2208.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
 

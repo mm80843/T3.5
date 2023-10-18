@@ -2,10 +2,6 @@
 
 # __Speed up testing process__
 
-## Name of the Benefit
-
-Faster sample collection, reduced risk of infection, and freeing up staff for other tasks
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Increased operational efficiency and reduced labor costs](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_101.md)
@@ -17,4 +13,8 @@ Faster sample collection, reduced risk of infection, and freeing up staff for ot
 ## Articles mentionning this Benefit
 
 * [Combating COVID-19—The role of robotics in managing public health and infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_23.md)
+
+## Name of the Benefit
+
+Faster sample collection, reduced risk of infection, and freeing up staff for other tasks
 

@@ -2,9 +2,9 @@
 
 # __Increase data analysis__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2698.md)
+* [data analysis tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_554.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Data Visualization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_916.md)
 * [Data visualization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2405.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Infodemic and the spread of fake news in the COVID-19-era](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_299.md)
+* [Lack of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2698.md)
 
 ## Property: has_MitigationPrinciple
 
 Emphasize proper analysis of limited data to avoid over-confidence and ensure accurate decision-making.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [data analysis tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_554.md)
+* [Infodemic and the spread of fake news in the COVID-19-era](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_299.md)
 

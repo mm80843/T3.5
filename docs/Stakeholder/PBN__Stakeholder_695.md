@@ -19,11 +19,11 @@
 * [worker](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1771.md)
 * [Worker](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1811.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Mental health impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1161.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Social Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_138.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Mental health impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1161.md)
 

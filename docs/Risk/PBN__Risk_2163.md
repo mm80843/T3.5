@@ -2,23 +2,25 @@
 
 # __Lack of accurate risk maps__
 
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Description of the risk
+
+Inaccurate risk mapping can lead to ineffective deployment of resources and control measures, resulting in increased transmission of malaria
+
 ## Property: has_RiskType
 
 * [environmental](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_0.md)
 
-## People affected by this risk
+## Articles mentionning the risk
 
-* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
-* [local communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_85.md)
-* [malaria elimination programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_182.md)
-
-## Name of the risk
-
-Increased number of malaria cases, higher morbidity and mortality rates
-
-## Property: has_RiskISO_Purpose
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+* [Integrating rapid risk mapping and mobile phone call record data for strategic malaria elimination planning](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_76.md)
 
 ## Closest similar item
 
@@ -33,36 +35,34 @@ Increased number of malaria cases, higher morbidity and mortality rates
 * [Risk communication strategy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1160.md)
 * [Risk communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2411.md)
 
-## Description of the risk
+## People affected by this risk
 
-Inaccurate risk mapping can lead to ineffective deployment of resources and control measures, resulting in increased transmission of malaria
-
-## Technologies linked to the risk
-
-* [geographic information systems (gis) technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1682.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Mitigations of this risk
-
-* [Develop and use accurate and timely risk maps for targeted deployment of control measures and resources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2829.md)
-
-## Articles mentionning the risk
-
-* [Integrating rapid risk mapping and mobile phone call record data for strategic malaria elimination planning](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_76.md)
+* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
+* [local communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_85.md)
+* [malaria elimination programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_182.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
 ## Stakeholders who can mitigate this risk
 
 * [government health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_883.md)
 * [malaria elimination programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_182.md)
+
+## Name of the risk
+
+Increased number of malaria cases, higher morbidity and mortality rates
+
+## Mitigations of this risk
+
+* [Develop and use accurate and timely risk maps for targeted deployment of control measures and resources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2829.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+
+## Technologies linked to the risk
+
+* [geographic information systems (gis) technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1682.md)
 

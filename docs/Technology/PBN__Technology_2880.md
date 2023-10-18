@@ -2,6 +2,9 @@
 
 # __Remote inspections__
 
+## This Technology belongs to this TechSubgroup
+
+
 ## Closest similar item
 
 * [remote inspections](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_863.md)
@@ -15,14 +18,11 @@
 * [remote monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_462.md)
 * [sensors for contactless inspections](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_865.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
+* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_17.md)
 
 ## This Technology is identified by the following QID
 
 * [Q1137655](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1137655.md)
-
-## This Technology belongs to this TechGroup
-
-* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_17.md)
 

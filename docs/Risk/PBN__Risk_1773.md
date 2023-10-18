@@ -2,24 +2,25 @@
 
 # __Lack of supply chain visibility__
 
+## Property: has_RiskHealth
+
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Description of the risk
+
+Limited visibility and information sharing across the supply chain, hindering decision-making and response to disruptions
+
 ## Property: has_RiskType
 
 * [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 * [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_3.md)
 
-## People affected by this risk
+## Articles mentionning the risk
 
-* [supply chain managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_986.md)
-* [logistics providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_537.md)
-* [suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_283.md)
-
-## Name of the risk
-
-Poor coordination, delays in response time, inefficiencies in supply chain operations
-
-## Property: has_RiskISO_Purpose
-
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+* [Mapping research in logistics and supply chain management during COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_4.md)
 
 ## Closest similar item
 
@@ -34,9 +35,33 @@ Poor coordination, delays in response time, inefficiencies in supply chain opera
 * [Disruption of global supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2265.md)
 * [Disruption in global supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2909.md)
 
-## Description of the risk
+## People affected by this risk
 
-Limited visibility and information sharing across the supply chain, hindering decision-making and response to disruptions
+* [supply chain managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_986.md)
+* [logistics providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_537.md)
+* [suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_283.md)
+
+## Property: has_RiskISO_Impact
+
+* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_8.md)
+
+## Stakeholders who can mitigate this risk
+
+* [supply chain managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_986.md)
+* [logistics providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_537.md)
+* [suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_283.md)
+
+## Name of the risk
+
+Poor coordination, delays in response time, inefficiencies in supply chain operations
+
+## Mitigations of this risk
+
+* [Implement supply chain visibility technologies, enhance data sharing and collaboration among supply chain stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2345.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
 
 ## Technologies linked to the risk
 
@@ -44,29 +69,4 @@ Limited visibility and information sharing across the supply chain, hindering de
 * [internet of things (iot) devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1135.md)
 * [cloud-based platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1137.md)
 * [rfid technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1136.md)
-
-## Property: has_RiskHealth
-
-
-## Mitigations of this risk
-
-* [Implement supply chain visibility technologies, enhance data sharing and collaboration among supply chain stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2345.md)
-
-## Articles mentionning the risk
-
-* [Mapping research in logistics and supply chain management during COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_4.md)
-
-## Property: has_RiskISO_Impact
-
-* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_8.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Stakeholders who can mitigate this risk
-
-* [supply chain managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_986.md)
-* [logistics providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_537.md)
-* [suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_283.md)
 

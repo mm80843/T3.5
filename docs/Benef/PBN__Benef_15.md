@@ -2,10 +2,6 @@
 
 # __Microscopic representation of individual movement__
 
-## Name of the Benefit
-
-Provides detailed information on the impact of social distancing measures at a building level
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Supports evidence-based decision-making and targeted interventions in building design and management](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_15.md)
@@ -18,4 +14,8 @@ Provides detailed information on the impact of social distancing measures at a b
 ## Articles mentionning this Benefit
 
 * [EXPOSED: An occupant exposure model for confined spaces to retrofit crowd models during a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_3.md)
+
+## Name of the Benefit
+
+Provides detailed information on the impact of social distancing measures at a building level
 

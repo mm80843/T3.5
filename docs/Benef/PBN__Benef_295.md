@@ -2,10 +2,6 @@
 
 # __Improved project management__
 
-## Name of the Benefit
-
-Use of digital techniques and information-based management methods streamline construction processes, improve efficiency, and reduce costs.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved project management leads to better construction outcomes, increased profitability, and enhanced asset value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_313.md)
@@ -17,4 +13,8 @@ Use of digital techniques and information-based management methods streamline co
 ## Articles mentionning this Benefit
 
 * [Revisiting the built environment: 10 potential development changes and paradigm shifts due to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_59.md)
+
+## Name of the Benefit
+
+Use of digital techniques and information-based management methods streamline construction processes, improve efficiency, and reduce costs.
 

@@ -2,9 +2,9 @@
 
 # __Controlling Access Points__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Spread of Virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2518.md)
+* [temperature screening](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_25.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Restricting inter-city connections](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1118.md)
 * [Open data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_884.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Analysis of COVID-19 Concerns Raised by the Construction Workforce and Development of Mitigation Practices](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_82.md)
+* [Spread of Virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2518.md)
 
 ## Property: has_MitigationPrinciple
 
 Control access points to the workplace through measures such as temperature screening, screening questions, and maintaining site registers.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [temperature screening](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_25.md)
+* [Analysis of COVID-19 Concerns Raised by the Construction Workforce and Development of Mitigation Practices](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_82.md)
 

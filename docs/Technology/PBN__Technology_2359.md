@@ -2,6 +2,9 @@
 
 # __Improved surveillance infrastructure__
 
+## This Technology belongs to this TechSubgroup
+
+
 ## Closest similar item
 
 * [improved surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1686.md)
@@ -15,14 +18,11 @@
 * [surveillance system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3926.md)
 * [surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1263.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 
 ## This Technology is identified by the following QID
 
 * [Q2161551](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2161551.md)
-
-## This Technology belongs to this TechGroup
-
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 

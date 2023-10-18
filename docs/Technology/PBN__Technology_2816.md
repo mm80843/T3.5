@@ -2,6 +2,10 @@
 
 # __Alcohols__
 
+## This Technology belongs to this TechSubgroup
+
+* [Disinfection and Cleaning Techniques](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_15.md)
+
 ## Closest similar item
 
 * [Alcohols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2816.md)
@@ -15,15 +19,11 @@
 * [use of bleach solutions or alcohol-based cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_500.md)
 * [medications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3886.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Disinfection and Cleaning Techniques](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_15.md)
+* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
 
 ## This Technology is identified by the following QID
 
 * [Q156](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q156.md)
-
-## This Technology belongs to this TechGroup
-
-* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
 

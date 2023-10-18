@@ -2,9 +2,8 @@
 
 # __Strong institutions__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of peace and justice](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3266.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Decentralized Finance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_434.md)
 * [Government Coordination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2184.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_58.md)
+* [Lack of peace and justice](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3266.md)
 
 ## Property: has_MitigationPrinciple
 
 Strengthen governance and institutions for sustainable development
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_58.md)
 

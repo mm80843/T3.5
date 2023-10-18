@@ -2,10 +2,6 @@
 
 # __Sustainable funding__
 
-## Name of the Benefit
-
-Continued financial support for PCAs through domestic budgets to ensure effective conservation
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Continued funding and stability for PCAs, conservation of biodiversity and ecosystems](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_149.md)
@@ -20,4 +16,8 @@ Continued financial support for PCAs through domestic budgets to ensure effectiv
 ## Articles mentionning this Benefit
 
 * [Building sustainable finance for resilient protected and conserved areas: lessons from COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_33.md)
+
+## Name of the Benefit
+
+Continued financial support for PCAs through domestic budgets to ensure effective conservation
 

@@ -2,23 +2,25 @@
 
 # __Environmental degradation__
 
+## Property: has_RiskHealth
+
+* [environmental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_9.md)
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Description of the risk
+
+Environmental degradation, including climate change and biodiversity loss, has contributed to the emergence of zoonotic diseases and reduced ecosystem functioning
+
 ## Property: has_RiskType
 
 * [environmental](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_0.md)
 
-## People affected by this risk
+## Articles mentionning the risk
 
-* [humans](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_17.md)
-* [animals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_18.md)
-* [ecosystems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_19.md)
-
-## Name of the risk
-
-Loss of biodiversity, increased vulnerability to infectious diseases, and ecosystem collapse
-
-## Property: has_RiskISO_Purpose
-
-* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_6.md)
+* [Building up an ecologically sustainable and socially desirable post-COVID-19 future](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_5.md)
 
 ## Closest similar item
 
@@ -33,20 +35,24 @@ Loss of biodiversity, increased vulnerability to infectious diseases, and ecosys
 * [Poor environmental quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2153.md)
 * [Contaminated Environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3286.md)
 
-## Description of the risk
+## People affected by this risk
 
-Environmental degradation, including climate change and biodiversity loss, has contributed to the emergence of zoonotic diseases and reduced ecosystem functioning
+* [humans](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_17.md)
+* [animals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_18.md)
+* [ecosystems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_19.md)
 
-## Technologies linked to the risk
+## Property: has_RiskISO_Impact
 
-* [sustainable agriculture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_535.md)
-* [renewable energy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_534.md)
-* [conservation strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_536.md)
-* [ecosystem restoration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_537.md)
+* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_4.md)
 
-## Property: has_RiskHealth
+## Stakeholders who can mitigate this risk
 
-* [environmental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_9.md)
+* [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
+* [conservation organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_428.md)
+
+## Name of the risk
+
+Loss of biodiversity, increased vulnerability to infectious diseases, and ecosystem collapse
 
 ## Mitigations of this risk
 
@@ -54,20 +60,14 @@ Environmental degradation, including climate change and biodiversity loss, has c
 * [Sustainable farming](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_583.md)
 * [Strengthen protection of environment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1823.md)
 
-## Articles mentionning the risk
+## Property: has_RiskISO_Purpose
 
-* [Building up an ecologically sustainable and socially desirable post-COVID-19 future](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_5.md)
+* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_6.md)
 
-## Property: has_RiskISO_Impact
+## Technologies linked to the risk
 
-* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_4.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Stakeholders who can mitigate this risk
-
-* [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
-* [conservation organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_428.md)
+* [sustainable agriculture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_535.md)
+* [renewable energy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_534.md)
+* [conservation strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_536.md)
+* [ecosystem restoration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_537.md)
 

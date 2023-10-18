@@ -2,9 +2,10 @@
 
 # __Preparation and maintenance of specific green areas__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Neglected or poorly maintained green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3387.md)
+* [landscaping materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4325.md)
+* [park/garden maintenance equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4326.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Green building design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2415.md)
 * [Green and Sustainable Design Practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_189.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Access and Use of Green Areas during the COVID-19 Pandemic: Green Infrastructure Management in the “New Normal”](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_275.md)
+* [Neglected or poorly maintained green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3387.md)
 
 ## Property: has_MitigationPrinciple
 
 Invest in the preparation, design, and maintenance of specific green areas, such as parks, agricultural lands, and gardens, to ensure their attractiveness, functionality, and usability
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [landscaping materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4325.md)
-* [park/garden maintenance equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4326.md)
+* [Access and Use of Green Areas during the COVID-19 Pandemic: Green Infrastructure Management in the “New Normal”](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_275.md)
 

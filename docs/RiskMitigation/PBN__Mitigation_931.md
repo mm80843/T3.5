@@ -2,9 +2,9 @@
 
 # __Social Cohesion__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Impulsiveness and aggressiveness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2815.md)
+* [access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3551.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Social gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1386.md)
 * [Trust and cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1796.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Green spaces, especially forest, linked to lower SARS-CoV-2 infection rates: A one-year nationwide study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_130.md)
+* [Impulsiveness and aggressiveness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2815.md)
 
 ## Property: has_MitigationPrinciple
 
 Living near green spaces can promote social cohesion and connections, reducing impulsiveness and aggressiveness.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3551.md)
+* [Green spaces, especially forest, linked to lower SARS-CoV-2 infection rates: A one-year nationwide study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_130.md)
 

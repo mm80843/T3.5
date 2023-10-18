@@ -2,6 +2,14 @@
 
 # __sanitation infrastructure__
 
+## Risks linked to this technology
+
+* [Inadequate Sanitation and Hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1444.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Sanitation and Waste Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_121.md)
+
 ## Closest similar item
 
 * [sanitation infrastructure and services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2906.md)
@@ -15,23 +23,15 @@
 * [sanitation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_30.md)
 * [sanitation protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1497.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Inadequate Sanitation and Hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1444.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Sanitation and Waste Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_121.md)
-
-## This Technology enables the following mitigations
-
-* [Environmental hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1115.md)
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 
 ## This Technology is identified by the following QID
 
 * [Q949149](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q949149.md)
 
-## This Technology belongs to this TechGroup
+## This Technology enables the following mitigations
 
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
+* [Environmental hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1115.md)
 

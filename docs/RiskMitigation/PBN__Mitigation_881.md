@@ -2,9 +2,10 @@
 
 # __Facemasks__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Airborne transmission of diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2787.md)
+* [surgical masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3503.md)
+* [n95 respirators](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3504.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Face masking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1384.md)
 * [Use of face masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_938.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Coronavirus disease 2019: The harms of exaggerated information and non‐evidence‐based measures](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_101.md)
+* [Airborne transmission of diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2787.md)
 
 ## Property: has_MitigationPrinciple
 
 Wearing facemasks, such as surgical masks or N95 respirators, to reduce the risk of airborne transmission of diseases through respiratory droplets.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [surgical masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3503.md)
-* [n95 respirators](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3504.md)
+* [Coronavirus disease 2019: The harms of exaggerated information and non‐evidence‐based measures](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_101.md)
 

@@ -2,9 +2,10 @@
 
 # __Tracking logistics in healthcare__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Logistics inefficiency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3420.md)
+* [iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
+* [rfid technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1136.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Improved supply chain management for medical parts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1890.md)
 * [Management of Deliveries](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_302.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
+* [Logistics inefficiency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3420.md)
 
 ## Property: has_MitigationPrinciple
 
 Tracking and managing key logistical items such as protective clothing, masks, gloves, and medicine to ensure adequate supplies for healthcare facilities during a crisis.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
-* [rfid technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1136.md)
+* [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
 

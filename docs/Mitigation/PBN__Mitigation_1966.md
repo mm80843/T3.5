@@ -2,9 +2,9 @@
 
 # __Smart Rotary Car Parking__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Cost](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1796.md)
+* [smart parking technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4174.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Smart CCTV cameras](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1666.md)
 * [Smart city solutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1907.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Building Transformation for Precautionary Measures against COVID-19 Pandemic: Case of Off-Street Car Parking of Campuses](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_224.md)
+* [Cost](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1796.md)
 
 ## Property: has_MitigationPrinciple
 
 Implementing smart rotary car parking systems to save space and increase efficiency in traditional car parking buildings.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [smart parking technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4174.md)
+* [Building Transformation for Precautionary Measures against COVID-19 Pandemic: Case of Off-Street Car Parking of Campuses](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_224.md)
 

@@ -2,9 +2,11 @@
 
 # __Facility Management__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Increased cost and workload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2710.md)
+* [internet of things (iot)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1710.md)
+* [wearable sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2949.md)
+* [automation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1451.md)
 
 ## Closest similar item
 
@@ -19,17 +21,15 @@
 * [Sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2151.md)
 * [Construction of specialized hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_109.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Overcoming the Impact of COVID-19 Using Integrated Project Delivery Model](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_72.md)
+* [Increased cost and workload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2710.md)
 
 ## Property: has_MitigationPrinciple
 
 Optimize the functionality and cost-effectiveness of building maintenance and health and safety services
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [internet of things (iot)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1710.md)
-* [wearable sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2949.md)
-* [automation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1451.md)
+* [Overcoming the Impact of COVID-19 Using Integrated Project Delivery Model](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_72.md)
 

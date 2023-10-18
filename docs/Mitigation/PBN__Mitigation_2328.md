@@ -2,7 +2,7 @@
 
 # __Removal of visible contaminants__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
 
 ## Closest similar item
@@ -18,14 +18,14 @@
 * [Use of Non-Toxic Cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1789.md)
 * [Self-Sanitizing Surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_196.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [SARS-CoV-2 RNA detection of hospital isolation wards hygiene monitoring during the Coronavirus Disease 2019 outbreak in a Chinese hospital](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_55.md)
 
 ## Property: has_MitigationPrinciple
 
 Complete removal of visible contaminants on surfaces of treatment facilities and equipment before disinfection
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [SARS-CoV-2 RNA detection of hospital isolation wards hygiene monitoring during the Coronavirus Disease 2019 outbreak in a Chinese hospital](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_55.md)
 

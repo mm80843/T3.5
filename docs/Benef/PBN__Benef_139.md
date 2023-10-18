@@ -2,10 +2,6 @@
 
 # __Feasible solution for mega-tall buildings__
 
-## Name of the Benefit
-
-Simulates people flow in mega-tall buildings where real measurements are difficult
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Enables accurate occupancy estimation in mega-tall buildings, resulting in better building design and operation decisions](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_138.md)
@@ -17,4 +13,8 @@ Simulates people flow in mega-tall buildings where real measurements are difficu
 ## Articles mentionning this Benefit
 
 * [Building occupancy estimation with people flow modeling in AnyLogic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_29.md)
+
+## Name of the Benefit
+
+Simulates people flow in mega-tall buildings where real measurements are difficult
 

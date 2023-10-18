@@ -2,9 +2,9 @@
 
 # __Regular updates on COVID-19__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Poor knowledge and attitudes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3458.md)
+* [information communication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4506.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Community Updates](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_388.md)
 * [Maintenance of web apps during outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2409.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Knowledge, attitudes, and practices of Indonesian residents regarding COVID-19: A national cross-sectional survey](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_176.md)
+* [Poor knowledge and attitudes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3458.md)
 
 ## Property: has_MitigationPrinciple
 
 Providing regular updates and information on COVID-19 to improve knowledge and attitudes towards the disease
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [information communication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4506.md)
+* [Knowledge, attitudes, and practices of Indonesian residents regarding COVID-19: A national cross-sectional survey](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_176.md)
 

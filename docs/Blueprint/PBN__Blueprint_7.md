@@ -2,51 +2,17 @@
 
 # __Access control, limitation, or lockdown__
 
-## Title of the blueprint
+## GBN Phase of the blueprint
 
-PBN:BP_8
-
-## Value proposition of the blueprint
-
-By imposing stricter social-distancing rules, individuals are less likely to be infected, and even more so those who are particularly vulnerable. The ability to send employees home will also ensure business continuity.
-
-## Demonstration of the blueprint
-
-Access limitation was experienced during the COVID-19 pandemic
-
-## Problem of the blueprint
-
-The measure limits the contact between individuals and avoids overcrowding if limitations are localised. 
-
-## Context of the blueprint
-
-As mentioned above, the context varies depending on the severity of the actual pandemic situation, as different interpretations and levels of action may be applied. It has been shown that during the largest outbreaks, most non-essential activities were carried out from home, resulting in lower transmission rates.
-
-## Interventions of the blueprint
-
-* [Occupancy control (eg separating at/risk contaminated population)](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_1.md)
-* [Optimize users flows to prevent contamination](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_14.md)
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_15.md)
+Design & Operational
 
 ## Mode of transmission covered by the blueprint
 
 Airborne & Respiratory & Direct Contact
 
-## Type of the blueprint
+## Reason of the blueprint
 
-Technical & Behavioural
-
-## Scale of the of the blueprint
-
-Building
-
-## Type of deployment of the blueprint
-
-Temporary
-
-## GBN Phase of the blueprint
-
-Design & Operational
+Controlling access is one of the most important points in limiting the spread of a virus limiting the number of human interactions.
 
 ## Capabilities of the blueprint
 
@@ -55,14 +21,6 @@ Thanks to technology and the DT, the possibilities for controlling access and th
 •	 sensors to monitor occupancy
 •	 teleworking 
 •	 appointment scheduling system
-
-## Reason of the blueprint
-
-Controlling access is one of the most important points in limiting the spread of a virus limiting the number of human interactions.
-
-## Description of the blueprint
-
-One of the most drastic measures to prevent the spread of COVID -19 during the spike periods was to restrict access to certain buildings or prevent it altogether. During the peak of the lockdowns, many employers closed their buildings and asked their employees to work from home if possible. With the partial normalisation of the situation (decline in case numbers, vaccination coverage and milder variants), these restrictions became less severe and targeted specific groups (vulnerable or symptomatic individuals), types of buildings (hospitals and prisons) or specific spaces within buildings (non-essential, high-visibility areas). These restrictions have been imposed at national, regional and organisational levels. In addition, this measure also provides for restrictions based on occupancy density.
 
 ## Restrictions of the blueprint
 
@@ -76,6 +34,40 @@ Various adverse cost are linked to this measure:
 •	 lower levels of work morale due to the introduction of remote working
 •	 increased surveillance could lead to social consequences
 
+## Interventions of the blueprint
+
+* [Occupancy control (eg separating at/risk contaminated population)](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_1.md)
+* [Optimize users flows to prevent contamination](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_14.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_15.md)
+
+## Type of the blueprint
+
+Technical & Behavioural
+
+## Demonstration of the blueprint
+
+Access limitation was experienced during the COVID-19 pandemic
+
+## Context of the blueprint
+
+As mentioned above, the context varies depending on the severity of the actual pandemic situation, as different interpretations and levels of action may be applied. It has been shown that during the largest outbreaks, most non-essential activities were carried out from home, resulting in lower transmission rates.
+
+## Description of the blueprint
+
+One of the most drastic measures to prevent the spread of COVID -19 during the spike periods was to restrict access to certain buildings or prevent it altogether. During the peak of the lockdowns, many employers closed their buildings and asked their employees to work from home if possible. With the partial normalisation of the situation (decline in case numbers, vaccination coverage and milder variants), these restrictions became less severe and targeted specific groups (vulnerable or symptomatic individuals), types of buildings (hospitals and prisons) or specific spaces within buildings (non-essential, high-visibility areas). These restrictions have been imposed at national, regional and organisational levels. In addition, this measure also provides for restrictions based on occupancy density.
+
+## Value proposition of the blueprint
+
+By imposing stricter social-distancing rules, individuals are less likely to be infected, and even more so those who are particularly vulnerable. The ability to send employees home will also ensure business continuity.
+
+## Scale of the of the blueprint
+
+Building
+
+## Problem of the blueprint
+
+The measure limits the contact between individuals and avoids overcrowding if limitations are localised. 
+
 ## Enablers of the blueprint
 
 * [5G](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_0.md)
@@ -86,4 +78,12 @@ Various adverse cost are linked to this measure:
 * [Robots, Drones & Automated Vehicules](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_13.md)
 * [Automation](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_16.md)
 * [SmartPhones](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_19.md)
+
+## Title of the blueprint
+
+PBN:BP_8
+
+## Type of deployment of the blueprint
+
+Temporary
 

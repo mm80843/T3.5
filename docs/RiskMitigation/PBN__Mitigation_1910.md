@@ -2,9 +2,8 @@
 
 # __Non-intrusive audio-visual alerts__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Increased anxiety/panic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3278.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Early detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_98.md)
 * [IoT buttons for alerts and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1181.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Towards the sustainable development of smart cities through mass video surveillance: A response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_117.md)
+* [Increased anxiety/panic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3278.md)
 
 ## Property: has_MitigationPrinciple
 
 Generate non-intrusive alerts to warn the crowd about social distancing violations without causing unnecessary anxiety or panic.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Towards the sustainable development of smart cities through mass video surveillance: A response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_117.md)
 

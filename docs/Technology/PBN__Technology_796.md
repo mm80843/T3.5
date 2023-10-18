@@ -2,6 +2,14 @@
 
 # __rapid testing technologies__
 
+## Risks linked to this technology
+
+* [Insufficient outbreak investigation and response](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1514.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Touchless and Remote Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_53.md)
+
 ## Closest similar item
 
 * [rapid testing technology (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4520.md)
@@ -15,19 +23,11 @@
 * [testing and diagnostic technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1.md)
 * [diagnostic testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1309.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Insufficient outbreak investigation and response](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1514.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Touchless and Remote Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_53.md)
+* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
 
 ## This Technology is identified by the following QID
 
 * [Q2115486](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2115486.md)
-
-## This Technology belongs to this TechGroup
-
-* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
 

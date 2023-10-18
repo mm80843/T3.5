@@ -2,7 +2,7 @@
 
 # __Data sharing mechanisms__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
 
 ## Closest similar item
@@ -18,14 +18,14 @@
 * [Incremental gains in data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_573.md)
 * [Secure and transparent data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1881.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The COVID-19 pandemic: Considerations for the waste and wastewater services sector](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_229.md)
 
 ## Property: has_MitigationPrinciple
 
 Establishing data sharing mechanisms between health authorities and waste services sector to facilitate coordination and privacy protection
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [The COVID-19 pandemic: Considerations for the waste and wastewater services sector](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_229.md)
 

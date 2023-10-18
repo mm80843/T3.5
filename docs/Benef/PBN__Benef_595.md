@@ -2,10 +2,6 @@
 
 # __Susceptibility__
 
-## Name of the Benefit
-
-Identification of risk factors for infection
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Asset value increase from improved risk assessment](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_646.md)
@@ -17,4 +13,8 @@ Identification of risk factors for infection
 ## Articles mentionning this Benefit
 
 * [Current knowledge of COVID-19: Advances, challenges and future perspectives](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_118.md)
+
+## Name of the Benefit
+
+Identification of risk factors for infection
 

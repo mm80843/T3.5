@@ -2,10 +2,6 @@
 
 # __Improved coordination__
 
-## Name of the Benefit
-
-Multi-scalar governance allows for improved coordination and cooperation in sustainable energy transitions.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investing in multi-scalar governance promotes improved coordination and cooperation in sustainable energy transitions, leading to more effective policies and actions.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_68.md)
@@ -18,4 +14,8 @@ Multi-scalar governance allows for improved coordination and cooperation in sust
 ## Articles mentionning this Benefit
 
 * [Covid-19 and the politics of sustainable energy transitions](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_14.md)
+
+## Name of the Benefit
+
+Multi-scalar governance allows for improved coordination and cooperation in sustainable energy transitions.
 

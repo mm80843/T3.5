@@ -2,9 +2,9 @@
 
 # __Adaptation to remote work technologies__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Workplace transformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3424.md)
+* [remote work technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_286.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Remote work and online education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1088.md)
 * [Implementing remote working](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1685.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
+* [Workplace transformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3424.md)
 
 ## Property: has_MitigationPrinciple
 
 Adapting to the trend of remote work by enabling and promoting technologies that facilitate efficient remote collaboration and reduce the need for office workers to be physically present in the city.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [remote work technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_286.md)
+* [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
 

@@ -2,10 +2,9 @@
 
 # __Big data analytics__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1097.md)
-* [Risk of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2469.md)
+* [big data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_276.md)
 
 ## Closest similar item
 
@@ -20,16 +19,17 @@
 * [Collaboration with data providers and experts from diverse domains, continuous expansion and updates of the KG](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3210.md)
 * [Artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2218.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The role of contemporary digital tools and technologies in COVID19 crisis: An exploratory analysis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_226.md)
-* [Learning from the COVID-19 pandemic in governing smart cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_177.md)
+* [Privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1097.md)
+* [Risk of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2469.md)
 
 ## Property: has_MitigationPrinciple
 
 Use large volumes of data to better manage and respond to the COVID-19 pandemic, enabling data-driven decision-making for prevention and control measures.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [big data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_276.md)
+* [The role of contemporary digital tools and technologies in COVID19 crisis: An exploratory analysis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_226.md)
+* [Learning from the COVID-19 pandemic in governing smart cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_177.md)
 

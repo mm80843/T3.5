@@ -2,6 +2,9 @@
 
 # __Safety protocols__
 
+## This Technology belongs to this TechSubgroup
+
+
 ## Closest similar item
 
 * [Safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2178.md)
@@ -15,15 +18,12 @@
 * [safety barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1880.md)
 * [Safety barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2675.md)
 
-## This Technology belongs to this TechSubgroup
-
-
-## This Technology is identified by the following QID
-
-* [Q70348564](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q70348564.md)
-
 ## This Technology belongs to this TechGroup
 
 * [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 * [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
+
+## This Technology is identified by the following QID
+
+* [Q70348564](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q70348564.md)
 

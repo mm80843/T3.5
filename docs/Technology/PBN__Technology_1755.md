@@ -2,6 +2,14 @@
 
 # __separate wastewater system in infected areas__
 
+## Risks linked to this technology
+
+* [WWM1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2206.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Sanitation and Waste Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_121.md)
+
 ## Closest similar item
 
 * [wastewater treatment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3987.md)
@@ -15,19 +23,11 @@
 * [Sanitation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2406.md)
 * [investments in water and sanitation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3286.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [WWM1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2206.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Sanitation and Waste Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_121.md)
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 
 ## This Technology is identified by the following QID
 
 * [Q20127660](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q20127660.md)
-
-## This Technology belongs to this TechGroup
-
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 

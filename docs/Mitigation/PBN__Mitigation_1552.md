@@ -2,9 +2,9 @@
 
 # __Contactless payment__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Spread of virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2684.md)
+* [mobile payment technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3916.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_250.md)
 * [Contact Tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1377.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Effects to Construction Project Management Impacted Circular Economic of Covid-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_134.md)
+* [Spread of virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2684.md)
 
 ## Property: has_MitigationPrinciple
 
 Minimize hand-to-hand contact during financial transactions
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [mobile payment technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3916.md)
+* [Effects to Construction Project Management Impacted Circular Economic of Covid-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_134.md)
 

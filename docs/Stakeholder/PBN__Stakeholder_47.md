@@ -19,6 +19,58 @@
 * [government legislation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2747.md)
 * [open government mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2748.md)
 
+## Risk affecting this stakeholder
+
+* [Supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_10.md)
+* [Inadequate governance and leadership](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1344.md)
+* [Insufficient testing data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1308.md)
+* [Image Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_87.md)
+* [Lack of comprehensive pandemic preparedness and response planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1026.md)
+* [Lack of research and development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1312.md)
+* [Insufficient healthcare infrastructure and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1166.md)
+* [Delayed infectious disease reporting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1240.md)
+* [Disinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1272.md)
+* [High healthcare costs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2042.md)
+* [Data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1752.md)
+* [Risk of rebound and resurgence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1310.md)
+* [Sickness benefit transfers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2043.md)
+* [Data overload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2088.md)
+* [Cybersecurity risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2087.md)
+* [Declining yields on treasury instruments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1978.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Government and Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_8.md)
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Economic recovery](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_66.md)
+* [Early detection and response](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_218.md)
+* [Peace, justice, and strong institutions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_294.md)
+* [Enhanced risk management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_303.md)
+* [Priority access to essential goods](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_304.md)
+* [Flexibility in supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_306.md)
+* [Improved resilience to supply shocks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_307.md)
+* [Increased substitution between suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_308.md)
+* [Flexible responses to disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_309.md)
+* [Improved information systems and risk management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_310.md)
+* [Increased competition and diversification](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_311.md)
+* [Enhanced risk management and cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_312.md)
+* [Efficient resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_497.md)
+* [Enhanced data availability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_514.md)
+* [Enhanced accuracy of predictive models](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_515.md)
+* [Confidentiality of personal health information](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_516.md)
+* [Improved coordination and response](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_778.md)
+* [Early detection of Covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1018.md)
+* [Enhanced credibility and reputation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1020.md)
+* [Timely shutdown and reopening of specific areas](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1021.md)
+* [Knowledge sharing and research development](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1022.md)
+* [Transparency in donation process](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1052.md)
+* [Rethinking social and economic models](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1064.md)
+* [Prediction of infection rates](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1090.md)
+* [Prevention of economic shrinkage](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1401.md)
+* [Improved strategic management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1402.md)
+
 ## Risks that can be mitigated by this stakeholder
 
 * [Spread of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_642.md)
@@ -191,56 +243,4 @@
 * [Loss of monitoring and research activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2175.md)
 * [Insufficient distance between people](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2250.md)
 * [Similar stability to SARS-CoV-1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2274.md)
-
-## Risk affecting this stakeholder
-
-* [Supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_10.md)
-* [Inadequate governance and leadership](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1344.md)
-* [Insufficient testing data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1308.md)
-* [Image Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_87.md)
-* [Lack of comprehensive pandemic preparedness and response planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1026.md)
-* [Lack of research and development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1312.md)
-* [Insufficient healthcare infrastructure and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1166.md)
-* [Delayed infectious disease reporting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1240.md)
-* [Disinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1272.md)
-* [High healthcare costs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2042.md)
-* [Data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1752.md)
-* [Risk of rebound and resurgence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1310.md)
-* [Sickness benefit transfers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2043.md)
-* [Data overload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2088.md)
-* [Cybersecurity risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2087.md)
-* [Declining yields on treasury instruments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1978.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Government and Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_8.md)
-
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Economic recovery](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_66.md)
-* [Early detection and response](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_218.md)
-* [Peace, justice, and strong institutions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_294.md)
-* [Enhanced risk management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_303.md)
-* [Priority access to essential goods](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_304.md)
-* [Flexibility in supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_306.md)
-* [Improved resilience to supply shocks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_307.md)
-* [Increased substitution between suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_308.md)
-* [Flexible responses to disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_309.md)
-* [Improved information systems and risk management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_310.md)
-* [Increased competition and diversification](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_311.md)
-* [Enhanced risk management and cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_312.md)
-* [Efficient resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_497.md)
-* [Enhanced data availability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_514.md)
-* [Enhanced accuracy of predictive models](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_515.md)
-* [Confidentiality of personal health information](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_516.md)
-* [Improved coordination and response](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_778.md)
-* [Early detection of Covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1018.md)
-* [Enhanced credibility and reputation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1020.md)
-* [Timely shutdown and reopening of specific areas](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1021.md)
-* [Knowledge sharing and research development](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1022.md)
-* [Transparency in donation process](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1052.md)
-* [Rethinking social and economic models](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1064.md)
-* [Prediction of infection rates](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1090.md)
-* [Prevention of economic shrinkage](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1401.md)
-* [Improved strategic management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1402.md)
 

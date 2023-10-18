@@ -2,10 +2,11 @@
 
 # __Humidity control__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Inappropriate humidity levels in indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3063.md)
-* [Controlling humidity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2546.md)
+* [hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_185.md)
+* [humidifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_925.md)
+* [humidifier](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3191.md)
 
 ## Closest similar item
 
@@ -20,18 +21,17 @@
 * [Climate control in indoor environments](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1274.md)
 * [Outdoor Air Quality Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_715.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Ventilation use in nonmedical settings during COVID-19: Cleaning protocol, maintenance, and recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_104.md)
-* [Climate and the spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_145.md)
+* [Inappropriate humidity levels in indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3063.md)
+* [Controlling humidity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2546.md)
 
 ## Property: has_MitigationPrinciple
 
 Controlling the humidity levels in indoor spaces to reduce the survival and transmission of the virus
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_185.md)
-* [humidifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_925.md)
-* [humidifier](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3191.md)
+* [Ventilation use in nonmedical settings during COVID-19: Cleaning protocol, maintenance, and recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_104.md)
+* [Climate and the spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_145.md)
 

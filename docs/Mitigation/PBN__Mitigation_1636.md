@@ -2,9 +2,10 @@
 
 # __Reimagining water infrastructure design__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Outdated assumptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3182.md)
+* [climate change adaptation strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3966.md)
+* [digitalisation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3967.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Enhancing citizen confidence in water services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1638.md)
 * [Improvement of infrastructure and housing design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_96.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [When the fourth water and digital revolution encountered COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_207.md)
+* [Outdated assumptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3182.md)
 
 ## Property: has_MitigationPrinciple
 
 Addresses the impacts of climate change on the water cycle and develops new approaches for water management
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [climate change adaptation strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3966.md)
-* [digitalisation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3967.md)
+* [When the fourth water and digital revolution encountered COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_207.md)
 

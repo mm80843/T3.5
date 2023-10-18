@@ -2,9 +2,10 @@
 
 # __Implementing physical distancing procedures__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Close contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2507.md)
+* [floor markings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_360.md)
+* [barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_833.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Implement physical distancing measures, improve ventilation and air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3684.md)
 * [Implement physical distancing measures, modify layout to allow for more space between individuals, and limit occupancy in common areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2880.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Identifying Actions to Control and Mitigate the Effects of the COVID-19 Pandemic on Construction Organizations: Preliminary Findings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_220.md)
+* [Close contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2507.md)
 
 ## Property: has_MitigationPrinciple
 
 Ensuring individuals maintain a safe distance from each other to reduce the risk of transmission
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [floor markings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_360.md)
-* [barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_833.md)
+* [Identifying Actions to Control and Mitigate the Effects of the COVID-19 Pandemic on Construction Organizations: Preliminary Findings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_220.md)
 

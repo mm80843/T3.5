@@ -2,9 +2,9 @@
 
 # __Increased sanitation monitoring__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Hygiene maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3425.md)
+* [sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3150.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Improvement of Sanitary Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_528.md)
 * [Separate sanitation area](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1156.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
+* [Hygiene maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3425.md)
 
 ## Property: has_MitigationPrinciple
 
 Monitoring and ensuring the accomplishment of increased sanitation measures through sensor technology to maintain hygiene standards in public spaces.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3150.md)
+* [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
 

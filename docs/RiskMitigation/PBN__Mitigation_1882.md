@@ -2,8 +2,9 @@
 
 # __Healthcare instrument tracking__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_211.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Real-time Health Data Capture](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1928.md)
 * [Smart tracking of infected persons](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1175.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Blockchain technology and its applications to combat COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_219.md)
 
 ## Property: has_MitigationPrinciple
 
 Blockchain technology can track the movement of healthcare instruments, ensuring safe and secure transfers between locations.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_211.md)
+* [Blockchain technology and its applications to combat COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_219.md)
 

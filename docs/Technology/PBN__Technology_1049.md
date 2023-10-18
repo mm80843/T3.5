@@ -2,6 +2,14 @@
 
 # __utilization of available infrastructure__
 
+## Risks linked to this technology
+
+* [Limited space for healthcare operations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1697.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Infrastructure and Urban Planning](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_86.md)
+
 ## Closest similar item
 
 * [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2310.md)
@@ -15,19 +23,11 @@
 * [network infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2316.md)
 * [technology infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3891.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Limited space for healthcare operations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1697.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Infrastructure and Urban Planning](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_86.md)
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 
 ## This Technology is identified by the following QID
 
 * [Q121359](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q121359.md)
-
-## This Technology belongs to this TechGroup
-
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 

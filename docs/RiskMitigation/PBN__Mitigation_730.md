@@ -2,9 +2,9 @@
 
 # __Implement UV germicidal irradiation__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Shielding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2707.md)
+* [ultraviolet (uv) lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3408.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Upper room germicidal UV fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1392.md)
 * [UV light disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_552.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Review and comparison of HVAC operation guidelines in different countries during the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_45.md)
+* [Shielding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2707.md)
 
 ## Property: has_MitigationPrinciple
 
 Installing UV lamps in high-risk spaces to disinfect the air and reduce the concentration of airborne viruses
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [ultraviolet (uv) lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3408.md)
+* [Review and comparison of HVAC operation guidelines in different countries during the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_45.md)
 

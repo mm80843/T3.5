@@ -2,9 +2,10 @@
 
 # __Science-based decision-making__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of evidence-based policies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3261.md)
+* [data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3346.md)
+* [research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_261.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Expert System](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1370.md)
 * [Nature interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2481.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_58.md)
+* [Lack of evidence-based policies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3261.md)
 
 ## Property: has_MitigationPrinciple
 
 Incorporate scientific advice in decision-making processes
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3346.md)
-* [research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_261.md)
+* [COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_58.md)
 

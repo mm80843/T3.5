@@ -2,9 +2,10 @@
 
 # __Smaller and individual internal layouts__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Inconsistent implementation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2569.md)
+* [architecture engineering](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3215.md)
+* [interior design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3214.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Increase or reduce the size of a building](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3802.md)
 * [Inflexible building design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3776.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Revisiting the built environment: 10 potential development changes and paradigm shifts due to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_59.md)
+* [Inconsistent implementation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2569.md)
 
 ## Property: has_MitigationPrinciple
 
 Redesign internal layouts of buildings to prioritize individual spaces and enhance safety and wellbeing, with a focus on public buildings, retail spaces, and offices
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [architecture engineering](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3215.md)
-* [interior design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3214.md)
+* [Revisiting the built environment: 10 potential development changes and paradigm shifts due to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_59.md)
 

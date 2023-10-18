@@ -2,9 +2,9 @@
 
 # __Nature interaction__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [None](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2827.md)
+* [nature-based features and systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4526.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Restriction of inter-individual physical interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1554.md)
 * [Non-contact interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2331.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Biophilic design in architecture and its contributions to health, well-being, and sustainability: A critical review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_211.md)
+* [None](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2827.md)
 
 ## Property: has_MitigationPrinciple
 
 Create opportunities for direct and indirect interactions with nature within the building to enhance human-nature relationships and well-being.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [nature-based features and systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4526.md)
+* [Biophilic design in architecture and its contributions to health, well-being, and sustainability: A critical review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_211.md)
 

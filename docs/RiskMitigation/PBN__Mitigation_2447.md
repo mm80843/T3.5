@@ -2,8 +2,9 @@
 
 # __Online data collection methods__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [online survey platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4318.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Data Sharing Initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1323.md)
 * [Real-time Data Analytics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1324.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Knowledge, attitudes, and practices of Indonesian residents regarding COVID-19: A national cross-sectional survey](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_176.md)
 
 ## Property: has_MitigationPrinciple
 
 Using online methods for data collection, such as online surveys, to gather information from participants
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [online survey platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4318.md)
+* [Knowledge, attitudes, and practices of Indonesian residents regarding COVID-19: A national cross-sectional survey](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_176.md)
 

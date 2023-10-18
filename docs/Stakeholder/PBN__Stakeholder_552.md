@@ -2,6 +2,10 @@
 
 # __urban planning agencies__
 
+## This Stakeholder is identified by the following QID
+
+* [Q69883](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q69883.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [City Officials](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_0.md)
@@ -19,10 +23,6 @@
 * [urban planner](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1615.md)
 * [city planners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_752.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Lack of urban governance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1024.md)
-
 ## Risk affecting this stakeholder
 
 * [Lack of urban governance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1024.md)
@@ -31,7 +31,7 @@
 
 * [Urban Planning Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_0.md)
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q69883](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q69883.md)
+* [Lack of urban governance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1024.md)
 

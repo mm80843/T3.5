@@ -2,19 +2,6 @@
 
 # __nan__
 
-## Closest similar item
-
-* [Financial Measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4558.md)
-* [Filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2680.md)
-* [Training and Education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4559.md)
-* [Education and Training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4560.md)
-* [Data Governance and Management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4561.md)
-* [Experimental Apparatus](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4562.md)
-* [Blockchain and Cryptography](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4563.md)
-* [Fact-Checking and Information Verification](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4564.md)
-* [Security Systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4565.md)
-* [Sanitation and Waste Management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4566.md)
-
 ## Risks linked to this technology
 
 * [Domestic violence threat](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2223.md)
@@ -197,6 +184,23 @@
 * [Quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2237.md)
 * [Neoliberalism](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2262.md)
 * [Proximity to China](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2317.md)
+
+## Closest similar item
+
+* [Financial Measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4558.md)
+* [Filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2680.md)
+* [Training and Education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4559.md)
+* [Education and Training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4560.md)
+* [Data Governance and Management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4561.md)
+* [Experimental Apparatus](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4562.md)
+* [Blockchain and Cryptography](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4563.md)
+* [Fact-Checking and Information Verification](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4564.md)
+* [Security Systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4565.md)
+* [Sanitation and Waste Management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4566.md)
+
+## This Technology is identified by the following QID
+
+* [Q244698](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q244698.md)
 
 ## This Technology enables the following mitigations
 
@@ -945,8 +949,4 @@
 * [Soap and water access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1824.md)
 * [Development pathways synchronized to the NDCs of the Paris Accord or the findings of the IPCC](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1992.md)
 * [Patrol separately](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2050.md)
-
-## This Technology is identified by the following QID
-
-* [Q244698](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q244698.md)
 

@@ -2,10 +2,6 @@
 
 # __annoyance__
 
-## Name of the Benefit
-
-dwellings and reduced
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [measures can lead to improved](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1335.md)
@@ -16,4 +12,8 @@ dwellings and reduced
 ## Articles mentionning this Benefit
 
 * [Attitudes towards outdoor and neighbour noise during the COVID-19 lockdown: A case study in London](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_247.md)
+
+## Name of the Benefit
+
+dwellings and reduced
 

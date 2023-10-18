@@ -2,7 +2,7 @@
 
 # __Use of Outdoor Spaces__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
 
 ## Closest similar item
@@ -18,14 +18,14 @@
 * [Outdoor access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_776.md)
 * [Incorporation of gardens and outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_783.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The impact of the COVID-19 pandemic on the importance of urban green spaces to the public](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_203.md)
 
 ## Property: has_MitigationPrinciple
 
 Encourages individuals to spend time outdoors in open spaces, where the risk of virus transmission is lower compared to indoor spaces.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [The impact of the COVID-19 pandemic on the importance of urban green spaces to the public](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_203.md)
 

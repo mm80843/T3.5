@@ -2,9 +2,9 @@
 
 # __Garden access__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Mental health harms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3.md)
+* [access to outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3419.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_125.md)
 * [Equitable Park Access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1062.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Dangerous liaisons? Applying the social harm perspective to the social inequality, housing and health trifecta during the Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_2.md)
+* [Mental health harms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3.md)
 
 ## Property: has_MitigationPrinciple
 
 Shift harm from home by providing access to gardens and outdoor spaces for relaxation and well-being
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [access to outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3419.md)
+* [Dangerous liaisons? Applying the social harm perspective to the social inequality, housing and health trifecta during the Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_2.md)
 

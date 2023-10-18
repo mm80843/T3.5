@@ -2,6 +2,14 @@
 
 # __money market funds__
 
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Negative performance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1281.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q1199349](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1199349.md)
+
 ## Closest similar item
 
 * [capital market funds](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_508.md)
@@ -14,12 +22,4 @@
 * [fund management company](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2055.md)
 * [investors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_49.md)
 * [financial advisors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_830.md)
-
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Negative performance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1281.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q1199349](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1199349.md)
 

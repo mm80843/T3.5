@@ -2,9 +2,8 @@
 
 # __Travel ban__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Economic impact, mobility restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2773.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Traffic restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1097.md)
 * [Mobility Restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_349.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Effectiveness of non-pharmaceutical public health interventions against COVID-19: A systematic review and meta-analysis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_19.md)
+* [Economic impact, mobility restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2773.md)
 
 ## Property: has_MitigationPrinciple
 
 Restrict travel in and out of a specific geographical area to prevent the introduction and spread of the disease
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Effectiveness of non-pharmaceutical public health interventions against COVID-19: A systematic review and meta-analysis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_19.md)
 

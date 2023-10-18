@@ -2,10 +2,6 @@
 
 # __Early detection of Covid-19__
 
-## Name of the Benefit
-
-WBE can provide early warnings for community-wide emergence, resurgence, and elimination of Covid-19, helping to control the spread and allocate healthcare resources more effectively.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors investing in WBE can benefit from improved public health outcomes, reduced economic damage, and potential financial returns from the implementation of WBE technologies and systems.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1139.md)
@@ -19,4 +15,8 @@ WBE can provide early warnings for community-wide emergence, resurgence, and eli
 ## Articles mentionning this Benefit
 
 * [Wastewater surveillance for population-wide Covid-19: The present and future](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_213.md)
+
+## Name of the Benefit
+
+WBE can provide early warnings for community-wide emergence, resurgence, and elimination of Covid-19, helping to control the spread and allocate healthcare resources more effectively.
 

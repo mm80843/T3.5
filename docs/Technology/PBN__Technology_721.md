@@ -2,6 +2,15 @@
 
 # __touchless fixtures__
 
+## Risks linked to this technology
+
+* [Inadequate sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1399.md)
+* [Insufficient Sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1456.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Touchless and Barrier Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_166.md)
+
 ## Closest similar item
 
 * [hands-free fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1479.md)
@@ -15,21 +24,12 @@
 * [touchless technologies for doors and faucets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_587.md)
 * [touchless technologies for hygiene facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1528.md)
 
-## Risks linked to this technology
-
-* [Inadequate sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1399.md)
-* [Insufficient Sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1456.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Touchless and Barrier Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_166.md)
-
-## This Technology is identified by the following QID
-
-* [Q10863071](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q10863071.md)
-
 ## This Technology belongs to this TechGroup
 
 * [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
 * [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
+
+## This Technology is identified by the following QID
+
+* [Q10863071](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q10863071.md)
 

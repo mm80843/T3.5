@@ -2,9 +2,9 @@
 
 # __Standard working procedures__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Health and safety risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_733.md)
+* [health and safety executive (hse)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3277.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Flexible working policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1849.md)
 * [Detailed and better task planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_506.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Covid-19 Associated Risks and Mitigation Strategies relevant for the UK Construction Industry](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_210.md)
+* [Health and safety risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_733.md)
 
 ## Property: has_MitigationPrinciple
 
 Develop industry-specific standard working procedures in collaboration with HSE to mitigate industry-specific risks associated with construction
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [health and safety executive (hse)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3277.md)
+* [Covid-19 Associated Risks and Mitigation Strategies relevant for the UK Construction Industry](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_210.md)
 

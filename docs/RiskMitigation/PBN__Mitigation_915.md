@@ -2,8 +2,10 @@
 
 # __Data Integration__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [data integration technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3540.md)
+* [application programming interfaces (apis)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3541.md)
 
 ## Closest similar item
 
@@ -18,16 +20,14 @@
 * [Data aggregation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2404.md)
 * [Data Sharing Initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1323.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Smart cities and a data-driven response to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_164.md)
 
 ## Property: has_MitigationPrinciple
 
 Integrating different sources of data to improve usability and analysis of COVID-19 impacts
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [data integration technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3540.md)
-* [application programming interfaces (apis)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3541.md)
+* [Smart cities and a data-driven response to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_164.md)
 

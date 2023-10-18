@@ -2,6 +2,14 @@
 
 # __larvicide treatments__
 
+## Risks linked to this technology
+
+* [Spread of invasive mosquito spp](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1646.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Vector Control Methods](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_156.md)
+
 ## Closest similar item
 
 * [chemical larvicides](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4454.md)
@@ -15,19 +23,11 @@
 * [medications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3886.md)
 * [anti-inflammatory drugs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_238.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Spread of invasive mosquito spp](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1646.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Vector Control Methods](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_156.md)
+* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
 
 ## This Technology is identified by the following QID
 
 * [Q522817](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q522817.md)
-
-## This Technology belongs to this TechGroup
-
-* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
 

@@ -2,9 +2,8 @@
 
 # __Covering water containers and collecting garbage__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Accumulation of water due to garbage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2438.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Improved waste disposal](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_769.md)
 * [Restriction of waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2453.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Global policy challenges for urban vector-borne disease risks](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_132.md)
+* [Accumulation of water due to garbage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2438.md)
 
 ## Property: has_MitigationPrinciple
 
 Prevent water accumulation by covering containers and collecting garbage
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Global policy challenges for urban vector-borne disease risks](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_132.md)
 

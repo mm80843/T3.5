@@ -2,10 +2,6 @@
 
 # __Interoperable ontology__
 
-## Name of the Benefit
-
-Enables data sharing and formal reasoning
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Facilitates data analysis and integration](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1383.md)
@@ -18,4 +14,8 @@ Enables data sharing and formal reasoning
 ## Articles mentionning this Benefit
 
 * [The COVID-19 epidemiology and monitoring ontology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_259.md)
+
+## Name of the Benefit
+
+Enables data sharing and formal reasoning
 

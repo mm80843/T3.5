@@ -2,9 +2,9 @@
 
 # __Vegetation__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Increased thermal discomfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2932.md)
+* [green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_48.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Plant insect-pollinated plants instead of wind-pollinated ones](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4016.md)
 * [Increase vegetation, implement shading, improve urban geometry, use materials with higher albedo.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4017.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Challenges to Mitigating the Urban Health Burden of Mosquito-Borne Diseases in the Face of Climate Change](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_95.md)
+* [Increased thermal discomfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2932.md)
 
 ## Property: has_MitigationPrinciple
 
 Planting vegetation reduces the impact of incoming solar energy by shading and reduces the accumulation of heat. However, in tropical countries with high humidity, the extent of green coverage necessary to reduce the temperature differential may lead to excessive thermal discomfort. Increased shading may be more effective under such circumstances.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_48.md)
+* [Challenges to Mitigating the Urban Health Burden of Mosquito-Borne Diseases in the Face of Climate Change](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_95.md)
 

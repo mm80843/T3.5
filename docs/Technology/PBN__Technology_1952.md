@@ -2,6 +2,10 @@
 
 # __genome sequencing__
 
+## Risks linked to this technology
+
+* [Unclear origin of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2358.md)
+
 ## Closest similar item
 
 * [Genome sequencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2793.md)
@@ -15,15 +19,11 @@
 * [dna analyzer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4430.md)
 * [dna barcoding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1706.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Unclear origin of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2358.md)
+* [Q2068526](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2068526.md)
 
 ## This Technology enables the following mitigations
 
 * [Phylogenetic analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2396.md)
-
-## This Technology is identified by the following QID
-
-* [Q2068526](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2068526.md)
 

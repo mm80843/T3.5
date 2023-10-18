@@ -2,8 +2,9 @@
 
 # __ASTM E1052 Standard Test Method__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [astm e1052 standard test method](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3498.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Mass Testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_38.md)
 * [Mass testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [A Continuously Active Antimicrobial Coating effective against Human Coronavirus 229E](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_246.md)
 
 ## Property: has_MitigationPrinciple
 
 Evaluates the antiviral efficacy of liquid substances
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [astm e1052 standard test method](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3498.md)
+* [A Continuously Active Antimicrobial Coating effective against Human Coronavirus 229E](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_246.md)
 

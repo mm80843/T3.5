@@ -2,6 +2,10 @@
 
 # __communities__
 
+## This Stakeholder is identified by the following QID
+
+* [Q177634](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q177634.md)
+
 ## Closest similar item
 
 * [local communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_85.md)
@@ -14,12 +18,6 @@
 * [community organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2485.md)
 * [community associations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_639.md)
 * [community association](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2468.md)
-
-## Risks that can be mitigated by this stakeholder
-
-* [Food insecurity and poor-quality diets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_777.md)
-* [Zoonotic infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1016.md)
-* [Emotional distress and psychiatric illness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1896.md)
 
 ## Risk affecting this stakeholder
 
@@ -53,7 +51,9 @@
 * [Improved food availability and quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1065.md)
 * [Improved access to clean water and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1068.md)
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q177634](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q177634.md)
+* [Food insecurity and poor-quality diets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_777.md)
+* [Zoonotic infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1016.md)
+* [Emotional distress and psychiatric illness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1896.md)
 

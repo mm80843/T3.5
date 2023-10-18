@@ -2,6 +2,10 @@
 
 # __Regular calibration__
 
+## This Technology belongs to this TechSubgroup
+
+* [Public Health Measures and Regulations](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_92.md)
+
 ## Closest similar item
 
 * [Regular calibration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2426.md)
@@ -15,15 +19,11 @@
 * [regular testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1753.md)
 * [regular inspection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4514.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Public Health Measures and Regulations](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_92.md)
+* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_5.md)
 
 ## This Technology is identified by the following QID
 
 * [Q736777](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q736777.md)
-
-## This Technology belongs to this TechGroup
-
-* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_5.md)
 

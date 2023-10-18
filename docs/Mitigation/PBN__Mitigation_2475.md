@@ -2,9 +2,9 @@
 
 # __Green PPE__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [None](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2827.md)
+* [recycled materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4519.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Practical PPE rules](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1563.md)
 * [Green transportation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1099.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Supporting Technologies for COVID-19 Prevention: Systemized Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_266.md)
+* [None](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2827.md)
 
 ## Property: has_MitigationPrinciple
 
 Producing reusable masks and shields using recycled materials, reducing waste and increasing accessibility.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [recycled materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4519.md)
+* [Supporting Technologies for COVID-19 Prevention: Systemized Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_266.md)
 

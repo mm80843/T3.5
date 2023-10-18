@@ -2,10 +2,6 @@
 
 # __Improved flexibility and agility__
 
-## Name of the Benefit
-
-Adapting organizational structures and processes to navigate disruption
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Enhanced ability to respond to changing circumstances and seize opportunities](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_859.md)
@@ -17,4 +13,8 @@ Adapting organizational structures and processes to navigate disruption
 ## Articles mentionning this Benefit
 
 * [Startups in times of crisis – A rapid response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_158.md)
+
+## Name of the Benefit
+
+Adapting organizational structures and processes to navigate disruption
 

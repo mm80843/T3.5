@@ -2,9 +2,10 @@
 
 # __Changes in social practices__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Resistance to change, inequitable impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2892.md)
+* [modes of transportation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3604.md)
+* [work practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3603.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Lack of clear guidance and standards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3994.md)
 * [Reduction of socialization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3995.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Covid-19 and the politics of sustainable energy transitions](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_14.md)
+* [Resistance to change, inequitable impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2892.md)
 
 ## Property: has_MitigationPrinciple
 
 Adoption of new social practices such as remote work and active transportation to reduce energy consumption and promote sustainable lifestyles.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [modes of transportation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3604.md)
-* [work practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3603.md)
+* [Covid-19 and the politics of sustainable energy transitions](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_14.md)
 

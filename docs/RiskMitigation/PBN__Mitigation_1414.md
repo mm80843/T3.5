@@ -2,9 +2,10 @@
 
 # __Modular construction__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Flexibility and speed](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3361.md)
+* [modular construction techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3772.md)
+* [prefabricated components](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4300.md)
 
 ## Closest similar item
 
@@ -19,17 +20,16 @@
 * [Retrofitting existing buildings with containment space, additional wet cells, and compartmentalization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3082.md)
 * [Sustainable design and construction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3083.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_282.md)
-* [How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
+* [Flexibility and speed](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3361.md)
 
 ## Property: has_MitigationPrinciple
 
 Utilize pre-fabricated modules to enable faster construction and adaptability in response to pandemics or natural disasters
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [modular construction techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3772.md)
-* [prefabricated components](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4300.md)
+* [Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_282.md)
+* [How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
 

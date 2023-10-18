@@ -2,6 +2,10 @@
 
 # __Plexiglass__
 
+## This Technology belongs to this TechSubgroup
+
+* [Sanitation and Safety](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_123.md)
+
 ## Closest similar item
 
 * [Plexiglass](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2663.md)
@@ -15,15 +19,11 @@
 * [equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3248.md)
 * [green facades](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1393.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Sanitation and Safety](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_123.md)
+* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_12.md)
 
 ## This Technology is identified by the following QID
 
 * [Q146123](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q146123.md)
-
-## This Technology belongs to this TechGroup
-
-* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_12.md)
 

@@ -2,10 +2,6 @@
 
 # __Reduced transmission__
 
-## Name of the Benefit
-
-Opening windows can increase outside air fraction and total air change rate, reducing the concentration of airborne viral particles and the risk of transmission.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Adjustability of indoor temperature can improve tenant satisfaction and attract health-conscious individuals.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_242.md)
@@ -40,4 +36,8 @@ Opening windows can increase outside air fraction and total air change rate, red
 * [Report 9: Impact of non-pharmaceutical interventions (NPIs) to reduce COVID19 mortality and healthcare demand](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_80.md)
 * [COVID-19 and social inequalities: a complex and dynamic interaction](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_136.md)
 * [Coronavirus questions that will not go away: interrogating urban and socio-spatial implications of COVID-19 measures](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_184.md)
+
+## Name of the Benefit
+
+Opening windows can increase outside air fraction and total air change rate, reducing the concentration of airborne viral particles and the risk of transmission.
 

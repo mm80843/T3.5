@@ -2,10 +2,6 @@
 
 # __Early identification and isolation of cases__
 
-## Name of the Benefit
-
-Testing and contact tracing can identify asymptomatic individuals and prevent further transmission
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Reduced spread of infection and improved overall public health](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_775.md)
@@ -18,4 +14,8 @@ Testing and contact tracing can identify asymptomatic individuals and prevent fu
 ## Articles mentionning this Benefit
 
 * [Sustainability of Coronavirus on Different Surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_142.md)
+
+## Name of the Benefit
+
+Testing and contact tracing can identify asymptomatic individuals and prevent further transmission
 

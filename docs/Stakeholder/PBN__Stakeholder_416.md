@@ -2,6 +2,10 @@
 
 # __small and medium-sized businesses__
 
+## This Stakeholder is identified by the following QID
+
+* [Q622439](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q622439.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
@@ -30,8 +34,4 @@
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Strengthening of local economies and employment opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1042.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q622439](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q622439.md)
 

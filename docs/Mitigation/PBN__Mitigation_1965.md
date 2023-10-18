@@ -2,8 +2,9 @@
 
 # __Portable Air Conditioners__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [portable air conditioners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4173.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Zoned Air Conditioning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2016.md)
 * [Enhanced HVAC Systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1756.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Building Transformation for Precautionary Measures against COVID-19 Pandemic: Case of Off-Street Car Parking of Campuses](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_224.md)
 
 ## Property: has_MitigationPrinciple
 
 Using portable air conditioners to provide adequate cooling and maintain thermal comfort in the educational spaces.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [portable air conditioners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4173.md)
+* [Building Transformation for Precautionary Measures against COVID-19 Pandemic: Case of Off-Street Car Parking of Campuses](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_224.md)
 

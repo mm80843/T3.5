@@ -2,9 +2,9 @@
 
 # __Use of mobile apps for counselling/treatment__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Limited access to mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3031.md)
+* [mobile applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1146.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Real-time mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_317.md)
 * [Creation of online content for psychological support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_970.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19: The forgotten priorities of the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_236.md)
+* [Limited access to mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3031.md)
 
 ## Property: has_MitigationPrinciple
 
 To provide remote psychological support and therapy for individuals who cannot access face-to-face counseling or treatment
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [mobile applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1146.md)
+* [COVID-19: The forgotten priorities of the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_236.md)
 

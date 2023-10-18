@@ -2,9 +2,10 @@
 
 # __Monitoring for health indicators__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Health surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3426.md)
+* [biometrics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_99.md)
+* [temperature sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3044.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [AI-based Diagnosis and Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1321.md)
 * [Monitoring Service for the Elderly](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_386.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
+* [Health surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3426.md)
 
 ## Property: has_MitigationPrinciple
 
 Monitoring individuals for high temperatures or other indicators of illness to identify potential cases and take appropriate actions to prevent the spread of the virus.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [biometrics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_99.md)
-* [temperature sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3044.md)
+* [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
 

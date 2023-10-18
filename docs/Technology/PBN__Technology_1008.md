@@ -2,6 +2,17 @@
 
 # __touchless technologies__
 
+## Risks linked to this technology
+
+* [Preventing virus propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_610.md)
+* [Virus propagation risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_279.md)
+* [Risk of COVID-19 transmission in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2045.md)
+* [Sharing systems in apartments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1673.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Contact Tracing and Control](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_69.md)
+
 ## Closest similar item
 
 * [Touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2196.md)
@@ -15,26 +26,15 @@
 * [contactless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1837.md)
 * [contactless technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1556.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Preventing virus propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_610.md)
-* [Virus propagation risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_279.md)
-* [Risk of COVID-19 transmission in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2045.md)
-* [Sharing systems in apartments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1673.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Contact Tracing and Control](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_69.md)
-
-## This Technology enables the following mitigations
-
-* [Upgrading site facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1683.md)
+* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
 
 ## This Technology is identified by the following QID
 
 * [Q619500](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q619500.md)
 
-## This Technology belongs to this TechGroup
+## This Technology enables the following mitigations
 
-* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
+* [Upgrading site facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1683.md)
 

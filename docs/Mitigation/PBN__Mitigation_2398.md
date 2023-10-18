@@ -2,9 +2,8 @@
 
 # __Steroids__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Severe cases of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3441.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Retrofits](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_713.md)
 * [Promote Physical Activity and Exercise](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1833.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Current knowledge of COVID-19: Advances, challenges and future perspectives](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_118.md)
+* [Severe cases of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3441.md)
 
 ## Property: has_MitigationPrinciple
 
 Reduces the risk of death in critically ill patients
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Current knowledge of COVID-19: Advances, challenges and future perspectives](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_118.md)
 

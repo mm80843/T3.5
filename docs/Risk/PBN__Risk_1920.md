@@ -2,21 +2,25 @@
 
 # __Workplace safety__
 
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Description of the risk
+
+Water utilities need to ensure safe working conditions and protective equipment for staff during the pandemic.
+
 ## Property: has_RiskType
 
 * [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 
-## People affected by this risk
+## Articles mentionning the risk
 
-* [water utility employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1300.md)
-
-## Name of the risk
-
-Risk of exposure to the virus and potential impact on water supply and treatment.
-
-## Property: has_RiskISO_Purpose
-
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+* [When the fourth water and digital revolution encountered COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_207.md)
 
 ## Closest similar item
 
@@ -31,37 +35,33 @@ Risk of exposure to the virus and potential impact on water supply and treatment
 * [Health and safety concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_557.md)
 * [Inadequate Safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2670.md)
 
-## Description of the risk
+## People affected by this risk
 
-Water utilities need to ensure safe working conditions and protective equipment for staff during the pandemic.
-
-## Technologies linked to the risk
-
-* [remote working tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_738.md)
-* [digital control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1315.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Mitigations of this risk
-
-* [Implement safety measures and consider remote working and digital control systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2523.md)
-
-## Articles mentionning the risk
-
-* [When the fourth water and digital revolution encountered COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_207.md)
+* [water utility employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1300.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
 ## Stakeholders who can mitigate this risk
 
 * [regulatory authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1297.md)
 * [water utilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_329.md)
+
+## Name of the risk
+
+Risk of exposure to the virus and potential impact on water supply and treatment.
+
+## Mitigations of this risk
+
+* [Implement safety measures and consider remote working and digital control systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2523.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+
+## Technologies linked to the risk
+
+* [remote working tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_738.md)
+* [digital control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1315.md)
 

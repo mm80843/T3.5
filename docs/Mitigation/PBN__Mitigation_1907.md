@@ -2,8 +2,13 @@
 
 # __Smart city solutions__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_96.md)
+* [thermal cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2964.md)
+* [sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
+* [actuators](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4130.md)
+* [ip surveillance cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4129.md)
 
 ## Closest similar item
 
@@ -18,19 +23,14 @@
 * [Smart building materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1412.md)
 * [Intelligent Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_380.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Towards the sustainable development of smart cities through mass video surveillance: A response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_117.md)
 
 ## Property: has_MitigationPrinciple
 
 Provide situational intelligence and automated targeted response to ensure public health safety and minimize economic losses in smart cities.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_96.md)
-* [thermal cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2964.md)
-* [sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
-* [actuators](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4130.md)
-* [ip surveillance cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4129.md)
+* [Towards the sustainable development of smart cities through mass video surveillance: A response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_117.md)
 

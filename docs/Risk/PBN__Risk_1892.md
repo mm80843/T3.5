@@ -2,22 +2,25 @@
 
 # __Lack of social interaction__
 
+## Property: has_RiskHealth
+
+* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Description of the risk
+
+Apartments that do not provide spaces that support positive social interactions can contribute to feelings of loneliness and reduced well-being among residents.
+
 ## Property: has_RiskType
 
 * [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
-## People affected by this risk
+## Articles mentionning the risk
 
-* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
-* [apartment residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_356.md)
-
-## Name of the risk
-
-Increased feelings of loneliness, decreased mental health and well-being.
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+* [How our homes impact our health: using a COVID-19 informed approach to examine urban apartment housing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_279.md)
 
 ## Closest similar item
 
@@ -32,19 +35,24 @@ Increased feelings of loneliness, decreased mental health and well-being.
 * [Lack of social support and social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1992.md)
 * [Lack of coordination and communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2908.md)
 
-## Description of the risk
+## People affected by this risk
 
-Apartments that do not provide spaces that support positive social interactions can contribute to feelings of loneliness and reduced well-being among residents.
+* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+* [apartment residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_356.md)
 
-## Technologies linked to the risk
+## Property: has_RiskISO_Impact
 
-* [courtyards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1273.md)
-* [incorporate shared roof terraces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1272.md)
-* [communal lounge areas in apartment designs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1274.md)
+* [Governance, empowerment and engagement](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_6.md)
 
-## Property: has_RiskHealth
+## Stakeholders who can mitigate this risk
 
-* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
+* [designers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_74.md)
+* [architects](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_431.md)
+* [property developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1284.md)
+
+## Name of the risk
+
+Increased feelings of loneliness, decreased mental health and well-being.
 
 ## Mitigations of this risk
 
@@ -52,21 +60,13 @@ Apartments that do not provide spaces that support positive social interactions 
 * [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_479.md)
 * [Home offices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2203.md)
 
-## Articles mentionning the risk
+## Property: has_RiskISO_Purpose
 
-* [How our homes impact our health: using a COVID-19 informed approach to examine urban apartment housing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_279.md)
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
 
-## Property: has_RiskISO_Impact
+## Technologies linked to the risk
 
-* [Governance, empowerment and engagement](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_6.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Stakeholders who can mitigate this risk
-
-* [designers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_74.md)
-* [architects](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_431.md)
-* [property developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1284.md)
+* [courtyards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1273.md)
+* [incorporate shared roof terraces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1272.md)
+* [communal lounge areas in apartment designs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1274.md)
 

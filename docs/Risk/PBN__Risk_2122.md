@@ -2,23 +2,25 @@
 
 # __Risk of external seeding events and uncontrolled quarantines__
 
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Description of the risk
+
+Quarantine facilities and protocols may fail to prevent the seeding of contagious diseases into the community, leading to outbreaks and uncontrolled spread.
+
 ## Property: has_RiskType
 
 * [political](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_1.md)
 
-## People affected by this risk
+## Articles mentionning the risk
 
-* [community members](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_155.md)
-* [quarantine facility staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1427.md)
-* [returnees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1426.md)
-
-## Name of the risk
-
-Increased community transmission, overwhelmed healthcare system.
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+* [Designing for COVID-2x: Reflecting on Future-Proofing Human Habitation for the Inevitable Next Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_149.md)
 
 ## Closest similar item
 
@@ -33,36 +35,34 @@ Increased community transmission, overwhelmed healthcare system.
 * [Insufficient preparedness for outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_468.md)
 * [Emotional distress from quarantine and isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1899.md)
 
-## Description of the risk
+## People affected by this risk
 
-Quarantine facilities and protocols may fail to prevent the seeding of contagious diseases into the community, leading to outbreaks and uncontrolled spread.
-
-## Technologies linked to the risk
-
-* [none specified](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1625.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Mitigations of this risk
-
-* [Improved design of quarantine facilities, separate air cycles for communal and private spaces, enhanced ventilation, and strict protocols.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2773.md)
-
-## Articles mentionning the risk
-
-* [Designing for COVID-2x: Reflecting on Future-Proofing Human Habitation for the Inevitable Next Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_149.md)
+* [community members](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_155.md)
+* [quarantine facility staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1427.md)
+* [returnees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1426.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_5.md)
 
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
 ## Stakeholders who can mitigate this risk
 
 * [government authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_302.md)
 * [quarantine facility operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1428.md)
+
+## Name of the risk
+
+Increased community transmission, overwhelmed healthcare system.
+
+## Mitigations of this risk
+
+* [Improved design of quarantine facilities, separate air cycles for communal and private spaces, enhanced ventilation, and strict protocols.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2773.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Technologies linked to the risk
+
+* [none specified](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1625.md)
 

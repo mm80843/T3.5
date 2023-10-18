@@ -2,9 +2,9 @@
 
 # __Crisis response leadership programs__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of effective crisis management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2806.md)
+* [leadership development programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3530.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Level 1 national emergency response](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2098.md)
 * [Urban restructuring for emergency preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_112.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The impact of COVID-19 outbreak on United Kingdom infrastructure sector](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_141.md)
+* [Lack of effective crisis management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2806.md)
 
 ## Property: has_MitigationPrinciple
 
 Develops and trains leaders to effectively respond to crises and manage challenges
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [leadership development programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3530.md)
+* [The impact of COVID-19 outbreak on United Kingdom infrastructure sector](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_141.md)
 

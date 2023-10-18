@@ -2,22 +2,25 @@
 
 # __Privacy invasion__
 
+## Property: has_RiskHealth
+
+* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
+
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Description of the risk
+
+Digital health interventions can infringe on privacy, threatening civil liberties and increasing risk for individuals with mental illness or restricted access to food or water.
+
 ## Property: has_RiskType
 
 * [legal](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_6.md)
 
-## People affected by this risk
+## Articles mentionning the risk
 
-* [individuals with mental illness](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1564.md)
-* [those with restricted access to resources](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1565.md)
-
-## Name of the risk
-
-Fear, loss of civil liberties, potential for targeting vulnerable populations.
-
-## Property: has_RiskISO_Purpose
-
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+* [Applications of digital technology in COVID-19 pandemic planning and response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_127.md)
 
 ## Closest similar item
 
@@ -32,38 +35,35 @@ Fear, loss of civil liberties, potential for targeting vulnerable populations.
 * [Privacy protection issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2093.md)
 * [Infringement on privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3434.md)
 
-## Description of the risk
+## People affected by this risk
 
-Digital health interventions can infringe on privacy, threatening civil liberties and increasing risk for individuals with mental illness or restricted access to food or water.
+* [individuals with mental illness](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1564.md)
+* [those with restricted access to resources](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1565.md)
+
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Stakeholders who can mitigate this risk
+
+* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+* [technology companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_719.md)
+
+## Name of the risk
+
+Fear, loss of civil liberties, potential for targeting vulnerable populations.
+
+## Mitigations of this risk
+
+* [Implementing measures to balance the need for contact tracing and privacy, such as data retention for a limited period and lifting non-essential digital measures after the pandemic ends.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3045.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
 
 ## Technologies linked to the risk
 
 * [anonymous data collection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1936.md)
 * [opt-in systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1937.md)
 * [privacy-enhancing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1935.md)
-
-## Property: has_RiskHealth
-
-* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
-
-## Mitigations of this risk
-
-* [Implementing measures to balance the need for contact tracing and privacy, such as data retention for a limited period and lifting non-essential digital measures after the pandemic ends.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3045.md)
-
-## Articles mentionning the risk
-
-* [Applications of digital technology in COVID-19 pandemic planning and response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_127.md)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Stakeholders who can mitigate this risk
-
-* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
-* [technology companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_719.md)
 

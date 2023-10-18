@@ -2,9 +2,8 @@
 
 # __Genome sequencing__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Identification of new variants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3442.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [dna analyzer](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4365.md)
 * [dna barcoding](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4374.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Current knowledge of COVID-19: Advances, challenges and future perspectives](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_118.md)
+* [Identification of new variants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3442.md)
 
 ## Property: has_MitigationPrinciple
 
 Allows for surveillance and identification of new variants
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Current knowledge of COVID-19: Advances, challenges and future perspectives](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_118.md)
 

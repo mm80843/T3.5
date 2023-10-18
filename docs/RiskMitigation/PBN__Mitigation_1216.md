@@ -2,9 +2,9 @@
 
 # __Medical gas supply__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Supply medical gases to each bed](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2965.md)
+* [efficient network](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3732.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1214.md)
 * [Commercial and healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_860.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Emergency Healthcare Facilities: Managing Design in a Post Covid-19 World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_122.md)
+* [Supply medical gases to each bed](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2965.md)
 
 ## Property: has_MitigationPrinciple
 
 Ensure an efficient network for supplying medical gases, such as oxygen, to each bed
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [efficient network](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3732.md)
+* [Emergency Healthcare Facilities: Managing Design in a Post Covid-19 World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_122.md)
 

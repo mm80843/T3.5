@@ -2,6 +2,14 @@
 
 # __email__
 
+## Risks linked to this technology
+
+* [Insufficient Contact Information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1725.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Communication Technologies and Channels](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_27.md)
+
 ## Closest similar item
 
 * [emails](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3126.md)
@@ -15,19 +23,11 @@
 * [communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3463.md)
 * [twitter)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4231.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Insufficient Contact Information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1725.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Communication Technologies and Channels](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_27.md)
+* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
 
 ## This Technology is identified by the following QID
 
 * [Q9158](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q9158.md)
-
-## This Technology belongs to this TechGroup
-
-* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
 

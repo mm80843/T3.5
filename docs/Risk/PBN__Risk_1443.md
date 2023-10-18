@@ -2,23 +2,25 @@
 
 # __Overcrowding in Urban Areas__
 
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Description of the risk
+
+High population density and overcrowding increase the risk of disease transmission
+
 ## Property: has_RiskType
 
 * [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
-## People affected by this risk
+## Articles mentionning the risk
 
-* [public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_222.md)
-* [urban residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_209.md)
-* [commuters](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_532.md)
-
-## Name of the risk
-
-Enhanced spread of contagious diseases, overwhelm healthcare systems
-
-## Property: has_RiskISO_Purpose
-
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+* [Respiratory pandemics, urban planning and design: A multidisciplinary rapid review of the literature](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_133.md)
 
 ## Closest similar item
 
@@ -33,38 +35,36 @@ Enhanced spread of contagious diseases, overwhelm healthcare systems
 * [Overcrowding, inadequate space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2592.md)
 * [Overcrowding in living spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1128.md)
 
-## Description of the risk
+## People affected by this risk
 
-High population density and overcrowding increase the risk of disease transmission
-
-## Technologies linked to the risk
-
-* [urban planning regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_52.md)
-* [smart city technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_471.md)
-* [crowd monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_490.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Mitigations of this risk
-
-* [Implement crowd control measures, promote social distancing, expand infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1955.md)
-
-## Articles mentionning the risk
-
-* [Respiratory pandemics, urban planning and design: A multidisciplinary rapid review of the literature](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_133.md)
+* [public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_222.md)
+* [urban residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_209.md)
+* [commuters](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_532.md)
 
 ## Property: has_RiskISO_Impact
 
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
 ## Stakeholders who can mitigate this risk
 
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 * [urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_125.md)
 * [city authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_536.md)
+
+## Name of the risk
+
+Enhanced spread of contagious diseases, overwhelm healthcare systems
+
+## Mitigations of this risk
+
+* [Implement crowd control measures, promote social distancing, expand infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1955.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+
+## Technologies linked to the risk
+
+* [urban planning regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_52.md)
+* [smart city technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_471.md)
+* [crowd monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_490.md)
 

@@ -2,9 +2,9 @@
 
 # __Glazed windows__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Low air change rates](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2754.md)
+* [double or triple-glazed windows conducive to airtight construction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3467.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Improved ventilation and sunlight exposure in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2431.md)
 * [Green rooftops](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2156.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [howard-reed_effect_2002 howard-reed_effect_2002](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_307.md)
+* [Low air change rates](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2754.md)
 
 ## Property: has_MitigationPrinciple
 
 Installing double or triple-glazed windows can help reduce air change rates and prevent outdoor pollutants from entering a building.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [double or triple-glazed windows conducive to airtight construction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3467.md)
+* [howard-reed_effect_2002 howard-reed_effect_2002](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_307.md)
 

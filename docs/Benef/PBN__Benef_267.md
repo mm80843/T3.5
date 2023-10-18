@@ -2,10 +2,6 @@
 
 # __Enhanced sense of safety__
 
-## Name of the Benefit
-
-Increases trust and comfort on campus
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors investing in this measure would benefit from improved reputation and attractiveness of the institution, leading to increased student enrollment and retention.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_279.md)
@@ -18,4 +14,8 @@ Increases trust and comfort on campus
 ## Articles mentionning this Benefit
 
 * [Reframe how to serve your community in the midst of a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_53.md)
+
+## Name of the Benefit
+
+Increases trust and comfort on campus
 

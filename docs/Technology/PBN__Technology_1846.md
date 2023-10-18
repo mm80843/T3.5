@@ -2,6 +2,10 @@
 
 # __monitoring technologies__
 
+## Risks linked to this technology
+
+* [Water quality and availability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_612.md)
+
 ## Closest similar item
 
 * [monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1846.md)
@@ -15,15 +19,11 @@
 * [monitoring equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3662.md)
 * [remote monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_405.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Water quality and availability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_612.md)
+* [Q41567412](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q41567412.md)
 
 ## This Technology enables the following mitigations
 
 * [Early alert systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1799.md)
-
-## This Technology is identified by the following QID
-
-* [Q41567412](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q41567412.md)
 

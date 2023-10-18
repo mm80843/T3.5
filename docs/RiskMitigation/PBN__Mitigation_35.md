@@ -2,6 +2,27 @@
 
 # __Social Distancing__
 
+## This Mitigation is enabled by the following technologies
+
+* [physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_343.md)
+* [floor markings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_360.md)
+* [internet-based communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_23.md)
+* [technology-enabled monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2913.md)
+* [physical distance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3380.md)
+
+## Closest similar item
+
+* [Social Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_35.md)
+* [Importance of social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2556.md)
+* [Inadequate social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2557.md)
+* [Social distancing impact](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2558.md)
+* [Insufficient social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2559.md)
+* [Lack of proper social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2560.md)
+* [Social distancing challenges](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2561.md)
+* [Reduced social interaction due to social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2562.md)
+* [Lack of social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2563.md)
+* [Non-compliance with social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2564.md)
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Non-compliance with social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3200.md)
@@ -19,18 +40,9 @@
 * [Close Proximity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2974.md)
 * [None](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2827.md)
 
-## Closest similar item
+## Property: has_MitigationPrinciple
 
-* [Social Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_35.md)
-* [Importance of social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2556.md)
-* [Inadequate social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2557.md)
-* [Social distancing impact](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2558.md)
-* [Insufficient social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2559.md)
-* [Lack of proper social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2560.md)
-* [Social distancing challenges](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2561.md)
-* [Reduced social interaction due to social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2562.md)
-* [Lack of social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2563.md)
-* [Non-compliance with social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2564.md)
+Minimizing physical contact between populations to decrease disease transmission
 
 ## Property: has_MitigationSource
 
@@ -63,16 +75,4 @@
 * [Startups in times of crisis – A rapid response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_158.md)
 * [An Automated System to Limit COVID-19 Using Facial Mask Detection in Smart City Network](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_265.md)
 * [Covid-19 and asset management in EU: a preliminary assessment of performance and investment styles](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_271.md)
-
-## Property: has_MitigationPrinciple
-
-Minimizing physical contact between populations to decrease disease transmission
-
-## This Mitigation is enabled by the following technologies
-
-* [physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_343.md)
-* [floor markings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_360.md)
-* [internet-based communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_23.md)
-* [technology-enabled monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2913.md)
-* [physical distance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3380.md)
 

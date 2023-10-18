@@ -2,6 +2,14 @@
 
 # __polycarbonate__
 
+## Risks linked to this technology
+
+* [Lack of physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1322.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Sanitation and Safety](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_123.md)
+
 ## Closest similar item
 
 * [polyurethane](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3101.md)
@@ -15,19 +23,11 @@
 * [polyethylene glycol (mw 8000)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3491.md)
 * [natural materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4016.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Lack of physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1322.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Sanitation and Safety](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_123.md)
+* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_12.md)
 
 ## This Technology is identified by the following QID
 
 * [Q62246](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q62246.md)
-
-## This Technology belongs to this TechGroup
-
-* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_12.md)
 

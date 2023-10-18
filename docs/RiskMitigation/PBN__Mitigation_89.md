@@ -2,9 +2,9 @@
 
 # __Occupancy sensing setback thermostats__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Excessive cooling/heating](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2430.md)
+* [occupancy sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_649.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Mobile robots for temperature measurement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2421.md)
 * [Occupancy Limitations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_808.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Occupants’ behavior and activity patterns influencing the energy consumption in the Kuwaiti residences](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_260.md)
+* [Excessive cooling/heating](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2430.md)
 
 ## Property: has_MitigationPrinciple
 
 Adjusting temperature settings based on occupancy to optimize energy efficiency and reduce energy waste.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [occupancy sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_649.md)
+* [Occupants’ behavior and activity patterns influencing the energy consumption in the Kuwaiti residences](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_260.md)
 

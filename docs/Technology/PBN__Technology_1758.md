@@ -2,6 +2,14 @@
 
 # __separate pipes for greywater__
 
+## Risks linked to this technology
+
+* [WWM3](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2208.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Sanitation and Waste Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_121.md)
+
 ## Closest similar item
 
 * [greywater treatment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4365.md)
@@ -15,19 +23,11 @@
 * [Water filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2227.md)
 * [water filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4259.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [WWM3](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2208.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Sanitation and Waste Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_121.md)
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 
 ## This Technology is identified by the following QID
 
 * [Q1075169](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1075169.md)
-
-## This Technology belongs to this TechGroup
-
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 

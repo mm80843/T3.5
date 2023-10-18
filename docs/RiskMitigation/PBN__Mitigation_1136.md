@@ -2,9 +2,10 @@
 
 # __Healthcare capacity expansion__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Overwhelmed healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1007.md)
+* [medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_108.md)
+* [facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3685.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Healthcare Facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1742.md)
 * [Healthcare access and affordability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1484.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Seeing the invisible hand: Underlying effects of COVID-19 on tourists’ behavioral patterns](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_25.md)
+* [Overwhelmed healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1007.md)
 
 ## Property: has_MitigationPrinciple
 
 Expand healthcare resources and facilities to handle the increased demand during an outbreak
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_108.md)
-* [facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3685.md)
+* [Seeing the invisible hand: Underlying effects of COVID-19 on tourists’ behavioral patterns](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_25.md)
 

@@ -2,9 +2,10 @@
 
 # __Control of Indoor Temperatures__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Decreased performance due to high temperatures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3244.md)
+* [hvac system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3190.md)
+* [temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4050.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Personalized Indoor Controls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_714.md)
 * [Indoor air quality and thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1480.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The effect of a redesigned floor plan, occupant density and the quality of indoor climate on the cost of space, productivity and sick leave in an office building–A case study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_223.md)
+* [Decreased performance due to high temperatures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3244.md)
 
 ## Property: has_MitigationPrinciple
 
 Control of indoor temperatures is important to avoid negative effects on performance, as productivity decreases by 2% per each degree over 25°C
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [hvac system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3190.md)
-* [temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4050.md)
+* [The effect of a redesigned floor plan, occupant density and the quality of indoor climate on the cost of space, productivity and sick leave in an office building–A case study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_223.md)
 

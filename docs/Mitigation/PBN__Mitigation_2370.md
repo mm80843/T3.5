@@ -2,8 +2,9 @@
 
 # __Health monitoring platform__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [real-time data collection tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4437.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Monitoring Service for the Elderly](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_386.md)
 * [Intelligent Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_380.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Applications of digital technology in COVID-19 pandemic planning and response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_127.md)
 
 ## Property: has_MitigationPrinciple
 
 Sharing real-time data on patient volumes, personal protective equipment, staffing, ventilator usage, and resource information
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [real-time data collection tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4437.md)
+* [Applications of digital technology in COVID-19 pandemic planning and response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_127.md)
 

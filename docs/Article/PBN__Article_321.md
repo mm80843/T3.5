@@ -2,10 +2,6 @@
 
 # __Predicted Inactivation of Viruses of Relevance to Biodefense by Solar Radiation__
 
-## Year of publication
-
-2005
-
 ## Title of the article
 
 Predicted Inactivation of Viruses of Relevance to Biodefense by Solar Radiation
@@ -13,4 +9,8 @@ Predicted Inactivation of Viruses of Relevance to Biodefense by Solar Radiation
 ## DOI of the article
 
 10.1128/JVI.79.22.14244-14252.2005
+
+## Year of publication
+
+2005
 

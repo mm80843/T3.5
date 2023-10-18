@@ -2,9 +2,12 @@
 
 # __Clear and inclusive communication__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Misinterpretation of health recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3033.md)
+* [apps)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3807.md)
+* [diverse communication channels (e.g. television](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3804.md)
+* [newspapers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3806.md)
+* [radio](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3805.md)
 
 ## Closest similar item
 
@@ -19,18 +22,15 @@
 * [Communication and Awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_295.md)
 * [Communication and Collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1765.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19: The forgotten priorities of the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_236.md)
+* [Misinterpretation of health recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3033.md)
 
 ## Property: has_MitigationPrinciple
 
 To provide reliable and accessible information about the disease to all populations, using diverse channels in different languages
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [apps)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3807.md)
-* [diverse communication channels (e.g. television](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3804.md)
-* [newspapers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3806.md)
-* [radio](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3805.md)
+* [COVID-19: The forgotten priorities of the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_236.md)
 

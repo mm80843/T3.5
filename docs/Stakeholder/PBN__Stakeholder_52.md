@@ -2,6 +2,10 @@
 
 # __public__
 
+## This Stakeholder is identified by the following QID
+
+* [Q2388316](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2388316.md)
+
 ## Closest similar item
 
 * [public places](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_367.md)
@@ -77,8 +81,4 @@
 * [Improved Accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1339.md)
 * [Reliable Information](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1340.md)
 * [Increased Trust](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1341.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q2388316](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2388316.md)
 

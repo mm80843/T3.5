@@ -2,22 +2,25 @@
 
 # __Social inequality__
 
+## Property: has_RiskHealth
+
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_4.md)
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Description of the risk
+
+Unequal access to and use of emerging technologies may widen existing social disparities.
+
 ## Property: has_RiskType
 
 * [political](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_1.md)
 
-## People affected by this risk
+## Articles mentionning the risk
 
-* [low-income individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_21.md)
-* [marginalized groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_880.md)
-
-## Name of the risk
-
-Marginalized groups and low-income individuals may be left behind and face greater risks.
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+* [The role of contemporary digital tools and technologies in COVID19 crisis: An exploratory analysis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_226.md)
 
 ## Closest similar item
 
@@ -32,18 +35,23 @@ Marginalized groups and low-income individuals may be left behind and face great
 * [Social disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2700.md)
 * [Gender inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_237.md)
 
-## Description of the risk
+## People affected by this risk
 
-Unequal access to and use of emerging technologies may widen existing social disparities.
+* [low-income individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_21.md)
+* [marginalized groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_880.md)
 
-## Technologies linked to the risk
+## Property: has_RiskISO_Impact
 
-* [public-private partnerships](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_55.md)
-* [government initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1642.md)
+* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_5.md)
 
-## Property: has_RiskHealth
+## Stakeholders who can mitigate this risk
 
-* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_4.md)
+* [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
+* [non-profit organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_804.md)
+
+## Name of the risk
+
+Marginalized groups and low-income individuals may be left behind and face greater risks.
 
 ## Mitigations of this risk
 
@@ -51,20 +59,12 @@ Unequal access to and use of emerging technologies may widen existing social dis
 * [Support for vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1182.md)
 * [Barrier-Free Accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1708.md)
 
-## Articles mentionning the risk
+## Property: has_RiskISO_Purpose
 
-* [The role of contemporary digital tools and technologies in COVID19 crisis: An exploratory analysis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_226.md)
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
 
-## Property: has_RiskISO_Impact
+## Technologies linked to the risk
 
-* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_5.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Stakeholders who can mitigate this risk
-
-* [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
-* [non-profit organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_804.md)
+* [public-private partnerships](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_55.md)
+* [government initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1642.md)
 

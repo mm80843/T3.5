@@ -2,6 +2,10 @@
 
 # __Market analysis tools__
 
+## This Technology belongs to this TechSubgroup
+
+* [Data Management and Communication Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_18.md)
+
 ## Closest similar item
 
 * [Market analysis tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2346.md)
@@ -15,15 +19,11 @@
 * [Research and data analysis technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2063.md)
 * [forecasting tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_820.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Data Management and Communication Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_18.md)
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 
 ## This Technology is identified by the following QID
 
 * [Q6770838](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6770838.md)
-
-## This Technology belongs to this TechGroup
-
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 

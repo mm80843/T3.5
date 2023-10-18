@@ -2,9 +2,12 @@
 
 # __Space and occupancy management__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Non-compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2666.md)
+* [bim](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4513.md)
+* [iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
+* [cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3842.md)
+* [sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
 
 ## Closest similar item
 
@@ -19,18 +22,15 @@
 * [Rescheduling Space Planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1960.md)
 * [Flexibility, adaptability, sharing, and crowding of living spaces, and compliant functions located within the buildings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_497.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [A review of facilities management interventions to mitigate respiratory infections in existing buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_171.md)
+* [Non-compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2666.md)
 
 ## Property: has_MitigationPrinciple
 
 Controlling occupant density and behavioural interventions such as social distancing can reduce droplet transmission
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [bim](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4513.md)
-* [iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
-* [cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3842.md)
-* [sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
+* [A review of facilities management interventions to mitigate respiratory infections in existing buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_171.md)
 

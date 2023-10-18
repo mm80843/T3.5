@@ -2,9 +2,10 @@
 
 # __International collaboration__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Global coordination, political challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2917.md)
+* [international organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_613.md)
+* [diplomatic efforts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3639.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Strengthening partnerships](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3225.md)
 * [Collaborative projects](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3226.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19 and the UN Sustainable Development Goals: Threat to Solidarity or an Opportunity?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_109.md)
+* [Global coordination, political challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2917.md)
 
 ## Property: has_MitigationPrinciple
 
 Promotes cooperation and resource sharing to address the global impacts of the pandemic
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [international organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_613.md)
-* [diplomatic efforts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3639.md)
+* [COVID-19 and the UN Sustainable Development Goals: Threat to Solidarity or an Opportunity?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_109.md)
 

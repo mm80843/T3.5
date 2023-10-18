@@ -2,10 +2,6 @@
 
 # __Ensured access to necessities__
 
-## Name of the Benefit
-
-Self-dependent services and urban farming in residential complexes ensure access to necessary goods during lockdowns.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can attract residents who prioritize self-sufficiency and resilience, potentially increasing the property’s desirability and value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_933.md)
@@ -17,4 +13,8 @@ Self-dependent services and urban farming in residential complexes ensure access
 ## Articles mentionning this Benefit
 
 * [How to Make Green Building Certification \& Rating Systems More Pandemic-Sustainable?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_172.md)
+
+## Name of the Benefit
+
+Self-dependent services and urban farming in residential complexes ensure access to necessary goods during lockdowns.
 

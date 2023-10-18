@@ -2,10 +2,6 @@
 
 # __Reduction in disease transmission__
 
-## Name of the Benefit
-
-Augmented surveillance and prompt reporting can help identify and isolate cases, reducing the transmission of the virus in densely populated areas. Providing separate spaces for isolation and quarantine can further prevent the spread of the disease.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investing in isolation and quarantine measures can prevent the spread of diseases, reducing healthcare costs and protecting vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_457.md)
@@ -26,4 +22,8 @@ Augmented surveillance and prompt reporting can help identify and isolate cases,
 
 * [Overview of the mitigation strategies for COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_86.md)
 * [An e-mental health intervention to support burdened people in times of the COVID-19 pandemic: CoPE It](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_209.md)
+
+## Name of the Benefit
+
+Augmented surveillance and prompt reporting can help identify and isolate cases, reducing the transmission of the virus in densely populated areas. Providing separate spaces for isolation and quarantine can further prevent the spread of the disease.
 

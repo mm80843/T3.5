@@ -2,6 +2,10 @@
 
 # __insurance subscribers__
 
+## This Stakeholder is identified by the following QID
+
+* [Q43183](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q43183.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
@@ -29,8 +33,4 @@
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Reduced risk of infection through contact](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1173.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q43183](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q43183.md)
 

@@ -2,8 +2,9 @@
 
 # __Tissue culture infectious dose at the 50% endpoint (TCID50) technique__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [tcid50 technique](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3493.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Viral culture](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1526.md)
 * [Isolation of infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2440.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [A Continuously Active Antimicrobial Coating effective against Human Coronavirus 229E](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_246.md)
 
 ## Property: has_MitigationPrinciple
 
 Determines viral titers in the test virus suspension
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [tcid50 technique](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3493.md)
+* [A Continuously Active Antimicrobial Coating effective against Human Coronavirus 229E](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_246.md)
 

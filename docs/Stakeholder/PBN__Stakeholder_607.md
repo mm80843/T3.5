@@ -2,6 +2,10 @@
 
 # __data management companies__
 
+## This Stakeholder is identified by the following QID
+
+* [Q1149776](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1149776.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
@@ -19,10 +23,6 @@
 * [data security professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1541.md)
 * [data protection officers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2660.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Lack of data sharing and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1076.md)
-
 ## Risk affecting this stakeholder
 
 * [Cybersecurity threats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1910.md)
@@ -30,7 +30,7 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q1149776](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1149776.md)
+* [Lack of data sharing and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1076.md)
 

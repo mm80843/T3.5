@@ -2,6 +2,10 @@
 
 # __cyclists__
 
+## This Stakeholder is identified by the following QID
+
+* [Q2125610](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2125610.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
@@ -32,8 +36,4 @@
 
 * [Improved accessibility and safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1242.md)
 * [Increased livability and sustainability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1246.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q2125610](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2125610.md)
 

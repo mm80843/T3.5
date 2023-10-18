@@ -2,10 +2,6 @@
 
 # __Access to real-time data__
 
-## Name of the Benefit
-
-Enables researchers and officials to obtain comprehensive, up-to-date data on the outbreak
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved decision making and response measures based on real-time information, leading to better control and management of the outbreak, reduced transmission, and potentially saving lives](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1171.md)
@@ -19,4 +15,8 @@ Enables researchers and officials to obtain comprehensive, up-to-date data on th
 ## Articles mentionning this Benefit
 
 * [Open-source analytics tools for studying the COVID-19 coronavirus outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_218.md)
+
+## Name of the Benefit
+
+Enables researchers and officials to obtain comprehensive, up-to-date data on the outbreak
 

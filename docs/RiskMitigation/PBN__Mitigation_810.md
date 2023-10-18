@@ -2,9 +2,9 @@
 
 # __Education and Training__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_49.md)
+* [information and communication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2912.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Artificial Intelligence and Machine Learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2536.md)
 * [Infrastructure and Transportation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2537.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [A study on office workplace modification during the COVID-19 pandemic in The Netherlands](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_193.md)
+* [Lack of awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_49.md)
 
 ## Property: has_MitigationPrinciple
 
 Providing information and training to individuals on proper hygiene practices and disease prevention measures.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [information and communication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2912.md)
+* [A study on office workplace modification during the COVID-19 pandemic in The Netherlands](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_193.md)
 

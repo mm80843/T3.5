@@ -2,8 +2,9 @@
 
 # __Acetone cleaning__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [acetone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3488.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Air cleaning devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1363.md)
 * [Proper cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1429.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [A Continuously Active Antimicrobial Coating effective against Human Coronavirus 229E](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_246.md)
 
 ## Property: has_MitigationPrinciple
 
 Cleans stainless steel surfaces before coating application
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [acetone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3488.md)
+* [A Continuously Active Antimicrobial Coating effective against Human Coronavirus 229E](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_246.md)
 

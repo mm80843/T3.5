@@ -2,10 +2,6 @@
 
 # __Access to expert knowledge without the need for direct consultation__
 
-## Name of the Benefit
-
-Users can conduct analysis/diagnosis like an expert with the help of the expert system, reducing the need for direct consultation with experts.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Convenience for users, cost-saving for individuals and healthcare systems, increased demand for the mobile application.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1274.md)
@@ -17,4 +13,8 @@ Users can conduct analysis/diagnosis like an expert with the help of the expert 
 ## Articles mentionning this Benefit
 
 * [Risk Diagnosis and Mitigation System of COVID-19 Using Expert System and Web Scraping](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_237.md)
+
+## Name of the Benefit
+
+Users can conduct analysis/diagnosis like an expert with the help of the expert system, reducing the need for direct consultation with experts.
 

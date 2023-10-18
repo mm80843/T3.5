@@ -2,9 +2,10 @@
 
 # __Investing in disaster risk reduction and preparedness__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Inadequate response and preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2912.md)
+* [preparedness planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3630.md)
+* [risk reduction measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3631.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Pandemic preparedness planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2362.md)
 * [Risk communication strategy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_239.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19 risks and systemic gaps in Nigeria: resilience building lessons for pandemic and climate change management](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_215.md)
+* [Inadequate response and preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2912.md)
 
 ## Property: has_MitigationPrinciple
 
 Enhance resilience and response to emergencies
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [preparedness planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3630.md)
-* [risk reduction measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3631.md)
+* [COVID-19 risks and systemic gaps in Nigeria: resilience building lessons for pandemic and climate change management](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_215.md)
 

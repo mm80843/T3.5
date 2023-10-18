@@ -2,9 +2,10 @@
 
 # __Water and Sanitary System Safety__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Microbiological contaminants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3160.md)
+* [disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_835.md)
+* [routine flushing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3946.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Disinfection of water](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1230.md)
 * [Water management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1114.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19 Experience Transforming the Protective Environment of Office Buildings and Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_120.md)
+* [Microbiological contaminants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3160.md)
 
 ## Property: has_MitigationPrinciple
 
 Maintain water tank and sanitary systems
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_835.md)
-* [routine flushing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3946.md)
+* [COVID-19 Experience Transforming the Protective Environment of Office Buildings and Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_120.md)
 

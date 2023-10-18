@@ -2,8 +2,10 @@
 
 # __Smart building materials__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [green building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3858.md)
+* [low-pollutant-emitting products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3859.md)
 
 ## Closest similar item
 
@@ -18,16 +20,14 @@
 * [Sustainable Building Design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1786.md)
 * [Flexible building](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1662.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_282.md)
 
 ## Property: has_MitigationPrinciple
 
 Use materials certified as low-pollutant-emitting to improve indoor air quality and reduce health risks
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [green building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3858.md)
-* [low-pollutant-emitting products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3859.md)
+* [Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_282.md)
 

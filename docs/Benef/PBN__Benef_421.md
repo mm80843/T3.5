@@ -2,10 +2,6 @@
 
 # __Improved crisis-information repositories__
 
-## Name of the Benefit
-
-Establishing regularly updated crisis-information repositories can lead to a more risk-literate urban citizenry, enhancing preparedness and response to future pandemics.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors in the development and maintenance of crisis-information repositories can benefit from increased demand and usage, potentially leading to increased revenue and profitability.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_452.md)
@@ -17,4 +13,8 @@ Establishing regularly updated crisis-information repositories can lead to a mor
 ## Articles mentionning this Benefit
 
 * [COVID-19: Lessons for an Urban(izing) World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_85.md)
+
+## Name of the Benefit
+
+Establishing regularly updated crisis-information repositories can lead to a more risk-literate urban citizenry, enhancing preparedness and response to future pandemics.
 

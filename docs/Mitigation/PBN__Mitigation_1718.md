@@ -2,9 +2,10 @@
 
 # __Digital communication strategies__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2599.md)
+* [digital communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_897.md)
+* [online forums](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4028.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Use of digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3471.md)
 * [Development of reliable communication channels, sharing accurate information, coordination platforms.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3841.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19: A new digital dawn?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_93.md)
+* [Lack of information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2599.md)
 
 ## Property: has_MitigationPrinciple
 
 Develop digital communication strategies to share information, collaborate, and discuss digital health solutions
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [digital communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_897.md)
-* [online forums](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4028.md)
+* [COVID-19: A new digital dawn?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_93.md)
 

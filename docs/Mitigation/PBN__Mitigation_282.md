@@ -2,8 +2,9 @@
 
 # __Personalized Ventilation__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [personalized air supply devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3114.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1369.md)
 * [Improved Ventilation Systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_807.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Methods for air cleaning and protection of building occupants from airborne pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_240.md)
 
 ## Property: has_MitigationPrinciple
 
 Providing individual occupants with clean air in their breathing zone to protect them from airborne pathogens and improve perceived air quality
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [personalized air supply devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3114.md)
+* [Methods for air cleaning and protection of building occupants from airborne pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_240.md)
 

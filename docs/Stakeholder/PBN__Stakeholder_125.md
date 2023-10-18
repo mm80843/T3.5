@@ -20,6 +20,25 @@
 * [urban planning tools](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2844.md)
 * [urban planning and city management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2845.md)
 
+## Risk affecting this stakeholder
+
+* [Impact of population density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1729.md)
+* [Lack of international strategy including built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1604.md)
+* [High population density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_620.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Urban Planning Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_0.md)
+* [Public and Municipal Services](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_9.md)
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Comprehensive and objective data](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_219.md)
+* [Improved emergency response and public health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_299.md)
+* [Stronger communities and better public health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_301.md)
+* [Increased recognition of UGS importance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_968.md)
+* [Improved understanding and analysis of public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1245.md)
+
 ## Risks that can be mitigated by this stakeholder
 
 * [Spatial inequalities in mobility patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1211.md)
@@ -86,23 +105,4 @@
 * [Inequities and exclusions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1467.md)
 * [Air circulation-limiting potential of tall, planted roadside vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1665.md)
 * [Impact of reduced](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2291.md)
-
-## Risk affecting this stakeholder
-
-* [Impact of population density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1729.md)
-* [Lack of international strategy including built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1604.md)
-* [High population density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_620.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Urban Planning Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_0.md)
-* [Public and Municipal Services](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_9.md)
-
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Comprehensive and objective data](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_219.md)
-* [Improved emergency response and public health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_299.md)
-* [Stronger communities and better public health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_301.md)
-* [Increased recognition of UGS importance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_968.md)
-* [Improved understanding and analysis of public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1245.md)
 

@@ -2,9 +2,10 @@
 
 # __Access to green spaces__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Mental health harms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3.md)
+* [parks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1740.md)
+* [green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_146.md)
 
 ## Closest similar item
 
@@ -19,17 +20,16 @@
 * [Visible and accessible green elements and spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_496.md)
 * [Increase the availability and accessibility of green spaces close to residential areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2492.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Dangerous liaisons? Applying the social harm perspective to the social inequality, housing and health trifecta during the Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_2.md)
-* [COVID-19 Lockdown: Housing Built Environment’s Effects on Mental Health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_254.md)
+* [Mental health harms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3.md)
 
 ## Property: has_MitigationPrinciple
 
 Ensuring access to green spaces in the neighbourhood can promote mental health and well-being by providing opportunities for outdoor activities, relaxation, and connection with nature.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [parks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1740.md)
-* [green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_146.md)
+* [Dangerous liaisons? Applying the social harm perspective to the social inequality, housing and health trifecta during the Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_2.md)
+* [COVID-19 Lockdown: Housing Built Environment’s Effects on Mental Health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_254.md)
 

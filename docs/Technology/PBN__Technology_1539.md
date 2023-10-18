@@ -2,6 +2,10 @@
 
 # __logistics systems__
 
+## Risks linked to this technology
+
+* [Inadequate supplies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2058.md)
+
 ## Closest similar item
 
 * [logistics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3644.md)
@@ -15,15 +19,11 @@
 * [supply chain management systems and tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1792.md)
 * [supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3600.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Inadequate supplies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2058.md)
+* [Q177777](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q177777.md)
 
 ## This Technology enables the following mitigations
 
 * [Continuous supply of essential materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1673.md)
-
-## This Technology is identified by the following QID
-
-* [Q177777](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q177777.md)
 

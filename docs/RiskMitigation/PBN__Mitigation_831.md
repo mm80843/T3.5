@@ -2,9 +2,9 @@
 
 # __Limited occupancy__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Crowded spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1499.md)
+* [digital reservation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3480.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Livable outdoor space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_118.md)
 * [Increased Outdoor Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_142.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Assessment of COVID-19 precautionary measures in sports facilities: A case study on a health club in Saudi Arabia](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_128.md)
+* [Crowded spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1499.md)
 
 ## Property: has_MitigationPrinciple
 
 Limit the number of individuals allowed in a space to reduce crowding and maintain social distancing
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [digital reservation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3480.md)
+* [Assessment of COVID-19 precautionary measures in sports facilities: A case study on a health club in Saudi Arabia](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_128.md)
 

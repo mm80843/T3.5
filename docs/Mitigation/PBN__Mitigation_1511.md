@@ -2,9 +2,10 @@
 
 # __Community vaccination programs__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lower vaccination rates](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3105.md)
+* [community outreach](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1489.md)
+* [vaccination clinics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3897.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Increased Funding for Vaccine Research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1452.md)
 * [Community outreach and participation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_94.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [What has been the impact of the COVID-19 pandemic on immigrants? An update on recent evidence](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_287.md)
+* [Lower vaccination rates](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3105.md)
 
 ## Property: has_MitigationPrinciple
 
 Organizing community vaccination programs and outreach efforts can increase vaccination rates among immigrants by providing convenient access to vaccines and addressing barriers to vaccination.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [community outreach](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1489.md)
-* [vaccination clinics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3897.md)
+* [What has been the impact of the COVID-19 pandemic on immigrants? An update on recent evidence](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_287.md)
 

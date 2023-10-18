@@ -2,10 +2,6 @@
 
 # __Increased resilience__
 
-## Name of the Benefit
-
-Combining internal and external resources to address adversity and create opportunities
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Enhanced ability to withstand crisis and pursue new entrepreneurial opportunities](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_856.md)
@@ -17,4 +13,8 @@ Combining internal and external resources to address adversity and create opport
 ## Articles mentionning this Benefit
 
 * [Startups in times of crisis – A rapid response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_158.md)
+
+## Name of the Benefit
+
+Combining internal and external resources to address adversity and create opportunities
 

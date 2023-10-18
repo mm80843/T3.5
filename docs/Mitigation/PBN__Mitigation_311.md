@@ -2,8 +2,11 @@
 
 # __Active travel__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [e-scooters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3148.md)
+* [walking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3149.md)
+* [bicycles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3147.md)
 
 ## Closest similar item
 
@@ -18,17 +21,14 @@
 * [Travel Restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_710.md)
 * [Walking, Cycling, and Public Transportation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1290.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Responsible Transport: A post-COVID agenda for transport policy and practice](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_148.md)
 
 ## Property: has_MitigationPrinciple
 
 Promoting walking and cycling as alternative modes of transportation that are more environmentally friendly and allow for social distancing.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [e-scooters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3148.md)
-* [walking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3149.md)
-* [bicycles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3147.md)
+* [Responsible Transport: A post-COVID agenda for transport policy and practice](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_148.md)
 

@@ -2,6 +2,14 @@
 
 # __use of fans and ventilation systems__
 
+## Risks linked to this technology
+
+* [Lack of continuous air circulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1429.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [HVAC and Air Quality Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_90.md)
+
 ## Closest similar item
 
 * [ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
@@ -15,19 +23,11 @@
 * [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2225.md)
 * [mechanical ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1013.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Lack of continuous air circulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1429.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [HVAC and Air Quality Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_90.md)
+* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
 
 ## This Technology is identified by the following QID
 
 * [Q7997508](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7997508.md)
-
-## This Technology belongs to this TechGroup
-
-* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
 

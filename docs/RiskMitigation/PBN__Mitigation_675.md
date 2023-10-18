@@ -2,9 +2,8 @@
 
 # __Density reduction__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Higher COVID-19 infection rate](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2681.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Design spaces with lower occupant density](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_976.md)
 * [Middle density housing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1046.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Treating two pandemics for the price of one: Chronic and infectious disease impacts of the built and natural environment](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_174.md)
+* [Higher COVID-19 infection rate](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2681.md)
 
 ## Property: has_MitigationPrinciple
 
 Reducing population density can help decrease the spread of contagious diseases, as it limits close contact between individuals and reduces the likelihood of transmission.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Treating two pandemics for the price of one: Chronic and infectious disease impacts of the built and natural environment](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_174.md)
 

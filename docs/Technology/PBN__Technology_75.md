@@ -2,6 +2,16 @@
 
 # __community support groups__
 
+## Risks linked to this technology
+
+* [Domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1766.md)
+* [Interrupted education for children and adults](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_780.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Well-being and Lifestyle](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_45.md)
+* [Collaboration and Community Engagement Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_37.md)
+
 ## Closest similar item
 
 * [Community support groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2192.md)
@@ -15,26 +25,16 @@
 * [community organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1073.md)
 * [support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3422.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1766.md)
-* [Interrupted education for children and adults](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_780.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Well-being and Lifestyle](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_45.md)
-* [Collaboration and Community Engagement Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_37.md)
-
-## This Technology enables the following mitigations
-
-* [Mobilizing informal institutions for education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_85.md)
+* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 
 ## This Technology is identified by the following QID
 
 * [Q112206160](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q112206160.md)
 
-## This Technology belongs to this TechGroup
+## This Technology enables the following mitigations
 
-* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
-* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
+* [Mobilizing informal institutions for education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_85.md)
 

@@ -2,7 +2,7 @@
 
 # __Information dissemination__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
 
 ## Closest similar item
@@ -18,14 +18,14 @@
 * [Prevention of false information spreading](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_366.md)
 * [Social media](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1717.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [An investigation of transmission control measures during the first 50 days of the COVID-19 epidemic in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_197.md)
 
 ## Property: has_MitigationPrinciple
 
 Widely disseminating information about COVID-19 to increase public awareness and promote preventive measures
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [An investigation of transmission control measures during the first 50 days of the COVID-19 epidemic in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_197.md)
 

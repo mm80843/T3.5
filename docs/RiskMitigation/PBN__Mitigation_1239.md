@@ -2,9 +2,10 @@
 
 # __Regular Physical Activity__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Mental health issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1390.md)
+* [exercise equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3238.md)
+* [internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3058.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Comparative research on exercise behaviors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_80.md)
 * [Physical activity promotion strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_73.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The impact of physical activity on psychological health during Covid-19 pandemic in Italy](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_18.md)
+* [Mental health issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1390.md)
 
 ## Property: has_MitigationPrinciple
 
 Regular physical activity can ameliorate mental well-being and prevent symptoms of mental health disorders.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [exercise equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3238.md)
-* [internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3058.md)
+* [The impact of physical activity on psychological health during Covid-19 pandemic in Italy](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_18.md)
 

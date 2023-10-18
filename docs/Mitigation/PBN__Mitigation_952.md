@@ -2,10 +2,10 @@
 
 # __Stay-at-home orders__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Community spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2409.md)
-* [None](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2827.md)
+* [government regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_919.md)
+* [information dissemination technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3560.md)
 
 ## Closest similar item
 
@@ -20,17 +20,17 @@
 * [Monitoring buying behavior and limiting purchases; optimizing supply chains; surveillance and enforcement against hoarding](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3093.md)
 * [Domestic-based supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3623.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Impacts of COVID-19 on residential building energy use and performance](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_97.md)
-* [Designing for COVID-2x: Reflecting on Future-Proofing Human Habitation for the Inevitable Next Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_149.md)
+* [Community spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2409.md)
+* [None](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2827.md)
 
 ## Property: has_MitigationPrinciple
 
 By instructing individuals to stay at home, the interaction between people is limited and the spread of contagious diseases is curtailed.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [government regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_919.md)
-* [information dissemination technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3560.md)
+* [Impacts of COVID-19 on residential building energy use and performance](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_97.md)
+* [Designing for COVID-2x: Reflecting on Future-Proofing Human Habitation for the Inevitable Next Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_149.md)
 

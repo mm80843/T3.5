@@ -2,19 +2,6 @@
 
 # __public health campaigns__
 
-## Closest similar item
-
-* [public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_167.md)
-* [public health campaigns to promote reliable information](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1438.md)
-* [health promotion campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1217.md)
-* [Health promotion campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2253.md)
-* [public health initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2908.md)
-* [public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_102.md)
-* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2134.md)
-* [public information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_8.md)
-* [Public information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2162.md)
-* [outreach campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1206.md)
-
 ## Risks linked to this technology
 
 * [Lack of public health awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1327.md)
@@ -33,11 +20,24 @@
 
 * [Public Education and Awareness Campaigns](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_40.md)
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q189603](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q189603.md)
+* [public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_167.md)
+* [public health campaigns to promote reliable information](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1438.md)
+* [health promotion campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1217.md)
+* [Health promotion campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2253.md)
+* [public health initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2908.md)
+* [public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_102.md)
+* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2134.md)
+* [public information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_8.md)
+* [Public information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2162.md)
+* [outreach campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1206.md)
 
 ## This Technology belongs to this TechGroup
 
 * [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
+
+## This Technology is identified by the following QID
+
+* [Q189603](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q189603.md)
 

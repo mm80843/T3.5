@@ -2,21 +2,24 @@
 
 # __Privacy concerns in data collection__
 
+## Property: has_RiskHealth
+
+
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Description of the risk
+
+Collecting data for screening and monitoring purposes raises privacy concerns.
+
 ## Property: has_RiskType
 
 * [legal](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_6.md)
 
-## People affected by this risk
+## Articles mentionning the risk
 
-* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
-
-## Name of the risk
-
-Risk of infringing on individuals' privacy
-
-## Property: has_RiskISO_Purpose
-
-* [Research](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_11.md)
+* [Combating COVID-19—The role of robotics in managing public health and infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_23.md)
 
 ## Closest similar item
 
@@ -31,34 +34,31 @@ Risk of infringing on individuals' privacy
 * [Data privacy and security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2312.md)
 * [Security and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2083.md)
 
-## Description of the risk
+## People affected by this risk
 
-Collecting data for screening and monitoring purposes raises privacy concerns.
-
-## Technologies linked to the risk
-
-
-## Property: has_RiskHealth
-
-
-## Mitigations of this risk
-
-* [Introduction of appropriate rules to respect privacy in data collection and contact tracing efforts.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3086.md)
-
-## Articles mentionning the risk
-
-* [Combating COVID-19—The role of robotics in managing public health and infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_23.md)
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Innovation, Creativity and research](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_2.md)
 
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
 ## Stakeholders who can mitigate this risk
 
 * [regulatory bodies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_708.md)
 * [data protection authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_786.md)
+
+## Name of the risk
+
+Risk of infringing on individuals' privacy
+
+## Mitigations of this risk
+
+* [Introduction of appropriate rules to respect privacy in data collection and contact tracing efforts.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3086.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Research](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_11.md)
+
+## Technologies linked to the risk
+
 

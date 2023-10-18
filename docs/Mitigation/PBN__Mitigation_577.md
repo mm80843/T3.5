@@ -2,15 +2,8 @@
 
 # __Lockdown__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Economic instability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2026.md)
-* [Spread of contagious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_20.md)
-* [Spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
-* [Transmission of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2123.md)
-* [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
-* [Economic impact, mental health issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2772.md)
-* [Transmission, Economy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2678.md)
 
 ## Closest similar item
 
@@ -25,6 +18,20 @@
 * [virtual access to green spaces during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2506.md)
 * [Inner-city green spaces during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2507.md)
 
+## Risks possibly mitigated by this Mitigation
+
+* [Economic instability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2026.md)
+* [Spread of contagious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_20.md)
+* [Spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
+* [Transmission of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2123.md)
+* [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
+* [Economic impact, mental health issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2772.md)
+* [Transmission, Economy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2678.md)
+
+## Property: has_MitigationPrinciple
+
+Restrict movement and interaction within a defined geographic area to limit the spread of the virus
+
 ## Property: has_MitigationSource
 
 * [Building up an ecologically sustainable and socially desirable post-COVID-19 future](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_5.md)
@@ -37,11 +44,4 @@
 * [Health, Economic and Social Development Challenges of the COVID-19 Pandemic: Strategies for Multiple and Interconnected Issues](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_144.md)
 * [Effect of non-pharmaceutical interventions in the early phase of the COVID-19 epidemic in Saudi Arabia](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_84.md)
 * [COVID-ABS: An agent-based model of COVID-19 epidemic to simulate health and economic effects of social distancing interventions](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_139.md)
-
-## Property: has_MitigationPrinciple
-
-Restrict movement and interaction within a defined geographic area to limit the spread of the virus
-
-## This Mitigation is enabled by the following technologies
-
 

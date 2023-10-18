@@ -2,6 +2,15 @@
 
 # __fact-checking websites__
 
+## Risks linked to this technology
+
+* [Inaccurate or unreliable COVID-19 information disseminated](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1783.md)
+* [Spread of inaccurate medical information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1861.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Fact-Checking and Information Verification](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_17.md)
+
 ## Closest similar item
 
 * [Fact-checking websites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2159.md)
@@ -15,20 +24,11 @@
 * [fact-checking organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_937.md)
 * [fact-checking mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_581.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Inaccurate or unreliable COVID-19 information disseminated](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1783.md)
-* [Spread of inaccurate medical information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1861.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Fact-Checking and Information Verification](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_17.md)
+* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
 
 ## This Technology is identified by the following QID
 
 * [Q59555084](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q59555084.md)
-
-## This Technology belongs to this TechGroup
-
-* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
 

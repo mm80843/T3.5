@@ -2,22 +2,25 @@
 
 # __Exclusion from government support programs__
 
+## Property: has_RiskHealth
+
+* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_3.md)
+
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Description of the risk
+
+Startups are excluded from government support programs due to their specific characteristics or bureaucratic hurdles.
+
 ## Property: has_RiskType
 
 * [political](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_1.md)
 
-## People affected by this risk
+## Articles mentionning the risk
 
-* [entrepreneurs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_417.md)
-* [startup founders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1033.md)
-
-## Name of the risk
-
-Limited financial support and resources.
-
-## Property: has_RiskISO_Purpose
-
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+* [Startups in times of crisis – A rapid response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_158.md)
 
 ## Closest similar item
 
@@ -32,37 +35,34 @@ Limited financial support and resources.
 * [Ineffective mitigation policies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_542.md)
 * [Lack of financial inclusion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2160.md)
 
-## Description of the risk
+## People affected by this risk
 
-Startups are excluded from government support programs due to their specific characteristics or bureaucratic hurdles.
-
-## Technologies linked to the risk
-
-* [online entrepreneurship communities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_914.md)
-* [lobbying initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_913.md)
-
-## Property: has_RiskHealth
-
-* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_3.md)
-
-## Mitigations of this risk
-
-* [Advocate for startup-specific support, gather information through entrepreneurial networks.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2135.md)
-
-## Articles mentionning the risk
-
-* [Startups in times of crisis – A rapid response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_158.md)
+* [entrepreneurs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_417.md)
+* [startup founders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1033.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
 ## Stakeholders who can mitigate this risk
 
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 * [startups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_322.md)
+
+## Name of the risk
+
+Limited financial support and resources.
+
+## Mitigations of this risk
+
+* [Advocate for startup-specific support, gather information through entrepreneurial networks.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2135.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+
+## Technologies linked to the risk
+
+* [online entrepreneurship communities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_914.md)
+* [lobbying initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_913.md)
 

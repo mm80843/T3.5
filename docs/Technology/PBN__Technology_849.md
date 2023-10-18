@@ -2,6 +2,14 @@
 
 # __outdoor terraces in healthcare facilities__
 
+## Risks linked to this technology
+
+* [Lack of green spaces in healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1547.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Green and Outdoor Spaces](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_83.md)
+
 ## Closest similar item
 
 * [terraces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4349.md)
@@ -15,19 +23,11 @@
 * [on-site recreational amenities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3011.md)
 * [courtyard concept](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2956.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Lack of green spaces in healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1547.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Green and Outdoor Spaces](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_83.md)
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 
 ## This Technology is identified by the following QID
 
 * [Q4260475](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4260475.md)
-
-## This Technology belongs to this TechGroup
-
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 

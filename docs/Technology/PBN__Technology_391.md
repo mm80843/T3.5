@@ -2,6 +2,15 @@
 
 # __telehealth conferencing software__
 
+## Risks linked to this technology
+
+* [Patient Rapport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1266.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Healthcare and Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_19.md)
+* [Communication and Collaboration Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_111.md)
+
 ## Closest similar item
 
 * [telehealth system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2928.md)
@@ -15,21 +24,12 @@
 * [telehealth solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1172.md)
 * [Telehealth solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2293.md)
 
-## Risks linked to this technology
-
-* [Patient Rapport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1266.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Healthcare and Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_19.md)
-* [Communication and Collaboration Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_111.md)
-
-## This Technology is identified by the following QID
-
-* [Q4923501](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4923501.md)
-
 ## This Technology belongs to this TechGroup
 
 * [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
 * [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
+
+## This Technology is identified by the following QID
+
+* [Q4923501](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4923501.md)
 

@@ -2,6 +2,14 @@
 
 # __capacity management systems__
 
+## Risks linked to this technology
+
+* [Reduced demand for public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1931.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Communication and Information Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_46.md)
+
 ## Closest similar item
 
 * [capacity building](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_451.md)
@@ -15,19 +23,11 @@
 * [allocation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3574.md)
 * [supply chain management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_110.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Reduced demand for public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1931.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Communication and Information Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_46.md)
+* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
 
 ## This Technology is identified by the following QID
 
 * [Q1417724](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1417724.md)
-
-## This Technology belongs to this TechGroup
-
-* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
 

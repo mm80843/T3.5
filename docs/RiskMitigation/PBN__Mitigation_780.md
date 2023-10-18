@@ -2,9 +2,9 @@
 
 # __Adaptable and flexible design__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Inflexible building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2738.md)
+* [design principles that allow for future modifications and customization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3450.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Flexible building systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2167.md)
 * [designs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1663.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Houses amid COVID-19: Environmental challenges and design adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_277.md)
+* [Inflexible building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2738.md)
 
 ## Property: has_MitigationPrinciple
 
 Create buildings with adaptable and flexible design principles that can easily be modified and customized to meet changing needs, including future disease outbreaks or lifestyle changes
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [design principles that allow for future modifications and customization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3450.md)
+* [Houses amid COVID-19: Environmental challenges and design adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_277.md)
 

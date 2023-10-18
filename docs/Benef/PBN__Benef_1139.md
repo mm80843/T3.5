@@ -2,10 +2,6 @@
 
 # __Increased awareness of COVID-19 risk__
 
-## Name of the Benefit
-
-Users can conduct independent detection and understand their risk of infection.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved public health, reduced transmission rates, increased demand for the mobile application.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1272.md)
@@ -17,4 +13,8 @@ Users can conduct independent detection and understand their risk of infection.
 ## Articles mentionning this Benefit
 
 * [Risk Diagnosis and Mitigation System of COVID-19 Using Expert System and Web Scraping](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_237.md)
+
+## Name of the Benefit
+
+Users can conduct independent detection and understand their risk of infection.
 

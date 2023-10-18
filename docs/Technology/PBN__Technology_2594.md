@@ -2,6 +2,9 @@
 
 # __Partition barriers__
 
+## This Technology belongs to this TechSubgroup
+
+
 ## Closest similar item
 
 * [Partition barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2594.md)
@@ -15,14 +18,11 @@
 * [protective barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_229.md)
 * [Protective barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2549.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
+* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
 
 ## This Technology is identified by the following QID
 
 * [Q808918](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q808918.md)
-
-## This Technology belongs to this TechGroup
-
-* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
 

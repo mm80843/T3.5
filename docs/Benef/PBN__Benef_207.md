@@ -2,10 +2,6 @@
 
 # __Reduced transmission risk__
 
-## Name of the Benefit
-
-Reduced risk of contracting SARS-CoV-2 through contaminated surfaces and hands
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Enhanced reputation and marketability of buildings, attracting more tenants and higher rental rates.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_214.md)
@@ -39,4 +35,8 @@ Reduced risk of contracting SARS-CoV-2 through contaminated surfaces and hands
 * [The Role of Architecture and Urbanism in Preventing Pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_140.md)
 * [Sustainability of Coronavirus on Different Surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_142.md)
 * [Identifying Actions to Control and Mitigate the Effects of the COVID-19 Pandemic on Construction Organizations: Preliminary Findings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_220.md)
+
+## Name of the Benefit
+
+Reduced risk of contracting SARS-CoV-2 through contaminated surfaces and hands
 

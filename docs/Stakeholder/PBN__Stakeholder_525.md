@@ -2,6 +2,10 @@
 
 # __building owners and operators__
 
+## This Stakeholder is identified by the following QID
+
+* [Q4986523](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4986523.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
@@ -20,14 +24,6 @@
 * [building manager and owner](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1947.md)
 * [building owner and manager](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2024.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Crowded spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1499.md)
-* [Contagious diseases propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_153.md)
-* [Transmission of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2123.md)
-* [Inadequate ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_713.md)
-* [Lack of hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1498.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Real Estate and Construction](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_31.md)
@@ -36,7 +32,11 @@
 
 * [More accurate energy billing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1347.md)
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q4986523](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4986523.md)
+* [Crowded spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1499.md)
+* [Contagious diseases propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_153.md)
+* [Transmission of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2123.md)
+* [Inadequate ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_713.md)
+* [Lack of hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1498.md)
 

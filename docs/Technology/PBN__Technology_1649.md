@@ -2,6 +2,10 @@
 
 # __uv-c light technology__
 
+## Risks linked to this technology
+
+* [Fomite transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_609.md)
+
 ## Closest similar item
 
 * [uv-c light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3098.md)
@@ -15,16 +19,12 @@
 * [ultraviolet light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4402.md)
 * [uv-c light disinfection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1253.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Fomite transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_609.md)
+* [Q961734](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q961734.md)
 
 ## This Technology enables the following mitigations
 
 * [Use of UV-C light for disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_345.md)
 * [Filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_815.md)
-
-## This Technology is identified by the following QID
-
-* [Q961734](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q961734.md)
 

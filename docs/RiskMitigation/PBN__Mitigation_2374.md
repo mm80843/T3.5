@@ -2,8 +2,9 @@
 
 # __Digital thermometers__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [digital thermometers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4442.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Mobile robots for temperature measurement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2421.md)
 * [Infrared thermal cameras](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2372.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Applications of digital technology in COVID-19 pandemic planning and response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_127.md)
 
 ## Property: has_MitigationPrinciple
 
 Real-time data collection on clusters of febrile illness for early detection of COVID-19 outbreaks
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [digital thermometers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4442.md)
+* [Applications of digital technology in COVID-19 pandemic planning and response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_127.md)
 

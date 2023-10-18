@@ -2,6 +2,9 @@
 
 # __Virtual support groups__
 
+## This Technology belongs to this TechSubgroup
+
+
 ## Closest similar item
 
 * [Virtual support groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2284.md)
@@ -15,14 +18,11 @@
 * [online support forums](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1248.md)
 * [community support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_595.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
 
 ## This Technology is identified by the following QID
 
 * [Q1196038](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1196038.md)
-
-## This Technology belongs to this TechGroup
-
-* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
 

@@ -2,10 +2,6 @@
 
 # __Real-time monitoring and optimization__
 
-## Name of the Benefit
-
-Continuous monitoring and data analysis allows for real-time intervention and resource optimization.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved resource utilization and cost efficiency for healthcare providers.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_220.md)
@@ -17,4 +13,8 @@ Continuous monitoring and data analysis allows for real-time intervention and re
 ## Articles mentionning this Benefit
 
 * [Digital Twin of COVID-19 Mass Vaccination Centers](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_47.md)
+
+## Name of the Benefit
+
+Continuous monitoring and data analysis allows for real-time intervention and resource optimization.
 

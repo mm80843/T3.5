@@ -2,9 +2,9 @@
 
 # __Occupancy-sensed lighting__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Unnecessary energy usage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2429.md)
+* [occupancy sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_649.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Implement measures to control occupancy and enforce physical distancing rules in the facility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3033.md)
 * [Adequate daylighting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3393.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Occupants’ behavior and activity patterns influencing the energy consumption in the Kuwaiti residences](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_260.md)
+* [Unnecessary energy usage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2429.md)
 
 ## Property: has_MitigationPrinciple
 
 Automatically turning off lights in unoccupied rooms to reduce energy waste.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [occupancy sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_649.md)
+* [Occupants’ behavior and activity patterns influencing the energy consumption in the Kuwaiti residences](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_260.md)
 

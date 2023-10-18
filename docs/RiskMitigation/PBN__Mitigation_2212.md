@@ -2,9 +2,10 @@
 
 # __Promoting awareness and education__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of knowledge and awareness about green areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3388.md)
+* [public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_102.md)
+* [educational materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_495.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Public health awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1517.md)
 * [Public education and communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1137.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Access and Use of Green Areas during the COVID-19 Pandemic: Green Infrastructure Management in the “New Normal”](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_275.md)
+* [Lack of knowledge and awareness about green areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3388.md)
 
 ## Property: has_MitigationPrinciple
 
 Increase public awareness and education about the benefits of green areas and the importance of their preservation and use for improved health and well-being
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_102.md)
-* [educational materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_495.md)
+* [Access and Use of Green Areas during the COVID-19 Pandemic: Green Infrastructure Management in the “New Normal”](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_275.md)
 

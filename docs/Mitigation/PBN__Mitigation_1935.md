@@ -2,9 +2,10 @@
 
 # __Integration of Medical Tools and Devices through the Internet__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Real-time Information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3292.md)
+* [iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
+* [connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4145.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Telemedicine apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1703.md)
 * [Integration and interoperability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_59.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Internet of things (IoT) applications to fight against COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_295.md)
+* [Real-time Information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3292.md)
 
 ## Property: has_MitigationPrinciple
 
 Connects and integrates medical tools and devices through IoT for real-time information during treatment
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
-* [connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4145.md)
+* [Internet of things (IoT) applications to fight against COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_295.md)
 

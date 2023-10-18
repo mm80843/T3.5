@@ -2,6 +2,10 @@
 
 # __waste management agencies__
 
+## This Stakeholder is identified by the following QID
+
+* [Q180388](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q180388.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
@@ -19,10 +23,6 @@
 * [waste management systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1443.md)
 * [waste management system](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2671.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_613.md)
-
 ## Risk affecting this stakeholder
 
 * [Waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_613.md)
@@ -31,7 +31,7 @@
 
 * [Waste Management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_114.md)
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q180388](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q180388.md)
+* [Waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_613.md)
 

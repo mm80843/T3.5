@@ -2,6 +2,11 @@
 
 # __Remote healthcare services__
 
+## This Technology belongs to this TechSubgroup
+
+* [Telemedicine and Telehealth Services](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_28.md)
+* [Remote Monitoring and Patient Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_108.md)
+
 ## Closest similar item
 
 * [Remote healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2279.md)
@@ -15,16 +20,11 @@
 * [remote monitoring of patients](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_21.md)
 * [Telehealth services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2277.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Telemedicine and Telehealth Services](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_28.md)
-* [Remote Monitoring and Patient Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_108.md)
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
 
 ## This Technology is identified by the following QID
 
 * [Q7312165](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7312165.md)
-
-## This Technology belongs to this TechGroup
-
-* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
 

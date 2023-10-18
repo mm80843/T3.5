@@ -2,9 +2,9 @@
 
 # __Dense vegetation__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Safety concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1795.md)
+* [green space design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3370.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [High-rise density](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_22.md)
 * [Increased greenery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2166.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Green infrastructure through the lens of “One Health”: A systematic review and integrative framework uncovering synergies and trade-offs between mental health and wildlife support in cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_150.md)
+* [Safety concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1795.md)
 
 ## Property: has_MitigationPrinciple
 
 Balancing dense vegetation to provide suitable habitats for urban wildlife while addressing safety concerns and providing visibility for humans.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [green space design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3370.md)
+* [Green infrastructure through the lens of “One Health”: A systematic review and integrative framework uncovering synergies and trade-offs between mental health and wildlife support in cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_150.md)
 

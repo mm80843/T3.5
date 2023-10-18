@@ -2,9 +2,10 @@
 
 # __Telemedicine and remote consultation__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Limited access, internet speed](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2995.md)
+* [video conferencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_406.md)
+* [telecommunication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2925.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Telehealth services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_48.md)
 * [Telehealth Services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_361.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [A critical review of emerging technologies for tackling COVID ‐19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_91.md)
+* [Limited access, internet speed](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2995.md)
 
 ## Property: has_MitigationPrinciple
 
 Enable remote healthcare services, consultations, and monitoring to reduce exposure
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [video conferencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_406.md)
-* [telecommunication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2925.md)
+* [A critical review of emerging technologies for tackling COVID ‐19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_91.md)
 

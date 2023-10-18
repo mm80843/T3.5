@@ -2,10 +2,6 @@
 
 # __Virus recreation__
 
-## Name of the Benefit
-
-Increased understanding of virus and potential treatments
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Potential for new intellectual property and commercial applications](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_643.md)
@@ -17,4 +13,8 @@ Increased understanding of virus and potential treatments
 ## Articles mentionning this Benefit
 
 * [Current knowledge of COVID-19: Advances, challenges and future perspectives](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_118.md)
+
+## Name of the Benefit
+
+Increased understanding of virus and potential treatments
 

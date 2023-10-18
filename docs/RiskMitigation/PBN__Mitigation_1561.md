@@ -2,9 +2,9 @@
 
 # __Promoting worker safety__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3138.md)
+* [signs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3923.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Employee training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1570.md)
 * [Providing income and support to impacted workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2262.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Impacts of COVID-19 on Health and Safety of Workforce in Construction Industry](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_49.md)
+* [Lack of distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3138.md)
 
 ## Property: has_MitigationPrinciple
 
 Place signs in work areas to remind workers to maintain physical distancing
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [signs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3923.md)
+* [Impacts of COVID-19 on Health and Safety of Workforce in Construction Industry](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_49.md)
 

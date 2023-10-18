@@ -2,8 +2,11 @@
 
 # __Multicomponent exercise program__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [online fitness programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3240.md)
+* [fitness apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3239.md)
+* [exercise equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3238.md)
 
 ## Closest similar item
 
@@ -18,17 +21,14 @@
 * [Adaptation of exercise intensity and volume](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_457.md)
 * [Detailed and better task planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_506.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Staying Physically Active During the Quarantine and Self-Isolation Period for Controlling and Mitigating the COVID-19 Pandemic: A Systematic Overview of the Literature](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_181.md)
 
 ## Property: has_MitigationPrinciple
 
 Engaging in a variety of exercises (aerobic, balance, resistance, etc.) to improve physical and mental health.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [online fitness programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3240.md)
-* [fitness apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3239.md)
-* [exercise equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3238.md)
+* [Staying Physically Active During the Quarantine and Self-Isolation Period for Controlling and Mitigating the COVID-19 Pandemic: A Systematic Overview of the Literature](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_181.md)
 

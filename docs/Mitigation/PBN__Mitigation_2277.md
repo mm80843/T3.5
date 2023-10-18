@@ -2,9 +2,10 @@
 
 # __Monitoring social media content__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Spread of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_396.md)
+* [data analysis tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_554.md)
+* [monitoring software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1659.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Increased self-awareness of social media users](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_964.md)
 * [Use of social media by firms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_959.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [El Rol De Las Redes Sociales En La Pandemia Del Covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_138.md)
+* [Spread of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_396.md)
 
 ## Property: has_MitigationPrinciple
 
 Monitoring and analyzing social media content to identify and address false information and rumors, providing crucial information for health managers to handle the crisis effectively.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [data analysis tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_554.md)
-* [monitoring software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1659.md)
+* [El Rol De Las Redes Sociales En La Pandemia Del Covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_138.md)
 

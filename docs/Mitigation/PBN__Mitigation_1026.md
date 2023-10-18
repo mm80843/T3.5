@@ -2,9 +2,8 @@
 
 # __Resilience Building__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_492.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Resilient supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1095.md)
 * [Disaster management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2250.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Startups in times of crisis – A rapid response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_158.md)
+* [Lack of preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_492.md)
 
 ## Property: has_MitigationPrinciple
 
 Recognizes the importance of being innovative and building resilience as a means of preparing for and coping with crises, such as the COVID-19 pandemic.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Startups in times of crisis – A rapid response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_158.md)
 

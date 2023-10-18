@@ -2,10 +2,6 @@
 
 # __Improved health and well-being__
 
-## Name of the Benefit
-
-Biophilic design promotes contact with nature which has been proven to improve physical and mental health and well-being of building occupants.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors benefit from creating healthier living environments that can attract tenants and increase property value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_471.md)
@@ -23,4 +19,8 @@ Biophilic design promotes contact with nature which has been proven to improve p
 * [The Role of Architecture and Urbanism in Preventing Pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_140.md)
 * [A Mixed Approach on Resilience of Spanish Dwellings and Households during COVID-19 Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_89.md)
 * [Biophilic design in architecture and its contributions to health, well-being, and sustainability: A critical review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_211.md)
+
+## Name of the Benefit
+
+Biophilic design promotes contact with nature which has been proven to improve physical and mental health and well-being of building occupants.
 

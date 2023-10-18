@@ -2,6 +2,10 @@
 
 # __Targeted investments__
 
+## This Technology belongs to this TechSubgroup
+
+* [Infrastructure and Transportation](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_115.md)
+
 ## Closest similar item
 
 * [Targeted investments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2733.md)
@@ -15,15 +19,11 @@
 * [Investment in education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2642.md)
 * [investments in education and training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1473.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Infrastructure and Transportation](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_115.md)
+* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
 
 ## This Technology is identified by the following QID
 
 * [Q4290](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4290.md)
-
-## This Technology belongs to this TechGroup
-
-* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
 

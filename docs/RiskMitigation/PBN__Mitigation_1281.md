@@ -2,9 +2,9 @@
 
 # __Design for physical distancing__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Close contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2507.md)
+* [architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3564.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Distancing and Building Layout](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1611.md)
 * [Improved social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1272.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Effects of temperature and humidity on the spread of COVID-19: A systematic review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_228.md)
+* [Close contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2507.md)
 
 ## Property: has_MitigationPrinciple
 
 Incorporating architectural design strategies, such as spacing out furniture and creating physical barriers, to facilitate physical distancing in buildings and minimize close contact situations, reducing the risk of virus transmission
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3564.md)
+* [Effects of temperature and humidity on the spread of COVID-19: A systematic review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_228.md)
 

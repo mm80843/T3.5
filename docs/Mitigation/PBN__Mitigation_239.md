@@ -2,8 +2,9 @@
 
 # __Risk communication strategy__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [comprehensive risk communication strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3081.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Increased risk](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2762.md)
 * [Communication Challenges](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2763.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [An e-mental health intervention to support burdened people in times of the COVID-19 pandemic: CoPE It](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_209.md)
 
 ## Property: has_MitigationPrinciple
 
 Risk communication strategies should be developed to address the concerns of diverse communities, promote prevention and response to pandemics, and ensure trust and transparency.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [comprehensive risk communication strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3081.md)
+* [An e-mental health intervention to support burdened people in times of the COVID-19 pandemic: CoPE It](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_209.md)
 

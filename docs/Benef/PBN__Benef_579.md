@@ -2,10 +2,6 @@
 
 # __Efficient relief and rehabilitation efforts__
 
-## Name of the Benefit
-
-Enhanced ability to locate affected areas and allocate resources accordingly
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can benefit from investing in positioning technologies by improving disaster response efforts and reducing infrastructure damage.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_632.md)
@@ -18,4 +14,8 @@ Enhanced ability to locate affected areas and allocate resources accordingly
 ## Articles mentionning this Benefit
 
 * [Emerging Technologies to Combat the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_116.md)
+
+## Name of the Benefit
+
+Enhanced ability to locate affected areas and allocate resources accordingly
 

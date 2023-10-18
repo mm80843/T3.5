@@ -2,9 +2,11 @@
 
 # __Digital care processes__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Delayed implementation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3236.md)
+* [telemedicine platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_623.md)
+* [online communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4031.md)
+* [digital integration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4030.md)
 
 ## Closest similar item
 
@@ -19,17 +21,15 @@
 * [Telemedicine services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1174.md)
 * [Person-centered integrated care](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1800.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19: A new digital dawn?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_93.md)
+* [Delayed implementation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3236.md)
 
 ## Property: has_MitigationPrinciple
 
 Implement digital care processes like remote consultations and virtual team meetings, facilitated by digital integration, to maintain continuity of care during pandemic
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [telemedicine platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_623.md)
-* [online communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4031.md)
-* [digital integration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4030.md)
+* [COVID-19: A new digital dawn?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_93.md)
 

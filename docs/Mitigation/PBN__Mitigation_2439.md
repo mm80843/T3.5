@@ -2,9 +2,8 @@
 
 # __Stay-at-home regulation__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Poor infection control practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3457.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Temporary regulations for certain activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_415.md)
 * [Work-from-home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_703.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Knowledge, attitudes, and practices of Indonesian residents regarding COVID-19: A national cross-sectional survey](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_176.md)
+* [Poor infection control practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3457.md)
 
 ## Property: has_MitigationPrinciple
 
 Regulations requiring individuals to stay at home to reduce the spread of COVID-19
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Knowledge, attitudes, and practices of Indonesian residents regarding COVID-19: A national cross-sectional survey](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_176.md)
 

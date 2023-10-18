@@ -2,6 +2,10 @@
 
 # __Hand washing with soap and water__
 
+## This Technology belongs to this TechSubgroup
+
+* [Disinfection and Cleaning Techniques](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_15.md)
+
 ## Closest similar item
 
 * [Hand washing with soap and water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2821.md)
@@ -15,15 +19,11 @@
 * [hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_509.md)
 * [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2560.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Disinfection and Cleaning Techniques](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_15.md)
+* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
 
 ## This Technology is identified by the following QID
 
 * [Q552461](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q552461.md)
-
-## This Technology belongs to this TechGroup
-
-* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
 

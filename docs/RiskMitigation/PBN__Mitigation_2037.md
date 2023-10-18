@@ -2,9 +2,10 @@
 
 # __Quarantine and isolation facilities__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_489.md)
+* [medical supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1252.md)
+* [rooms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4202.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Effective quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2247.md)
 * [Quarantines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_18.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Preventing and Controlling COVID-19: A Practical-Based Review in Offshore Workplace](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_102.md)
+* [Disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_489.md)
 
 ## Property: has_MitigationPrinciple
 
 Provide temporary isolation and quarantine facilities for infected workers and close contacts
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [medical supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1252.md)
-* [rooms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4202.md)
+* [Preventing and Controlling COVID-19: A Practical-Based Review in Offshore Workplace](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_102.md)
 

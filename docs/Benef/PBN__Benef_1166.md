@@ -2,10 +2,6 @@
 
 # __Data sharing and collaboration__
 
-## Name of the Benefit
-
-Facilitates data sharing, analysis, and collaboration for research and epidemiological studies on COVID-19
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Enhances scientific understanding, informs public health response, and supports evidence-based decision-making](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1297.md)
@@ -18,4 +14,8 @@ Facilitates data sharing, analysis, and collaboration for research and epidemiol
 ## Articles mentionning this Benefit
 
 * [Mobile Technology Solution for COVID-19: Surveillance and Prevention](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_239.md)
+
+## Name of the Benefit
+
+Facilitates data sharing, analysis, and collaboration for research and epidemiological studies on COVID-19
 

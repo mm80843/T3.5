@@ -2,6 +2,10 @@
 
 # __healthcare professionals__
 
+## This Stakeholder is identified by the following QID
+
+* [Q11974939](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11974939.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
@@ -18,14 +22,6 @@
 * [healthcare resources](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2739.md)
 * [Healthcare resources](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2740.md)
 * [access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2755.md)
-
-## Risks that can be mitigated by this stakeholder
-
-* [Poor Health Conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1057.md)
-* [Scalability and performance limitations of model-based solutions for pandemic data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1046.md)
-* [Aspecific and uncontrolled fears related to infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2054.md)
-* [Inadequate TB infection control measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1363.md)
-* [Misdiagnosis and equipment malfunction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2345.md)
 
 ## Risk affecting this stakeholder
 
@@ -104,7 +100,11 @@
 * [Early detection of carriers](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1400.md)
 * [Early detection and personalized treatment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1404.md)
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q11974939](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11974939.md)
+* [Poor Health Conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1057.md)
+* [Scalability and performance limitations of model-based solutions for pandemic data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1046.md)
+* [Aspecific and uncontrolled fears related to infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2054.md)
+* [Inadequate TB infection control measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1363.md)
+* [Misdiagnosis and equipment malfunction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2345.md)
 

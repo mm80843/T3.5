@@ -2,22 +2,25 @@
 
 # __Water quality and availability__
 
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Description of the risk
+
+Lack of criteria to ensure safe and accessible water in residential buildings
+
 ## Property: has_RiskType
 
 * [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 
-## People affected by this risk
+## Articles mentionning the risk
 
-* [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
-* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
-
-## Name of the risk
-
-Risk of contaminated or insufficient water supply
-
-## Property: has_RiskISO_Purpose
-
-* [Attractiveness](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_9.md)
+* [How to Make Green Building Certification \& Rating Systems More Pandemic-Sustainable?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_172.md)
 
 ## Closest similar item
 
@@ -32,38 +35,35 @@ Risk of contaminated or insufficient water supply
 * [Lack of running water and inadequate water storage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_470.md)
 * [Water contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_129.md)
 
-## Description of the risk
+## People affected by this risk
 
-Lack of criteria to ensure safe and accessible water in residential buildings
+* [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
+* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 
-## Technologies linked to the risk
+## Property: has_RiskISO_Impact
 
-* [water filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1845.md)
-* [monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1846.md)
+* [Living together, interdependence and mutuality](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_10.md)
 
-## Property: has_RiskHealth
+## Stakeholders who can mitigate this risk
 
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
+* [water management authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1514.md)
+
+## Name of the risk
+
+Risk of contaminated or insufficient water supply
 
 ## Mitigations of this risk
 
 * [Establish measures to control water quality and availability](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2939.md)
 * [Safety measures for drinking water](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_850.md)
 
-## Articles mentionning the risk
+## Property: has_RiskISO_Purpose
 
-* [How to Make Green Building Certification \& Rating Systems More Pandemic-Sustainable?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_172.md)
+* [Attractiveness](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_9.md)
 
-## Property: has_RiskISO_Impact
+## Technologies linked to the risk
 
-* [Living together, interdependence and mutuality](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_10.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Stakeholders who can mitigate this risk
-
-* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
-* [water management authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1514.md)
+* [water filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1845.md)
+* [monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1846.md)
 

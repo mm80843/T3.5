@@ -2,26 +2,26 @@
 
 # __Economic crisis__
 
+## Property: has_RiskHealth
+
+* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_3.md)
+
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Description of the risk
+
+The global economic crisis triggered by the Covid-19 pandemic.
+
 ## Property: has_RiskType
 
 * [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_3.md)
 
-## People affected by this risk
+## Articles mentionning the risk
 
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-* [marginalized populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_275.md)
-* [vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_115.md)
-* [informal sector workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1263.md)
-* [low-income workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1262.md)
-* [migrants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_446.md)
-
-## Name of the risk
-
-Losses to the world economy, increase in poverty and inequality.
-
-## Property: has_RiskISO_Purpose
-
-* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_10.md)
+* [COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_58.md)
+* [Health, Economic and Social Development Challenges of the COVID-19 Pandemic: Strategies for Multiple and Interconnected Issues](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_144.md)
 
 ## Closest similar item
 
@@ -36,19 +36,28 @@ Losses to the world economy, increase in poverty and inequality.
 * [Loss of income and economic instability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1991.md)
 * [Economic decline](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_856.md)
 
-## Description of the risk
+## People affected by this risk
 
-The global economic crisis triggered by the Covid-19 pandemic.
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [marginalized populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_275.md)
+* [vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_115.md)
+* [informal sector workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1263.md)
+* [low-income workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1262.md)
+* [migrants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_446.md)
 
-## Technologies linked to the risk
+## Property: has_RiskISO_Impact
 
-* [financial technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1243.md)
-* [digital payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_697.md)
-* [data analytics for targeted assistance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1244.md)
+* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_8.md)
 
-## Property: has_RiskHealth
+## Stakeholders who can mitigate this risk
 
-* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_3.md)
+* [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
+* [financial institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_405.md)
+* [international organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_242.md)
+
+## Name of the risk
+
+Losses to the world economy, increase in poverty and inequality.
 
 ## Mitigations of this risk
 
@@ -56,22 +65,13 @@ The global economic crisis triggered by the Covid-19 pandemic.
 * [Implement economic stimulus packages, provide income support schemes, ensure social safety nets, and protect vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2466.md)
 * [Implement social protection measures, promote economic recovery.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2661.md)
 
-## Articles mentionning the risk
+## Property: has_RiskISO_Purpose
 
-* [COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_58.md)
-* [Health, Economic and Social Development Challenges of the COVID-19 Pandemic: Strategies for Multiple and Interconnected Issues](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_144.md)
+* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_10.md)
 
-## Property: has_RiskISO_Impact
+## Technologies linked to the risk
 
-* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_8.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Stakeholders who can mitigate this risk
-
-* [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
-* [financial institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_405.md)
-* [international organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_242.md)
+* [financial technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1243.md)
+* [digital payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_697.md)
+* [data analytics for targeted assistance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1244.md)
 

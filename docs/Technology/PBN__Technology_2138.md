@@ -2,6 +2,10 @@
 
 # __Social media groups__
 
+## This Technology belongs to this TechSubgroup
+
+* [Social Media Platforms and Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_33.md)
+
 ## Closest similar item
 
 * [Social media groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2138.md)
@@ -15,15 +19,11 @@
 * [Social networking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2137.md)
 * [social-media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1712.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Social Media Platforms and Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_33.md)
+* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
 
 ## This Technology is identified by the following QID
 
 * [Q874405](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q874405.md)
-
-## This Technology belongs to this TechGroup
-
-* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
 

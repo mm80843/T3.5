@@ -19,14 +19,14 @@
 * [IT companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2608.md)
 * [internet company](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2632.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Lack of Infrastructure for 5G Network](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1103.md)
-
 ## Risk affecting this stakeholder
 
 * [Lack of Infrastructure for 5G Network](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1103.md)
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 
+
+## Risks that can be mitigated by this stakeholder
+
+* [Lack of Infrastructure for 5G Network](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1103.md)
 

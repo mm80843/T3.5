@@ -2,9 +2,10 @@
 
 # __Name-and-shame or prosecute anti-social activities__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_47.md)
+* [data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1069.md)
+* [cctv cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3409.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Social Distancing Guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_145.md)
 * [Crime reduction through mobile phone identification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2345.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
+* [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_47.md)
 
 ## Property: has_MitigationPrinciple
 
 Utilizing surveillance data and data analytics to identify and take action against individuals engaged in anti-social activities such as hoarding during a crisis.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1069.md)
-* [cctv cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3409.md)
+* [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
 

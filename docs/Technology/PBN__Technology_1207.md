@@ -2,6 +2,15 @@
 
 # __mobile vaccination clinics__
 
+## Risks linked to this technology
+
+* [Vaccine access disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1939.md)
+* [Lower vaccination rates among immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1844.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Mobile and Healthcare Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_99.md)
+
 ## Closest similar item
 
 * [vaccination clinics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3897.md)
@@ -15,20 +24,11 @@
 * [mobile healthcare units](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_209.md)
 * [Mobile healthcare units](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2874.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Vaccine access disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1939.md)
-* [Lower vaccination rates among immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1844.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Mobile and Healthcare Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_99.md)
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 
 ## This Technology is identified by the following QID
 
 * [Q96482267](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q96482267.md)
-
-## This Technology belongs to this TechGroup
-
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 

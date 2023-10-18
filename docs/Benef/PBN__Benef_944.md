@@ -2,10 +2,6 @@
 
 # __Objective symptom monitoring__
 
-## Name of the Benefit
-
-Wearable technology can accurately monitor symptoms, reducing reliance on self-reporting
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved accuracy in identifying symptomatic individuals, better disease control](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1034.md)
@@ -18,4 +14,8 @@ Wearable technology can accurately monitor symptoms, reducing reliance on self-r
 ## Articles mentionning this Benefit
 
 * [Wearable technology for early detection of COVID-19: A systematic scoping review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_192.md)
+
+## Name of the Benefit
+
+Wearable technology can accurately monitor symptoms, reducing reliance on self-reporting
 

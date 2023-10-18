@@ -2,10 +2,6 @@
 
 # __Control over spread of infection__
 
-## Name of the Benefit
-
-Widespread testing can provide crucial information about the extent and severity of the infection, aiding in the implementation of effective control strategies.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investing in widespread testing can lead to faster control of the infection and reduced socio-economic costs in the long run.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_465.md)
@@ -17,4 +13,8 @@ Widespread testing can provide crucial information about the extent and severity
 ## Articles mentionning this Benefit
 
 * [Overview of the mitigation strategies for COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_86.md)
+
+## Name of the Benefit
+
+Widespread testing can provide crucial information about the extent and severity of the infection, aiding in the implementation of effective control strategies.
 

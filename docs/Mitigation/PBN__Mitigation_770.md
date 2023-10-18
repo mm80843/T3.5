@@ -2,9 +2,8 @@
 
 # __Spacing between buildings__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Unclean environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2729.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Housing Layout](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1294.md)
 * [Distancing and Building Layout](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1611.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Houses amid COVID-19: Environmental challenges and design adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_277.md)
+* [Unclean environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2729.md)
 
 ## Property: has_MitigationPrinciple
 
 Create sufficient spacing between buildings to prevent the spread of infectious diseases and promote a clean environment
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Houses amid COVID-19: Environmental challenges and design adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_277.md)
 

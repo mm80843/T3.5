@@ -2,6 +2,9 @@
 
 # __Green infrastructure management__
 
+## This Technology belongs to this TechSubgroup
+
+
 ## Closest similar item
 
 * [Green infrastructure management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2342.md)
@@ -15,14 +18,11 @@
 * [Urban greening initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2320.md)
 * [green building strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4066.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 
 ## This Technology is identified by the following QID
 
 * [Q3427027](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3427027.md)
-
-## This Technology belongs to this TechGroup
-
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 

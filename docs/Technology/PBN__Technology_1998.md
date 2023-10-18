@@ -2,6 +2,10 @@
 
 # __healthcare resources__
 
+## Risks linked to this technology
+
+* [Delay in diagnosis and poor infection control practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2383.md)
+
 ## Closest similar item
 
 * [healthcare resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1998.md)
@@ -15,16 +19,12 @@
 * [Healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2286.md)
 * [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_341.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Delay in diagnosis and poor infection control practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2383.md)
+* [Q70477383](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q70477383.md)
 
 ## This Technology enables the following mitigations
 
 * [Increased testing access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1501.md)
 * [Improved healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1504.md)
-
-## This Technology is identified by the following QID
-
-* [Q70477383](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q70477383.md)
 

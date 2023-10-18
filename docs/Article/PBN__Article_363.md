@@ -2,10 +2,6 @@
 
 # __The impact of COVID-19 on office space utilization and real-estate: a case study about teleworking in Israel as new normal__
 
-## Year of publication
-
-2022
-
 ## Title of the article
 
 The impact of COVID-19 on office space utilization and real-estate: a case study about teleworking in Israel as new normal
@@ -13,4 +9,8 @@ The impact of COVID-19 on office space utilization and real-estate: a case study
 ## DOI of the article
 
 10.1108/JFM-12-2020-0096
+
+## Year of publication
+
+2022
 

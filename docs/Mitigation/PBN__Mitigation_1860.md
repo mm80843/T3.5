@@ -2,9 +2,10 @@
 
 # __Vector Surveillance and Control__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Vector-borne diseases outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3268.md)
+* [vector control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4115.md)
+* [entomological surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4114.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Mass video surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1908.md)
 * [Surveillance Drones](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_356.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Prototype Early Warning Systems for Vector-Borne Diseases in Europe](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_212.md)
+* [Vector-borne diseases outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3268.md)
 
 ## Property: has_MitigationPrinciple
 
 Monitoring and controlling the population of disease vectors can help prevent and control outbreaks of vector-borne diseases in specific areas.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [vector control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4115.md)
-* [entomological surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4114.md)
+* [Prototype Early Warning Systems for Vector-Borne Diseases in Europe](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_212.md)
 

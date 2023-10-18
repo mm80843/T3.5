@@ -2,10 +2,6 @@
 
 # __Reduced stress on healthcare system__
 
-## Name of the Benefit
-
-Voluntary home quarantine reduces the burden on emergency healthcare system
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Decreased stress on the system allows for better care for infected patients and reduces strain on resources](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_605.md)
@@ -17,4 +13,8 @@ Voluntary home quarantine reduces the burden on emergency healthcare system
 ## Articles mentionning this Benefit
 
 * [Covid-19 and community mitigation strategies in a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_112.md)
+
+## Name of the Benefit
+
+Voluntary home quarantine reduces the burden on emergency healthcare system
 

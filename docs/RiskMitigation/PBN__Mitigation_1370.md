@@ -2,9 +2,9 @@
 
 # __Expert System__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of expertise](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2468.md)
+* [rule-based algorithm](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3823.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Knowledge sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1357.md)
 * [Data intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_58.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Risk Diagnosis and Mitigation System of COVID-19 Using Expert System and Web Scraping](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_237.md)
+* [Lack of expertise](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2468.md)
 
 ## Property: has_MitigationPrinciple
 
 Uses knowledge entered into the system to solve complex problems and assist in analysis/diagnosis like an expert with technology.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [rule-based algorithm](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3823.md)
+* [Risk Diagnosis and Mitigation System of COVID-19 Using Expert System and Web Scraping](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_237.md)
 

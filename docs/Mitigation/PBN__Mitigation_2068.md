@@ -2,7 +2,7 @@
 
 # __Incentives__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
 
 ## Closest similar item
@@ -18,14 +18,14 @@
 * [Resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_886.md)
 * [Provide financial aids](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_990.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Challenges of data sharing in European Covid-19 projects: A learning opportunity for advancing pandemic preparedness and response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_230.md)
 
 ## Property: has_MitigationPrinciple
 
 Provide incentives for data owners to participate
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Challenges of data sharing in European Covid-19 projects: A learning opportunity for advancing pandemic preparedness and response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_230.md)
 

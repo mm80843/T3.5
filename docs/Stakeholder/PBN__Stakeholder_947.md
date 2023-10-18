@@ -19,6 +19,14 @@
 * [transportation department](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1449.md)
 * [transportation providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1085.md)
 
+## Risk affecting this stakeholder
+
+* [Impacts on public transit](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1463.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Transportation Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_1.md)
+
 ## Risks that can be mitigated by this stakeholder
 
 * [Urban Mobility and Commute Patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2379.md)
@@ -30,12 +38,4 @@
 * [Impact on micro-mobility and sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_915.md)
 * [Limited accessibility for low-income citizens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2245.md)
 * [Crowded railway stations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1650.md)
-
-## Risk affecting this stakeholder
-
-* [Impacts on public transit](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1463.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Transportation Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_1.md)
 

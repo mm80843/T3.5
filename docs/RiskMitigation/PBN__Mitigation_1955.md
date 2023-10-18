@@ -2,9 +2,11 @@
 
 # __Integrated Command and Control__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Privacy breach](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3305.md)
+* [sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
+* [software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4165.md)
+* [cables](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4164.md)
 
 ## Closest similar item
 
@@ -19,17 +21,15 @@
 * [Converged Command Centres](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_105.md)
 * [Vector control programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1516.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The three modes of existence of the pandemic smart city](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_250.md)
+* [Privacy breach](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3305.md)
 
 ## Property: has_MitigationPrinciple
 
 Centralized control center for data analysis and management of urban services and emergencies during the pandemic
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
-* [software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4165.md)
-* [cables](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4164.md)
+* [The three modes of existence of the pandemic smart city](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_250.md)
 

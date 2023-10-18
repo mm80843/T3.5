@@ -2,9 +2,9 @@
 
 # __Increased emphasis on hygiene__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Decreased emphasis on personal and environmental hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2835.md)
+* [social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_47.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Hygiene and Sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_301.md)
 * [Encouraging proper sanitation and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_486.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The changes in the effects of social media use of Cypriots due to COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_185.md)
+* [Decreased emphasis on personal and environmental hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2835.md)
 
 ## Property: has_MitigationPrinciple
 
 Increase awareness and importance of personal and environmental hygiene
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_47.md)
+* [The changes in the effects of social media use of Cypriots due to COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_185.md)
 

@@ -2,22 +2,25 @@
 
 # __Interrupted education__
 
+## Property: has_RiskHealth
+
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Description of the risk
+
+School closures and limited access to remote education services
+
 ## Property: has_RiskType
 
 * [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
-## People affected by this risk
+## Articles mentionning the risk
 
-* [teachers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_102.md)
-* [students](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_101.md)
-
-## Name of the risk
-
-Learning loss, increased drop-out rates
-
-## Property: has_RiskISO_Purpose
-
-* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_0.md)
+* [COVID-19 and the UN Sustainable Development Goals: Threat to Solidarity or an Opportunity?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_109.md)
 
 ## Closest similar item
 
@@ -32,37 +35,34 @@ Learning loss, increased drop-out rates
 * [Cancellation of educational activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_361.md)
 * [Disruption of education, child development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2775.md)
 
-## Description of the risk
+## People affected by this risk
 
-School closures and limited access to remote education services
-
-## Technologies linked to the risk
-
-* [e-learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_959.md)
-* [digital devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_573.md)
-
-## Property: has_RiskHealth
-
-* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
-
-## Mitigations of this risk
-
-* [Online learning platforms, distribution of educational materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2174.md)
-
-## Articles mentionning the risk
-
-* [COVID-19 and the UN Sustainable Development Goals: Threat to Solidarity or an Opportunity?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_109.md)
+* [teachers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_102.md)
+* [students](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_101.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
 ## Stakeholders who can mitigate this risk
 
 * [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
 * [educational organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1057.md)
+
+## Name of the risk
+
+Learning loss, increased drop-out rates
+
+## Mitigations of this risk
+
+* [Online learning platforms, distribution of educational materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2174.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_0.md)
+
+## Technologies linked to the risk
+
+* [e-learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_959.md)
+* [digital devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_573.md)
 

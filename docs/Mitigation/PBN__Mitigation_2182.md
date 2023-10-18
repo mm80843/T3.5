@@ -2,9 +2,9 @@
 
 # __Interdependencies Mapping__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Cascading disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_455.md)
+* [interdependency analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4309.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Relational Capability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1023.md)
 * [Interdisciplinary collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2063.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Preparing critical infrastructure for the future: Lessons learnt from the Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_129.md)
+* [Cascading disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_455.md)
 
 ## Property: has_MitigationPrinciple
 
 Critical infrastructure entities should map their dependencies and interdependencies to understand the connections between systems. This helps in identifying potential cascading disruptions and implementing measures to mitigate their effects.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [interdependency analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4309.md)
+* [Preparing critical infrastructure for the future: Lessons learnt from the Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_129.md)
 

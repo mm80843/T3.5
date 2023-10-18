@@ -2,9 +2,8 @@
 
 # __Privacy considerations__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of private space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3198.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Information transparency](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2460.md)
 * [Personal Protection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_926.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The Impact of the COVID-19 Pandemic on the Space Pattern Changes in Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_94.md)
+* [Lack of private space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3198.md)
 
 ## Property: has_MitigationPrinciple
 
 Consider privacy in room design to ensure comfort and health of residents
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [The Impact of the COVID-19 Pandemic on the Space Pattern Changes in Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_94.md)
 

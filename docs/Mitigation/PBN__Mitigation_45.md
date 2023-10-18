@@ -2,9 +2,8 @@
 
 # __Cash transfers__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Economic strain](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1987.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Financial aids](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2719.md)
 * [Store donation process in blockchain for transparency and verification, reducing corruption and improving social trust](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3583.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19 and the rise of intimate partner violence](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_8.md)
+* [Economic strain](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1987.md)
 
 ## Property: has_MitigationPrinciple
 
 Cash transfers can reduce intimate partner violence by providing financial relief to individuals and reducing the risk of violence in households.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [COVID-19 and the rise of intimate partner violence](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_8.md)
 

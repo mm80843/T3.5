@@ -2,10 +2,6 @@
 
 # __Improved quantification capability__
 
-## Name of the Benefit
-
-Using reference materials and digital droplet PCR can improve the precision and comparability of SARS-CoV-2 quantification in wastewater, leading to more accurate surveillance data
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors in reference materials and digital droplet PCR technologies can benefit by providing essential tools for accurate quantification, which can lead to increased demand and potential collaborations.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_7.md)
@@ -18,4 +14,8 @@ Using reference materials and digital droplet PCR can improve the precision and 
 ## Articles mentionning this Benefit
 
 * [Presence of SARS-Coronavirus-2 RNA in Sewage and Correlation with Reported COVID-19 Prevalence in the Early Stage of the Epidemic in The Netherlands](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_1.md)
+
+## Name of the Benefit
+
+Using reference materials and digital droplet PCR can improve the precision and comparability of SARS-CoV-2 quantification in wastewater, leading to more accurate surveillance data
 

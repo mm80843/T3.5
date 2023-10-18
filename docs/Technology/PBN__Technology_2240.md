@@ -2,6 +2,10 @@
 
 # __Ethical review boards__
 
+## This Technology belongs to this TechSubgroup
+
+* [Regulation, Governance, and Policies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_66.md)
+
 ## Closest similar item
 
 * [Ethical review boards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2240.md)
@@ -14,10 +18,6 @@
 * [peer review](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3525.md)
 * [peer-review platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4421.md)
 * [expert review platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1897.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Regulation, Governance, and Policies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_66.md)
 
 ## This Technology belongs to this TechGroup
 

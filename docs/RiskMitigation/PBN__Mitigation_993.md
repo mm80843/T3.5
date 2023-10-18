@@ -2,9 +2,8 @@
 
 # __Promote economic stability__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Economic decline](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_856.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Strategic sectors development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2255.md)
 * [Strengthen Social Capital and Community Coherence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1832.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Mechanisms for addressing the impact of COVID-19 on infrastructure projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_115.md)
+* [Economic decline](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_856.md)
 
 ## Property: has_MitigationPrinciple
 
 Take actions to promote economic recovery and stability to support the construction industry during and after the impact of contagious diseases
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Mechanisms for addressing the impact of COVID-19 on infrastructure projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_115.md)
 

@@ -2,9 +2,9 @@
 
 # __Temperature control__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Controlling temperature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2545.md)
+* [hvac system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3190.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Temperature testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1242.md)
 * [Programmable thermostats](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2153.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Climate and the spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_145.md)
+* [Controlling temperature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2545.md)
 
 ## Property: has_MitigationPrinciple
 
 Controlling the temperature in indoor spaces to reduce the survival and transmission of the virus
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [hvac system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3190.md)
+* [Climate and the spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_145.md)
 

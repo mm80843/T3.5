@@ -2,9 +2,9 @@
 
 # __Wastewater-based monitoring__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Contamination of sewage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3427.md)
+* [reverse transcription-quantitative polymerase chain reaction (rt-qpcr)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4428.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Wastewater-based epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1081.md)
 * [Wastewater-Based Epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1921.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Detection of SARS-CoV-2 in raw and treated wastewater in Germany – Suitability for COVID-19 surveillance and potential transmission risks](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_0.md)
+* [Contamination of sewage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3427.md)
 
 ## Property: has_MitigationPrinciple
 
 Detection of SARS-CoV-2 genetic traces in wastewater to gain insights into infection spread in a population
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [reverse transcription-quantitative polymerase chain reaction (rt-qpcr)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4428.md)
+* [Detection of SARS-CoV-2 in raw and treated wastewater in Germany – Suitability for COVID-19 surveillance and potential transmission risks](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_0.md)
 

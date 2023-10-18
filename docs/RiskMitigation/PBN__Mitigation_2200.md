@@ -2,7 +2,7 @@
 
 # __Psychological First Aid (PFA)__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
 
 ## Closest similar item
@@ -18,14 +18,14 @@
 * [Personal protective equipment (PPE) use](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_955.md)
 * [Personal Protective Equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_555.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Ultra Brief Psychological Interventions for COVID-19 Pandemic: Introduction of a Locally-Adapted Brief Intervention for Mental Health and Psychosocial Support Service](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_258.md)
 
 ## Property: has_MitigationPrinciple
 
 Provide immediate support to individuals experiencing anxiety or psychological distress
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Ultra Brief Psychological Interventions for COVID-19 Pandemic: Introduction of a Locally-Adapted Brief Intervention for Mental Health and Psychosocial Support Service](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_258.md)
 

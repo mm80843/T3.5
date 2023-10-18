@@ -2,6 +2,9 @@
 
 # __Natural lighting systems__
 
+## This Technology belongs to this TechSubgroup
+
+
 ## Closest similar item
 
 * [Natural lighting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2702.md)
@@ -15,14 +18,11 @@
 * [energy-efficient lighting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1256.md)
 * [natural light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3031.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
+* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_13.md)
 
 ## This Technology is identified by the following QID
 
 * [Q3577509](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3577509.md)
-
-## This Technology belongs to this TechGroup
-
-* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_13.md)
 

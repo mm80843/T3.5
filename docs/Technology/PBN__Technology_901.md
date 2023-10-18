@@ -2,13 +2,13 @@
 
 # __interviews__
 
-## This Technology enables the following mitigations
-
-* [Close contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2038.md)
-
 ## Risks linked to this technology
 
 * [Lack of clarity on COVID-19-related loneliness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1589.md)
+
+## This Technology enables the following mitigations
+
+* [Close contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2038.md)
 
 ## Closest similar item
 

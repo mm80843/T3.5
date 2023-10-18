@@ -2,9 +2,9 @@
 
 # __Duct irradiation__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Limited data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3411.md)
+* [254 nm uv lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4392.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Air filtration and UV sterilisation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_468.md)
 * [UV-Light radiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1813.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Effect of Ultraviolet Germicidal Irradiation on Viral Aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_88.md)
+* [Limited data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3411.md)
 
 ## Property: has_MitigationPrinciple
 
 Use of UV irradiation in ducts to inactivate airborne infectious agents and microbial toxins
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [254 nm uv lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4392.md)
+* [Effect of Ultraviolet Germicidal Irradiation on Viral Aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_88.md)
 

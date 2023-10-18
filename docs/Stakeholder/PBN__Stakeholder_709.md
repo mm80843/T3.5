@@ -2,6 +2,10 @@
 
 # __housing organizations__
 
+## This Stakeholder is identified by the following QID
+
+* [Q8207109](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q8207109.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
@@ -19,18 +23,14 @@
 * [housing authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1301.md)
 * [housing industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1974.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Public and Municipal Services](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_9.md)
+
 ## Risks that can be mitigated by this stakeholder
 
 * [Housing Conditions and Health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1185.md)
 * [Transiency and Overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1183.md)
 * [Lack of Legal Protections and Financial Support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1184.md)
 * [Eviction and Housing Displacement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1182.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Public and Municipal Services](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_9.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q8207109](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q8207109.md)
 

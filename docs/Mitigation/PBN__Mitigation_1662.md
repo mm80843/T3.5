@@ -2,7 +2,7 @@
 
 # __Flexible building__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
 
 ## Closest similar item
@@ -18,14 +18,14 @@
 * [Flexibility, adaptability, sharing, and crowding of living spaces, and compliant functions located within the buildings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_497.md)
 * [Green building design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2415.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The Impact of the COVID-19 Pandemic on the Space Pattern Changes in Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_94.md)
 
 ## Property: has_MitigationPrinciple
 
 Design buildings that can accommodate changing needs and provide flexibility
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [The Impact of the COVID-19 Pandemic on the Space Pattern Changes in Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_94.md)
 

@@ -2,6 +2,14 @@
 
 # __crowd control measures__
 
+## Risks linked to this technology
+
+* [Overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_571.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Crowd and Occupancy Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_13.md)
+
 ## Closest similar item
 
 * [crowd management measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_303.md)
@@ -15,19 +23,11 @@
 * [crowd monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1077.md)
 * [crowd management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1261.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_571.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Crowd and Occupancy Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_13.md)
+* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
 
 ## This Technology is identified by the following QID
 
 * [Q1872073](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1872073.md)
-
-## This Technology belongs to this TechGroup
-
-* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
 

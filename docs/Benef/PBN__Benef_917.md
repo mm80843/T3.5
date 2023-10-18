@@ -2,10 +2,6 @@
 
 # __Reduction in virus transmission__
 
-## Name of the Benefit
-
-Reduces the risk of virus transmission and protects healthcare workers
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can benefit from the increased demand for and sales of antiviral coatings, leading to potential profit and market growth.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1006.md)
@@ -23,4 +19,8 @@ Reduces the risk of virus transmission and protects healthcare workers
 
 * [Graphene-based nanomaterials as antimicrobial surface coatings: A parallel approach to restrain the expansion of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_187.md)
 * [COVID-19 and its Modes of Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_225.md)
+
+## Name of the Benefit
+
+Reduces the risk of virus transmission and protects healthcare workers
 

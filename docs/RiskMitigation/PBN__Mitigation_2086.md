@@ -2,7 +2,7 @@
 
 # __Case-based mapping__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
 
 ## Closest similar item
@@ -18,14 +18,14 @@
 * [Data-driven solutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_150.md)
 * [Ontology-guided machine learning algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1657.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Integrating rapid risk mapping and mobile phone call record data for strategic malaria elimination planning](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_76.md)
 
 ## Property: has_MitigationPrinciple
 
 Identify regions of likely transmission, remote identification of transmission areas, lower cost than intensive surveillance
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Integrating rapid risk mapping and mobile phone call record data for strategic malaria elimination planning](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_76.md)
 

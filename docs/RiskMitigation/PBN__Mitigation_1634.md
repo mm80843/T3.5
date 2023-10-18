@@ -2,9 +2,9 @@
 
 # __Enhancing data quality verification__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Inaccurate data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3180.md)
+* [statistical techniques for data quality verification](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3963.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Data Integration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_915.md)
 * [Open, accurate, and consistent messages](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2464.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [When the fourth water and digital revolution encountered COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_207.md)
+* [Inaccurate data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3180.md)
 
 ## Property: has_MitigationPrinciple
 
 Ensures accuracy of sensor and laboratory data for decision-making
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [statistical techniques for data quality verification](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3963.md)
+* [When the fourth water and digital revolution encountered COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_207.md)
 

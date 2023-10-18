@@ -2,6 +2,10 @@
 
 # __housing provider__
 
+## This Stakeholder is identified by the following QID
+
+* [Q562166](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q562166.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
@@ -24,8 +28,4 @@
 
 * [Public and Municipal Services](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_9.md)
 * [Agencies/Providers/Associations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_66.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q562166](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q562166.md)
 

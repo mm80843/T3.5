@@ -2,6 +2,10 @@
 
 # __roof spaces__
 
+## Risks linked to this technology
+
+* [MH2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2197.md)
+
 ## Closest similar item
 
 * [cool roofs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_972.md)
@@ -15,15 +19,11 @@
 * [Green roof and wall technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2351.md)
 * [Rooftop gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2757.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [MH2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2197.md)
+* [Q21161971](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q21161971.md)
 
 ## This Technology enables the following mitigations
 
 * [Availability of outdoor spaces in the building](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2126.md)
-
-## This Technology is identified by the following QID
-
-* [Q21161971](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q21161971.md)
 

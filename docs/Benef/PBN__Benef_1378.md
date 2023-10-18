@@ -2,10 +2,6 @@
 
 # __Enhanced control over city access__
 
-## Name of the Benefit
-
-Identifying potential transgressions and enforcing entry regulations in the absence of borders
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved security measures, decreased risk of virus spread](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1565.md)
@@ -18,4 +14,8 @@ Identifying potential transgressions and enforcing entry regulations in the abse
 ## Articles mentionning this Benefit
 
 * [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
+
+## Name of the Benefit
+
+Identifying potential transgressions and enforcing entry regulations in the absence of borders
 

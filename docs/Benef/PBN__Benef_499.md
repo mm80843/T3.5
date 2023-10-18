@@ -2,10 +2,6 @@
 
 # __Proper handling and isolation of infected workers__
 
-## Name of the Benefit
-
-Protocols for isolating and evacuating infected workers ensure the safety of other workers and prevent further spread of the virus
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investing in protocols for managing COVID-19 cases reduces the risk of outbreaks in the offshore workplace, protecting workers and ensuring business continuity.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_543.md)
@@ -17,4 +13,8 @@ Protocols for isolating and evacuating infected workers ensure the safety of oth
 ## Articles mentionning this Benefit
 
 * [Preventing and Controlling COVID-19: A Practical-Based Review in Offshore Workplace](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_102.md)
+
+## Name of the Benefit
+
+Protocols for isolating and evacuating infected workers ensure the safety of other workers and prevent further spread of the virus
 

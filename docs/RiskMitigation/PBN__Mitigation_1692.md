@@ -2,9 +2,10 @@
 
 # __Active Design__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Sedentary lifestyle](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3222.md)
+* [standing desks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4017.md)
+* [treadmills](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3241.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Participative design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1205.md)
 * [Planning and design interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_53.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [How Architecture Fails in Conditions of Crisis: a Discussion on the Value of Interior Design over the COVID-19 Outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_34.md)
+* [Sedentary lifestyle](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3222.md)
 
 ## Property: has_MitigationPrinciple
 
 Encouraging physical activity in the workplace by providing equipment such as treadmills or standing desks, promoting better health and reducing the risk of chronic diseases.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [standing desks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4017.md)
-* [treadmills](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3241.md)
+* [How Architecture Fails in Conditions of Crisis: a Discussion on the Value of Interior Design over the COVID-19 Outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_34.md)
 

@@ -2,8 +2,10 @@
 
 # __Artificial Intelligence and Touchless Technologies__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [touchless technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_206.md)
+* [ai technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3771.md)
 
 ## Closest similar item
 
@@ -18,16 +20,14 @@
 * [Machine learning and artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_287.md)
 * [AI and IoT technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1909.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Antivirus-built environment: Lessons learned from Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_298.md)
 
 ## Property: has_MitigationPrinciple
 
 Integrate automation and touchless technologies in buildings to minimize physical contact and reduce the risk of infection transmission.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [touchless technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_206.md)
-* [ai technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3771.md)
+* [Antivirus-built environment: Lessons learned from Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_298.md)
 

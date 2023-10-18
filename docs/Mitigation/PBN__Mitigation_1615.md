@@ -2,9 +2,10 @@
 
 # __Cleaning and Disinfection__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Inadequate cleaning practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3162.md)
+* [disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_413.md)
+* [cleaning detergent](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3948.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Infectious Agents Management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4120.md)
 * [Sanitation and Waste Management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2900.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19 Experience Transforming the Protective Environment of Office Buildings and Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_120.md)
+* [Inadequate cleaning practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3162.md)
 
 ## Property: has_MitigationPrinciple
 
 Provide cleaning supplies at strategic locations, establish cleaning protocols
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_413.md)
-* [cleaning detergent](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3948.md)
+* [COVID-19 Experience Transforming the Protective Environment of Office Buildings and Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_120.md)
 

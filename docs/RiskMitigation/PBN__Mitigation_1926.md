@@ -2,9 +2,8 @@
 
 # __Ethical Considerations__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Privacy risks, stigmatization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3287.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Normative obligation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2274.md)
 * [Legal and regulatory dimension](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1954.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Future perspectives of wastewater-based epidemiology: Monitoring infectious disease spread and resistance to the community level](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_48.md)
+* [Privacy risks, stigmatization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3287.md)
 
 ## Property: has_MitigationPrinciple
 
 Manage privacy issues, consider population size for sampling, adapt ethics guidelines based on location and biomarkers being monitored
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Future perspectives of wastewater-based epidemiology: Monitoring infectious disease spread and resistance to the community level](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_48.md)
 

@@ -2,10 +2,6 @@
 
 # __Efficient crisis response__
 
-## Name of the Benefit
-
-Establishing well-documented procedures for future pandemics and crises
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Better management of future crises, reduced impact on the city](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1576.md)
@@ -19,4 +15,8 @@ Establishing well-documented procedures for future pandemics and crises
 ## Articles mentionning this Benefit
 
 * [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
+
+## Name of the Benefit
+
+Establishing well-documented procedures for future pandemics and crises
 

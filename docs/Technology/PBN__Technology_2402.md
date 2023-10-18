@@ -2,6 +2,10 @@
 
 # __Job creation programs__
 
+## This Technology belongs to this TechSubgroup
+
+* [Economic and Financial Support](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_102.md)
+
 ## Closest similar item
 
 * [Job creation programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2402.md)
@@ -15,15 +19,11 @@
 * [job search platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_430.md)
 * [training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_82.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Economic and Financial Support](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_102.md)
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 
 ## This Technology is identified by the following QID
 
 * [Q676108](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q676108.md)
-
-## This Technology belongs to this TechGroup
-
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 

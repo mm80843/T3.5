@@ -2,8 +2,9 @@
 
 # __Forecasting module__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [rstudio shiny framework](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4477.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Early alert systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1799.md)
 * [Regression modeling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1196.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Open-source analytics tools for studying the COVID-19 coronavirus outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_218.md)
 
 ## Property: has_MitigationPrinciple
 
 Uses forecasting models to predict future outbreak trends and provide insights for decision-making
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [rstudio shiny framework](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4477.md)
+* [Open-source analytics tools for studying the COVID-19 coronavirus outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_218.md)
 

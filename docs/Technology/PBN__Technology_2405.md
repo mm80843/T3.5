@@ -2,6 +2,10 @@
 
 # __Mobile phone call data records__
 
+## This Technology belongs to this TechSubgroup
+
+* [Data Management and Communication Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_18.md)
+
 ## Closest similar item
 
 * [Mobile phone call data records](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2405.md)
@@ -15,15 +19,11 @@
 * [telephone network](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3364.md)
 * [data recording systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_362.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Data Management and Communication Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_18.md)
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 
 ## This Technology is identified by the following QID
 
 * [Q17517](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q17517.md)
-
-## This Technology belongs to this TechGroup
-
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 

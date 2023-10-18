@@ -2,9 +2,9 @@
 
 # __Protecting vulnerable workers__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Exploitation and mistreatment of workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3401.md)
+* [enhanced legal protections for workers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4380.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Providing income and support to impacted workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2262.md)
 * [Health screening of workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1680.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The COVID-19 pandemic: Lessons on building more equal and sustainable societies](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_124.md)
+* [Exploitation and mistreatment of workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3401.md)
 
 ## Property: has_MitigationPrinciple
 
 Strengthening legal protections for vulnerable workers, such as temporary migrants and gig economy workers, can prevent exploitation and ensure their rights and well-being, reducing the risk of labour-related transmission of contagious diseases.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [enhanced legal protections for workers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4380.md)
+* [The COVID-19 pandemic: Lessons on building more equal and sustainable societies](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_124.md)
 

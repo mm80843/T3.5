@@ -2,9 +2,10 @@
 
 # __Encouraging proper sanitation and hygiene practices__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Poor hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1576.md)
+* [hand sanitizer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3258.md)
+* [disinfectant wipes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_673.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Increased sanitation monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2360.md)
 * [Sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2151.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [A Mixed Approach on Resilience of Spanish Dwellings and Households during COVID-19 Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_89.md)
+* [Poor hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1576.md)
 
 ## Property: has_MitigationPrinciple
 
 Regular handwashing, disinfection of frequently touched surfaces, and maintaining cleanliness help prevent the spread of infectious diseases within the home.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [hand sanitizer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3258.md)
-* [disinfectant wipes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_673.md)
+* [A Mixed Approach on Resilience of Spanish Dwellings and Households during COVID-19 Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_89.md)
 

@@ -2,9 +2,10 @@
 
 # __Enhanced surveillance and monitoring__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of timely information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2900.md)
+* [surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_0.md)
+* [data collection and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3428.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Environmental surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1140.md)
 * [Sentinel Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1920.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19 risks and systemic gaps in Nigeria: resilience building lessons for pandemic and climate change management](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_215.md)
+* [Lack of timely information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2900.md)
 
 ## Property: has_MitigationPrinciple
 
 Improve early detection and response to disease outbreaks
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_0.md)
-* [data collection and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3428.md)
+* [COVID-19 risks and systemic gaps in Nigeria: resilience building lessons for pandemic and climate change management](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_215.md)
 

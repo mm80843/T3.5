@@ -2,9 +2,10 @@
 
 # __Face mask detection__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [False negatives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2761.md)
+* [thermal camera](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3473.md)
+* [image processing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3006.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Implementing automated face recognition technology with AI integration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3921.md)
 * [Mandatory use of masks,](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2989.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Design and Implementation of Entry-level COVID-19 Digital Signage Player supporting Fever Detection, Face Mask Wearing Detection and KI-pass QR Code Checking](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_285.md)
+* [False negatives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2761.md)
 
 ## Property: has_MitigationPrinciple
 
 Detects if individuals are wearing masks in order to prevent the spread of contagious diseases.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [thermal camera](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3473.md)
-* [image processing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3006.md)
+* [Design and Implementation of Entry-level COVID-19 Digital Signage Player supporting Fever Detection, Face Mask Wearing Detection and KI-pass QR Code Checking](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_285.md)
 

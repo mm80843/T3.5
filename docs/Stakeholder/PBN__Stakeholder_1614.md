@@ -2,6 +2,10 @@
 
 # __government authority__
 
+## This Stakeholder is identified by the following QID
+
+* [Q174834](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q174834.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
@@ -24,8 +28,4 @@
 
 * [Government and Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_8.md)
 * [Governmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_5.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q174834](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q174834.md)
 

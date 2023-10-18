@@ -2,6 +2,14 @@
 
 # __data collection and sharing systems__
 
+## Risks linked to this technology
+
+* [Health care, surveillance, and monitoring gaps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1621.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Data Collection and Analysis](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_162.md)
+
 ## Closest similar item
 
 * [data sharing systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1426.md)
@@ -15,19 +23,11 @@
 * [Data collection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2528.md)
 * [data collection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3515.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Health care, surveillance, and monitoring gaps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1621.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Data Collection and Analysis](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_162.md)
+* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
 
 ## This Technology is identified by the following QID
 
 * [Q5227350](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5227350.md)
-
-## This Technology belongs to this TechGroup
-
-* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
 

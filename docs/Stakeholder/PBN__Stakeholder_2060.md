@@ -2,6 +2,10 @@
 
 # __building occupant in facility with faulty drainage system__
 
+## This Stakeholder is identified by the following QID
+
+* [Q285451](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q285451.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
@@ -24,8 +28,4 @@
 
 * [Real Estate and Construction](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_31.md)
 * [Building Conditions](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_67.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q285451](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q285451.md)
 

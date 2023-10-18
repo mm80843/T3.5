@@ -2,6 +2,14 @@
 
 # __eu__
 
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Influencing global green transition](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_782.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q5413406](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5413406.md)
+
 ## Closest similar item
 
 * [european union](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1019.md)
@@ -14,12 +22,4 @@
 * [international traveler](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2517.md)
 * [national](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_360.md)
 * [national authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2413.md)
-
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Influencing global green transition](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_782.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q5413406](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5413406.md)
 

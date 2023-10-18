@@ -2,7 +2,7 @@
 
 # __Accessibility to urban green spaces__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
 
 ## Closest similar item
@@ -18,14 +18,14 @@
 * [Conservation and promotion of urban green spaces as part of public policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1209.md)
 * [Integration of social interaction and secluded relaxation in urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1208.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Green in times of COVID-19: urban green space relevance during the COVID-19 pandemic in Buenos Aires City](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_198.md)
 
 ## Property: has_MitigationPrinciple
 
 Ensuring equitable access to urban green spaces for all residents promotes social inclusion and enhances the benefits of these spaces.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Green in times of COVID-19: urban green space relevance during the COVID-19 pandemic in Buenos Aires City](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_198.md)
 

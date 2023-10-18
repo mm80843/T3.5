@@ -2,10 +2,10 @@
 
 # __Hand hygiene practices__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Poor hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3009.md)
-* [Contaminated hands](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2505.md)
+* [hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_412.md)
+* [hand sanitizer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3258.md)
 
 ## Closest similar item
 
@@ -20,17 +20,17 @@
 * [Hand sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1241.md)
 * [Hand washing prevention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1470.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Aerosol and Surface Distribution of Severe Acute Respiratory Syndrome Coronavirus 2 in Hospital Wards, Wuhan, China, 2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_263.md)
-* [Effects of temperature and humidity on the spread of COVID-19: A systematic review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_228.md)
+* [Poor hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3009.md)
+* [Contaminated hands](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2505.md)
 
 ## Property: has_MitigationPrinciple
 
 Medical staff should perform hand hygiene practices immediately after patient contact
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_412.md)
-* [hand sanitizer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3258.md)
+* [Aerosol and Surface Distribution of Severe Acute Respiratory Syndrome Coronavirus 2 in Hospital Wards, Wuhan, China, 2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_263.md)
+* [Effects of temperature and humidity on the spread of COVID-19: A systematic review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_228.md)
 

@@ -2,7 +2,7 @@
 
 # __Adequate Daylighting__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
 
 ## Closest similar item
@@ -18,14 +18,14 @@
 * [Natural lighting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_119.md)
 * [Natural Lighting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1690.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Green Buildings: A Post COVID-19 Analysis of Preventive Measures of Spreading the Virus](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_290.md)
 
 ## Property: has_MitigationPrinciple
 
 Utilizing natural light to enhance the indoor environment
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Green Buildings: A Post COVID-19 Analysis of Preventive Measures of Spreading the Virus](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_290.md)
 

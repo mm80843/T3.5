@@ -2,22 +2,25 @@
 
 # __Disruption of core clinical services__
 
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Description of the risk
+
+Reduction or ceasing of clinical services due to the focus on tackling COVID-19.
+
 ## Property: has_RiskType
 
 * [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 
-## People affected by this risk
+## Articles mentionning the risk
 
-* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
-* [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
-
-## Name of the risk
-
-Delayed or insufficient access to essential healthcare services.
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+* [Digital technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_278.md)
 
 ## Closest similar item
 
@@ -32,38 +35,35 @@ Delayed or insufficient access to essential healthcare services.
 * [Healthcare system strain](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1875.md)
 * [Overwhelmed healthcare systems and operations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1901.md)
 
-## Description of the risk
+## People affected by this risk
 
-Reduction or ceasing of clinical services due to the focus on tackling COVID-19.
+* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
+* [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
+
+## Property: has_RiskISO_Impact
+
+* [Community infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_9.md)
+
+## Stakeholders who can mitigate this risk
+
+* [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
+* [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
+
+## Name of the risk
+
+Delayed or insufficient access to essential healthcare services.
+
+## Mitigations of this risk
+
+* [Establish virtual clinics for remote consultations and utilize telemedicine and e-learning platforms.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2857.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
 
 ## Technologies linked to the risk
 
 * [telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
 * [virtual clinics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1716.md)
 * [e-learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_959.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Mitigations of this risk
-
-* [Establish virtual clinics for remote consultations and utilize telemedicine and e-learning platforms.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2857.md)
-
-## Articles mentionning the risk
-
-* [Digital technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_278.md)
-
-## Property: has_RiskISO_Impact
-
-* [Community infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_9.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Stakeholders who can mitigate this risk
-
-* [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
-* [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
 

@@ -2,7 +2,7 @@
 
 # __Improve park quality__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
 
 ## Closest similar item
@@ -18,14 +18,14 @@
 * [Outdoor Activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_928.md)
 * [Self-sufficiency in recreation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_160.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The health benefits of the great outdoors: A systematic review and meta-analysis of greenspace exposure and health outcomes](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_50.md)
 
 ## Property: has_MitigationPrinciple
 
 Enhancing the quality of parks can encourage more people, especially those from lower-income neighborhoods, to use them. This can lead to increased physical activity, social interaction, and overall health and well-being.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [The health benefits of the great outdoors: A systematic review and meta-analysis of greenspace exposure and health outcomes](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_50.md)
 

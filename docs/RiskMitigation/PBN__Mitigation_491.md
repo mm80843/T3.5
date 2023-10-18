@@ -2,9 +2,9 @@
 
 # __Strengthening revenue generation from tourism__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Decline in tourism revenue](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2586.md)
+* [tourism revenue](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3259.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Self-sufficiency in recreation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_160.md)
 * [Promoting online shopping and delivery services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2279.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Building sustainable finance for resilient protected and conserved areas: lessons from COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_33.md)
+* [Decline in tourism revenue](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2586.md)
 
 ## Property: has_MitigationPrinciple
 
 Generate substantial funding flow from tourism and incorporate sustainability criteria for biodiversity into relief packages
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [tourism revenue](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3259.md)
+* [Building sustainable finance for resilient protected and conserved areas: lessons from COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_33.md)
 

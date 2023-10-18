@@ -2,22 +2,26 @@
 
 # __Lack of quantitative evidence for the effectiveness of UBPI__
 
+## Property: has_RiskHealth
+
+* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
+
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Description of the risk
+
+There is a lack of quantitative data to support the effectiveness of the Ultrabrief Psychological Interventions (UBPI) approach.
+
 ## Property: has_RiskType
 
 * [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 * [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
-## People affected by this risk
+## Articles mentionning the risk
 
-* [practitioners and recipients of ubpi](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1505.md)
-
-## Name of the risk
-
-Limited ability to measure and assess the impact and outcomes of UBPI.
-
-## Property: has_RiskISO_Purpose
-
-* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_6.md)
+* [Ultra Brief Psychological Interventions for COVID-19 Pandemic: Introduction of a Locally-Adapted Brief Intervention for Mental Health and Psychosocial Support Service](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_258.md)
 
 ## Closest similar item
 
@@ -32,38 +36,34 @@ Limited ability to measure and assess the impact and outcomes of UBPI.
 * [Limited access to UGS for vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2256.md)
 * [Lack of quick and accurate diagnostics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2981.md)
 
-## Description of the risk
+## People affected by this risk
 
-There is a lack of quantitative data to support the effectiveness of the Ultrabrief Psychological Interventions (UBPI) approach.
-
-## Technologies linked to the risk
-
-* [data collection and analysis methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1817.md)
-* [research studies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1816.md)
-
-## Property: has_RiskHealth
-
-* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
-
-## Mitigations of this risk
-
-* [Conducting research studies and gathering quantitative data on the outcomes and effectiveness of UBPI.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2920.md)
-
-## Articles mentionning the risk
-
-* [Ultra Brief Psychological Interventions for COVID-19 Pandemic: Introduction of a Locally-Adapted Brief Intervention for Mental Health and Psychosocial Support Service](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_258.md)
+* [practitioners and recipients of ubpi](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1505.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Innovation, Creativity and research](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_2.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
 ## Stakeholders who can mitigate this risk
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [healthcare institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_269.md)
 * [practitioners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_228.md)
+
+## Name of the risk
+
+Limited ability to measure and assess the impact and outcomes of UBPI.
+
+## Mitigations of this risk
+
+* [Conducting research studies and gathering quantitative data on the outcomes and effectiveness of UBPI.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2920.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_6.md)
+
+## Technologies linked to the risk
+
+* [data collection and analysis methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1817.md)
+* [research studies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1816.md)
 

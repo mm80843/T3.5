@@ -2,9 +2,9 @@
 
 # __Testing urological wastewater__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Early detection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3327.md)
+* [stratified sewer collection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4185.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Wastewater-based epidemiology (WBE)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_61.md)
 * [Wastewater-Based Epidemiology (WBE)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_512.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Designing for COVID-2x: Reflecting on Future-Proofing Human Habitation for the Inevitable Next Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_149.md)
+* [Early detection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3327.md)
 
 ## Property: has_MitigationPrinciple
 
 Detect the presence of SARS-CoV-2 virus fragments in a community before it can be documented through standard swab testing
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [stratified sewer collection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4185.md)
+* [Designing for COVID-2x: Reflecting on Future-Proofing Human Habitation for the Inevitable Next Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_149.md)
 

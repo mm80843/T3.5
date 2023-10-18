@@ -2,6 +2,10 @@
 
 # __Virtual classrooms__
 
+## This Technology belongs to this TechSubgroup
+
+* [Digital Learning Platforms and Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_56.md)
+
 ## Closest similar item
 
 * [virtual learning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3812.md)
@@ -14,10 +18,6 @@
 * [virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1233.md)
 * [Virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2097.md)
 * [virtual fitness classes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_68.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Digital Learning Platforms and Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_56.md)
 
 ## This Technology belongs to this TechGroup
 

@@ -2,9 +2,10 @@
 
 # __UV-based technologies__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Human health risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3013.md)
+* [far-uvc light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3776.md)
+* [uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3775.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Train and certify more UV technicians](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4045.md)
 * [Conduct further research and studies to compare the two types of UV light for disinfection purposes.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3159.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Indoor Air Quality: Rethinking rules of building design strategies in post-pandemic architecture](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_206.md)
+* [Human health risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3013.md)
 
 ## Property: has_MitigationPrinciple
 
 Inactivating airborne pathogens through the use of UV light to reduce the concentration of viruses and bacteria in indoor spaces, with caution required to minimize health risks associated with UV exposure.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [far-uvc light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3776.md)
-* [uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3775.md)
+* [Indoor Air Quality: Rethinking rules of building design strategies in post-pandemic architecture](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_206.md)
 

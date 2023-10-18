@@ -2,10 +2,6 @@
 
 # __Improved continuity of essential services__
 
-## Name of the Benefit
-
-By adopting a resilient approach, critical infrastructure can maintain the delivery of essential services even during unpredictable events, ensuring the continuity of operations.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors in critical infrastructure benefit from increased asset value as their infrastructure is able to withstand and continue functioning during black swan events.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_697.md)
@@ -18,4 +14,8 @@ By adopting a resilient approach, critical infrastructure can maintain the deliv
 ## Articles mentionning this Benefit
 
 * [Preparing critical infrastructure for the future: Lessons learnt from the Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_129.md)
+
+## Name of the Benefit
+
+By adopting a resilient approach, critical infrastructure can maintain the delivery of essential services even during unpredictable events, ensuring the continuity of operations.
 

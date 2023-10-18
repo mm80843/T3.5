@@ -2,10 +2,6 @@
 
 # __Improved testing access__
 
-## Name of the Benefit
-
-WBS can provide a method of detecting viral presence without the need for individual testing, providing a broader understanding of disease prevalence
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Implementing WBS can improve testing access and provide more accurate data on disease prevalence.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1349.md)
@@ -18,4 +14,8 @@ WBS can provide a method of detecting viral presence without the need for indivi
 ## Articles mentionning this Benefit
 
 * [SARS-CoV-2 Titers in Wastewater Are Higher than Expected from Clinically Confirmed Cases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_251.md)
+
+## Name of the Benefit
+
+WBS can provide a method of detecting viral presence without the need for individual testing, providing a broader understanding of disease prevalence
 

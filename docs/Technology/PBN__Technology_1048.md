@@ -2,6 +2,14 @@
 
 # __efficient space planning__
 
+## Risks linked to this technology
+
+* [Limited space for healthcare operations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1697.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Infrastructure and Urban Planning](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_86.md)
+
 ## Closest similar item
 
 * [space planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1054.md)
@@ -15,19 +23,11 @@
 * [urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_922.md)
 * [urban planning strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_49.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Limited space for healthcare operations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1697.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Infrastructure and Urban Planning](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_86.md)
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 
 ## This Technology is identified by the following QID
 
 * [Q149013](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q149013.md)
-
-## This Technology belongs to this TechGroup
-
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 

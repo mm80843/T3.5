@@ -2,9 +2,10 @@
 
 # __Governance of urban space to improve access to neighborhood resources__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Limited access to resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1925.md)
+* [urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_922.md)
+* [community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_51.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Proximity to urban green space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2284.md)
 * [Conservation and promotion of urban green spaces as part of public policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1209.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Implications of COVID-19 control measures for diet and physical activity, and lessons for addressing other pandemics facing rapidly urbanising countries](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_68.md)
+* [Limited access to resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1925.md)
 
 ## Property: has_MitigationPrinciple
 
 Involves effective governance of urban space to improve access to neighborhood resources, including safe spaces for physical activity, urban agriculture, and equitable distribution of resources
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_922.md)
-* [community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_51.md)
+* [Implications of COVID-19 control measures for diet and physical activity, and lessons for addressing other pandemics facing rapidly urbanising countries](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_68.md)
 

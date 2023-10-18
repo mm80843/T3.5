@@ -2,8 +2,9 @@
 
 # __Nucleic acid testing__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [real-time polymerase chain reaction (rt-pcr)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3876.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Mass testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1.md)
 * [Testing and early detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1092.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [nghiem_covid-19_2020 nghiem_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_308.md)
 
 ## Property: has_MitigationPrinciple
 
 Using nucleic acid testing to detect and quantify SARS-CoV-2 in environmental samples, such as wastewater
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [real-time polymerase chain reaction (rt-pcr)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3876.md)
+* [nghiem_covid-19_2020 nghiem_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_308.md)
 

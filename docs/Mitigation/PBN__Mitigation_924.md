@@ -2,9 +2,9 @@
 
 # __Wearing Gowns__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Transmission of Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2812.md)
+* [gowns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_488.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Wearing Gloves](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_923.md)
 * [Face Masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1644.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Physical interventions to interrupt or reduce the spread of respiratory viruses: systematic review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_22.md)
+* [Transmission of Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2812.md)
 
 ## Property: has_MitigationPrinciple
 
 Wearing gowns can protect individuals from direct contact with contaminated surfaces and reduce transmission.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [gowns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_488.md)
+* [Physical interventions to interrupt or reduce the spread of respiratory viruses: systematic review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_22.md)
 

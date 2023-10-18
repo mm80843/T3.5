@@ -2,10 +2,6 @@
 
 # __Compliance with regulations__
 
-## Name of the Benefit
-
-Compliance with regulations ensures a safe and healthy environment, reducing the risk of COVID-19 transmission.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investing in compliance with regulations improves the reputation of health club organizations, enhances member satisfaction, and reduces potential liability for staff and members.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_692.md)
@@ -19,4 +15,8 @@ Compliance with regulations ensures a safe and healthy environment, reducing the
 ## Articles mentionning this Benefit
 
 * [Assessment of COVID-19 precautionary measures in sports facilities: A case study on a health club in Saudi Arabia](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_128.md)
+
+## Name of the Benefit
+
+Compliance with regulations ensures a safe and healthy environment, reducing the risk of COVID-19 transmission.
 

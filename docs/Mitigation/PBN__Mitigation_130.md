@@ -2,9 +2,11 @@
 
 # __Implementation of safety protocols__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Safety and health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2452.md)
+* [testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_610.md)
+* [ppe](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1463.md)
+* [sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2981.md)
 
 ## Closest similar item
 
@@ -19,17 +21,15 @@
 * [Standardization of protocols for seamless communication and privacy protection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_115.md)
 * [Promoting worker safety](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1561.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Influence between COVID-19 Impacts and Project Stakeholders in Chilean Construction Projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_157.md)
+* [Safety and health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2452.md)
 
 ## Property: has_MitigationPrinciple
 
 Ensure the safety and well-being of construction workers by implementing protocols such as wearing PPE, regular testing, and maintaining hygiene and sanitation measures.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_610.md)
-* [ppe](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1463.md)
-* [sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2981.md)
+* [Influence between COVID-19 Impacts and Project Stakeholders in Chilean Construction Projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_157.md)
 

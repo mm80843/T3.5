@@ -2,6 +2,14 @@
 
 # __compliance measures__
 
+## Risks linked to this technology
+
+* [Legal and regulatory](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2132.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Regulatory Bodies and Measures](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_97.md)
+
 ## Closest similar item
 
 * [compliance checks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1055.md)
@@ -15,19 +23,11 @@
 * [enforcement mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1152.md)
 * [Enforcement mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2501.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Legal and regulatory](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2132.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Regulatory Bodies and Measures](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_97.md)
+* [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_10.md)
 
 ## This Technology is identified by the following QID
 
 * [Q1962328](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1962328.md)
-
-## This Technology belongs to this TechGroup
-
-* [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_10.md)
 

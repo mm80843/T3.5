@@ -2,9 +2,8 @@
 
 # __Evidence-based__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Nonevidence-based measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2781.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Leverage complementary evidence networks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_611.md)
 * [Research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_883.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Coronavirus disease 2019: The harms of exaggerated information and non‐evidence‐based measures](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_101.md)
+* [Nonevidence-based measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2781.md)
 
 ## Property: has_MitigationPrinciple
 
 Making decisions and implementing measures based on scientific evidence and reliable data rather than unsupported claims or opinions.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Coronavirus disease 2019: The harms of exaggerated information and non‐evidence‐based measures](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_101.md)
 

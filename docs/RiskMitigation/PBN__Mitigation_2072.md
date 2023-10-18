@@ -2,8 +2,9 @@
 
 # __Federated infrastructure__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [opal-datashield](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1676.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Scalability and QoS provisioning in massive connectivity regime](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1951.md)
 * [Integration of green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_631.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Challenges of data sharing in European Covid-19 projects: A learning opportunity for advancing pandemic preparedness and response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_230.md)
 
 ## Property: has_MitigationPrinciple
 
 Handle sensitive patient information in a secure environment
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [opal-datashield](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1676.md)
+* [Challenges of data sharing in European Covid-19 projects: A learning opportunity for advancing pandemic preparedness and response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_230.md)
 

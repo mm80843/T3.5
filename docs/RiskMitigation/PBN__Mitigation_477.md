@@ -2,9 +2,9 @@
 
 # __Exposure to sunlight__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Inadequate sunlight exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2730.md)
+* [access to natural light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3441.md)
 
 ## Closest similar item
 
@@ -19,16 +19,16 @@
 * [UV-Light radiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1813.md)
 * [Lighting and daylighting optimization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_173.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Home garden use during COVID-19: Associations with physical and mental wellbeing in older adults](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_244.md)
-* [Houses amid COVID-19: Environmental challenges and design adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_277.md)
+* [Inadequate sunlight exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2730.md)
 
 ## Property: has_MitigationPrinciple
 
 Exposure to sunlight increases vitamin D levels, improves mood, and aids in sleep and eating patterns.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [access to natural light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3441.md)
+* [Home garden use during COVID-19: Associations with physical and mental wellbeing in older adults](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_244.md)
+* [Houses amid COVID-19: Environmental challenges and design adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_277.md)
 

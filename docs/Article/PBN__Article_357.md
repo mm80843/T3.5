@@ -2,10 +2,6 @@
 
 # __Contactless Door System with Temperature Detection for Covid-19__
 
-## Year of publication
-
-2022
-
 ## Title of the article
 
 Contactless Door System with Temperature Detection for Covid-19
@@ -13,4 +9,8 @@ Contactless Door System with Temperature Detection for Covid-19
 ## DOI of the article
 
 10.1109/ICSSIT53264.2022.9716560
+
+## Year of publication
+
+2022
 

@@ -2,9 +2,10 @@
 
 # __Targeted policies for specific social groups__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Inequitable access for specific social groups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3386.md)
+* [targeted outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1339.md)
+* [tailored services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4324.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Monitoring and evaluating policy response](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_606.md)
 * [Targeted communication strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1500.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Access and Use of Green Areas during the COVID-19 Pandemic: Green Infrastructure Management in the “New Normal”](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_275.md)
+* [Inequitable access for specific social groups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3386.md)
 
 ## Property: has_MitigationPrinciple
 
 Develop and implement policies and programs to ensure equitable access to green areas for different social groups, considering their specific needs and circumstances
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [targeted outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1339.md)
-* [tailored services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4324.md)
+* [Access and Use of Green Areas during the COVID-19 Pandemic: Green Infrastructure Management in the “New Normal”](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_275.md)
 

@@ -2,9 +2,8 @@
 
 # __Isolation and quarantine__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Contagion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2685.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Quarantine and social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3901.md)
 * [Quarantine for high-risk individuals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2748.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Effects of the COVID-19 pandemic on the use and perceptions of urban green space: An international exploratory study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_90.md)
+* [Contagion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2685.md)
 
 ## Property: has_MitigationPrinciple
 
 Isolate individuals who are infected or suspected to be infected to prevent the spread of the disease.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Effects of the COVID-19 pandemic on the use and perceptions of urban green space: An international exploratory study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_90.md)
 

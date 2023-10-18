@@ -2,8 +2,9 @@
 
 # __Clear screens between seats__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_343.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Uncrowded spacing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_219.md)
 * [Vertical Isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1917.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Responsible Transport: A post-COVID agenda for transport policy and practice](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_148.md)
 
 ## Property: has_MitigationPrinciple
 
 Installing clear screens between seats on public transportation to provide a physical barrier and reduce the risk of airborne transmission.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_343.md)
+* [Responsible Transport: A post-COVID agenda for transport policy and practice](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_148.md)
 

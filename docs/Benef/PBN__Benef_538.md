@@ -2,10 +2,6 @@
 
 # __Increased acceptability of evidence__
 
-## Name of the Benefit
-
-Prioritizing relevant issues and aligning research with policy needs informs critical decisions, strengthens health systems, and improves population health
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved decision-making leads to more effective policies, better health outcomes, and increased public trust](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_590.md)
@@ -18,4 +14,8 @@ Prioritizing relevant issues and aligning research with policy needs informs cri
 ## Articles mentionning this Benefit
 
 * [Amplifying the role of knowledge translation platforms in the COVID-19 pandemic response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_111.md)
+
+## Name of the Benefit
+
+Prioritizing relevant issues and aligning research with policy needs informs critical decisions, strengthens health systems, and improves population health
 

@@ -2,6 +2,14 @@
 
 # __multilingual resources__
 
+## Risks linked to this technology
+
+* [Limited access to resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1925.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Educational and Training Resources](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_39.md)
+
 ## Closest similar item
 
 * [language resources technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3975.md)
@@ -15,19 +23,11 @@
 * [language interpretation services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1205.md)
 * [Language interpretation services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2304.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Limited access to resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1925.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Educational and Training Resources](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_39.md)
+* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
 
 ## This Technology is identified by the following QID
 
 * [Q20923490](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q20923490.md)
-
-## This Technology belongs to this TechGroup
-
-* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
 

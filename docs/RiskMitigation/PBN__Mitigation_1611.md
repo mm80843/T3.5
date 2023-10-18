@@ -2,9 +2,10 @@
 
 # __Distancing and Building Layout__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Close contact transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1904.md)
+* [physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_343.md)
+* [open plan layout redesign](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3943.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Social distancing in workplace design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1850.md)
 * [Spatial configuration promoting social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_553.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19 Experience Transforming the Protective Environment of Office Buildings and Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_120.md)
+* [Close contact transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1904.md)
 
 ## Property: has_MitigationPrinciple
 
 Create individual spaces, install barriers, avoid overcrowding
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_343.md)
-* [open plan layout redesign](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3943.md)
+* [COVID-19 Experience Transforming the Protective Environment of Office Buildings and Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_120.md)
 

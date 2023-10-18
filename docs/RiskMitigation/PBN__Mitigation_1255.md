@@ -2,9 +2,10 @@
 
 # __Vaccine development and drug discovery__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Limited data, efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2998.md)
+* [data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3346.md)
+* [ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Vaccination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_245.md)
 * [Nano-Vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_198.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [A critical review of emerging technologies for tackling COVID ‐19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_91.md)
+* [Limited data, efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2998.md)
 
 ## Property: has_MitigationPrinciple
 
 Utilize AI and data analysis to accelerate the development of vaccines and drugs for COVID-19
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3346.md)
-* [ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
+* [A critical review of emerging technologies for tackling COVID ‐19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_91.md)
 

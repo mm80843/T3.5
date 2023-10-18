@@ -2,10 +2,6 @@
 
 # __Flexible responses to disruptions__
 
-## Name of the Benefit
-
-Streamlined border processes and logistics
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Reduced delays and disruptions in cross-border trade, improved responsiveness to supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_327.md)
@@ -18,4 +14,8 @@ Streamlined border processes and logistics
 ## Articles mentionning this Benefit
 
 * [Global value chains: Efficiency and risks in the context of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_60.md)
+
+## Name of the Benefit
+
+Streamlined border processes and logistics
 

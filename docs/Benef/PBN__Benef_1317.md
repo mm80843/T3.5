@@ -2,10 +2,6 @@
 
 # __Improved indoor air quality and comfort__
 
-## Name of the Benefit
-
-Use of operable windows in living and cooking spaces improves indoor air quality and thermal comfort, promoting occupant health, productivity, and satisfaction.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Increased occupant comfort, potentially leading to higher tenant retention and increased property value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1488.md)
@@ -17,4 +13,8 @@ Use of operable windows in living and cooking spaces improves indoor air quality
 ## Articles mentionning this Benefit
 
 * [How our homes impact our health: using a COVID-19 informed approach to examine urban apartment housing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_279.md)
+
+## Name of the Benefit
+
+Use of operable windows in living and cooking spaces improves indoor air quality and thermal comfort, promoting occupant health, productivity, and satisfaction.
 

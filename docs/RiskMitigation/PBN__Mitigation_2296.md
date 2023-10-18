@@ -2,9 +2,9 @@
 
 # __RH effect on UV inactivation of bacterial aerosols__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Unknown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3412.md)
+* [measuring rh](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4393.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Research on aerosol transmission](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1440.md)
 * [UV disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1052.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Effect of Ultraviolet Germicidal Irradiation on Viral Aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_88.md)
+* [Unknown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3412.md)
 
 ## Property: has_MitigationPrinciple
 
 Determining the effect of relative humidity (RH) on the UV inactivation rate of bacterial aerosols
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [measuring rh](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4393.md)
+* [Effect of Ultraviolet Germicidal Irradiation on Viral Aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_88.md)
 

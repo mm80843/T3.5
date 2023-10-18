@@ -2,6 +2,10 @@
 
 # __Benchmarking__
 
+## This Technology belongs to this TechSubgroup
+
+* [Benchmarking](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_172.md)
+
 ## Closest similar item
 
 * [Diagnostic and Testing Tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4570.md)
@@ -15,15 +19,11 @@
 * [Monitoring Systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4578.md)
 * [Simulation and Forecasting Tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4579.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Benchmarking](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_172.md)
+* [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_10.md)
 
 ## This Technology is identified by the following QID
 
 * [Q816754](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q816754.md)
-
-## This Technology belongs to this TechGroup
-
-* [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_10.md)
 

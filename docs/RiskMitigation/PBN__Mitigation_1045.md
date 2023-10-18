@@ -2,9 +2,9 @@
 
 # __Humidification__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Aerosol transmission in dry environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2880.md)
+* [humidifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_925.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Dynamic botanical air filtration system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2305.md)
 * [Improved air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1070.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The Role of Architecture and Urbanism in Preventing Pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_140.md)
+* [Aerosol transmission in dry environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2880.md)
 
 ## Property: has_MitigationPrinciple
 
 Increasing indoor humidity to reduce infectivity of aerosolized virus
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [humidifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_925.md)
+* [The Role of Architecture and Urbanism in Preventing Pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_140.md)
 

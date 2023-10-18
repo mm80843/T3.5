@@ -2,9 +2,9 @@
 
 # __Public Health Messaging__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of awareness or understanding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2896.md)
+* [effective public health messaging](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3611.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Public health campaigns/education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_268.md)
 * [Public health interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1261.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Urban Park Use During the COVID-19 Pandemic: Are Socially Vulnerable Communities Disproportionately Impacted?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_276.md)
+* [Lack of awareness or understanding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2896.md)
 
 ## Property: has_MitigationPrinciple
 
 Delivering clear and accurate public health messages regarding the importance of outdoor recreation and the safety measures to be followed during the pandemic
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [effective public health messaging](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3611.md)
+* [Urban Park Use During the COVID-19 Pandemic: Are Socially Vulnerable Communities Disproportionately Impacted?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_276.md)
 

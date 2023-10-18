@@ -2,6 +2,10 @@
 
 # __Internet connectivity__
 
+## This Technology belongs to this TechSubgroup
+
+* [Communication and Connectivity](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_112.md)
+
 ## Closest similar item
 
 * [Internet connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2849.md)
@@ -15,15 +19,11 @@
 * [connectivity technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3373.md)
 * [internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3058.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Communication and Connectivity](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_112.md)
+* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
 
 ## This Technology is identified by the following QID
 
 * [Q1472399](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1472399.md)
-
-## This Technology belongs to this TechGroup
-
-* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
 

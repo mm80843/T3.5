@@ -2,7 +2,7 @@
 
 # __Isolation parameter__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
 
 ## Closest similar item
@@ -18,14 +18,14 @@
 * [Vertical Isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1917.md)
 * [Isolation Rooms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_467.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Understanding the role of urban design in disease spreading](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_69.md)
 
 ## Property: has_MitigationPrinciple
 
 The use of an isolation parameter based on spatial dependence allows for the representation of intervention strategies and adaptive behavior of sick individuals.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Understanding the role of urban design in disease spreading](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_69.md)
 

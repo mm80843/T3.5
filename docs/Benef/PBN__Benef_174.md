@@ -2,10 +2,6 @@
 
 # __Improved physical health__
 
-## Name of the Benefit
-
-Park use promotes active lifestyles that reduce the risk of cardiovascular disease and other chronic health conditions.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Occupants have access to spaces that promote physical activity, leading to improved fitness and reduced health risks.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_178.md)
@@ -26,4 +22,8 @@ Park use promotes active lifestyles that reduce the risk of cardiovascular disea
 * [Ten questions concerning occupant health in buildings during normal operations and extreme events including the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_38.md)
 * [The impact of the COVID-19 pandemic on the importance of urban green spaces to the public](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_203.md)
 * [Urban Park Use During the COVID-19 Pandemic: Are Socially Vulnerable Communities Disproportionately Impacted?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_276.md)
+
+## Name of the Benefit
+
+Park use promotes active lifestyles that reduce the risk of cardiovascular disease and other chronic health conditions.
 

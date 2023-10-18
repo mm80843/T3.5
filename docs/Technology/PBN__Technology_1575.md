@@ -2,6 +2,14 @@
 
 # __data validation and quality control nan techniques__
 
+## Risks linked to this technology
+
+* [Reliability of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2086.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Fact-checking and Content Filtering](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_10.md)
+
 ## Closest similar item
 
 * [data filtering and processing nan techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1577.md)
@@ -15,19 +23,11 @@
 * [Encryption and authentication nan technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2611.md)
 * [improved wireless communication nan technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1571.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Reliability of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2086.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Fact-checking and Content Filtering](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_10.md)
+* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
 
 ## This Technology is identified by the following QID
 
 * [Q3306762](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3306762.md)
-
-## This Technology belongs to this TechGroup
-
-* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
 

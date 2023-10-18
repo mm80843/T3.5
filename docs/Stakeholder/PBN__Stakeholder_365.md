@@ -2,6 +2,10 @@
 
 # __design professionals__
 
+## This Stakeholder is identified by the following QID
+
+* [Q7552504](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7552504.md)
+
 ## Closest similar item
 
 * [building design professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1242.md)
@@ -15,17 +19,13 @@
 * [Professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1733.md)
 * [construction professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_529.md)
 
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Efficient space planning](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_916.md)
+
 ## Risks that can be mitigated by this stakeholder
 
 * [Spatial planning considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_247.md)
 * [Smaller and individual internal layouts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_248.md)
 * [Lack of design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2106.md)
-
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Efficient space planning](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_916.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q7552504](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7552504.md)
 

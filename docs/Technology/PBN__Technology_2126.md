@@ -2,6 +2,10 @@
 
 # __Ontologies__
 
+## This Technology belongs to this TechSubgroup
+
+* [Ontologies and Semantic Web](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_16.md)
+
 ## Closest similar item
 
 * [Ontologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2126.md)
@@ -14,10 +18,6 @@
 * [ontology interoperability techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_714.md)
 * [ontology matching](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4399.md)
 * [established ontological models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1347.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Ontologies and Semantic Web](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_16.md)
 
 ## This Technology belongs to this TechGroup
 

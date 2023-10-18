@@ -2,6 +2,12 @@
 
 # __ai__
 
+## Risks linked to this technology
+
+* [Security challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2094.md)
+* [Impact on information technology, media, and research & development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1816.md)
+* [Lack of effective technical systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1197.md)
+
 ## Closest similar item
 
 * [AI](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2113.md)
@@ -15,11 +21,9 @@
 * [ai tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1318.md)
 * [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2070.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Security challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2094.md)
-* [Impact on information technology, media, and research & development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1816.md)
-* [Lack of effective technical systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1197.md)
+* [Q69906](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q69906.md)
 
 ## This Technology enables the following mitigations
 
@@ -48,8 +52,4 @@
 * [Screening techniques for patient severity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2353.md)
 * [Use of simulation for policy-making](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1632.md)
 * [Rapid deployment of new healthcare applications and services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1946.md)
-
-## This Technology is identified by the following QID
-
-* [Q69906](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q69906.md)
 

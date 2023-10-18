@@ -2,6 +2,10 @@
 
 # __virtual NFs__
 
+## This Technology belongs to this TechSubgroup
+
+* [Hardware and Devices](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_117.md)
+
 ## Closest similar item
 
 * [virtual NFs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2856.md)
@@ -15,15 +19,11 @@
 * [virtual communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_144.md)
 * [virtual experiences](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2207.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Hardware and Devices](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_117.md)
+* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
 
 ## This Technology is identified by the following QID
 
 * [Q261788](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q261788.md)
-
-## This Technology belongs to this TechGroup
-
-* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
 

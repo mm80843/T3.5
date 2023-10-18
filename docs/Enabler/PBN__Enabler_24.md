@@ -2,10 +2,13 @@
 
 # __Smart HVAC__
 
-## Thees blueprints use this enabler
+## Property: has_TechEquivalent
 
-* [Installing UV in ductwork](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_10.md)
-* [Installing high-efficiency air filters](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_11.md)
+* [Smart HVAC](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4549.md)
+
+## Property: has_BP_EnablerTitle
+
+enabler_025
 
 ## Closest similar item
 
@@ -20,11 +23,8 @@
 * [hvac systems with this capability](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_257.md)
 * [enhanced hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_258.md)
 
-## Property: has_TechEquivalent
+## Thees blueprints use this enabler
 
-* [Smart HVAC](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4549.md)
-
-## Property: has_BP_EnablerTitle
-
-enabler_025
+* [Installing UV in ductwork](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_10.md)
+* [Installing high-efficiency air filters](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_11.md)
 

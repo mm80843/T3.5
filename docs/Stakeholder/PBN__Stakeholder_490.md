@@ -2,6 +2,10 @@
 
 # __low-income residents__
 
+## This Stakeholder is identified by the following QID
+
+* [Q59679511](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q59679511.md)
+
 ## Closest similar item
 
 * [low-income citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_510.md)
@@ -22,8 +26,4 @@
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Increased inclusivity and accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1250.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q59679511](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q59679511.md)
 

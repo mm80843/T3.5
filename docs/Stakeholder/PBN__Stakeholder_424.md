@@ -2,6 +2,10 @@
 
 # __logistics companies__
 
+## This Stakeholder is identified by the following QID
+
+* [Q15915446](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q15915446.md)
+
 ## Closest similar item
 
 * [logistics providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_537.md)
@@ -15,15 +19,11 @@
 * [Manufacturing company](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2027.md)
 * [industry organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1896.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Disruption in supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_500.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Provenance and transparency in supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1055.md)
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q15915446](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q15915446.md)
+* [Disruption in supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_500.md)
 

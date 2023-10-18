@@ -2,8 +2,9 @@
 
 # __Mobile interface for feedback__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [mobile interface](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3391.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Interactive web apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2407.md)
 * [Surveys and Feedback](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_363.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [An Intelligent IEQ Monitoring and Feedback System: Development and Applications](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_62.md)
 
 ## Property: has_MitigationPrinciple
 
 Provide occupants with real-time IEQ information, assessment scores, and optimization suggestions for better indoor environmental conditions
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [mobile interface](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3391.md)
+* [An Intelligent IEQ Monitoring and Feedback System: Development and Applications](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_62.md)
 

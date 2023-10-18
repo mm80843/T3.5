@@ -2,8 +2,9 @@
 
 # __Data visualization__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [r package (ncov2019)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4475.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Strengthened data infrastructure and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1079.md)
 * [Big Data](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1317.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Open-source analytics tools for studying the COVID-19 coronavirus outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_218.md)
 
 ## Property: has_MitigationPrinciple
 
 Enables easy visualization of data through interactive web apps and plots, aiding in understanding and analyzing disease transmission and outbreak spread
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [r package (ncov2019)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4475.md)
+* [Open-source analytics tools for studying the COVID-19 coronavirus outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_218.md)
 

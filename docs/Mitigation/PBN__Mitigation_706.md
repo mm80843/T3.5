@@ -2,8 +2,9 @@
 
 # __Behavioral change__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_748.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Change management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2950.md)
 * [Continuously monitor and evaluate the impact of interventions, adjust policies accordingly](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2951.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Addressing the impact of COVID-19 lockdown on energy use in municipal buildings: A case study in Florianópolis, Brazil](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_286.md)
 
 ## Property: has_MitigationPrinciple
 
 Encourages individuals to adopt energy-saving behaviors
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_748.md)
+* [Addressing the impact of COVID-19 lockdown on energy use in municipal buildings: A case study in Florianópolis, Brazil](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_286.md)
 

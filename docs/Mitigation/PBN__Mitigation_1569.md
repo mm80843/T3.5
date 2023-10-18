@@ -2,9 +2,8 @@
 
 # __Recognizing stress symptoms__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Mental health concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1872.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Rapid diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2704.md)
 * [Address mental health concerns, provide support through social and mental health experts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3558.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Impacts of COVID-19 on Health and Safety of Workforce in Construction Industry](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_49.md)
+* [Mental health concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1872.md)
 
 ## Property: has_MitigationPrinciple
 
 Encourage workers to recognize and address stress symptoms, offering support and resources
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Impacts of COVID-19 on Health and Safety of Workforce in Construction Industry](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_49.md)
 

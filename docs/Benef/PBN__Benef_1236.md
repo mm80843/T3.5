@@ -2,10 +2,6 @@
 
 # __Consistent modeling__
 
-## Name of the Benefit
-
-Enables representation and sharing of patient
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Allows for accurate and consistent modeling](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1385.md)
@@ -18,4 +14,8 @@ Enables representation and sharing of patient
 ## Articles mentionning this Benefit
 
 * [The COVID-19 epidemiology and monitoring ontology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_259.md)
+
+## Name of the Benefit
+
+Enables representation and sharing of patient
 

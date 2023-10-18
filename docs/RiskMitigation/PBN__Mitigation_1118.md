@@ -2,9 +2,10 @@
 
 # __Restricting inter-city connections__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
+* [air travel](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3670.md)
+* [railway transport](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3669.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_11.md)
 * [Travel Restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_710.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Association of built environment attributes with the spread of COVID-19 at its initial stage in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_32.md)
+* [Spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
 
 ## Property: has_MitigationPrinciple
 
 Limiting the movement of infected individuals between cities reduces the spread of the virus.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [air travel](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3670.md)
-* [railway transport](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3669.md)
+* [Association of built environment attributes with the spread of COVID-19 at its initial stage in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_32.md)
 

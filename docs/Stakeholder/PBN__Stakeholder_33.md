@@ -2,6 +2,10 @@
 
 # __healthcare facilities__
 
+## This Stakeholder is identified by the following QID
+
+* [Q4260475](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4260475.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
@@ -19,24 +23,6 @@
 * [equip healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2762.md)
 * [facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1487.md)
 * [investments in healthcare facilities and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2763.md)
-
-## Risks that can be mitigated by this stakeholder
-
-* [Spread of COVID-19 in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1980.md)
-* [Limited access to healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1984.md)
-* [Increased clinical load](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2187.md)
-* [Lack of definitive epidemiologic data on the ability of UVGI systems to prevent healthcare-associated infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1762.md)
-* [Delayed infectious disease reporting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1240.md)
-* [Lack of protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1981.md)
-* [Patient overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1366.md)
-* [Risk of infection through face-to-face contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_849.md)
-* [Absence of efficacy studies in clinical settings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1367.md)
-* [Staff sickness and self-isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1982.md)
-* [Inadequate mixing of room air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1365.md)
-* [Inadequate TB infection control measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1363.md)
-* [Insufficient evidence on UVGI as an engineering control for preventing healthcare-associated tuberculosis transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1755.md)
-* [Inefficient negative air ionization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1364.md)
-* [Disruption of core clinical services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2186.md)
 
 ## Risk affecting this stakeholder
 
@@ -102,7 +88,21 @@
 * [Efficacy against coronavirus](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1194.md)
 * [Reduction of viral titers](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1275.md)
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q4260475](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4260475.md)
+* [Spread of COVID-19 in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1980.md)
+* [Limited access to healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1984.md)
+* [Increased clinical load](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2187.md)
+* [Lack of definitive epidemiologic data on the ability of UVGI systems to prevent healthcare-associated infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1762.md)
+* [Delayed infectious disease reporting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1240.md)
+* [Lack of protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1981.md)
+* [Patient overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1366.md)
+* [Risk of infection through face-to-face contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_849.md)
+* [Absence of efficacy studies in clinical settings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1367.md)
+* [Staff sickness and self-isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1982.md)
+* [Inadequate mixing of room air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1365.md)
+* [Inadequate TB infection control measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1363.md)
+* [Insufficient evidence on UVGI as an engineering control for preventing healthcare-associated tuberculosis transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1755.md)
+* [Inefficient negative air ionization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1364.md)
+* [Disruption of core clinical services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2186.md)
 

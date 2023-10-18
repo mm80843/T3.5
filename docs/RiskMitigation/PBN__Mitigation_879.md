@@ -2,9 +2,10 @@
 
 # __Entry port screening__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Infected individuals entering a location](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2784.md)
+* [temperature scanners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_361.md)
+* [screening technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2922.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Reviewing transport, logistics, and border regulations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1495.md)
 * [Testing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_21.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Coronavirus disease 2019: The harms of exaggerated information and non‐evidence‐based measures](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_101.md)
+* [Infected individuals entering a location](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2784.md)
 
 ## Property: has_MitigationPrinciple
 
 Screening individuals for signs of illness, such as elevated body temperature or respiratory symptoms, at entry points to prevent the entry of infected individuals into a specific location.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [temperature scanners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_361.md)
-* [screening technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2922.md)
+* [Coronavirus disease 2019: The harms of exaggerated information and non‐evidence‐based measures](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_101.md)
 

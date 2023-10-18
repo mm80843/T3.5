@@ -2,10 +2,6 @@
 
 # __Enhanced infection control measures__
 
-## Name of the Benefit
-
-Equipping hospitals with trained rapid-response teams, proper PPE, and infection control measures improves the safety and protection of healthcare workers and patients
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can benefit from improved infection control measures by safeguarding their investments and ensuring the continuity of healthcare services, which can lead to improved patient satisfaction and financial stability.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_490.md)
@@ -18,4 +14,8 @@ Equipping hospitals with trained rapid-response teams, proper PPE, and infection
 ## Articles mentionning this Benefit
 
 * [Management of the COVID-19 pandemic: challenges, practices, and organizational support](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_92.md)
+
+## Name of the Benefit
+
+Equipping hospitals with trained rapid-response teams, proper PPE, and infection control measures improves the safety and protection of healthcare workers and patients
 

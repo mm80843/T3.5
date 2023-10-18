@@ -2,6 +2,10 @@
 
 # __Natural ventilation systems__
 
+## This Technology belongs to this TechSubgroup
+
+* [HVAC and Ventilation Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_72.md)
+
 ## Closest similar item
 
 * [Natural ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2673.md)
@@ -15,15 +19,11 @@
 * [Ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2348.md)
 * [Ventilation Systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2701.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [HVAC and Ventilation Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_72.md)
+* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_12.md)
 
 ## This Technology is identified by the following QID
 
 * [Q1427418](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1427418.md)
-
-## This Technology belongs to this TechGroup
-
-* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_12.md)
 

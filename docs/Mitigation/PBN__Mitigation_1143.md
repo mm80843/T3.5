@@ -2,9 +2,9 @@
 
 # __Enteric involvement studies__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Gastrointestinal symptoms in COVID-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2941.md)
+* [data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3346.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Access to adequate sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_25.md)
 * [Sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1659.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [SARS-CoV-2 in wastewater: potential health risk, but also data source](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_70.md)
+* [Gastrointestinal symptoms in COVID-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2941.md)
 
 ## Property: has_MitigationPrinciple
 
 Identifies the prevalence of gastrointestinal symptoms in COVID-19 patients
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3346.md)
+* [SARS-CoV-2 in wastewater: potential health risk, but also data source](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_70.md)
 

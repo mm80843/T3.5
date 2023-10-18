@@ -2,6 +2,10 @@
 
 # __Social media platforms__
 
+## This Technology belongs to this TechSubgroup
+
+* [Social Media Platforms and Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_33.md)
+
 ## Closest similar item
 
 * [Social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2129.md)
@@ -14,10 +18,6 @@
 * [online social platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1404.md)
 * [social media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_898.md)
 * [media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4345.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Social Media Platforms and Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_33.md)
 
 ## This Technology belongs to this TechGroup
 

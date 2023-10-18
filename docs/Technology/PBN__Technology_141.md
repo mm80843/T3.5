@@ -2,6 +2,17 @@
 
 # __skylights__
 
+## Risks linked to this technology
+
+* [Lack of natural light](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1804.md)
+* [Inadequate natural light](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1088.md)
+* [Lack of indoor green features](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2115.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Building Systems and Design](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_89.md)
+* [Lighting Solutions](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_80.md)
+
 ## Closest similar item
 
 * [lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4296.md)
@@ -15,24 +26,13 @@
 * [Natural lighting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2702.md)
 * [lighting controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1257.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Lack of natural light](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1804.md)
-* [Inadequate natural light](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1088.md)
-* [Lack of indoor green features](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2115.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Building Systems and Design](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_89.md)
-* [Lighting Solutions](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_80.md)
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
+* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_12.md)
 
 ## This Technology enables the following mitigations
 
 * [Daylighting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_138.md)
 * [Enhancing natural lighting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_481.md)
-
-## This Technology belongs to this TechGroup
-
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
-* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_12.md)
 

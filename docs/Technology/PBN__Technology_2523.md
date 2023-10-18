@@ -2,6 +2,10 @@
 
 # __Sensor-based systems for monitoring facility usage and cleanliness__
 
+## This Technology belongs to this TechSubgroup
+
+* [Data Collection and Analysis](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_162.md)
+
 ## Closest similar item
 
 * [Sensor-based systems for monitoring facility usage and cleanliness](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2523.md)
@@ -15,15 +19,11 @@
 * [environmental monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_707.md)
 * [Environmental monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2533.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Data Collection and Analysis](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_162.md)
+* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
 
 ## This Technology is identified by the following QID
 
 * [Q1749732](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1749732.md)
-
-## This Technology belongs to this TechGroup
-
-* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
 

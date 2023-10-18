@@ -2,9 +2,9 @@
 
 # __Big data analysis__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Data sharing ethics, accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2992.md)
+* [big data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2938.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Data intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_58.md)
 * [Strengthened data infrastructure and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1079.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [A critical review of emerging technologies for tackling COVID ‐19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_91.md)
+* [Data sharing ethics, accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2992.md)
 
 ## Property: has_MitigationPrinciple
 
 Analyze large datasets to identify COVID-19 patterns, predict outbreaks, and inform interventions
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [big data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2938.md)
+* [A critical review of emerging technologies for tackling COVID ‐19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_91.md)
 

@@ -2,7 +2,7 @@
 
 # __Strengthen Social Capital and Community Coherence__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
 
 ## Closest similar item
@@ -18,14 +18,14 @@
 * [Community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2053.md)
 * [Including local communities in PCA governance and benefits](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_493.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Mental health economics: A prospective study on psychological flourishing and associations with healthcare costs and sickness benefit transfers in Denmark](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_189.md)
 
 ## Property: has_MitigationPrinciple
 
 Promote community cohesion and social capital to enhance well-being and reduce healthcare costs.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Mental health economics: A prospective study on psychological flourishing and associations with healthcare costs and sickness benefit transfers in Denmark](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_189.md)
 

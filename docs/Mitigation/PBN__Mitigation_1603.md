@@ -2,9 +2,8 @@
 
 # __Screening for mental health problems__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Emotional distress, psychiatric illness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3156.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Patient and healthcare worker asymptomatic screening programmes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_470.md)
 * [Implement Mental Health and Well-being Programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1835.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Mental Health and the Covid-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_167.md)
+* [Emotional distress, psychiatric illness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3156.md)
 
 ## Property: has_MitigationPrinciple
 
 Identify individuals at risk for adverse psychosocial outcomes for early intervention
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Mental Health and the Covid-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_167.md)
 

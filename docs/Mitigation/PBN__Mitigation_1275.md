@@ -2,9 +2,9 @@
 
 # __Improved ventilation in indoor spaces__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
+* [ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Ventilation Improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1576.md)
 * [Ventilation Improvements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1913.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Effects of temperature and humidity on the spread of COVID-19: A systematic review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_228.md)
+* [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
 
 ## Property: has_MitigationPrinciple
 
 Enhancing ventilation in indoor spaces through the use of ventilation systems to increase the exchange of outdoor and indoor air, reducing the concentration of viral particles and the risk of airborne transmission
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
+* [Effects of temperature and humidity on the spread of COVID-19: A systematic review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_228.md)
 

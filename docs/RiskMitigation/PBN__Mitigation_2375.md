@@ -2,8 +2,9 @@
 
 # __Bluetooth contact tracing app__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [mobile phone application](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4443.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Digital contact tracing application](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_42.md)
 * [Mobile phone tracking for contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2343.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Applications of digital technology in COVID-19 pandemic planning and response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_127.md)
 
 ## Property: has_MitigationPrinciple
 
 Exchange of short-distance Bluetooth signals to record encounters and identify contacts of infected individuals
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [mobile phone application](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4443.md)
+* [Applications of digital technology in COVID-19 pandemic planning and response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_127.md)
 

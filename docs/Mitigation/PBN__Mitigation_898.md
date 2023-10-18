@@ -2,9 +2,9 @@
 
 # __Induction process online__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Inability to conduct in-person induction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2803.md)
+* [online platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_67.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Sequence annotation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2220.md)
 * [Online Education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1446.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The impact of COVID-19 outbreak on United Kingdom infrastructure sector](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_141.md)
+* [Inability to conduct in-person induction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2803.md)
 
 ## Property: has_MitigationPrinciple
 
 Allows for new staff members to receive necessary information remotely and reduces the risk of virus transmission
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [online platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_67.md)
+* [The impact of COVID-19 outbreak on United Kingdom infrastructure sector](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_141.md)
 

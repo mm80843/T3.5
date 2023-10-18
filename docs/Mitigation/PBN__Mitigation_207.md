@@ -2,9 +2,8 @@
 
 # __Supporting workers and migrant workers__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Job loss and exploitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2501.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Providing shelters and nutrition for refugees and the homeless](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_206.md)
 * [Worker Education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_870.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Non-medical Interventions to Reduce the Burden of Psychosocial and Economic Impacts of COVID-19 Pandemic: A Scope Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_243.md)
+* [Job loss and exploitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2501.md)
 
 ## Property: has_MitigationPrinciple
 
 Provide support and protections for workers, particularly vulnerable groups like migrant workers, to ensure fair treatment and assistance during the pandemic.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Non-medical Interventions to Reduce the Burden of Psychosocial and Economic Impacts of COVID-19 Pandemic: A Scope Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_243.md)
 

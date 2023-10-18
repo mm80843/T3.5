@@ -2,6 +2,10 @@
 
 # __anti-inflammatory drugs__
 
+## Risks linked to this technology
+
+* [Lack of drug therapy options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1146.md)
+
 ## Closest similar item
 
 * [medications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3886.md)
@@ -15,15 +19,11 @@
 * [antimicrobial coating](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3484.md)
 * [Antimicrobial coating](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4551.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Lack of drug therapy options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1146.md)
+* [Q581996](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q581996.md)
 
 ## This Technology enables the following mitigations
 
 * [Drug Therapies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_228.md)
-
-## This Technology is identified by the following QID
-
-* [Q581996](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q581996.md)
 

@@ -2,6 +2,14 @@
 
 # __literature mining__
 
+## Risks linked to this technology
+
+* [Incomplete coverage of information in ontologies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1454.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Bioinformatics and Genomic Analysis](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_30.md)
+
 ## Closest similar item
 
 * [biomedical literature](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2933.md)
@@ -15,19 +23,11 @@
 * [Machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2043.md)
 * [Machine Learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2111.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Incomplete coverage of information in ontologies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1454.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Bioinformatics and Genomic Analysis](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_30.md)
+* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
 
 ## This Technology is identified by the following QID
 
 * [Q8242](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q8242.md)
-
-## This Technology belongs to this TechGroup
-
-* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
 

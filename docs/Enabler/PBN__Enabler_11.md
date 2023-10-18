@@ -2,10 +2,13 @@
 
 # __Wearables__
 
-## Thees blueprints use this enabler
+## Property: has_TechEquivalent
 
-* [Reducing contact points](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_15.md)
-* [Tracking and enforcing use of Personal Protective Equipment](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_19.md)
+* [Wearables](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4537.md)
+
+## Property: has_BP_EnablerTitle
+
+enabler_012
 
 ## Closest similar item
 
@@ -20,11 +23,8 @@
 * [fitbits](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_141.md)
 * [wristbands](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_142.md)
 
-## Property: has_TechEquivalent
+## Thees blueprints use this enabler
 
-* [Wearables](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4537.md)
-
-## Property: has_BP_EnablerTitle
-
-enabler_012
+* [Reducing contact points](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_15.md)
+* [Tracking and enforcing use of Personal Protective Equipment](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_19.md)
 

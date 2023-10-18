@@ -2,6 +2,10 @@
 
 # __emergency responders__
 
+## This Stakeholder is identified by the following QID
+
+* [Q19693316](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q19693316.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Crisis Management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_14.md)
@@ -30,8 +34,4 @@
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Increased resilience and flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1244.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q19693316](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q19693316.md)
 

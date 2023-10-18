@@ -2,10 +2,6 @@
 
 # __Access to updated and comprehensive mitigation information__
 
-## Name of the Benefit
-
-Users can access the latest information about COVID-19, including prevention measures and case updates.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved public health, increased users’ trust and satisfaction, increased demand for the mobile application.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1273.md)
@@ -17,4 +13,8 @@ Users can access the latest information about COVID-19, including prevention mea
 ## Articles mentionning this Benefit
 
 * [Risk Diagnosis and Mitigation System of COVID-19 Using Expert System and Web Scraping](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_237.md)
+
+## Name of the Benefit
+
+Users can access the latest information about COVID-19, including prevention measures and case updates.
 

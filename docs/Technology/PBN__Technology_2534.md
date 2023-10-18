@@ -2,6 +2,10 @@
 
 # __Monitoring techniques for RNA degradation__
 
+## This Technology belongs to this TechSubgroup
+
+* [Surveillance and Occupancy Tracking](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_146.md)
+
 ## Closest similar item
 
 * [Monitoring techniques for RNA degradation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2534.md)
@@ -15,15 +19,11 @@
 * [molecular testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3634.md)
 * [nucleic acid extraction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4480.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Surveillance and Occupancy Tracking](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_146.md)
+* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
 
 ## This Technology is identified by the following QID
 
 * [Q14911527](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q14911527.md)
-
-## This Technology belongs to this TechGroup
-
-* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
 

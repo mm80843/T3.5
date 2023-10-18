@@ -2,6 +2,10 @@
 
 # __Improved public transportation services__
 
+## This Technology belongs to this TechSubgroup
+
+* [Public Spaces and Transportation](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_128.md)
+
 ## Closest similar item
 
 * [Improved public transportation services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2664.md)
@@ -15,15 +19,11 @@
 * [active transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1155.md)
 * [transportation planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_661.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Public Spaces and Transportation](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_128.md)
+* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_12.md)
 
 ## This Technology is identified by the following QID
 
 * [Q178512](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q178512.md)
-
-## This Technology belongs to this TechGroup
-
-* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_12.md)
 

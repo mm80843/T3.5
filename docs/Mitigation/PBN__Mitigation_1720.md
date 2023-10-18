@@ -2,9 +2,10 @@
 
 # __E-learning packages__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of educational resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3233.md)
+* [e-learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_959.md)
+* [digital content creation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4029.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Virtual assessments](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1719.md)
 * [Education programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_47.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19: A new digital dawn?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_93.md)
+* [Lack of educational resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3233.md)
 
 ## Property: has_MitigationPrinciple
 
 Develop and distribute e-learning packages to educate healthcare workforce on managing respiratory illnesses and redeployment during pandemic
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [e-learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_959.md)
-* [digital content creation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4029.md)
+* [COVID-19: A new digital dawn?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_93.md)
 

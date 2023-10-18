@@ -2,9 +2,9 @@
 
 # __Isolation of suspected COVID-19 patients__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Ineffective home isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2704.md)
+* [construction of mobile cabin hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3403.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Avoidance of contact with someone who is displaying symptoms of coronavirus](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1810.md)
 * [COVID-19 crisis management plan](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_797.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Aerosol and Surface Distribution of Severe Acute Respiratory Syndrome Coronavirus 2 in Hospital Wards, Wuhan, China, 2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_263.md)
+* [Ineffective home isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2704.md)
 
 ## Property: has_MitigationPrinciple
 
 Isolating patients with suspected COVID-19 by constructing mobile cabin hospitals to ensure that professional medical staff care for them
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [construction of mobile cabin hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3403.md)
+* [Aerosol and Surface Distribution of Severe Acute Respiratory Syndrome Coronavirus 2 in Hospital Wards, Wuhan, China, 2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_263.md)
 

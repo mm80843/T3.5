@@ -2,8 +2,9 @@
 
 # __Mobile Apps__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [mobile technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2902.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Mobile interface for feedback](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_697.md)
 * [Aarogya Setu app](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1698.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Psychological Effects of Home Confinement and Social Distancing Derived from COVID-19 in the General Population—A Systematic Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_126.md)
 
 ## Property: has_MitigationPrinciple
 
 Using mobile applications to track and trace contacts, provide health information, and facilitate self-assessment for COVID-19 symptoms
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [mobile technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2902.md)
+* [Psychological Effects of Home Confinement and Social Distancing Derived from COVID-19 in the General Population—A Systematic Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_126.md)
 

@@ -2,8 +2,9 @@
 
 # __Sodium chloride extraction__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [sodium chloride](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3490.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Polyethylene glycol (MW 8000) extraction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_848.md)
 * [Removal of wet or contaminated insulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1430.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [A Continuously Active Antimicrobial Coating effective against Human Coronavirus 229E](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_246.md)
 
 ## Property: has_MitigationPrinciple
 
 Extracts viruses from cell lysates for testing
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [sodium chloride](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3490.md)
+* [A Continuously Active Antimicrobial Coating effective against Human Coronavirus 229E](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_246.md)
 

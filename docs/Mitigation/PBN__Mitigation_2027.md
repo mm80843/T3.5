@@ -2,9 +2,9 @@
 
 # __Cloud computing__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Data security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1536.md)
+* [cloud computing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1232.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [IoT data monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3534.md)
 * [Computer-based solutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3124.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The role of contemporary digital tools and technologies in COVID19 crisis: An exploratory analysis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_226.md)
+* [Data security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1536.md)
 
 ## Property: has_MitigationPrinciple
 
 Cloud computing enables secure storage, analysis, and sharing of healthcare data, improving accessibility and scalability.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [cloud computing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1232.md)
+* [The role of contemporary digital tools and technologies in COVID19 crisis: An exploratory analysis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_226.md)
 

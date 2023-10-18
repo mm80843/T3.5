@@ -2,9 +2,9 @@
 
 # __Testing and Diagnosis__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of access to testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3191.md)
+* [testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_610.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Evaluation of symptoms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1626.md)
 * [Rapid Testing Methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2477.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19 and social inequalities: a complex and dynamic interaction](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_136.md)
+* [Lack of access to testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3191.md)
 
 ## Property: has_MitigationPrinciple
 
 Testing individuals for SARS-CoV-2 infection to identify and diagnose cases, allowing for appropriate isolation and treatment
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_610.md)
+* [COVID-19 and social inequalities: a complex and dynamic interaction](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_136.md)
 

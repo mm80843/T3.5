@@ -2,10 +2,6 @@
 
 # __Increased medical capacity__
 
-## Name of the Benefit
-
-Increased capacity to handle emergency cases and provide medical services
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved healthcare infrastructure can attract more healthcare professionals and enhance access to healthcare services.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_804.md)
@@ -18,4 +14,8 @@ Increased capacity to handle emergency cases and provide medical services
 ## Articles mentionning this Benefit
 
 * [Pandemic stricken cities on lockdown. Where are our planning and design professionals [now, then and into the future]?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_147.md)
+
+## Name of the Benefit
+
+Increased capacity to handle emergency cases and provide medical services
 

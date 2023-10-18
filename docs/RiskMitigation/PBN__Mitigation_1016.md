@@ -2,9 +2,9 @@
 
 # __Rapid Isolation__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1087.md)
+* [rapid diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_612.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Isolation rooms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1710.md)
 * [Patient isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_834.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The effect of human mobility and control measures on the COVID-19 epidemic in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_248.md)
+* [Transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1087.md)
 
 ## Property: has_MitigationPrinciple
 
 Isolating suspected cases, confirmed cases, and contacts to prevent further spread
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [rapid diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_612.md)
+* [The effect of human mobility and control measures on the COVID-19 epidemic in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_248.md)
 

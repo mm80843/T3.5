@@ -2,10 +2,6 @@
 
 # __Enhanced coordination and cooperation__
 
-## Name of the Benefit
-
-Integrated management platforms and observatories facilitate data sharing, communication, and coordination among different stakeholders
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [More efficient and effective response, better resource allocation, enhanced cooperation and partnerships](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1225.md)
@@ -21,4 +17,8 @@ Integrated management platforms and observatories facilitate data sharing, commu
 ## Articles mentionning this Benefit
 
 * [Contributions of Smart City Solutions and Technologies to Resilience against the COVID-19 Pandemic: A Literature Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_227.md)
+
+## Name of the Benefit
+
+Integrated management platforms and observatories facilitate data sharing, communication, and coordination among different stakeholders
 

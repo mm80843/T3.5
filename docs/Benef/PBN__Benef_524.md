@@ -2,10 +2,6 @@
 
 # __Health and safety__
 
-## Name of the Benefit
-
-Decentralizing cities and distributing smaller units like health facilities can reduce overcrowding and the risk of infection transmission.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Implementing enhanced cleaning and disinfection protocols can help prevent the spread of contagious diseases and protect the health and well-being of employees and customers.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_574.md)
@@ -21,4 +17,8 @@ Decentralizing cities and distributing smaller units like health facilities can 
 
 * [Antivirus-built environment: Lessons learned from Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_298.md)
 * [El impacto del teletrabajo en tiempos del COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_108.md)
+
+## Name of the Benefit
+
+Decentralizing cities and distributing smaller units like health facilities can reduce overcrowding and the risk of infection transmission.
 

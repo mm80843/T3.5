@@ -2,6 +2,10 @@
 
 # __Filters__
 
+## This Technology belongs to this TechSubgroup
+
+* [Sanitation and Safety](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_123.md)
+
 ## Closest similar item
 
 * [Air Quality and Filtration Systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4580.md)
@@ -14,10 +18,6 @@
 * [Monitoring Systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4578.md)
 * [Data Collection and Analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4571.md)
 * [Environmental Controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4587.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Sanitation and Safety](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_123.md)
 
 ## This Technology belongs to this TechGroup
 

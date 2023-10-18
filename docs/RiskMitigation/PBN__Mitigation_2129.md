@@ -2,9 +2,11 @@
 
 # __Efficiency of air filtration systems__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Pathogen propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3348.md)
+* [hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_674.md)
+* [uv germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_225.md)
+* [photocatalytic oxidation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1744.md)
 
 ## Closest similar item
 
@@ -19,17 +21,15 @@
 * [Improve air filtration and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2654.md)
 * [Enhanced HVAC filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4280.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
+* [Pathogen propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3348.md)
 
 ## Property: has_MitigationPrinciple
 
 Proper air filtration to eliminate suspended viruses
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_674.md)
-* [uv germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_225.md)
-* [photocatalytic oxidation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1744.md)
+* [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
 

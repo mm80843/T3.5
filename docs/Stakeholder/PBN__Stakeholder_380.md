@@ -2,6 +2,10 @@
 
 # __urban designers__
 
+## This Stakeholder is identified by the following QID
+
+* [Q63100](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q63100.md)
+
 ## Closest similar item
 
 * [Urban designers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2800.md)
@@ -15,15 +19,11 @@
 * [Urban planning and design technologies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2944.md)
 * [urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2842.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Streets re-designed](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1458.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Improved integration of UGS in urban design](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_967.md)
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q63100](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q63100.md)
+* [Streets re-designed](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1458.md)
 

@@ -2,9 +2,10 @@
 
 # __Administrative controls__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Exposure to SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2614.md)
+* [changes in work procedures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3289.md)
+* [decrease number of workers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3290.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Air control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2649.md)
 * [Enhanced monitoring and control efforts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3854.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The hierarchy of preventive measures to protect workers against the COVID-19 pandemic: A review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_73.md)
+* [Exposure to SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2614.md)
 
 ## Property: has_MitigationPrinciple
 
 Minimize exposure through changes in work procedures, decrease the total number of workers, limit face-to- face meetings and communications, establish extra shifts or alternative days, and provide ongoing education and training programs.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [changes in work procedures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3289.md)
-* [decrease number of workers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3290.md)
+* [The hierarchy of preventive measures to protect workers against the COVID-19 pandemic: A review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_73.md)
 

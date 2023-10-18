@@ -2,9 +2,8 @@
 
 # __Use of Paracetamol__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Worsening infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3129.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Removal of visible contaminants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2328.md)
 * [Therapeutic Drugs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_763.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Infodemic and the spread of fake news in the COVID-19-era](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_299.md)
+* [Worsening infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3129.md)
 
 ## Property: has_MitigationPrinciple
 
 Use paracetamol instead of anti-inflammatory drugs (ibuprofen, cortisone, etc.) in case of fever caused by influenza-like illness possibly due to COVID-19.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Infodemic and the spread of fake news in the COVID-19-era](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_299.md)
 

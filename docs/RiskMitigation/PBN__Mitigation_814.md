@@ -2,9 +2,9 @@
 
 # __Balancing Ventilation__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Uneven air distribution and stagnant air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2755.md)
+* [mechanical ventilation system with balanced air distribution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3468.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1214.md)
 * [Ventilation improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_248.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [howard-reed_effect_2002 howard-reed_effect_2002](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_307.md)
+* [Uneven air distribution and stagnant air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2755.md)
 
 ## Property: has_MitigationPrinciple
 
 Installing a mechanical ventilation system with balanced air distribution can help ensure even air distribution throughout a building and reduce the risk of uneven air distribution and stagnant air.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [mechanical ventilation system with balanced air distribution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3468.md)
+* [howard-reed_effect_2002 howard-reed_effect_2002](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_307.md)
 

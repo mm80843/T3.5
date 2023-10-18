@@ -2,6 +2,10 @@
 
 # __UV light disinfection__
 
+## This Technology belongs to this TechSubgroup
+
+* [Disinfection and Cleaning Techniques](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_15.md)
+
 ## Closest similar item
 
 * [uv disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_204.md)
@@ -15,15 +19,11 @@
 * [uv-c disinfection technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1627.md)
 * [UV-C disinfection technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2349.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Disinfection and Cleaning Techniques](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_15.md)
+* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
 
 ## This Technology is identified by the following QID
 
 * [Q11391](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11391.md)
-
-## This Technology belongs to this TechGroup
-
-* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
 

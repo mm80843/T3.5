@@ -2,8 +2,10 @@
 
 # __Integration of multiple measurement methods__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [pcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3069.md)
+* [biomarker measurements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3080.md)
 
 ## Closest similar item
 
@@ -18,16 +20,14 @@
 * [Isolation measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1278.md)
 * [Integration and interoperability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_59.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Wastewater-Based Epidemiology to monitor COVID-19 outbreak: Present and future diagnostic methods to be in your radar](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_178.md)
 
 ## Property: has_MitigationPrinciple
 
 A combination of PCR and biomarker measurements can provide comprehensive and accurate monitoring of virus outbreaks in wastewater, improving detection capabilities.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [pcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3069.md)
-* [biomarker measurements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3080.md)
+* [Wastewater-Based Epidemiology to monitor COVID-19 outbreak: Present and future diagnostic methods to be in your radar](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_178.md)
 

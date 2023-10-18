@@ -2,6 +2,14 @@
 
 # __online exercise videos__
 
+## Risks linked to this technology
+
+* [Lack of access to regular sporting or exercise routines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1716.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Well-being and Lifestyle](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_45.md)
+
 ## Closest similar item
 
 * [online exercise classes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1075.md)
@@ -15,19 +23,11 @@
 * [video lectures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_387.md)
 * [exercise programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1224.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Lack of access to regular sporting or exercise routines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1716.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Well-being and Lifestyle](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_45.md)
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 
 ## This Technology is identified by the following QID
 
 * [Q23058567](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q23058567.md)
-
-## This Technology belongs to this TechGroup
-
-* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 

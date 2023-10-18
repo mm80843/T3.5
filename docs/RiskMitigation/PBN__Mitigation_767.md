@@ -2,9 +2,9 @@
 
 # __Ontologies__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of interoperability among ontologies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2727.md)
+* [ontology development and integration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3439.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [ontology matching](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3910.md)
 * [established ontological models](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3911.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [CIDO, a community-based ontology for coronavirus disease knowledge and data integration, sharing, and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_13.md)
+* [Lack of interoperability among ontologies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2727.md)
 
 ## Property: has_MitigationPrinciple
 
 Standardizing and organizing data and knowledge for integration and analysis
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [ontology development and integration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3439.md)
+* [CIDO, a community-based ontology for coronavirus disease knowledge and data integration, sharing, and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_13.md)
 

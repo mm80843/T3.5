@@ -2,9 +2,9 @@
 
 # __Resilient supply chain design__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Supply chain disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1400.md)
+* [network design tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3815.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Rethinking global trade and supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2259.md)
 * [Cold chain logistics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1620.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Mapping research in logistics and supply chain management during COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_4.md)
+* [Supply chain disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1400.md)
 
 ## Property: has_MitigationPrinciple
 
 Designing resilient supply chains that are better prepared to withstand and recover from disruptions
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [network design tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3815.md)
+* [Mapping research in logistics and supply chain management during COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_4.md)
 

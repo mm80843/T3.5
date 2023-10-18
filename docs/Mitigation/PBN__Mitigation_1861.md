@@ -2,9 +2,10 @@
 
 # __Early Warning Systems__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Emerging disease threats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3269.md)
+* [monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_201.md)
+* [data analysis tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_554.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Risk communication strategy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_239.md)
 * [Remain alert and responsive to changing needs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_609.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Prototype Early Warning Systems for Vector-Borne Diseases in Europe](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_212.md)
+* [Emerging disease threats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3269.md)
 
 ## Property: has_MitigationPrinciple
 
 Using early warning systems that monitor environmental and climatic conditions can help predict and respond to emerging disease threats in specific areas.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_201.md)
-* [data analysis tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_554.md)
+* [Prototype Early Warning Systems for Vector-Borne Diseases in Europe](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_212.md)
 

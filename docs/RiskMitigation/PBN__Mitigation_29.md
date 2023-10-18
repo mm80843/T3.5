@@ -2,9 +2,9 @@
 
 # __Mutual aid groups__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2413.md)
+* [community initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2909.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Interdisciplinary collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2063.md)
 * [Provide financial aids](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_990.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19: Lessons for an Urban(izing) World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_85.md)
+* [Vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2413.md)
 
 ## Property: has_MitigationPrinciple
 
 Mutual aid groups provide support and assistance to vulnerable groups, ensuring they have access to essential services and resources during a crisis.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [community initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2909.md)
+* [COVID-19: Lessons for an Urban(izing) World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_85.md)
 

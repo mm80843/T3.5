@@ -2,6 +2,15 @@
 
 # __websites__
 
+## Risks linked to this technology
+
+* [Limited access to COVID-19 mitigation information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1784.md)
+* [Confusion and Uncertainty](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1723.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Collaboration and Community Engagement Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_37.md)
+
 ## Closest similar item
 
 * [educational websites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1145.md)
@@ -14,15 +23,6 @@
 * [internet)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3466.md)
 * [resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3643.md)
 * [social media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_898.md)
-
-## Risks linked to this technology
-
-* [Limited access to COVID-19 mitigation information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1784.md)
-* [Confusion and Uncertainty](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1723.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Collaboration and Community Engagement Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_37.md)
 
 ## This Technology belongs to this TechGroup
 

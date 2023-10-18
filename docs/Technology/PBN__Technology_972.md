@@ -2,6 +2,14 @@
 
 # __cool roofs__
 
+## Risks linked to this technology
+
+* [Urban heat islands (UHIs)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_367.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Urban Planning and Green Spaces](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_85.md)
+
 ## Closest similar item
 
 * [green roofs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1392.md)
@@ -15,20 +23,12 @@
 * [Rooftop gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2757.md)
 * [rooftop gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1786.md)
 
-## Risks linked to this technology
-
-* [Urban heat islands (UHIs)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_367.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Urban Planning and Green Spaces](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_85.md)
-
-## This Technology is identified by the following QID
-
-* [Q21161971](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q21161971.md)
-
 ## This Technology belongs to this TechGroup
 
 * [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
 * [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
+
+## This Technology is identified by the following QID
+
+* [Q21161971](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q21161971.md)
 

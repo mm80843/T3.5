@@ -2,6 +2,16 @@
 
 # __educational programs__
 
+## Risks linked to this technology
+
+* [Poor compliance with interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1541.md)
+* [Lack of understanding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1537.md)
+* [Limited accessibility due to education level](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2246.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Educational and Training Resources](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_39.md)
+
 ## Closest similar item
 
 * [Educational programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2621.md)
@@ -15,22 +25,12 @@
 * [training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_82.md)
 * [Training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2618.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Poor compliance with interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1541.md)
-* [Lack of understanding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1537.md)
-* [Limited accessibility due to education level](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2246.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Educational and Training Resources](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_39.md)
+* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
 
 ## This Technology enables the following mitigations
 
 * [Enhanced education access and equity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1072.md)
 * [Training programs for skill development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1506.md)
-
-## This Technology belongs to this TechGroup
-
-* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
 

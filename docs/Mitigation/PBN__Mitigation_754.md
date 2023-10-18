@@ -2,9 +2,11 @@
 
 # __Personal Protective Measures__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Individual exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3271.md)
+* [masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1053.md)
+* [hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_412.md)
+* [personal protective equipment (e.g. masks)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3797.md)
 
 ## Closest similar item
 
@@ -19,18 +21,16 @@
 * [Personal Protective Equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_464.md)
 * [Personal protective equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_62.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Respiratory pandemics, urban planning and design: A multidisciplinary rapid review of the literature](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_133.md)
-* [Prototype Early Warning Systems for Vector-Borne Diseases in Europe](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_212.md)
+* [Individual exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3271.md)
 
 ## Property: has_MitigationPrinciple
 
 Use of personal protective equipment such as masks and hand sanitizers to prevent disease transmission
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1053.md)
-* [hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_412.md)
-* [personal protective equipment (e.g. masks)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3797.md)
+* [Respiratory pandemics, urban planning and design: A multidisciplinary rapid review of the literature](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_133.md)
+* [Prototype Early Warning Systems for Vector-Borne Diseases in Europe](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_212.md)
 

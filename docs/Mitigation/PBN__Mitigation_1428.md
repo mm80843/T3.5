@@ -2,9 +2,10 @@
 
 # __Regular inspection and maintenance__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Inadequate maintenance and operation of HVAC systems and components](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3066.md)
+* [industry standards and guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3872.md)
+* [qualified hvac professionals](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3871.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Increased Cleaning Protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1757.md)
 * [Enhanced cleaning practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2471.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Ventilation use in nonmedical settings during COVID-19: Cleaning protocol, maintenance, and recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_104.md)
+* [Inadequate maintenance and operation of HVAC systems and components](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3066.md)
 
 ## Property: has_MitigationPrinciple
 
 Regular inspection and maintenance of HVAC systems ensures proper functioning and identifies any issues that may impact indoor air quality and transmission risk
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [industry standards and guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3872.md)
-* [qualified hvac professionals](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3871.md)
+* [Ventilation use in nonmedical settings during COVID-19: Cleaning protocol, maintenance, and recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_104.md)
 

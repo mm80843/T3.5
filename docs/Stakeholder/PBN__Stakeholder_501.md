@@ -2,6 +2,14 @@
 
 # __medical doctors__
 
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Enhanced disinfection in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1277.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q39631](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q39631.md)
+
 ## Closest similar item
 
 * [physicians](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1485.md)
@@ -14,12 +22,4 @@
 * [health professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_595.md)
 * [surgeons](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1172.md)
 * [clinicians](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_274.md)
-
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Enhanced disinfection in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1277.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q39631](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q39631.md)
 

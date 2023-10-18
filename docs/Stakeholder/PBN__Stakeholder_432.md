@@ -2,6 +2,10 @@
 
 # __hospital workers__
 
+## This Stakeholder is identified by the following QID
+
+* [Q3140963](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3140963.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
@@ -33,8 +37,4 @@
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Reduction in indirect transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1085.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q3140963](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3140963.md)
 

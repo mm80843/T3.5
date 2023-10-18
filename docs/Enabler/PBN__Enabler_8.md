@@ -2,11 +2,13 @@
 
 # __AI/ML__
 
-## Thees blueprints use this enabler
+## Property: has_TechEquivalent
 
-* [Managing user flows in building and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_4.md)
-* [Controls at key checkpoints](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_6.md)
-* [Access control, limitation, or lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_7.md)
+* [AI/ML](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4534.md)
+
+## Property: has_BP_EnablerTitle
+
+enabler_009
 
 ## Closest similar item
 
@@ -21,11 +23,9 @@
 * [ai technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_115.md)
 * [AI technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_116.md)
 
-## Property: has_TechEquivalent
+## Thees blueprints use this enabler
 
-* [AI/ML](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4534.md)
-
-## Property: has_BP_EnablerTitle
-
-enabler_009
+* [Managing user flows in building and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_4.md)
+* [Controls at key checkpoints](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_6.md)
+* [Access control, limitation, or lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_7.md)
 

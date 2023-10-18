@@ -2,6 +2,10 @@
 
 # __medical personnel__
 
+## This Stakeholder is identified by the following QID
+
+* [Q11974939](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11974939.md)
+
 ## Closest similar item
 
 * [healthcare personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_185.md)
@@ -14,14 +18,6 @@
 * [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
 * [physicians](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1485.md)
 * [hospital staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_369.md)
-
-## Risks that can be mitigated by this stakeholder
-
-* [Insufficient negative pressure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_315.md)
-* [Lack of patient monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1642.md)
-* [Inadequate room selection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1640.md)
-* [Lack of anterooms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1641.md)
-* [Inadequate door-lock device](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1643.md)
 
 ## Risk affecting this stakeholder
 
@@ -36,7 +32,11 @@
 * [Improved Access to Patients](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_392.md)
 * [Efficient resource management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1380.md)
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q11974939](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11974939.md)
+* [Insufficient negative pressure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_315.md)
+* [Lack of patient monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1642.md)
+* [Inadequate room selection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1640.md)
+* [Lack of anterooms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1641.md)
+* [Inadequate door-lock device](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1643.md)
 

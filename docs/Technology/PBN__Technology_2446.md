@@ -2,6 +2,9 @@
 
 # __Noise reduction technologies__
 
+## This Technology belongs to this TechSubgroup
+
+
 ## Closest similar item
 
 * [Noise reduction technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2446.md)
@@ -15,15 +18,12 @@
 * [white noise machines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_191.md)
 * [White noise machines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2234.md)
 
-## This Technology belongs to this TechSubgroup
-
-
-## This Technology is identified by the following QID
-
-* [Q1879301](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1879301.md)
-
 ## This Technology belongs to this TechGroup
 
 * [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
 * [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
+
+## This Technology is identified by the following QID
+
+* [Q1879301](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1879301.md)
 

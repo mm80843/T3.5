@@ -2,6 +2,10 @@
 
 # __Training programs__
 
+## This Technology belongs to this TechSubgroup
+
+* [Educational and Training Resources](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_39.md)
+
 ## Closest similar item
 
 * [Training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2618.md)
@@ -14,10 +18,6 @@
 * [training and certification programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1159.md)
 * [online training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1701.md)
 * [training sessions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3461.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Educational and Training Resources](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_39.md)
 
 ## This Technology belongs to this TechGroup
 

@@ -2,10 +2,6 @@
 
 # __Reduction in transmission risk__
 
-## Name of the Benefit
-
-Improved safety practices in COVID-19 wards can reduce the risk of contamination and transmission of SARS-CoV-2
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Implementing this measure would protect the health and safety of medical staff and patients, reducing the likelihood of outbreaks and improving the reputation and trustworthiness of the healthcare facility.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1414.md)
@@ -21,4 +17,8 @@ Improved safety practices in COVID-19 wards can reduce the risk of contamination
 ## Articles mentionning this Benefit
 
 * [Aerosol and Surface Distribution of Severe Acute Respiratory Syndrome Coronavirus 2 in Hospital Wards, Wuhan, China, 2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_263.md)
+
+## Name of the Benefit
+
+Improved safety practices in COVID-19 wards can reduce the risk of contamination and transmission of SARS-CoV-2
 

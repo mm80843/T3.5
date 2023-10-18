@@ -2,6 +2,10 @@
 
 # __Air filters__
 
+## This Technology belongs to this TechSubgroup
+
+* [Air Quality and Filtration Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_76.md)
+
 ## Closest similar item
 
 * [Air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2393.md)
@@ -14,10 +18,6 @@
 * [High-efficiency air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2708.md)
 * [air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_203.md)
 * [Air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2353.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Air Quality and Filtration Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_76.md)
 
 ## This Technology belongs to this TechGroup
 

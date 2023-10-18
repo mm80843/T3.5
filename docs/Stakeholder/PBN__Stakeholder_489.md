@@ -2,6 +2,10 @@
 
 # __immigrants__
 
+## This Stakeholder is identified by the following QID
+
+* [Q4200293](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4200293.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
@@ -39,8 +43,4 @@
 * [Increased vaccination coverage](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1349.md)
 * [Minimized job losses](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1350.md)
 * [Increased skill levels](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1351.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q4200293](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4200293.md)
 

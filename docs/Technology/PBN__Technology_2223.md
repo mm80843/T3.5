@@ -2,6 +2,11 @@
 
 # __Face masks__
 
+## This Technology belongs to this TechSubgroup
+
+* [Personal Protective Equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_58.md)
+* [Physical Health Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_59.md)
+
 ## Closest similar item
 
 * [Face masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2223.md)
@@ -14,11 +19,6 @@
 * [masks (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4503.md)
 * [surgical masks)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4505.md)
 * [mask-wearing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_591.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Personal Protective Equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_58.md)
-* [Physical Health Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_59.md)
 
 ## This Technology belongs to this TechGroup
 

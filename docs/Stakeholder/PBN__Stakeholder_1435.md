@@ -2,6 +2,10 @@
 
 # __device manufacturers__
 
+## This Stakeholder is identified by the following QID
+
+* [Q42855995](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q42855995.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
@@ -19,15 +23,11 @@
 * [iot device manufacturers and service providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1436.md)
 * [IoT device manufacturers and service providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2644.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Data integrity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2128.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [AI and Technology](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_54.md)
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q42855995](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q42855995.md)
+* [Data integrity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2128.md)
 

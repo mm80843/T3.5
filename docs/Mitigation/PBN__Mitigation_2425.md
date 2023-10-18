@@ -2,9 +2,9 @@
 
 # __Social robots for continued social interactions__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_611.md)
+* [social robot technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4494.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Face-to-face Contact within Social Distance Radius](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1748.md)
 * [Monitoring Changing Social Behavior](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_917.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Combating COVID-19—The role of robotics in managing public health and infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_23.md)
+* [Mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_611.md)
 
 ## Property: has_MitigationPrinciple
 
 Providing social interactions and adherence to treatment without disease transmission risk
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [social robot technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4494.md)
+* [Combating COVID-19—The role of robotics in managing public health and infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_23.md)
 

@@ -2,8 +2,9 @@
 
 # __Temperature Screening__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [infrared thermometers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3246.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Mobile temperature measurement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2373.md)
 * [Digital thermometers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2374.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19 Pandemic: Prevention and Protection Measures to Be Adopted at the Workplace](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_284.md)
 
 ## Property: has_MitigationPrinciple
 
 Conduct temperature checks to identify individuals with elevated body temperatures, which may indicate possible infection.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [infrared thermometers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3246.md)
+* [COVID-19 Pandemic: Prevention and Protection Measures to Be Adopted at the Workplace](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_284.md)
 

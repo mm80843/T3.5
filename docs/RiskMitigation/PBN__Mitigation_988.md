@@ -2,9 +2,8 @@
 
 # __Resume material supply chain__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Delays due to lack of materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2846.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Upstream agreements for supply chain re-purposing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1492.md)
 * [Optimizing supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2355.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Mechanisms for addressing the impact of COVID-19 on infrastructure projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_115.md)
+* [Delays due to lack of materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2846.md)
 
 ## Property: has_MitigationPrinciple
 
 Ensure that the supply chain for construction materials is resumed quickly to avoid delays in construction projects
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Mechanisms for addressing the impact of COVID-19 on infrastructure projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_115.md)
 

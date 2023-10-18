@@ -2,8 +2,9 @@
 
 # __Transparency and traceability in the medical supply chain__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_211.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Trust and transparency](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_102.md)
 * [Medical Technological Development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_949.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Blockchain technology and its applications to combat COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_219.md)
 
 ## Property: has_MitigationPrinciple
 
 Blockchain technology can provide transparency and traceability in the medical supply chain, ensuring accountability and trust in the system.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_211.md)
+* [Blockchain technology and its applications to combat COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_219.md)
 

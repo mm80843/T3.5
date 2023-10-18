@@ -2,10 +2,6 @@
 
 # __Tracking antimicrobial usage__
 
-## Name of the Benefit
-
-Allows for the monitoring of antimicrobial usage at a community-wide level to identify trends and provide accurate data on consumption patterns
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors investing in this mitigation measure could benefit from improved asset value by supporting the development of targeted antimicrobial therapies and reducing the misuse of antimicrobials, leading to improved patient outcomes and decreased healthcare costs.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_224.md)
@@ -18,4 +14,8 @@ Allows for the monitoring of antimicrobial usage at a community-wide level to id
 ## Articles mentionning this Benefit
 
 * [Future perspectives of wastewater-based epidemiology: Monitoring infectious disease spread and resistance to the community level](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_48.md)
+
+## Name of the Benefit
+
+Allows for the monitoring of antimicrobial usage at a community-wide level to identify trends and provide accurate data on consumption patterns
 

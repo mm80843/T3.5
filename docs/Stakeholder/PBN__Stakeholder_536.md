@@ -2,6 +2,10 @@
 
 # __city authorities__
 
+## This Stakeholder is identified by the following QID
+
+* [Q9305769](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q9305769.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [City Officials](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_0.md)
@@ -19,15 +23,6 @@
 * [authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_277.md)
 * [city governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_354.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Overcrowding in Urban Areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1443.md)
-* [Changes in use and behavior in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1465.md)
-* [Perceptions of public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1466.md)
-* [Future of large public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_912.md)
-* [Fewer people in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1464.md)
-* [Impacts on public transit](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1463.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [City Officials and Administrators](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_4.md)
@@ -38,7 +33,12 @@
 * [Deterrence of anti-social behavior](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1384.md)
 * [Efficient crisis response](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1389.md)
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q9305769](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q9305769.md)
+* [Overcrowding in Urban Areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1443.md)
+* [Changes in use and behavior in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1465.md)
+* [Perceptions of public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1466.md)
+* [Future of large public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_912.md)
+* [Fewer people in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1464.md)
+* [Impacts on public transit](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1463.md)
 

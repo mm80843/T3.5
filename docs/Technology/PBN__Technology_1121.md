@@ -2,6 +2,16 @@
 
 # __mental health support services__
 
+## Risks linked to this technology
+
+* [Impact on mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1597.md)
+* [Student and faculty stress](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2148.md)
+* [Psycho-social effects of NPIs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1790.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Mental Health Support](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_63.md)
+
 ## Closest similar item
 
 * [Mental health support services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2184.md)
@@ -15,21 +25,11 @@
 * [online mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1242.md)
 * [mental health interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1288.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Impact on mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1597.md)
-* [Student and faculty stress](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2148.md)
-* [Psycho-social effects of NPIs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1790.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Mental Health Support](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_63.md)
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 
 ## This Technology is identified by the following QID
 
 * [Q67076049](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q67076049.md)
-
-## This Technology belongs to this TechGroup
-
-* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 

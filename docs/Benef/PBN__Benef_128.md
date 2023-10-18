@@ -2,10 +2,6 @@
 
 # __Special access for vulnerable people__
 
-## Name of the Benefit
-
-Providing accessible entrances and spaces for vulnerable populations ensures their safety and reduces their risk of infection
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Implementing special access measures enhances building inclusivity, social responsibility, and tenant satisfaction.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_127.md)
@@ -17,4 +13,8 @@ Providing accessible entrances and spaces for vulnerable populations ensures the
 ## Articles mentionning this Benefit
 
 * [A Global Survey of Infection Control and Mitigation Measures for Combating the Transmission of COVID-19 Pandemic in Buildings Under Facilities Management Services](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_27.md)
+
+## Name of the Benefit
+
+Providing accessible entrances and spaces for vulnerable populations ensures their safety and reduces their risk of infection
 

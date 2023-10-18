@@ -2,10 +2,6 @@
 
 # __Reduction in transmission via body fluids__
 
-## Name of the Benefit
-
-Reduces the risk of transmission from infected patients
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved safety and reduced risk for healthcare worker](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1215.md)
@@ -17,4 +13,8 @@ Reduces the risk of transmission from infected patients
 ## Articles mentionning this Benefit
 
 * [COVID-19 and its Modes of Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_225.md)
+
+## Name of the Benefit
+
+Reduces the risk of transmission from infected patients
 

@@ -2,6 +2,13 @@
 
 # __individual controls__
 
+## Risks linked to this technology
+
+* [Inadequate Thermal Comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1122.md)
+
+## This Technology belongs to this TechSubgroup
+
+
 ## Closest similar item
 
 * [control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2971.md)
@@ -15,19 +22,12 @@
 * [source control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4063.md)
 * [remote control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4278.md)
 
-## Risks linked to this technology
-
-* [Inadequate Thermal Comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1122.md)
-
-## This Technology belongs to this TechSubgroup
-
-
-## This Technology is identified by the following QID
-
-* [Q6501221](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6501221.md)
-
 ## This Technology belongs to this TechGroup
 
 * [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
 * [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_13.md)
+
+## This Technology is identified by the following QID
+
+* [Q6501221](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6501221.md)
 

@@ -2,6 +2,13 @@
 
 # __interoperability solutions__
 
+## Risks linked to this technology
+
+* [Data capture challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1336.md)
+
+## This Technology belongs to this TechSubgroup
+
+
 ## Closest similar item
 
 * [development of interoperability frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1640.md)
@@ -15,18 +22,11 @@
 * [interconnected system management tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1793.md)
 * [cooperative frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4312.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Data capture challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1336.md)
-
-## This Technology belongs to this TechSubgroup
-
+* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_5.md)
 
 ## This Technology is identified by the following QID
 
 * [Q749647](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q749647.md)
-
-## This Technology belongs to this TechGroup
-
-* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_5.md)
 

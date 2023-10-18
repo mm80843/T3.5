@@ -2,9 +2,8 @@
 
 # __Caution in receiving deliveries__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Contaminated deliveries](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3141.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Automated surveillance and contactless delivery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1889.md)
 * [Timely warning system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1896.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Impacts of COVID-19 on Health and Safety of Workforce in Construction Industry](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_49.md)
+* [Contaminated deliveries](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3141.md)
 
 ## Property: has_MitigationPrinciple
 
 Exercise caution when receiving deliveries and limit access to worksites
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Impacts of COVID-19 on Health and Safety of Workforce in Construction Industry](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_49.md)
 

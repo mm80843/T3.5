@@ -2,8 +2,9 @@
 
 # __Self-reported symptoms__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [self-reporting functionality in wearables](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3166.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Perceived restorativeness scale](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_633.md)
 * [Avoidance of contact with someone who is displaying symptoms of coronavirus](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1810.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Wearable technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_195.md)
 
 ## Property: has_MitigationPrinciple
 
 Combining self-reported symptoms with data from wearables to improve detection and prediction of infections or diseases.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [self-reporting functionality in wearables](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3166.md)
+* [Wearable technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_195.md)
 

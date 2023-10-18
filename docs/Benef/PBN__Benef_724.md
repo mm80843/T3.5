@@ -2,10 +2,6 @@
 
 # __Digital tools of support to hospitals/health__
 
-## Name of the Benefit
-
-Teleconsultations, virtual visits, and mapping of cases improve access to healthcare
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Enhance healthcare delivery and reduce spread of disease](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_778.md)
@@ -19,4 +15,8 @@ Teleconsultations, virtual visits, and mapping of cases improve access to health
 ## Articles mentionning this Benefit
 
 * [Smart cities and the pandemic: digital technologies on the urban management of Brazilian cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_143.md)
+
+## Name of the Benefit
+
+Teleconsultations, virtual visits, and mapping of cases improve access to healthcare
 

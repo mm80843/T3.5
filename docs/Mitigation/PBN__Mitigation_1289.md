@@ -2,7 +2,7 @@
 
 # __Density of Cities__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
 
 ## Closest similar item
@@ -18,14 +18,14 @@
 * [Middle density housing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1046.md)
 * [Availability of urban green space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2283.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Antivirus-built environment: Lessons learned from Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_298.md)
 
 ## Property: has_MitigationPrinciple
 
 Explore strategies to reduce population density in cities to minimize the risk of infection transmission.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Antivirus-built environment: Lessons learned from Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_298.md)
 

@@ -2,9 +2,9 @@
 
 # __Investment of economic stimulus funds in low-carbon technologies__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Missed opportunities for green recovery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3324.md)
+* [financial resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3637.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Just Transition Fund](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1001.md)
 * [Increase spending on development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_986.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Contextualizing the Covid-19 pandemic for a carbon-constrained world: Insights for sustainability transitions, energy justice, and research methodology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_123.md)
+* [Missed opportunities for green recovery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3324.md)
 
 ## Property: has_MitigationPrinciple
 
 Direct economic stimulus funds towards investments in low-carbon technologies and infrastructure to promote sustainable economic growth
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [financial resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3637.md)
+* [Contextualizing the Covid-19 pandemic for a carbon-constrained world: Insights for sustainability transitions, energy justice, and research methodology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_123.md)
 

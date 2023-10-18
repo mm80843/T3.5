@@ -2,9 +2,9 @@
 
 # __Increased use of technology__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Physical interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3142.md)
+* [web-based tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3924.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Medical Technological Development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_949.md)
 * [Enhanced communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2437.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Impacts of COVID-19 on Health and Safety of Workforce in Construction Industry](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_49.md)
+* [Physical interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3142.md)
 
 ## Property: has_MitigationPrinciple
 
 Utilize virtual engagement tools to discuss projects without meeting in person
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [web-based tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3924.md)
+* [Impacts of COVID-19 on Health and Safety of Workforce in Construction Industry](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_49.md)
 

@@ -2,7 +2,7 @@
 
 # __Improved risk preparedness__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
 
 ## Closest similar item
@@ -18,14 +18,14 @@
 * [Inclusion of pandemic preparedness in disaster management protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_113.md)
 * [Preparedness for future pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_890.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Global value chains: Efficiency and risks in the context of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_60.md)
 
 ## Property: has_MitigationPrinciple
 
 Governments and firms should work together to identify potential threats to essential activities, map players in essential supply chains, collect and share information on bottlenecks, and develop stress tests for supply chains.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Global value chains: Efficiency and risks in the context of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_60.md)
 

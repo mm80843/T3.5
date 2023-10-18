@@ -2,6 +2,13 @@
 
 # __digital communication tools__
 
+## Risks linked to this technology
+
+* [Inadequate communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1928.md)
+* [Inconsistent measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2001.md)
+* [Overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_571.md)
+* [High Costs of Compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2276.md)
+
 ## Closest similar item
 
 * [digital communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_719.md)
@@ -15,19 +22,12 @@
 * [digital communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_897.md)
 * [digital tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3293.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Inadequate communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1928.md)
-* [Inconsistent measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2001.md)
-* [Overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_571.md)
-* [High Costs of Compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2276.md)
+* [Q10481248](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q10481248.md)
 
 ## This Technology enables the following mitigations
 
 * [Remote work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_310.md)
 * [Reinforcement of information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_617.md)
-
-## This Technology is identified by the following QID
-
-* [Q10481248](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q10481248.md)
 

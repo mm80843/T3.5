@@ -2,8 +2,12 @@
 
 # __Forecasting and Prediction__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
+* [ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
+* [big data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2938.md)
+* [machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3004.md)
 
 ## Closest similar item
 
@@ -18,18 +22,14 @@
 * [Data Mining and Machine Learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_169.md)
 * [Machine learning and artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_287.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Contributions of Smart City Solutions and Technologies to Resilience against the COVID-19 Pandemic: A Literature Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_227.md)
 
 ## Property: has_MitigationPrinciple
 
 Early detection of cases, hotspot identification, and prediction of spread patterns to inform decision-making.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
-* [ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
-* [big data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2938.md)
-* [machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3004.md)
+* [Contributions of Smart City Solutions and Technologies to Resilience against the COVID-19 Pandemic: A Literature Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_227.md)
 

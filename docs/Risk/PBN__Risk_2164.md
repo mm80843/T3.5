@@ -2,23 +2,24 @@
 
 # __Limited data on human movement__
 
+## Property: has_RiskHealth
+
+
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Description of the risk
+
+Lack of comprehensive data on human movement patterns makes it difficult to identify high-risk areas and design appropriate elimination strategies
+
 ## Property: has_RiskType
 
 * [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 
-## People affected by this risk
+## Articles mentionning the risk
 
-* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
-* [malaria elimination programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_182.md)
-* [mobile phone network providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1471.md)
-
-## Name of the risk
-
-Suboptimal targeting of control measures, increased risk of resurgence
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+* [Integrating rapid risk mapping and mobile phone call record data for strategic malaria elimination planning](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_76.md)
 
 ## Closest similar item
 
@@ -33,37 +34,36 @@ Suboptimal targeting of control measures, increased risk of resurgence
 * [Surveillance and personal data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2334.md)
 * [Limited historical data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2465.md)
 
-## Description of the risk
+## People affected by this risk
 
-Lack of comprehensive data on human movement patterns makes it difficult to identify high-risk areas and design appropriate elimination strategies
-
-## Technologies linked to the risk
-
-* [satellite imagery](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1684.md)
-* [mobile phone call data records](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1683.md)
-
-## Property: has_RiskHealth
-
-
-## Mitigations of this risk
-
-* [Collect and analyze data on human movement patterns using mobile phone call data records and other sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2830.md)
-
-## Articles mentionning the risk
-
-* [Integrating rapid risk mapping and mobile phone call record data for strategic malaria elimination planning](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_76.md)
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [malaria elimination programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_182.md)
+* [mobile phone network providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1471.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
 ## Stakeholders who can mitigate this risk
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [malaria elimination programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_182.md)
 * [mobile phone network providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1471.md)
+
+## Name of the risk
+
+Suboptimal targeting of control measures, increased risk of resurgence
+
+## Mitigations of this risk
+
+* [Collect and analyze data on human movement patterns using mobile phone call data records and other sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2830.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Technologies linked to the risk
+
+* [satellite imagery](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1684.md)
+* [mobile phone call data records](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1683.md)
 

@@ -2,8 +2,10 @@
 
 # __Reuse of ontological terms and models__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [open biological and biomedical ontology (obo) foundry](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3982.md)
+* [ontology lookup service (ols)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3981.md)
 
 ## Closest similar item
 
@@ -18,16 +20,14 @@
 * [Knowledge-engineering best practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1653.md)
 * [Schema matching](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2307.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The COVID-19 epidemiology and monitoring ontology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_259.md)
 
 ## Property: has_MitigationPrinciple
 
 Utilize existing ontologies to build upon established knowledge
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [open biological and biomedical ontology (obo) foundry](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3982.md)
-* [ontology lookup service (ols)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3981.md)
+* [The COVID-19 epidemiology and monitoring ontology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_259.md)
 

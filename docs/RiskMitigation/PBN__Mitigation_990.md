@@ -2,9 +2,8 @@
 
 # __Provide financial aids__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Financial difficulties](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2848.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Financial and nutrition grants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_200.md)
 * [Income](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_399.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Mechanisms for addressing the impact of COVID-19 on infrastructure projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_115.md)
+* [Financial difficulties](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2848.md)
 
 ## Property: has_MitigationPrinciple
 
 Offer financial support and aid to construction companies facing financial difficulties due to the impact of contagious diseases
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Mechanisms for addressing the impact of COVID-19 on infrastructure projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_115.md)
 

@@ -2,6 +2,10 @@
 
 # __users of iot devices and network administrators__
 
+## This Stakeholder is identified by the following QID
+
+* [Q680296](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q680296.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Technology Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_12.md)
@@ -25,8 +29,4 @@
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 
-
-## This Stakeholder is identified by the following QID
-
-* [Q680296](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q680296.md)
 

@@ -2,10 +2,6 @@
 
 # __Controlling infection__
 
-## Name of the Benefit
-
-Flattened infection curve
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Preserves lives, reduces healthcare burden](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_749.md)
@@ -18,4 +14,8 @@ Flattened infection curve
 ## Articles mentionning this Benefit
 
 * [COVID-ABS: An agent-based model of COVID-19 epidemic to simulate health and economic effects of social distancing interventions](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_139.md)
+
+## Name of the Benefit
+
+Flattened infection curve
 

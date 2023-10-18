@@ -2,9 +2,8 @@
 
 # __Innovation and Creativity__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Reduction in innovation and experimentation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2872.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Designing with nature](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2484.md)
 * [Active Design Strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_186.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Startups in times of crisis – A rapid response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_158.md)
+* [Reduction in innovation and experimentation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2872.md)
 
 ## Property: has_MitigationPrinciple
 
 Encourages innovative startups to continue seeking opportunities, developing new products/services, and adopting alternative approaches to address new challenges and market conditions caused by the crisis.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Startups in times of crisis – A rapid response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_158.md)
 

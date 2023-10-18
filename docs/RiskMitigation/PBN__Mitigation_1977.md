@@ -2,9 +2,9 @@
 
 # __Suspension of public visitors__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Disruption of activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3311.md)
+* [access control technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4178.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Travel ban](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_835.md)
 * [Restricted Gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_681.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Contextualizing the Covid-19 pandemic for a carbon-constrained world: Insights for sustainability transitions, energy justice, and research methodology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_123.md)
+* [Disruption of activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3311.md)
 
 ## Property: has_MitigationPrinciple
 
 Restrict access to public spaces and buildings to limit the potential for transmission
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [access control technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4178.md)
+* [Contextualizing the Covid-19 pandemic for a carbon-constrained world: Insights for sustainability transitions, energy justice, and research methodology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_123.md)
 

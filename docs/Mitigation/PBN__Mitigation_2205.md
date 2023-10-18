@@ -2,9 +2,10 @@
 
 # __Online questionnaire survey__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Limited response rate](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3382.md)
+* [internet connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_572.md)
+* [online survey platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4318.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Improved online education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1887.md)
 * [Creation of online content for psychological support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_970.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Access and Use of Green Areas during the COVID-19 Pandemic: Green Infrastructure Management in the “New Normal”](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_275.md)
+* [Limited response rate](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3382.md)
 
 ## Property: has_MitigationPrinciple
 
 Conduct surveys online to collect data on access and use of green areas during the pandemic and analyze the results to inform policymaking
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [internet connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_572.md)
-* [online survey platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4318.md)
+* [Access and Use of Green Areas during the COVID-19 Pandemic: Green Infrastructure Management in the “New Normal”](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_275.md)
 

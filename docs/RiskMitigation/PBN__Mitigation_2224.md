@@ -2,8 +2,9 @@
 
 # __Visualization tool__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [unity 3d](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4342.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Digital tools and technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_897.md)
 * [Online dashboard for WBE data communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_761.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Social distancing enhanced automated optimal design of physical spaces in the wake of the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_186.md)
 
 ## Property: has_MitigationPrinciple
 
 Using Unity 3D to visualize the optimal physical space layouts and generate 3D scenes
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [unity 3d](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4342.md)
+* [Social distancing enhanced automated optimal design of physical spaces in the wake of the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_186.md)
 

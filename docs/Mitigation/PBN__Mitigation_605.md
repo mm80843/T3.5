@@ -2,9 +2,10 @@
 
 # __Providing platforms for cross-sectoral dialogue__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Silos](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2654.md)
+* [collaboration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_155.md)
+* [real-time information exchange](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3345.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Teleconference format for academic conferences](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3876.md)
 * [Targeted communication strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1500.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Amplifying the role of knowledge translation platforms in the COVID-19 pandemic response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_111.md)
+* [Silos](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2654.md)
 
 ## Property: has_MitigationPrinciple
 
 KT platforms can facilitate coordination and dialogue between stakeholders from different sectors to shape policy solutions and exchange relevant information.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [collaboration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_155.md)
-* [real-time information exchange](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3345.md)
+* [Amplifying the role of knowledge translation platforms in the COVID-19 pandemic response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_111.md)
 

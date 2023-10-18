@@ -2,9 +2,9 @@
 
 # __Restorative spaces to support positive social interactions__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Loneliness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3152.md)
+* [communal spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3939.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Spatial configuration promoting social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_553.md)
 * [Social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_478.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [How our homes impact our health: using a COVID-19 informed approach to examine urban apartment housing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_279.md)
+* [Loneliness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3152.md)
 
 ## Property: has_MitigationPrinciple
 
 Designing shared spaces that promote physical distancing, social interactions, and restoration for improved mental health and well-being
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [communal spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3939.md)
+* [How our homes impact our health: using a COVID-19 informed approach to examine urban apartment housing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_279.md)
 

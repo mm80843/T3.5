@@ -2,9 +2,9 @@
 
 # __Vector control programs__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Spread and transmission of mosquito and tick-borne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3118.md)
+* [pest control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3902.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Migration control programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1269.md)
 * [Tracking applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1794.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Vector-borne disease, climate change and urban design](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_17.md)
+* [Spread and transmission of mosquito and tick-borne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3118.md)
 
 ## Property: has_MitigationPrinciple
 
 Implementing targeted pest control measures to reduce the population of disease-carrying vectors
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [pest control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3902.md)
+* [Vector-borne disease, climate change and urban design](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_17.md)
 

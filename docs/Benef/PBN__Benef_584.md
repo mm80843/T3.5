@@ -2,10 +2,6 @@
 
 # __Reduction in total number of cases__
 
-## Name of the Benefit
-
-Social distancing measures implemented early can reduce the total number of COVID-19 cases and minimize the transmission of the virus, leading to improved public health outcomes.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [By reducing the total number of cases, social distancing measures can help control the spread of COVID-19, protect vulnerable populations, and lower the economic impact of the pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_637.md)
@@ -17,4 +13,8 @@ Social distancing measures implemented early can reduce the total number of COVI
 ## Articles mentionning this Benefit
 
 * [Towards the sustainable development of smart cities through mass video surveillance: A response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_117.md)
+
+## Name of the Benefit
+
+Social distancing measures implemented early can reduce the total number of COVID-19 cases and minimize the transmission of the virus, leading to improved public health outcomes.
 

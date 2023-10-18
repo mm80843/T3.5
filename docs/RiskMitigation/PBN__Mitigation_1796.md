@@ -2,8 +2,10 @@
 
 # __Trust and cooperation__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [fostering community](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4073.md)
+* [building social capital](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4072.md)
 
 ## Closest similar item
 
@@ -18,16 +20,14 @@
 * [Social Cohesion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_931.md)
 * [Trust in Utilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_396.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [From Viral City to Smart City: Learning from Pandemic Experiences](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_183.md)
 
 ## Property: has_MitigationPrinciple
 
 Cultivating a sense of trust and cooperation among community members to effectively respond to the crisis
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [fostering community](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4073.md)
-* [building social capital](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4072.md)
+* [From Viral City to Smart City: Learning from Pandemic Experiences](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_183.md)
 

@@ -2,6 +2,10 @@
 
 # __Pharmaceutical companies__
 
+## This Technology belongs to this TechSubgroup
+
+* [Vaccines and Therapies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_100.md)
+
 ## Closest similar item
 
 * [Pharmaceutical companies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2783.md)
@@ -14,10 +18,6 @@
 * [healthcare authorities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1065.md)
 * [commercial vendors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3312.md)
 * [products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4058.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Vaccines and Therapies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_100.md)
 
 ## This Technology belongs to this TechGroup
 

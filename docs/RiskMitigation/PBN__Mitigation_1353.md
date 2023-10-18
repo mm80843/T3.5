@@ -2,9 +2,9 @@
 
 # __Technology adoption__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of agility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3036.md)
+* [technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3618.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Adoption of smart meters and sensors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1630.md)
 * [Supporting access to technology and capital goods in Global South](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1006.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Mapping research in logistics and supply chain management during COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_4.md)
+* [Lack of agility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3036.md)
 
 ## Property: has_MitigationPrinciple
 
 Adopting advanced technologies to improve agility and adaptability in supply chain operations
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3618.md)
+* [Mapping research in logistics and supply chain management during COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_4.md)
 

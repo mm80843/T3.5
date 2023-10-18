@@ -2,7 +2,7 @@
 
 # __International coordination on border health protocols and mutual recognition agreements__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
 
 ## Closest similar item
@@ -18,14 +18,14 @@
 * [Border control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2322.md)
 * [Open and trustworthy international research partnership](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_564.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Global value chains: Efficiency and risks in the context of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_60.md)
 
 ## Property: has_MitigationPrinciple
 
 Governments can promote international coordination on border health protocols and mutual recognition agreements to facilitate trade and ensure the smooth flow of essential goods during disruptions.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Global value chains: Efficiency and risks in the context of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_60.md)
 

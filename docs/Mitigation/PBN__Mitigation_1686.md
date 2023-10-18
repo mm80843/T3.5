@@ -2,9 +2,9 @@
 
 # __Regular communication and coordination among project teams__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3216.md)
+* [videoconferencing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4008.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Proper communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_872.md)
 * [Integrated and well-planned communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_956.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Identifying Actions to Control and Mitigate the Effects of the COVID-19 Pandemic on Construction Organizations: Preliminary Findings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_220.md)
+* [Communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3216.md)
 
 ## Property: has_MitigationPrinciple
 
 Facilitating collaboration and information sharing while adhering to social distancing measures
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [videoconferencing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4008.md)
+* [Identifying Actions to Control and Mitigate the Effects of the COVID-19 Pandemic on Construction Organizations: Preliminary Findings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_220.md)
 

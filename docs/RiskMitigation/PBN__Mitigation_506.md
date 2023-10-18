@@ -2,9 +2,8 @@
 
 # __Detailed and better task planning__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Poor work productivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2600.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Adequate Planning of Infrastructural Facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_945.md)
 * [Optimal decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_873.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Covid-19 Associated Risks and Mitigation Strategies relevant for the UK Construction Industry](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_210.md)
+* [Poor work productivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2600.md)
 
 ## Property: has_MitigationPrinciple
 
 Implement more detailed and better task planning, reduce overlap of trades, and utilize gang tasking to improve work productivity
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Covid-19 Associated Risks and Mitigation Strategies relevant for the UK Construction Industry](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_210.md)
 

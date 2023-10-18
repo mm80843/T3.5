@@ -2,9 +2,10 @@
 
 # __Strengthening enforcement of labour standards__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Exploitation of workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3399.md)
+* [enhanced regulatory frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4375.md)
+* [monitoring mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4376.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Compliance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_296.md)
 * [Guidelines and standards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_179.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The COVID-19 pandemic: Lessons on building more equal and sustainable societies](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_124.md)
+* [Exploitation of workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3399.md)
 
 ## Property: has_MitigationPrinciple
 
 Strengthening the enforcement of labour standards through enhanced regulatory frameworks and monitoring mechanisms can protect workers from exploitation and ensure their safety and well-being, reducing the risk of labour-related transmission of contagious diseases.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [enhanced regulatory frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4375.md)
-* [monitoring mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4376.md)
+* [The COVID-19 pandemic: Lessons on building more equal and sustainable societies](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_124.md)
 

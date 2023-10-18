@@ -2,9 +2,9 @@
 
 # __Segregation of medical waste__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_613.md)
+* [waste management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3440.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Improved waste management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2243.md)
 * [Urgent and essential waste management as a service](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2459.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [How to Make Green Building Certification \& Rating Systems More Pandemic-Sustainable?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_172.md)
+* [Waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_613.md)
 
 ## Property: has_MitigationPrinciple
 
 Implement proper segregation of medical waste to ensure safe disposal
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [waste management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3440.md)
+* [How to Make Green Building Certification \& Rating Systems More Pandemic-Sustainable?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_172.md)
 

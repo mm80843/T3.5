@@ -2,6 +2,10 @@
 
 # __Space planning software__
 
+## This Technology belongs to this TechSubgroup
+
+* [Building Systems and Design](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_89.md)
+
 ## Closest similar item
 
 * [space planning software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1835.md)
@@ -15,15 +19,11 @@
 * [Green space planning strategies and design guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2745.md)
 * [gis software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3828.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Building Systems and Design](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_89.md)
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 
 ## This Technology is identified by the following QID
 
 * [Q60054001](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q60054001.md)
-
-## This Technology belongs to this TechGroup
-
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 

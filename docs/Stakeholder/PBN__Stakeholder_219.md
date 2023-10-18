@@ -2,6 +2,10 @@
 
 # __low-income households__
 
+## This Stakeholder is identified by the following QID
+
+* [Q59679511](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q59679511.md)
+
 ## Closest similar item
 
 * [Low-income households](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2290.md)
@@ -29,8 +33,4 @@
 
 * [Improved supply and affordability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_520.md)
 * [Access to cleaner and more efficient fuel](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1325.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q59679511](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q59679511.md)
 

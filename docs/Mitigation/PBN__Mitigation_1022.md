@@ -2,9 +2,9 @@
 
 # __Government Support__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Exclusion of startups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2863.md)
+* [policy measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3590.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Support from family and friends](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_69.md)
 * [Well-being support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_741.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Startups in times of crisis – A rapid response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_158.md)
+* [Exclusion of startups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2863.md)
 
 ## Property: has_MitigationPrinciple
 
 Addresses the mismatch between startup characteristics and government support programs to provide assistance for startups during the crisis.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [policy measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3590.md)
+* [Startups in times of crisis – A rapid response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_158.md)
 

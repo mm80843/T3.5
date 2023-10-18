@@ -2,10 +2,6 @@
 
 # __Simulating infection growth__
 
-## Name of the Benefit
-
-Mathematical models can help simulate infection growth and contact tracing, providing insights into the spread of the pandemic
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can benefit from investing in the development of mathematical models as accurate simulations can inform public health strategies and policies, reducing the economic impact of the pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_919.md)
@@ -18,4 +14,8 @@ Mathematical models can help simulate infection growth and contact tracing, prov
 ## Articles mentionning this Benefit
 
 * [An Overview of Ontologies and Tool Support for COVID-19 Analytics](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_170.md)
+
+## Name of the Benefit
+
+Mathematical models can help simulate infection growth and contact tracing, providing insights into the spread of the pandemic
 

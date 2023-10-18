@@ -19,13 +19,6 @@
 * [government agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2414.md)
 * [environmental agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2675.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Air Pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1879.md)
-* [Safety concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1795.md)
-* [Data security, encryption, ethics, and regulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1115.md)
-* [Lack of standardized method for SARS-CoV-2 detection in environmental samples](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1626.md)
-
 ## Risk affecting this stakeholder
 
 * [Inconsistencies in Accuracy Measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1260.md)
@@ -38,4 +31,11 @@
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Enhanced data comparability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1010.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Air Pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1879.md)
+* [Safety concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1795.md)
+* [Data security, encryption, ethics, and regulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1115.md)
+* [Lack of standardized method for SARS-CoV-2 detection in environmental samples](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1626.md)
 

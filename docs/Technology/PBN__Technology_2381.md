@@ -2,6 +2,10 @@
 
 # __Logistics providers__
 
+## This Technology belongs to this TechSubgroup
+
+* [Public Health Measures and Regulations](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_92.md)
+
 ## Closest similar item
 
 * [Logistics providers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2381.md)
@@ -14,10 +18,6 @@
 * [local supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3626.md)
 * [supply chain tracking technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1450.md)
 * [insurance providers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3314.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Public Health Measures and Regulations](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_92.md)
 
 ## This Technology belongs to this TechGroup
 

@@ -2,7 +2,7 @@
 
 # __Public green spaces__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
 
 ## Closest similar item
@@ -18,14 +18,14 @@
 * [Access to green areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1155.md)
 * [Green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1513.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Home garden use during COVID-19: Associations with physical and mental wellbeing in older adults](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_244.md)
 
 ## Property: has_MitigationPrinciple
 
 Access to public green spaces, such as parks and forests, is associated with improved physical and mental health.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Home garden use during COVID-19: Associations with physical and mental wellbeing in older adults](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_244.md)
 

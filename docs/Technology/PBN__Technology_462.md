@@ -2,6 +2,14 @@
 
 # __remote monitoring systems__
 
+## Risks linked to this technology
+
+* [Social distancing impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1306.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Monitoring Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_31.md)
+
 ## Closest similar item
 
 * [remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_207.md)
@@ -15,19 +23,11 @@
 * [remote monitoring and management of resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_14.md)
 * [monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_201.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Social distancing impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1306.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Monitoring Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_31.md)
+* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_17.md)
 
 ## This Technology is identified by the following QID
 
 * [Q3546700](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3546700.md)
-
-## This Technology belongs to this TechGroup
-
-* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_17.md)
 

@@ -2,10 +2,6 @@
 
 # __Automated detection__
 
-## Name of the Benefit
-
-Cross-population AI models can be used to detect COVID-19 in one country using a model trained in another country, enabling automated detection and containment of the virus.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors in healthcare facilities in LMIC would benefit from improved detection and containment of the virus, leading to reduced transmission and potential economic recovery.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_706.md)
@@ -18,4 +14,8 @@ Cross-population AI models can be used to detect COVID-19 in one country using a
 ## Articles mentionning this Benefit
 
 * [Exploring the Potential of Artificial Intelligence and Machine Learning to Combat COVID-19 and Existing Opportunities for LMIC: A Scoping Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_131.md)
+
+## Name of the Benefit
+
+Cross-population AI models can be used to detect COVID-19 in one country using a model trained in another country, enabling automated detection and containment of the virus.
 

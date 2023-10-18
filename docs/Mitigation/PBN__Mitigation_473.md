@@ -2,7 +2,7 @@
 
 # __Domestic gardens__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
 
 ## Closest similar item
@@ -18,14 +18,14 @@
 * [Nature-based Activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1064.md)
 * [Vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1113.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Home garden use during COVID-19: Associations with physical and mental wellbeing in older adults](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_244.md)
 
 ## Property: has_MitigationPrinciple
 
 Spending time in domestic gardens during lockdown can contribute to physical and mental wellbeing, providing access to nature and opportunities for exercise.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Home garden use during COVID-19: Associations with physical and mental wellbeing in older adults](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_244.md)
 

@@ -2,9 +2,10 @@
 
 # __Technology and innovation__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Slowed development, lack of progress](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3256.md)
+* [artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_358.md)
+* [internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3058.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Technical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2062.md)
 * [Nanotechnology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1308.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_58.md)
+* [Slowed development, lack of progress](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3256.md)
 
 ## Property: has_MitigationPrinciple
 
 Utilize technology to accelerate sustainable development
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_358.md)
-* [internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3058.md)
+* [COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_58.md)
 

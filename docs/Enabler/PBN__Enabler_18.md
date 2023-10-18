@@ -2,9 +2,13 @@
 
 # __3D printing__
 
-## Thees blueprints use this enabler
+## Property: has_TechEquivalent
 
-* [Tracking and enforcing use of Personal Protective Equipment](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_19.md)
+* [3D printing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4543.md)
+
+## Property: has_BP_EnablerTitle
+
+enabler_019
 
 ## Closest similar item
 
@@ -19,11 +23,7 @@
 * [ordinary printer paper](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_203.md)
 * [print media](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_204.md)
 
-## Property: has_TechEquivalent
+## Thees blueprints use this enabler
 
-* [3D printing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4543.md)
-
-## Property: has_BP_EnablerTitle
-
-enabler_019
+* [Tracking and enforcing use of Personal Protective Equipment](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_19.md)
 

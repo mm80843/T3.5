@@ -2,9 +2,9 @@
 
 # __Demand management__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Inventory shortage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3037.md)
+* [demand forecasting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3813.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Optimizing supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2355.md)
 * [Crisis management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Mapping research in logistics and supply chain management during COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_4.md)
+* [Inventory shortage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3037.md)
 
 ## Property: has_MitigationPrinciple
 
 Implementing effective demand management strategies to prevent inventory shortages during disruptions
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [demand forecasting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3813.md)
+* [Mapping research in logistics and supply chain management during COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_4.md)
 

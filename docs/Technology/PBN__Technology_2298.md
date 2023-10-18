@@ -2,6 +2,10 @@
 
 # __Telemedicine platforms__
 
+## This Technology belongs to this TechSubgroup
+
+* [Telemedicine and Telehealth Services](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_28.md)
+
 ## Closest similar item
 
 * [Telemedicine platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2298.md)
@@ -15,15 +19,11 @@
 * [telehealth system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2928.md)
 * [Telehealth services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2277.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Telemedicine and Telehealth Services](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_28.md)
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
 
 ## This Technology is identified by the following QID
 
 * [Q46994](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q46994.md)
-
-## This Technology belongs to this TechGroup
-
-* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
 

@@ -2,9 +2,8 @@
 
 # __Flexible Delivery Hours__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Increase in demand, logistical challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3082.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Flexible manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1360.md)
 * [Caution in receiving deliveries](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1564.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The socio-economic implications of the coronavirus pandemic (COVID-19): A review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_135.md)
+* [Increase in demand, logistical challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3082.md)
 
 ## Property: has_MitigationPrinciple
 
 Allow retailers to restock shelves with basic food products
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [The socio-economic implications of the coronavirus pandemic (COVID-19): A review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_135.md)
 

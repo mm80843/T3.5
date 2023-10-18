@@ -2,7 +2,7 @@
 
 # __Patient and healthcare worker asymptomatic screening programmes__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
 
 ## Closest similar item
@@ -18,14 +18,14 @@
 * [Medical Consultation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1460.md)
 * [Improved access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_679.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The removal of airborne SARS-CoV-2 and other microbial bioaerosols by air filtration on COVID-19 surge units](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_232.md)
 
 ## Property: has_MitigationPrinciple
 
 nan
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [The removal of airborne SARS-CoV-2 and other microbial bioaerosols by air filtration on COVID-19 surge units](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_232.md)
 

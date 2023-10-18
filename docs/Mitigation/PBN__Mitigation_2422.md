@@ -2,9 +2,10 @@
 
 # __Robot-assisted nasopharyngeal and oropharyngeal swabs__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Swabbing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3452.md)
+* [robotic systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4490.md)
+* [ultrasound imaging](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4491.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Advanced cleaning techniques](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1854.md)
 * [Routine cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1522.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Combating COVID-19—The role of robotics in managing public health and infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_23.md)
+* [Swabbing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3452.md)
 
 ## Property: has_MitigationPrinciple
 
 Speeding up testing process, reducing infection risk for staff
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [robotic systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4490.md)
-* [ultrasound imaging](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4491.md)
+* [Combating COVID-19—The role of robotics in managing public health and infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_23.md)
 

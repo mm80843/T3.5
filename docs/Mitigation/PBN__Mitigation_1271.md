@@ -2,9 +2,8 @@
 
 # __Increased personal hygiene__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Poor personal hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3007.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Hygiene Education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_927.md)
 * [Environmental hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1115.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Effects of temperature and humidity on the spread of COVID-19: A systematic review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_228.md)
+* [Poor personal hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3007.md)
 
 ## Property: has_MitigationPrinciple
 
 Encouraging and promoting good personal hygiene practices, such as regular handwashing with soap and water, to reduce the risk of virus transmission
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Effects of temperature and humidity on the spread of COVID-19: A systematic review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_228.md)
 

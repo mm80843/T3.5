@@ -2,9 +2,9 @@
 
 # __Housing evictions__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2236.md)
+* [legal measures and social support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2907.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Building and Housing Reform](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1286.md)
 * [Housing Layout](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1294.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19: Lessons for an Urban(izing) World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_85.md)
+* [Inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2236.md)
 
 ## Property: has_MitigationPrinciple
 
 Implementing measures to prevent housing evictions in times of crisis helps protect vulnerable populations and mitigate social and economic inequalities.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [legal measures and social support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2907.md)
+* [COVID-19: Lessons for an Urban(izing) World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_85.md)
 

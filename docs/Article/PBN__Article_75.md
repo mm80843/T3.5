@@ -2,21 +2,13 @@
 
 # __The Effects of Pandemic on Construction Industry in the UK__
 
-## Benefits listed in this article
-
-* [Minimize damage from crises](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_379.md)
-* [Improved protection against potential issues](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_380.md)
-* [Enhanced supply chain resilience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_381.md)
-* [Increased project efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_382.md)
-* [Enhanced worker safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_383.md)
-
-## Summary of the article
-
-Construction companies in the UK have been hit hard by both the 2008 recession and the Covid-19 pandemic. Many projects have been stopped or delayed, causing companies to lose money. The construction industry has had to implement new strategies, such as working in shifts and maintaining social distance, to keep workers safe. The pandemic has also caused a shortage of construction materials due to lockdown measures. Many companies have faced financial difficulties and have not been prepared for such crises. Overall, the construction industry in the UK has been greatly affected by these events.
-
 ## Short summary of the article
 
 The research aims to determine the effects of the 2008 recession and the COVID-19 pandemic on the construction industry in the UK. The study used a combination of quantitative and qualitative research methods, including a survey questionnaire and interviews with project managers and construction managers. The results from the questionnaire, analyzed using frequency tables and charts, showed that a majority of respondents agreed with the statements related to the effects of the pandemic on the industry. The interviews revealed that many construction projects were halted or operated on an on-off basis due to the pandemic, leading to financial losses for construction companies. The challenges faced by the industry included delays in material delivery, project completion, and implementation of social distancing measures. The findings indicate a significant impact on the construction industry, with companies facing financial crisis and a lack of preparedness for similar crises in the future.
+
+## DOI of the article
+
+10.36941/mjss-2020-0063
 
 ## This article points to following mitigation
 
@@ -33,6 +25,18 @@ The research aims to determine the effects of the 2008 recession and the COVID-1
 * [Maintaining physical distance between workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1901.md)
 * [Installing extra hand washing stations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1902.md)
 
+## Benefits listed in this article
+
+* [Minimize damage from crises](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_379.md)
+* [Improved protection against potential issues](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_380.md)
+* [Enhanced supply chain resilience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_381.md)
+* [Increased project efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_382.md)
+* [Enhanced worker safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_383.md)
+
+## Summary of the article
+
+Construction companies in the UK have been hit hard by both the 2008 recession and the Covid-19 pandemic. Many projects have been stopped or delayed, causing companies to lose money. The construction industry has had to implement new strategies, such as working in shifts and maintaining social distance, to keep workers safe. The pandemic has also caused a shortage of construction materials due to lockdown measures. Many companies have faced financial difficulties and have not been prepared for such crises. Overall, the construction industry in the UK has been greatly affected by these events.
+
 ## List of risks in an article
 
 * [Social distancing challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_307.md)
@@ -48,8 +52,4 @@ The Effects of Pandemic on Construction Industry in the UK
 ## Year of publication
 
 2020
-
-## DOI of the article
-
-10.36941/mjss-2020-0063
 

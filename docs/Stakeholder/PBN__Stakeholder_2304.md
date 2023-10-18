@@ -2,6 +2,10 @@
 
 # __People with pre-existing medical conditions__
 
+## This Stakeholder is identified by the following QID
+
+* [Q181600](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q181600.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
@@ -22,8 +26,4 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Health and Well-being](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_94.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q181600](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q181600.md)
 

@@ -2,9 +2,11 @@
 
 # __Testing and contact tracing__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Disease spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2651.md)
+* [contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
+* [testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_610.md)
+* [contact tracing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_29.md)
 
 ## Closest similar item
 
@@ -19,18 +21,16 @@
 * [Contact Tracing Applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1320.md)
 * [Testing and tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2091.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [A Surface Coating that Rapidly Inactivates SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_199.md)
-* [The socio-economic determinants of COVID-19: A spatial analysis of German county level data](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_40.md)
+* [Disease spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2651.md)
 
 ## Property: has_MitigationPrinciple
 
 Identifying and testing individuals who may have come into contact with an infected person to control the spread
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
-* [testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_610.md)
-* [contact tracing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_29.md)
+* [A Surface Coating that Rapidly Inactivates SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_199.md)
+* [The socio-economic determinants of COVID-19: A spatial analysis of German county level data](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_40.md)
 

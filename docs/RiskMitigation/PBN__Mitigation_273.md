@@ -2,9 +2,9 @@
 
 # __Increased health care access__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2517.md)
+* [expanded medicaid](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3103.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Better healthcare protection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1885.md)
 * [Enhancing healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1124.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Eviction, Health Inequity, and the Spread of COVID-19: Housing Policy as a Primary Pandemic Mitigation Strategy](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_43.md)
+* [Healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2517.md)
 
 ## Property: has_MitigationPrinciple
 
 Expanding healthcare access can reduce medical debt and financial burden, leading to lower eviction rates
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [expanded medicaid](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3103.md)
+* [Eviction, Health Inequity, and the Spread of COVID-19: Housing Policy as a Primary Pandemic Mitigation Strategy](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_43.md)
 

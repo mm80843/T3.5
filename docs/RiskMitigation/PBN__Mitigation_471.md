@@ -2,9 +2,9 @@
 
 # __Enhanced ventilation with provision of UV light sterilisation__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Airborne transmission of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1286.md)
+* [uv light sterilisation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3251.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [UV disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1052.md)
 * [Enhanced ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1085.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The removal of airborne SARS-CoV-2 and other microbial bioaerosols by air filtration on COVID-19 surge units](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_232.md)
+* [Airborne transmission of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1286.md)
 
 ## Property: has_MitigationPrinciple
 
 Improvement of ventilation and removal of pathogens using UV light sterilisation
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [uv light sterilisation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3251.md)
+* [The removal of airborne SARS-CoV-2 and other microbial bioaerosols by air filtration on COVID-19 surge units](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_232.md)
 

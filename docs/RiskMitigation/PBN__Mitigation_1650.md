@@ -2,9 +2,10 @@
 
 # __Equitable Healthcare Access__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3194.md)
+* [telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
+* [mobile clinics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_20.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Publicly funded and managed healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2253.md)
 * [Protection of healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2249.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19 and social inequalities: a complex and dynamic interaction](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_136.md)
+* [Lack of healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3194.md)
 
 ## Property: has_MitigationPrinciple
 
 Ensuring equal access to healthcare services, including telemedicine and mobile clinics, to mitigate disparities in healthcare access
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
-* [mobile clinics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_20.md)
+* [COVID-19 and social inequalities: a complex and dynamic interaction](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_136.md)
 

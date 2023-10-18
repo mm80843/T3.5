@@ -2,9 +2,9 @@
 
 # __Sustainable farming__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Environmental degradation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1343.md)
+* [organic farming methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3331.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1513.md)
 * [Promotion of sustainable and alternative energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2141.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Building up an ecologically sustainable and socially desirable post-COVID-19 future](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_5.md)
+* [Environmental degradation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1343.md)
 
 ## Property: has_MitigationPrinciple
 
 Promote farming practices that minimize harm to the environment and support sustainability
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [organic farming methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3331.md)
+* [Building up an ecologically sustainable and socially desirable post-COVID-19 future](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_5.md)
 

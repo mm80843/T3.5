@@ -2,8 +2,13 @@
 
 # __Industry 4.0__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_94.md)
+* [additive manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2012.md)
+* [artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_358.md)
+* [internet of things](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2919.md)
+* [cloud computing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1232.md)
 
 ## Closest similar item
 
@@ -18,19 +23,14 @@
 * [Rapid deployment of new healthcare applications and services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1946.md)
 * [Resilient supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1095.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Emerging Technologies to Combat the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_116.md)
 
 ## Property: has_MitigationPrinciple
 
 Harnessing new-generation technologies to improve response capabilities and address public health challenges
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_94.md)
-* [additive manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2012.md)
-* [artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_358.md)
-* [internet of things](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2919.md)
-* [cloud computing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1232.md)
+* [Emerging Technologies to Combat the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_116.md)
 

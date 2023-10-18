@@ -2,9 +2,9 @@
 
 # __Health education and communication__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Misinformation and lack of awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3147.md)
+* [communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_568.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Public Health Messaging](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1065.md)
 * [Enhanced health literacy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1801.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Health, Economic and Social Development Challenges of the COVID-19 Pandemic: Strategies for Multiple and Interconnected Issues](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_144.md)
+* [Misinformation and lack of awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3147.md)
 
 ## Property: has_MitigationPrinciple
 
 Providing accurate information and education about contagious diseases to facilitate prevention and control efforts
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_568.md)
+* [Health, Economic and Social Development Challenges of the COVID-19 Pandemic: Strategies for Multiple and Interconnected Issues](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_144.md)
 

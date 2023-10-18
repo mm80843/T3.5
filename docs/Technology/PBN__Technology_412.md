@@ -2,19 +2,6 @@
 
 # __hand sanitizers__
 
-## Closest similar item
-
-* [Hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2200.md)
-* [hand sanitizer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3258.md)
-* [automatic hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1480.md)
-* [hand sanitizer solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3510.md)
-* [hand sanitizer technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3151.md)
-* [sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_770.md)
-* [Sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2590.md)
-* [hand sanitizer dispensers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4201.md)
-* [use of alcohol-based hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_505.md)
-* [alcohol-based hand sanitizer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3300.md)
-
 ## Risks linked to this technology
 
 * [Surface transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1905.md)
@@ -31,6 +18,23 @@
 
 * [Disinfection Equipment and Supplies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_87.md)
 
+## Closest similar item
+
+* [Hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2200.md)
+* [hand sanitizer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3258.md)
+* [automatic hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1480.md)
+* [hand sanitizer solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3510.md)
+* [hand sanitizer technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3151.md)
+* [sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_770.md)
+* [Sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2590.md)
+* [hand sanitizer dispensers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4201.md)
+* [use of alcohol-based hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_505.md)
+* [alcohol-based hand sanitizer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3300.md)
+
+## This Technology belongs to this TechGroup
+
+* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
+
 ## This Technology enables the following mitigations
 
 * [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_217.md)
@@ -45,8 +49,4 @@
 * [Increased Hygiene Practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1712.md)
 * [Hand hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_720.md)
 * [Hygienic measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_878.md)
-
-## This Technology belongs to this TechGroup
-
-* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
 

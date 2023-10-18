@@ -2,10 +2,6 @@
 
 # __Improved air quality__
 
-## Name of the Benefit
-
-Reduced airborne transmission risk by removing or diluting viral particles in the air
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors investing in this measure would benefit from increased property value and demand.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_196.md)
@@ -55,4 +51,8 @@ Reduced airborne transmission risk by removing or diluting viral particles in th
 * [Social distancing enhanced automated optimal design of physical spaces in the wake of the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_186.md)
 * [Methods for air cleaning and protection of building occupants from airborne pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_240.md)
 * [The role of green roofs in post COVID-19 confinement: An analysis of willingness to pay](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_262.md)
+
+## Name of the Benefit
+
+Reduced airborne transmission risk by removing or diluting viral particles in the air
 

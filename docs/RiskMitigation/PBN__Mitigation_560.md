@@ -2,9 +2,13 @@
 
 # __Timely and high-quality evidence__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Data gaps, limited research effect](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2623.md)
+* [public epidemiological data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3306.md)
+* [data mining](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3027.md)
+* [clinical trial data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3307.md)
+* [observational datasets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3305.md)
+* [ehrs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3304.md)
 
 ## Closest similar item
 
@@ -19,19 +23,15 @@
 * [Evidence-based communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2462.md)
 * [Timely disclosure of information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2461.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Data capture and sharing in the COVID-19 pandemic: a cause for concern](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_208.md)
+* [Data gaps, limited research effect](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2623.md)
 
 ## Property: has_MitigationPrinciple
 
 Improve disease surveillance, inform public health decisions
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [public epidemiological data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3306.md)
-* [data mining](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3027.md)
-* [clinical trial data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3307.md)
-* [observational datasets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3305.md)
-* [ehrs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3304.md)
+* [Data capture and sharing in the COVID-19 pandemic: a cause for concern](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_208.md)
 

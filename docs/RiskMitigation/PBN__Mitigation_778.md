@@ -2,9 +2,9 @@
 
 # __Sliding panels__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Need for flexible room configurations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2736.md)
+* [sliding panel systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3448.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [designs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1663.md)
 * [Creating flexible and adaptable spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_482.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Houses amid COVID-19: Environmental challenges and design adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_277.md)
+* [Need for flexible room configurations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2736.md)
 
 ## Property: has_MitigationPrinciple
 
 Use sliding panel systems to create adaptable and flexible room configurations, allowing for privacy and separation when needed
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [sliding panel systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3448.md)
+* [Houses amid COVID-19: Environmental challenges and design adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_277.md)
 

@@ -2,9 +2,9 @@
 
 # __Communication__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of awareness or understanding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2896.md)
+* [effective communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3609.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Lack of communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4002.md)
 * [Difficulties in collaboration and communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4003.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Urban Park Use During the COVID-19 Pandemic: Are Socially Vulnerable Communities Disproportionately Impacted?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_276.md)
+* [Lack of awareness or understanding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2896.md)
 
 ## Property: has_MitigationPrinciple
 
 Implementing effective communication strategies to reach underserved audiences and increase awareness of the health benefits of parks
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [effective communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3609.md)
+* [Urban Park Use During the COVID-19 Pandemic: Are Socially Vulnerable Communities Disproportionately Impacted?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_276.md)
 

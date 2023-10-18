@@ -20,14 +20,6 @@
 * [government authority](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1614.md)
 * [local government authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1577.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Lack of cultural sensitivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2392.md)
-* [Concealment of information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2390.md)
-* [Lack of information transparency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_658.md)
-* [Delayed decision making](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_659.md)
-* [Unclear risk messages](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2391.md)
-
 ## Risk affecting this stakeholder
 
 * [Ineffective public management models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1195.md)
@@ -51,4 +43,12 @@
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Evidence-based insights for authorities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_821.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Lack of cultural sensitivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2392.md)
+* [Concealment of information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2390.md)
+* [Lack of information transparency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_658.md)
+* [Delayed decision making](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_659.md)
+* [Unclear risk messages](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2391.md)
 

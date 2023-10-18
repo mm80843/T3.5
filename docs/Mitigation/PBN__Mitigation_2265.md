@@ -2,9 +2,9 @@
 
 # __Enhanced regulation of global corporations__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Corporate behavior and exploitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3403.md)
+* [strengthened regulation and oversight](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4382.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Global coordination and cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_516.md)
 * [Enhanced commitment towards multilateralism](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2257.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The COVID-19 pandemic: Lessons on building more equal and sustainable societies](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_124.md)
+* [Corporate behavior and exploitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3403.md)
 
 ## Property: has_MitigationPrinciple
 
 Enhancing regulation and oversight of global corporations can prevent exploitative practices, ensure responsible behavior, and reduce inequalities arising from profit-seeking incentives, promoting a more equitable and sustainable global economy.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [strengthened regulation and oversight](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4382.md)
+* [The COVID-19 pandemic: Lessons on building more equal and sustainable societies](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_124.md)
 

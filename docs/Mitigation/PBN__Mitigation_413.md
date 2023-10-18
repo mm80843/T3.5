@@ -2,9 +2,9 @@
 
 # __Closure of secondary public places__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Reducing non-essential use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2561.md)
+* [temporary closure protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3204.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Perceptions of public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3742.md)
 * [Limited access to public green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3751.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [10 Adaptive Measures for Public Places to face the COVID 19 Pandemic Outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_63.md)
+* [Reducing non-essential use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2561.md)
 
 ## Property: has_MitigationPrinciple
 
 Closing non-essential public places, including public buildings and secondary public services, to reduce pressure on secondary facilities
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [temporary closure protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3204.md)
+* [10 Adaptive Measures for Public Places to face the COVID 19 Pandemic Outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_63.md)
 

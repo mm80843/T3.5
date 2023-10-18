@@ -2,9 +2,10 @@
 
 # __Panic button protocols__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1766.md)
+* [support services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3412.md)
+* [panic buttons](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3411.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Rapid hard-lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1640.md)
 * [Risk communication strategy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_239.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Dangerous liaisons? Applying the social harm perspective to the social inequality, housing and health trifecta during the Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_2.md)
+* [Domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1766.md)
 
 ## Property: has_MitigationPrinciple
 
 Shift harm from home by providing victims with a means to call for help
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [support services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3412.md)
-* [panic buttons](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3411.md)
+* [Dangerous liaisons? Applying the social harm perspective to the social inequality, housing and health trifecta during the Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_2.md)
 

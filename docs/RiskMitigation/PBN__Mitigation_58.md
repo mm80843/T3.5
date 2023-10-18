@@ -2,8 +2,11 @@
 
 # __Data intelligence__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [big data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2938.md)
+* [knowledge graphs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2936.md)
+* [linked data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2937.md)
 
 ## Closest similar item
 
@@ -18,17 +21,14 @@
 * [Data aggregation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2404.md)
 * [Machine learning and artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_287.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [An Overview of Ontologies and Tool Support for COVID-19 Analytics](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_170.md)
 
 ## Property: has_MitigationPrinciple
 
 Leverage knowledge graphs and linked data to integrate and retrieve information from multiple data sources for data-driven intelligence.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [big data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2938.md)
-* [knowledge graphs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2936.md)
-* [linked data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2937.md)
+* [An Overview of Ontologies and Tool Support for COVID-19 Analytics](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_170.md)
 

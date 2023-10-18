@@ -2,9 +2,9 @@
 
 # __Chi-square and t-test analysis__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Limited statistical significance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3383.md)
+* [statistical software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4321.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Testing and early detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1092.md)
 * [Reporting study conditions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_657.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Access and Use of Green Areas during the COVID-19 Pandemic: Green Infrastructure Management in the “New Normal”](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_275.md)
+* [Limited statistical significance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3383.md)
 
 ## Property: has_MitigationPrinciple
 
 Analyze relationships between personal attributes, environmental contexts, and access/use of green areas using chi-square and t-tests to determine statistical significance
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [statistical software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4321.md)
+* [Access and Use of Green Areas during the COVID-19 Pandemic: Green Infrastructure Management in the “New Normal”](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_275.md)
 

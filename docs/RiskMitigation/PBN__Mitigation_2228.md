@@ -2,9 +2,10 @@
 
 # __Greeneries or gardens__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Mental health, social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3394.md)
+* [outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1848.md)
+* [plant installations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4348.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Increase street greenery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2195.md)
 * [Public green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_474.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [How to Make Green Building Certification \& Rating Systems More Pandemic-Sustainable?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_172.md)
+* [Mental health, social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3394.md)
 
 ## Property: has_MitigationPrinciple
 
 Make greeneries or gardens available in the residential complexes to improve mental health and reduce social isolation
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1848.md)
-* [plant installations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4348.md)
+* [How to Make Green Building Certification \& Rating Systems More Pandemic-Sustainable?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_172.md)
 

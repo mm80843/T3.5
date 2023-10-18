@@ -2,6 +2,10 @@
 
 # __wearable users__
 
+## This Stakeholder is identified by the following QID
+
+* [Q1334829](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1334829.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Technology Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_12.md)
@@ -31,8 +35,4 @@
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Protection of personal data](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_956.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q1334829](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1334829.md)
 

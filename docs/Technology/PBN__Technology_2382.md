@@ -2,6 +2,11 @@
 
 # __Energy management systems__
 
+## This Technology belongs to this TechSubgroup
+
+* [Data Management and Communication Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_18.md)
+* [Energy Systems and Sustainability](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_116.md)
+
 ## Closest similar item
 
 * [Energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2382.md)
@@ -14,11 +19,6 @@
 * [energy monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_352.md)
 * [smart home energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3195.md)
 * [energy-efficient systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_325.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Data Management and Communication Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_18.md)
-* [Energy Systems and Sustainability](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_116.md)
 
 ## This Technology belongs to this TechGroup
 

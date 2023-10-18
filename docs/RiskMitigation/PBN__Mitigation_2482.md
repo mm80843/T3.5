@@ -2,9 +2,10 @@
 
 # __Outdoor biophilia__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [None](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2827.md)
+* [landscaped grounds](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1735.md)
+* [rooftop gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1786.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Outdoor activities/usage of open spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1012.md)
 * [Outdoor activity spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_71.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Biophilic design in architecture and its contributions to health, well-being, and sustainability: A critical review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_211.md)
+* [None](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2827.md)
 
 ## Property: has_MitigationPrinciple
 
 Design outdoor spaces with abundant vegetation to provide access to nature for residents and promote biodiversity.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [landscaped grounds](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1735.md)
-* [rooftop gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1786.md)
+* [Biophilic design in architecture and its contributions to health, well-being, and sustainability: A critical review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_211.md)
 

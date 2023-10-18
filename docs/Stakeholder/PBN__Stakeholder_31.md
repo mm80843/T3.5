@@ -2,6 +2,10 @@
 
 # __patients__
 
+## This Stakeholder is identified by the following QID
+
+* [Q181600](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q181600.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
@@ -171,8 +175,4 @@
 * [Reduced stress levels](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1403.md)
 * [Early detection and personalized treatment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1404.md)
 * [Improved treatment guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1413.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q181600](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q181600.md)
 

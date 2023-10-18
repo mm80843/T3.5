@@ -2,6 +2,10 @@
 
 # __Cleaning services__
 
+## This Technology belongs to this TechSubgroup
+
+* [Hygiene and Sanitation Practices and Protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_60.md)
+
 ## Closest similar item
 
 * [Cleaning services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2551.md)
@@ -14,10 +18,6 @@
 * [Cleaning equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2876.md)
 * [cleaning equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_363.md)
 * [cleaning solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_439.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Hygiene and Sanitation Practices and Protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_60.md)
 
 ## This Technology belongs to this TechGroup
 

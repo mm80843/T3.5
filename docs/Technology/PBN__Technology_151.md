@@ -2,6 +2,15 @@
 
 # __collaboration__
 
+## Risks linked to this technology
+
+* [Technological](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2131.md)
+* [Lack of Historical Data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1098.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Communication and Data Sharing](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_3.md)
+
 ## Closest similar item
 
 * [collaboration with other groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3375.md)
@@ -15,14 +24,13 @@
 * [Research collaborations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2065.md)
 * [collaboration across sectors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3668.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Technological](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2131.md)
-* [Lack of Historical Data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1098.md)
+* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology is identified by the following QID
 
-* [Communication and Data Sharing](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_3.md)
+* [Q1145523](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1145523.md)
 
 ## This Technology enables the following mitigations
 
@@ -31,12 +39,4 @@
 * [Open data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_884.md)
 * [Timely research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_888.md)
 * [Increased Funding for Vaccine Research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1452.md)
-
-## This Technology is identified by the following QID
-
-* [Q1145523](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1145523.md)
-
-## This Technology belongs to this TechGroup
-
-* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
 

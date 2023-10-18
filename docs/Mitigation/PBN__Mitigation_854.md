@@ -2,8 +2,9 @@
 
 # __ASTM E1153 Method__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [astm e1153 method](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3497.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Ventilation effectiveness Ez](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2041.md)
 * [Standard working procedures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_503.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [A Continuously Active Antimicrobial Coating effective against Human Coronavirus 229E](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_246.md)
 
 ## Property: has_MitigationPrinciple
 
 Quantitatively assesses the efficacy of sanitizers on surfaces
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [astm e1153 method](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3497.md)
+* [A Continuously Active Antimicrobial Coating effective against Human Coronavirus 229E](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_246.md)
 

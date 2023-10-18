@@ -2,11 +2,9 @@
 
 # __Face masks__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Contagious disease propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2915.md)
-* [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
-* [Respiratory](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3406.md)
+* [face masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_342.md)
 
 ## Closest similar item
 
@@ -21,17 +19,19 @@
 * [surgical masks)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3468.md)
 * [mask-wearing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3469.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_21.md)
-* [COVID19: Small and medium enterprises challenges and responses with creativity, innovation, and entrepreneurship](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_194.md)
-* [COVID-19 and the UN Sustainable Development Goals: Threat to Solidarity or an Opportunity?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_109.md)
+* [Contagious disease propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2915.md)
+* [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
+* [Respiratory](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3406.md)
 
 ## Property: has_MitigationPrinciple
 
 Prevents the release and inhalation of respiratory droplets containing the virus
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [face masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_342.md)
+* [Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_21.md)
+* [COVID19: Small and medium enterprises challenges and responses with creativity, innovation, and entrepreneurship](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_194.md)
+* [COVID-19 and the UN Sustainable Development Goals: Threat to Solidarity or an Opportunity?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_109.md)
 

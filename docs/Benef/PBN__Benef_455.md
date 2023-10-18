@@ -2,10 +2,6 @@
 
 # __Improved communication__
 
-## Name of the Benefit
-
-Facilitates clear communication by providing a well-lit, noise-free environment with close proximity between subjects.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Enhances coordination, reduces disruptions in healthcare delivery, and ensures effective use of resources.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_491.md)
@@ -21,4 +17,8 @@ Facilitates clear communication by providing a well-lit, noise-free environment 
 
 * [Social distancing enhanced automated optimal design of physical spaces in the wake of the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_186.md)
 * [COVID-19: A new digital dawn?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_93.md)
+
+## Name of the Benefit
+
+Facilitates clear communication by providing a well-lit, noise-free environment with close proximity between subjects.
 

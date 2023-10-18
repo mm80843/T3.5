@@ -2,10 +2,6 @@
 
 # __Improved educational opportunities__
 
-## Name of the Benefit
-
-Improving access to quality education for students from low-income backgrounds reduces educational inequality, improves social mobility, and provides opportunities for economic growth and development.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors in education infrastructure and technology can benefit from increased demand and improved asset value of educational facilities.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1154.md)
@@ -18,4 +14,8 @@ Improving access to quality education for students from low-income backgrounds r
 ## Articles mentionning this Benefit
 
 * [COVID-19 risks and systemic gaps in Nigeria: resilience building lessons for pandemic and climate change management](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_215.md)
+
+## Name of the Benefit
+
+Improving access to quality education for students from low-income backgrounds reduces educational inequality, improves social mobility, and provides opportunities for economic growth and development.
 

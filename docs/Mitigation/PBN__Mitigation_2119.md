@@ -2,9 +2,13 @@
 
 # __Use of new smart/innovative technologies__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Virus propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1032.md)
+* [mechanical ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1013.md)
+* [tracking technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1722.md)
+* [rollout mats](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1719.md)
+* [shoe cleaning systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1718.md)
+* [thermo-visors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1721.md)
 
 ## Closest similar item
 
@@ -19,19 +23,15 @@
 * [Wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_329.md)
 * [Adoption of digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3476.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
+* [Virus propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1032.md)
 
 ## Property: has_MitigationPrinciple
 
 Application of technologies to hinder virus spread
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [mechanical ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1013.md)
-* [tracking technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1722.md)
-* [rollout mats](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1719.md)
-* [shoe cleaning systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1718.md)
-* [thermo-visors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1721.md)
+* [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
 

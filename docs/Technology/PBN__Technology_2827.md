@@ -2,6 +2,10 @@
 
 # __Water treatment technologies__
 
+## This Technology belongs to this TechSubgroup
+
+* [Sanitation and Hygiene Practices](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_129.md)
+
 ## Closest similar item
 
 * [Water treatment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2827.md)
@@ -15,15 +19,11 @@
 * [wastewater treatment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3987.md)
 * [water and sanitation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1945.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Sanitation and Hygiene Practices](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_129.md)
+* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
 
 ## This Technology is identified by the following QID
 
 * [Q1058719](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1058719.md)
-
-## This Technology belongs to this TechGroup
-
-* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
 

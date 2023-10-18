@@ -2,6 +2,13 @@
 
 # __notifications systems__
 
+## Risks linked to this technology
+
+* [Inadequate communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1928.md)
+
+## This Technology belongs to this TechSubgroup
+
+
 ## Closest similar item
 
 * [alert systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3712.md)
@@ -15,18 +22,11 @@
 * [remote monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_462.md)
 * [messaging apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4027.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Inadequate communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1928.md)
-
-## This Technology belongs to this TechSubgroup
-
+* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
 
 ## This Technology is identified by the following QID
 
 * [Q3962191](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3962191.md)
-
-## This Technology belongs to this TechGroup
-
-* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
 

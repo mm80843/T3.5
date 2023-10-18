@@ -2,6 +2,14 @@
 
 # __tracking technology__
 
+## Risks linked to this technology
+
+* [PVP1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2190.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Surveillance and Tracking Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_21.md)
+
 ## Closest similar item
 
 * [tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1543.md)
@@ -15,25 +23,17 @@
 * [Monitoring and surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2463.md)
 * [surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1263.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [PVP1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2190.md)
+* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology is identified by the following QID
 
-* [Surveillance and Tracking Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_21.md)
+* [Q2699839](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2699839.md)
 
 ## This Technology enables the following mitigations
 
 * [Mass testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1.md)
 * [Use of new smart/innovative technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2119.md)
 * [Implementing new regulations and technologies for tracking and surveillance in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_792.md)
-
-## This Technology is identified by the following QID
-
-* [Q2699839](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2699839.md)
-
-## This Technology belongs to this TechGroup
-
-* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
 

@@ -2,10 +2,6 @@
 
 # __Better air quality__
 
-## Name of the Benefit
-
-Continuous monitoring and control of air conditions can improve air quality and reduce indoor pollution
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Implementing air quality monitoring systems can enhance tenant satisfaction and attract health-conscious individuals.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_248.md)
@@ -17,4 +13,8 @@ Continuous monitoring and control of air conditions can improve air quality and 
 ## Articles mentionning this Benefit
 
 * [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
+
+## Name of the Benefit
+
+Continuous monitoring and control of air conditions can improve air quality and reduce indoor pollution
 

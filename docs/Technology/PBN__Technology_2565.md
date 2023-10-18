@@ -2,6 +2,10 @@
 
 # __Ozonation__
 
+## This Technology belongs to this TechSubgroup
+
+* [Disinfection Equipment and Supplies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_87.md)
+
 ## Closest similar item
 
 * [Ozonation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2565.md)
@@ -15,15 +19,11 @@
 * [anterooms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3904.md)
 * [fountains](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3695.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Disinfection Equipment and Supplies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_87.md)
+* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
 
 ## This Technology is identified by the following QID
 
 * [Q408](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q408.md)
-
-## This Technology belongs to this TechGroup
-
-* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
 

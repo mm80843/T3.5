@@ -2,8 +2,9 @@
 
 # __Same Building Exposure__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [number of people in the building](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4047.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Exposure Response Plan](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_299.md)
 * [Residential environments](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_859.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [EXPOSED: An occupant exposure model for confined spaces to retrofit crowd models during a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_3.md)
 
 ## Property: has_MitigationPrinciple
 
 Occupant exposure is accounted for when agents are in the same building. The number of people in the building at each time-step is used to identify occupant exposure.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [number of people in the building](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4047.md)
+* [EXPOSED: An occupant exposure model for confined spaces to retrofit crowd models during a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_3.md)
 

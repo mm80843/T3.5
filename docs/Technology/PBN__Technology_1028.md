@@ -2,6 +2,14 @@
 
 # __real-time occupancy tracking__
 
+## Risks linked to this technology
+
+* [Insufficient crowd management measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1681.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Smart City and Occupancy Tracking Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_150.md)
+
 ## Closest similar item
 
 * [occupancy tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_775.md)
@@ -15,19 +23,11 @@
 * [occupancy estimation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3676.md)
 * [occupancy tracking systems can be used to monitor and enforce compliance with social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1098.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Insufficient crowd management measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1681.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Smart City and Occupancy Tracking Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_150.md)
+* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
 
 ## This Technology is identified by the following QID
 
 * [Q7075748](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7075748.md)
-
-## This Technology belongs to this TechGroup
-
-* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
 

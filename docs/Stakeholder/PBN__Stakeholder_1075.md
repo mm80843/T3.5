@@ -2,6 +2,10 @@
 
 # __railway authorities__
 
+## This Stakeholder is identified by the following QID
+
+* [Q22667](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q22667.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [City Officials](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_0.md)
@@ -19,14 +23,10 @@
 * [government authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_302.md)
 * [transportation agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_734.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Crowded railway stations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1650.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q22667](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q22667.md)
+* [Crowded railway stations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1650.md)
 

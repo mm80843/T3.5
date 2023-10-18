@@ -2,6 +2,10 @@
 
 # __HVAC systems with improved ventilation and air filtration capabilities__
 
+## This Technology belongs to this TechSubgroup
+
+* [Ventilation Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_77.md)
+
 ## Closest similar item
 
 * [improved ventilation and air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_642.md)
@@ -15,15 +19,11 @@
 * [air purifiers and ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_425.md)
 * [hvac filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3744.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Ventilation Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_77.md)
+* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_13.md)
 
 ## This Technology is identified by the following QID
 
 * [Q583488](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q583488.md)
-
-## This Technology belongs to this TechGroup
-
-* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_13.md)
 

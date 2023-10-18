@@ -2,8 +2,10 @@
 
 # __Air sampling__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [skc universal pumps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3907.md)
+* [sartorius md8 sampler](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3908.md)
 
 ## Closest similar item
 
@@ -18,16 +20,14 @@
 * [Cleaning air](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2303.md)
 * [Improved Air Filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1645.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Air, Surface Environmental, and Personal Protective Equipment Contamination by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) From a Symptomatic Patient](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_264.md)
 
 ## Property: has_MitigationPrinciple
 
 Collection of air samples from various locations to detect the presence of the pathogen in the air
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [skc universal pumps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3907.md)
-* [sartorius md8 sampler](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3908.md)
+* [Air, Surface Environmental, and Personal Protective Equipment Contamination by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) From a Symptomatic Patient](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_264.md)
 

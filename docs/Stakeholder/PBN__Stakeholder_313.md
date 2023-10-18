@@ -2,6 +2,10 @@
 
 # __community__
 
+## This Stakeholder is identified by the following QID
+
+* [Q177634](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q177634.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
@@ -30,8 +34,4 @@
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Reduced transmission risk in neighbourhood](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_762.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q177634](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q177634.md)
 

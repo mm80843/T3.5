@@ -2,9 +2,10 @@
 
 # __Proximity shopping__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Increased contact in crowded shops](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2884.md)
+* [urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_922.md)
+* [architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3564.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Proximity to urban green space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2284.md)
 * [Neighborhood Isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1915.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The Role of Architecture and Urbanism in Preventing Pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_140.md)
+* [Increased contact in crowded shops](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2884.md)
 
 ## Property: has_MitigationPrinciple
 
 Promoting smaller, local shops within walking or cycling distances to reduce transportation and contact in shopping areas
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_922.md)
-* [architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3564.md)
+* [The Role of Architecture and Urbanism in Preventing Pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_140.md)
 

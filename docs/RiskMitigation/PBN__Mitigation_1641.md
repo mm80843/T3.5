@@ -2,9 +2,9 @@
 
 # __Improved lift maintenance__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Crowding in lifts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3187.md)
+* [lift maintenance technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3972.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Maintenance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1313.md)
 * [Muscle strengthening exercises](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_443.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Public housing and COVID-19: contestation, challenge and change](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_107.md)
+* [Crowding in lifts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3187.md)
 
 ## Property: has_MitigationPrinciple
 
 Regular maintenance of lifts to ensure proper functioning and reduce the risk of close contact
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [lift maintenance technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3972.md)
+* [Public housing and COVID-19: contestation, challenge and change](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_107.md)
 

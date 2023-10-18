@@ -2,7 +2,7 @@
 
 # __Enhanced commitment towards multilateralism__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
 
 ## Closest similar item
@@ -18,14 +18,14 @@
 * [Trust and cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1796.md)
 * [Willing co-operation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1793.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The COVID-19 pandemic: Lessons on building more equal and sustainable societies](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_124.md)
 
 ## Property: has_MitigationPrinciple
 
 Strengthening commitment towards multilateralism in policymaking can foster cooperation among countries and promote balanced and inclusive growth, ensuring a more equitable and sustainable global recovery from the pandemic.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [The COVID-19 pandemic: Lessons on building more equal and sustainable societies](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_124.md)
 

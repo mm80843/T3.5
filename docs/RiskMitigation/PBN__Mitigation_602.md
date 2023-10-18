@@ -2,9 +2,11 @@
 
 # __Synthesising the best available evidence__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Information overload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1612.md)
+* [research databases](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3340.md)
+* [appraising methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3342.md)
+* [systematic reviews](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3341.md)
 
 ## Closest similar item
 
@@ -19,17 +21,15 @@
 * [Ensuring critical evaluation of information, considering multiple sources, promoting evidence-based decision making](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3540.md)
 * [Develop rapid response services to deliver relevant and high-quality evidence in a timely manner, leverage multiple dissemination channels tailored to different audiences, and expand the search for evidence beyond conventional sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3541.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Amplifying the role of knowledge translation platforms in the COVID-19 pandemic response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_111.md)
+* [Information overload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1612.md)
 
 ## Property: has_MitigationPrinciple
 
 KT platforms can filter the best evidence from multiple sources to provide decision-makers with reliable and accessible evidence syntheses in a timely and transparent manner.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [research databases](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3340.md)
-* [appraising methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3342.md)
-* [systematic reviews](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3341.md)
+* [Amplifying the role of knowledge translation platforms in the COVID-19 pandemic response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_111.md)
 

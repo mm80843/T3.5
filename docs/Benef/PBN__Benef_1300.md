@@ -2,10 +2,6 @@
 
 # __Improved community resilience__
 
-## Name of the Benefit
-
-Parks have been recognized as a critical health promoting resource during the pandemic, offering respite from COVID-19 transmission risk and socially distanced life in cities.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved community resilience can lead to reduced economic impacts during crises, increased community well-being, and enhanced property values for private investors in the area.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1469.md)
@@ -17,4 +13,8 @@ Parks have been recognized as a critical health promoting resource during the pa
 ## Articles mentionning this Benefit
 
 * [Urban Park Use During the COVID-19 Pandemic: Are Socially Vulnerable Communities Disproportionately Impacted?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_276.md)
+
+## Name of the Benefit
+
+Parks have been recognized as a critical health promoting resource during the pandemic, offering respite from COVID-19 transmission risk and socially distanced life in cities.
 

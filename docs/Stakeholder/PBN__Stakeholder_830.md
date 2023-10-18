@@ -19,11 +19,11 @@
 * [financial team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_932.md)
 * [fund management companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1332.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Insolvency risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1307.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Business and Financial Services](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_58.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Insolvency risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1307.md)
 

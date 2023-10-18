@@ -2,8 +2,10 @@
 
 # __Enhanced health literacy__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [information resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4081.md)
+* [health education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_322.md)
 
 ## Closest similar item
 
@@ -18,16 +20,14 @@
 * [Public health education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1014.md)
 * [Public health interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1261.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [From Viral City to Smart City: Learning from Pandemic Experiences](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_183.md)
 
 ## Property: has_MitigationPrinciple
 
 Improving individuals' ability to access and understand health-related information for informed decision making
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [information resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4081.md)
-* [health education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_322.md)
+* [From Viral City to Smart City: Learning from Pandemic Experiences](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_183.md)
 

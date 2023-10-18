@@ -2,9 +2,10 @@
 
 # __Improved water storage and sanitation__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Inadequate water storage, poor sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2433.md)
+* [sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1218.md)
+* [water storage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2961.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Safe water, sanitation, and hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1139.md)
 * [Maintenance and/or decontamination of water](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2134.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Global policy challenges for urban vector-borne disease risks](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_132.md)
+* [Inadequate water storage, poor sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2433.md)
 
 ## Property: has_MitigationPrinciple
 
 Enhance water storage and sanitation facilities to reduce disease transmission
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1218.md)
-* [water storage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2961.md)
+* [Global policy challenges for urban vector-borne disease risks](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_132.md)
 

@@ -2,6 +2,10 @@
 
 # __facilities management__
 
+## This Stakeholder is identified by the following QID
+
+* [Q837060](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q837060.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
@@ -19,6 +23,9 @@
 * [commercial facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_466.md)
 * [building owners and facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_916.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+
 ## Risks that can be mitigated by this stakeholder
 
 * [Ineffective air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1321.md)
@@ -28,11 +35,4 @@
 * [Lack of physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1322.md)
 * [Contamination of fomites in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1329.md)
 * [Insufficient use of outdoor air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1320.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-
-## This Stakeholder is identified by the following QID
-
-* [Q837060](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q837060.md)
 

@@ -2,10 +2,6 @@
 
 # __Quantitative assessment of occupant exposure__
 
-## Name of the Benefit
-
-Provides vital information for decision-making and risk assessment in implementing social distancing measures in buildings
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Enables more effective and targeted implementation of social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_13.md)
@@ -18,4 +14,8 @@ Provides vital information for decision-making and risk assessment in implementi
 ## Articles mentionning this Benefit
 
 * [EXPOSED: An occupant exposure model for confined spaces to retrofit crowd models during a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_3.md)
+
+## Name of the Benefit
+
+Provides vital information for decision-making and risk assessment in implementing social distancing measures in buildings
 

@@ -2,10 +2,6 @@
 
 # __Support for vulnerable populations__
 
-## Name of the Benefit
-
-Organize networks of solidarity to provide support for vulnerable populations in terms of food, healthcare, and other necessities
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved social equity and reduced economic disparities, leading to enhanced social stability and community well-being, which can positively impact property values and investment opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1345.md)
@@ -19,4 +15,8 @@ Organize networks of solidarity to provide support for vulnerable populations in
 ## Articles mentionning this Benefit
 
 * [The three modes of existence of the pandemic smart city](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_250.md)
+
+## Name of the Benefit
+
+Organize networks of solidarity to provide support for vulnerable populations in terms of food, healthcare, and other necessities
 

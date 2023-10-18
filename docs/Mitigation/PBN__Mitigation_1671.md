@@ -2,9 +2,9 @@
 
 # __Real-time monitoring__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of real-time information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3207.md)
+* [cctv cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3409.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Continuous Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_716.md)
 * [Continuous monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_698.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [An Automated System to Limit COVID-19 Using Facial Mask Detection in Smart City Network](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_265.md)
+* [Lack of real-time information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3207.md)
 
 ## Property: has_MitigationPrinciple
 
 Monitor public areas in real-time using CCTV cameras to track adherence to mask wearing guidelines and take immediate action
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [cctv cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3409.md)
+* [An Automated System to Limit COVID-19 Using Facial Mask Detection in Smart City Network](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_265.md)
 

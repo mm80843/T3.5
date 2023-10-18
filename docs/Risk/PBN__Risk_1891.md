@@ -2,22 +2,25 @@
 
 # __Limited access to nature__
 
+## Property: has_RiskHealth
+
+* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Description of the risk
+
+Lack of access to nature, such as green landscapes or views of the sky, in apartments can negatively impact resident well-being and limit the potential for restoration and stress reduction.
+
 ## Property: has_RiskType
 
 * [environmental](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_0.md)
 
-## People affected by this risk
+## Articles mentionning the risk
 
-* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
-* [apartment residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_356.md)
-
-## Name of the risk
-
-Decreased well-being, limited opportunities for stress reduction and restoration.
-
-## Property: has_RiskISO_Purpose
-
-* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_6.md)
+* [How our homes impact our health: using a COVID-19 informed approach to examine urban apartment housing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_279.md)
 
 ## Closest similar item
 
@@ -32,39 +35,36 @@ Decreased well-being, limited opportunities for stress reduction and restoration
 * [Limited access to outdoor areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_344.md)
 * [Limited access to resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1925.md)
 
-## Description of the risk
+## People affected by this risk
 
-Lack of access to nature, such as green landscapes or views of the sky, in apartments can negatively impact resident well-being and limit the potential for restoration and stress reduction.
-
-## Technologies linked to the risk
-
-* [outdoor spaces within apartment buildings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1271.md)
-* [communal rooftops](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1270.md)
-* [provide balconies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1269.md)
-
-## Property: has_RiskHealth
-
-* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
-
-## Mitigations of this risk
-
-* [Design apartments with views of the sky and natural elements, incorporate green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2489.md)
-
-## Articles mentionning the risk
-
-* [How our homes impact our health: using a COVID-19 informed approach to examine urban apartment housing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_279.md)
+* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+* [apartment residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_356.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_4.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
 ## Stakeholders who can mitigate this risk
 
 * [designers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_74.md)
 * [architects](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_431.md)
 * [property developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1284.md)
+
+## Name of the risk
+
+Decreased well-being, limited opportunities for stress reduction and restoration.
+
+## Mitigations of this risk
+
+* [Design apartments with views of the sky and natural elements, incorporate green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2489.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_6.md)
+
+## Technologies linked to the risk
+
+* [outdoor spaces within apartment buildings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1271.md)
+* [communal rooftops](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1270.md)
+* [provide balconies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1269.md)
 

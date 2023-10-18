@@ -2,9 +2,10 @@
 
 # __Research__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Insufficient evidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2790.md)
+* [data collection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3515.md)
+* [research facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3514.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [research priorities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3938.md)
 * [marketing research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3939.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Coronavirus disease 2019: The harms of exaggerated information and non‐evidence‐based measures](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_101.md)
+* [Insufficient evidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2790.md)
 
 ## Property: has_MitigationPrinciple
 
 Conducting research studies to gather accurate and unbiased data on the transmission, effectiveness of measures, and potential treatments or vaccines for contagious diseases to inform evidence-based decision-making and mitigation strategies.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [data collection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3515.md)
-* [research facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3514.md)
+* [Coronavirus disease 2019: The harms of exaggerated information and non‐evidence‐based measures](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_101.md)
 

@@ -2,6 +2,10 @@
 
 # __smartphone applications__
 
+## Risks linked to this technology
+
+* [Lack of Facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1058.md)
+
 ## Closest similar item
 
 * [smartphone apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4368.md)
@@ -15,15 +19,11 @@
 * [mobile app technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3152.md)
 * [apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1090.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Lack of Facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1058.md)
+* [Q620615](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q620615.md)
 
 ## This Technology enables the following mitigations
 
 * [Physical exercise monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_68.md)
-
-## This Technology is identified by the following QID
-
-* [Q620615](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q620615.md)
 

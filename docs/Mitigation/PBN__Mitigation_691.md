@@ -2,9 +2,10 @@
 
 # __Protect the Vulnerable__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Insufficient protection for vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2694.md)
+* [social support networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3383.md)
+* [healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3384.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Strengthen protection of environment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1823.md)
 * [Protection of healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2249.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [What our response to the COVID-19 pandemic tells us of our capacity to respond to climate change](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_257.md)
+* [Insufficient protection for vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2694.md)
 
 ## Property: has_MitigationPrinciple
 
 Develop and strengthen support systems and healthcare infrastructure to prioritize the protection of vulnerable populations from climate change
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [social support networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3383.md)
-* [healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3384.md)
+* [What our response to the COVID-19 pandemic tells us of our capacity to respond to climate change](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_257.md)
 

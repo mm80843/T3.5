@@ -2,7 +2,7 @@
 
 # __Adaptability of Urban Fabrics__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
 
 ## Closest similar item
@@ -18,14 +18,14 @@
 * [Urban Planning and Design Policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_757.md)
 * [Designing variety in visual and thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1595.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Epidemics, Planning and the City: A Special Issue of Planning Perspectives](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_152.md)
 
 ## Property: has_MitigationPrinciple
 
 Modifying existing urban fabric to accommodate changing healthcare needs, such as repurposing venues into medical facilities.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Epidemics, Planning and the City: A Special Issue of Planning Perspectives](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_152.md)
 

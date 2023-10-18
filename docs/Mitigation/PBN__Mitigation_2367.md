@@ -2,9 +2,9 @@
 
 # __Membrane-based wastewater treatment__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Poor removal of SARS-CoV-2 in conventional WWTP](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3430.md)
+* [membrane technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4434.md)
 
 ## Closest similar item
 
@@ -19,15 +19,19 @@
 * [Strengthened disinfection routines in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2451.md)
 * [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1138.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Detection of SARS-CoV-2 in raw and treated wastewater in Germany – Suitability for COVID-19 surveillance and potential transmission risks](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_0.md)
+* [Poor removal of SARS-CoV-2 in conventional WWTP](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3430.md)
+
+## Category to which it belongs
+
+* [Strengthening waste management and surveillance, utilizing wastewater-based epidemiology, to improve environmental sanitation and water quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_9.md)
 
 ## Property: has_MitigationPrinciple
 
 Can potentially improve removal efficiency of SARS-CoV-2 fragments in wastewater
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [membrane technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4434.md)
+* [Detection of SARS-CoV-2 in raw and treated wastewater in Germany – Suitability for COVID-19 surveillance and potential transmission risks](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_0.md)
 

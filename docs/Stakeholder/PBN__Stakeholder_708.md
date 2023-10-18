@@ -19,6 +19,14 @@
 * [policy and regulation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2783.md)
 * [compliance with regulatory changes](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2784.md)
 
+## Risk affecting this stakeholder
+
+* [Ethical considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_163.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Regulatory Bodies](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_2.md)
+
 ## Risks that can be mitigated by this stakeholder
 
 * [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_47.md)
@@ -34,12 +42,4 @@
 * [Safety concerns with alternative ventilator designs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2405.md)
 * [Volatility in financial markets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1976.md)
 * [Lack of airtightness and safety concerns with reusable face shields](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2401.md)
-
-## Risk affecting this stakeholder
-
-* [Ethical considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_163.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Regulatory Bodies](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_2.md)
 

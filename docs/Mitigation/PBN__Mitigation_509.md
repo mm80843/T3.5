@@ -2,9 +2,9 @@
 
 # __Fast analytical test methods__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Unknown infected populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2603.md)
+* [diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1002.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Routine testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_404.md)
 * [Rapid Testing and Contact Tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_806.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Wastewater surveillance for population-wide Covid-19: The present and future](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_213.md)
+* [Unknown infected populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2603.md)
 
 ## Property: has_MitigationPrinciple
 
 Provide fast and reliable testing to determine the distribution and magnitude of infected populations
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1002.md)
+* [Wastewater surveillance for population-wide Covid-19: The present and future](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_213.md)
 

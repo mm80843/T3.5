@@ -2,23 +2,25 @@
 
 # __Sickness benefit transfers__
 
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Description of the risk
+
+Long-term absence from work due to illness leads to financial compensation by governments, increasing social costs.
+
 ## Property: has_RiskType
 
 * [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
-## People affected by this risk
+## Articles mentionning the risk
 
-* [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
-* [employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_220.md)
-* [employers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_180.md)
-
-## Name of the risk
-
-Increased financial burden on governments, decreased productivity.
-
-## Property: has_RiskISO_Purpose
-
-* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_6.md)
+* [Mental health economics: A prospective study on psychological flourishing and associations with healthcare costs and sickness benefit transfers in Denmark](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_189.md)
 
 ## Closest similar item
 
@@ -33,37 +35,35 @@ Increased financial burden on governments, decreased productivity.
 * [Corruption in donation processes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_847.md)
 * [Vulnerability to disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3336.md)
 
-## Description of the risk
+## People affected by this risk
 
-Long-term absence from work due to illness leads to financial compensation by governments, increasing social costs.
-
-## Technologies linked to the risk
-
-* [telemedicine for remote healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1518.md)
-* [workplace health promotion technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1517.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Mitigations of this risk
-
-* [Implement policies and programs to prevent long-term sickness absence, such as workplace wellness programs and early intervention strategies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2673.md)
-
-## Articles mentionning the risk
-
-* [Mental health economics: A prospective study on psychological flourishing and associations with healthcare costs and sickness benefit transfers in Denmark](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_189.md)
+* [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
+* [employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_220.md)
+* [employers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_180.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_4.md)
 
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
 ## Stakeholders who can mitigate this risk
 
 * [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
 * [employers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_180.md)
+
+## Name of the risk
+
+Increased financial burden on governments, decreased productivity.
+
+## Mitigations of this risk
+
+* [Implement policies and programs to prevent long-term sickness absence, such as workplace wellness programs and early intervention strategies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2673.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_6.md)
+
+## Technologies linked to the risk
+
+* [telemedicine for remote healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1518.md)
+* [workplace health promotion technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1517.md)
 

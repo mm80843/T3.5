@@ -2,6 +2,10 @@
 
 # __activated carbon__
 
+## Risks linked to this technology
+
+* [Inefficient VOC removal by plants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2306.md)
+
 ## Closest similar item
 
 * [activated carbon filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3469.md)
@@ -15,15 +19,11 @@
 * [carbon accounting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3330.md)
 * [air cleaner](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3407.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Inefficient VOC removal by plants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2306.md)
+* [Q2957662](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2957662.md)
 
 ## This Technology enables the following mitigations
 
 * [Dynamic botanical air filtration system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2305.md)
-
-## This Technology is identified by the following QID
-
-* [Q2957662](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2957662.md)
 

@@ -2,9 +2,10 @@
 
 # __Level of natural ventilation__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3349.md)
+* [openable windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1748.md)
+* [outdoor air monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1749.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Increasing ventilation rates, using natural ventilation, regularly maintaining and cleaning ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4281.md)
 * [Improving ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2591.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
+* [Air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3349.md)
 
 ## Property: has_MitigationPrinciple
 
 Provide natural ventilation to refresh indoor air and improve air quality
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [openable windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1748.md)
-* [outdoor air monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1749.md)
+* [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
 

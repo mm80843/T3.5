@@ -2,9 +2,16 @@
 
 # __Wearable technology__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Accuracy, skin irritation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2553.md)
+* [wearable sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2949.md)
+* [wearable device](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3163.md)
+* [fitness tracker](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3162.md)
+* [wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3189.md)
+* [sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
+* [machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3004.md)
+* [smartwatch](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3161.md)
+* [gps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3000.md)
 
 ## Closest similar item
 
@@ -18,24 +25,17 @@
 * [Use of touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2120.md)
 * [Implement touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2798.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Wearable technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_195.md)
-* [The Rise of Wearable Devices during the COVID-19 Pandemic: A Systematic Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_99.md)
-* [Wearable technology for early detection of COVID-19: A systematic scoping review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_192.md)
+* [Accuracy, skin irritation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2553.md)
 
 ## Property: has_MitigationPrinciple
 
 Continuous monitoring and analysis of vital signs and changes in the body to detect and predict the onset of infection or disease. Allows for personalized baseline and alerts for potential infection.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [wearable sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2949.md)
-* [wearable device](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3163.md)
-* [fitness tracker](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3162.md)
-* [wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3189.md)
-* [sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
-* [machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3004.md)
-* [smartwatch](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3161.md)
-* [gps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3000.md)
+* [Wearable technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_195.md)
+* [The Rise of Wearable Devices during the COVID-19 Pandemic: A Systematic Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_99.md)
+* [Wearable technology for early detection of COVID-19: A systematic scoping review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_192.md)
 

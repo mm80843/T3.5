@@ -2,19 +2,6 @@
 
 # __physical barriers__
 
-## Closest similar item
-
-* [physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_343.md)
-* [physical barriers (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3586.md)
-* [barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_833.md)
-* [protective barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_229.md)
-* [Protective barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2549.md)
-* [safety barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1880.md)
-* [Safety barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2675.md)
-* [plastic barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4200.md)
-* [barriers such as plexiglass](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3288.md)
-* [physical barrier installations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_800.md)
-
 ## Risks linked to this technology
 
 * [Spread of SARS-CoV-2 through droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1242.md)
@@ -31,6 +18,27 @@
 
 * [Touchless and Barrier Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_166.md)
 
+## Closest similar item
+
+* [physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_343.md)
+* [physical barriers (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3586.md)
+* [barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_833.md)
+* [protective barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_229.md)
+* [Protective barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2549.md)
+* [safety barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1880.md)
+* [Safety barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2675.md)
+* [plastic barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4200.md)
+* [barriers such as plexiglass](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3288.md)
+* [physical barrier installations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_800.md)
+
+## This Technology belongs to this TechGroup
+
+* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
+
+## This Technology is identified by the following QID
+
+* [Q808918](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q808918.md)
+
 ## This Technology enables the following mitigations
 
 * [Social Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_35.md)
@@ -43,12 +51,4 @@
 * [Barrier Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_925.md)
 * [Physical Barriers (e.g., Plexiglass)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1735.md)
 * [Engineering Controls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_298.md)
-
-## This Technology is identified by the following QID
-
-* [Q808918](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q808918.md)
-
-## This Technology belongs to this TechGroup
-
-* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
 

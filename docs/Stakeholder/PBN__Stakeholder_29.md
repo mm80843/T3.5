@@ -2,6 +2,10 @@
 
 # __general public__
 
+## This Stakeholder is identified by the following QID
+
+* [Q2388316](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2388316.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
@@ -18,11 +22,6 @@
 * [public areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_63.md)
 * [public health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_58.md)
 * [public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_682.md)
-
-## Risks that can be mitigated by this stakeholder
-
-* [Indirect transmission via contaminated surfaces (fomites)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1243.md)
-* [Individual responsibility for sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1863.md)
 
 ## Risk affecting this stakeholder
 
@@ -287,7 +286,8 @@
 * [Harmonized messaging](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1411.md)
 * [Reduced misinformation dissemination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1414.md)
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q2388316](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2388316.md)
+* [Indirect transmission via contaminated surfaces (fomites)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1243.md)
+* [Individual responsibility for sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1863.md)
 

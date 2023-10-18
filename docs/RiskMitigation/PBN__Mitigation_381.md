@@ -2,8 +2,9 @@
 
 # __Two-way Communication__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [smart meters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_668.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Effective Communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1865.md)
 * [Information Communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1465.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Coronavirus comes home? Energy use, home energy management, and the social-psychological factors of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_119.md)
 
 ## Property: has_MitigationPrinciple
 
 Enable communication between energy providers and end-users
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [smart meters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_668.md)
+* [Coronavirus comes home? Energy use, home energy management, and the social-psychological factors of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_119.md)
 

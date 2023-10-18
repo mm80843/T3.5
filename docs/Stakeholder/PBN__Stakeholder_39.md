@@ -2,6 +2,10 @@
 
 # __residents of neighborhoods__
 
+## This Stakeholder is identified by the following QID
+
+* [Q33829](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q33829.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
@@ -30,8 +34,4 @@
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Community development](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_45.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q33829](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q33829.md)
 

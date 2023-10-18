@@ -2,9 +2,9 @@
 
 # __Levels of indoor space adjustability__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Personal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3355.md)
+* [adjustable area ratio](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1779.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Flexible and adaptable room design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4297.md)
 * [Designing personalized indoor controls at room and patient levels](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4298.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
+* [Personal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3355.md)
 
 ## Property: has_MitigationPrinciple
 
 Provide adjustable indoor spaces to meet residents' needs
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [adjustable area ratio](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1779.md)
+* [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
 

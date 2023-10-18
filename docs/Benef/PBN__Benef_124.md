@@ -2,10 +2,6 @@
 
 # __Improved knowledge and awareness__
 
-## Name of the Benefit
-
-Proper training and guidance on hygiene practices reduce the risk of infection transmission
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Implementing training protocols increases occupant safety, reduces absenteeism, and maintains business continuity.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_123.md)
@@ -17,4 +13,8 @@ Proper training and guidance on hygiene practices reduce the risk of infection t
 ## Articles mentionning this Benefit
 
 * [A Global Survey of Infection Control and Mitigation Measures for Combating the Transmission of COVID-19 Pandemic in Buildings Under Facilities Management Services](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_27.md)
+
+## Name of the Benefit
+
+Proper training and guidance on hygiene practices reduce the risk of infection transmission
 

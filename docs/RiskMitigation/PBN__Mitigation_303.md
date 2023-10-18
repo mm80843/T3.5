@@ -2,9 +2,10 @@
 
 # __Physical and Mental Health__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Physical and Mental Health Concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2526.md)
+* [stress management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1284.md)
+* [flexible sick leave](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3144.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Public Health Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1740.md)
 * [Health education programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2442.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Analysis of COVID-19 Concerns Raised by the Construction Workforce and Development of Mitigation Practices](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_82.md)
+* [Physical and Mental Health Concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2526.md)
 
 ## Property: has_MitigationPrinciple
 
 Provide resources for employees to work in a healthy manner, create provisions for stress and anxiety management, offer flexible sick leave policies, and encourage open discussions about the impact of the pandemic on employees' physical and mental well-being.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [stress management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1284.md)
-* [flexible sick leave](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3144.md)
+* [Analysis of COVID-19 Concerns Raised by the Construction Workforce and Development of Mitigation Practices](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_82.md)
 

@@ -2,10 +2,6 @@
 
 # __Increased tenant demand__
 
-## Name of the Benefit
-
-Attracting businesses looking for adaptable spaces during uncertain times
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Increased rental income, reduced vacancy rates](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1198.md)
@@ -17,4 +13,8 @@ Attracting businesses looking for adaptable spaces during uncertain times
 ## Articles mentionning this Benefit
 
 * [Building Transformation for Precautionary Measures against COVID-19 Pandemic: Case of Off-Street Car Parking of Campuses](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_224.md)
+
+## Name of the Benefit
+
+Attracting businesses looking for adaptable spaces during uncertain times
 

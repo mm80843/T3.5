@@ -2,6 +2,10 @@
 
 # __mixed-use development__
 
+## Risks linked to this technology
+
+* [Urban density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2028.md)
+
 ## Closest similar item
 
 * [Mixed-use development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2729.md)
@@ -15,15 +19,11 @@
 * [collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_567.md)
 * [user-friendly applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4159.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Urban density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2028.md)
+* [Q4298922](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4298922.md)
 
 ## This Technology enables the following mitigations
 
 * [Proximities between jobs and homes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2434.md)
-
-## This Technology is identified by the following QID
-
-* [Q4298922](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4298922.md)
 

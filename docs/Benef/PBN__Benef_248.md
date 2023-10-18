@@ -2,10 +2,6 @@
 
 # __Reduced virus spread__
 
-## Name of the Benefit
-
-Implementing social distancing measures such as maintaining physical distance reduces the risk of virus transmission and protects workers and the public.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Adopting proper waste disinfection measures can enhance the property’s value and create a safer living environment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_260.md)
@@ -21,4 +17,8 @@ Implementing social distancing measures such as maintaining physical distance re
 
 * [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
 * [Analysis of COVID-19 Concerns Raised by the Construction Workforce and Development of Mitigation Practices](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_82.md)
+
+## Name of the Benefit
+
+Implementing social distancing measures such as maintaining physical distance reduces the risk of virus transmission and protects workers and the public.
 

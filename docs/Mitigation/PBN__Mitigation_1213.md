@@ -2,9 +2,9 @@
 
 # __Expandability__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Increase or reduce the size of a building](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2962.md)
+* [structural foundations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3731.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Flexible Design Solutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1968.md)
 * [Extending basic services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2383.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Emergency Healthcare Facilities: Managing Design in a Post Covid-19 World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_122.md)
+* [Increase or reduce the size of a building](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2962.md)
 
 ## Property: has_MitigationPrinciple
 
 Ability to increase or reduce the size of a building
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [structural foundations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3731.md)
+* [Emergency Healthcare Facilities: Managing Design in a Post Covid-19 World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_122.md)
 

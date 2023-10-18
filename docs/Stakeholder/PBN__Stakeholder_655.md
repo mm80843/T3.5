@@ -2,6 +2,10 @@
 
 # __facility management__
 
+## This Stakeholder is identified by the following QID
+
+* [Q837060](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q837060.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
@@ -18,6 +22,13 @@
 * [facility](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1971.md)
 * [facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1487.md)
 * [facility owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_847.md)
+
+## Risk affecting this stakeholder
+
+* [Neglecting standard cleaning practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1170.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
 
 ## Risks that can be mitigated by this stakeholder
 
@@ -39,15 +50,4 @@
 * [Inadequate protective measures in ICU](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1423.md)
 * [Insufficient virus reduction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1169.md)
 * [Lack of sanitization protocols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1501.md)
-
-## Risk affecting this stakeholder
-
-* [Neglecting standard cleaning practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1170.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-
-## This Stakeholder is identified by the following QID
-
-* [Q837060](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q837060.md)
 

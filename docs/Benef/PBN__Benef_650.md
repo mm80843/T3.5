@@ -2,10 +2,6 @@
 
 # __Improved crisis response and coordination__
 
-## Name of the Benefit
-
-Effective communication between stakeholders during crises enhances coordination, allows for timely information sharing, and improves the overall response to the crisis.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors benefit from decreased operational disruptions, improved asset value, and enhanced public perception as their infrastructure is able to effectively respond to crises.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_700.md)
@@ -18,4 +14,8 @@ Effective communication between stakeholders during crises enhances coordination
 ## Articles mentionning this Benefit
 
 * [Preparing critical infrastructure for the future: Lessons learnt from the Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_129.md)
+
+## Name of the Benefit
+
+Effective communication between stakeholders during crises enhances coordination, allows for timely information sharing, and improves the overall response to the crisis.
 

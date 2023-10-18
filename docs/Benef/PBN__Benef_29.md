@@ -2,10 +2,6 @@
 
 # __Reduced infection risk__
 
-## Name of the Benefit
-
-Compact development creates physical distance between individuals, reducing the risk of infection transmission.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can invest in infrastructure for biking and pedestrian-oriented mobility, attracting residents seeking a healthier and safer commuting option, thus increasing property value and rental income.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_29.md)
@@ -28,4 +24,8 @@ Compact development creates physical distance between individuals, reducing the 
 * [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
 * [The efficacy of social distance and ventilation effectiveness in preventing COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_125.md)
 * [Treating two pandemics for the price of one: Chronic and infectious disease impacts of the built and natural environment](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_174.md)
+
+## Name of the Benefit
+
+Compact development creates physical distance between individuals, reducing the risk of infection transmission.
 

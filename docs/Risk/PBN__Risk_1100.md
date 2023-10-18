@@ -2,22 +2,25 @@
 
 # __Expertise__
 
+## Property: has_RiskHealth
+
+
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Description of the risk
+
+Lack of professionals with IT skills and domain expertise in digital transformation technologies.
+
 ## Property: has_RiskType
 
 * [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 * [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
-## People affected by this risk
+## Articles mentionning the risk
 
-* [none](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_629.md)
-
-## Name of the risk
-
-Inadequate development, implementation, and maintenance of the proposed framework.
-
-## Property: has_RiskISO_Purpose
-
-* [Topic](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_12.md)
+* [Leveraging Digital Transformation Technologies to Tackle COVID-19: Proposing a Privacy-First Holistic Framework](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_297.md)
 
 ## Closest similar item
 
@@ -32,36 +35,33 @@ Inadequate development, implementation, and maintenance of the proposed framewor
 * [Knowledge gap](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3145.md)
 * [Lack of knowledge](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2652.md)
 
-## Description of the risk
+## People affected by this risk
 
-Lack of professionals with IT skills and domain expertise in digital transformation technologies.
-
-## Technologies linked to the risk
-
-* [training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_82.md)
-* [interdisciplinary teams](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_156.md)
-
-## Property: has_RiskHealth
-
-
-## Mitigations of this risk
-
-* [Invest in training and education programs, promote interdisciplinary collaboration.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1547.md)
-
-## Articles mentionning the risk
-
-* [Leveraging Digital Transformation Technologies to Tackle COVID-19: Proposing a Privacy-First Holistic Framework](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_297.md)
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_629.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Impact](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_11.md)
 
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
 ## Stakeholders who can mitigate this risk
 
 * [government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_55.md)
 * [educational institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_66.md)
+
+## Name of the risk
+
+Inadequate development, implementation, and maintenance of the proposed framework.
+
+## Mitigations of this risk
+
+* [Invest in training and education programs, promote interdisciplinary collaboration.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1547.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Topic](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_12.md)
+
+## Technologies linked to the risk
+
+* [training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_82.md)
+* [interdisciplinary teams](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_156.md)
 

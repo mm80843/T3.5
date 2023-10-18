@@ -2,6 +2,10 @@
 
 # __Geographic information systems__
 
+## This Technology belongs to this TechSubgroup
+
+* [Data Management and Communication Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_18.md)
+
 ## Closest similar item
 
 * [Geographic information systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2385.md)
@@ -15,15 +19,11 @@
 * [Geographic Information System (GIS) mapping technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2322.md)
 * [geographic information systems (gis) can be used to analyze community needs and optimize facility placement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1913.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Data Management and Communication Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_18.md)
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 
 ## This Technology is identified by the following QID
 
 * [Q483130](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q483130.md)
-
-## This Technology belongs to this TechGroup
-
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 

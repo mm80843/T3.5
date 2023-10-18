@@ -2,8 +2,9 @@
 
 # __Ventilation Protection__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [enhanced ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3113.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Ventilation improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_248.md)
 * [Ventilation Improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1576.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Methods for air cleaning and protection of building occupants from airborne pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_240.md)
 
 ## Property: has_MitigationPrinciple
 
 Designing indoor conditions that reduce cross-infection by supplying clean outdoor air and controlling airflow patterns to minimize the spread of airborne infections
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [enhanced ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3113.md)
+* [Methods for air cleaning and protection of building occupants from airborne pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_240.md)
 

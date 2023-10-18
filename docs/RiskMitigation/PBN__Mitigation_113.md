@@ -2,9 +2,9 @@
 
 # __Inclusion of pandemic preparedness in disaster management protocols__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of planning and management for pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2447.md)
+* [policy and institutional frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2976.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Improved risk preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1488.md)
 * [Reimagining large public spaces and events in a post-pandemic world](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_794.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Pandemic stricken cities on lockdown. Where are our planning and design professionals [now, then and into the future]?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_147.md)
+* [Lack of planning and management for pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2447.md)
 
 ## Property: has_MitigationPrinciple
 
 Incorporating pandemics as a category in disaster management protocols and involving built environment professionals in planning and response efforts.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [policy and institutional frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2976.md)
+* [Pandemic stricken cities on lockdown. Where are our planning and design professionals [now, then and into the future]?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_147.md)
 

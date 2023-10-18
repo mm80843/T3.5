@@ -2,10 +2,6 @@
 
 # __Increased competition and diversification__
 
-## Name of the Benefit
-
-Adoption of policies to promote competition and diversification in GVCs
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved resilience, reduced concentration risks, increased market access](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_329.md)
@@ -18,4 +14,8 @@ Adoption of policies to promote competition and diversification in GVCs
 ## Articles mentionning this Benefit
 
 * [Global value chains: Efficiency and risks in the context of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_60.md)
+
+## Name of the Benefit
+
+Adoption of policies to promote competition and diversification in GVCs
 

@@ -2,9 +2,9 @@
 
 # __Eviction diversion programs__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Eviction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2516.md)
+* [legal support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3102.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Establish alternative support systems such as online counseling and helplines, ensure shelters remain open and accessible during lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3701.md)
 * [Temporary closure of non-essential public places until recovery is reached.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2931.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Eviction, Health Inequity, and the Spread of COVID-19: Housing Policy as a Primary Pandemic Mitigation Strategy](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_43.md)
+* [Eviction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2516.md)
 
 ## Property: has_MitigationPrinciple
 
 Implementing diversion programs can decrease eviction rates and prevent homelessness
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [legal support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3102.md)
+* [Eviction, Health Inequity, and the Spread of COVID-19: Housing Policy as a Primary Pandemic Mitigation Strategy](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_43.md)
 

@@ -2,9 +2,9 @@
 
 # __Regular monitoring of public health and government announcements__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3219.md)
+* [news and information sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4011.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Health Information Exchange](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_437.md)
 * [Public health education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1014.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Identifying Actions to Control and Mitigate the Effects of the COVID-19 Pandemic on Construction Organizations: Preliminary Findings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_220.md)
+* [Compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3219.md)
 
 ## Property: has_MitigationPrinciple
 
 Staying informed about the latest regulations and guidelines to ensure adherence and adapt mitigation measures accordingly
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [news and information sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4011.md)
+* [Identifying Actions to Control and Mitigate the Effects of the COVID-19 Pandemic on Construction Organizations: Preliminary Findings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_220.md)
 

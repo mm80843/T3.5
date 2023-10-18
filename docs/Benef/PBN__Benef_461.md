@@ -2,10 +2,6 @@
 
 # __Remote consultation solutions__
 
-## Name of the Benefit
-
-Facilitates remote delivery of healthcare services, from basic telephone-based consultations to more complex video-conference or app-based solutions.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improves access to care, reduces the risk of infection, and maintains continuity of care for patients.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_497.md)
@@ -17,4 +13,8 @@ Facilitates remote delivery of healthcare services, from basic telephone-based c
 ## Articles mentionning this Benefit
 
 * [COVID-19: A new digital dawn?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_93.md)
+
+## Name of the Benefit
+
+Facilitates remote delivery of healthcare services, from basic telephone-based consultations to more complex video-conference or app-based solutions.
 

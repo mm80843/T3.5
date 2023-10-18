@@ -2,8 +2,15 @@
 
 # __Green building design__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [energy efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3595.md)
+* [innovation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3645.md)
+* [sustainable site management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4485.md)
+* [green sustainable materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4484.md)
+* [indoor environmental quality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4482.md)
+* [water efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4483.md)
+* [commissioning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4486.md)
 
 ## Closest similar item
 
@@ -18,21 +25,14 @@
 * [Building green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2902.md)
 * [Green roofs and facades](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3193.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Green Buildings: A Post COVID-19 Analysis of Preventive Measures of Spreading the Virus](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_290.md)
 
 ## Property: has_MitigationPrinciple
 
 Transforming the indoor environment to improve health and well-being of occupants
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [energy efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3595.md)
-* [innovation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3645.md)
-* [sustainable site management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4485.md)
-* [green sustainable materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4484.md)
-* [indoor environmental quality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4482.md)
-* [water efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4483.md)
-* [commissioning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4486.md)
+* [Green Buildings: A Post COVID-19 Analysis of Preventive Measures of Spreading the Virus](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_290.md)
 

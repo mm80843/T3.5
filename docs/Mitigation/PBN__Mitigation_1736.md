@@ -2,9 +2,11 @@
 
 # __Testing and Contact Tracing__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Early Detection of Cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3283.md)
+* [contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
+* [testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_610.md)
+* [contact tracing app](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4134.md)
 
 ## Closest similar item
 
@@ -19,18 +21,16 @@
 * [Contact Tracing Applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1320.md)
 * [Testing and tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2091.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Psychological Effects of Home Confinement and Social Distancing Derived from COVID-19 in the General Population—A Systematic Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_126.md)
-* [The Socio-Spatial Determinants of COVID-19 Diffusion: The Impact of Globalisation, Settlement Characteristics and Population](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_175.md)
+* [Early Detection of Cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3283.md)
 
 ## Property: has_MitigationPrinciple
 
 Identifying and isolating infected individuals and tracing their contacts to prevent further transmission of contagious diseases
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
-* [testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_610.md)
-* [contact tracing app](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4134.md)
+* [Psychological Effects of Home Confinement and Social Distancing Derived from COVID-19 in the General Population—A Systematic Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_126.md)
+* [The Socio-Spatial Determinants of COVID-19 Diffusion: The Impact of Globalisation, Settlement Characteristics and Population](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_175.md)
 

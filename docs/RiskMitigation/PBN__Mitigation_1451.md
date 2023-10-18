@@ -2,9 +2,9 @@
 
 # __State Aid for Tourism Industry__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Economic impact on government budgets, inequitable distribution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3079.md)
+* [financial resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3637.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Provide financial aids](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_990.md)
 * [Regional Recovery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1042.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The socio-economic implications of the coronavirus pandemic (COVID-19): A review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_135.md)
+* [Economic impact on government budgets, inequitable distribution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3079.md)
 
 ## Property: has_MitigationPrinciple
 
 Provide financial support to the tourism industry to mitigate losses
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [financial resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3637.md)
+* [The socio-economic implications of the coronavirus pandemic (COVID-19): A review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_135.md)
 

@@ -2,10 +2,6 @@
 
 # __Reduced depressive symptoms__
 
-## Name of the Benefit
-
-Increasing the dimensions of apartments can reduce depressive symptoms and improve mental health
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investing in improving indoor qualities can enhance the living experience and mental well-being of individuals, potentially leading to increased property value and tenant satisfaction.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1360.md)
@@ -19,4 +15,8 @@ Increasing the dimensions of apartments can reduce depressive symptoms and impro
 ## Articles mentionning this Benefit
 
 * [COVID-19 Lockdown: Housing Built Environment’s Effects on Mental Health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_254.md)
+
+## Name of the Benefit
+
+Increasing the dimensions of apartments can reduce depressive symptoms and improve mental health
 

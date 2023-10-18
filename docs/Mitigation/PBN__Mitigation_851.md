@@ -2,8 +2,9 @@
 
 # __Letheen Broth Base (LBB)__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [letheen broth base](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3494.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Chlorine dioxide](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2312.md)
 * [Balancing Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_814.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [A Continuously Active Antimicrobial Coating effective against Human Coronavirus 229E](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_246.md)
 
 ## Property: has_MitigationPrinciple
 
 Neutralizes the test material and extracts infectious viruses from the test surface
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [letheen broth base](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3494.md)
+* [A Continuously Active Antimicrobial Coating effective against Human Coronavirus 229E](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_246.md)
 

@@ -2,9 +2,9 @@
 
 # __Social Media Analysis__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
+* [social media analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3184.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_478.md)
 * [Big Data Analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_765.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID19-Routes: A Safe Pedestrian Navigation Service](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_201.md)
+* [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
 
 ## Property: has_MitigationPrinciple
 
 Identifying patterns in the mental state of citizens through social media
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [social media analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3184.md)
+* [COVID19-Routes: A Safe Pedestrian Navigation Service](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_201.md)
 

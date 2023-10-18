@@ -19,13 +19,13 @@
 * [transportation providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1085.md)
 * [transportation departments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_773.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Transportation Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_1.md)
+
 ## Risks that can be mitigated by this stakeholder
 
 * [Risk of transmission in enclosed and communal spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2120.md)
 * [Inadequate public transport capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1216.md)
 * [Fear of using public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1218.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Transportation Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_1.md)
 

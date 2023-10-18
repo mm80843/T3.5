@@ -2,6 +2,10 @@
 
 # __filtration systems__
 
+## Risks linked to this technology
+
+* [Effects of nebulization and impingement on viral survival](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2301.md)
+
 ## Closest similar item
 
 * [Filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2691.md)
@@ -15,15 +19,11 @@
 * [Advanced air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2197.md)
 * [air filtration and purification systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_769.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Effects of nebulization and impingement on viral survival](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2301.md)
+* [Q244772](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q244772.md)
 
 ## This Technology enables the following mitigations
 
 * [Mechanical filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1413.md)
-
-## This Technology is identified by the following QID
-
-* [Q244772](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q244772.md)
 

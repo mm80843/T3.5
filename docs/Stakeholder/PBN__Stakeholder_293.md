@@ -2,6 +2,10 @@
 
 # __operations team__
 
+## This Stakeholder is identified by the following QID
+
+* [Q1423657](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1423657.md)
+
 ## Closest similar item
 
 * [management team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_292.md)
@@ -15,10 +19,6 @@
 * [project teams](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_979.md)
 * [financial team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_932.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Delays in project activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1525.md)
-
 ## Risk affecting this stakeholder
 
 * [Limited site access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1527.md)
@@ -27,7 +27,7 @@
 
 * [Enhanced communication](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_710.md)
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q1423657](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1423657.md)
+* [Delays in project activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1525.md)
 

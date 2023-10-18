@@ -2,10 +2,6 @@
 
 # __Improved indoor environment quality__
 
-## Name of the Benefit
-
-Ensuring proper building orientation, natural lighting, ventilation, and IAQ can provide a healthier and more comfortable living environment.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors investing in adaptive design measures can attract healthier occupants and create a more valuable and desirable built environment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_826.md)
@@ -20,4 +16,8 @@ Ensuring proper building orientation, natural lighting, ventilation, and IAQ can
 
 * [COVID-19 and Living space challenge. Well-being and Public Health recommendations for a healthy, safe, and sustainable housing.](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_161.md)
 * [Adaptive Design of the Built Environment to Mitigate the Transmission Risk of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_151.md)
+
+## Name of the Benefit
+
+Ensuring proper building orientation, natural lighting, ventilation, and IAQ can provide a healthier and more comfortable living environment.
 

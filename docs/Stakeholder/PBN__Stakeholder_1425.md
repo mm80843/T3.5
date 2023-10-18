@@ -2,6 +2,10 @@
 
 # __community support services__
 
+## This Stakeholder is identified by the following QID
+
+* [Q112206160](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q112206160.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
@@ -19,15 +23,11 @@
 * [individuals in need of mental health support; individuals with pre-existing mental health conditions; marginalized communities with limited access to mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2349.md)
 * [communities and healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_403.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Risk of mental health issues during and after a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2121.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Community Support Networks/Services](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_133.md)
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q112206160](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q112206160.md)
+* [Risk of mental health issues during and after a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2121.md)
 

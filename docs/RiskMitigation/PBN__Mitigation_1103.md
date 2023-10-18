@@ -2,9 +2,9 @@
 
 # __Configurable Simulation__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Overwhelming customization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2923.md)
+* [customized occupancy simulation parameters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3652.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Virus Transmission Simulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1106.md)
 * [Integrated Command and Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1955.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Designing a Multi-Agent Occupant Simulation System to Support Facility Planning and Analysis for COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_26.md)
+* [Overwhelming customization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2923.md)
 
 ## Property: has_MitigationPrinciple
 
 Enable users to customize space configurations, occupant behaviours, and virus transmission parameters to evaluate and compare the impacts of different design decisions
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [customized occupancy simulation parameters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3652.md)
+* [Designing a Multi-Agent Occupant Simulation System to Support Facility Planning and Analysis for COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_26.md)
 

@@ -2,8 +2,9 @@
 
 # __Mobile temperature measurement__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [thermometers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3922.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Temperature Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_936.md)
 * [Temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_375.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Applications of digital technology in COVID-19 pandemic planning and response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_127.md)
 
 ## Property: has_MitigationPrinciple
 
 Measurement of individuals' temperature at the entry points of workplaces, schools, and public transport
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [thermometers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3922.md)
+* [Applications of digital technology in COVID-19 pandemic planning and response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_127.md)
 

@@ -2,9 +2,8 @@
 
 # __Individual responsibility__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1033.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Stakeholder Cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2185.md)
 * [Personal Protection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_926.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Infodemic and the spread of fake news in the COVID-19-era](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_299.md)
+* [Misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1033.md)
 
 ## Property: has_MitigationPrinciple
 
 Encourage individual responsibility within the scientific community to ensure accurate and responsible public dissemination of information.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Infodemic and the spread of fake news in the COVID-19-era](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_299.md)
 

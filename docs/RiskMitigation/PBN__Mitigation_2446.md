@@ -2,9 +2,8 @@
 
 # __Strengthening ongoing prevention efforts__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of knowledge and attitudes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3459.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Behavioral Interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_529.md)
 * [Strengthen Social Safety Nets](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1836.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Knowledge, attitudes, and practices of Indonesian residents regarding COVID-19: A national cross-sectional survey](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_176.md)
+* [Lack of knowledge and attitudes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3459.md)
 
 ## Property: has_MitigationPrinciple
 
 Identifying gaps in ongoing prevention efforts and strengthening them through improved knowledge and attitudes towards COVID-19
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Knowledge, attitudes, and practices of Indonesian residents regarding COVID-19: A national cross-sectional survey](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_176.md)
 

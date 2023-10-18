@@ -2,9 +2,9 @@
 
 # __Isolate and Test with School Closure__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
+* [testing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3933.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Public education, social distancing, home quarantine, and travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3460.md)
 * [Enhance education access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2928.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Effect of non-pharmaceutical interventions in the early phase of the COVID-19 epidemic in Saudi Arabia](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_84.md)
+* [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
 
 ## Property: has_MitigationPrinciple
 
 Combining isolation, testing, and school closure measures
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [testing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3933.md)
+* [Effect of non-pharmaceutical interventions in the early phase of the COVID-19 epidemic in Saudi Arabia](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_84.md)
 

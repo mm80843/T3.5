@@ -2,6 +2,10 @@
 
 # __community administrators__
 
+## This Stakeholder is identified by the following QID
+
+* [Q16532929](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q16532929.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
@@ -19,15 +23,11 @@
 * [network administrators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1433.md)
 * [Network administrators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1663.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Limited access to essential services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1108.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Community Administrators](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_129.md)
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q16532929](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q16532929.md)
+* [Limited access to essential services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1108.md)
 

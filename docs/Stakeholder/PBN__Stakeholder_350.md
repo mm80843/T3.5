@@ -2,6 +2,10 @@
 
 # __indonesian residents__
 
+## This Stakeholder is identified by the following QID
+
+* [Q4200853](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4200853.md)
+
 ## Closest similar item
 
 * [inhabitants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1015.md)
@@ -30,8 +34,4 @@
 * [Improved Practices](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_870.md)
 * [Gender Equality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_871.md)
 * [Regional Equity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_872.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q4200853](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4200853.md)
 

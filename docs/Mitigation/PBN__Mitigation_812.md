@@ -2,9 +2,8 @@
 
 # __Multiple window opening__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Increased air change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2753.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Clear screens between seats](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_316.md)
 * [Window views, spatial variety and privacy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1594.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The Effect of Opening Windows on Air Change Rates in Two Homes](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_235.md)
+* [Increased air change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2753.md)
 
 ## Property: has_MitigationPrinciple
 
 Opening multiple windows in different rooms or floors of a home further increases air change rates.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [The Effect of Opening Windows on Air Change Rates in Two Homes](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_235.md)
 

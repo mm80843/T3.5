@@ -2,9 +2,10 @@
 
 # __Digital twin__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Resistance to digital adoption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3171.md)
+* [mobile applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1146.md)
+* [nfc technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3956.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Digital Transformation and Telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1287.md)
 * [Online delivery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2201.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Digital Twin of COVID-19 Mass Vaccination Centers](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_47.md)
+* [Resistance to digital adoption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3171.md)
 
 ## Property: has_MitigationPrinciple
 
 Create a virtual model that mirrors the physical system to optimize and manage the vaccination process in real-time
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [mobile applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1146.md)
-* [nfc technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3956.md)
+* [Digital Twin of COVID-19 Mass Vaccination Centers](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_47.md)
 

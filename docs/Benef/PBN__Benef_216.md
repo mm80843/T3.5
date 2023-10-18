@@ -2,10 +2,6 @@
 
 # __Real-time disease monitoring__
 
-## Name of the Benefit
-
-Provides comprehensive and real-time data on the presence of pathogens in a community, allowing for rapid disease monitoring and intervention
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors investing in this surveillance technique could benefit from improved asset value by reducing the impact and spread of infectious diseases in communities, leading to improved public health outcomes and decreased healthcare costs.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_223.md)
@@ -17,4 +13,8 @@ Provides comprehensive and real-time data on the presence of pathogens in a comm
 ## Articles mentionning this Benefit
 
 * [Future perspectives of wastewater-based epidemiology: Monitoring infectious disease spread and resistance to the community level](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_48.md)
+
+## Name of the Benefit
+
+Provides comprehensive and real-time data on the presence of pathogens in a community, allowing for rapid disease monitoring and intervention
 

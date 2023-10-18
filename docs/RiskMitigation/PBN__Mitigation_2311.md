@@ -2,8 +2,9 @@
 
 # __Liquid chlorine__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [chlorine gas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4403.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Wastewater treatment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1220.md)
 * [Sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_682.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Disinfection technology of hospital wastes and wastewater: Suggestions for disinfection strategy during coronavirus Disease 2019 (COVID-19) pandemic in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_191.md)
 
 ## Property: has_MitigationPrinciple
 
 Liquid chlorine disinfection is a technology that uses liquid chlorine to disinfect hospital wastewater. Liquid chlorine is a strong oxidizer that can kill microorganisms in wastewater.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [chlorine gas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4403.md)
+* [Disinfection technology of hospital wastes and wastewater: Suggestions for disinfection strategy during coronavirus Disease 2019 (COVID-19) pandemic in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_191.md)
 

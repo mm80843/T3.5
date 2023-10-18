@@ -2,9 +2,9 @@
 
 # __Digital change__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2415.md)
+* [information and communication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2912.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Digital care processes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1723.md)
 * [Digital twin](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1622.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19: Lessons for an Urban(izing) World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_85.md)
+* [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2415.md)
 
 ## Property: has_MitigationPrinciple
 
 Promoting teleworking and web-based community building can facilitate remote work and reduce the need for physical interaction, minimizing the spread of infections.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [information and communication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2912.md)
+* [COVID-19: Lessons for an Urban(izing) World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_85.md)
 

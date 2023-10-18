@@ -2,10 +2,6 @@
 
 # __Decreased transmission risk__
 
-## Name of the Benefit
-
-Implementing guidelines on funerals reduces the risk of viral transmission
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors investing in spatial planning considerations can benefit from increased asset value of the built environment, as well as improved public health and safety.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_43.md)
@@ -24,4 +20,8 @@ Implementing guidelines on funerals reduces the risk of viral transmission
 * [Public housing and COVID-19: contestation, challenge and change](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_107.md)
 * [Impact of Covid-19 on the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_10.md)
 * [Covid-19 and community mitigation strategies in a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_112.md)
+
+## Name of the Benefit
+
+Implementing guidelines on funerals reduces the risk of viral transmission
 

@@ -2,8 +2,10 @@
 
 # __Robust linear regression__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [iwls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3159.md)
+* [r software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3160.md)
 
 ## Closest similar item
 
@@ -18,16 +20,14 @@
 * [Enhanced surveillance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1068.md)
 * [Resilient Approach](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2186.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Far-UVC light (222 nm) efficiently and safely inactivates airborne human coronaviruses](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_182.md)
 
 ## Property: has_MitigationPrinciple
 
 The regression method is used to analyze the survival of viruses exposed to different doses of far-UVC light and determine the UV inactivation rate constant or susceptibility factor.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [iwls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3159.md)
-* [r software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3160.md)
+* [Far-UVC light (222 nm) efficiently and safely inactivates airborne human coronaviruses](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_182.md)
 

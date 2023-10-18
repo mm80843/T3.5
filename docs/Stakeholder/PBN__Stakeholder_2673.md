@@ -2,6 +2,10 @@
 
 # __environmental researcher__
 
+## This Stakeholder is identified by the following QID
+
+* [Q16529590](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q16529590.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Environmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_13.md)
@@ -22,8 +26,4 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Environmental Management and Research](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_162.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q16529590](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q16529590.md)
 

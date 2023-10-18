@@ -2,6 +2,11 @@
 
 # __Hand sanitizers__
 
+## This Technology belongs to this TechSubgroup
+
+* [Physical Health Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_59.md)
+* [Hygiene and Sanitation Practices and Protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_60.md)
+
 ## Closest similar item
 
 * [Hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2200.md)
@@ -14,11 +19,6 @@
 * [hand sanitizer dispensers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4201.md)
 * [use of alcohol-based hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_505.md)
 * [alcohol-based hand sanitizer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3300.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Physical Health Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_59.md)
-* [Hygiene and Sanitation Practices and Protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_60.md)
 
 ## This Technology belongs to this TechGroup
 

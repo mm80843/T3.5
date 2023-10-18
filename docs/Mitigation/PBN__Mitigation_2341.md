@@ -2,9 +2,8 @@
 
 # __Lockdown enforcement__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Non-compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2666.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Local lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1619.md)
 * [Conditional Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1916.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
+* [Non-compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2666.md)
 
 ## Property: has_MitigationPrinciple
 
 Implementing strict measures to restrict movement and enforce social distancing at a neighbourhood level to control the spread of the virus.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
 

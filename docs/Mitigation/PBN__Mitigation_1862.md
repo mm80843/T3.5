@@ -2,9 +2,9 @@
 
 # __Improved Blood Safety Practices__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Contaminated blood supply](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3272.md)
+* [pathogen reduction technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4117.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Workplace Safety Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1614.md)
 * [Safe Work Practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_630.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Prototype Early Warning Systems for Vector-Borne Diseases in Europe](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_212.md)
+* [Contaminated blood supply](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3272.md)
 
 ## Property: has_MitigationPrinciple
 
 Implementing improved blood safety practices and pathogen reduction technologies can reduce the risk of contamination and transmission of infectious diseases through blood transfusions.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [pathogen reduction technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4117.md)
+* [Prototype Early Warning Systems for Vector-Borne Diseases in Europe](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_212.md)
 

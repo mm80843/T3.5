@@ -2,6 +2,10 @@
 
 # __Hardware resources__
 
+## This Technology belongs to this TechSubgroup
+
+* [Hardware and Devices](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_117.md)
+
 ## Closest similar item
 
 * [Hardware resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2829.md)
@@ -15,15 +19,11 @@
 * [technology devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3579.md)
 * [equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3248.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Hardware and Devices](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_117.md)
+* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
 
 ## This Technology is identified by the following QID
 
 * [Q3966](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3966.md)
-
-## This Technology belongs to this TechGroup
-
-* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
 

@@ -2,9 +2,8 @@
 
 # __Improved health information system__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2599.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Improved health care facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1262.md)
 * [Effective community health extension system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_83.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Effects of temperature and humidity on the spread of COVID-19: A systematic review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_228.md)
+* [Lack of information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2599.md)
 
 ## Property: has_MitigationPrinciple
 
 Developing and implementing an efficient health information system to provide accurate and timely information about the virus, its spread, and prevention measures to the public
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Effects of temperature and humidity on the spread of COVID-19: A systematic review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_228.md)
 

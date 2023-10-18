@@ -2,7 +2,7 @@
 
 # __Self-reported questionnaires__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
 
 ## Closest similar item
@@ -18,14 +18,14 @@
 * [Reporting study conditions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_657.md)
 * [Seroprevalence surveys](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1624.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Knowledge, attitudes, and practices of Indonesian residents regarding COVID-19: A national cross-sectional survey](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_176.md)
 
 ## Property: has_MitigationPrinciple
 
 Collecting data through self-reported questionnaires to gather information on knowledge, attitudes, and practices related to COVID-19
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Knowledge, attitudes, and practices of Indonesian residents regarding COVID-19: A national cross-sectional survey](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_176.md)
 

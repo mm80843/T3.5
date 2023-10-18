@@ -2,6 +2,10 @@
 
 # __Digital platforms__
 
+## This Technology belongs to this TechSubgroup
+
+* [Communication and Connectivity](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_112.md)
+
 ## Closest similar item
 
 * [Digital platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2864.md)
@@ -14,10 +18,6 @@
 * [digital infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3895.md)
 * [platforms and virtual](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1876.md)
 * [digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3890.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Communication and Connectivity](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_112.md)
 
 ## This Technology belongs to this TechGroup
 

@@ -2,6 +2,10 @@
 
 # __Digital contact tracing__
 
+## This Technology belongs to this TechSubgroup
+
+* [Touchless and Remote Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_53.md)
+
 ## Closest similar item
 
 * [Digital contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2867.md)
@@ -15,15 +19,11 @@
 * [Advanced contact tracing and monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2435.md)
 * [contact tracing software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1068.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Touchless and Remote Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_53.md)
+* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
 
 ## This Technology is identified by the following QID
 
 * [Q1128437](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1128437.md)
-
-## This Technology belongs to this TechGroup
-
-* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
 

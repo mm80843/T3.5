@@ -2,8 +2,9 @@
 
 # __Case identification__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [new data and technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4411.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Case-based mapping](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2086.md)
 * [Crime reduction through mobile phone identification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2345.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Response to COVID-19 in Taiwan: Big Data Analytics, New Technology, and Proactive Testing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_24.md)
 
 ## Property: has_MitigationPrinciple
 
 Identifies and quarantines suspicious cases using travel history, QR code scanning, and online reporting of symptoms
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [new data and technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4411.md)
+* [Response to COVID-19 in Taiwan: Big Data Analytics, New Technology, and Proactive Testing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_24.md)
 

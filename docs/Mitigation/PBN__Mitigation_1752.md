@@ -2,8 +2,9 @@
 
 # __Targeted communications__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_568.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Effective Communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1865.md)
 * [Digital communication strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1718.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [A general modeling framework for exploring the impact of individual concern and personal protection on vector-borne disease dynamics](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_217.md)
 
 ## Property: has_MitigationPrinciple
 
 Increasing public awareness about the need for personal protective measures, such as mosquito repellent and protective clothing
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_568.md)
+* [A general modeling framework for exploring the impact of individual concern and personal protection on vector-borne disease dynamics](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_217.md)
 

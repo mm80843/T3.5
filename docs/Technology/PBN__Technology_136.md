@@ -2,19 +2,6 @@
 
 # __personal protective equipment__
 
-## Closest similar item
-
-* [personal protective equipment (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3683.md)
-* [use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_951.md)
-* [Use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2588.md)
-* [use of personal protective equipment in care facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_558.md)
-* [personal protective equipment (ppe)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_819.md)
-* [personal protective equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2179.md)
-* [personal protective equipment (e.g. masks)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3797.md)
-* [personal protective equipment (masks)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3008.md)
-* [use of personal protective equipment in schools and day care facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_555.md)
-* [protective clothing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3337.md)
-
 ## Risks linked to this technology
 
 * [Health risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2014.md)
@@ -32,6 +19,28 @@
 * [Personal Protective Equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_58.md)
 * [Physical Health Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_59.md)
 
+## Closest similar item
+
+* [personal protective equipment (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3683.md)
+* [use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_951.md)
+* [Use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2588.md)
+* [use of personal protective equipment in care facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_558.md)
+* [personal protective equipment (ppe)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_819.md)
+* [personal protective equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2179.md)
+* [personal protective equipment (e.g. masks)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3797.md)
+* [personal protective equipment (masks)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3008.md)
+* [use of personal protective equipment in schools and day care facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_555.md)
+* [protective clothing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3337.md)
+
+## This Technology belongs to this TechGroup
+
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
+* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
+
+## This Technology is identified by the following QID
+
+* [Q1333024](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1333024.md)
+
 ## This Technology enables the following mitigations
 
 * [Implementing social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1125.md)
@@ -40,13 +49,4 @@
 * [Protective Facilities for Healthcare Workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1866.md)
 * [Occupational safety measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1510.md)
 * [Personal Protection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_926.md)
-
-## This Technology is identified by the following QID
-
-* [Q1333024](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1333024.md)
-
-## This Technology belongs to this TechGroup
-
-* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
-* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
 

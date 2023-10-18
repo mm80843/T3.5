@@ -2,9 +2,11 @@
 
 # __Relational Capability__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Limited access to resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1925.md)
+* [network of partners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3591.md)
+* [startup community](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3592.md)
+* [social capital](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3593.md)
 
 ## Closest similar item
 
@@ -19,17 +21,15 @@
 * [Partnerships and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2385.md)
 * [Interdependencies Mapping](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2182.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Startups in times of crisis – A rapid response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_158.md)
+* [Limited access to resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1925.md)
 
 ## Property: has_MitigationPrinciple
 
 Relies on external resources and network support to address challenges and adapt to the crisis.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [network of partners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3591.md)
-* [startup community](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3592.md)
-* [social capital](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3593.md)
+* [Startups in times of crisis – A rapid response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_158.md)
 

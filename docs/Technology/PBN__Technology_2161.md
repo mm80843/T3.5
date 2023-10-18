@@ -2,6 +2,10 @@
 
 # __Social media monitoring__
 
+## This Technology belongs to this TechSubgroup
+
+* [Social Media and Online Platforms Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_38.md)
+
 ## Closest similar item
 
 * [Social media monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2161.md)
@@ -15,15 +19,11 @@
 * [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2457.md)
 * [monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3688.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Social Media and Online Platforms Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_38.md)
+* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
 
 ## This Technology is identified by the following QID
 
 * [Q1140126](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1140126.md)
-
-## This Technology belongs to this TechGroup
-
-* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
 

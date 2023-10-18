@@ -2,9 +2,9 @@
 
 # __Mask prevention__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Misleading content](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3088.md)
+* [face masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_342.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Face Masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1644.md)
 * [Face masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1084.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19 misinformation: Accuracy of articles about coronavirus prevention mostly shared on social media](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_283.md)
+* [Misleading content](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3088.md)
 
 ## Property: has_MitigationPrinciple
 
 Misleading information questioning the effectiveness of wearing masks for coronavirus prevention
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [face masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_342.md)
+* [COVID-19 misinformation: Accuracy of articles about coronavirus prevention mostly shared on social media](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_283.md)
 

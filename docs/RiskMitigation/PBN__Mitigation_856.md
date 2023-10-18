@@ -2,8 +2,9 @@
 
 # __Spearman-Karber Method__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [spearman-karber method](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3499.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Fast analytical test methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_509.md)
 * [Standardization of analytical protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_231.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [A Continuously Active Antimicrobial Coating effective against Human Coronavirus 229E](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_246.md)
 
 ## Property: has_MitigationPrinciple
 
 Calculates viral titers and efficacy of the test substance
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [spearman-karber method](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3499.md)
+* [A Continuously Active Antimicrobial Coating effective against Human Coronavirus 229E](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_246.md)
 

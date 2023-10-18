@@ -2,9 +2,9 @@
 
 # __Video and audio devices__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Safeguard equipment and aid communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2966.md)
+* [video and audio surveillance solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3733.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Video cameras and beam sensors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1131.md)
 * [Telecommunication tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_241.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Emergency Healthcare Facilities: Managing Design in a Post Covid-19 World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_122.md)
+* [Safeguard equipment and aid communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2966.md)
 
 ## Property: has_MitigationPrinciple
 
 Utilize video and audio devices for surveillance, access control, and communication between patients and healthcare professionals
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [video and audio surveillance solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3733.md)
+* [Emergency Healthcare Facilities: Managing Design in a Post Covid-19 World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_122.md)
 

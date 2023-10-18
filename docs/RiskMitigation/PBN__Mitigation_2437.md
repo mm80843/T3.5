@@ -2,8 +2,10 @@
 
 # __Enhanced communication technologies__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [mobile devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4026.md)
+* [internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3058.md)
 
 ## Closest similar item
 
@@ -18,16 +20,14 @@
 * [Effective communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_318.md)
 * [Effective Communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1865.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Urban design attributes and resilience: COVID-19 evidence from New York City](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_6.md)
 
 ## Property: has_MitigationPrinciple
 
 Access to reliable communication technologies allows for effective dissemination of information and guidelines.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [mobile devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4026.md)
-* [internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3058.md)
+* [Urban design attributes and resilience: COVID-19 evidence from New York City](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_6.md)
 

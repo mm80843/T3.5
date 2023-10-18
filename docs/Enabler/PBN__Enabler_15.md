@@ -2,9 +2,13 @@
 
 # __UV/UVGI/Irradation__
 
-## Thees blueprints use this enabler
+## Property: has_TechEquivalent
 
-* [Installing UV in ductwork](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_10.md)
+* [UV/UVGI/Irradation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4540.md)
+
+## Property: has_BP_EnablerTitle
+
+enabler_016
 
 ## Closest similar item
 
@@ -19,11 +23,7 @@
 * [UV irradiation systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_175.md)
 * [uvgi system](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_176.md)
 
-## Property: has_TechEquivalent
+## Thees blueprints use this enabler
 
-* [UV/UVGI/Irradation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4540.md)
-
-## Property: has_BP_EnablerTitle
-
-enabler_016
+* [Installing UV in ductwork](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_10.md)
 

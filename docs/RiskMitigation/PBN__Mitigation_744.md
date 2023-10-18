@@ -2,7 +2,7 @@
 
 # __Lean Construction__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
 
 ## Closest similar item
@@ -18,14 +18,14 @@
 * [Green building design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2415.md)
 * [Push for information-based construction management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_417.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Overcoming the Impact of COVID-19 Using Integrated Project Delivery Model](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_72.md)
 
 ## Property: has_MitigationPrinciple
 
 Remove non-value added processes from construction activities to increase the value of the product or process
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Overcoming the Impact of COVID-19 Using Integrated Project Delivery Model](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_72.md)
 

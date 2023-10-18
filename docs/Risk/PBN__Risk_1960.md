@@ -2,22 +2,25 @@
 
 # __Lack of physical activity__
 
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Description of the risk
+
+Sedentary lifestyles due to indoor living and lack of access to opportunities for physical exercise can increase the risk of chronic diseases
+
 ## Property: has_RiskType
 
 * [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
-## People affected by this risk
+## Articles mentionning the risk
 
-* [employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_220.md)
-* [occupants of buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_917.md)
-
-## Name of the risk
-
-Increased risk of chronic diseases such as heart disease, diabetes, and cancer
-
-## Property: has_RiskISO_Purpose
-
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+* [How Architecture Fails in Conditions of Crisis: a Discussion on the Value of Interior Design over the COVID-19 Outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_34.md)
 
 ## Closest similar item
 
@@ -32,39 +35,36 @@ Increased risk of chronic diseases such as heart disease, diabetes, and cancer
 * [Decreased physical and mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2894.md)
 * [Lack of social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1892.md)
 
-## Description of the risk
+## People affected by this risk
 
-Sedentary lifestyles due to indoor living and lack of access to opportunities for physical exercise can increase the risk of chronic diseases
-
-## Technologies linked to the risk
-
-* [fitness facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1376.md)
-* [promote active transportation options](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1377.md)
-* [provide active workstations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1375.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Mitigations of this risk
-
-* [Incorporate opportunities for physical activity into building design, such as active workstations or fitness facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2571.md)
-
-## Articles mentionning the risk
-
-* [How Architecture Fails in Conditions of Crisis: a Discussion on the Value of Interior Design over the COVID-19 Outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_34.md)
+* [employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_220.md)
+* [occupants of buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_917.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_5.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
 ## Stakeholders who can mitigate this risk
 
 * [architects](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_431.md)
 * [facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
 * [employers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_180.md)
+
+## Name of the risk
+
+Increased risk of chronic diseases such as heart disease, diabetes, and cancer
+
+## Mitigations of this risk
+
+* [Incorporate opportunities for physical activity into building design, such as active workstations or fitness facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2571.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+
+## Technologies linked to the risk
+
+* [fitness facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1376.md)
+* [promote active transportation options](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1377.md)
+* [provide active workstations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1375.md)
 

@@ -2,6 +2,13 @@
 
 # __biodegradable materials__
 
+## Risks linked to this technology
+
+* [Environmental impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_748.md)
+
+## This Technology belongs to this TechSubgroup
+
+
 ## Closest similar item
 
 * [eco-friendly materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2014.md)
@@ -15,18 +22,11 @@
 * [promotion of recyclable materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1769.md)
 * [anti-microbial materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4237.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Environmental impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_748.md)
-
-## This Technology belongs to this TechSubgroup
-
+* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_12.md)
 
 ## This Technology is identified by the following QID
 
 * [Q864214](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q864214.md)
-
-## This Technology belongs to this TechGroup
-
-* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_12.md)
 

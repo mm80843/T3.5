@@ -2,6 +2,11 @@
 
 # __HEPA filters__
 
+## This Technology belongs to this TechSubgroup
+
+* [Air Quality and Filtration Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_76.md)
+* [Filters](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_96.md)
+
 ## Closest similar item
 
 * [HEPA filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2236.md)
@@ -14,11 +19,6 @@
 * [hvac systems with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_772.md)
 * [HVAC systems with HEPA filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2700.md)
 * [high-efficiency particulate air (hepa) filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1692.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Air Quality and Filtration Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_76.md)
-* [Filters](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_96.md)
 
 ## This Technology belongs to this TechGroup
 

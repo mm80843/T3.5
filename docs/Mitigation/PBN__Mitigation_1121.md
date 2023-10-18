@@ -2,9 +2,9 @@
 
 # __Restricting inter-city flights__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
+* [flight data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3673.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Internal travel constraints](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1572.md)
 * [Wuhan city travel ban](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2097.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Association of built environment attributes with the spread of COVID-19 at its initial stage in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_32.md)
+* [Spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
 
 ## Property: has_MitigationPrinciple
 
 Limiting air travel between cities reduces the potential for viral transmission.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [flight data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3673.md)
+* [Association of built environment attributes with the spread of COVID-19 at its initial stage in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_32.md)
 

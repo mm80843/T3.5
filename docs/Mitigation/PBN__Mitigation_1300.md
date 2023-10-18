@@ -2,8 +2,9 @@
 
 # __Modular Construction__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [modular construction techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3772.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Building regulations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_733.md)
 * [Participative design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1205.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Antivirus-built environment: Lessons learned from Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_298.md)
 
 ## Property: has_MitigationPrinciple
 
 Utilize modular construction methods for faster and more efficient construction of emergency facilities during pandemics.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [modular construction techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3772.md)
+* [Antivirus-built environment: Lessons learned from Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_298.md)
 

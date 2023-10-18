@@ -2,6 +2,9 @@
 
 # __Privacy policies__
 
+## This Technology belongs to this TechSubgroup
+
+
 ## Closest similar item
 
 * [Privacy policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2425.md)
@@ -14,9 +17,6 @@
 * [privacy-by-design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1579.md)
 * [regulations on personal data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3964.md)
 * [data policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2970.md)
-
-## This Technology belongs to this TechSubgroup
-
 
 ## This Technology belongs to this TechGroup
 

@@ -2,9 +2,9 @@
 
 # __Outdoor Activities__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Inadequate physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2737.md)
+* [access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3551.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Increased Outdoor Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_142.md)
 * [Incorporation of gardens and outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_783.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Green spaces, especially forest, linked to lower SARS-CoV-2 infection rates: A one-year nationwide study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_130.md)
+* [Inadequate physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2737.md)
 
 ## Property: has_MitigationPrinciple
 
 Encouraging people to leave indoor environments and participate in outdoor activities to reduce infection risk.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3551.md)
+* [Green spaces, especially forest, linked to lower SARS-CoV-2 infection rates: A one-year nationwide study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_130.md)
 

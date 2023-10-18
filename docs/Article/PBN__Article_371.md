@@ -2,10 +2,6 @@
 
 # __The dataset of an international survey on COVID-19 response in facilities management in 2020__
 
-## Year of publication
-
-2020
-
 ## Title of the article
 
 The dataset of an international survey on COVID-19 response in facilities management in 2020
@@ -13,4 +9,8 @@ The dataset of an international survey on COVID-19 response in facilities manage
 ## DOI of the article
 
 10.17632/JTF9D9DYT3.3
+
+## Year of publication
+
+2020
 

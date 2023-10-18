@@ -2,9 +2,10 @@
 
 # __Promote local investment and leadership__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Insufficient local engagement and authority in conservation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3344.md)
+* [community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_51.md)
+* [local funding sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4226.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Including local communities in PCA governance and benefits](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_493.md)
 * [Promoting community voice and ownership](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2266.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Envisioning a resilient future for biodiversity conservation in the wake of the COVID‐19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_221.md)
+* [Insufficient local engagement and authority in conservation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3344.md)
 
 ## Property: has_MitigationPrinciple
 
 Promoting local investment and leadership empowers local communities, enhances their ownership and engagement in conservation efforts, and ensures that decisions and actions are guided by local needs, knowledge, and perspectives.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_51.md)
-* [local funding sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4226.md)
+* [Envisioning a resilient future for biodiversity conservation in the wake of the COVID‐19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_221.md)
 

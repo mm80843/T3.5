@@ -2,8 +2,10 @@
 
 # __Cloud service and database__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [cloud service](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3388.md)
+* [database](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3389.md)
 
 ## Closest similar item
 
@@ -18,16 +20,14 @@
 * [Full data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2337.md)
 * [SQLite database](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1375.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [An Intelligent IEQ Monitoring and Feedback System: Development and Applications](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_62.md)
 
 ## Property: has_MitigationPrinciple
 
 Store IEQ data in a cloud database for easy access, tracking, visualization, and analysis
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [cloud service](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3388.md)
-* [database](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3389.md)
+* [An Intelligent IEQ Monitoring and Feedback System: Development and Applications](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_62.md)
 

@@ -2,9 +2,9 @@
 
 # __Electrical infrastructure__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Support life-saving equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2964.md)
+* [reliable electrical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1046.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Urban Green Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1707.md)
 * [Integration of green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_631.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Emergency Healthcare Facilities: Managing Design in a Post Covid-19 World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_122.md)
+* [Support life-saving equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2964.md)
 
 ## Property: has_MitigationPrinciple
 
 Provide reliable electrical infrastructure to support the function of ICU equipment and life-saving ventilators
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [reliable electrical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1046.md)
+* [Emergency Healthcare Facilities: Managing Design in a Post Covid-19 World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_122.md)
 

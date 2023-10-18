@@ -2,6 +2,14 @@
 
 # __real-time data monitoring__
 
+## Risks linked to this technology
+
+* [Late adoption of NPHIs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1504.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Data Collection and Analysis](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_162.md)
+
 ## Closest similar item
 
 * [real-time monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1708.md)
@@ -15,19 +23,11 @@
 * [real-time information exchange](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3345.md)
 * [data monitoring tools and regular updates](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1966.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Late adoption of NPHIs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1504.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Data Collection and Analysis](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_162.md)
+* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
 
 ## This Technology is identified by the following QID
 
 * [Q7300787](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7300787.md)
-
-## This Technology belongs to this TechGroup
-
-* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
 

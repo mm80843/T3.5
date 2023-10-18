@@ -2,6 +2,10 @@
 
 # __residents__
 
+## This Stakeholder is identified by the following QID
+
+* [Q33829](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q33829.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
@@ -20,13 +24,6 @@
 * [city residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_332.md)
 * [residents of neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_39.md)
 * [resident](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2450.md)
-
-## Risks that can be mitigated by this stakeholder
-
-* [Recontamination of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_865.md)
-* [Inefficacy of liquid disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1510.md)
-* [Contamination of fomites](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1509.md)
-* [Insufficient self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1511.md)
 
 ## Risk affecting this stakeholder
 
@@ -137,7 +134,10 @@
 * [Enhanced cleanliness and hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1303.md)
 * [Improved access to outdoor environments](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1304.md)
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q33829](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q33829.md)
+* [Recontamination of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_865.md)
+* [Inefficacy of liquid disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1510.md)
+* [Contamination of fomites](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1509.md)
+* [Insufficient self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1511.md)
 

@@ -2,8 +2,9 @@
 
 # __Supplementing with ceiling mounted fans__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [ceiling mounted fans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_258.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Improved Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1228.md)
 * [Increase outdoor air flow](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1367.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Upper-room ultraviolet air disinfection might help to reduce COVID-19 transmission in buildings: a feasibility study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_163.md)
 
 ## Property: has_MitigationPrinciple
 
 Promotes air movement and ensures that larger aerosol particles receive the required UV irradiation dose. Supports the effectiveness of upper-room UVGI.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [ceiling mounted fans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_258.md)
+* [Upper-room ultraviolet air disinfection might help to reduce COVID-19 transmission in buildings: a feasibility study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_163.md)
 

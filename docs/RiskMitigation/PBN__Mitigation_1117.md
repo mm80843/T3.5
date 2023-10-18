@@ -2,9 +2,9 @@
 
 # __Inter-sectoral collaboration__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Ineffective resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2935.md)
+* [collaboration across sectors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3668.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Collaboration and convergence research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_663.md)
 * [Collaboration and knowledge sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_901.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Challenges to Mitigating the Urban Health Burden of Mosquito-Borne Diseases in the Face of Climate Change](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_95.md)
+* [Ineffective resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2935.md)
 
 ## Property: has_MitigationPrinciple
 
 Multi-sectoral collaboration is crucial for designing and implementing effective mitigation strategies. Collaborations involving water management, environmental hygiene, urban planning, and housing improvement can optimize resources and co-create resilient strategies to reduce the burden of mosquito-borne diseases in cities.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [collaboration across sectors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3668.md)
+* [Challenges to Mitigating the Urban Health Burden of Mosquito-Borne Diseases in the Face of Climate Change](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_95.md)
 

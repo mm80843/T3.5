@@ -2,6 +2,10 @@
 
 # __Building engineers__
 
+## This Technology belongs to this TechSubgroup
+
+* [Building Systems and Design](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_89.md)
+
 ## Closest similar item
 
 * [Building engineers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2335.md)
@@ -14,10 +18,6 @@
 * [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2658.md)
 * [building management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3395.md)
 * [architectural design and building technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1107.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Building Systems and Design](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_89.md)
 
 ## This Technology belongs to this TechGroup
 

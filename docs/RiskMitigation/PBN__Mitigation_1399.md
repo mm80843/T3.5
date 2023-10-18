@@ -2,9 +2,9 @@
 
 # __AI-based tools for resource-limited settings__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of resources in LMIC](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3047.md)
+* [artificial intelligence and ml](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3840.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [AI-driven tools for running clinical trials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1396.md)
 * [Data intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_58.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Exploring the Potential of Artificial Intelligence and Machine Learning to Combat COVID-19 and Existing Opportunities for LMIC: A Scoping Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_131.md)
+* [Lack of resources in LMIC](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3047.md)
 
 ## Property: has_MitigationPrinciple
 
 AI can ease the burden on resource-limited settings and improve outcomes
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [artificial intelligence and ml](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3840.md)
+* [Exploring the Potential of Artificial Intelligence and Machine Learning to Combat COVID-19 and Existing Opportunities for LMIC: A Scoping Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_131.md)
 

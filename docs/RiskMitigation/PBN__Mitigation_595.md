@@ -2,9 +2,8 @@
 
 # __Restrict mass gatherings__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [High rates of transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2643.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Maintain physical distance, wear masks, practice proper hygiene, and avoid large gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3868.md)
 * [Implement crowd control measures, promote social distancing, expand infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3869.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Covid-19 and community mitigation strategies in a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_112.md)
+* [High rates of transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2643.md)
 
 ## Property: has_MitigationPrinciple
 
 Restricting events and gatherings reduces the chance of transmission of respiratory infections
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Covid-19 and community mitigation strategies in a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_112.md)
 

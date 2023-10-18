@@ -2,8 +2,9 @@
 
 # __Quaternary ammonium polymer coating (SurfaceWise2™)__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [quaternary ammonium polymer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3485.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_840.md)
 * [Disinfection of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1086.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [A Continuously Active Antimicrobial Coating effective against Human Coronavirus 229E](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_246.md)
 
 ## Property: has_MitigationPrinciple
 
 Provides antimicrobial coating on surfaces
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [quaternary ammonium polymer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3485.md)
+* [A Continuously Active Antimicrobial Coating effective against Human Coronavirus 229E](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_246.md)
 

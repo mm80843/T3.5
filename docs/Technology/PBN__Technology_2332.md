@@ -2,6 +2,9 @@
 
 # __Urban planners__
 
+## This Technology belongs to this TechSubgroup
+
+
 ## Closest similar item
 
 * [Urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2332.md)
@@ -14,9 +17,6 @@
 * [Urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2314.md)
 * [urban planning tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1841.md)
 * [urban planning and city management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1106.md)
-
-## This Technology belongs to this TechSubgroup
-
 
 ## This Technology belongs to this TechGroup
 

@@ -2,9 +2,9 @@
 
 # __Evaluation of symptoms__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Symptomatic vs asymptomatic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3176.md)
+* [clinical assessment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3957.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Screening techniques for patient severity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2353.md)
 * [Evaluating control measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1438.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Contributions to the mitigation of the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_245.md)
+* [Symptomatic vs asymptomatic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3176.md)
 
 ## Property: has_MitigationPrinciple
 
 Assesses whether the efficacy of protection against re-infections differs in individuals with and without symptoms during their first infection
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [clinical assessment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3957.md)
+* [Contributions to the mitigation of the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_245.md)
 

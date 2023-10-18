@@ -2,6 +2,15 @@
 
 # __supply chain professionals__
 
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Improved decision-making and preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_20.md)
+* [Enhanced supply chain performance and risk management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_22.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q1824206](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1824206.md)
+
 ## Closest similar item
 
 * [supply chain managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_986.md)
@@ -14,13 +23,4 @@
 * [logistics companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_424.md)
 * [business and industry with localized supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2072.md)
 * [businesses and industries with localized supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1247.md)
-
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Improved decision-making and preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_20.md)
-* [Enhanced supply chain performance and risk management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_22.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q1824206](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1824206.md)
 

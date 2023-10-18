@@ -2,6 +2,10 @@
 
 # __endangered species__
 
+## This Stakeholder is identified by the following QID
+
+* [Q3302867](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3302867.md)
+
 ## Closest similar item
 
 * [wildlife populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1482.md)
@@ -22,8 +26,4 @@
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Environmental protection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_984.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q3302867](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3302867.md)
 

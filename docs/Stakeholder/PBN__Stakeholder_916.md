@@ -2,6 +2,10 @@
 
 # __building owners and facility managers__
 
+## This Stakeholder is identified by the following QID
+
+* [Q1090219](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1090219.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
@@ -20,10 +24,6 @@
 * [facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
 * [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Inefficient systems and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1410.md)
-
 ## Risk affecting this stakeholder
 
 * [Inefficient systems and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1410.md)
@@ -33,7 +33,7 @@
 * [Real Estate and Construction](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_31.md)
 * [Managers/Operators](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_69.md)
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q1090219](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1090219.md)
+* [Inefficient systems and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1410.md)
 

@@ -2,9 +2,8 @@
 
 # __Pedestrian and cycling facilities__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Increased risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2956.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Outdoor activity spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_71.md)
 * [Widening sidewalks and re-designing pedestrian crossings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_786.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Impact of Covid-19 on the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_10.md)
+* [Increased risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2956.md)
 
 ## Property: has_MitigationPrinciple
 
 Providing infrastructure and facilities for pedestrians and cyclists to reduce dependence on motorized vehicles and encourage active modes of transportation, thereby minimizing physical contact.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Impact of Covid-19 on the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_10.md)
 

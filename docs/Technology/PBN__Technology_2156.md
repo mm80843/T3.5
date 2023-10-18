@@ -2,6 +2,11 @@
 
 # __Education and awareness campaigns__
 
+## This Technology belongs to this TechSubgroup
+
+* [Public Education and Awareness Campaigns](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_40.md)
+* [Public Awareness Campaigns and Communication Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_49.md)
+
 ## Closest similar item
 
 * [Education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2156.md)
@@ -15,17 +20,12 @@
 * [Public education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2504.md)
 * [educational campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_251.md)
 
-## This Technology belongs to this TechSubgroup
-
-* [Public Education and Awareness Campaigns](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_40.md)
-* [Public Awareness Campaigns and Communication Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_49.md)
-
-## This Technology is identified by the following QID
-
-* [Q21086751](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q21086751.md)
-
 ## This Technology belongs to this TechGroup
 
 * [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
 * [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
+
+## This Technology is identified by the following QID
+
+* [Q21086751](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q21086751.md)
 

@@ -2,6 +2,10 @@
 
 # __Renewable energy technologies__
 
+## This Technology belongs to this TechSubgroup
+
+* [Energy Management and Efficiency](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_95.md)
+
 ## Closest similar item
 
 * [renewable energy technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_355.md)
@@ -15,15 +19,11 @@
 * [microgrid technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4179.md)
 * [solar energy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4281.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Energy Management and Efficiency](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_95.md)
+* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
 
 ## This Technology is identified by the following QID
 
 * [Q12705](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q12705.md)
-
-## This Technology belongs to this TechGroup
-
-* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
 

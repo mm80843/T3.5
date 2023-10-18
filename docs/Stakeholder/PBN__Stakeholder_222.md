@@ -19,6 +19,34 @@
 * [public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2835.md)
 * [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2729.md)
 
+## Risk affecting this stakeholder
+
+* [Overcrowding in Urban Areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1443.md)
+* [Inefficient contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1500.md)
+* [Water quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_714.md)
+* [Sewage epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1918.md)
+* [Spread through Air Travel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1441.md)
+* [Limited learning from public health crises](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_647.md)
+* [Inadequate surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2052.md)
+* [Lack of effective surveillance and tracking](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1710.md)
+* [Drinking water treatment and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1915.md)
+* [Influence of preprints on public health decisions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2330.md)
+* [Data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1752.md)
+* [Lack of Public Awareness and Education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1445.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Public Health Agencies](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_43.md)
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Early detection and containment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_526.md)
+* [Early identification and isolation of cases](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_721.md)
+* [Enhanced scientific integrity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_857.md)
+* [Improved efficiency of data transfer](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1170.md)
+* [Accurate detection of virus](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1211.md)
+* [Improved strategic management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1402.md)
+
 ## Risks that can be mitigated by this stakeholder
 
 * [Health risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2014.md)
@@ -85,32 +113,4 @@
 * [Perceived severity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1614.md)
 * [Limited access to natural spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2114.md)
 * [Misinformation and ’infodemic’](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1990.md)
-
-## Risk affecting this stakeholder
-
-* [Overcrowding in Urban Areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1443.md)
-* [Inefficient contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1500.md)
-* [Water quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_714.md)
-* [Sewage epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1918.md)
-* [Spread through Air Travel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1441.md)
-* [Limited learning from public health crises](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_647.md)
-* [Inadequate surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2052.md)
-* [Lack of effective surveillance and tracking](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1710.md)
-* [Drinking water treatment and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1915.md)
-* [Influence of preprints on public health decisions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2330.md)
-* [Data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1752.md)
-* [Lack of Public Awareness and Education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1445.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Public Health Agencies](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_43.md)
-
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Early detection and containment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_526.md)
-* [Early identification and isolation of cases](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_721.md)
-* [Enhanced scientific integrity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_857.md)
-* [Improved efficiency of data transfer](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1170.md)
-* [Accurate detection of virus](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1211.md)
-* [Improved strategic management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1402.md)
 

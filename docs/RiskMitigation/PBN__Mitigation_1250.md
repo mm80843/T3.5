@@ -2,9 +2,9 @@
 
 # __5G cellular technology__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Limited infrastructure, cost](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2993.md)
+* [5g technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3767.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Telecommunication tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_241.md)
 * [Mobile healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_16.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [A critical review of emerging technologies for tackling COVID ‐19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_91.md)
+* [Limited infrastructure, cost](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2993.md)
 
 ## Property: has_MitigationPrinciple
 
 Enable high-speed communication and data transfer for real-time monitoring and response
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [5g technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3767.md)
+* [A critical review of emerging technologies for tackling COVID ‐19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_91.md)
 

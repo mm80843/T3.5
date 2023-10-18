@@ -2,8 +2,9 @@
 
 # __Same Room Exposure__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [number of building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4046.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Enhanced sanitation room](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_777.md)
 * [Social distancing between occupants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1346.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [EXPOSED: An occupant exposure model for confined spaces to retrofit crowd models during a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_3.md)
 
 ## Property: has_MitigationPrinciple
 
 Occupant exposure is accounted for when agents are in the same room/compartment. The number of building occupants in each room at each time-step is used to identify occupant exposure.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [number of building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4046.md)
+* [EXPOSED: An occupant exposure model for confined spaces to retrofit crowd models during a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_3.md)
 

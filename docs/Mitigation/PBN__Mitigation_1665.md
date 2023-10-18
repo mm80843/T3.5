@@ -2,9 +2,8 @@
 
 # __Avoid touching face__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Accidental spread of the virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3202.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Hand Hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_463.md)
 * [Wearing Face Masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1378.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [An Automated System to Limit COVID-19 Using Facial Mask Detection in Smart City Network](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_265.md)
+* [Accidental spread of the virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3202.md)
 
 ## Property: has_MitigationPrinciple
 
 Refrain from touching eyes, nose, and mouth to prevent transmission of the virus from contaminated hands
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [An Automated System to Limit COVID-19 Using Facial Mask Detection in Smart City Network](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_265.md)
 

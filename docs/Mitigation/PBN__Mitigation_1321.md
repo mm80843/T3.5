@@ -2,9 +2,10 @@
 
 # __AI-based Diagnosis and Monitoring__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of Historical Data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1098.md)
+* [ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_149.md)
+* [medical imaging techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3792.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Health monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_55.md)
 * [Expert System](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1370.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Pandemic Analytics: How Countries are Leveraging Big Data Analytics and Artificial Intelligence to Fight COVID-19?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_106.md)
+* [Lack of Historical Data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1098.md)
 
 ## Property: has_MitigationPrinciple
 
 Analyzes medical images to aid in rapid and accurate diagnosis of COVID-19 and monitors the progression of the disease for timely intervention.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_149.md)
-* [medical imaging techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3792.md)
+* [Pandemic Analytics: How Countries are Leveraging Big Data Analytics and Artificial Intelligence to Fight COVID-19?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_106.md)
 

@@ -2,6 +2,14 @@
 
 # __the environment__
 
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Achieve Sustainable Development Goals (SDGs)](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_27.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q2249676](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2249676.md)
+
 ## Closest similar item
 
 * [environment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_116.md)
@@ -14,12 +22,4 @@
 * [environmental entities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2672.md)
 * [Environmental entities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2706.md)
 * [ecosystems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_19.md)
-
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Achieve Sustainable Development Goals (SDGs)](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_27.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q2249676](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2249676.md)
 

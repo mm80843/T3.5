@@ -2,6 +2,15 @@
 
 # __face shields__
 
+## Risks linked to this technology
+
+* [Inadequate use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1324.md)
+* [Inadequate personal protective equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1283.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Personal Protective Equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_58.md)
+
 ## Closest similar item
 
 * [shields](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3505.md)
@@ -15,14 +24,13 @@
 * [cloth masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4504.md)
 * [masks (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4503.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Inadequate use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1324.md)
-* [Inadequate personal protective equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1283.md)
+* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology is identified by the following QID
 
-* [Personal Protective Equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_58.md)
+* [Q1018703](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1018703.md)
 
 ## This Technology enables the following mitigations
 
@@ -31,12 +39,4 @@
 * [Personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_535.md)
 * [Personal protective equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_62.md)
 * [PPE usage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2036.md)
-
-## This Technology is identified by the following QID
-
-* [Q1018703](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1018703.md)
-
-## This Technology belongs to this TechGroup
-
-* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
 

@@ -2,6 +2,10 @@
 
 # __Anti-SARS-CoV-2 coatings__
 
+## This Technology belongs to this TechSubgroup
+
+* [Technology and Materials for Protection](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_71.md)
+
 ## Closest similar item
 
 * [Anti-SARS-CoV-2 coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2785.md)
@@ -15,15 +19,11 @@
 * [Antimicrobial coating](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4551.md)
 * [carbon-based coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3856.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Technology and Materials for Protection](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_71.md)
+* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
 
 ## This Technology is identified by the following QID
 
 * [Q82069695](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q82069695.md)
-
-## This Technology belongs to this TechGroup
-
-* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
 

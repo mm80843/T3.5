@@ -2,9 +2,10 @@
 
 # __Testing and tracing__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Contagion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2685.md)
+* [contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
+* [testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_610.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Widespread testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1268.md)
 * [Improved Testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1017.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID19: Small and medium enterprises challenges and responses with creativity, innovation, and entrepreneurship](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_194.md)
+* [Contagion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2685.md)
 
 ## Property: has_MitigationPrinciple
 
 Identifying and isolating infected individuals and their contacts to prevent further spread of contagious diseases.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
-* [testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_610.md)
+* [COVID19: Small and medium enterprises challenges and responses with creativity, innovation, and entrepreneurship](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_194.md)
 

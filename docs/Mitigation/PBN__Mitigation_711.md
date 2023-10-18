@@ -2,9 +2,10 @@
 
 # __Increased Testing and Contact Tracing__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Transmission of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2123.md)
+* [contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
+* [rt-pcr test](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3400.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Contact Tracing Applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1320.md)
 * [Contact Tracing Application](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1929.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Study of COVID-19 pandemic in London (UK) from urban context](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_57.md)
+* [Transmission of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2123.md)
 
 ## Property: has_MitigationPrinciple
 
 Identifying and isolating infected individuals and tracing their contacts to prevent further transmission
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
-* [rt-pcr test](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3400.md)
+* [Study of COVID-19 pandemic in London (UK) from urban context](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_57.md)
 

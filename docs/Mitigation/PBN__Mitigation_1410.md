@@ -2,8 +2,10 @@
 
 # __Indoor plants__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [vertical gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3705.md)
+* [indoor plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1612.md)
 
 ## Closest similar item
 
@@ -18,16 +20,14 @@
 * [indoor biophilic design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3075.md)
 * [Indoor biophilic design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3076.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_282.md)
 
 ## Property: has_MitigationPrinciple
 
 Improve indoor air quality through plant absorption of pollutants, regulate temperature and humidity, and provide a visually pleasing environment that promotes well-being
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [vertical gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3705.md)
-* [indoor plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1612.md)
+* [Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_282.md)
 

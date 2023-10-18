@@ -2,9 +2,9 @@
 
 # __Building Information Model (BIM)__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Efficient design changes and management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2971.md)
+* [digital representation and information exchange](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3738.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [integrated building systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4043.md)
 * [Building design software and modeling tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4044.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Emergency Healthcare Facilities: Managing Design in a Post Covid-19 World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_122.md)
+* [Efficient design changes and management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2971.md)
 
 ## Property: has_MitigationPrinciple
 
 Utilize BIM for design changes, information exchange, and effective management of facilities, including health and safety monitoring of infrastructure
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [digital representation and information exchange](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3738.md)
+* [Emergency Healthcare Facilities: Managing Design in a Post Covid-19 World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_122.md)
 

@@ -2,6 +2,10 @@
 
 # __individuals in deprived areas__
 
+## This Stakeholder is identified by the following QID
+
+* [Q4430231](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4430231.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
@@ -35,8 +39,4 @@
 * [Improved equity in testing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_689.md)
 * [Improved vaccination equity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_692.md)
 * [Equity in preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_694.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q4430231](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4430231.md)
 

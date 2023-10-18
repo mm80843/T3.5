@@ -2,7 +2,7 @@
 
 # __Natural lighting__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
 
 ## Closest similar item
@@ -18,14 +18,14 @@
 * [Incorporation of adaptable lighting solutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2714.md)
 * [Improve living conditions, access to natural light and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2715.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19 Lockdown: Housing Built Environment’s Effects on Mental Health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_254.md)
 
 ## Property: has_MitigationPrinciple
 
 Incorporating natural lighting into indoor spaces can improve mood and productivity, and reduce the risk of depression and other mental health issues.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [COVID-19 Lockdown: Housing Built Environment’s Effects on Mental Health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_254.md)
 

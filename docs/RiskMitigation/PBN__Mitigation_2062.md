@@ -2,8 +2,10 @@
 
 # __Technical infrastructure__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [server infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4221.md)
+* [it resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4220.md)
 
 ## Closest similar item
 
@@ -18,16 +20,14 @@
 * [Care infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_735.md)
 * [Redundancy of Critical Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2178.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Challenges of data sharing in European Covid-19 projects: A learning opportunity for advancing pandemic preparedness and response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_230.md)
 
 ## Property: has_MitigationPrinciple
 
 Provide resources for federated analysis and data sharing
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [server infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4221.md)
-* [it resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4220.md)
+* [Challenges of data sharing in European Covid-19 projects: A learning opportunity for advancing pandemic preparedness and response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_230.md)
 

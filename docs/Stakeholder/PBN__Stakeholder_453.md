@@ -19,11 +19,6 @@
 * [funding agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2021.md)
 * [funding organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2016.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Lack of funding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2354.md)
-* [Corruption in donation process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1241.md)
-
 ## Risk affecting this stakeholder
 
 * [Corruption in donation process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1241.md)
@@ -35,4 +30,9 @@
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Transparency of donation process](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1171.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Lack of funding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2354.md)
+* [Corruption in donation process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1241.md)
 

@@ -2,9 +2,10 @@
 
 # __Monitoring buying behavior and limiting purchases__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Panic buying](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2281.md)
+* [monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_201.md)
+* [data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1069.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Monitoring Traffic Patterns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_918.md)
 * [Continuous Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_716.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
+* [Panic buying](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2281.md)
 
 ## Property: has_MitigationPrinciple
 
 Using data analytics to monitor and detect unusual buying patterns, limiting purchases when necessary to prevent panic buying and ensure fair distribution of essential goods.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_201.md)
-* [data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1069.md)
+* [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
 

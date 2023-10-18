@@ -2,9 +2,10 @@
 
 # __Remote working__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [None](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2827.md)
+* [technology for remote communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3558.md)
+* [such as video conferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3559.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Remote supervision](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_70.md)
 * [Adoption of remote working](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_131.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Impacts of COVID-19 on residential building energy use and performance](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_97.md)
+* [None](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2827.md)
 
 ## Property: has_MitigationPrinciple
 
 By allowing individuals to work from home, the need for travel and physical presence in office buildings is reduced, leading to a lower risk of disease transmission.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [technology for remote communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3558.md)
-* [such as video conferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3559.md)
+* [Impacts of COVID-19 on residential building energy use and performance](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_97.md)
 

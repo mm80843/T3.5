@@ -2,9 +2,9 @@
 
 # __Use of Non-Toxic Cleaning__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [VOC Pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3249.md)
+* [non-toxic cleaning products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4070.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Cleaning and Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1615.md)
 * [Enhanced cleaning and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1279.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [A comprehensive review on indoor air quality monitoring systems for enhanced public health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_281.md)
+* [VOC Pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3249.md)
 
 ## Property: has_MitigationPrinciple
 
 Use non-toxic cleaning products that do not contain volatile organic compounds (VOCs) to reduce the emission of harmful pollutants and improve indoor air quality during cleaning activities.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [non-toxic cleaning products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4070.md)
+* [A comprehensive review on indoor air quality monitoring systems for enhanced public health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_281.md)
 

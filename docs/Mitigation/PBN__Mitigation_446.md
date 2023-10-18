@@ -2,8 +2,10 @@
 
 # __Yoga__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [online yoga classes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3237.md)
+* [yoga mats](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3236.md)
 
 ## Closest similar item
 
@@ -18,16 +20,14 @@
 * [Home exercise programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_77.md)
 * [Promote Physical Activity and Exercise](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1833.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Staying Physically Active During the Quarantine and Self-Isolation Period for Controlling and Mitigating the COVID-19 Pandemic: A Systematic Overview of the Literature](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_181.md)
 
 ## Property: has_MitigationPrinciple
 
 Engaging in yoga practice to improve mental health and well-being.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [online yoga classes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3237.md)
-* [yoga mats](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3236.md)
+* [Staying Physically Active During the Quarantine and Self-Isolation Period for Controlling and Mitigating the COVID-19 Pandemic: A Systematic Overview of the Literature](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_181.md)
 

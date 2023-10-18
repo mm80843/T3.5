@@ -2,6 +2,10 @@
 
 # __Community outreach programs__
 
+## This Technology belongs to this TechSubgroup
+
+* [Emergency Support and Safety](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_67.md)
+
 ## Closest similar item
 
 * [Community outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2190.md)
@@ -15,15 +19,11 @@
 * [Outreach campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2164.md)
 * [community support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_595.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Emergency Support and Safety](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_67.md)
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 
 ## This Technology is identified by the following QID
 
 * [Q11640](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11640.md)
-
-## This Technology belongs to this TechGroup
-
-* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 

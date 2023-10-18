@@ -2,9 +2,10 @@
 
 # __Vaccine production and distribution improvement__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Unequal vaccine access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2907.md)
+* [vaccination campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3624.md)
+* [local vaccine manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3623.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Increased Funding for Vaccine Research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1452.md)
 * [Vaccination programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1013.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19 risks and systemic gaps in Nigeria: resilience building lessons for pandemic and climate change management](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_215.md)
+* [Unequal vaccine access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2907.md)
 
 ## Property: has_MitigationPrinciple
 
 Ensure equitable distribution of vaccines
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [vaccination campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3624.md)
-* [local vaccine manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3623.md)
+* [COVID-19 risks and systemic gaps in Nigeria: resilience building lessons for pandemic and climate change management](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_215.md)
 

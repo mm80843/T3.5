@@ -2,9 +2,9 @@
 
 # __3D-Printed Isolation Wards__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [None](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2827.md)
+* [3d printing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4517.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Use of another isolation hospital](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_798.md)
 * [Better isolating materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_338.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Supporting Technologies for COVID-19 Prevention: Systemized Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_266.md)
+* [None](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2827.md)
 
 ## Property: has_MitigationPrinciple
 
 Creating easily transportable and ecologically protective isolation wards for efficient response to outbreaks.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [3d printing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4517.md)
+* [Supporting Technologies for COVID-19 Prevention: Systemized Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_266.md)
 

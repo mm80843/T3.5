@@ -2,9 +2,9 @@
 
 # __Adjusting schedules to avoid slowdown bottleneck__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Financial crisis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2067.md)
+* [scheduling software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_634.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Timely data transfer](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_568.md)
 * [Optimum occupant presence schedule](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1343.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The Effects of Pandemic on Construction Industry in the UK](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_75.md)
+* [Financial crisis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2067.md)
 
 ## Property: has_MitigationPrinciple
 
 Adapting schedules to prevent slowdown and ensure efficient project completion.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [scheduling software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_634.md)
+* [The Effects of Pandemic on Construction Industry in the UK](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_75.md)
 

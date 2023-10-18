@@ -2,6 +2,10 @@
 
 # __Investments in education and training__
 
+## This Technology belongs to this TechSubgroup
+
+* [Training and Education](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_62.md)
+
 ## Closest similar item
 
 * [Investments in education and training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2401.md)
@@ -15,15 +19,11 @@
 * [occupant education and training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_657.md)
 * [educational programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_839.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Training and Education](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_62.md)
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 
 ## This Technology is identified by the following QID
 
 * [Q59243211](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q59243211.md)
-
-## This Technology belongs to this TechGroup
-
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 

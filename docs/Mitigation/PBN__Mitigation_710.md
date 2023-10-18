@@ -2,12 +2,12 @@
 
 # __Travel Restrictions__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Global Disease Diffusion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3279.md)
-* [Transmission of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2123.md)
-* [Travel-related risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2859.md)
-* [Importation of diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3270.md)
+* [travel policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4040.md)
+* [travel regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4116.md)
+* [travel tracking and monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3583.md)
+* [border control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4041.md)
 
 ## Closest similar item
 
@@ -22,6 +22,17 @@
 * [Imposing travel restrictions, implementing comprehensive screening and testing protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2866.md)
 * [Implementing travel restrictions, screening protocols, and quarantine measures for travelers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2865.md)
 
+## Risks possibly mitigated by this Mitigation
+
+* [Global Disease Diffusion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3279.md)
+* [Transmission of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2123.md)
+* [Travel-related risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2859.md)
+* [Importation of diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3270.md)
+
+## Property: has_MitigationPrinciple
+
+Imposing restrictions on travel and movement to limit the spread of the virus
+
 ## Property: has_MitigationSource
 
 * [Psychological Effects of Home Confinement and Social Distancing Derived from COVID-19 in the General Population—A Systematic Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_126.md)
@@ -31,15 +42,4 @@
 * [The socio-economic implications of the coronavirus pandemic (COVID-19): A review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_135.md)
 * [The impacts of knowledge, risk perception, emotion and information on citizens’ protective behaviors during the outbreak of COVID-19: a cross-sectional study in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_74.md)
 * [Prototype Early Warning Systems for Vector-Borne Diseases in Europe](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_212.md)
-
-## Property: has_MitigationPrinciple
-
-Imposing restrictions on travel and movement to limit the spread of the virus
-
-## This Mitigation is enabled by the following technologies
-
-* [travel policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4040.md)
-* [travel regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4116.md)
-* [travel tracking and monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3583.md)
-* [border control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4041.md)
 

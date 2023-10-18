@@ -19,16 +19,6 @@
 * [conservationists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_935.md)
 * [environmental organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2681.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Environmental degradation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1343.md)
-* [Decline in conservation efforts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1439.md)
-* [Decline in conservation revenue](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2174.md)
-* [Reduction in tourism revenue](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2176.md)
-* [Livelihood and trade disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_774.md)
-* [Increased wildlife exploitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2177.md)
-* [Loss of monitoring and research activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2175.md)
-
 ## Risk affecting this stakeholder
 
 * [Decline in conservation revenue](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2174.md)
@@ -44,4 +34,14 @@
 * [Enhanced local engagement and ownership](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1061.md)
 * [Improved collaboration and cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1062.md)
 * [Rethinking social and economic models](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1064.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Environmental degradation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1343.md)
+* [Decline in conservation efforts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1439.md)
+* [Decline in conservation revenue](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2174.md)
+* [Reduction in tourism revenue](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2176.md)
+* [Livelihood and trade disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_774.md)
+* [Increased wildlife exploitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2177.md)
+* [Loss of monitoring and research activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2175.md)
 

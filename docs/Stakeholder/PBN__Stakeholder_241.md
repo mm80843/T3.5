@@ -2,6 +2,14 @@
 
 # __automobile industry__
 
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Continued production and sales](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_563.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q190117](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q190117.md)
+
 ## Closest similar item
 
 * [vehicle manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_737.md)
@@ -14,12 +22,4 @@
 * [transportation sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1588.md)
 * [industry organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1437.md)
 * [manufacturing companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1152.md)
-
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Continued production and sales](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_563.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q190117](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q190117.md)
 

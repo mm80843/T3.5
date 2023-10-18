@@ -2,6 +2,11 @@
 
 # __society__
 
+## This Stakeholder is identified by the following QID
+
+* [Q8425](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q8425.md)
+* [Q2111379](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2111379.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
@@ -18,10 +23,6 @@
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 * [community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_313.md)
 * [civil society organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_232.md)
-
-## Risks that can be mitigated by this stakeholder
-
-* [Cyber-attacks and disinformation campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2228.md)
 
 ## Risk affecting this stakeholder
 
@@ -53,8 +54,7 @@
 * [Potential return on investment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_928.md)
 * [Economic growth and sustainable development](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_929.md)
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q8425](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q8425.md)
-* [Q2111379](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2111379.md)
+* [Cyber-attacks and disinformation campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2228.md)
 

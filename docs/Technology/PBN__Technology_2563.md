@@ -2,6 +2,10 @@
 
 # __Enhanced cleaning and sanitization protocols__
 
+## This Technology belongs to this TechSubgroup
+
+* [Hygiene and Sanitation Practices and Protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_60.md)
+
 ## Closest similar item
 
 * [Enhanced cleaning and sanitization protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2563.md)
@@ -15,15 +19,11 @@
 * [Enhanced cleaning and safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2582.md)
 * [enhanced cleaning and sanitation protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1180.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Hygiene and Sanitation Practices and Protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_60.md)
+* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
 
 ## This Technology is identified by the following QID
 
 * [Q652289](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q652289.md)
-
-## This Technology belongs to this TechGroup
-
-* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
 

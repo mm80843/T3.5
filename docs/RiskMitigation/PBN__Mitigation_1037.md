@@ -2,9 +2,9 @@
 
 # __Access to Social Capital__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Limited access to resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1925.md)
+* [social capital](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3593.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Enhancing Financial Capital](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1035.md)
 * [Social Network](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1730.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Startups in times of crisis – A rapid response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_158.md)
+* [Limited access to resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1925.md)
 
 ## Property: has_MitigationPrinciple
 
 Leverages social networks and connections to access and mobilize social capital, support, and resources for startups to overcome challenges and adapt to the crisis.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [social capital](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3593.md)
+* [Startups in times of crisis – A rapid response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_158.md)
 

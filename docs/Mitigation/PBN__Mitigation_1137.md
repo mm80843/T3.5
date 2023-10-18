@@ -2,9 +2,10 @@
 
 # __Public education and communication__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Misinformation, panic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2936.md)
+* [public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_102.md)
+* [media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3640.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Communication and Collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1765.md)
 * [Clear and compassionate public communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2325.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Seeing the invisible hand: Underlying effects of COVID-19 on tourists’ behavioral patterns](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_25.md)
+* [Misinformation, panic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2936.md)
 
 ## Property: has_MitigationPrinciple
 
 Provide accurate and timely information to the public to promote understanding and prevent panic
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_102.md)
-* [media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3640.md)
+* [Seeing the invisible hand: Underlying effects of COVID-19 on tourists’ behavioral patterns](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_25.md)
 

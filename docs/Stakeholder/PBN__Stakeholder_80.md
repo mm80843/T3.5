@@ -2,6 +2,10 @@
 
 # __building owners__
 
+## This Stakeholder is identified by the following QID
+
+* [Q811930](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q811930.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
@@ -19,6 +23,74 @@
 * [building owners and occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_143.md)
 * [building manager and owner](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1947.md)
 * [building owner and manager](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2024.md)
+
+## Risk affecting this stakeholder
+
+* [High installation and maintenance costs of green roofs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1687.md)
+* [Cost](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1796.md)
+* [Inadequate thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_342.md)
+* [Poor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_712.md)
+* [Energy Consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1768.md)
+* [Energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_745.md)
+* [Building closures and restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1864.md)
+* [Energy waste](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_826.md)
+* [Increased energy consumption in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2296.md)
+* [Poor drainage and management of water systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1835.md)
+* [Inadequate infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1419.md)
+* [Unauthorized access to data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1235.md)
+* [High energy use during unoccupied periods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1408.md)
+* [Insensitive to variations in viral species](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1176.md)
+* [Insufficient evidence of UV-C effectiveness against SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1172.md)
+* [Vital loads and lighting for safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1411.md)
+* [Contamination of HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1806.md)
+* [Lack of awareness and knowledge about green roofs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1688.md)
+* [Lack of healthcare information in property management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2046.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Real Estate and Construction](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_31.md)
+* [Owners](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_59.md)
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Enhanced resilience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_58.md)
+* [Enhanced computational efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_135.md)
+* [Feasible solution for mega-tall buildings](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_139.md)
+* [Elimination of unknown parameters](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_136.md)
+* [Improved estimation accuracy with constraints handling](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_137.md)
+* [Reduced bias in estimation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_138.md)
+* [Energy efficiency improvement](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1024.md)
+* [Improved acoustic performance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1252.md)
+* [Increased in-service life of buildings](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1253.md)
+* [Improved air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_192.md)
+* [Energy efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_154.md)
+* [Reduced transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_232.md)
+* [Reduced energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_246.md)
+* [Enhanced building performance and comfort](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_297.md)
+* [Enhanced safety and well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_300.md)
+* [Improved indoor air quality and health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_302.md)
+* [Enhanced indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_321.md)
+* [Increased adoption of germicidal UV](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_343.md)
+* [Enhanced airflow](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_464.md)
+* [Reduced contact](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_465.md)
+* [Improved spacing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_466.md)
+* [Adaptability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_467.md)
+* [Improved hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_468.md)
+* [Enhanced privacy](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_469.md)
+* [Energy Demand Monitoring and Adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_536.md)
+* [Accessible and actionable data](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_802.md)
+* [Improved accuracy of energy consumption simulation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_840.md)
+* [Multi-function spaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1072.md)
+* [Increased tenant demand](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1073.md)
+* [Consistency in parking standards](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1076.md)
+* [Improved thermal insulation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1077.md)
+* [Flexible lighting design](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1078.md)
+* [Versatile interior design](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1079.md)
+* [Temporary adaptations](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1080.md)
+* [Incentives for adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1081.md)
+* [Efficient use of space](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1084.md)
+* [Flexibility and adaptability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1408.md)
+* [Improved safety and sustainability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1357.md)
 
 ## Risks that can be mitigated by this stakeholder
 
@@ -172,76 +244,4 @@
 * [Effect of humidity on virus viability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1707.md)
 * [Microbial pollution from botanical filters](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2307.md)
 * [Transmission in closed spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1943.md)
-
-## Risk affecting this stakeholder
-
-* [High installation and maintenance costs of green roofs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1687.md)
-* [Cost](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1796.md)
-* [Inadequate thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_342.md)
-* [Poor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_712.md)
-* [Energy Consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1768.md)
-* [Energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_745.md)
-* [Building closures and restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1864.md)
-* [Energy waste](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_826.md)
-* [Increased energy consumption in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2296.md)
-* [Poor drainage and management of water systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1835.md)
-* [Inadequate infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1419.md)
-* [Unauthorized access to data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1235.md)
-* [High energy use during unoccupied periods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1408.md)
-* [Insensitive to variations in viral species](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1176.md)
-* [Insufficient evidence of UV-C effectiveness against SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1172.md)
-* [Vital loads and lighting for safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1411.md)
-* [Contamination of HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1806.md)
-* [Lack of awareness and knowledge about green roofs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1688.md)
-* [Lack of healthcare information in property management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2046.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Real Estate and Construction](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_31.md)
-* [Owners](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_59.md)
-
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Enhanced resilience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_58.md)
-* [Enhanced computational efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_135.md)
-* [Feasible solution for mega-tall buildings](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_139.md)
-* [Elimination of unknown parameters](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_136.md)
-* [Improved estimation accuracy with constraints handling](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_137.md)
-* [Reduced bias in estimation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_138.md)
-* [Energy efficiency improvement](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1024.md)
-* [Improved acoustic performance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1252.md)
-* [Increased in-service life of buildings](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1253.md)
-* [Improved air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_192.md)
-* [Energy efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_154.md)
-* [Reduced transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_232.md)
-* [Reduced energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_246.md)
-* [Enhanced building performance and comfort](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_297.md)
-* [Enhanced safety and well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_300.md)
-* [Improved indoor air quality and health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_302.md)
-* [Enhanced indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_321.md)
-* [Increased adoption of germicidal UV](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_343.md)
-* [Enhanced airflow](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_464.md)
-* [Reduced contact](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_465.md)
-* [Improved spacing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_466.md)
-* [Adaptability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_467.md)
-* [Improved hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_468.md)
-* [Enhanced privacy](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_469.md)
-* [Energy Demand Monitoring and Adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_536.md)
-* [Accessible and actionable data](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_802.md)
-* [Improved accuracy of energy consumption simulation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_840.md)
-* [Multi-function spaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1072.md)
-* [Increased tenant demand](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1073.md)
-* [Consistency in parking standards](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1076.md)
-* [Improved thermal insulation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1077.md)
-* [Flexible lighting design](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1078.md)
-* [Versatile interior design](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1079.md)
-* [Temporary adaptations](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1080.md)
-* [Incentives for adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1081.md)
-* [Efficient use of space](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1084.md)
-* [Flexibility and adaptability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1408.md)
-* [Improved safety and sustainability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1357.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q811930](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q811930.md)
 

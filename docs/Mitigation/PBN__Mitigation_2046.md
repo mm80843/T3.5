@@ -2,9 +2,8 @@
 
 # __Reducing occupancy density__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Risk of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2469.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Controlling population density](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1265.md)
 * [Adequate green space allocation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2432.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The efficacy of social distance and ventilation effectiveness in preventing COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_125.md)
+* [Risk of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2469.md)
 
 ## Property: has_MitigationPrinciple
 
 Decrease the number of people in a space to reduce the potential for close contact and the spread of respiratory droplets carrying the virus.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [The efficacy of social distance and ventilation effectiveness in preventing COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_125.md)
 

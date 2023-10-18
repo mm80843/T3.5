@@ -2,6 +2,10 @@
 
 # __Vaccine development and improvement technologies__
 
+## This Technology belongs to this TechSubgroup
+
+* [Vaccine Development and Tracking Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_170.md)
+
 ## Closest similar item
 
 * [Vaccine development and improvement technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2608.md)
@@ -15,15 +19,11 @@
 * [Research and development of vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2247.md)
 * [vaccine development and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1604.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Vaccine Development and Tracking Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_170.md)
+* [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_10.md)
 
 ## This Technology is identified by the following QID
 
 * [Q27133094](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q27133094.md)
-
-## This Technology belongs to this TechGroup
-
-* [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_10.md)
 

@@ -2,9 +2,8 @@
 
 # __Eviction moratoria__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Increased eviction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2514.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1113.md)
 * [Phylogenetic analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2396.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Eviction, Health Inequity, and the Spread of COVID-19: Housing Policy as a Primary Pandemic Mitigation Strategy](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_43.md)
+* [Increased eviction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2514.md)
 
 ## Property: has_MitigationPrinciple
 
 Preventing eviction filings during the pandemic can slow the spread of COVID-19 and protect renters
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Eviction, Health Inequity, and the Spread of COVID-19: Housing Policy as a Primary Pandemic Mitigation Strategy](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_43.md)
 

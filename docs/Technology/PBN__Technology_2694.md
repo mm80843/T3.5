@@ -2,6 +2,9 @@
 
 # __Compact design__
 
+## This Technology belongs to this TechSubgroup
+
+
 ## Closest similar item
 
 * [Compact design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2694.md)
@@ -15,14 +18,11 @@
 * [Enhanced structural design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2718.md)
 * [urban design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3430.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
+* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_13.md)
 
 ## This Technology is identified by the following QID
 
 * [Q3400197](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3400197.md)
-
-## This Technology belongs to this TechGroup
-
-* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_13.md)
 

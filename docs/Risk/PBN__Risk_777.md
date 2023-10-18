@@ -2,22 +2,25 @@
 
 # __Food insecurity and poor-quality diets__
 
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Description of the risk
+
+Limited access to fresh produce may lead to increased consumption of processed and less nutritious foods, resulting in poor health outcomes
+
 ## Property: has_RiskType
 
 * [socio-economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_7.md)
 
-## People affected by this risk
+## Articles mentionning the risk
 
-* [families](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_580.md)
-* [children](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_62.md)
-
-## Name of the risk
-
-Increased risk of undernutrition and related health issues
-
-## Property: has_RiskISO_Purpose
-
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+* [COVID-19 pandemic and mitigation strategies: implications for maternal and child health and nutrition](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_222.md)
 
 ## Closest similar item
 
@@ -32,18 +35,24 @@ Increased risk of undernutrition and related health issues
 * [Vulnerable populations facing poverty and hunger](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_517.md)
 * [Impact on food sector](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_482.md)
 
-## Description of the risk
+## People affected by this risk
 
-Limited access to fresh produce may lead to increased consumption of processed and less nutritious foods, resulting in poor health outcomes
+* [families](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_580.md)
+* [children](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_62.md)
 
-## Technologies linked to the risk
+## Property: has_RiskISO_Impact
 
-* [agricultural technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_69.md)
-* [food production and distribution systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_70.md)
+* [Community infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_9.md)
 
-## Property: has_RiskHealth
+## Stakeholders who can mitigate this risk
 
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+* [communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_4.md)
+* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+* [ngos](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_234.md)
+
+## Name of the risk
+
+Increased risk of undernutrition and related health issues
 
 ## Mitigations of this risk
 
@@ -51,21 +60,12 @@ Limited access to fresh produce may lead to increased consumption of processed a
 * [Building resilient food systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1070.md)
 * [Building resilient food systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_81.md)
 
-## Articles mentionning the risk
+## Property: has_RiskISO_Purpose
 
-* [COVID-19 pandemic and mitigation strategies: implications for maternal and child health and nutrition](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_222.md)
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
 
-## Property: has_RiskISO_Impact
+## Technologies linked to the risk
 
-* [Community infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_9.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Stakeholders who can mitigate this risk
-
-* [communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_4.md)
-* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
-* [ngos](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_234.md)
+* [agricultural technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_69.md)
+* [food production and distribution systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_70.md)
 

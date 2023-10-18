@@ -2,10 +2,6 @@
 
 # __Enhanced safety__
 
-## Name of the Benefit
-
-Facilitates social distancing and other precautionary measures for public health
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved employee productivity, reduced risk of shutdowns and increased customer confidence.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1001.md)
@@ -22,4 +18,8 @@ Facilitates social distancing and other precautionary measures for public health
 
 * [Social distancing enhanced automated optimal design of physical spaces in the wake of the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_186.md)
 * [Building Transformation for Precautionary Measures against COVID-19 Pandemic: Case of Off-Street Car Parking of Campuses](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_224.md)
+
+## Name of the Benefit
+
+Facilitates social distancing and other precautionary measures for public health
 

@@ -2,9 +2,9 @@
 
 # __Online shopping for home delivery__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Increased waste](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_842.md)
+* [internet access](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1211.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Caution in receiving deliveries](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1564.md)
 * [Stay-at-home recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1337.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Indirect effects of COVID-19 on the environment](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_238.md)
+* [Increased waste](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_842.md)
 
 ## Property: has_MitigationPrinciple
 
 Increases organic and inorganic waste due to increased demand for online shopping
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [internet access](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1211.md)
+* [Indirect effects of COVID-19 on the environment](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_238.md)
 

@@ -2,9 +2,9 @@
 
 # __Smart PPE__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [None](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2827.md)
+* [smart technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4518.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Use of personal protective equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_538.md)
 * [Providing additional personal protective equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1681.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Supporting Technologies for COVID-19 Prevention: Systemized Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_266.md)
+* [None](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2827.md)
 
 ## Property: has_MitigationPrinciple
 
 Provides additional information and features to enhance protection and convenience, such as translation, purifying, and calls.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [smart technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4518.md)
+* [Supporting Technologies for COVID-19 Prevention: Systemized Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_266.md)
 

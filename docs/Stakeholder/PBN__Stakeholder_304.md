@@ -2,6 +2,10 @@
 
 # __individuals spending time indoors__
 
+## This Stakeholder is identified by the following QID
+
+* [Q1299240](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1299240.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
@@ -29,8 +33,4 @@
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Psychological well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_740.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q1299240](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1299240.md)
 

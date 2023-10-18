@@ -2,9 +2,10 @@
 
 # __Proper cleaning protocols__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Inadequate cleaning of HVAC ductwork and components](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3067.md)
+* [recognized cleaning practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3874.md)
+* [trained cleaning personnel](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3873.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Increased cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_954.md)
 * [Regular cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_540.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Ventilation use in nonmedical settings during COVID-19: Cleaning protocol, maintenance, and recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_104.md)
+* [Inadequate cleaning of HVAC ductwork and components](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3067.md)
 
 ## Property: has_MitigationPrinciple
 
 Following recognized cleaning protocols and utilizing trained cleaning personnel ensures proper cleaning and removal of contaminants from HVAC systems and ductwork
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [recognized cleaning practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3874.md)
-* [trained cleaning personnel](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3873.md)
+* [Ventilation use in nonmedical settings during COVID-19: Cleaning protocol, maintenance, and recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_104.md)
 

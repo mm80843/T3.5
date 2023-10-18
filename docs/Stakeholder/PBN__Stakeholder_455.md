@@ -2,6 +2,10 @@
 
 # __media outlets__
 
+## This Stakeholder is identified by the following QID
+
+* [Q11033](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11033.md)
+
 ## Closest similar item
 
 * [Media outlets](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1842.md)
@@ -15,13 +19,6 @@
 * [reporters](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1839.md)
 * [communication agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_546.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Avoidance of COVID-19 news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1222.md)
-* [Decreased interest in COVID-19 news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1221.md)
-* [Desensitization to COVID-19 news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1223.md)
-* [Pandemic fatigue](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1225.md)
-
 ## Risk affecting this stakeholder
 
 * [Misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1033.md)
@@ -30,7 +27,10 @@
 
 * [Prevention of false information spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1172.md)
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q11033](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11033.md)
+* [Avoidance of COVID-19 news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1222.md)
+* [Decreased interest in COVID-19 news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1221.md)
+* [Desensitization to COVID-19 news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1223.md)
+* [Pandemic fatigue](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1225.md)
 

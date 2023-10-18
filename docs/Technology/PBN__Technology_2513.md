@@ -2,6 +2,10 @@
 
 # __Motion sensors__
 
+## This Technology belongs to this TechSubgroup
+
+* [Surveillance and Tracking Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_21.md)
+
 ## Closest similar item
 
 * [motion sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1723.md)
@@ -14,10 +18,6 @@
 * [wearable sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2949.md)
 * [sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3150.md)
 * [sensor devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3875.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Surveillance and Tracking Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_21.md)
 
 ## This Technology belongs to this TechGroup
 

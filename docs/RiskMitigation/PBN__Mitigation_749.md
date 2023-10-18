@@ -2,8 +2,9 @@
 
 # __BIM (Building Information Modelling)__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [bim software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3425.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Common building spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2230.md)
 * [Compliance with Building Codes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1770.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Overcoming the Impact of COVID-19 Using Integrated Project Delivery Model](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_72.md)
 
 ## Property: has_MitigationPrinciple
 
 Visualize and assess the alternative designs and lifecycle cost of building components
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [bim software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3425.md)
+* [Overcoming the Impact of COVID-19 Using Integrated Project Delivery Model](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_72.md)
 

@@ -2,9 +2,9 @@
 
 # __PPE usage and disposal protocols__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
+* [protocol guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2903.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Providing additional personal protective equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1681.md)
 * [Improved waste disposal](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_769.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Mitigation strategies to fight the COVID-19 pandemic—present, future and beyond](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_200.md)
+* [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
 
 ## Property: has_MitigationPrinciple
 
 Establish guidelines for the proper usage and disposal of personal protective equipment to reduce transmission risk
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [protocol guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2903.md)
+* [Mitigation strategies to fight the COVID-19 pandemic—present, future and beyond](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_200.md)
 

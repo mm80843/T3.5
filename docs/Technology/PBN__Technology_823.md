@@ -2,6 +2,14 @@
 
 # __open data policies__
 
+## Risks linked to this technology
+
+* [Limited accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1534.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Data Sharing and Validation Platforms](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_141.md)
+
 ## Closest similar item
 
 * [data policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2970.md)
@@ -15,23 +23,15 @@
 * [Privacy policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2425.md)
 * [open-access databases](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_786.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Limited accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1534.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Data Sharing and Validation Platforms](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_141.md)
-
-## This Technology enables the following mitigations
-
-* [Strengthened data infrastructure and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1079.md)
+* [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_10.md)
 
 ## This Technology is identified by the following QID
 
 * [Q309901](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q309901.md)
 
-## This Technology belongs to this TechGroup
+## This Technology enables the following mitigations
 
-* [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_10.md)
+* [Strengthened data infrastructure and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1079.md)
 

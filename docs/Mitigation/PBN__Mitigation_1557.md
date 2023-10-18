@@ -2,7 +2,7 @@
 
 # __High throughput in silico screening__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
 
 ## Closest similar item
@@ -18,14 +18,14 @@
 * [Rapid COVID-19 Screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1933.md)
 * [Mass Testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_38.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Nurture to nature via COVID-19, a self-regenerating environmental strategy of environment in global context](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_44.md)
 
 ## Property: has_MitigationPrinciple
 
 In silico screening methods are used to identify potential inhibitors against viral proteins, such as enzymes. This approach helps in the discovery and development of specific drugs or therapies for the treatment of COVID-19, targeting the virus at a molecular level.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Nurture to nature via COVID-19, a self-regenerating environmental strategy of environment in global context](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_44.md)
 

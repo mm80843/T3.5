@@ -2,8 +2,9 @@
 
 # __Electrostatic sprayer__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [electrostatic sprayer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3487.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Room air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1393.md)
 * [Hand sanitizer](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_880.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [A Continuously Active Antimicrobial Coating effective against Human Coronavirus 229E](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_246.md)
 
 ## Property: has_MitigationPrinciple
 
 Applies uniform coating of antimicrobial coating on surfaces
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [electrostatic sprayer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3487.md)
+* [A Continuously Active Antimicrobial Coating effective against Human Coronavirus 229E](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_246.md)
 

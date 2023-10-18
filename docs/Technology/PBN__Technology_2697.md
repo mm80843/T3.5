@@ -2,6 +2,10 @@
 
 # __Environmental control systems__
 
+## This Technology belongs to this TechSubgroup
+
+* [Ventilation Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_77.md)
+
 ## Closest similar item
 
 * [Environmental control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2697.md)
@@ -14,10 +18,6 @@
 * [Environmental monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2533.md)
 * [ecological monitoring and regulation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1672.md)
 * [pollution control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3832.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Ventilation Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_77.md)
 
 ## This Technology belongs to this TechGroup
 

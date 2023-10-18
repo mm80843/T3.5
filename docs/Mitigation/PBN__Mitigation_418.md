@@ -2,9 +2,9 @@
 
 # __Increase in off-site construction and engineering__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Resistance to change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2566.md)
+* [off-site construction methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_375.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Lack of international strategy including built environment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3770.md)
 * [Resistance to new building systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3771.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Revisiting the built environment: 10 potential development changes and paradigm shifts due to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_59.md)
+* [Resistance to change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2566.md)
 
 ## Property: has_MitigationPrinciple
 
 Promote off-site construction methods to reduce construction time and improve innovation, with a focus on modular construction and rapid shelter construction
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [off-site construction methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_375.md)
+* [Revisiting the built environment: 10 potential development changes and paradigm shifts due to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_59.md)
 

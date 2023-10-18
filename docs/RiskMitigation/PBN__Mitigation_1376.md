@@ -2,9 +2,9 @@
 
 # __Geographic Information System (GIS)__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Data accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3042.md)
+* [gis software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3828.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Land-use Planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1859.md)
 * [Public space design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1047.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Risk Diagnosis and Mitigation System of COVID-19 Using Expert System and Web Scraping](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_237.md)
+* [Data accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3042.md)
 
 ## Property: has_MitigationPrinciple
 
 Displays the spread of COVID-19 on a map, categorizing areas based on risk levels and providing relevant information.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [gis software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3828.md)
+* [Risk Diagnosis and Mitigation System of COVID-19 Using Expert System and Web Scraping](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_237.md)
 

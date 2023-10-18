@@ -2,10 +2,6 @@
 
 # __Worker safety__
 
-## Name of the Benefit
-
-Implementing mitigation measures and ensuring worker safety protects the health and well-being of construction workers and prevents the spread of the virus to the public
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can benefit from improved worker safety through reduced absenteeism, better project management, and improved reputation, leading to higher asset value and profitability.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1133.md)
@@ -22,4 +18,8 @@ Implementing mitigation measures and ensuring worker safety protects the health 
 
 * [Covid-19 Associated Risks and Mitigation Strategies relevant for the UK Construction Industry](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_210.md)
 * [Strategies to Mitigate COVID-19 Pandemic Impacts on Health and Safety of Workers in Construction Projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_268.md)
+
+## Name of the Benefit
+
+Implementing mitigation measures and ensuring worker safety protects the health and well-being of construction workers and prevents the spread of the virus to the public
 

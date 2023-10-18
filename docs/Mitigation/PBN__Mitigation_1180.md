@@ -2,8 +2,10 @@
 
 # __Forecasting of virus spread__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_96.md)
+* [predictive analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3710.md)
 
 ## Closest similar item
 
@@ -18,16 +20,14 @@
 * [Deployment of Viral Testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1442.md)
 * [AI-based prediction models for pandemic forecasting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1405.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [A Comprehensive Review of Applications of Internet of Things for Covid-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_35.md)
 
 ## Property: has_MitigationPrinciple
 
 Uses data from IoT devices to predict the spread of the virus, assisting in resource planning, containment strategies, and timely interventions.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_96.md)
-* [predictive analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3710.md)
+* [A Comprehensive Review of Applications of Internet of Things for Covid-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_35.md)
 

@@ -2,9 +2,9 @@
 
 # __Employee support__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Increased stress and anxiety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2810.md)
+* [employee support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3532.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Employee training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1570.md)
 * [Social Support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1726.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The impact of COVID-19 outbreak on United Kingdom infrastructure sector](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_141.md)
+* [Increased stress and anxiety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2810.md)
 
 ## Property: has_MitigationPrinciple
 
 Provides support and resources for employees during challenging times
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [employee support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3532.md)
+* [The impact of COVID-19 outbreak on United Kingdom infrastructure sector](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_141.md)
 

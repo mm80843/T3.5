@@ -2,22 +2,25 @@
 
 # __Financial crisis__
 
+## Property: has_RiskHealth
+
+* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_3.md)
+
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Description of the risk
+
+Construction industry severely impacted by economic downturn
+
 ## Property: has_RiskType
 
 * [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_3.md)
 
-## People affected by this risk
+## Articles mentionning the risk
 
-* [construction companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_181.md)
-* [construction workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_197.md)
-
-## Name of the risk
-
-Job loss, company closures
-
-## Property: has_RiskISO_Purpose
-
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+* [The Effects of Pandemic on Construction Industry in the UK](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_75.md)
 
 ## Closest similar item
 
@@ -32,16 +35,23 @@ Job loss, company closures
 * [Financial Loss](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1578.md)
 * [Financial loss](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2498.md)
 
-## Description of the risk
+## People affected by this risk
 
-Construction industry severely impacted by economic downturn
+* [construction companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_181.md)
+* [construction workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_197.md)
 
-## Technologies linked to the risk
+## Property: has_RiskISO_Impact
 
+* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_8.md)
 
-## Property: has_RiskHealth
+## Stakeholders who can mitigate this risk
 
-* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_3.md)
+* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+* [construction companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_181.md)
+
+## Name of the risk
+
+Job loss, company closures
 
 ## Mitigations of this risk
 
@@ -51,20 +61,10 @@ Construction industry severely impacted by economic downturn
 * [Adjusting schedules to avoid slowdown bottleneck](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1905.md)
 * [Improving office productivity and lowering overhead costs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1906.md)
 
-## Articles mentionning the risk
+## Property: has_RiskISO_Purpose
 
-* [The Effects of Pandemic on Construction Industry in the UK](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_75.md)
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
 
-## Property: has_RiskISO_Impact
+## Technologies linked to the risk
 
-* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_8.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Stakeholders who can mitigate this risk
-
-* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
-* [construction companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_181.md)
 

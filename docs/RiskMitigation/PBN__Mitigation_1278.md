@@ -2,9 +2,8 @@
 
 # __Isolation measures__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Unknown infection status](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3005.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Rapid Isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1016.md)
 * [Isolation Space Design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_143.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Effects of temperature and humidity on the spread of COVID-19: A systematic review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_228.md)
+* [Unknown infection status](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3005.md)
 
 ## Property: has_MitigationPrinciple
 
 Implementing isolation measures in specific buildings or facilities to prevent the spread of the virus among individuals
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Effects of temperature and humidity on the spread of COVID-19: A systematic review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_228.md)
 

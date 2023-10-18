@@ -2,6 +2,15 @@
 
 # __nursing staff__
 
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Psychological well-being of nurses](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_452.md)
+* [Work-life balance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_453.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q69945481](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q69945481.md)
+
 ## Closest similar item
 
 * [nurses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_952.md)
@@ -14,13 +23,4 @@
 * [hospital patients and staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_309.md)
 * [staff of](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1549.md)
 * [non-clinical staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1506.md)
-
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Psychological well-being of nurses](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_452.md)
-* [Work-life balance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_453.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q69945481](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q69945481.md)
 

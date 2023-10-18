@@ -2,9 +2,9 @@
 
 # __Deployment of Viral Testing__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Risk of false negatives or false positives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3070.md)
+* [viral testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3878.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Virus concentration methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_63.md)
 * [Forecasting of virus spread](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1180.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The socio-economic implications of the coronavirus pandemic (COVID-19): A review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_135.md)
+* [Risk of false negatives or false positives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3070.md)
 
 ## Property: has_MitigationPrinciple
 
 Identify individuals who are infected with the virus early to prevent spread
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [viral testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3878.md)
+* [The socio-economic implications of the coronavirus pandemic (COVID-19): A review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_135.md)
 

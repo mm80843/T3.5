@@ -2,9 +2,9 @@
 
 # __AI algorithms for identification of COVID-19 on CT chest__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [False negatives or positives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3043.md)
+* [artificial intelligence and ct imaging data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3841.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Infection tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2245.md)
 * [Coronavirus 229E](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_861.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Exploring the Potential of Artificial Intelligence and Machine Learning to Combat COVID-19 and Existing Opportunities for LMIC: A Scoping Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_131.md)
+* [False negatives or positives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3043.md)
 
 ## Property: has_MitigationPrinciple
 
 AI algorithms can accurately identify COVID-19 on CT chest scans
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [artificial intelligence and ct imaging data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3841.md)
+* [Exploring the Potential of Artificial Intelligence and Machine Learning to Combat COVID-19 and Existing Opportunities for LMIC: A Scoping Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_131.md)
 

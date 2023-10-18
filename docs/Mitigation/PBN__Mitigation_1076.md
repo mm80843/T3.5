@@ -2,9 +2,10 @@
 
 # __Enhanced coordination and cooperation among institutions__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of coordination and communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2908.md)
+* [cross-sector collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3529.md)
+* [data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3625.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Trust and cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1796.md)
 * [Inter-sectoral collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1117.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19 risks and systemic gaps in Nigeria: resilience building lessons for pandemic and climate change management](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_215.md)
+* [Lack of coordination and communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2908.md)
 
 ## Property: has_MitigationPrinciple
 
 Improve preparedness and response to emergencies
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [cross-sector collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3529.md)
-* [data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3625.md)
+* [COVID-19 risks and systemic gaps in Nigeria: resilience building lessons for pandemic and climate change management](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_215.md)
 

@@ -2,8 +2,9 @@
 
 # __Mental and psychological treatment__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1233.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Psychosocial support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1602.md)
 * [Implement Mental Health and Well-being Programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1835.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Significant applications of virtual reality for COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_231.md)
 
 ## Property: has_MitigationPrinciple
 
 Helps in managing psychological disturbances
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1233.md)
+* [Significant applications of virtual reality for COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_231.md)
 

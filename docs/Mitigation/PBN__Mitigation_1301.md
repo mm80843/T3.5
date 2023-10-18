@@ -2,7 +2,7 @@
 
 # __Adaptive Reuse__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
 
 ## Closest similar item
@@ -18,14 +18,14 @@
 * [Adaptable and flexible design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_780.md)
 * [Reuse of ontological terms and models](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1655.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Antivirus-built environment: Lessons learned from Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_298.md)
 
 ## Property: has_MitigationPrinciple
 
 Repurpose existing buildings and spaces for emergency facilities to quickly respond to pandemics and other crises.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Antivirus-built environment: Lessons learned from Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_298.md)
 

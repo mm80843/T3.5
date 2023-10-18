@@ -2,9 +2,10 @@
 
 # __Safe water access and hygiene practices__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Unhealthy household environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_781.md)
+* [community mobilization efforts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2954.md)
+* [infrastructure support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2953.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Encouraging proper sanitation and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_486.md)
 * [Establishing building specific hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1842.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19 pandemic and mitigation strategies: implications for maternal and child health and nutrition](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_222.md)
+* [Unhealthy household environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_781.md)
 
 ## Property: has_MitigationPrinciple
 
 Promote safe water access, appropriate sanitation, and hygiene practices to prevent the spread of infectious diseases and improve health outcomes.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [community mobilization efforts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2954.md)
-* [infrastructure support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2953.md)
+* [COVID-19 pandemic and mitigation strategies: implications for maternal and child health and nutrition](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_222.md)
 

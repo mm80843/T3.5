@@ -2,22 +2,24 @@
 
 # __Economic strain__
 
+## Property: has_RiskHealth
+
+
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Description of the risk
+
+Economic strain on healthcare systems and society as a whole.
+
 ## Property: has_RiskType
 
 * [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_3.md)
 
-## People affected by this risk
+## Articles mentionning the risk
 
-* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
-* [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
-
-## Name of the risk
-
-Reduced resources, financial difficulties, increased unemployment, and loss of livelihoods.
-
-## Property: has_RiskISO_Purpose
-
-* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_10.md)
+* [COVID-19: A new digital dawn?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_93.md)
 
 ## Closest similar item
 
@@ -32,37 +34,35 @@ Reduced resources, financial difficulties, increased unemployment, and loss of l
 * [Displacement and strain on resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3309.md)
 * [Economic impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_961.md)
 
-## Description of the risk
+## People affected by this risk
 
-Economic strain on healthcare systems and society as a whole.
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+* [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
 
-## Technologies linked to the risk
+## Property: has_RiskISO_Impact
 
-* [financial support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_44.md)
-* [government funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1430.md)
+* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_8.md)
 
-## Property: has_RiskHealth
+## Stakeholders who can mitigate this risk
 
+* [financial institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_405.md)
+* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+
+## Name of the risk
+
+Reduced resources, financial difficulties, increased unemployment, and loss of livelihoods.
 
 ## Mitigations of this risk
 
 * [Government support for healthcare systems, financial assistance programs, stimulus packages.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2602.md)
 * [Cash transfers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_45.md)
 
-## Articles mentionning the risk
+## Property: has_RiskISO_Purpose
 
-* [COVID-19: A new digital dawn?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_93.md)
+* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_10.md)
 
-## Property: has_RiskISO_Impact
+## Technologies linked to the risk
 
-* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_8.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Stakeholders who can mitigate this risk
-
-* [financial institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_405.md)
-* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+* [financial support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_44.md)
+* [government funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1430.md)
 

@@ -2,9 +2,10 @@
 
 # __Virus concentration methods__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Low recovery of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2425.md)
+* [electronegative membranes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2945.md)
+* [centrifugal filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2946.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Predictive Forecasting of Virus Spread](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1937.md)
 * [Testing for the virus](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_896.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [First confirmed detection of SARS-CoV-2 in untreated wastewater in Australia: A proof of concept for the wastewater surveillance of COVID-19 in the community](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_205.md)
+* [Low recovery of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2425.md)
 
 ## Property: has_MitigationPrinciple
 
 Ensuring effective recovery of enveloped viruses such as SARS-CoV-2 from wastewater matrices
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [electronegative membranes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2945.md)
-* [centrifugal filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2946.md)
+* [First confirmed detection of SARS-CoV-2 in untreated wastewater in Australia: A proof of concept for the wastewater surveillance of COVID-19 in the community](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_205.md)
 

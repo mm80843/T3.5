@@ -2,6 +2,10 @@
 
 # __Touch-free technologies__
 
+## This Technology belongs to this TechSubgroup
+
+* [Contact Tracing and Control](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_69.md)
+
 ## Closest similar item
 
 * [Touch-free technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2571.md)
@@ -15,15 +19,11 @@
 * [contactless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1837.md)
 * [contactless technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1556.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Contact Tracing and Control](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_69.md)
+* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
 
 ## This Technology is identified by the following QID
 
 * [Q619500](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q619500.md)
-
-## This Technology belongs to this TechGroup
-
-* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
 

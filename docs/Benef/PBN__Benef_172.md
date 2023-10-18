@@ -2,10 +2,6 @@
 
 # __Reduced stress and satisfaction__
 
-## Name of the Benefit
-
-Good acoustic design reduces noise levels, lowers stress levels, and increases occupant satisfaction.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Occupants experience less stress due to noise levels, leading to increased well-being and job satisfaction.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_176.md)
@@ -17,4 +13,8 @@ Good acoustic design reduces noise levels, lowers stress levels, and increases o
 ## Articles mentionning this Benefit
 
 * [Ten questions concerning occupant health in buildings during normal operations and extreme events including the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_38.md)
+
+## Name of the Benefit
+
+Good acoustic design reduces noise levels, lowers stress levels, and increases occupant satisfaction.
 

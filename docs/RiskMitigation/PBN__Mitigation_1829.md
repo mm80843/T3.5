@@ -2,9 +2,9 @@
 
 # __Climate change mitigation__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Impact of climate change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3264.md)
+* [carbon reduction technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4095.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Deforestation reduction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_579.md)
 * [Control environmental conditions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_974.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_58.md)
+* [Impact of climate change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3264.md)
 
 ## Property: has_MitigationPrinciple
 
 Reduce greenhouse gas emissions and mitigate climate change
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [carbon reduction technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4095.md)
+* [COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_58.md)
 

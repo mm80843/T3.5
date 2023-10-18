@@ -2,10 +2,6 @@
 
 # __Reduction in stress and psychological distress__
 
-## Name of the Benefit
-
-Provision of support and resources can help alleviate stress, anxiety, and depression among healthcare professionals, leading to better healthcare outcomes and overall well-being.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors investing in psychosocial support for healthcare professionals can benefit from increased productivity, reduced healthcare costs, and improved reputational value, attracting and retaining top talent.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1268.md)
@@ -17,4 +13,8 @@ Provision of support and resources can help alleviate stress, anxiety, and depre
 ## Articles mentionning this Benefit
 
 * [COVID-19: The forgotten priorities of the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_236.md)
+
+## Name of the Benefit
+
+Provision of support and resources can help alleviate stress, anxiety, and depression among healthcare professionals, leading to better healthcare outcomes and overall well-being.
 

@@ -2,6 +2,10 @@
 
 # __Insulation materials__
 
+## This Technology belongs to this TechSubgroup
+
+* [Green and Biodegradable Materials](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_165.md)
+
 ## Closest similar item
 
 * [Insulation materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2677.md)
@@ -14,10 +18,6 @@
 * [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2658.md)
 * [suitable materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3267.md)
 * [physical barrier materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4099.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Green and Biodegradable Materials](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_165.md)
 
 ## This Technology belongs to this TechGroup
 

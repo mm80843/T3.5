@@ -2,8 +2,9 @@
 
 # __Medication delivery through blockchain__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_211.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Drug modelling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_57.md)
 * [Blockchain for data security](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1247.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Digital technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_278.md)
 
 ## Property: has_MitigationPrinciple
 
 Utilizing blockchain technology to ensure timely and accurate delivery of medications to patients' doorsteps, minimizing physical contact and reducing the risk of transmission.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_211.md)
+* [Digital technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_278.md)
 

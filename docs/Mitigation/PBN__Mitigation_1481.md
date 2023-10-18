@@ -2,9 +2,8 @@
 
 # __Waste management in demolition__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Construction and demolition waste provides breeding sites](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3096.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Safe management of domestic waste](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2458.md)
 * [Urgent and essential waste management as a service](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2459.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Decision Making within the Built Environment as a Strategy for Mitigating the Risk of Malaria and Other Vector-Borne Diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_272.md)
+* [Construction and demolition waste provides breeding sites](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3096.md)
 
 ## Property: has_MitigationPrinciple
 
 Promote circular economy practices to manage construction waste and reduce breeding sites
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Decision Making within the Built Environment as a Strategy for Mitigating the Risk of Malaria and Other Vector-Borne Diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_272.md)
 

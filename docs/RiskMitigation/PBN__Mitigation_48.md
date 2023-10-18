@@ -2,9 +2,9 @@
 
 # __Telehealth services__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Limited access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_122.md)
+* [telecommunication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2925.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2572.md)
 * [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_147.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19 and the rise of intimate partner violence](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_8.md)
+* [Limited access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_122.md)
 
 ## Property: has_MitigationPrinciple
 
 Telehealth services can provide individuals with remote access to healthcare professionals and support for victims of intimate partner violence.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [telecommunication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2925.md)
+* [COVID-19 and the rise of intimate partner violence](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_8.md)
 

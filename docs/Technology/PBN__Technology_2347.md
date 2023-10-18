@@ -2,6 +2,11 @@
 
 # __Supply chain management software__
 
+## This Technology belongs to this TechSubgroup
+
+* [Data Management and Communication Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_18.md)
+* [Software and Applications](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_122.md)
+
 ## Closest similar item
 
 * [Supply chain management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2347.md)
@@ -15,17 +20,12 @@
 * [Supply chain management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2388.md)
 * [supply chain management platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_817.md)
 
-## This Technology belongs to this TechSubgroup
-
-* [Data Management and Communication Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_18.md)
-* [Software and Applications](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_122.md)
-
-## This Technology is identified by the following QID
-
-* [Q492886](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q492886.md)
-
 ## This Technology belongs to this TechGroup
 
 * [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 * [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
+
+## This Technology is identified by the following QID
+
+* [Q492886](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q492886.md)
 

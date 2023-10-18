@@ -2,9 +2,10 @@
 
 # __Crowdsourced Smartphone Data__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
+* [smartphone technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3183.md)
+* [crowdsourcing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3182.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Mobile phone tracking for contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2343.md)
 * [Crime reduction through mobile phone identification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2345.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID19-Routes: A Safe Pedestrian Navigation Service](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_201.md)
+* [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
 
 ## Property: has_MitigationPrinciple
 
 Identifying alterations in sleep patterns as an indicator of mental state
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [smartphone technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3183.md)
-* [crowdsourcing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3182.md)
+* [COVID19-Routes: A Safe Pedestrian Navigation Service](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_201.md)
 

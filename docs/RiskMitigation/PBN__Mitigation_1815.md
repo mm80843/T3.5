@@ -2,8 +2,10 @@
 
 # __Automated face recognition__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [facial recognition systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1357.md)
+* [ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
 
 ## Closest similar item
 
@@ -18,16 +20,14 @@
 * [Face Coverings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1060.md)
 * [Face Mask](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1969.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Recently employed engineering techniques to reduce the spread of COVID-19 (corona virus disease 2019): a review study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_79.md)
 
 ## Property: has_MitigationPrinciple
 
 Face recognition technology can be used to track individuals who may be infected with COVID-19. By integrating with other technologies like AI and machine learning, facial recognition systems can identify and track potential cases, determine their contacts, and manage their movements. This helps in contact tracing, enforcing social distancing, and ensuring compliance with mask-wearing measures. It also allows for targeted interventions and containment strategies to limit the spread of the virus.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [facial recognition systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1357.md)
-* [ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
+* [Recently employed engineering techniques to reduce the spread of COVID-19 (corona virus disease 2019): a review study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_79.md)
 

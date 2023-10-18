@@ -2,8 +2,9 @@
 
 # __Global Positioning System (GPS)__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [gps technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3164.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Wi-Fi-based tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1696.md)
 * [Global Containment Strategy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_36.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Wearable technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_195.md)
 
 ## Property: has_MitigationPrinciple
 
 Used for contact tracing and notifying individuals of potential virus exposure and infection based on location data.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [gps technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3164.md)
+* [Wearable technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_195.md)
 

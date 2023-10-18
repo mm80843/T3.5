@@ -2,6 +2,10 @@
 
 # __Smart home technologies__
 
+## This Technology belongs to this TechSubgroup
+
+* [Internet of Things (IoT) and Smart Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_94.md)
+
 ## Closest similar item
 
 * [Smart home technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2850.md)
@@ -15,15 +19,11 @@
 * [Smart devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2839.md)
 * [smart systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3256.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Internet of Things (IoT) and Smart Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_94.md)
+* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
 
 ## This Technology is identified by the following QID
 
 * [Q64865818](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q64865818.md)
-
-## This Technology belongs to this TechGroup
-
-* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
 

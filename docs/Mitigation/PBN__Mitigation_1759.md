@@ -2,9 +2,10 @@
 
 # __Adequate Ventilation__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Negative consequences on indoor climate](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3243.md)
+* [ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3132.md)
+* [hvac system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3190.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Improvement of ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_530.md)
 * [Maintaining optimum ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1848.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The effect of a redesigned floor plan, occupant density and the quality of indoor climate on the cost of space, productivity and sick leave in an office building–A case study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_223.md)
+* [Negative consequences on indoor climate](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3243.md)
 
 ## Property: has_MitigationPrinciple
 
 Adequate ventilation is necessary to maintain a good indoor climate, to reduce contamination and heat loads, and to avoid negative impacts on health and productivity
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3132.md)
-* [hvac system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3190.md)
+* [The effect of a redesigned floor plan, occupant density and the quality of indoor climate on the cost of space, productivity and sick leave in an office building–A case study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_223.md)
 

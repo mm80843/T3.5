@@ -2,10 +2,13 @@
 
 # __Social Networks__
 
-## Thees blueprints use this enabler
+## Property: has_TechEquivalent
 
-* [Resilience in staffing and skills training](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_12.md)
-* [Good hand hygiene practice](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_14.md)
+* [Social Networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4545.md)
+
+## Property: has_BP_EnablerTitle
+
+enabler_021
 
 ## Closest similar item
 
@@ -20,11 +23,8 @@
 * [social media algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_220.md)
 * [social media groups](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_221.md)
 
-## Property: has_TechEquivalent
+## Thees blueprints use this enabler
 
-* [Social Networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4545.md)
-
-## Property: has_BP_EnablerTitle
-
-enabler_021
+* [Resilience in staffing and skills training](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_12.md)
+* [Good hand hygiene practice](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_14.md)
 

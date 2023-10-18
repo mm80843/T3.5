@@ -2,9 +2,9 @@
 
 # __Global Response__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of global response to climate change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2691.md)
+* [international collaboration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3381.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [International Cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_688.md)
 * [Demand Response Programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_379.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [What our response to the COVID-19 pandemic tells us of our capacity to respond to climate change](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_257.md)
+* [Lack of global response to climate change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2691.md)
 
 ## Property: has_MitigationPrinciple
 
 Advocate for coordinated global action and collaboration to address climate change at a broader scale
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [international collaboration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3381.md)
+* [What our response to the COVID-19 pandemic tells us of our capacity to respond to climate change](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_257.md)
 

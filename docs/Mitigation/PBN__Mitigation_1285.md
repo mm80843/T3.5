@@ -2,7 +2,7 @@
 
 # __Sanitary Reform__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
 
 ## Closest similar item
@@ -18,14 +18,14 @@
 * [Increased hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1008.md)
 * [Increased Hygiene Practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1712.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Antivirus-built environment: Lessons learned from Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_298.md)
 
 ## Property: has_MitigationPrinciple
 
 Develop water and sewage systems to fight pathogens and improve hygiene.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Antivirus-built environment: Lessons learned from Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_298.md)
 

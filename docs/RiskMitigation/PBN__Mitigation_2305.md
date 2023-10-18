@@ -2,8 +2,12 @@
 
 # __Dynamic botanical air filtration system__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [plant roots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4397.md)
+* [activated carbon](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1891.md)
+* [water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3087.md)
+* [microorganisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4395.md)
 
 ## Closest similar item
 
@@ -18,18 +22,14 @@
 * [Improve indoor air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_980.md)
 * [Air Filtration and Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_465.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Characterization and performance evaluation of a full-scale activated carbon-based dynamic botanical air filtration system for improving indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_71.md)
 
 ## Property: has_MitigationPrinciple
 
 Adsorbing, absorbing, and degrading VOCs using activated carbon, water, and microorganisms in the roots of plants
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [plant roots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4397.md)
-* [activated carbon](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1891.md)
-* [water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3087.md)
-* [microorganisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4395.md)
+* [Characterization and performance evaluation of a full-scale activated carbon-based dynamic botanical air filtration system for improving indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_71.md)
 

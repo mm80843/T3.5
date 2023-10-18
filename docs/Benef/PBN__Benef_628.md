@@ -2,10 +2,6 @@
 
 # __Resilient and sustainable supply chains__
 
-## Name of the Benefit
-
-Localised manufacturing reduces dependence on global supply chains, enhances supply chain resilience, ensures availability of essential goods during crises, and creates more sustainable jobs.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can benefit from investment opportunities in domestic manufacturing and supply chain development, as well as from increased consumer demand for locally-produced goods.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_671.md)
@@ -18,4 +14,8 @@ Localised manufacturing reduces dependence on global supply chains, enhances sup
 ## Articles mentionning this Benefit
 
 * [The COVID-19 pandemic: Lessons on building more equal and sustainable societies](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_124.md)
+
+## Name of the Benefit
+
+Localised manufacturing reduces dependence on global supply chains, enhances supply chain resilience, ensures availability of essential goods during crises, and creates more sustainable jobs.
 

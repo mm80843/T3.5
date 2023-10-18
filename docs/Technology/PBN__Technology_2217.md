@@ -2,6 +2,10 @@
 
 # __Mobile apps for green space access__
 
+## This Technology belongs to this TechSubgroup
+
+* [Digital Platforms and Apps](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_54.md)
+
 ## Closest similar item
 
 * [Mobile apps for green space access](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2217.md)
@@ -15,15 +19,11 @@
 * [smartphone app](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4163.md)
 * [mobile phone application](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4443.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Digital Platforms and Apps](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_54.md)
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 
 ## This Technology is identified by the following QID
 
 * [Q620615](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q620615.md)
-
-## This Technology belongs to this TechGroup
-
-* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 

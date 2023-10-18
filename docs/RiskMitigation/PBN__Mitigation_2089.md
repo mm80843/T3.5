@@ -2,9 +2,9 @@
 
 # __Portable Air Filters__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
+* [high-efficiency particulate air (hepa) filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1692.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Portable Air Conditioners](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1965.md)
 * [Air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1745.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Real-world data show that filters clean COVID-causing virus from air](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_155.md)
+* [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
 
 ## Property: has_MitigationPrinciple
 
 Use of air filters effectively removes SARS-CoV-2 particles from the air in hospital wards, reducing the risk of patients and medical staff contracting the virus.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [high-efficiency particulate air (hepa) filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1692.md)
+* [Real-world data show that filters clean COVID-causing virus from air](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_155.md)
 

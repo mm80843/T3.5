@@ -2,7 +2,7 @@
 
 # __Improved hygiene__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
 
 ## Closest similar item
@@ -18,14 +18,14 @@
 * [Environmental hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1115.md)
 * [Enhanced cleaning and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1279.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Local response in health emergencies: key considerations for addressing the COVID-19 pandemic in informal urban settlements](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_36.md)
 
 ## Property: has_MitigationPrinciple
 
 Promote proper hygiene practices, such as frequent handwashing, to reduce the spread of COVID-19.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Local response in health emergencies: key considerations for addressing the COVID-19 pandemic in informal urban settlements](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_36.md)
 

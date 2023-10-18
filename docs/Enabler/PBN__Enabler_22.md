@@ -2,9 +2,13 @@
 
 # __Augmented / Virtual Reality__
 
-## Thees blueprints use this enabler
+## Property: has_TechEquivalent
 
-* [Resilience in staffing and skills training](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_12.md)
+* [Augmented / Virtual Reality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4547.md)
+
+## Property: has_BP_EnablerTitle
+
+enabler_023
 
 ## Closest similar item
 
@@ -19,11 +23,7 @@
 * [computer vision](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_240.md)
 * [virtual learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_241.md)
 
-## Property: has_TechEquivalent
+## Thees blueprints use this enabler
 
-* [Augmented / Virtual Reality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4547.md)
-
-## Property: has_BP_EnablerTitle
-
-enabler_023
+* [Resilience in staffing and skills training](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_12.md)
 

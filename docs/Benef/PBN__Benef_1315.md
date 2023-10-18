@@ -2,10 +2,6 @@
 
 # __Better sleep quality__
 
-## Name of the Benefit
-
-Designing bedrooms with lower window-to-wall ratios, operable windows, and the ability to control darkness promotes restful sleep and regulates circadian rhythm.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved sleep quality can lead to better health, increased productivity, and reduced healthcare costs.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1486.md)
@@ -17,4 +13,8 @@ Designing bedrooms with lower window-to-wall ratios, operable windows, and the a
 ## Articles mentionning this Benefit
 
 * [How our homes impact our health: using a COVID-19 informed approach to examine urban apartment housing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_279.md)
+
+## Name of the Benefit
+
+Designing bedrooms with lower window-to-wall ratios, operable windows, and the ability to control darkness promotes restful sleep and regulates circadian rhythm.
 

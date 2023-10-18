@@ -2,9 +2,10 @@
 
 # __Remote Monitoring of Infected Patients__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Data Security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2471.md)
+* [iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
+* [tele-devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4147.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Monitoring quarantined individuals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1177.md)
 * [Improved recovery of infected patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1883.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Internet of things (IoT) applications to fight against COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_295.md)
+* [Data Security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2471.md)
 
 ## Property: has_MitigationPrinciple
 
 Monitors and provides healthcare services remotely to infected patients
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
-* [tele-devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4147.md)
+* [Internet of things (IoT) applications to fight against COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_295.md)
 

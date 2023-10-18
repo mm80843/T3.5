@@ -2,8 +2,9 @@
 
 # __Essential Oils__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [essential oils](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3111.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Humidification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1045.md)
 * [Products](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1790.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Methods for air cleaning and protection of building occupants from airborne pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_240.md)
 
 ## Property: has_MitigationPrinciple
 
 Utilizing the germicidal effect of essential oils to eliminate pathogens in the air, potentially reducing the risk of infections
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [essential oils](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3111.md)
+* [Methods for air cleaning and protection of building occupants from airborne pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_240.md)
 

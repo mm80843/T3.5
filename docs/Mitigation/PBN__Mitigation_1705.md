@@ -2,8 +2,10 @@
 
 # __Working from Home__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [telecommunication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3060.md)
+* [internet connection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4022.md)
 
 ## Closest similar item
 
@@ -18,16 +20,14 @@
 * [Remote work/telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1551.md)
 * [Telecommuting/remote work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1011.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Urban Green Infrastructure and Green Open Spaces: An Issue of Social Fairness in Times of COVID-19 Crisis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_83.md)
 
 ## Property: has_MitigationPrinciple
 
 Working remotely minimizes interpersonal contact and reduces the risk of transmission in workplaces.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [telecommunication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3060.md)
-* [internet connection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4022.md)
+* [Urban Green Infrastructure and Green Open Spaces: An Issue of Social Fairness in Times of COVID-19 Crisis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_83.md)
 

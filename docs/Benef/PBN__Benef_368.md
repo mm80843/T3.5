@@ -2,10 +2,6 @@
 
 # __Increased productivity__
 
-## Name of the Benefit
-
-Offsite construction can help solve issues of labour shortages, low productivity, and social distancing, leading to increased productivity.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved project performance, reduced schedule variance, increased asset value](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_395.md)
@@ -30,4 +26,8 @@ Offsite construction can help solve issues of labour shortages, low productivity
 * [Overcoming the Impact of COVID-19 Using Integrated Project Delivery Model](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_72.md)
 * [El impacto del teletrabajo en tiempos del COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_108.md)
 * [The Impact of Pandemic Crisis on the Survival of Construction Industry: A Case of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_168.md)
+
+## Name of the Benefit
+
+Offsite construction can help solve issues of labour shortages, low productivity, and social distancing, leading to increased productivity.
 

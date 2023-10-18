@@ -2,13 +2,13 @@
 
 # __BigData__
 
-## Thees blueprints use this enabler
+## Property: has_TechEquivalent
 
-* [Adapted architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_2.md)
-* [Antimicrobial Surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_5.md)
-* [Tender support at building stage](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_9.md)
-* [Building adaptation for flexible use](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_13.md)
-* [Infection tracking](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_20.md)
+* [BigData](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4535.md)
+
+## Property: has_BP_EnablerTitle
+
+enabler_010
 
 ## Closest similar item
 
@@ -23,11 +23,11 @@
 * [linked open data)](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_123.md)
 * [database](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_124.md)
 
-## Property: has_TechEquivalent
+## Thees blueprints use this enabler
 
-* [BigData](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4535.md)
-
-## Property: has_BP_EnablerTitle
-
-enabler_010
+* [Adapted architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_2.md)
+* [Antimicrobial Surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_5.md)
+* [Tender support at building stage](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_9.md)
+* [Building adaptation for flexible use](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_13.md)
+* [Infection tracking](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_20.md)
 

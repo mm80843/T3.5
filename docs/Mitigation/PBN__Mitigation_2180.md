@@ -2,9 +2,9 @@
 
 # __Rapidity of Critical Infrastructure__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Time of recovery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3367.md)
+* [efficient recovery processes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4307.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Smart city infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1867.md)
 * [Active transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_677.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Preparing critical infrastructure for the future: Lessons learnt from the Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_129.md)
+* [Time of recovery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3367.md)
 
 ## Property: has_MitigationPrinciple
 
 Critical infrastructure should have the ability to restore functionality in a short period of time after an adverse event. This helps minimize the time of disruption and ensures the prompt resumption of essential services.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [efficient recovery processes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4307.md)
+* [Preparing critical infrastructure for the future: Lessons learnt from the Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_129.md)
 

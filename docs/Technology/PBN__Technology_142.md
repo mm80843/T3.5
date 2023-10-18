@@ -2,6 +2,15 @@
 
 # __light tubes__
 
+## Risks linked to this technology
+
+* [Inadequate natural light](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1088.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Building Systems and Design](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_89.md)
+* [Lighting Solutions](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_80.md)
+
 ## Closest similar item
 
 * [sun tubes)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1614.md)
@@ -14,15 +23,6 @@
 * [light shelves](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1167.md)
 * [extra light fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4172.md)
 * [far-uvc light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3776.md)
-
-## Risks linked to this technology
-
-* [Inadequate natural light](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1088.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Building Systems and Design](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_89.md)
-* [Lighting Solutions](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_80.md)
 
 ## This Technology belongs to this TechGroup
 

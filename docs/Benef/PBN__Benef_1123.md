@@ -2,10 +2,6 @@
 
 # __Reduction in infectiousness__
 
-## Name of the Benefit
-
-Disinfecting surfaces significantly reduces coronavirus infectivity within 1 minute exposure time
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors investing in surface disinfectants would benefit from improved asset value (e.g. increased demand for disinfectant products)](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1255.md)
@@ -17,4 +13,8 @@ Disinfecting surfaces significantly reduces coronavirus infectivity within 1 min
 ## Articles mentionning this Benefit
 
 * [Persistence of coronaviruses on inanimate surfaces and their inactivation with biocidal agents](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_233.md)
+
+## Name of the Benefit
+
+Disinfecting surfaces significantly reduces coronavirus infectivity within 1 minute exposure time
 

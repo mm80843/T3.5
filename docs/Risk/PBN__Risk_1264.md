@@ -2,22 +2,25 @@
 
 # __Minimized Surgery__
 
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Description of the risk
+
+Elective surgeries are being minimized and only essential personnel are participating, resulting in decreased surgical case volume.
+
 ## Property: has_RiskType
 
 * [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_3.md)
 
-## People affected by this risk
+## Articles mentionning the risk
 
-* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
-* [surgical trainees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_42.md)
-
-## Name of the risk
-
-Decreased surgical experience and skill development for trainees.
-
-## Property: has_RiskISO_Purpose
-
-* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_0.md)
+* [Using Technology to Maintain the Education of Residents During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_11.md)
 
 ## Closest similar item
 
@@ -32,38 +35,35 @@ Decreased surgical experience and skill development for trainees.
 * [Insufficient healthcare preparation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2183.md)
 * [Lack of novel treatment options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2189.md)
 
-## Description of the risk
+## People affected by this risk
 
-Elective surgeries are being minimized and only essential personnel are participating, resulting in decreased surgical case volume.
-
-## Technologies linked to the risk
-
-* [simulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_389.md)
-* [surgical videos](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_390.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Mitigations of this risk
-
-* [Provide alternative learning methods such as simulation and viewing high-quality surgical videos.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1743.md)
-
-## Articles mentionning the risk
-
-* [Using Technology to Maintain the Education of Residents During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_11.md)
+* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
+* [surgical trainees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_42.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
 ## Stakeholders who can mitigate this risk
 
 * [surgical educators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_778.md)
 * [surgical teams](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_780.md)
 * [hospital administrators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_252.md)
+
+## Name of the risk
+
+Decreased surgical experience and skill development for trainees.
+
+## Mitigations of this risk
+
+* [Provide alternative learning methods such as simulation and viewing high-quality surgical videos.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1743.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_0.md)
+
+## Technologies linked to the risk
+
+* [simulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_389.md)
+* [surgical videos](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_390.md)
 

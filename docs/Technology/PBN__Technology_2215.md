@@ -2,6 +2,10 @@
 
 # __Indoor plants__
 
+## This Technology belongs to this TechSubgroup
+
+* [Indoor Environmental Quality](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_79.md)
+
 ## Closest similar item
 
 * [Indoor plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2215.md)
@@ -15,15 +19,11 @@
 * [indoor biophilic design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1983.md)
 * [Indoor biophilic design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2262.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Indoor Environmental Quality](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_79.md)
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 
 ## This Technology is identified by the following QID
 
 * [Q51395367](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q51395367.md)
-
-## This Technology belongs to this TechGroup
-
-* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 

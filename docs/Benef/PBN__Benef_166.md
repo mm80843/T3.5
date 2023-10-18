@@ -2,10 +2,6 @@
 
 # __Early detection of outbreaks__
 
-## Name of the Benefit
-
-Wastewater surveillance can provide early warning for the reemergence of COVID-19.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investing in wastewater surveillance can prevent future outbreaks.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_168.md)
@@ -19,4 +15,8 @@ Wastewater surveillance can provide early warning for the reemergence of COVID-1
 ## Articles mentionning this Benefit
 
 * [First detection of SARS-CoV-2 in untreated wastewaters in Italy](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_37.md)
+
+## Name of the Benefit
+
+Wastewater surveillance can provide early warning for the reemergence of COVID-19.
 

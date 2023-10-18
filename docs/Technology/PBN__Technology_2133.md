@@ -2,6 +2,10 @@
 
 # __Digital inclusion initiatives__
 
+## This Technology belongs to this TechSubgroup
+
+* [Digital and Online Marketing](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_44.md)
+
 ## Closest similar item
 
 * [Digital inclusion initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2133.md)
@@ -15,15 +19,11 @@
 * [community initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2909.md)
 * [inclusive policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1806.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Digital and Online Marketing](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_44.md)
+* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
 
 ## This Technology is identified by the following QID
 
 * [Q3149923](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3149923.md)
-
-## This Technology belongs to this TechGroup
-
-* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
 

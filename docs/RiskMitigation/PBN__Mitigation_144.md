@@ -2,9 +2,10 @@
 
 # __Neighbourhood Hygiene Measures__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Community transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2462.md)
+* [infrastructure improvement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2995.md)
+* [community planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2994.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Hygiene Education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_927.md)
 * [Increased emphasis on hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_966.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Adaptive Design of the Built Environment to Mitigate the Transmission Risk of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_151.md)
+* [Community transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2462.md)
 
 ## Property: has_MitigationPrinciple
 
 Implementing hygiene measures at the neighbourhood level, such as improved infrastructure and awareness campaigns, reduces the risk of community transmission.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [infrastructure improvement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2995.md)
-* [community planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2994.md)
+* [Adaptive Design of the Built Environment to Mitigate the Transmission Risk of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_151.md)
 

@@ -2,10 +2,13 @@
 
 # __Digital signage__
 
-## Thees blueprints use this enabler
+## Property: has_TechEquivalent
 
-* [Public places as information points](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_8.md)
-* [Good hand hygiene practice](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_14.md)
+* [Digital signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4556.md)
+
+## Property: has_BP_EnablerTitle
+
+enabler_032
 
 ## Closest similar item
 
@@ -20,11 +23,8 @@
 * [clear signage and reminders](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_324.md)
 * [hygiene signage](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_325.md)
 
-## Property: has_TechEquivalent
+## Thees blueprints use this enabler
 
-* [Digital signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4556.md)
-
-## Property: has_BP_EnablerTitle
-
-enabler_032
+* [Public places as information points](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_8.md)
+* [Good hand hygiene practice](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_14.md)
 

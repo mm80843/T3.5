@@ -2,6 +2,10 @@
 
 # __Online educational materials__
 
+## This Technology belongs to this TechSubgroup
+
+* [Educational and Training Resources](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_39.md)
+
 ## Closest similar item
 
 * [online educational resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_629.md)
@@ -15,15 +19,11 @@
 * [online resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_224.md)
 * [Online resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2285.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Educational and Training Resources](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_39.md)
+* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
 
 ## This Technology is identified by the following QID
 
 * [Q1348645](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1348645.md)
-
-## This Technology belongs to this TechGroup
-
-* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
 

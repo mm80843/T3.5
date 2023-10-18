@@ -2,9 +2,10 @@
 
 # __Isolation Space Design__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Disease containment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2461.md)
+* [modular spacing systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2992.md)
+* [movable walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2993.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Isolation parameter](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_308.md)
 * [Home Isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1238.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Adaptive Design of the Built Environment to Mitigate the Transmission Risk of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_151.md)
+* [Disease containment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2461.md)
 
 ## Property: has_MitigationPrinciple
 
 Including isolation spaces in building design allows for safe and separate living quarters during contagious disease outbreaks.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [modular spacing systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2992.md)
-* [movable walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2993.md)
+* [Adaptive Design of the Built Environment to Mitigate the Transmission Risk of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_151.md)
 

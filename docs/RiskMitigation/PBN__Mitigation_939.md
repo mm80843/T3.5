@@ -2,8 +2,9 @@
 
 # __Disinfection of objects__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [disinfectant wipes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_673.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Surface Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_932.md)
 * [Thorough disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1560.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19 and its Modes of Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_225.md)
 
 ## Property: has_MitigationPrinciple
 
 Regularly cleaning and disinfecting frequently touched objects and surfaces to reduce the risk of transmission through fomites
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [disinfectant wipes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_673.md)
+* [COVID-19 and its Modes of Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_225.md)
 

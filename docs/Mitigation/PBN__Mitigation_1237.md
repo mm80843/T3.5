@@ -2,9 +2,10 @@
 
 # __Geospatial analysis of COVID-19__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Limited understanding of the spread and impact of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2985.md)
+* [spatial-temporal analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3761.md)
+* [gis technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3760.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [COVID-19 crisis management plan](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_797.md)
 * [Global virus surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2400.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Water and wastewater digital surveillance for monitoring and early detection of the COVID-19 hotspot: industry 4.0](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_162.md)
+* [Limited understanding of the spread and impact of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2985.md)
 
 ## Property: has_MitigationPrinciple
 
 Use geospatial analysis to map and analyze COVID-19 cases, inform decision-making, and monitor the effectiveness of interventions.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [spatial-temporal analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3761.md)
-* [gis technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3760.md)
+* [Water and wastewater digital surveillance for monitoring and early detection of the COVID-19 hotspot: industry 4.0](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_162.md)
 

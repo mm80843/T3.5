@@ -2,10 +2,6 @@
 
 # __Increased social support__
 
-## Name of the Benefit
-
-Tailored messages can provide support and connection for those in need
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Enhanced mental well-being and improved coping mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_55.md)
@@ -19,4 +15,8 @@ Tailored messages can provide support and connection for those in need
 ## Articles mentionning this Benefit
 
 * [The psychological impact of COVID-19 on the mental health in the general population](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_12.md)
+
+## Name of the Benefit
+
+Tailored messages can provide support and connection for those in need
 

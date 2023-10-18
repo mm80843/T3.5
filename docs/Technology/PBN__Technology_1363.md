@@ -2,6 +2,13 @@
 
 # __population data__
 
+## Risks linked to this technology
+
+* [Inaccurate estimation of COVID-19 prevalence from wastewater data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1951.md)
+
+## This Technology belongs to this TechSubgroup
+
+
 ## Closest similar item
 
 * [population density data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3674.md)
@@ -15,18 +22,11 @@
 * [Data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2037.md)
 * [Data Analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4530.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Inaccurate estimation of COVID-19 prevalence from wastewater data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1951.md)
-
-## This Technology belongs to this TechSubgroup
-
+* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
 
 ## This Technology is identified by the following QID
 
 * [Q7229821](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7229821.md)
-
-## This Technology belongs to this TechGroup
-
-* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
 

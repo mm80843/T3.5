@@ -2,9 +2,11 @@
 
 # __Engineering Controls__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Virus Spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2522.md)
+* [physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_343.md)
+* [ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3132.md)
+* [humidity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3133.md)
 
 ## Closest similar item
 
@@ -19,17 +21,15 @@
 * [Controlling source](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2301.md)
 * [Technical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2062.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Analysis of COVID-19 Concerns Raised by the Construction Workforce and Development of Mitigation Practices](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_82.md)
+* [Virus Spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2522.md)
 
 ## Property: has_MitigationPrinciple
 
 Implement engineering controls such as physical barriers, ventilation systems, and humidity control to limit the spread of the virus in the built environment.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_343.md)
-* [ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3132.md)
-* [humidity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3133.md)
+* [Analysis of COVID-19 Concerns Raised by the Construction Workforce and Development of Mitigation Practices](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_82.md)
 

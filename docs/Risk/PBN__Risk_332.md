@@ -2,21 +2,25 @@
 
 # __Social distancing__
 
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Description of the risk
+
+Maintaining physical distance between workers to minimize the spread of the virus.
+
 ## Property: has_RiskType
 
 * [health](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_4.md)
 
-## People affected by this risk
+## Articles mentionning the risk
 
-* [construction workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_197.md)
-
-## Name of the risk
-
-Reduced productivity and communication.
-
-## Property: has_RiskISO_Purpose
-
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+* [Impacts of COVID-19 on Health and Safety of Workforce in Construction Industry](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_49.md)
 
 ## Closest similar item
 
@@ -31,17 +35,21 @@ Reduced productivity and communication.
 * [Physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3518.md)
 * [signage for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3519.md)
 
-## Description of the risk
+## People affected by this risk
 
-Maintaining physical distance between workers to minimize the spread of the virus.
+* [construction workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_197.md)
 
-## Technologies linked to the risk
+## Property: has_RiskISO_Impact
 
-* [remote communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1241.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Property: has_RiskHealth
+## Stakeholders who can mitigate this risk
 
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+* [employers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_180.md)
+
+## Name of the risk
+
+Reduced productivity and communication.
 
 ## Mitigations of this risk
 
@@ -55,19 +63,11 @@ Maintaining physical distance between workers to minimize the spread of the viru
 * [Monitoring of agglomerations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_621.md)
 * [Flexible work schedules](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1568.md)
 
-## Articles mentionning the risk
+## Property: has_RiskISO_Purpose
 
-* [Impacts of COVID-19 on Health and Safety of Workforce in Construction Industry](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_49.md)
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
 
-## Property: has_RiskISO_Impact
+## Technologies linked to the risk
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Stakeholders who can mitigate this risk
-
-* [employers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_180.md)
+* [remote communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1241.md)
 

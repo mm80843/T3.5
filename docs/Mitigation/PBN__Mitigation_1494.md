@@ -2,8 +2,9 @@
 
 # __Reducing heterogeneity of technical standards__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3890.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Diversified and localized production systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1077.md)
 * [Regulatory practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_103.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Global value chains: Efficiency and risks in the context of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_60.md)
 
 ## Property: has_MitigationPrinciple
 
 Governments can reduce unnecessary heterogeneity in technical standards and regulations to facilitate easier substitution between suppliers and improve resilience in the face of disruptions.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3890.md)
+* [Global value chains: Efficiency and risks in the context of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_60.md)
 

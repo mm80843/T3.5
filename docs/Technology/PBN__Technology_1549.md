@@ -2,6 +2,14 @@
 
 # __border control technologies__
 
+## Risks linked to this technology
+
+* [Global mobility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2073.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Travel Restrictions and Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_159.md)
+
 ## Closest similar item
 
 * [border control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4041.md)
@@ -15,19 +23,11 @@
 * [Safety barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2675.md)
 * [protective barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_229.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Global mobility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2073.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Travel Restrictions and Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_159.md)
+* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
 
 ## This Technology is identified by the following QID
 
 * [Q218719](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q218719.md)
-
-## This Technology belongs to this TechGroup
-
-* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
 

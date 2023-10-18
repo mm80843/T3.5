@@ -2,7 +2,7 @@
 
 # __Increasing credit guarantee ratio__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
 
 ## Closest similar item
@@ -18,14 +18,14 @@
 * [Provide financial aids](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_990.md)
 * [Simplified loan and insurance services during the crisis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1888.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19 and regional solutions for mitigating the risk of SME finance in selected ASEAN member states](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_292.md)
 
 ## Property: has_MitigationPrinciple
 
 Increasing the credit guarantee ratio during the COVID-19 pandemic helps SMEs access finance and survive in the emergency stage of the crisis
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [COVID-19 and regional solutions for mitigating the risk of SME finance in selected ASEAN member states](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_292.md)
 

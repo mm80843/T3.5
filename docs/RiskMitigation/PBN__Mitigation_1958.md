@@ -2,9 +2,10 @@
 
 # __Solidarity networks__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Limited resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3306.md)
+* [social media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_898.md)
+* [smartphones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3002.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Mutual aid groups](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_29.md)
 * [Social Equity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_943.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The three modes of existence of the pandemic smart city](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_250.md)
+* [Limited resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3306.md)
 
 ## Property: has_MitigationPrinciple
 
 Community-based initiatives to provide support, organize networks, and help the most vulnerable during the pandemic
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [social media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_898.md)
-* [smartphones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3002.md)
+* [The three modes of existence of the pandemic smart city](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_250.md)
 

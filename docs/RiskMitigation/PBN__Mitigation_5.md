@@ -2,10 +2,11 @@
 
 # __Crisis management__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2406.md)
-* [Crises](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3277.md)
+* [communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_168.md)
+* [crisis management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2910.md)
+* [communication systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1057.md)
 
 ## Closest similar item
 
@@ -20,18 +21,17 @@
 * [individuals facing economic crisis and uncertainties](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3614.md)
 * [hospital management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3615.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Mitigation strategies to fight the COVID-19 pandemic—present, future and beyond](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_200.md)
-* [The Effects of Pandemic on Construction Industry in the UK](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_75.md)
+* [Outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2406.md)
+* [Crises](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3277.md)
 
 ## Property: has_MitigationPrinciple
 
 Develop and implement strategies to effectively manage and respond to outbreaks of infectious diseases
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_168.md)
-* [crisis management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2910.md)
-* [communication systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1057.md)
+* [Mitigation strategies to fight the COVID-19 pandemic—present, future and beyond](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_200.md)
+* [The Effects of Pandemic on Construction Industry in the UK](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_75.md)
 

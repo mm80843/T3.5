@@ -2,8 +2,9 @@
 
 # __Improvement of Sanitary Infrastructure__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [investments in water and sanitation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3286.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Separate sanitation area](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1156.md)
 * [Improved water storage and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_92.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Epidemics, Planning and the City: A Special Issue of Planning Perspectives](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_152.md)
 
 ## Property: has_MitigationPrinciple
 
 Upgrading infrastructure to provide clean water and adequate sanitation, reducing the risk of waterborne diseases.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [investments in water and sanitation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3286.md)
+* [Epidemics, Planning and the City: A Special Issue of Planning Perspectives](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_152.md)
 

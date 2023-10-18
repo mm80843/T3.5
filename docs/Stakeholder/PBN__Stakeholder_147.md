@@ -2,6 +2,10 @@
 
 # __businesses__
 
+## This Stakeholder is identified by the following QID
+
+* [Q4830453](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4830453.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
@@ -18,27 +22,6 @@
 * [companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_67.md)
 * [local businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_300.md)
 * [small business](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2046.md)
-
-## Risks that can be mitigated by this stakeholder
-
-* [Disruption of supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1130.md)
-* [Environmental impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_748.md)
-* [Disruption of global supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2265.md)
-* [Disruptions to global and national supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2125.md)
-* [Increased risk of COVID-19 transmission in crowded public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1715.md)
-* [Reduced consumer spending](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2172.md)
-* [Inadequate sanitation and hygiene facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1680.md)
-* [Exposure to foreign shocks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1838.md)
-* [Insufficient ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1335.md)
-* [Lack of business continuity planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2226.md)
-* [Overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_571.md)
-* [Cascading disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_455.md)
-* [Dependence on global suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2227.md)
-* [Lack of hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1498.md)
-* [Fomite transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_609.md)
-* [Concentration of suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1837.md)
-* [Lack of hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2287.md)
-* [Lack of redundancy in supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2154.md)
 
 ## Risk affecting this stakeholder
 
@@ -115,7 +98,24 @@
 * [Improved supply chain management and delivery systems](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1099.md)
 * [Prevention of economic shrinkage](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1401.md)
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q4830453](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4830453.md)
+* [Disruption of supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1130.md)
+* [Environmental impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_748.md)
+* [Disruption of global supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2265.md)
+* [Disruptions to global and national supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2125.md)
+* [Increased risk of COVID-19 transmission in crowded public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1715.md)
+* [Reduced consumer spending](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2172.md)
+* [Inadequate sanitation and hygiene facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1680.md)
+* [Exposure to foreign shocks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1838.md)
+* [Insufficient ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1335.md)
+* [Lack of business continuity planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2226.md)
+* [Overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_571.md)
+* [Cascading disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_455.md)
+* [Dependence on global suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2227.md)
+* [Lack of hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1498.md)
+* [Fomite transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_609.md)
+* [Concentration of suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1837.md)
+* [Lack of hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2287.md)
+* [Lack of redundancy in supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2154.md)
 

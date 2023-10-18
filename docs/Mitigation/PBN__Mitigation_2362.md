@@ -2,9 +2,10 @@
 
 # __Pandemic preparedness planning__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_492.md)
+* [collaboration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_155.md)
+* [expert consultation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4427.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Investing in disaster risk reduction and preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1080.md)
 * [Urban restructuring for emergency preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_112.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
+* [Lack of preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_492.md)
 
 ## Property: has_MitigationPrinciple
 
 Developing comprehensive procedures and plans at the city level to effectively respond to future pandemics, involving collaboration with experts, emergency services, and the military.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [collaboration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_155.md)
-* [expert consultation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4427.md)
+* [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
 

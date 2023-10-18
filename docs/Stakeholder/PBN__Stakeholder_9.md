@@ -2,6 +2,10 @@
 
 # __general population__
 
+## This Stakeholder is identified by the following QID
+
+* [Q2625603](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2625603.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
@@ -478,8 +482,4 @@
 * [Enhanced hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1387.md)
 * [Early detection of potential outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1388.md)
 * [Prevention of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1405.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q2625603](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2625603.md)
 

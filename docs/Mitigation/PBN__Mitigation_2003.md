@@ -2,9 +2,10 @@
 
 # __Adaptation of schools__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2622.md)
+* [flexible room design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4187.md)
+* [desk-based extraction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4186.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [School closing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_836.md)
 * [Enhanced education access and equity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1072.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Designing for COVID-2x: Reflecting on Future-Proofing Human Habitation for the Inevitable Next Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_149.md)
+* [Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2622.md)
 
 ## Property: has_MitigationPrinciple
 
 Minimize infection risk in confined spaces, such as classrooms, through ventilation and flexible room design
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [flexible room design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4187.md)
-* [desk-based extraction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4186.md)
+* [Designing for COVID-2x: Reflecting on Future-Proofing Human Habitation for the Inevitable Next Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_149.md)
 

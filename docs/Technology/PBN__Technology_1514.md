@@ -2,6 +2,15 @@
 
 # __well-being promotion technologies__
 
+## Risks linked to this technology
+
+* [Low levels of psychological well-being](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2040.md)
+* [Non-flourishing individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2041.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Mental Health Support](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_63.md)
+
 ## Closest similar item
 
 * [digital well-being apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_875.md)
@@ -15,20 +24,11 @@
 * [incentives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_163.md)
 * [promotion of flexible visiting hours](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1822.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Low levels of psychological well-being](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2040.md)
-* [Non-flourishing individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2041.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Mental Health Support](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_63.md)
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 
 ## This Technology is identified by the following QID
 
 * [Q7256391](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7256391.md)
-
-## This Technology belongs to this TechGroup
-
-* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 

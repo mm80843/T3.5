@@ -2,9 +2,8 @@
 
 # __Lockdown and Social Distancing__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Transmission in close proximity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3193.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Implementing social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1125.md)
 * [Social distancing between occupants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1346.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19 and social inequalities: a complex and dynamic interaction](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_136.md)
+* [Transmission in close proximity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3193.md)
 
 ## Property: has_MitigationPrinciple
 
 Implementing restrictions on movement and social interactions to reduce contact and limit the spread of the virus
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [COVID-19 and social inequalities: a complex and dynamic interaction](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_136.md)
 

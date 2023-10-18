@@ -2,6 +2,15 @@
 
 # __authentication protocols__
 
+## Risks linked to this technology
+
+* [Blockchain system vulnerabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1275.md)
+* [Risk of data privacy and security in mobile applications](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1785.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Authentication and Access Control](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_140.md)
+
 ## Closest similar item
 
 * [secure protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4425.md)
@@ -14,15 +23,6 @@
 * [Reliable communication protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2860.md)
 * [standardized protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_115.md)
 * [containment protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2.md)
-
-## Risks linked to this technology
-
-* [Blockchain system vulnerabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1275.md)
-* [Risk of data privacy and security in mobile applications](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1785.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Authentication and Access Control](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_140.md)
 
 ## This Technology belongs to this TechGroup
 

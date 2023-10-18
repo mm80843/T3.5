@@ -2,8 +2,9 @@
 
 # __Digital RT-qPCR__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [digital rt-qpcr assay](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4006.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Real-time updates and communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1256.md)
 * [Improved communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2160.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [SARS-CoV-2 RNA in wastewater anticipated COVID-19 occurrence in a low prevalence area](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_96.md)
 
 ## Property: has_MitigationPrinciple
 
 Digital RT-qPCR is a highly sensitive method that can be used to quantify samples with low viral loads, providing more accurate measurements of viral RNA in wastewater samples for surveillance purposes.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [digital rt-qpcr assay](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4006.md)
+* [SARS-CoV-2 RNA in wastewater anticipated COVID-19 occurrence in a low prevalence area](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_96.md)
 

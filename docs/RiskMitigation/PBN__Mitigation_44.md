@@ -2,9 +2,9 @@
 
 # __Screening masses__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Contagious disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1021.md)
+* [screening technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2922.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Symptom screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_374.md)
 * [Mass gathering containment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_837.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Exploring the Non-Medical impacts of Covid-19 using Natural Language Processing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_114.md)
+* [Contagious disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1021.md)
 
 ## Property: has_MitigationPrinciple
 
 Identification of individuals with symptoms for isolation measures
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [screening technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2922.md)
+* [Exploring the Non-Medical impacts of Covid-19 using Natural Language Processing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_114.md)
 

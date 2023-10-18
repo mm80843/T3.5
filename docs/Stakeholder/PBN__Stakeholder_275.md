@@ -2,6 +2,10 @@
 
 # __marginalized populations__
 
+## This Stakeholder is identified by the following QID
+
+* [Q5853064](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5853064.md)
+
 ## Closest similar item
 
 * [marginalized groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_880.md)
@@ -30,8 +34,4 @@
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Reduced health inequalities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_664.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q5853064](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5853064.md)
 

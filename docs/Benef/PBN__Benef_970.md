@@ -2,10 +2,6 @@
 
 # __Retention of virucidal potency after multiple exposures to the virus__
 
-## Name of the Benefit
-
-The film remains potent for inactivating SARS-CoV-2 even after multiple exposures to the virus and subsequent disinfection, reducing the risk of transmission.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Implementing the coating would provide long-term protection against SARS-CoV-2 and reduce the need for frequent disinfection, resulting in cost savings for businesses and individuals.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1067.md)
@@ -17,4 +13,8 @@ The film remains potent for inactivating SARS-CoV-2 even after multiple exposure
 ## Articles mentionning this Benefit
 
 * [A Surface Coating that Rapidly Inactivates SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_199.md)
+
+## Name of the Benefit
+
+The film remains potent for inactivating SARS-CoV-2 even after multiple exposures to the virus and subsequent disinfection, reducing the risk of transmission.
 

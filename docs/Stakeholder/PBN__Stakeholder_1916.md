@@ -2,6 +2,10 @@
 
 # __building designer__
 
+## This Stakeholder is identified by the following QID
+
+* [Q5322166](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5322166.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
@@ -22,8 +26,4 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Real Estate and Construction](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_31.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q5322166](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5322166.md)
 

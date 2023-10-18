@@ -2,9 +2,11 @@
 
 # __Indoor building and finishing materials__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Emissions of VOCs, risk of surface contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2597.md)
+* [regular disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3276.md)
+* [photocatalytic paints](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3275.md)
+* [eco-active materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3274.md)
 
 ## Closest similar item
 
@@ -19,17 +21,15 @@
 * [Availability of outdoor spaces in the building](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2126.md)
 * [Multi-functional Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_717.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19 and Living space challenge. Well-being and Public Health recommendations for a healthy, safe, and sustainable housing.](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_161.md)
+* [Emissions of VOCs, risk of surface contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2597.md)
 
 ## Property: has_MitigationPrinciple
 
 Use eco-active materials, regular disinfection of frequently touched surfaces, proper ventilation for healthy environments
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [regular disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3276.md)
-* [photocatalytic paints](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3275.md)
-* [eco-active materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3274.md)
+* [COVID-19 and Living space challenge. Well-being and Public Health recommendations for a healthy, safe, and sustainable housing.](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_161.md)
 

@@ -2,10 +2,6 @@
 
 # __Flexible customization__
 
-## Name of the Benefit
-
-Users can freely customize space configurations and occupant behaviors to see the impact of each design decision.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investing in the simulation system allows for better decision-making, leading to improved safety measures and reduced transmission risk, ultimately protecting occupants and improving the reputation and value of the built environment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_118.md)
@@ -20,4 +16,8 @@ Users can freely customize space configurations and occupant behaviors to see th
 ## Articles mentionning this Benefit
 
 * [Designing a Multi-Agent Occupant Simulation System to Support Facility Planning and Analysis for COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_26.md)
+
+## Name of the Benefit
+
+Users can freely customize space configurations and occupant behaviors to see the impact of each design decision.
 

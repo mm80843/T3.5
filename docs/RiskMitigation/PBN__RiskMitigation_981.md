@@ -2,10 +2,6 @@
 
 # __Online learning__
 
-## Risks possibly mitigated by this Mitigation
-
-* [Social issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_708.md)
-
 ## Property: has_MitigationBenefit
 
 * [Access to education](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_985.md)
@@ -22,4 +18,12 @@
 * [Implement strict social distancing measures, reduce class sizes, utilize remote learning options](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2808.md)
 * [Training protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_107.md)
 * [Enhance health education using online platforms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_48.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Social issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_708.md)
+
+## Category to which it belongs
+
+* [Enrich education through digital tools, virtual experiences, remote learning, and alternative forms of exercise and interaction.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_3.md)
 

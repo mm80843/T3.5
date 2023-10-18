@@ -2,8 +2,9 @@
 
 # __Flexible Design Solutions__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [innovative design approaches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4175.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Flexibility and Transformation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1293.md)
 * [Value-driven design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_785.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Building Transformation for Precautionary Measures against COVID-19 Pandemic: Case of Off-Street Car Parking of Campuses](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_224.md)
 
 ## Property: has_MitigationPrinciple
 
 Incorporating flexible design solutions into the planning and construction of new buildings to allow for adaptability and transformation in the future.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [innovative design approaches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4175.md)
+* [Building Transformation for Precautionary Measures against COVID-19 Pandemic: Case of Off-Street Car Parking of Campuses](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_224.md)
 

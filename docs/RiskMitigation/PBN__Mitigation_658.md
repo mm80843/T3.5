@@ -2,8 +2,9 @@
 
 # __Considering additional variables__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [standardized approaches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3374.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Evaluating control measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1438.md)
 * [Flexibility and Transformation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1293.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Validity of energy social research during and after COVID-19: challenges, considerations, and responses](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_289.md)
 
 ## Property: has_MitigationPrinciple
 
 Include additional measures that may gain relevance in the context of the pandemic to enhance validity and commensurability
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [standardized approaches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3374.md)
+* [Validity of energy social research during and after COVID-19: challenges, considerations, and responses](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_289.md)
 

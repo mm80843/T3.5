@@ -2,9 +2,9 @@
 
 # __Nano-Vaccines__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Infection prevention](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2494.md)
+* [graphene-based nanomaterials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_212.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Nano-Spray Technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_197.md)
 * [Vaccination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_245.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Graphene-based nanomaterials as antimicrobial surface coatings: A parallel approach to restrain the expansion of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_187.md)
+* [Infection prevention](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2494.md)
 
 ## Property: has_MitigationPrinciple
 
 Nano-vaccines utilize graphene-based nanomaterials as carriers for drug delivery and vaccine delivery systems. The nanomaterials, such as graphene oxide (GO) and reduced graphene oxide (rGO), can be used to encapsulate and deliver antigens or drugs to target cells, improving the efficacy of vaccines and antiviral treatments. Nano-vaccines can prevent viral infections by stimulating the immune system and inhibiting viral replication, reducing the risk of virus transmission and the severity of infections.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [graphene-based nanomaterials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_212.md)
+* [Graphene-based nanomaterials as antimicrobial surface coatings: A parallel approach to restrain the expansion of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_187.md)
 

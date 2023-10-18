@@ -2,21 +2,24 @@
 
 # __Client confidence__
 
+## Property: has_RiskHealth
+
+
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Description of the risk
+
+Maintaining client trust and confidence in project completion
+
 ## Property: has_RiskType
 
 * [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_3.md)
 
-## People affected by this risk
+## Articles mentionning the risk
 
-* [clients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_297.md)
-
-## Name of the risk
-
-Potential delays or cancellation of projects
-
-## Property: has_RiskISO_Purpose
-
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+* [The impact of COVID-19 outbreak on United Kingdom infrastructure sector](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_141.md)
 
 ## Closest similar item
 
@@ -31,36 +34,33 @@ Potential delays or cancellation of projects
 * [Inadequate response and preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2912.md)
 * [Lack of Trust in Information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_973.md)
 
-## Description of the risk
+## People affected by this risk
 
-Maintaining client trust and confidence in project completion
-
-## Technologies linked to the risk
-
-* [digital communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_816.md)
-* [project updates](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_818.md)
-
-## Property: has_RiskHealth
-
-
-## Mitigations of this risk
-
-* [Maintain clear communication, demonstrate safety measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2058.md)
-
-## Articles mentionning the risk
-
-* [The impact of COVID-19 outbreak on United Kingdom infrastructure sector](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_141.md)
+* [clients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_297.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_8.md)
 
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
 ## Stakeholders who can mitigate this risk
 
 * [contractors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_179.md)
 * [project managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_906.md)
+
+## Name of the risk
+
+Potential delays or cancellation of projects
+
+## Mitigations of this risk
+
+* [Maintain clear communication, demonstrate safety measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2058.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+
+## Technologies linked to the risk
+
+* [digital communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_816.md)
+* [project updates](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_818.md)
 

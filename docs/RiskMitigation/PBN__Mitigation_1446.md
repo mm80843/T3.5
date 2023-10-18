@@ -2,9 +2,9 @@
 
 # __Online Education__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Technological limitations, lack of access to technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3074.md)
+* [online learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_74.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Virtual learning in combination with in-person classes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1350.md)
 * [Teleworking and remote learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1280.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The socio-economic implications of the coronavirus pandemic (COVID-19): A review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_135.md)
+* [Technological limitations, lack of access to technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3074.md)
 
 ## Property: has_MitigationPrinciple
 
 Provide education remotely through online platforms
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [online learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_74.md)
+* [The socio-economic implications of the coronavirus pandemic (COVID-19): A review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_135.md)
 

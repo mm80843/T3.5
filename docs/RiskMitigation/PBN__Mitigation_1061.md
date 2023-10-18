@@ -2,9 +2,9 @@
 
 # __Outdoor Recreation__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Decreased physical and mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2894.md)
+* [access to outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3419.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Increased Outdoor Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_142.md)
 * [Self-sufficiency in recreation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_160.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Urban Park Use During the COVID-19 Pandemic: Are Socially Vulnerable Communities Disproportionately Impacted?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_276.md)
+* [Decreased physical and mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2894.md)
 
 ## Property: has_MitigationPrinciple
 
 Encouraging outdoor recreation activities in public parks and greenspaces to promote physical activity, cognitive functioning, stress reduction, and social relationships
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [access to outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3419.md)
+* [Urban Park Use During the COVID-19 Pandemic: Are Socially Vulnerable Communities Disproportionately Impacted?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_276.md)
 

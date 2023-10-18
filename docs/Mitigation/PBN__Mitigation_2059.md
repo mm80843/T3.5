@@ -2,8 +2,9 @@
 
 # __Federated data analysis__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [opal-datashield](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1676.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Monitor data sources to ensure they provide consistent and accurate information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3218.md)
 * [Develop tools and platforms for easy access to data from multiple sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3219.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Challenges of data sharing in European Covid-19 projects: A learning opportunity for advancing pandemic preparedness and response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_230.md)
 
 ## Property: has_MitigationPrinciple
 
 Conduct participant-level analysis without sharing data
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [opal-datashield](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1676.md)
+* [Challenges of data sharing in European Covid-19 projects: A learning opportunity for advancing pandemic preparedness and response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_230.md)
 

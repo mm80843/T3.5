@@ -2,6 +2,14 @@
 
 # __building operators__
 
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Enhanced data resolution and accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_322.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q3354588](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3354588.md)
+
 ## Closest similar item
 
 * [building owners and operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_525.md)
@@ -14,12 +22,4 @@
 * [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
 * [building manager](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1956.md)
 * [facility operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_439.md)
-
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Enhanced data resolution and accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_322.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q3354588](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3354588.md)
 

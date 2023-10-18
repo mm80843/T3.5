@@ -2,6 +2,10 @@
 
 # __practitioners__
 
+## This Stakeholder is identified by the following QID
+
+* [Q39631](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q39631.md)
+
 ## Closest similar item
 
 * [healthcare practitioners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_544.md)
@@ -14,14 +18,6 @@
 * [health professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_595.md)
 * [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
 * [clinicians](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_274.md)
-
-## Risks that can be mitigated by this stakeholder
-
-* [Limited automation and tool support for ontology models and applications for COVID-19 analytics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1047.md)
-* [Lack of rigor in evaluating proposed ontologies based on existing ontology quality evaluation literature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1049.md)
-* [Lack of concrete implementations and real-world validations of proposed solutions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1045.md)
-* [Incomplete evaluation of proposed solutions with lack of concrete implementations and real-world validations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1048.md)
-* [Lack of quantitative evidence for the effectiveness of UBPI](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2242.md)
 
 ## Risk affecting this stakeholder
 
@@ -49,7 +45,11 @@
 * [Longitudinal insights](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1354.md)
 * [Enhanced research practices](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1356.md)
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q39631](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q39631.md)
+* [Limited automation and tool support for ontology models and applications for COVID-19 analytics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1047.md)
+* [Lack of rigor in evaluating proposed ontologies based on existing ontology quality evaluation literature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1049.md)
+* [Lack of concrete implementations and real-world validations of proposed solutions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1045.md)
+* [Incomplete evaluation of proposed solutions with lack of concrete implementations and real-world validations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1048.md)
+* [Lack of quantitative evidence for the effectiveness of UBPI](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2242.md)
 

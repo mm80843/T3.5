@@ -2,6 +2,10 @@
 
 # __free Wi-Fi hotspots__
 
+## This Technology belongs to this TechSubgroup
+
+* [Energy Systems and Sustainability](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_116.md)
+
 ## Closest similar item
 
 * [free Wi-Fi hotspots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2367.md)
@@ -15,15 +19,11 @@
 * [fifth-generation wireless networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3879.md)
 * [broadband access](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1938.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Energy Systems and Sustainability](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_116.md)
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 
 ## This Technology is identified by the following QID
 
 * [Q334765](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q334765.md)
-
-## This Technology belongs to this TechGroup
-
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 

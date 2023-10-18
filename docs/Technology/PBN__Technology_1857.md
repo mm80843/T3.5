@@ -2,6 +2,14 @@
 
 # __teletherapy platforms__
 
+## Risks linked to this technology
+
+* [Negative Emotions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2277.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Online Counseling and Therapy Platforms](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_65.md)
+
 ## Closest similar item
 
 * [teletherapy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_609.md)
@@ -15,19 +23,11 @@
 * [telehealth platforms for virtual therapy and counseling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1434.md)
 * [Telehealth platforms for virtual therapy and counseling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2180.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Negative Emotions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2277.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Online Counseling and Therapy Platforms](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_65.md)
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
 
 ## This Technology is identified by the following QID
 
 * [Q4923501](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4923501.md)
-
-## This Technology belongs to this TechGroup
-
-* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
 

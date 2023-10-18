@@ -2,6 +2,10 @@
 
 # __Renewable energy sources__
 
+## This Technology belongs to this TechSubgroup
+
+* [Sustainable Practices and Renewable Energy](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_131.md)
+
 ## Closest similar item
 
 * [Renewable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2390.md)
@@ -14,10 +18,6 @@
 * [solar energy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4281.md)
 * [energy-efficient technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2312.md)
 * [wind turbines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1763.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Sustainable Practices and Renewable Energy](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_131.md)
 
 ## This Technology belongs to this TechGroup
 

@@ -2,9 +2,11 @@
 
 # __Strengthened healthcare systems__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Inadequate healthcare capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2901.md)
+* [infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3614.md)
+* [medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_108.md)
+* [workforce training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3613.md)
 
 ## Closest similar item
 
@@ -19,17 +21,15 @@
 * [Protection of healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2249.md)
 * [Improved health care facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1262.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19 risks and systemic gaps in Nigeria: resilience building lessons for pandemic and climate change management](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_215.md)
+* [Inadequate healthcare capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2901.md)
 
 ## Property: has_MitigationPrinciple
 
 Enhance the ability to handle emergencies and provide care
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3614.md)
-* [medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_108.md)
-* [workforce training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3613.md)
+* [COVID-19 risks and systemic gaps in Nigeria: resilience building lessons for pandemic and climate change management](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_215.md)
 

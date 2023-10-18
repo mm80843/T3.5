@@ -2,9 +2,10 @@
 
 # __Remote Work and Distance Learning__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Disruption of Work and Education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3228.md)
+* [teleconferencing tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4025.md)
+* [internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3058.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Remote work and online meetings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1135.md)
 * [Adaptation to remote work technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2359.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Covid-19 and asset management in EU: a preliminary assessment of performance and investment styles](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_271.md)
+* [Disruption of Work and Education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3228.md)
 
 ## Property: has_MitigationPrinciple
 
 Encouraging remote work and distance learning can help reduce the density of people in shared spaces, lowering the risk of disease transmission while maintaining productivity and education.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [teleconferencing tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4025.md)
-* [internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3058.md)
+* [Covid-19 and asset management in EU: a preliminary assessment of performance and investment styles](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_271.md)
 

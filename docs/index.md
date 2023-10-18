@@ -23,4 +23,5 @@
 * _[BP_Theme](https://github.com/mm80843/T3.5/blob/main/docs/BP_Theme/index.md)_ -- 20 instances.
 * _[BP_Intervention](https://github.com/mm80843/T3.5/blob/main/docs/BP_Intervention/index.md)_ -- 80 instances.
 * _[Mitigation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/index.md)_ -- 4394 instances.
+* _[PBNCategory](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/index.md)_ -- 10 instances.
 * _[RiskISO](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/index.md)_ -- 42 instances.

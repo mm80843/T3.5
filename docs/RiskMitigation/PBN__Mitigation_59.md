@@ -2,8 +2,11 @@
 
 # __Integration and interoperability__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [ontologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_712.md)
+* [biomedical knowledge graph](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2940.md)
+* [web portals](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2939.md)
 
 ## Closest similar item
 
@@ -18,17 +21,14 @@
 * [Integrated healthcare environment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_155.md)
 * [Inter-sectoral collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1117.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [An Overview of Ontologies and Tool Support for COVID-19 Analytics](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_170.md)
 
 ## Property: has_MitigationPrinciple
 
 Establish a knowledge graph with a reference namespace to support semantic interoperability of unstructured data in the COVID-19 domain.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [ontologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_712.md)
-* [biomedical knowledge graph](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2940.md)
-* [web portals](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2939.md)
+* [An Overview of Ontologies and Tool Support for COVID-19 Analytics](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_170.md)
 

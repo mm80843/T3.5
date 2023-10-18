@@ -2,6 +2,14 @@
 
 # __drones__
 
+## Risks linked to this technology
+
+* [Health and safety of construction workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1561.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Robotic and Drone Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_113.md)
+
 ## Closest similar item
 
 * [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2869.md)
@@ -15,13 +23,9 @@
 * [uavs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4124.md)
 * [Robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2879.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Health and safety of construction workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1561.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Robotic and Drone Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_113.md)
+* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_17.md)
 
 ## This Technology enables the following mitigations
 
@@ -31,8 +35,4 @@
 * [Drones for contactless delivery and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_289.md)
 * [Drones and Robot technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1668.md)
 * [Autonomous drones/ground vehicles for sample transfer](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2424.md)
-
-## This Technology belongs to this TechGroup
-
-* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_17.md)
 

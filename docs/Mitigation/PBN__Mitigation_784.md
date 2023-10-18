@@ -2,9 +2,9 @@
 
 # __Use of local and sustainable materials__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Environmental impact of construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2742.md)
+* [local sourcing and sustainable material choices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3454.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Continuous supply of essential materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1673.md)
 * [Preparation and maintenance of specific green areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2211.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Houses amid COVID-19: Environmental challenges and design adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_277.md)
+* [Environmental impact of construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2742.md)
 
 ## Property: has_MitigationPrinciple
 
 Utilize locally sourced and sustainable materials in building construction to minimize environmental impact and promote sustainability, aligning with the principles of green building design
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [local sourcing and sustainable material choices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3454.md)
+* [Houses amid COVID-19: Environmental challenges and design adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_277.md)
 

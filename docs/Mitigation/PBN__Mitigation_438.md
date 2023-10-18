@@ -2,8 +2,9 @@
 
 # __Internet of Things (IoT)__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_96.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [iots](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2842.md)
 * [iot sensors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2843.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Health Information Exchange with Blockchain amid Covid-19-like Pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_78.md)
 
 ## Property: has_MitigationPrinciple
 
 Collects and transmits real-time health data, enabling remote monitoring and quick response to health events
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_96.md)
+* [Health Information Exchange with Blockchain amid Covid-19-like Pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_78.md)
 

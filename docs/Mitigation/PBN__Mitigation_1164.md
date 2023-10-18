@@ -2,9 +2,8 @@
 
 # __Inclusive urban planning__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Increased risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2956.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Planning and permissions frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2007.md)
 * [Horizontal urban development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2428.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Impact of Covid-19 on the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_10.md)
+* [Increased risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2956.md)
 
 ## Property: has_MitigationPrinciple
 
 Incorporating inclusive urban planning principles to prioritize the needs and safety of vulnerable groups, promoting community development, and ensuring resilience and sustainability.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Impact of Covid-19 on the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_10.md)
 

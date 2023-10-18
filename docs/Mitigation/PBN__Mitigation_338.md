@@ -2,7 +2,7 @@
 
 # __Better isolating materials__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
 
 ## Closest similar item
@@ -18,14 +18,14 @@
 * [Use of local and sustainable materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_784.md)
 * [Removal of visible contaminants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2328.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Scalable IoT Architecture for Monitoring IEQ Conditions in Public and Private Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_234.md)
 
 ## Property: has_MitigationPrinciple
 
 Improve the energy efficiency and thermal comfort of buildings
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Scalable IoT Architecture for Monitoring IEQ Conditions in Public and Private Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_234.md)
 

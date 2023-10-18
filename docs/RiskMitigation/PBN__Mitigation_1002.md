@@ -2,9 +2,9 @@
 
 # __Carbon Border Tax__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Challenges in implementing and enforcing the Carbon Border Tax](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2854.md)
+* [carbon allowances](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3576.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Border closures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1550.md)
 * [Health declaration border pass](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2317.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Borders and Catastrophe: lessons from COVID-19 for the European Green Deal](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_156.md)
+* [Challenges in implementing and enforcing the Carbon Border Tax](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2854.md)
 
 ## Property: has_MitigationPrinciple
 
 Protect European industries from competitors with lower climate change reduction policies
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [carbon allowances](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3576.md)
+* [Borders and Catastrophe: lessons from COVID-19 for the European Green Deal](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_156.md)
 

@@ -2,10 +2,6 @@
 
 # __Psychological well-being of nurses__
 
-## Name of the Benefit
-
-Providing emotional support and motivation improves the psychological well-being of nurses, reducing stress, anxiety, and depression, and promoting resilience and job satisfaction
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investing in the psychological well-being of nurses can have several benefits for private investors, including improved retention rates, higher productivity, reduced absenteeism, and enhanced reputation for the organization.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_488.md)
@@ -18,4 +14,8 @@ Providing emotional support and motivation improves the psychological well-being
 ## Articles mentionning this Benefit
 
 * [Management of the COVID-19 pandemic: challenges, practices, and organizational support](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_92.md)
+
+## Name of the Benefit
+
+Providing emotional support and motivation improves the psychological well-being of nurses, reducing stress, anxiety, and depression, and promoting resilience and job satisfaction
 

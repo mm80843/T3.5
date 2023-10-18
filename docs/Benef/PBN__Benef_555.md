@@ -2,10 +2,6 @@
 
 # __Enhanced feeling of safety__
 
-## Name of the Benefit
-
-Increased perception of safety, reduces risk of infection
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Restores trust and encourages more passengers to use public transport](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_609.md)
@@ -17,4 +13,8 @@ Increased perception of safety, reduces risk of infection
 ## Articles mentionning this Benefit
 
 * [Mobility Behaviour in View of the Impact of the COVID-19 Pandemic—Public Transport Users in Gdansk Case Study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_113.md)
+
+## Name of the Benefit
+
+Increased perception of safety, reduces risk of infection
 

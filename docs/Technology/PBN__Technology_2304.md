@@ -2,6 +2,9 @@
 
 # __Language interpretation services__
 
+## This Technology belongs to this TechSubgroup
+
+
 ## Closest similar item
 
 * [Language interpretation services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2304.md)
@@ -15,14 +18,11 @@
 * [development of accurate language databases](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2019.md)
 * [Development of accurate language databases](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2620.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
 
 ## This Technology is identified by the following QID
 
 * [Q1993334](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1993334.md)
-
-## This Technology belongs to this TechGroup
-
-* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
 

@@ -2,8 +2,10 @@
 
 # __Horizontal urban development__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_922.md)
+* [land use regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4498.md)
 
 ## Closest similar item
 
@@ -18,16 +20,14 @@
 * [Urban geometry](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2877.md)
 * [Expansion of urban green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2903.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Urban design attributes and resilience: COVID-19 evidence from New York City](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_6.md)
 
 ## Property: has_MitigationPrinciple
 
 Promote a more horizontally distributed urban development to decrease epidemic risk.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_922.md)
-* [land use regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4498.md)
+* [Urban design attributes and resilience: COVID-19 evidence from New York City](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_6.md)
 

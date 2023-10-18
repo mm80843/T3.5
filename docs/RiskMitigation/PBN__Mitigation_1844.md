@@ -2,8 +2,9 @@
 
 # __Posting hygiene signage__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [signage materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4103.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Increased Hygiene Practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1712.md)
 * [Neighbourhood Hygiene Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_144.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [A Global Survey of Infection Control and Mitigation Measures for Combating the Transmission of COVID-19 Pandemic in Buildings Under Facilities Management Services](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_27.md)
 
 ## Property: has_MitigationPrinciple
 
 Posting of educational hygiene signage, such as handwashing signage, in buildings to remind individuals to practice proper hygiene and reduce the risk of transmission.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [signage materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4103.md)
+* [A Global Survey of Infection Control and Mitigation Measures for Combating the Transmission of COVID-19 Pandemic in Buildings Under Facilities Management Services](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_27.md)
 

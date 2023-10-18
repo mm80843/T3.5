@@ -2,9 +2,9 @@
 
 # __Robustness of Critical Infrastructure__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Threat events](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3364.md)
+* [resilient design principles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4304.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Resilient Approach](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2186.md)
 * [Resilience Building](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1026.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Preparing critical infrastructure for the future: Lessons learnt from the Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_129.md)
+* [Threat events](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3364.md)
 
 ## Property: has_MitigationPrinciple
 
 Critical infrastructure should have the ability to withstand any kind of disturbance and not suffer degradation or loss of function. It should be able to perform despite challenges and absorb the impact of disruptive events.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [resilient design principles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4304.md)
+* [Preparing critical infrastructure for the future: Lessons learnt from the Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_129.md)
 

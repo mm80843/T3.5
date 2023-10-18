@@ -2,6 +2,10 @@
 
 # __L5GO networks__
 
+## This Technology belongs to this TechSubgroup
+
+* [Hardware and Devices](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_117.md)
+
 ## Closest similar item
 
 * [L5GO networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2858.md)
@@ -15,15 +19,11 @@
 * [connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4145.md)
 * [efficient network](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3732.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Hardware and Devices](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_117.md)
+* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
 
 ## This Technology is identified by the following QID
 
 * [Q29724718](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q29724718.md)
-
-## This Technology belongs to this TechGroup
-
-* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
 

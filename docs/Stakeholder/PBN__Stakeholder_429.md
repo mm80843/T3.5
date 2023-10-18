@@ -2,6 +2,14 @@
 
 # __conservation practitioners__
 
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Enhanced understanding of risks and impacts](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1063.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q16060693](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q16060693.md)
+
 ## Closest similar item
 
 * [conservation authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2663.md)
@@ -14,12 +22,4 @@
 * [wildlife conservation organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_545.md)
 * [conservation sites](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1480.md)
 * [wildlife conservation organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2678.md)
-
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Enhanced understanding of risks and impacts](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1063.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q16060693](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q16060693.md)
 

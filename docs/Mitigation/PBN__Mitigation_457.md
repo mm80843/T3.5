@@ -2,8 +2,10 @@
 
 # __Adaptation of exercise intensity and volume__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [fitness apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3239.md)
+* [wearable sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2949.md)
 
 ## Closest similar item
 
@@ -18,16 +20,14 @@
 * [Frequency of physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_75.md)
 * [Exercises and Trainings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2188.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Staying Physically Active During the Quarantine and Self-Isolation Period for Controlling and Mitigating the COVID-19 Pandemic: A Systematic Overview of the Literature](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_181.md)
 
 ## Property: has_MitigationPrinciple
 
 Adjusting the intensity and volume of exercises based on individual fitness levels and progression.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [fitness apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3239.md)
-* [wearable sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2949.md)
+* [Staying Physically Active During the Quarantine and Self-Isolation Period for Controlling and Mitigating the COVID-19 Pandemic: A Systematic Overview of the Literature](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_181.md)
 

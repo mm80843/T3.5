@@ -2,6 +2,10 @@
 
 # __farmers__
 
+## This Stakeholder is identified by the following QID
+
+* [Q5856093](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5856093.md)
+
 ## Closest similar item
 
 * [agricultural workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1211.md)
@@ -15,11 +19,6 @@
 * [Workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1708.md)
 * [gardening clubs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_805.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Food security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_232.md)
-* [Food supply disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1858.md)
-
 ## Risk affecting this stakeholder
 
 * [Contagion from animals to humans](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1539.md)
@@ -30,7 +29,8 @@
 * [Preserving natural resources](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_286.md)
 * [Food and nutrition security](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_289.md)
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q5856093](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5856093.md)
+* [Food security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_232.md)
+* [Food supply disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1858.md)
 

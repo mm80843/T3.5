@@ -2,7 +2,7 @@
 
 # __Community gardens__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
 
 ## Closest similar item
@@ -18,14 +18,14 @@
 * [gardening spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3017.md)
 * [community areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3018.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Impact of Covid-19 on the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_10.md)
 
 ## Property: has_MitigationPrinciple
 
 Promoting community gardens as flexible spaces that support physical distancing, provide social and emotional connections, and contribute to the overall urban fabric in a neighbourhood.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Impact of Covid-19 on the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_10.md)
 

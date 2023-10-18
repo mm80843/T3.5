@@ -2,9 +2,10 @@
 
 # __Mobilizing informal institutions for education__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Interrupted education for children and adults](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_780.md)
+* [community support groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_75.md)
+* [chws](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2955.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Closure of schools and universities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2300.md)
 * [Enhanced education access and equity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1072.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19 pandemic and mitigation strategies: implications for maternal and child health and nutrition](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_222.md)
+* [Interrupted education for children and adults](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_780.md)
 
 ## Property: has_MitigationPrinciple
 
 Utilize existing informal educational systems to continue delivering health and general education to children and communities during periods of school closures.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [community support groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_75.md)
-* [chws](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2955.md)
+* [COVID-19 pandemic and mitigation strategies: implications for maternal and child health and nutrition](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_222.md)
 

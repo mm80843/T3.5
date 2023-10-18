@@ -2,10 +2,6 @@
 
 # __Reduction in community transmission__
 
-## Name of the Benefit
-
-Restricting unnecessary movement and mingling of people in shops and public gatherings reduces the spread of the virus.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors benefit from reduced transmission rates and a healthier population, leading to a more stable economy and potential increase in asset values.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_814.md)
@@ -17,4 +13,8 @@ Restricting unnecessary movement and mingling of people in shops and public gath
 ## Articles mentionning this Benefit
 
 * [Designing for COVID-2x: Reflecting on Future-Proofing Human Habitation for the Inevitable Next Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_149.md)
+
+## Name of the Benefit
+
+Restricting unnecessary movement and mingling of people in shops and public gatherings reduces the spread of the virus.
 

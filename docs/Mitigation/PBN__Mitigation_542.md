@@ -2,9 +2,9 @@
 
 # __Contact tracing and surveillance__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Transmission clusters](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2620.md)
+* [digital tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3293.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Contact tracing and testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2226.md)
 * [Contact Tracing Apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_360.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [A Platform for Citizen Cooperation during the COVID-19 Pandemic in RN, Brazil](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_46.md)
+* [Transmission clusters](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2620.md)
 
 ## Property: has_MitigationPrinciple
 
 Identifying and tracing close contacts of infected individuals, along with monitoring and surveillance, can help control transmission clusters in communities.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [digital tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3293.md)
+* [A Platform for Citizen Cooperation during the COVID-19 Pandemic in RN, Brazil](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_46.md)
 

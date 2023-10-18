@@ -2,9 +2,8 @@
 
 # __Signal calibration__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Unknown calibration of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2607.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Portable noise measurement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1101.md)
 * [Early detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_98.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Wastewater surveillance for population-wide Covid-19: The present and future](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_213.md)
+* [Unknown calibration of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2607.md)
 
 ## Property: has_MitigationPrinciple
 
 Establish the relationship between the marker measured in wastewater and the actual number of cases represented by the data
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Wastewater surveillance for population-wide Covid-19: The present and future](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_213.md)
 

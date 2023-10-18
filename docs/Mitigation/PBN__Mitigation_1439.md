@@ -2,7 +2,7 @@
 
 # __Strengthening wastewater treatment__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
 
 ## Closest similar item
@@ -18,14 +18,14 @@
 * [Biofiltration technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1306.md)
 * [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1138.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The COVID-19 pandemic: Considerations for the waste and wastewater services sector](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_229.md)
 
 ## Property: has_MitigationPrinciple
 
 Implementing monitoring or control measures in the upstream collection network to prevent the spread of COVID-19 in the wastewater handling and treatment process
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [The COVID-19 pandemic: Considerations for the waste and wastewater services sector](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_229.md)
 

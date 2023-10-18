@@ -2,22 +2,25 @@
 
 # __High energy consumption in residential buildings__
 
+## Property: has_RiskHealth
+
+
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Description of the risk
+
+Energy consumption in residential buildings in Kuwait is high due to climatically incompatible designs and energy-unconscious behavior of occupants.
+
 ## Property: has_RiskType
 
 * [environmental](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_0.md)
 * [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
-## People affected by this risk
+## Articles mentionning the risk
 
-* [occupants of residential buildings in kuwait](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_583.md)
-
-## Name of the risk
-
-Increased electricity consumption and higher costs for individuals and the government.
-
-## Property: has_RiskISO_Purpose
-
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+* [Occupants’ behavior and activity patterns influencing the energy consumption in the Kuwaiti residences](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_260.md)
 
 ## Closest similar item
 
@@ -32,18 +35,24 @@ Increased electricity consumption and higher costs for individuals and the gover
 * [Energy Consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1768.md)
 * [Energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_745.md)
 
-## Description of the risk
+## People affected by this risk
 
-Energy consumption in residential buildings in Kuwait is high due to climatically incompatible designs and energy-unconscious behavior of occupants.
+* [occupants of residential buildings in kuwait](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_583.md)
 
-## Technologies linked to the risk
+## Property: has_RiskISO_Impact
 
-* [insulation materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_80.md)
-* [energy-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_79.md)
-* [energy-efficient technologies such as smart thermostats](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_78.md)
+* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_8.md)
 
-## Property: has_RiskHealth
+## Stakeholders who can mitigate this risk
 
+* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+* [architects](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_431.md)
+* [builders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_585.md)
+* [ministry of electricity and water (mew)](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_584.md)
+
+## Name of the risk
+
+Increased electricity consumption and higher costs for individuals and the government.
 
 ## Mitigations of this risk
 
@@ -54,22 +63,13 @@ Energy consumption in residential buildings in Kuwait is high due to climaticall
 * [Modification of occupants’ behavior](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1251.md)
 * [Increasing public awareness towards energy conservation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1252.md)
 
-## Articles mentionning the risk
+## Property: has_RiskISO_Purpose
 
-* [Occupants’ behavior and activity patterns influencing the energy consumption in the Kuwaiti residences](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_260.md)
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
 
-## Property: has_RiskISO_Impact
+## Technologies linked to the risk
 
-* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_8.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Stakeholders who can mitigate this risk
-
-* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
-* [architects](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_431.md)
-* [builders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_585.md)
-* [ministry of electricity and water (mew)](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_584.md)
+* [insulation materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_80.md)
+* [energy-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_79.md)
+* [energy-efficient technologies such as smart thermostats](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_78.md)
 

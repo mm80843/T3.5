@@ -2,6 +2,10 @@
 
 # __employees__
 
+## This Stakeholder is identified by the following QID
+
+* [Q105764136](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q105764136.md)
+
 ## Closest similar item
 
 * [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
@@ -89,8 +93,4 @@
 * [Swift contact tracing and case isolation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1219.md)
 * [Reduction in COVID-19 infections](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1220.md)
 * [Lower positivity rates following combined measures](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1221.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q105764136](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q105764136.md)
 

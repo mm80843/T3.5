@@ -2,9 +2,10 @@
 
 # __Collaboration with national and international partners__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Limited resources and expertise](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3389.md)
+* [international partnerships](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4327.md)
+* [collaboration agreements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4328.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Cross-disciplinary collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1483.md)
 * [National and international funding](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_520.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Access and Use of Green Areas during the COVID-19 Pandemic: Green Infrastructure Management in the “New Normal”](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_275.md)
+* [Limited resources and expertise](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3389.md)
 
 ## Property: has_MitigationPrinciple
 
 Foster collaborations with national and international partners to enhance green area management through shared knowledge, resources, and expertise
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [international partnerships](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4327.md)
-* [collaboration agreements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4328.md)
+* [Access and Use of Green Areas during the COVID-19 Pandemic: Green Infrastructure Management in the “New Normal”](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_275.md)
 

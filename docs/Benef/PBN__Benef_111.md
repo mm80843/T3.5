@@ -2,10 +2,6 @@
 
 # __Prevention of mass gatherings__
 
-## Name of the Benefit
-
-Reduction in travel-related cases and potential for large-scale transmission
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investing in targeted measures during mass gathering events can prevent outbreaks, protect public health, and minimize economic impact.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_110.md)
@@ -18,4 +14,8 @@ Reduction in travel-related cases and potential for large-scale transmission
 ## Articles mentionning this Benefit
 
 * [Response to COVID-19 in Taiwan: Big Data Analytics, New Technology, and Proactive Testing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_24.md)
+
+## Name of the Benefit
+
+Reduction in travel-related cases and potential for large-scale transmission
 

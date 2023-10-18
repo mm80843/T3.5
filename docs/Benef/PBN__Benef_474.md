@@ -2,10 +2,6 @@
 
 # __Risk reduction__
 
-## Name of the Benefit
-
-Physical distancing measures, such as maintaining distance between individuals and limiting occupancy in shared spaces, reduce the risk of contagion and promote a safer environment.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investing in wastewater monitoring can ensure the efficient operation of wastewater treatment plants and help prevent disruptions in economic activities due to lockdowns.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_517.md)
@@ -21,4 +17,8 @@ Physical distancing measures, such as maintaining distance between individuals a
 
 * [SARS-CoV-2 RNA in wastewater anticipated COVID-19 occurrence in a low prevalence area](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_96.md)
 * [El impacto del teletrabajo en tiempos del COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_108.md)
+
+## Name of the Benefit
+
+Physical distancing measures, such as maintaining distance between individuals and limiting occupancy in shared spaces, reduce the risk of contagion and promote a safer environment.
 

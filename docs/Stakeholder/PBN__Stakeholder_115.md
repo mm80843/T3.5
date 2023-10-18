@@ -2,6 +2,10 @@
 
 # __vulnerable groups__
 
+## This Stakeholder is identified by the following QID
+
+* [Q3376054](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3376054.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
@@ -40,8 +44,4 @@
 * [Enhanced emotional health and well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_419.md)
 * [Greater community building](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_422.md)
 * [Equality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1181.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q3376054](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3376054.md)
 

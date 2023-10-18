@@ -2,9 +2,9 @@
 
 # __Infrared Thermal Cameras__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
+* [infrared thermal camera technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3179.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Digital thermometers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2374.md)
 * [Temperature Screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_466.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID19-Routes: A Safe Pedestrian Navigation Service](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_201.md)
+* [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
 
 ## Property: has_MitigationPrinciple
 
 Detecting individuals with fever in real-time at airports
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [infrared thermal camera technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3179.md)
+* [COVID19-Routes: A Safe Pedestrian Navigation Service](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_201.md)
 

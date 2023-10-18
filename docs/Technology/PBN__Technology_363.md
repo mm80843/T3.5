@@ -2,6 +2,11 @@
 
 # __cleaning equipment__
 
+## Risks linked to this technology
+
+* [Making social spaces safe and viable](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_266.md)
+* [Inadequate cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1298.md)
+
 ## Closest similar item
 
 * [cleaning equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_363.md)
@@ -15,10 +20,9 @@
 * [cleaning supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_148.md)
 * [Cleaning supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2266.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Making social spaces safe and viable](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_266.md)
-* [Inadequate cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1298.md)
+* [Q26270576](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q26270576.md)
 
 ## This Technology enables the following mitigations
 
@@ -28,8 +32,4 @@
 * [Increased cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_954.md)
 * [Enhanced Cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1224.md)
 * [Enhanced cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_820.md)
-
-## This Technology is identified by the following QID
-
-* [Q26270576](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q26270576.md)
 

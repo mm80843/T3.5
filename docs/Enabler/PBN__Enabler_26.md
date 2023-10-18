@@ -2,9 +2,13 @@
 
 # __Antimicrobial coating__
 
-## Thees blueprints use this enabler
+## Property: has_TechEquivalent
 
-* [Antimicrobial Surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_5.md)
+* [Antimicrobial coating](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4551.md)
+
+## Property: has_BP_EnablerTitle
+
+enabler_027
 
 ## Closest similar item
 
@@ -19,11 +23,7 @@
 * [anti-microbial materials](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_275.md)
 * [anti-bacterial materials](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_276.md)
 
-## Property: has_TechEquivalent
+## Thees blueprints use this enabler
 
-* [Antimicrobial coating](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4551.md)
-
-## Property: has_BP_EnablerTitle
-
-enabler_027
+* [Antimicrobial Surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_5.md)
 

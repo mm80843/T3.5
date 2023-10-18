@@ -2,6 +2,10 @@
 
 # __real-time data analysis__
 
+## Risks linked to this technology
+
+* [Delayed decision making](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_659.md)
+
 ## Closest similar item
 
 * [Real-time data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2115.md)
@@ -15,15 +19,11 @@
 * [real-time data aggregation tools and apis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1965.md)
 * [Advanced data analysis and modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2660.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Delayed decision making](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_659.md)
+* [Q7300787](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7300787.md)
 
 ## This Technology enables the following mitigations
 
 * [Converged Command Centres](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_105.md)
-
-## This Technology is identified by the following QID
-
-* [Q7300787](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7300787.md)
 

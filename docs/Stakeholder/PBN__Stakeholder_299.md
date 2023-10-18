@@ -2,6 +2,15 @@
 
 # __infrastructure sector__
 
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Skill development](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_715.md)
+* [Workplace adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_716.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q121359](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q121359.md)
+
 ## Closest similar item
 
 * [transportation sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1588.md)
@@ -14,13 +23,4 @@
 * [public sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_87.md)
 * [housing sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1938.md)
 * [real estate sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1886.md)
-
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Skill development](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_715.md)
-* [Workplace adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_716.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q121359](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q121359.md)
 

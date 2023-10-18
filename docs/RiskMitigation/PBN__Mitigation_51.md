@@ -2,7 +2,7 @@
 
 # __Proximity of green space__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
 
 ## Closest similar item
@@ -18,14 +18,14 @@
 * [Access to open green space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2281.md)
 * [Green space design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1048.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Urban form: Realising the value of green space: a planners’ perspective on the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_41.md)
 
 ## Property: has_MitigationPrinciple
 
 Proximity to green space positively affects individuals, resulting in higher levels of physical activity and improved health outcomes.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Urban form: Realising the value of green space: a planners’ perspective on the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_41.md)
 

@@ -2,6 +2,15 @@
 
 # __green corridors__
 
+## Risks linked to this technology
+
+* [Urban heat islands (UHIs)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_367.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Urban Planning and Green Spaces](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_85.md)
+* [Green Spaces and Urban Design](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_84.md)
+
 ## Closest similar item
 
 * [green areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4038.md)
@@ -14,15 +23,6 @@
 * [development of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1619.md)
 * [Development of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2218.md)
 * [green space design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3370.md)
-
-## Risks linked to this technology
-
-* [Urban heat islands (UHIs)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_367.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Urban Planning and Green Spaces](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_85.md)
-* [Green Spaces and Urban Design](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_84.md)
 
 ## This Technology belongs to this TechGroup
 

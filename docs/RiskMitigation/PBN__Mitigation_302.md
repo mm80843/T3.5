@@ -2,9 +2,10 @@
 
 # __Management of Deliveries__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Virus Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2525.md)
+* [material quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3143.md)
+* [coordination with suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3142.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Cold chain logistics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1620.md)
 * [Promoting online shopping and delivery services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2279.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Analysis of COVID-19 Concerns Raised by the Construction Workforce and Development of Mitigation Practices](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_82.md)
+* [Virus Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2525.md)
 
 ## Property: has_MitigationPrinciple
 
 Manage and handle deliveries safely to minimize virus exposure risks, including touch-free deliveries, limited access to delivery areas, sanitizing materials and equipment, and quarantining paper documents before distributing them.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [material quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3143.md)
-* [coordination with suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3142.md)
+* [Analysis of COVID-19 Concerns Raised by the Construction Workforce and Development of Mitigation Practices](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_82.md)
 

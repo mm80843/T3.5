@@ -2,6 +2,11 @@
 
 # __high-efficiency particulate air (hepa) filters__
 
+## Risks linked to this technology
+
+* [Spread of SARS-CoV-2 through the air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2168.md)
+* [Inadequate filtration of other pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2169.md)
+
 ## Closest similar item
 
 * [high-efficiency particulate air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1743.md)
@@ -15,16 +20,11 @@
 * [air purifier with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3287.md)
 * [use of high-efficiency air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_501.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Spread of SARS-CoV-2 through the air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2168.md)
-* [Inadequate filtration of other pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2169.md)
+* [Q948441](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q948441.md)
 
 ## This Technology enables the following mitigations
 
 * [Portable Air Filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2089.md)
-
-## This Technology is identified by the following QID
-
-* [Q948441](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q948441.md)
 

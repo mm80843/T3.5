@@ -2,9 +2,10 @@
 
 # __Care infrastructures__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Harms in the neighbourhood](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2709.md)
+* [public facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3416.md)
+* [community care centers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3415.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Improved health care facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1262.md)
 * [Strengthened healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1069.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Dangerous liaisons? Applying the social harm perspective to the social inequality, housing and health trifecta during the Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_2.md)
+* [Harms in the neighbourhood](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2709.md)
 
 ## Property: has_MitigationPrinciple
 
 Shift and reduce harm by providing care and support infrastructures in the community to address health and social issues
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [public facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3416.md)
-* [community care centers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3415.md)
+* [Dangerous liaisons? Applying the social harm perspective to the social inequality, housing and health trifecta during the Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_2.md)
 

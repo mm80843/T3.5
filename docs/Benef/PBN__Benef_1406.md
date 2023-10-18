@@ -2,10 +2,6 @@
 
 # __Food security and sustainability__
 
-## Name of the Benefit
-
-Implementing urban farming in the built environment can improve food security and nutrition, reduce climate change impacts, and lower stress.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can benefit from the increased demand for properties with urban farming facilities, leading to potential value appreciation of their investments.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1596.md)
@@ -17,4 +13,8 @@ Implementing urban farming in the built environment can improve food security an
 ## Articles mentionning this Benefit
 
 * [Antivirus-built environment: Lessons learned from Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_298.md)
+
+## Name of the Benefit
+
+Implementing urban farming in the built environment can improve food security and nutrition, reduce climate change impacts, and lower stress.
 

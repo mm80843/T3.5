@@ -2,8 +2,9 @@
 
 # __Robots__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [robotics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1173.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [robotic systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3208.md)
 * [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3209.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The role of contemporary digital tools and technologies in COVID19 crisis: An exploratory analysis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_226.md)
 
 ## Property: has_MitigationPrinciple
 
 Robots can reduce interpersonal contact, assist with delivery and transportation, and perform cleaning and disinfection tasks.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [robotics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1173.md)
+* [The role of contemporary digital tools and technologies in COVID19 crisis: An exploratory analysis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_226.md)
 

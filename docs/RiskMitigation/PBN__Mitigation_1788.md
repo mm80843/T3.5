@@ -2,9 +2,9 @@
 
 # __Adequate Air Exchange__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Poor Indoor Air Quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1121.md)
+* [natural/forced ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4069.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Air ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2217.md)
 * [Regular air changes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1425.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [A comprehensive review on indoor air quality monitoring systems for enhanced public health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_281.md)
+* [Poor Indoor Air Quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1121.md)
 
 ## Property: has_MitigationPrinciple
 
 Ensure adequate air exchange in rooms and buildings through natural or forced ventilation systems to remove stale air and pollutants and promote a healthy indoor environment.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [natural/forced ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4069.md)
+* [A comprehensive review on indoor air quality monitoring systems for enhanced public health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_281.md)
 

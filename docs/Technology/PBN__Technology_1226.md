@@ -2,6 +2,13 @@
 
 # __data-driven food supply management systems__
 
+## Risks linked to this technology
+
+* [Food supply disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1858.md)
+
+## This Technology belongs to this TechSubgroup
+
+
 ## Closest similar item
 
 * [food supply technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3973.md)
@@ -15,18 +22,11 @@
 * [data management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_514.md)
 * [supply chain management systems and tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1792.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Food supply disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1858.md)
-
-## This Technology belongs to this TechSubgroup
-
+* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
 
 ## This Technology is identified by the following QID
 
 * [Q5465458](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5465458.md)
-
-## This Technology belongs to this TechGroup
-
-* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
 

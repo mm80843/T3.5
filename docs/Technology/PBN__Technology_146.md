@@ -2,6 +2,16 @@
 
 # __green spaces__
 
+## Risks linked to this technology
+
+* [Lack of relaxation space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1094.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Green Spaces and Urban Design](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_84.md)
+* [Urban Planning and Green Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_82.md)
+* [Green and Outdoor Spaces](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_83.md)
+
 ## Closest similar item
 
 * [access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3551.md)
@@ -15,25 +25,15 @@
 * [Temporary parks and green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2339.md)
 * [green space management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3372.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Lack of relaxation space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1094.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Green Spaces and Urban Design](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_84.md)
-* [Urban Planning and Green Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_82.md)
-* [Green and Outdoor Spaces](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_83.md)
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
+* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_12.md)
 
 ## This Technology enables the following mitigations
 
 * [Access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_125.md)
 * [Increased greenery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2166.md)
 * [Presence of green spaces and natural elements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1157.md)
-
-## This Technology belongs to this TechGroup
-
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
-* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
-* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_12.md)
 

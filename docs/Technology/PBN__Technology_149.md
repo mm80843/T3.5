@@ -2,11 +2,6 @@
 
 # __ai algorithms__
 
-## This Technology enables the following mitigations
-
-* [AI-based Diagnosis and Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1321.md)
-* [IoT and AI](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1319.md)
-
 ## Risks linked to this technology
 
 * [Lack of social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2071.md)
@@ -16,6 +11,11 @@
 * [Information overload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1612.md)
 * [Misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1033.md)
 * [Non-compliance with face mask rules](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1944.md)
+
+## This Technology enables the following mitigations
+
+* [AI-based Diagnosis and Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1321.md)
+* [IoT and AI](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1319.md)
 
 ## Closest similar item
 

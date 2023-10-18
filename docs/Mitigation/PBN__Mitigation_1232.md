@@ -2,9 +2,9 @@
 
 # __Biosensors for diagnostics__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of quick and accurate diagnostics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2981.md)
+* [bio-sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3755.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Antimicrobial Resistance Gene Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1925.md)
 * [Digital thermometers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2374.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Water and wastewater digital surveillance for monitoring and early detection of the COVID-19 hotspot: industry 4.0](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_162.md)
+* [Lack of quick and accurate diagnostics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2981.md)
 
 ## Property: has_MitigationPrinciple
 
 Develop biosensors for early and specific detection of COVID-19 in individuals and water samples
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [bio-sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3755.md)
+* [Water and wastewater digital surveillance for monitoring and early detection of the COVID-19 hotspot: industry 4.0](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_162.md)
 

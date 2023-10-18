@@ -2,6 +2,10 @@
 
 # __energy assistance programs__
 
+## This Stakeholder is identified by the following QID
+
+* [Q5376986](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5376986.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
@@ -19,15 +23,11 @@
 * [energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3064.md)
 * [Energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3065.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Financial burden on low-income households](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1567.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Energy](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_30.md)
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q5376986](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5376986.md)
+* [Financial burden on low-income households](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1567.md)
 

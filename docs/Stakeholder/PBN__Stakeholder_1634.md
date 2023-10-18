@@ -2,6 +2,10 @@
 
 # __education department__
 
+## This Stakeholder is identified by the following QID
+
+* [Q98091106](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q98091106.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Education](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_1.md)
@@ -22,8 +26,4 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Educational Authorities and Departments](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_13.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q98091106](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q98091106.md)
 

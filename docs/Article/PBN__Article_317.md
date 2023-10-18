@@ -2,10 +2,6 @@
 
 # __A Review on Building Design as a Biomedical System for Preventing COVID-19 Pandemic__
 
-## Title of the article
-
-A Review on Building Design as a Biomedical System for Preventing COVID-19 Pandemic
-
 ## Referenced by other articles
 
 * [Mobility Behaviour in View of the Impact of the COVID-19 Pandemic—Public Transport Users in Gdansk Case Study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_113.md)
@@ -30,11 +26,15 @@ A Review on Building Design as a Biomedical System for Preventing COVID-19 Pande
 * [How Architecture Fails in Conditions of Crisis: a Discussion on the Value of Interior Design over the COVID-19 Outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_34.md)
 * [Indoor Air Quality: Rethinking rules of building design strategies in post-pandemic architecture](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_206.md)
 
-## Year of publication
-
-2022
-
 ## DOI of the article
 
 10.3390/buildings12050582
+
+## Title of the article
+
+A Review on Building Design as a Biomedical System for Preventing COVID-19 Pandemic
+
+## Year of publication
+
+2022
 

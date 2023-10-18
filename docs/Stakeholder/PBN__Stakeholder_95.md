@@ -2,6 +2,10 @@
 
 # __residents of informal settlements__
 
+## This Stakeholder is identified by the following QID
+
+* [Q486972](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q486972.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
@@ -37,8 +41,4 @@
 * [Continued income and employment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_163.md)
 * [Improved access to healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_164.md)
 * [Reduced stigma and discrimination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_165.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q486972](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q486972.md)
 

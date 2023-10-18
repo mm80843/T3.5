@@ -2,9 +2,8 @@
 
 # __Interruption of access to food for children from households dependent on school-feeding programs__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Food insecurity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1876.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Adaptation of schools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2003.md)
 * [School and Workplace Closings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1381.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Implications of COVID-19 control measures for diet and physical activity, and lessons for addressing other pandemics facing rapidly urbanising countries](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_68.md)
+* [Food insecurity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1876.md)
 
 ## Property: has_MitigationPrinciple
 
 Disrupts the access to food for children who rely on school feeding programs, potentially increasing household food insecurity
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Implications of COVID-19 control measures for diet and physical activity, and lessons for addressing other pandemics facing rapidly urbanising countries](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_68.md)
 

@@ -2,6 +2,10 @@
 
 # __non-gated community residents__
 
+## This Stakeholder is identified by the following QID
+
+* [Q33829](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q33829.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
@@ -22,8 +26,4 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Residents](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_72.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q33829](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q33829.md)
 

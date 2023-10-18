@@ -2,8 +2,9 @@
 
 # __Improvement__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [wastewater treatment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3987.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Public transportation improvements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1503.md)
 * [Improved air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1070.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [rahim_impact_2022 rahim_impact_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_309.md)
 
 ## Property: has_MitigationPrinciple
 
 nan
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [wastewater treatment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3987.md)
+* [rahim_impact_2022 rahim_impact_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_309.md)
 

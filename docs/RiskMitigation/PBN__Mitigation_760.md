@@ -2,9 +2,9 @@
 
 # __Increased sampling of wastewater treatment plants__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Limited testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2721.md)
+* [wastewater sampling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3432.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Water consumption and Wastewater Management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_499.md)
 * [Wastewater-based surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2410.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Computational analysis of SARS-CoV-2/COVID-19 surveillance by wastewater-based epidemiology locally and globally: Feasibility, economy, opportunities and challenges](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_252.md)
+* [Limited testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2721.md)
 
 ## Property: has_MitigationPrinciple
 
 Sampling and analysis of wastewater from multiple treatment plants to monitor virus occurrence and spread in a population more efficiently than individual testing.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [wastewater sampling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3432.md)
+* [Computational analysis of SARS-CoV-2/COVID-19 surveillance by wastewater-based epidemiology locally and globally: Feasibility, economy, opportunities and challenges](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_252.md)
 

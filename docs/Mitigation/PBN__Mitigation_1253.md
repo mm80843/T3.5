@@ -2,9 +2,8 @@
 
 # __Self-quarantine and self-screening__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Compliance, accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2996.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Mandatory quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1338.md)
 * [Home quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_238.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [A critical review of emerging technologies for tackling COVID ‐19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_91.md)
+* [Compliance, accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2996.md)
 
 ## Property: has_MitigationPrinciple
 
 Encourage individuals to isolate and monitor themselves for symptoms to prevent transmission
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [A critical review of emerging technologies for tackling COVID ‐19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_91.md)
 

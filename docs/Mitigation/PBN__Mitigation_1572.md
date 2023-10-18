@@ -2,9 +2,8 @@
 
 # __Internal travel constraints__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Spread of contagious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_20.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Reduced traveling and walking opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1535.md)
 * [Mobility limitations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_31.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Health, Economic and Social Development Challenges of the COVID-19 Pandemic: Strategies for Multiple and Interconnected Issues](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_144.md)
+* [Spread of contagious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_20.md)
 
 ## Property: has_MitigationPrinciple
 
 Restricting movement within a country to prevent the spread of diseases between regions/areas
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Health, Economic and Social Development Challenges of the COVID-19 Pandemic: Strategies for Multiple and Interconnected Issues](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_144.md)
 

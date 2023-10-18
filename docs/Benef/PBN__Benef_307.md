@@ -2,10 +2,6 @@
 
 # __Improved resilience to supply shocks__
 
-## Name of the Benefit
-
-Appropriate balance between benefits and costs of stockpiling essential goods
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Greater resilience to supply shocks, reduced reliance on emergency refills](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_325.md)
@@ -18,4 +14,8 @@ Appropriate balance between benefits and costs of stockpiling essential goods
 ## Articles mentionning this Benefit
 
 * [Global value chains: Efficiency and risks in the context of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_60.md)
+
+## Name of the Benefit
+
+Appropriate balance between benefits and costs of stockpiling essential goods
 

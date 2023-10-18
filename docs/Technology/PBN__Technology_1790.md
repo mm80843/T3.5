@@ -2,6 +2,14 @@
 
 # __waste separation and disinfection systems__
 
+## Risks linked to this technology
+
+* [Waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_613.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Waste Management Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_161.md)
+
 ## Closest similar item
 
 * [waste separation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4289.md)
@@ -15,19 +23,11 @@
 * [disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_350.md)
 * [Disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2572.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_613.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Waste Management Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_161.md)
+* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
 
 ## This Technology is identified by the following QID
 
 * [Q24887418](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q24887418.md)
-
-## This Technology belongs to this TechGroup
-
-* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
 

@@ -2,9 +2,10 @@
 
 # __Artificial intelligence in predictive analytics__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of accurate predictions and decision making](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2984.md)
+* [machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3004.md)
+* [deep learning models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3759.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Big data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_286.md)
 * [Data Mining and Machine Learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_169.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Water and wastewater digital surveillance for monitoring and early detection of the COVID-19 hotspot: industry 4.0](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_162.md)
+* [Lack of accurate predictions and decision making](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2984.md)
 
 ## Property: has_MitigationPrinciple
 
 Use AI models to predict and forecast the spread of COVID-19, identify high-risk areas, and support decision-making processes
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3004.md)
-* [deep learning models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3759.md)
+* [Water and wastewater digital surveillance for monitoring and early detection of the COVID-19 hotspot: industry 4.0](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_162.md)
 

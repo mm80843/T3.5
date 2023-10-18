@@ -19,6 +19,21 @@
 * [commercial vendors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2733.md)
 * [products](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2770.md)
 
+## Risk affecting this stakeholder
+
+* [Delayed drug development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1801.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Tracking antimicrobial usage](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_217.md)
+* [Faster vaccine development](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_580.md)
+* [Accelerated drug testing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_663.md)
+* [Strengthened supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_684.md)
+* [Disease prevention](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_915.md)
+
 ## Risks that can be mitigated by this stakeholder
 
 * [Development of drugs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_431.md)
@@ -34,19 +49,4 @@
 * [Lack of drugs and vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1349.md)
 * [Lack of drug therapy options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1146.md)
 * [Lack of vaccines and agent-specific drugs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1540.md)
-
-## Risk affecting this stakeholder
-
-* [Delayed drug development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1801.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Tracking antimicrobial usage](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_217.md)
-* [Faster vaccine development](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_580.md)
-* [Accelerated drug testing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_663.md)
-* [Strengthened supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_684.md)
-* [Disease prevention](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_915.md)
 

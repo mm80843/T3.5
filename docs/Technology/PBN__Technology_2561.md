@@ -2,6 +2,10 @@
 
 # __Masks__
 
+## This Technology belongs to this TechSubgroup
+
+* [Personal Protective Equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_58.md)
+
 ## Closest similar item
 
 * [Masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2561.md)
@@ -15,15 +19,11 @@
 * [masks or face coverings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3065.md)
 * [widespread use of masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_584.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Personal Protective Equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_58.md)
+* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
 
 ## This Technology is identified by the following QID
 
 * [Q3496615](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3496615.md)
-
-## This Technology belongs to this TechGroup
-
-* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
 

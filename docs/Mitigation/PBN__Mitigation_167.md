@@ -2,8 +2,9 @@
 
 # __Face Masks with Integrated Sensors__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [face masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_342.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Wearing masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_218.md)
 * [Wearing Masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_922.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Wearable devices for the detection of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_296.md)
 
 ## Property: has_MitigationPrinciple
 
 Continuous monitoring of important parameters via exhaled breath for the detection of respiratory diseases like COVID-19
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [face masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_342.md)
+* [Wearable devices for the detection of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_296.md)
 

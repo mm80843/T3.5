@@ -19,6 +19,18 @@
 * [hospital patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1061.md)
 * [hospital patients and staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_309.md)
 
+## Risk affecting this stakeholder
+
+* [Lack of design flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1694.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Healthcare Administration](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_49.md)
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Adaptability of building to meet shifting demands](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_619.md)
+
 ## Risks that can be mitigated by this stakeholder
 
 * [Airborne transmission of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1286.md)
@@ -35,16 +47,4 @@
 * [Limited Rotations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1263.md)
 * [Minimized Surgery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1264.md)
 * [Lack of biosecurity measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1698.md)
-
-## Risk affecting this stakeholder
-
-* [Lack of design flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1694.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Healthcare Administration](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_49.md)
-
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Adaptability of building to meet shifting demands](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_619.md)
 

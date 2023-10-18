@@ -2,9 +2,9 @@
 
 # __Community-level vector control__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3240.md)
+* [mosquito control operations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4049.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Control measures in cities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2106.md)
 * [Community Updates](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_388.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [A general modeling framework for exploring the impact of individual concern and personal protection on vector-borne disease dynamics](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_217.md)
+* [Lack of capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3240.md)
 
 ## Property: has_MitigationPrinciple
 
 Enacting coordinated vector control efforts at the community level to mitigate the risk of mosquito-borne disease outbreaks
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [mosquito control operations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4049.md)
+* [A general modeling framework for exploring the impact of individual concern and personal protection on vector-borne disease dynamics](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_217.md)
 

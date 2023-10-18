@@ -2,9 +2,10 @@
 
 # __Enhance cross-sectoral engagement__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Limited collaboration and communication across sectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3341.md)
+* [communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_135.md)
+* [collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_567.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Conduct interdisciplinary research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2094.md)
 * [Interdisciplinary collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2063.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Envisioning a resilient future for biodiversity conservation in the wake of the COVID‐19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_221.md)
+* [Limited collaboration and communication across sectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3341.md)
 
 ## Property: has_MitigationPrinciple
 
 Enhanced cross-sectoral engagement promotes knowledge exchange, cooperation, and coordinated actions between different sectors, leading to more effective conservation efforts and improved resilience to perturbations.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_135.md)
-* [collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_567.md)
+* [Envisioning a resilient future for biodiversity conservation in the wake of the COVID‐19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_221.md)
 

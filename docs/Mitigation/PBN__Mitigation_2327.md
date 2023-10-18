@@ -2,8 +2,9 @@
 
 # __Disinfection of indoor air__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [air disinfector based on plasma](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4415.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Cleaning and Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1615.md)
 * [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_191.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [SARS-CoV-2 RNA detection of hospital isolation wards hygiene monitoring during the Coronavirus Disease 2019 outbreak in a Chinese hospital](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_55.md)
 
 ## Property: has_MitigationPrinciple
 
 Purification of indoor air in isolation wards using air disinfectors based on plasma technology
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [air disinfector based on plasma](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4415.md)
+* [SARS-CoV-2 RNA detection of hospital isolation wards hygiene monitoring during the Coronavirus Disease 2019 outbreak in a Chinese hospital](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_55.md)
 

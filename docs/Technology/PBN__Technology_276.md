@@ -2,6 +2,10 @@
 
 # __big data__
 
+## Risks linked to this technology
+
+* [Lack of effective technical systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1197.md)
+
 ## Closest similar item
 
 * [big data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2938.md)
@@ -15,9 +19,9 @@
 * [Data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2037.md)
 * [data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3346.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Lack of effective technical systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1197.md)
+* [Q858810](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q858810.md)
 
 ## This Technology enables the following mitigations
 
@@ -31,8 +35,4 @@
 * [AI-powered diagnosis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_152.md)
 * [Adoption of emerging technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2472.md)
 * [GIS tools for mapping and tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1246.md)
-
-## This Technology is identified by the following QID
-
-* [Q858810](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q858810.md)
 

@@ -19,10 +19,10 @@
 * [buyers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1217.md)
 * [journalist](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1824.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+
 ## Risks that can be mitigated by this stakeholder
 
 * [Peer-review failures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2332.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
 

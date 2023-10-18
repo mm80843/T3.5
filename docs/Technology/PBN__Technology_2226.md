@@ -2,6 +2,10 @@
 
 # __Advanced lighting systems__
 
+## This Technology belongs to this TechSubgroup
+
+* [Physical Health Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_59.md)
+
 ## Closest similar item
 
 * [advanced lighting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1844.md)
@@ -15,15 +19,11 @@
 * [Energy-efficient lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2251.md)
 * [energy-efficient lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_118.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Physical Health Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_59.md)
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 
 ## This Technology is identified by the following QID
 
 * [Q17177506](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q17177506.md)
-
-## This Technology belongs to this TechGroup
-
-* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 

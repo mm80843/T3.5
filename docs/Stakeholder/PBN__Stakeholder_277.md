@@ -2,6 +2,10 @@
 
 # __authorities__
 
+## This Stakeholder is identified by the following QID
+
+* [Q36524](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q36524.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
@@ -19,11 +23,6 @@
 * [government authority](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1614.md)
 * [government officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_333.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Noncompliance with public health directives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1897.md)
-* [Spread of false information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_848.md)
-
 ## Risk affecting this stakeholder
 
 * [Spread of false information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_848.md)
@@ -36,7 +35,8 @@
 
 * [Increased citizen cooperation and trust](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_669.md)
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q36524](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q36524.md)
+* [Noncompliance with public health directives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1897.md)
+* [Spread of false information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_848.md)
 

@@ -2,9 +2,10 @@
 
 # __Portable air filters with UV sterilisation__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Airborne transmission of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1286.md)
+* [uv light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3055.md)
+* [portable air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3252.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Portable air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1365.md)
 * [Air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1745.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The removal of airborne SARS-CoV-2 and other microbial bioaerosols by air filtration on COVID-19 surge units](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_232.md)
+* [Airborne transmission of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1286.md)
 
 ## Property: has_MitigationPrinciple
 
 Scalable solution for removing respirable SARS-CoV-2 and other pathogens from the air
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [uv light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3055.md)
-* [portable air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3252.md)
+* [The removal of airborne SARS-CoV-2 and other microbial bioaerosols by air filtration on COVID-19 surge units](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_232.md)
 

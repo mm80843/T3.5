@@ -2,9 +2,9 @@
 
 # __Mobility limitations__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Greenhouse gas emissions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2414.md)
+* [transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2911.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_11.md)
 * [Travel Restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_710.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19: Lessons for an Urban(izing) World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_85.md)
+* [Greenhouse gas emissions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2414.md)
 
 ## Property: has_MitigationPrinciple
 
 Limiting mobility reduces transportation-related emissions, contributing to efforts to mitigate climate change.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2911.md)
+* [COVID-19: Lessons for an Urban(izing) World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_85.md)
 

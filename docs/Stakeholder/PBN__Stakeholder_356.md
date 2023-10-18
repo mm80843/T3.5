@@ -2,6 +2,10 @@
 
 # __apartment residents__
 
+## This Stakeholder is identified by the following QID
+
+* [Q188507](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q188507.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
@@ -47,8 +51,4 @@
 * [Improved thermal comfort and energy efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_888.md)
 * [Improved mental and physical health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_889.md)
 * [Improved hygiene and cleanliness](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_890.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q188507](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q188507.md)
 

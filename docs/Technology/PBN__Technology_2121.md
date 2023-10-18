@@ -2,6 +2,9 @@
 
 # __Expert systems__
 
+## This Technology belongs to this TechSubgroup
+
+
 ## Closest similar item
 
 * [Expert systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2121.md)
@@ -14,9 +17,6 @@
 * [Artificial Intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2112.md)
 * [Artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2124.md)
 * [artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_358.md)
-
-## This Technology belongs to this TechSubgroup
-
 
 ## This Technology belongs to this TechGroup
 

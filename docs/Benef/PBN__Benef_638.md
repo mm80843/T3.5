@@ -2,10 +2,6 @@
 
 # __Real-time monitoring__
 
-## Name of the Benefit
-
-Real-time monitoring of patients' health conditions enables early detection of symptoms, prompt medical intervention, and effective disease control.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved pandemic management, optimized resource allocation, reduced mortality rates, improved public health outcomes](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_686.md)
@@ -22,4 +18,8 @@ Real-time monitoring of patients' health conditions enables early detection of s
 
 * [The role of contemporary digital tools and technologies in COVID19 crisis: An exploratory analysis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_226.md)
 * [Applications of digital technology in COVID-19 pandemic planning and response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_127.md)
+
+## Name of the Benefit
+
+Real-time monitoring of patients' health conditions enables early detection of symptoms, prompt medical intervention, and effective disease control.
 

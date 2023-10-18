@@ -2,9 +2,8 @@
 
 # __Social and economic equality__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Increase in inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_240.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Economic analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1201.md)
 * [Social protection measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1816.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_58.md)
+* [Increase in inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_240.md)
 
 ## Property: has_MitigationPrinciple
 
 Promote equal opportunities and fair distribution
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_58.md)
 

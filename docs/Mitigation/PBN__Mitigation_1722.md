@@ -2,9 +2,11 @@
 
 # __Remote consultation solutions__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Limited access to healthcare facilities, lack of in-person care](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3235.md)
+* [video conferencing tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_428.md)
+* [telemedicine platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_623.md)
+* [mobile devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4026.md)
 
 ## Closest similar item
 
@@ -19,17 +21,15 @@
 * [Medical Consultation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1460.md)
 * [Implementing remote working](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1685.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19: A new digital dawn?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_93.md)
+* [Limited access to healthcare facilities, lack of in-person care](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3235.md)
 
 ## Property: has_MitigationPrinciple
 
 Implement remote consultation solutions ranging from telephone-based consultations to video conferences and app-based solutions
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [video conferencing tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_428.md)
-* [telemedicine platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_623.md)
-* [mobile devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4026.md)
+* [COVID-19: A new digital dawn?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_93.md)
 

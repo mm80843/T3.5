@@ -2,10 +2,6 @@
 
 # __Prophylactic Architecture: Formulating the Concept of Pandemic-Resilient Homes__
 
-## Title of the article
-
-Prophylactic Architecture: Formulating the Concept of Pandemic-Resilient Homes
-
 ## Referenced by other articles
 
 * [How can airborne transmission of COVID-19 indoors be minimised?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_121.md)
@@ -45,11 +41,15 @@ Prophylactic Architecture: Formulating the Concept of Pandemic-Resilient Homes
 * [Readiness Assessment of Green Building Certification Systems for Residential Buildings during Pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_342.md)
 * [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
 
-## Year of publication
-
-2022
-
 ## DOI of the article
 
 10.3390/buildings12070927
+
+## Title of the article
+
+Prophylactic Architecture: Formulating the Concept of Pandemic-Resilient Homes
+
+## Year of publication
+
+2022
 

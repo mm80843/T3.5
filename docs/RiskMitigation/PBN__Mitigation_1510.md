@@ -2,9 +2,10 @@
 
 # __Occupational safety measures__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Higher incidence of frontline jobs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3113.md)
+* [personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_136.md)
+* [sanitation protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1497.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Safety Wearables and Carry-ons](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_304.md)
 * [Monitoring and compliance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2039.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [What has been the impact of the COVID-19 pandemic on immigrants? An update on recent evidence](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_287.md)
+* [Higher incidence of frontline jobs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3113.md)
 
 ## Property: has_MitigationPrinciple
 
 Implementing occupational safety measures, such as providing personal protective equipment and following sanitation protocols, can protect immigrants working in frontline jobs from COVID-19 exposure.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_136.md)
-* [sanitation protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1497.md)
+* [What has been the impact of the COVID-19 pandemic on immigrants? An update on recent evidence](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_287.md)
 

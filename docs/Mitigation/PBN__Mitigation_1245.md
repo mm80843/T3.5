@@ -2,9 +2,10 @@
 
 # __Virtual reality technology__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [High cost, limited infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2988.md)
+* [vr devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3763.md)
+* [input sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3764.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Mobile technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1693.md)
 * [Establishing virtual platforms and telecommunication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_208.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [A critical review of emerging technologies for tackling COVID ‐19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_91.md)
+* [High cost, limited infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2988.md)
 
 ## Property: has_MitigationPrinciple
 
 Provide interactive, virtual training and education while maintaining physical distance
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [vr devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3763.md)
-* [input sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3764.md)
+* [A critical review of emerging technologies for tackling COVID ‐19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_91.md)
 

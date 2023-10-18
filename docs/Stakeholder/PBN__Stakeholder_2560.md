@@ -2,6 +2,10 @@
 
 # __Occupant of living unit__
 
+## This Stakeholder is identified by the following QID
+
+* [Q6506039](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6506039.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Building Occupants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_11.md)
@@ -22,8 +26,4 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Occupants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_55.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q6506039](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6506039.md)
 

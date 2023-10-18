@@ -2,6 +2,10 @@
 
 # __Use building materials and systems that are resilient to emergencies__
 
+## This Technology belongs to this TechSubgroup
+
+* [Resilient Design](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_182.md)
+
 ## Closest similar item
 
 * [Use building materials and systems that are resilient to emergencies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2679.md)
@@ -15,15 +19,11 @@
 * [develop emergency response plans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_494.md)
 * [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2658.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Resilient Design](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_182.md)
+* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_12.md)
 
 ## This Technology is identified by the following QID
 
 * [Q1460420](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1460420.md)
-
-## This Technology belongs to this TechGroup
-
-* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_12.md)
 

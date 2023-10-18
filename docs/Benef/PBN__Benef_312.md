@@ -2,10 +2,6 @@
 
 # __Enhanced risk management and cooperation__
 
-## Name of the Benefit
-
-Collaborative efforts in risk preparedness and management
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved resilience, early detection, and response to supply chain disruptions.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_330.md)
@@ -18,4 +14,8 @@ Collaborative efforts in risk preparedness and management
 ## Articles mentionning this Benefit
 
 * [Global value chains: Efficiency and risks in the context of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_60.md)
+
+## Name of the Benefit
+
+Collaborative efforts in risk preparedness and management
 

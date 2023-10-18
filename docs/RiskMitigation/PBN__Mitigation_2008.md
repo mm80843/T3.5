@@ -2,7 +2,7 @@
 
 # __Personal agency of developers__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
 
 ## Closest similar item
@@ -18,14 +18,14 @@
 * [Planning and permissions frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2007.md)
 * [Promoting community voice and ownership](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2266.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Designing for COVID-2x: Reflecting on Future-Proofing Human Habitation for the Inevitable Next Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_149.md)
 
 ## Property: has_MitigationPrinciple
 
 Embrace and implement design changes that improve resilience against future pandemics
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Designing for COVID-2x: Reflecting on Future-Proofing Human Habitation for the Inevitable Next Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_149.md)
 

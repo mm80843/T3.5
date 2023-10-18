@@ -2,9 +2,9 @@
 
 # __Language-appropriate resources__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Limited access to language-appropriate resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3190.md)
+* [language resources technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3975.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Seeking appropriate assistance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1610.md)
 * [Providing effective guidance and training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1843.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Public housing and COVID-19: contestation, challenge and change](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_107.md)
+* [Limited access to language-appropriate resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3190.md)
 
 ## Property: has_MitigationPrinciple
 
 Providing resources and information in multiple languages to ensure effective communication with residents
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [language resources technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3975.md)
+* [Public housing and COVID-19: contestation, challenge and change](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_107.md)
 

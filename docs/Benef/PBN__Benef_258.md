@@ -2,10 +2,6 @@
 
 # __Reduction of microbial dispersion__
 
-## Name of the Benefit
-
-Optimizing ventilation systems can reduce the influx of outdoor microbes and control the dispersion of indoor microbes, reducing the risk of disease transmission.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investing in optimizing ventilation systems can improve the indoor air quality, making the building more attractive to tenants and increasing its market value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_270.md)
@@ -17,4 +13,8 @@ Optimizing ventilation systems can reduce the influx of outdoor microbes and con
 ## Articles mentionning this Benefit
 
 * [Architectural Design Drives the Biogeography of Indoor Bacterial Communities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_52.md)
+
+## Name of the Benefit
+
+Optimizing ventilation systems can reduce the influx of outdoor microbes and control the dispersion of indoor microbes, reducing the risk of disease transmission.
 

@@ -2,10 +2,6 @@
 
 # __Contextualising and disseminating actionable evidence__
 
-## Risks possibly mitigated by this Mitigation
-
-* [Ineffective dissemination of evidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_395.md)
-
 ## Property: has_MitigationBenefit
 
 * [Context-specific and actionable evidence](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_540.md)
@@ -22,4 +18,12 @@
 * [Filter and synthesize the best available evidence from reliable sources, provide user-friendly formats and plain language summaries, and actively counter misinformation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1855.md)
 * [Ensuring critical evaluation of information, considering multiple sources, promoting evidence-based decision making](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2101.md)
 * [Provide accurate and evidence-based information through trusted sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2371.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Ineffective dissemination of evidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_395.md)
+
+## Category to which it belongs
+
+* [Implementing a comprehensive package of measures to ensure the smooth functioning and safety of essential services and activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_6.md)
 

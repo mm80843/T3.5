@@ -2,6 +2,11 @@
 
 # __children__
 
+## This Stakeholder is identified by the following QID
+
+* [Q21075684](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q21075684.md)
+* [Q520537](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q520537.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
@@ -45,9 +50,4 @@
 * [Improved access to routine health services](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1067.md)
 * [Reduction in domestic violence and family conflict](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1137.md)
 * [Increased inclusivity and accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1250.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q21075684](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q21075684.md)
-* [Q520537](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q520537.md)
 

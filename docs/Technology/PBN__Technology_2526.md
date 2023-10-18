@@ -2,6 +2,10 @@
 
 # __Epidemiological models__
 
+## This Technology belongs to this TechSubgroup
+
+* [Data Collection and Analysis](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_162.md)
+
 ## Closest similar item
 
 * [Epidemiological models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2526.md)
@@ -15,15 +19,11 @@
 * [Disease surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2479.md)
 * [sewage epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3962.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Data Collection and Analysis](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_162.md)
+* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
 
 ## This Technology is identified by the following QID
 
 * [Q990044](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q990044.md)
-
-## This Technology belongs to this TechGroup
-
-* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
 

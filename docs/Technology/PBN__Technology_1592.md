@@ -2,6 +2,14 @@
 
 # __open data__
 
+## Risks linked to this technology
+
+* [Inequalities in smart city development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2099.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Collaboration and Communication Platforms](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_5.md)
+
 ## Closest similar item
 
 * [linked open data)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3123.md)
@@ -15,23 +23,15 @@
 * [data collection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3515.md)
 * [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2410.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Inequalities in smart city development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2099.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Collaboration and Communication Platforms](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_5.md)
-
-## This Technology enables the following mitigations
-
-* [Open Government projects and Open Data initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_290.md)
+* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
 
 ## This Technology is identified by the following QID
 
 * [Q309901](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q309901.md)
 
-## This Technology belongs to this TechGroup
+## This Technology enables the following mitigations
 
-* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
+* [Open Government projects and Open Data initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_290.md)
 

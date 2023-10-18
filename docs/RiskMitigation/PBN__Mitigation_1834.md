@@ -2,8 +2,10 @@
 
 # __Enhance Access to Mental Health Care__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
+* [improved healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1204.md)
 
 ## Closest similar item
 
@@ -18,16 +20,14 @@
 * [Physical and Mental Health](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_303.md)
 * [Accessibility to healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_309.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Mental health economics: A prospective study on psychological flourishing and associations with healthcare costs and sickness benefit transfers in Denmark](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_189.md)
 
 ## Property: has_MitigationPrinciple
 
 Ensure that individuals have access to mental health care services to promote well-being and prevent mental illness.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
-* [improved healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1204.md)
+* [Mental health economics: A prospective study on psychological flourishing and associations with healthcare costs and sickness benefit transfers in Denmark](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_189.md)
 

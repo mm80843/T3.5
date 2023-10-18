@@ -2,9 +2,10 @@
 
 # __Workplace Safety Measures__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Non-compliance with protocols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3161.md)
+* [surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_0.md)
+* [administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3947.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Personal Protective Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_754.md)
 * [Health and prevention measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_28.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19 Experience Transforming the Protective Environment of Office Buildings and Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_120.md)
+* [Non-compliance with protocols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3161.md)
 
 ## Property: has_MitigationPrinciple
 
 Enforce source and pathway control measures, track and communicate infection trends
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_0.md)
-* [administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3947.md)
+* [COVID-19 Experience Transforming the Protective Environment of Office Buildings and Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_120.md)
 

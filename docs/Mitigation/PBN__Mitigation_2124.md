@@ -2,9 +2,10 @@
 
 # __Adjustability of indoor temperature/humidity__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3332.md)
+* [temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4050.md)
+* [humidity control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4241.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Control of Moisture and Humidity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1787.md)
 * [Indoor air quality and thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1480.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
+* [Virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3332.md)
 
 ## Property: has_MitigationPrinciple
 
 Control temperature and humidity to limit virus transmission
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4050.md)
-* [humidity control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4241.md)
+* [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
 

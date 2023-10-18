@@ -2,9 +2,9 @@
 
 # __Spatial planning considerations__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of comprehensive data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2568.md)
+* [spatial data mining](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3213.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Urban planning and design to create more open space, improve infrastructure, and promote safe transportation options.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3337.md)
 * [Adoption of spatial planning strategies for pandemic preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3795.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Revisiting the built environment: 10 potential development changes and paradigm shifts due to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_59.md)
+* [Lack of comprehensive data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2568.md)
 
 ## Property: has_MitigationPrinciple
 
 Incorporate spatial planning considerations into urban design and placemaking strategies to improve public health and facilitate effective emergency management
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [spatial data mining](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3213.md)
+* [Revisiting the built environment: 10 potential development changes and paradigm shifts due to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_59.md)
 

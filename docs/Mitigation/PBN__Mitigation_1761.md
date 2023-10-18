@@ -2,9 +2,8 @@
 
 # __Occupant Density Control__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Increased prevalence of respiratory diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3245.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Occupancy Limitations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_808.md)
 * [Control the airflows in micro spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2131.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The effect of a redesigned floor plan, occupant density and the quality of indoor climate on the cost of space, productivity and sick leave in an office building–A case study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_223.md)
+* [Increased prevalence of respiratory diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3245.md)
 
 ## Property: has_MitigationPrinciple
 
 Controlling the occupant density can also help in reducing the risk of respiratory diseases, complementing the effects of ventilation
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [The effect of a redesigned floor plan, occupant density and the quality of indoor climate on the cost of space, productivity and sick leave in an office building–A case study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_223.md)
 

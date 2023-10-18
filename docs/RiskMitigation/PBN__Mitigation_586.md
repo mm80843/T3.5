@@ -2,8 +2,9 @@
 
 # __Spatial analysis__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [geographical information system (gis)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3334.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Spatial variety in window design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2884.md)
 * [Implementation of regional containment measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2885.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Multilevel Analysis of Personal, Non-Medical COVID-19-Related Impact Worldwide](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_39.md)
 
 ## Property: has_MitigationPrinciple
 
 Conducting spatial analysis can identify clusters or hotspots of high HIV prevalence, enabling targeted interventions in specific geographic areas
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [geographical information system (gis)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3334.md)
+* [Multilevel Analysis of Personal, Non-Medical COVID-19-Related Impact Worldwide](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_39.md)
 

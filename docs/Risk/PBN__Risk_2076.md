@@ -2,23 +2,25 @@
 
 # __Population characteristics__
 
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Description of the risk
+
+The risk posed by population factors such as age, household size, and health indicators
+
 ## Property: has_RiskType
 
 * [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
-## People affected by this risk
+## Articles mentionning the risk
 
-* [marginalized communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_22.md)
-* [elderly individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_806.md)
-* [large households](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1391.md)
-
-## Name of the risk
-
-Higher susceptibility to infection, increased disease severity, and strain on healthcare systems
-
-## Property: has_RiskISO_Purpose
-
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+* [The Socio-Spatial Determinants of COVID-19 Diffusion: The Impact of Globalisation, Settlement Characteristics and Population](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_175.md)
 
 ## Closest similar item
 
@@ -33,39 +35,37 @@ Higher susceptibility to infection, increased disease severity, and strain on he
 * [Population growth and urbanization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_162.md)
 * [Population flow between cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1651.md)
 
-## Description of the risk
+## People affected by this risk
 
-The risk posed by population factors such as age, household size, and health indicators
-
-## Technologies linked to the risk
-
-* [telehealth services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_19.md)
-* [mobile health apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1552.md)
-* [personalized medicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1553.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Mitigations of this risk
-
-* [Implementing targeted public health interventions for vulnerable populations, promoting healthy behaviors, and improving healthcare accessibility](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2719.md)
-
-## Articles mentionning the risk
-
-* [The Socio-Spatial Determinants of COVID-19 Diffusion: The Impact of Globalisation, Settlement Characteristics and Population](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_175.md)
+* [marginalized communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_22.md)
+* [elderly individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_806.md)
+* [large households](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1391.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Living and working environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_1.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
 ## Stakeholders who can mitigate this risk
 
 * [public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_222.md)
 * [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
 * [community organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_150.md)
+
+## Name of the risk
+
+Higher susceptibility to infection, increased disease severity, and strain on healthcare systems
+
+## Mitigations of this risk
+
+* [Implementing targeted public health interventions for vulnerable populations, promoting healthy behaviors, and improving healthcare accessibility](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2719.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
+## Technologies linked to the risk
+
+* [telehealth services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_19.md)
+* [mobile health apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1552.md)
+* [personalized medicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1553.md)
 

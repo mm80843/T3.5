@@ -2,8 +2,10 @@
 
 # __Remote control of critical infrastructure__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
+* [digital twins](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3960.md)
 
 ## Closest similar item
 
@@ -18,16 +20,14 @@
 * [Electrical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1215.md)
 * [Remote work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_310.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [When the fourth water and digital revolution encountered COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_207.md)
 
 ## Property: has_MitigationPrinciple
 
 Enables real-time remote control and predictive maintenance of water processes
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
-* [digital twins](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3960.md)
+* [When the fourth water and digital revolution encountered COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_207.md)
 

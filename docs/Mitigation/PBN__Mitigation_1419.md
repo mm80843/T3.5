@@ -2,9 +2,9 @@
 
 # __Portable room air purifiers__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [High concentrations of air contaminants in specific locations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3056.md)
+* [portable air purifiers with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3866.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Filtering Indoor Air](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1785.md)
 * [Improving indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_480.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Ventilation use in nonmedical settings during COVID-19: Cleaning protocol, maintenance, and recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_104.md)
+* [High concentrations of air contaminants in specific locations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3056.md)
 
 ## Property: has_MitigationPrinciple
 
 Using portable room air purifiers with HEPA filters can help filter and purify the air in specific rooms, reducing the concentration of contaminants
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [portable air purifiers with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3866.md)
+* [Ventilation use in nonmedical settings during COVID-19: Cleaning protocol, maintenance, and recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_104.md)
 

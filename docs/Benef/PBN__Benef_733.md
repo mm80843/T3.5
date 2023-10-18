@@ -2,10 +2,6 @@
 
 # __Online tax assistance__
 
-## Name of the Benefit
-
-Virtual tax assistance simplifies tax processes for healthcare facilities
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improve service efficiency and reduce burden on taxpayers](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_787.md)
@@ -19,4 +15,8 @@ Virtual tax assistance simplifies tax processes for healthcare facilities
 ## Articles mentionning this Benefit
 
 * [Smart cities and the pandemic: digital technologies on the urban management of Brazilian cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_143.md)
+
+## Name of the Benefit
+
+Virtual tax assistance simplifies tax processes for healthcare facilities
 

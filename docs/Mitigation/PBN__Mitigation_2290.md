@@ -2,8 +2,9 @@
 
 # __Optimization of fresh air supply__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [personalized ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_273.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Improvement in Air Quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_919.md)
 * [Efficiency of air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2129.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Adaptation of HVAC Systems to Reduce the Spread of COVID-19 in Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_214.md)
 
 ## Property: has_MitigationPrinciple
 
 Optimize fresh air supply (personalized ventilation)
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [personalized ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_273.md)
+* [Adaptation of HVAC Systems to Reduce the Spread of COVID-19 in Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_214.md)
 

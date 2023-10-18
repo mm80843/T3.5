@@ -2,9 +2,9 @@
 
 # __Faecal management__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Faecal-oral transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1333.md)
+* [sanitation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_246.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Mandatory sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1351.md)
 * [Separate sanitation area](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1156.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Toilets dominate environmental detection of SARS-CoV-2 virus in a hospital](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_196.md)
+* [Faecal-oral transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1333.md)
 
 ## Property: has_MitigationPrinciple
 
 Proper disposal and treatment of human waste to prevent the spread of viruses through the faecal-oral route
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [sanitation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_246.md)
+* [Toilets dominate environmental detection of SARS-CoV-2 virus in a hospital](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_196.md)
 

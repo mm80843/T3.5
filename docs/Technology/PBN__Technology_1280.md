@@ -2,6 +2,14 @@
 
 # __supportive interventions__
 
+## Risks linked to this technology
+
+* [Emotional distress from quarantine and isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1899.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Mental Health Support](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_63.md)
+
 ## Closest similar item
 
 * [psychological interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1541.md)
@@ -15,19 +23,11 @@
 * [community support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_595.md)
 * [support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3422.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Emotional distress from quarantine and isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1899.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Mental Health Support](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_63.md)
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 
 ## This Technology is identified by the following QID
 
 * [Q1671448](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1671448.md)
-
-## This Technology belongs to this TechGroup
-
-* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 

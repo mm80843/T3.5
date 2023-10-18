@@ -2,7 +2,7 @@
 
 # __Clear guidelines and information__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
 
 ## Closest similar item
@@ -18,14 +18,14 @@
 * [Broad informed consent](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2065.md)
 * [Compliance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_296.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19 Lockdown: Housing Built Environment’s Effects on Mental Health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_254.md)
 
 ## Property: has_MitigationPrinciple
 
 Providing clear and accurate guidelines and information during quarantine periods can reduce anxiety, frustration, and fear, and improve mental well-being.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [COVID-19 Lockdown: Housing Built Environment’s Effects on Mental Health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_254.md)
 

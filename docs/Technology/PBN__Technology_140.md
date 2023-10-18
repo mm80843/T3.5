@@ -2,6 +2,11 @@
 
 # __windows__
 
+## Risks linked to this technology
+
+* [Lack of natural light](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1804.md)
+* [Inadequate natural light](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1088.md)
+
 ## This Technology enables the following mitigations
 
 * [Natural Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_137.md)
@@ -12,11 +17,6 @@
 * [Window views, spatial variety and privacy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1594.md)
 * [Natural ventilation through window openings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1152.md)
 * [Opening presence for air circulation and sun exposure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1151.md)
-
-## Risks linked to this technology
-
-* [Lack of natural light](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1804.md)
-* [Inadequate natural light](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1088.md)
 
 ## Closest similar item
 

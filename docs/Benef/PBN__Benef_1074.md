@@ -2,10 +2,6 @@
 
 # __Enhanced infection control__
 
-## Name of the Benefit
-
-Allows for implementation of measures such as improved ventilation and sanitation
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Reduced risk of disease transmission, increased user satisfaction](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1200.md)
@@ -18,4 +14,8 @@ Allows for implementation of measures such as improved ventilation and sanitatio
 ## Articles mentionning this Benefit
 
 * [Building Transformation for Precautionary Measures against COVID-19 Pandemic: Case of Off-Street Car Parking of Campuses](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_224.md)
+
+## Name of the Benefit
+
+Allows for implementation of measures such as improved ventilation and sanitation
 

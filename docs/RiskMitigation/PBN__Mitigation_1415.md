@@ -2,8 +2,9 @@
 
 # __Roof UV filter glass__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [uv filter glass](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3865.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [UV light disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_552.md)
 * [UV disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1052.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_282.md)
 
 ## Property: has_MitigationPrinciple
 
 Incorporate UV filter glass into building roofs to allow sunlight in, promote indoor plant growth, and generate solar power
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [uv filter glass](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3865.md)
+* [Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_282.md)
 

@@ -2,9 +2,9 @@
 
 # __Financial Support__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of funding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2354.md)
+* [access to capital](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3589.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Psychological Support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1729.md)
 * [Support at organizational level](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_803.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Startups in times of crisis – A rapid response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_158.md)
+* [Lack of funding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2354.md)
 
 ## Property: has_MitigationPrinciple
 
 Provides financial resources to startups to ensure liquidity and long-term survival during the crisis.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [access to capital](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3589.md)
+* [Startups in times of crisis – A rapid response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_158.md)
 

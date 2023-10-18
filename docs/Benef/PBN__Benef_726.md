@@ -2,10 +2,6 @@
 
 # __Cultural dissemination through digital means__
 
-## Name of the Benefit
-
-Online cultural activities and promotion support local artists and keep communities engaged
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Preserve and foster cultural activities](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_780.md)
@@ -17,4 +13,8 @@ Online cultural activities and promotion support local artists and keep communit
 ## Articles mentionning this Benefit
 
 * [Smart cities and the pandemic: digital technologies on the urban management of Brazilian cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_143.md)
+
+## Name of the Benefit
+
+Online cultural activities and promotion support local artists and keep communities engaged
 

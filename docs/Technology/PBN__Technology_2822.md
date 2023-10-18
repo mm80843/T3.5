@@ -2,6 +2,10 @@
 
 # __Education and training on hand hygiene practices__
 
+## This Technology belongs to this TechSubgroup
+
+* [Sanitation and Hygiene Practices](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_129.md)
+
 ## Closest similar item
 
 * [Education and training on hand hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2822.md)
@@ -15,15 +19,11 @@
 * [hygiene education programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_627.md)
 * [personal hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2211.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Sanitation and Hygiene Practices](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_129.md)
+* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
 
 ## This Technology is identified by the following QID
 
 * [Q552461](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q552461.md)
-
-## This Technology belongs to this TechGroup
-
-* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
 

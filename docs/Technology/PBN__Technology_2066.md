@@ -2,6 +2,10 @@
 
 # __Development of new testing methods__
 
+## This Technology belongs to this TechSubgroup
+
+* [Diagnostic and Testing Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_12.md)
+
 ## Closest similar item
 
 * [Development of new testing methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2066.md)
@@ -15,15 +19,11 @@
 * [Improved testing capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2094.md)
 * [improved testing capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_571.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Diagnostic and Testing Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_12.md)
+* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
 
 ## This Technology is identified by the following QID
 
 * [Q2115530](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2115530.md)
-
-## This Technology belongs to this TechGroup
-
-* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
 

@@ -2,9 +2,8 @@
 
 # __Safe water, sanitation, and hygiene__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Infectious disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2938.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Improved sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1141.md)
 * [Encouraging proper sanitation and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_486.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [SARS-CoV-2 in wastewater: potential health risk, but also data source](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_70.md)
+* [Infectious disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2938.md)
 
 ## Property: has_MitigationPrinciple
 
 Provides protection from any infectious disease, including COVID-19
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [SARS-CoV-2 in wastewater: potential health risk, but also data source](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_70.md)
 

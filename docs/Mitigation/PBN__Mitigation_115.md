@@ -2,9 +2,9 @@
 
 # __Standardization of protocols for seamless communication and privacy protection__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Disjointed insights and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2449.md)
+* [information technology and data management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2978.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Strict social distancing protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_43.md)
 * [Privacy-preserving data storage and sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1893.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Pandemic stricken cities on lockdown. Where are our planning and design professionals [now, then and into the future]?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_147.md)
+* [Disjointed insights and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2449.md)
 
 ## Property: has_MitigationPrinciple
 
 Ensuring compatibility and interoperability of data protocols to enable efficient communication while safeguarding privacy and data security.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [information technology and data management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2978.md)
+* [Pandemic stricken cities on lockdown. Where are our planning and design professionals [now, then and into the future]?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_147.md)
 

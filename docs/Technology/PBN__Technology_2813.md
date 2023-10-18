@@ -2,6 +2,10 @@
 
 # __biosensors__
 
+## This Technology belongs to this TechSubgroup
+
+* [Biotechnological Techniques and Devices](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_29.md)
+
 ## Closest similar item
 
 * [biosensor](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3188.md)
@@ -14,10 +18,6 @@
 * [sensor devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3875.md)
 * [environmental sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3537.md)
 * [sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3150.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Biotechnological Techniques and Devices](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_29.md)
 
 ## This Technology belongs to this TechGroup
 

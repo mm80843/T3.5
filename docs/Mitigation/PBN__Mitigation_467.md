@@ -2,8 +2,10 @@
 
 # __Isolation Rooms__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3248.md)
+* [specialized room design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3247.md)
 
 ## Closest similar item
 
@@ -18,16 +20,14 @@
 * [Isolation measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1278.md)
 * [Partial Isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1918.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19 Pandemic: Prevention and Protection Measures to Be Adopted at the Workplace](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_284.md)
 
 ## Property: has_MitigationPrinciple
 
 Designate specific rooms for the isolation of individuals suspected or confirmed to have the virus, preventing further spread in the building.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3248.md)
-* [specialized room design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3247.md)
+* [COVID-19 Pandemic: Prevention and Protection Measures to Be Adopted at the Workplace](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_284.md)
 

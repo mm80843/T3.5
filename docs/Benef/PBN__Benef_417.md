@@ -2,10 +2,6 @@
 
 # __Temperature reduction__
 
-## Name of the Benefit
-
-Increased shading in urban areas can reduce the temperature differential compared to rural areas.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can benefit from reduced energy consumption for cooling and increased property value for buildings with green infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_447.md)
@@ -22,4 +18,8 @@ Increased shading in urban areas can reduce the temperature differential compare
 
 * [Urban Green Infrastructure and Green Open Spaces: An Issue of Social Fairness in Times of COVID-19 Crisis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_83.md)
 * [Challenges to Mitigating the Urban Health Burden of Mosquito-Borne Diseases in the Face of Climate Change](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_95.md)
+
+## Name of the Benefit
+
+Increased shading in urban areas can reduce the temperature differential compared to rural areas.
 

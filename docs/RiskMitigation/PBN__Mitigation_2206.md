@@ -2,9 +2,10 @@
 
 # __Land use data analysis__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Limited data availability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2987.md)
+* [high-resolution land use data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4320.md)
+* [geographic information systems (gis) software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4319.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Citizen participation in green area management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2209.md)
 * [Reducing Community Environmental Impacts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_382.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Access and Use of Green Areas during the COVID-19 Pandemic: Green Infrastructure Management in the “New Normal”](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_275.md)
+* [Limited data availability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2987.md)
 
 ## Property: has_MitigationPrinciple
 
 Analyze land use categories in specific geographical areas to understand the environmental contexts of residents and their influence on access and use of green areas
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [high-resolution land use data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4320.md)
-* [geographic information systems (gis) software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4319.md)
+* [Access and Use of Green Areas during the COVID-19 Pandemic: Green Infrastructure Management in the “New Normal”](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_275.md)
 

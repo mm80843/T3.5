@@ -2,10 +2,6 @@
 
 # __Increased trust in official information__
 
-## Name of the Benefit
-
-Increased access to reliable and accurate information from trusted sources
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Increased trust in official information can lead to more compliant behavior among the public, potentially decreasing the spread of the virus.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1000.md)
@@ -17,4 +13,8 @@ Increased access to reliable and accurate information from trusted sources
 ## Articles mentionning this Benefit
 
 * [The changes in the effects of social media use of Cypriots due to COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_185.md)
+
+## Name of the Benefit
+
+Increased access to reliable and accurate information from trusted sources
 

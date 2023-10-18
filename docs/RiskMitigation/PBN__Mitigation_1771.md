@@ -2,9 +2,9 @@
 
 # __Improved Cooking Stoves__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [IAP, Poor Health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3246.md)
+* [improved stove technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4052.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Energy-Efficient Heating/Cooling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1774.md)
 * [Improved air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1070.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [A comprehensive review on indoor air quality monitoring systems for enhanced public health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_281.md)
+* [IAP, Poor Health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3246.md)
 
 ## Property: has_MitigationPrinciple
 
 Replace traditional cooking stoves with improved stoves that produce less harmful pollutants, reducing the risk of indoor air pollution and associated health issues.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [improved stove technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4052.md)
+* [A comprehensive review on indoor air quality monitoring systems for enhanced public health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_281.md)
 

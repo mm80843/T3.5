@@ -2,9 +2,9 @@
 
 # __Design level adjustments on noise insulation and acoustics__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Personal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3355.md)
+* [noise level difference](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4265.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Improved Building Insulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1782.md)
 * [Portable noise measurement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1101.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
+* [Personal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3355.md)
 
 ## Property: has_MitigationPrinciple
 
 Ensure proper noise insulation and acoustics for a comfortable living environment
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [noise level difference](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4265.md)
+* [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
 

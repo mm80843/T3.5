@@ -2,9 +2,10 @@
 
 # __Local Data Processing__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Data Security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2471.md)
+* [low-power silicon electronics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3025.md)
+* [computational power](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3026.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Data Integration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_915.md)
 * [Common data infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_566.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Wearable devices for the detection of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_296.md)
+* [Data Security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2471.md)
 
 ## Property: has_MitigationPrinciple
 
 Processing data locally using low-power electronics and computational power to accelerate the decision-making process and improve coordination
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [low-power silicon electronics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3025.md)
-* [computational power](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3026.md)
+* [Wearable devices for the detection of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_296.md)
 

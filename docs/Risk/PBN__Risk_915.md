@@ -2,22 +2,25 @@
 
 # __Impact on micro-mobility and sharing__
 
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Description of the risk
+
+Effects of the pandemic on micro-mobility and sharing activities
+
 ## Property: has_RiskType
 
 * [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 
-## People affected by this risk
+## Articles mentionning the risk
 
-* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
-* [users of shared mobility services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_485.md)
-
-## Name of the risk
-
-Changes in transportation and mobility patterns
-
-## Property: has_RiskISO_Purpose
-
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+* [The Impact of COVID-19 on Public Space: A Review of the Emerging Questions](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_261.md)
 
 ## Closest similar item
 
@@ -32,37 +35,34 @@ Changes in transportation and mobility patterns
 * [Lack of availability of mobility data for most cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1214.md)
 * [Increased commuting and social disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2886.md)
 
-## Description of the risk
+## People affected by this risk
 
-Effects of the pandemic on micro-mobility and sharing activities
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+* [users of shared mobility services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_485.md)
 
-## Technologies linked to the risk
+## Property: has_RiskISO_Impact
 
-* [enhanced cleaning and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_729.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Property: has_RiskHealth
+## Stakeholders who can mitigate this risk
 
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+* [service providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_476.md)
+* [transportation authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_947.md)
+
+## Name of the risk
+
+Changes in transportation and mobility patterns
 
 ## Mitigations of this risk
 
 * [Investing in hygiene and cleaning protocols for shared mobility services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1261.md)
 * [Implement hygiene protocols and regular cleaning of shared vehicles following health guidelines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1979.md)
 
-## Articles mentionning the risk
+## Property: has_RiskISO_Purpose
 
-* [The Impact of COVID-19 on Public Space: A Review of the Emerging Questions](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_261.md)
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
 
-## Property: has_RiskISO_Impact
+## Technologies linked to the risk
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Stakeholders who can mitigate this risk
-
-* [service providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_476.md)
-* [transportation authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_947.md)
+* [enhanced cleaning and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_729.md)
 

@@ -2,9 +2,12 @@
 
 # __Re-appropriation of the basic principles and archetypes of sustainable architecture, thermal comfort and Indoor Air Quality (IAQ)__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Poor thermal comfort, inadequate indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2593.md)
+* [suitable materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3267.md)
+* [natural lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3265.md)
+* [correct orientation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3264.md)
+* [albedo control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3266.md)
 
 ## Closest similar item
 
@@ -19,18 +22,15 @@
 * [Develop non-centralized building systems, utilize air purifiers and air quality monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2600.md)
 * [Proper ventilation and air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2672.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19 and Living space challenge. Well-being and Public Health recommendations for a healthy, safe, and sustainable housing.](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_161.md)
+* [Poor thermal comfort, inadequate indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2593.md)
 
 ## Property: has_MitigationPrinciple
 
 Ensure optimal use of sunlight, natural heat and light, reduce energy consumption, provide suitable ventilation, maintain proper humidity levels, use materials with reduced emissions
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [suitable materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3267.md)
-* [natural lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3265.md)
-* [correct orientation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3264.md)
-* [albedo control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3266.md)
+* [COVID-19 and Living space challenge. Well-being and Public Health recommendations for a healthy, safe, and sustainable housing.](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_161.md)
 

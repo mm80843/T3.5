@@ -2,6 +2,10 @@
 
 # __personalized ventilation systems__
 
+## Risks linked to this technology
+
+* [Personalized ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1193.md)
+
 ## Closest similar item
 
 * [ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
@@ -15,15 +19,11 @@
 * [natural ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1012.md)
 * [Natural ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2673.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Personalized ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1193.md)
+* [Q584049](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q584049.md)
 
 ## This Technology enables the following mitigations
 
 * [Optimization of fresh air supply](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2290.md)
-
-## This Technology is identified by the following QID
-
-* [Q584049](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q584049.md)
 

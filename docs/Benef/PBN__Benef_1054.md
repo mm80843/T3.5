@@ -2,10 +2,6 @@
 
 # __Security and privacy of user data__
 
-## Name of the Benefit
-
-Blockchain technology provides a decentralized solution for contact tracing, ensuring security and privacy of user data
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors investing in blockchain-based contact tracing would benefit from improved security and privacy, enhancing the value of their investment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1175.md)
@@ -18,4 +14,8 @@ Blockchain technology provides a decentralized solution for contact tracing, ens
 ## Articles mentionning this Benefit
 
 * [Blockchain technology and its applications to combat COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_219.md)
+
+## Name of the Benefit
+
+Blockchain technology provides a decentralized solution for contact tracing, ensuring security and privacy of user data
 

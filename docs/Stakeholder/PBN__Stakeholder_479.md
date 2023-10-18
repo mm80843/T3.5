@@ -2,6 +2,10 @@
 
 # __data analysts__
 
+## This Stakeholder is identified by the following QID
+
+* [Q29169143](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q29169143.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Technology Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_12.md)
@@ -18,15 +22,6 @@
 * [data owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1469.md)
 * [data curators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1306.md)
 * [data security professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1541.md)
-
-## Risks that can be mitigated by this stakeholder
-
-* [Data unavailability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2364.md)
-* [Limited access to data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_723.md)
-* [Lack of real-time data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_762.md)
-* [Noise in big data sets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2346.md)
-* [Inaccurate forecasting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2365.md)
-* [Inconsistent data sources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2363.md)
 
 ## Risk affecting this stakeholder
 
@@ -46,7 +41,12 @@
 * [Consistent modeling](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1236.md)
 * [Improved logical](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1238.md)
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q29169143](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q29169143.md)
+* [Data unavailability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2364.md)
+* [Limited access to data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_723.md)
+* [Lack of real-time data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_762.md)
+* [Noise in big data sets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2346.md)
+* [Inaccurate forecasting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2365.md)
+* [Inconsistent data sources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2363.md)
 

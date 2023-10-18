@@ -2,6 +2,11 @@
 
 # __faculty__
 
+## This Stakeholder is identified by the following QID
+
+* [Q60776406](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q60776406.md)
+* [Q180958](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q180958.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Education](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_1.md)
@@ -35,9 +40,4 @@
 * [Reduction in transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_262.md)
 * [Improved hygiene and safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_263.md)
 * [Supportive community environment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_266.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q60776406](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q60776406.md)
-* [Q180958](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q180958.md)
 

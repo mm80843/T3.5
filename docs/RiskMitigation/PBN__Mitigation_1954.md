@@ -2,9 +2,10 @@
 
 # __Legal and regulatory dimension__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Violation of privacy laws and regulations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3304.md)
+* [standardization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4161.md)
+* [legal advice](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4162.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Regulatory frameworks for data protection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4203.md)
 * [Access to Legal Representation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4204.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The role of 5G for digital healthcare against COVID-19 pandemic: Opportunities and challenges](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_9.md)
+* [Violation of privacy laws and regulations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3304.md)
 
 ## Property: has_MitigationPrinciple
 
 Adherence to legal frameworks and policies, such as GDPR, HIPAA, and EU contact tracing guidelines, and obtaining legal advice to ensure compliance with privacy laws and regulations in the deployment of e-health solutions
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [standardization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4161.md)
-* [legal advice](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4162.md)
+* [The role of 5G for digital healthcare against COVID-19 pandemic: Opportunities and challenges](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_9.md)
 

@@ -2,9 +2,8 @@
 
 # __Universal healthcare__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Overwhelmed healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1629.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Universal precautions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2051.md)
 * [Healthcare Facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1742.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Building up an ecologically sustainable and socially desirable post-COVID-19 future](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_5.md)
+* [Overwhelmed healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1629.md)
 
 ## Property: has_MitigationPrinciple
 
 Ensure access to healthcare services for all individuals, reducing the burden on healthcare systems
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Building up an ecologically sustainable and socially desirable post-COVID-19 future](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_5.md)
 

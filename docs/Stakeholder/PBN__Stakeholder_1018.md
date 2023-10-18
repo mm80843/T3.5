@@ -2,6 +2,10 @@
 
 # __contracting clients__
 
+## This Stakeholder is identified by the following QID
+
+* [Q651073](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q651073.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
@@ -19,16 +23,12 @@
 * [maintenance contractors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1120.md)
 * [procurement](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_987.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+
 ## Risks that can be mitigated by this stakeholder
 
 * [Legal Issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1580.md)
 * [Management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1581.md)
 * [Financial Loss](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1578.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-
-## This Stakeholder is identified by the following QID
-
-* [Q651073](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q651073.md)
 

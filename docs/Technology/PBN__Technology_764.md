@@ -2,6 +2,10 @@
 
 # __scientific research__
 
+## Risks linked to this technology
+
+* [Insufficient knowledge of COVID-19 inactivation mechanisms on copper coatings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1496.md)
+
 ## Closest similar item
 
 * [research and scientific studies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_256.md)
@@ -15,16 +19,12 @@
 * [Research institutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2774.md)
 * [reliable research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3524.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Insufficient knowledge of COVID-19 inactivation mechanisms on copper coatings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1496.md)
+* [Q42240](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q42240.md)
 
 ## This Technology enables the following mitigations
 
 * [Evidence-based communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2462.md)
 * [Research and development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1096.md)
-
-## This Technology is identified by the following QID
-
-* [Q42240](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q42240.md)
 

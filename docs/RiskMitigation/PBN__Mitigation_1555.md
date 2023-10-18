@@ -2,8 +2,13 @@
 
 # __Use of specific medicines__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [antiviral](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3919.md)
+* [antimalarial](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3918.md)
+* [anti-bacterial](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3917.md)
+* [corticosteroids](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3921.md)
+* [protease inhibitors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3920.md)
 
 ## Closest similar item
 
@@ -18,19 +23,14 @@
 * [Preventive and therapeutic measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1627.md)
 * [Precision Medicine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_762.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Nurture to nature via COVID-19, a self-regenerating environmental strategy of environment in global context](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_44.md)
 
 ## Property: has_MitigationPrinciple
 
 Repurposing existing medicines such as anti-bacterial, antimalarial, and antiviral drugs, as well as protease inhibitors and corticosteroids, for the treatment of COVID-19. These medicines are used to reduce the severity of symptoms and prevent complications in infected individuals.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [antiviral](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3919.md)
-* [antimalarial](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3918.md)
-* [anti-bacterial](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3917.md)
-* [corticosteroids](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3921.md)
-* [protease inhibitors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3920.md)
+* [Nurture to nature via COVID-19, a self-regenerating environmental strategy of environment in global context](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_44.md)
 

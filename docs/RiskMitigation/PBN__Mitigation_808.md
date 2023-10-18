@@ -2,9 +2,9 @@
 
 # __Occupancy Limitations__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Crowding and close contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2751.md)
+* [access control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_164.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Capacity Limitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1646.md)
 * [Mobility limitations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_31.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [A study on office workplace modification during the COVID-19 pandemic in The Netherlands](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_193.md)
+* [Crowding and close contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2751.md)
 
 ## Property: has_MitigationPrinciple
 
 Limiting the number of people allowed in a space to maintain social distancing and prevent overcrowding.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [access control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_164.md)
+* [A study on office workplace modification during the COVID-19 pandemic in The Netherlands](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_193.md)
 

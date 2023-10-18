@@ -2,6 +2,9 @@
 
 # __Transparent peer-review and publishing processes__
 
+## This Technology belongs to this TechSubgroup
+
+
 ## Closest similar item
 
 * [Transparent peer-review and publishing processes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2093.md)
@@ -15,14 +18,11 @@
 * [transparent communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_104.md)
 * [transparency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1927.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
+* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
 
 ## This Technology is identified by the following QID
 
 * [Q7096397](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7096397.md)
-
-## This Technology belongs to this TechGroup
-
-* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
 

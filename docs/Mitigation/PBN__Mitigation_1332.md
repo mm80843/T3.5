@@ -2,9 +2,8 @@
 
 # __Closure of educational institutions__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Transmission among students and staff](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3026.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Isolate and Test with School Closure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1591.md)
 * [School and Workplace Closings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1381.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19: The forgotten priorities of the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_236.md)
+* [Transmission among students and staff](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3026.md)
 
 ## Property: has_MitigationPrinciple
 
 To prevent large groups of people from gathering in close proximity to each other in educational settings
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [COVID-19: The forgotten priorities of the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_236.md)
 

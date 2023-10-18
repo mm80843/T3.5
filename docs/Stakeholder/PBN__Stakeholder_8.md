@@ -2,6 +2,10 @@
 
 # __individuals with mental health issues__
 
+## This Stakeholder is identified by the following QID
+
+* [Q47326642](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q47326642.md)
+
 ## Closest similar item
 
 * [individuals with mental health conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1417.md)
@@ -22,8 +26,4 @@
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Improved mental health outcomes](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_11.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q47326642](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q47326642.md)
 

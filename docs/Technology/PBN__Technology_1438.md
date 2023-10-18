@@ -2,6 +2,14 @@
 
 # __public health campaigns to promote reliable information__
 
+## Risks linked to this technology
+
+* [Misinformation and ’infodemic’](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1990.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Public Education and Awareness Campaigns](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_40.md)
+
 ## Closest similar item
 
 * [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2169.md)
@@ -15,19 +23,11 @@
 * [effective public health messaging](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3611.md)
 * [public health communication strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1635.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Misinformation and ’infodemic’](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1990.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Public Education and Awareness Campaigns](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_40.md)
+* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
 
 ## This Technology is identified by the following QID
 
 * [Q30290719](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q30290719.md)
-
-## This Technology belongs to this TechGroup
-
-* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
 

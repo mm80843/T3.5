@@ -2,10 +2,6 @@
 
 # __Air purification__
 
-## Name of the Benefit
-
-Photocatalytic oxidation removes airborne pathogens by creating reactive radicals that attack and damage the cell walls of pathogens.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investment in photocatalytic oxidation systems can result in improved air quality, reduced risk of infection, and a healthier indoor environment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1303.md)
@@ -17,4 +13,8 @@ Photocatalytic oxidation removes airborne pathogens by creating reactive radical
 ## Articles mentionning this Benefit
 
 * [Methods for air cleaning and protection of building occupants from airborne pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_240.md)
+
+## Name of the Benefit
+
+Photocatalytic oxidation removes airborne pathogens by creating reactive radicals that attack and damage the cell walls of pathogens.
 

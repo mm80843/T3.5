@@ -2,6 +2,10 @@
 
 # __Alcohol-based hand rubs__
 
+## This Technology belongs to this TechSubgroup
+
+* [Disinfection and Cleaning Techniques](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_15.md)
+
 ## Closest similar item
 
 * [Alcohol-based hand rubs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2820.md)
@@ -15,15 +19,11 @@
 * [Hand hygiene guidance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2568.md)
 * [hand hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1166.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Disinfection and Cleaning Techniques](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_15.md)
+* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
 
 ## This Technology is identified by the following QID
 
 * [Q16392](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q16392.md)
-
-## This Technology belongs to this TechGroup
-
-* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
 

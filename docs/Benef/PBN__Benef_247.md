@@ -2,10 +2,6 @@
 
 # __Safe waste management__
 
-## Name of the Benefit
-
-Proper segregation of medical waste ensures safe waste management and prevents the spread of pathogens
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Implementing proper segregation of medical waste can enhance tenant satisfaction and create a safer living environment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_259.md)
@@ -17,4 +13,8 @@ Proper segregation of medical waste ensures safe waste management and prevents t
 ## Articles mentionning this Benefit
 
 * [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
+
+## Name of the Benefit
+
+Proper segregation of medical waste ensures safe waste management and prevents the spread of pathogens
 

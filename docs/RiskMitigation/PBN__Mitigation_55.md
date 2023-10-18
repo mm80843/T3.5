@@ -2,8 +2,11 @@
 
 # __Health monitoring__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [telehealth system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2928.md)
+* [knowledge base](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2927.md)
+* [ontologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_712.md)
 
 ## Closest similar item
 
@@ -18,17 +21,14 @@
 * [Monitoring and sensing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1311.md)
 * [Home monitoring with wearables](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_334.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [An Overview of Ontologies and Tool Support for COVID-19 Analytics](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_170.md)
 
 ## Property: has_MitigationPrinciple
 
 Utilize data-driven ontology-based intelligence for semi-autonomous systems to assist in COVID-19 scenarios, such as telehealth care.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [telehealth system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2928.md)
-* [knowledge base](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2927.md)
-* [ontologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_712.md)
+* [An Overview of Ontologies and Tool Support for COVID-19 Analytics](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_170.md)
 

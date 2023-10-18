@@ -2,9 +2,10 @@
 
 # __Routine testing__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Long turnaround time, invasive, discomfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2550.md)
+* [antigen rapid tests (arts)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3198.md)
+* [rt-pcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3197.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Testing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_21.md)
 * [Testing and tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2091.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Wearable technology for early detection of COVID-19: A systematic scoping review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_192.md)
+* [Long turnaround time, invasive, discomfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2550.md)
 
 ## Property: has_MitigationPrinciple
 
 Mandating routine testing, especially in high-risk settings, to identify COVID-19 infection early
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [antigen rapid tests (arts)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3198.md)
-* [rt-pcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3197.md)
+* [Wearable technology for early detection of COVID-19: A systematic scoping review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_192.md)
 

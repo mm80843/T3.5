@@ -2,8 +2,13 @@
 
 # __Antimicrobial surfaces__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [carbon-based coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3856.md)
+* [silver nanocoating](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3854.md)
+* [titanium-based coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3855.md)
+* [antimicrobial paint](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3852.md)
+* [copper alloy coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3853.md)
 
 ## Closest similar item
 
@@ -18,19 +23,14 @@
 * [anti-microbial materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3067.md)
 * [antimicrobial paint](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3068.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_282.md)
 
 ## Property: has_MitigationPrinciple
 
 Apply surfaces that have antimicrobial properties to reduce the spread of germs and viruses
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [carbon-based coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3856.md)
-* [silver nanocoating](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3854.md)
-* [titanium-based coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3855.md)
-* [antimicrobial paint](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3852.md)
-* [copper alloy coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3853.md)
+* [Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_282.md)
 

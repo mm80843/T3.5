@@ -2,22 +2,25 @@
 
 # __Push for information-based construction management methods__
 
+## Property: has_RiskHealth
+
+* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_5.md)
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Description of the risk
+
+Increased use of digital techniques and technologies for construction management and modeling
+
 ## Property: has_RiskType
 
 * [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 
-## People affected by this risk
+## Articles mentionning the risk
 
-* [construction project managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_774.md)
-* [contractors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_179.md)
-
-## Name of the risk
-
-Improved efficiency and accuracy in construction management, better collaboration and communication
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+* [Revisiting the built environment: 10 potential development changes and paradigm shifts due to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_59.md)
 
 ## Closest similar item
 
@@ -32,37 +35,34 @@ Improved efficiency and accuracy in construction management, better collaboratio
 * [Lack of data-driven decision making](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2565.md)
 * [Building closures and restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1864.md)
 
-## Description of the risk
+## People affected by this risk
 
-Increased use of digital techniques and technologies for construction management and modeling
+* [construction project managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_774.md)
+* [contractors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_179.md)
 
-## Technologies linked to the risk
+## Property: has_RiskISO_Impact
 
-* [construction technology and software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_374.md)
+* [Innovation, Creativity and research](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_2.md)
 
-## Property: has_RiskHealth
+## Stakeholders who can mitigate this risk
 
-* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_5.md)
+* [construction companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_181.md)
+* [technology providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_630.md)
+
+## Name of the risk
+
+Improved efficiency and accuracy in construction management, better collaboration and communication
 
 ## Mitigations of this risk
 
 * [Embrace data science, adopt information-based management methods, utilize digital techniques and technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1733.md)
 * [Embrace data science and digital techniques](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_292.md)
 
-## Articles mentionning the risk
+## Property: has_RiskISO_Purpose
 
-* [Revisiting the built environment: 10 potential development changes and paradigm shifts due to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_59.md)
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
 
-## Property: has_RiskISO_Impact
+## Technologies linked to the risk
 
-* [Innovation, Creativity and research](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_2.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Stakeholders who can mitigate this risk
-
-* [construction companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_181.md)
-* [technology providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_630.md)
+* [construction technology and software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_374.md)
 

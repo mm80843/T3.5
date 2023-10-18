@@ -2,10 +2,6 @@
 
 # __Contact tracing and proximity detection__
 
-## Name of the Benefit
-
-Helps identify potential close contacts and facilitates early testing and isolation
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Reduces further transmission by alerting individuals to potential exposure, improving control measures](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1284.md)
@@ -18,4 +14,8 @@ Helps identify potential close contacts and facilitates early testing and isolat
 ## Articles mentionning this Benefit
 
 * [Mobile Technology Solution for COVID-19: Surveillance and Prevention](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_239.md)
+
+## Name of the Benefit
+
+Helps identify potential close contacts and facilitates early testing and isolation
 

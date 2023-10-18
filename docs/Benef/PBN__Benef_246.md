@@ -2,10 +2,6 @@
 
 # __Reduced energy consumption__
 
-## Name of the Benefit
-
-The use of occupancy sensing setback thermostats can lead to reduced energy consumption by adjusting the temperature when rooms are unoccupied.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Implementing energy-efficient appliances can attract tenants seeking cost savings and a greener lifestyle.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_258.md)
@@ -28,4 +24,8 @@ The use of occupancy sensing setback thermostats can lead to reduced energy cons
 * [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
 * [The effect of occupant distribution on energy consumption and COVID-19 infection in buildings: A case study of university building](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_169.md)
 * [Occupants’ behavior and activity patterns influencing the energy consumption in the Kuwaiti residences](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_260.md)
+
+## Name of the Benefit
+
+The use of occupancy sensing setback thermostats can lead to reduced energy consumption by adjusting the temperature when rooms are unoccupied.
 

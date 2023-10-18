@@ -2,9 +2,10 @@
 
 # __Multi-scalar governance__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of coordination, geopolitical tensions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2891.md)
+* [national and local policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3602.md)
+* [international cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3601.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Foster collaboration and coordination among stakeholders, align governance models with common public health goals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3986.md)
 * [Decentralization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1160.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Covid-19 and the politics of sustainable energy transitions](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_14.md)
+* [Lack of coordination, geopolitical tensions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2891.md)
 
 ## Property: has_MitigationPrinciple
 
 Adoption of multi-level governance approaches involving global, national, and sub-national actors to address sustainability challenges in the energy sector.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [national and local policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3602.md)
-* [international cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3601.md)
+* [Covid-19 and the politics of sustainable energy transitions](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_14.md)
 

@@ -2,9 +2,9 @@
 
 # __Mobile phone tracking for contact tracing__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_47.md)
+* [mobile positioning technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4422.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Digital contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_148.md)
 * [Digital contact tracing application](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_42.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
+* [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_47.md)
 
 ## Property: has_MitigationPrinciple
 
 Using mobile phone data to track individuals and their contacts to identify potential virus transmission chains and enforce self-isolation measures.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [mobile positioning technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4422.md)
+* [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
 

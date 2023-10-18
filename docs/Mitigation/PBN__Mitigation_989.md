@@ -2,9 +2,8 @@
 
 # __Clear contractual arrangements__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Uncertainty in contractual entitlements](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2847.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Willing co-operation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1793.md)
 * [Guaranteeing reimbursement of loans](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_204.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Mechanisms for addressing the impact of COVID-19 on infrastructure projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_115.md)
+* [Uncertainty in contractual entitlements](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2847.md)
 
 ## Property: has_MitigationPrinciple
 
 Revise contracts to include provisions for dealing with the impact of contagious diseases on construction projects
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Mechanisms for addressing the impact of COVID-19 on infrastructure projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_115.md)
 

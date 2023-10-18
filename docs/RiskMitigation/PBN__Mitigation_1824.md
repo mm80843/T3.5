@@ -2,9 +2,8 @@
 
 # __Soap and water access__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3259.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Enhanced cleaning and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1279.md)
 * [Environmental hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1115.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_58.md)
+* [Lack of sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3259.md)
 
 ## Property: has_MitigationPrinciple
 
 Ensure access to clean water and sanitation facilities
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_58.md)
 

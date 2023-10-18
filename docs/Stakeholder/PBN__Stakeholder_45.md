@@ -2,6 +2,14 @@
 
 # __pandemic areas__
 
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Facilitated re-adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_59.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q531592](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q531592.md)
+
 ## Closest similar item
 
 * [individuals and communities affected by pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_341.md)
@@ -14,12 +22,4 @@
 * [regional health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1.md)
 * [areas with limited healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1272.md)
 * [areas with poor sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1088.md)
-
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Facilitated re-adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_59.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q531592](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q531592.md)
 

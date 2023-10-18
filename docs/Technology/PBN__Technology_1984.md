@@ -2,6 +2,14 @@
 
 # __urban green spaces__
 
+## Risks linked to this technology
+
+* [Lack of green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2373.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Urban Planning and Green Spaces](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_85.md)
+
 ## Closest similar item
 
 * [green spaces in residential areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_120.md)
@@ -14,14 +22,6 @@
 * [urban planning and design strategies for green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_455.md)
 * [urban planning and design strategies to create and enhance green spaces in residential areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_842.md)
 * [Urban planning and design strategies to create and enhance green spaces in residential areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2317.md)
-
-## Risks linked to this technology
-
-* [Lack of green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2373.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Urban Planning and Green Spaces](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_85.md)
 
 ## This Technology belongs to this TechGroup
 

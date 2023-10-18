@@ -2,19 +2,6 @@
 
 # __remote sensing__
 
-## Closest similar item
-
-* [remote sensing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1699.md)
-* [Remote sensing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2471.md)
-* [Remote sensing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2438.md)
-* [remote sensing technology for monitoring and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1531.md)
-* [satellite imagery](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1684.md)
-* [remote monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_405.md)
-* [Remote monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2525.md)
-* [remote monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_462.md)
-* [high-resolution land use data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4320.md)
-* [remote monitoring and tracking technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1366.md)
-
 ## Risks linked to this technology
 
 * [Spatial variation in HIV prevalence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1347.md)
@@ -28,17 +15,30 @@
 * [Communication and Connectivity](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_112.md)
 * [Environmental and Outdoor Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_91.md)
 
-## This Technology enables the following mitigations
+## Closest similar item
 
-* [Telemedicine and remote healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_288.md)
+* [remote sensing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1699.md)
+* [Remote sensing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2471.md)
+* [Remote sensing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2438.md)
+* [remote sensing technology for monitoring and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1531.md)
+* [satellite imagery](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1684.md)
+* [remote monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_405.md)
+* [Remote monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2525.md)
+* [remote monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_462.md)
+* [high-resolution land use data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4320.md)
+* [remote monitoring and tracking technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1366.md)
+
+## This Technology belongs to this TechGroup
+
+* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
+* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
 
 ## This Technology is identified by the following QID
 
 * [Q110969468](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q110969468.md)
 * [Q199687](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q199687.md)
 
-## This Technology belongs to this TechGroup
+## This Technology enables the following mitigations
 
-* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
-* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
+* [Telemedicine and remote healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_288.md)
 

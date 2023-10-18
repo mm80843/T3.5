@@ -2,6 +2,17 @@
 
 # __data sharing platforms__
 
+## Risks linked to this technology
+
+* [Limited data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1338.md)
+* [Data capture challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1336.md)
+* [Limited access to COVID-19 data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1719.md)
+* [Underreporting of cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2180.md)
+* [Concealment of information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2390.md)
+* [Lack of Historical Data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1098.md)
+* [Lack of information transparency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_658.md)
+* [Limited accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1534.md)
+
 ## Closest similar item
 
 * [Data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2412.md)
@@ -15,16 +26,9 @@
 * [data sharing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3837.md)
 * [data integration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_114.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Limited data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1338.md)
-* [Data capture challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1336.md)
-* [Limited access to COVID-19 data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1719.md)
-* [Underreporting of cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2180.md)
-* [Concealment of information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2390.md)
-* [Lack of Historical Data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1098.md)
-* [Lack of information transparency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_658.md)
-* [Limited accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1534.md)
+* [Q5227350](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5227350.md)
 
 ## This Technology enables the following mitigations
 
@@ -34,8 +38,4 @@
 * [Open data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_884.md)
 * [Timely data transfer](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_568.md)
 * [Data sharing for secondary use](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_563.md)
-
-## This Technology is identified by the following QID
-
-* [Q5227350](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5227350.md)
 

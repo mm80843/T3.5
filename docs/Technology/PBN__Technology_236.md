@@ -2,6 +2,10 @@
 
 # __antiviral drugs__
 
+## Risks linked to this technology
+
+* [Lack of drug therapy options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1146.md)
+
 ## Closest similar item
 
 * [antiviral](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3919.md)
@@ -15,15 +19,11 @@
 * [anti-malaria drugs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_237.md)
 * [anti-bacterial](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3917.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Lack of drug therapy options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1146.md)
+* [Q40207875](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q40207875.md)
 
 ## This Technology enables the following mitigations
 
 * [Drug Therapies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_228.md)
-
-## This Technology is identified by the following QID
-
-* [Q40207875](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q40207875.md)
 

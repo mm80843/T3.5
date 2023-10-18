@@ -2,9 +2,12 @@
 
 # __Communication and Awareness__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of Information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2519.md)
+* [posters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3125.md)
+* [meetings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3124.md)
+* [emails](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3126.md)
+* [webinars](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3041.md)
 
 ## Closest similar item
 
@@ -19,18 +22,15 @@
 * [Clear and inclusive communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1341.md)
 * [Public education and communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1137.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Analysis of COVID-19 Concerns Raised by the Construction Workforce and Development of Mitigation Practices](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_82.md)
+* [Lack of Information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2519.md)
 
 ## Property: has_MitigationPrinciple
 
 Promote COVID-19 awareness, educate employees on virus spreading, protection, and prevention, provide updates on COVID-19 news and vaccination plans, and implement regular toolbox meetings and communication channels for employees.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [posters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3125.md)
-* [meetings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3124.md)
-* [emails](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3126.md)
-* [webinars](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3041.md)
+* [Analysis of COVID-19 Concerns Raised by the Construction Workforce and Development of Mitigation Practices](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_82.md)
 

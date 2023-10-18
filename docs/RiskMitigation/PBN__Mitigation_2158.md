@@ -2,9 +2,9 @@
 
 # __Adjustable room layout__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Comfort and privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3359.md)
+* [woods bagot’s ad-apt system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4284.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Distancing and Building Layout](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1611.md)
 * [Optimize north-south orientation of building layout](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1153.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
+* [Comfort and privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3359.md)
 
 ## Property: has_MitigationPrinciple
 
 Allow the division of open space into smaller spaces for different purposes
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [woods bagot’s ad-apt system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4284.md)
+* [How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
 

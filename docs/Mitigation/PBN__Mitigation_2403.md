@@ -2,8 +2,10 @@
 
 # __Real-time data access__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [r package (ncov2019)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4475.md)
+* [api calls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4476.md)
 
 ## Closest similar item
 
@@ -18,16 +20,14 @@
 * [Data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_99.md)
 * [Online data collection methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2447.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Open-source analytics tools for studying the COVID-19 coronavirus outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_218.md)
 
 ## Property: has_MitigationPrinciple
 
 Provides direct access to real-time epidemiological data on the outbreak, facilitating data analysis, modeling, and forecasting
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [r package (ncov2019)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4475.md)
-* [api calls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4476.md)
+* [Open-source analytics tools for studying the COVID-19 coronavirus outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_218.md)
 

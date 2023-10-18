@@ -2,10 +2,6 @@
 
 # __Providing trustworthy evidence__
 
-## Name of the Benefit
-
-Credible hub of trustworthy evidence counters misinformation and provides evidence for policy-makers, stakeholders, citizens, and media
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved public trust, informed decision-making, and greater effectiveness of interventions](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_593.md)
@@ -20,4 +16,8 @@ Credible hub of trustworthy evidence counters misinformation and provides eviden
 ## Articles mentionning this Benefit
 
 * [Amplifying the role of knowledge translation platforms in the COVID-19 pandemic response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_111.md)
+
+## Name of the Benefit
+
+Credible hub of trustworthy evidence counters misinformation and provides evidence for policy-makers, stakeholders, citizens, and media
 

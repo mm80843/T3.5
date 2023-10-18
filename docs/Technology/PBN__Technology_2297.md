@@ -2,6 +2,9 @@
 
 # __Improved sample collection and handling protocols__
 
+## This Technology belongs to this TechSubgroup
+
+
 ## Closest similar item
 
 * [Improved sample collection and handling protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2297.md)
@@ -15,14 +18,11 @@
 * [cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1102.md)
 * [Cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2394.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
 
 ## This Technology is identified by the following QID
 
 * [Q47484892](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q47484892.md)
-
-## This Technology belongs to this TechGroup
-
-* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
 

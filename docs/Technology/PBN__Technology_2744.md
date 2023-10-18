@@ -2,6 +2,10 @@
 
 # __Health-focused design principles and guidelines__
 
+## This Technology belongs to this TechSubgroup
+
+* [Public Health and Community Engagement](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_57.md)
+
 ## Closest similar item
 
 * [Health-focused design principles and guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2744.md)
@@ -15,15 +19,11 @@
 * [mobile health technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1691.md)
 * [workplace health promotion technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1517.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Public Health and Community Engagement](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_57.md)
+* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
 
 ## This Technology is identified by the following QID
 
 * [Q1519843](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1519843.md)
-
-## This Technology belongs to this TechGroup
-
-* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
 

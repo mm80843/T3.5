@@ -2,9 +2,10 @@
 
 # __HEPA filters__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Filter leakage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3465.md)
+* [hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_674.md)
+* [portable air cleaners (pac)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4509.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [HVAC systems with HEPA filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4392.md)
 * [high-efficiency particulate air (hepa) filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4393.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [A review of facilities management interventions to mitigate respiratory infections in existing buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_171.md)
+* [Filter leakage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3465.md)
 
 ## Property: has_MitigationPrinciple
 
 HEPA filters remove virus-laden particles from the air, but proper installation, maintenance, and operation are crucial
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_674.md)
-* [portable air cleaners (pac)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4509.md)
+* [A review of facilities management interventions to mitigate respiratory infections in existing buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_171.md)
 

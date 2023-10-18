@@ -2,8 +2,12 @@
 
 # __Integration with emerging technologies for improved outcomes__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_211.md)
+* [big data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_276.md)
+* [artificial intelligence (ai)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1714.md)
+* [cloud computing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1232.md)
 
 ## Closest similar item
 
@@ -18,18 +22,14 @@
 * [Increased use of technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1565.md)
 * [Non-pharmaceutical interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_237.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Blockchain technology and its applications to combat COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_219.md)
 
 ## Property: has_MitigationPrinciple
 
 Integration of blockchain with AI, big data, and cloud computing can enhance pandemic management and response, providing more effective solutions.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_211.md)
-* [big data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_276.md)
-* [artificial intelligence (ai)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1714.md)
-* [cloud computing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1232.md)
+* [Blockchain technology and its applications to combat COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_219.md)
 

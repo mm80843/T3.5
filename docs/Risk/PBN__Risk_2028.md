@@ -2,24 +2,26 @@
 
 # __Urban density__
 
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Description of the risk
+
+High population density in cities
+
 ## Property: has_RiskType
 
 * [environmental](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_0.md)
 * [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
-## People affected by this risk
+## Articles mentionning the risk
 
-* [city dwellers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_772.md)
-* [urban residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_209.md)
-* [commuters](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_532.md)
-
-## Name of the risk
-
-Rapid spread of contagious diseases, increased infection rates
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+* [Coronavirus questions that will not go away: interrogating urban and socio-spatial implications of COVID-19 measures](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_184.md)
 
 ## Closest similar item
 
@@ -34,36 +36,15 @@ Rapid spread of contagious diseases, increased infection rates
 * [Occupancy density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1237.md)
 * [Overcrowding in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1022.md)
 
-## Description of the risk
+## People affected by this risk
 
-High population density in cities
-
-## Technologies linked to the risk
-
-* [urban planning strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_49.md)
-* [zoning regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_660.md)
-* [building codes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1495.md)
-* [mixed-use development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1496.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Mitigations of this risk
-
-* [Urban planning and design that balances density and social distancing measures, building design that supports healthy environments](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2652.md)
-
-## Articles mentionning the risk
-
-* [Coronavirus questions that will not go away: interrogating urban and socio-spatial implications of COVID-19 measures](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_184.md)
+* [city dwellers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_772.md)
+* [urban residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_209.md)
+* [commuters](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_532.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Living and working environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_1.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
 ## Stakeholders who can mitigate this risk
 
@@ -71,4 +52,23 @@ High population density in cities
 * [architects](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_431.md)
 * [urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_125.md)
 * [local government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_307.md)
+
+## Name of the risk
+
+Rapid spread of contagious diseases, increased infection rates
+
+## Mitigations of this risk
+
+* [Urban planning and design that balances density and social distancing measures, building design that supports healthy environments](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2652.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Technologies linked to the risk
+
+* [urban planning strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_49.md)
+* [zoning regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_660.md)
+* [building codes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1495.md)
+* [mixed-use development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1496.md)
 

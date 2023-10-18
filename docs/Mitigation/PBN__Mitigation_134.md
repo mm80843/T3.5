@@ -2,9 +2,9 @@
 
 # __Implementation of BIM technology__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Productivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1579.md)
+* [building information modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2983.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Enhanced communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2437.md)
 * [Deployment of energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_340.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Influence between COVID-19 Impacts and Project Stakeholders in Chilean Construction Projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_157.md)
+* [Productivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1579.md)
 
 ## Property: has_MitigationPrinciple
 
 Utilize BIM software to enhance construction project management, improve coordination, and optimize productivity, allowing for more efficient project execution.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [building information modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2983.md)
+* [Influence between COVID-19 Impacts and Project Stakeholders in Chilean Construction Projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_157.md)
 

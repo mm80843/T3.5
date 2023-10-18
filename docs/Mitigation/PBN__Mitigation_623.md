@@ -2,9 +2,9 @@
 
 # __Online tax assistance__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Non-compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2666.md)
+* [virtual tax assistance platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3367.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Online delivery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2201.md)
 * [Online data collection methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2447.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Smart cities and the pandemic: digital technologies on the urban management of Brazilian cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_143.md)
+* [Non-compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2666.md)
 
 ## Property: has_MitigationPrinciple
 
 Provision of virtual tax assistance and simplification of tax processes for citizens
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [virtual tax assistance platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3367.md)
+* [Smart cities and the pandemic: digital technologies on the urban management of Brazilian cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_143.md)
 

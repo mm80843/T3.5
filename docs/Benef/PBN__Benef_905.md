@@ -2,10 +2,6 @@
 
 # __Enhanced risk monitoring__
 
-## Name of the Benefit
-
-Timely identification and response to public health threats
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved public health outcomes, reduced healthcare costs](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_986.md)
@@ -18,4 +14,8 @@ Timely identification and response to public health threats
 ## Articles mentionning this Benefit
 
 * [From Viral City to Smart City: Learning from Pandemic Experiences](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_183.md)
+
+## Name of the Benefit
+
+Timely identification and response to public health threats
 

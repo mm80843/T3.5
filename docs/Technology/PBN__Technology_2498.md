@@ -2,6 +2,11 @@
 
 # __Signage__
 
+## This Technology belongs to this TechSubgroup
+
+* [Educational and Training Resources](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_39.md)
+* [Physical Barriers and Signage](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_132.md)
+
 ## Closest similar item
 
 * [Signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2498.md)
@@ -15,17 +20,12 @@
 * [hygiene signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_435.md)
 * [Hygiene signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2265.md)
 
-## This Technology belongs to this TechSubgroup
-
-* [Educational and Training Resources](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_39.md)
-* [Physical Barriers and Signage](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_132.md)
-
-## This Technology is identified by the following QID
-
-* [Q1211272](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1211272.md)
-
 ## This Technology belongs to this TechGroup
 
 * [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
 * [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
+
+## This Technology is identified by the following QID
+
+* [Q1211272](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1211272.md)
 

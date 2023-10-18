@@ -2,8 +2,9 @@
 
 # __Larvicides and adulticides__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [pesticides](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4048.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Use of Paracetamol](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1542.md)
 * [Sodium hypochlorite](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2313.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [A general modeling framework for exploring the impact of individual concern and personal protection on vector-borne disease dynamics](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_217.md)
 
 ## Property: has_MitigationPrinciple
 
 Reducing vector populations through the use of chemicals to control mosquito larvae and adult mosquitoes
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [pesticides](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4048.md)
+* [A general modeling framework for exploring the impact of individual concern and personal protection on vector-borne disease dynamics](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_217.md)
 

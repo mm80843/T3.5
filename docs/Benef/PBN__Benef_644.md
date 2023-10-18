@@ -2,10 +2,6 @@
 
 # __Increased member safety__
 
-## Name of the Benefit
-
-Restricting occupancy and spacing equipment allows for physical distancing among members, reducing the risk of COVID-19 transmission.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investing in member safety improves member retention and satisfaction, attracting new members and enhancing the overall reputation of the health club.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_693.md)
@@ -17,4 +13,8 @@ Restricting occupancy and spacing equipment allows for physical distancing among
 ## Articles mentionning this Benefit
 
 * [Assessment of COVID-19 precautionary measures in sports facilities: A case study on a health club in Saudi Arabia](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_128.md)
+
+## Name of the Benefit
+
+Restricting occupancy and spacing equipment allows for physical distancing among members, reducing the risk of COVID-19 transmission.
 

@@ -2,9 +2,10 @@
 
 # __Re-shoring of critical energy industries__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Disruption of global supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2265.md)
+* [supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3600.md)
+* [industrial practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3599.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Deployment of energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_340.md)
 * [Promotion of sustainable and alternative energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2141.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Covid-19 and the politics of sustainable energy transitions](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_14.md)
+* [Disruption of global supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2265.md)
 
 ## Property: has_MitigationPrinciple
 
 Relocation of energy industries back to the domestic market to reduce dependence on international supply chains and ensure security of supply.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3600.md)
-* [industrial practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3599.md)
+* [Covid-19 and the politics of sustainable energy transitions](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_14.md)
 

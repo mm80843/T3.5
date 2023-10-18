@@ -2,9 +2,10 @@
 
 # __Contextualising and disseminating evidence__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of awareness/ability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2653.md)
+* [plain language](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3344.md)
+* [user-friendly formats](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3343.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Accurate evidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_891.md)
 * [Considering context in interpretation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_662.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Amplifying the role of knowledge translation platforms in the COVID-19 pandemic response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_111.md)
+* [Lack of awareness/ability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2653.md)
 
 ## Property: has_MitigationPrinciple
 
 KT platforms can provide context-specific and actionable evidence to enable countries to adapt global solutions to local needs and realities.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [plain language](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3344.md)
-* [user-friendly formats](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3343.md)
+* [Amplifying the role of knowledge translation platforms in the COVID-19 pandemic response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_111.md)
 

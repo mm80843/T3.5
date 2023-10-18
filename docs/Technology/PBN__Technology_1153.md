@@ -2,6 +2,13 @@
 
 # __reporting systems__
 
+## Risks linked to this technology
+
+* [Under-reporting of cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_544.md)
+
+## This Technology belongs to this TechSubgroup
+
+
 ## Closest similar item
 
 * [digital reporting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1249.md)
@@ -15,18 +22,11 @@
 * [reporting guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_840.md)
 * [Reporting guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2622.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Under-reporting of cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_544.md)
-
-## This Technology belongs to this TechSubgroup
-
+* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
 
 ## This Technology is identified by the following QID
 
 * [Q7314108](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7314108.md)
-
-## This Technology belongs to this TechGroup
-
-* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
 

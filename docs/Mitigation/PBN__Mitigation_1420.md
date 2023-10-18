@@ -2,9 +2,10 @@
 
 # __Ultraviolet germicidal irradiation__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Dissemination of infectious aerosols in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3057.md)
+* [uvgi systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3062.md)
+* [uv-c emitters or lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4391.md)
 
 ## Closest similar item
 
@@ -19,17 +20,16 @@
 * [UV light disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_552.md)
 * [Upper room germicidal UV fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1392.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Ventilation use in nonmedical settings during COVID-19: Cleaning protocol, maintenance, and recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_104.md)
-* [Adaptation of HVAC Systems to Reduce the Spread of COVID-19 in Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_214.md)
+* [Dissemination of infectious aerosols in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3057.md)
 
 ## Property: has_MitigationPrinciple
 
 UVGI systems can be used to disinfect air and surfaces, reducing the risk of transmission of infectious aerosols
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [uvgi systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3062.md)
-* [uv-c emitters or lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4391.md)
+* [Ventilation use in nonmedical settings during COVID-19: Cleaning protocol, maintenance, and recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_104.md)
+* [Adaptation of HVAC Systems to Reduce the Spread of COVID-19 in Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_214.md)
 

@@ -2,6 +2,10 @@
 
 # __sanitizers__
 
+## Risks linked to this technology
+
+* [Lack of hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1498.md)
+
 ## Closest similar item
 
 * [Sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2590.md)
@@ -15,16 +19,12 @@
 * [sanitization procedures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1418.md)
 * [hand sanitizer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3258.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Lack of hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1498.md)
+* [Q652289](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q652289.md)
 
 ## This Technology enables the following mitigations
 
 * [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_246.md)
 * [Sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_682.md)
-
-## This Technology is identified by the following QID
-
-* [Q652289](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q652289.md)
 

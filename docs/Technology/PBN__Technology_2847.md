@@ -2,6 +2,10 @@
 
 # __Smart thermostats__
 
+## This Technology belongs to this TechSubgroup
+
+* [Internet of Things (IoT) and Smart Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_94.md)
+
 ## Closest similar item
 
 * [Smart thermostats](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2847.md)
@@ -15,15 +19,11 @@
 * [smart sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3766.md)
 * [temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4050.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Internet of Things (IoT) and Smart Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_94.md)
+* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
 
 ## This Technology is identified by the following QID
 
 * [Q187665](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q187665.md)
-
-## This Technology belongs to this TechGroup
-
-* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
 

@@ -2,10 +2,6 @@
 
 # __Perception change__
 
-## Name of the Benefit
-
-Media portrayal that challenges negative stereotypes improves public perception and reduces stigmatization of residents.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Enhanced reputation and desirability of public and social housing properties, potentially resulting in increased demand and higher asset values for investors.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_568.md)
@@ -17,4 +13,8 @@ Media portrayal that challenges negative stereotypes improves public perception 
 ## Articles mentionning this Benefit
 
 * [Public housing and COVID-19: contestation, challenge and change](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_107.md)
+
+## Name of the Benefit
+
+Media portrayal that challenges negative stereotypes improves public perception and reduces stigmatization of residents.
 

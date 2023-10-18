@@ -2,10 +2,6 @@
 
 # __Flexible modeling assumptions__
 
-## Name of the Benefit
-
-Allows for updating and adaptation of the model as new insights on disease transmission become available
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Ensures that the model remains relevant and accurate in the face of evolving knowledge](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_14.md)
@@ -18,4 +14,8 @@ Allows for updating and adaptation of the model as new insights on disease trans
 ## Articles mentionning this Benefit
 
 * [EXPOSED: An occupant exposure model for confined spaces to retrofit crowd models during a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_3.md)
+
+## Name of the Benefit
+
+Allows for updating and adaptation of the model as new insights on disease transmission become available
 

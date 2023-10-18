@@ -2,8 +2,9 @@
 
 # __Plasmacluster Ions__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [plasmacluster ion technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3110.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Sodium chloride extraction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_847.md)
 * [Anti-SARS-CoV-2 coating](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_264.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Methods for air cleaning and protection of building occupants from airborne pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_240.md)
 
 ## Property: has_MitigationPrinciple
 
 Generating ions that react with proteins and polysaccharides in the cell walls of pathogens, damaging them and rendering them unable to cause infections
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [plasmacluster ion technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3110.md)
+* [Methods for air cleaning and protection of building occupants from airborne pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_240.md)
 

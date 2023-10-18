@@ -19,6 +19,14 @@
 * [national authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2413.md)
 * [National authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2430.md)
 
+## Risk affecting this stakeholder
+
+* [Climate change adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1924.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Regulatory Bodies](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_2.md)
+
 ## Risks that can be mitigated by this stakeholder
 
 * [Water quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_714.md)
@@ -31,12 +39,4 @@
 * [Workplace safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1920.md)
 * [Water use patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1916.md)
 * [Data privacy and public perception](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1921.md)
-
-## Risk affecting this stakeholder
-
-* [Climate change adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1924.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Regulatory Bodies](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_2.md)
 

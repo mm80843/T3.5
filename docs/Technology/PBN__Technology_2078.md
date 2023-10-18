@@ -2,6 +2,10 @@
 
 # __Kalman filter algorithm__
 
+## This Technology belongs to this TechSubgroup
+
+* [Simulation and Forecasting Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_0.md)
+
 ## Closest similar item
 
 * [Kalman filter algorithm](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2078.md)
@@ -15,15 +19,11 @@
 * [tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1543.md)
 * [ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_149.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Simulation and Forecasting Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_0.md)
+* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
 
 ## This Technology is identified by the following QID
 
 * [Q846780](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q846780.md)
-
-## This Technology belongs to this TechGroup
-
-* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
 

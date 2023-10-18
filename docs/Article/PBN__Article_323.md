@@ -2,10 +2,6 @@
 
 # __Guidelines for Responding to COVID-19 Pandemic: Best Practices, Impacts, and Future Research Directions__
 
-## Year of publication
-
-2021
-
 ## Title of the article
 
 Guidelines for Responding to COVID-19 Pandemic: Best Practices, Impacts, and Future Research Directions
@@ -13,4 +9,8 @@ Guidelines for Responding to COVID-19 Pandemic: Best Practices, Impacts, and Fut
 ## DOI of the article
 
 10.1061/(ASCE)ME.1943-5479.0000906
+
+## Year of publication
+
+2021
 

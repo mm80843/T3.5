@@ -2,10 +2,6 @@
 
 # __Continued income and employment__
 
-## Name of the Benefit
-
-Continued source of income and employment during periods of restrictions and lockdowns
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Reduced economic impact on individuals and families, improved financial stability](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_165.md)
@@ -18,4 +14,8 @@ Continued source of income and employment during periods of restrictions and loc
 ## Articles mentionning this Benefit
 
 * [Local response in health emergencies: key considerations for addressing the COVID-19 pandemic in informal urban settlements](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_36.md)
+
+## Name of the Benefit
+
+Continued source of income and employment during periods of restrictions and lockdowns
 

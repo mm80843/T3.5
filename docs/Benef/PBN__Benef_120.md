@@ -2,10 +2,6 @@
 
 # __Visualizing virus transmission__
 
-## Name of the Benefit
-
-Situated visualization and timeline-based visualization allow users to understand the potential effects of virus transmission on the built environment and analyze temporal aspects of transmission.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investing in the simulation system provides users with valuable insights, enhances their understanding of virus transmission dynamics, and enables them to make informed decisions to improve building safety and reduce transmission risk.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_119.md)
@@ -20,4 +16,8 @@ Situated visualization and timeline-based visualization allow users to understan
 ## Articles mentionning this Benefit
 
 * [Designing a Multi-Agent Occupant Simulation System to Support Facility Planning and Analysis for COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_26.md)
+
+## Name of the Benefit
+
+Situated visualization and timeline-based visualization allow users to understand the potential effects of virus transmission on the built environment and analyze temporal aspects of transmission.
 

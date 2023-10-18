@@ -2,10 +2,6 @@
 
 # __Safe water supply and waste management__
 
-## Name of the Benefit
-
-Proper management of water supply and wastewater reduces health risks and ensures a safe and clean living environment.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investment in water treatment systems and waste management infrastructure can improve the quality of life for occupants, leading to increased property value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_876.md)
@@ -17,4 +13,8 @@ Proper management of water supply and wastewater reduces health risks and ensure
 ## Articles mentionning this Benefit
 
 * [COVID-19 and Living space challenge. Well-being and Public Health recommendations for a healthy, safe, and sustainable housing.](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_161.md)
+
+## Name of the Benefit
+
+Proper management of water supply and wastewater reduces health risks and ensures a safe and clean living environment.
 

@@ -2,6 +2,14 @@
 
 # __community outreach__
 
+## Risks linked to this technology
+
+* [Lack of trust and cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2022.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Health Education and Community Outreach](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_41.md)
+
 ## Closest similar item
 
 * [community outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1082.md)
@@ -15,23 +23,15 @@
 * [targeted outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1339.md)
 * [fostering community](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4073.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Lack of trust and cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2022.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Health Education and Community Outreach](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_41.md)
-
-## This Technology enables the following mitigations
-
-* [Community vaccination programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1511.md)
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
 
 ## This Technology is identified by the following QID
 
 * [Q11640](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11640.md)
 
-## This Technology belongs to this TechGroup
+## This Technology enables the following mitigations
 
-* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
+* [Community vaccination programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1511.md)
 

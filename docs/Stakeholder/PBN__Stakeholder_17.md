@@ -2,6 +2,10 @@
 
 # __humans__
 
+## This Stakeholder is identified by the following QID
+
+* [Q5](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
@@ -36,8 +40,4 @@
 * [Reducing zoonotic disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_697.md)
 * [Lower vulnerability to disease](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_698.md)
 * [Reducing environmental contamination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_699.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q5](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5.md)
 

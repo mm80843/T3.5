@@ -2,8 +2,9 @@
 
 # __Ozone disinfection__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [ozone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1909.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_935.md)
 * [Cleaning and Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1615.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Disinfection technology of hospital wastes and wastewater: Suggestions for disinfection strategy during coronavirus Disease 2019 (COVID-19) pandemic in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_191.md)
 
 ## Property: has_MitigationPrinciple
 
 Ozone disinfection is a technology that uses ozone to disinfect hospital wastewater. Ozone has a high bactericidal effect and can quickly decompose microorganisms in wastewater.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [ozone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1909.md)
+* [Disinfection technology of hospital wastes and wastewater: Suggestions for disinfection strategy during coronavirus Disease 2019 (COVID-19) pandemic in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_191.md)
 

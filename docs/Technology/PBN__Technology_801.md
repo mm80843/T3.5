@@ -2,6 +2,10 @@
 
 # __data transparency__
 
+## Risks linked to this technology
+
+* [Exaggerated information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_373.md)
+
 ## Closest similar item
 
 * [transparency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1927.md)
@@ -15,15 +19,11 @@
 * [data tracking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3479.md)
 * [transparent peer-review and publishing processes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_785.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Exaggerated information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_373.md)
+* [Q487623](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q487623.md)
 
 ## This Technology enables the following mitigations
 
 * [Enhancing citizen confidence in water services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1638.md)
-
-## This Technology is identified by the following QID
-
-* [Q487623](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q487623.md)
 

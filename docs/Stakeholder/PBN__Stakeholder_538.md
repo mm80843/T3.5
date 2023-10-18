@@ -19,14 +19,14 @@
 * [cleaning equipment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2865.md)
 * [cleaning solutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2927.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Fomite transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_609.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Enhanced hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1387.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Fomite transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_609.md)
 

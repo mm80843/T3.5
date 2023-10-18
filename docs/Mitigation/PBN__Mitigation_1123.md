@@ -2,9 +2,9 @@
 
 # __Building transport networks__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
+* [road network infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3675.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Electrical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1215.md)
 * [Collaborative networks and partnerships](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_292.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Association of built environment attributes with the spread of COVID-19 at its initial stage in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_32.md)
+* [Spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
 
 ## Property: has_MitigationPrinciple
 
 Improving the connectivity and efficiency of transportation networks can help facilitate the movement of individuals and goods while minimizing congestion and the potential for viral transmission.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [road network infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3675.md)
+* [Association of built environment attributes with the spread of COVID-19 at its initial stage in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_32.md)
 

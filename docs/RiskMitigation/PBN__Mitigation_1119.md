@@ -2,9 +2,9 @@
 
 # __Reducing population flow__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
+* [population flow data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3671.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Reducing occupancy density](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2046.md)
 * [Less crowded environment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_158.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Association of built environment attributes with the spread of COVID-19 at its initial stage in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_32.md)
+* [Spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
 
 ## Property: has_MitigationPrinciple
 
 Controlling the movement of people between cities helps to prevent the transmission of the virus.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [population flow data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3671.md)
+* [Association of built environment attributes with the spread of COVID-19 at its initial stage in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_32.md)
 

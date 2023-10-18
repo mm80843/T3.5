@@ -2,6 +2,14 @@
 
 # __regulatory frameworks__
 
+## Risks linked to this technology
+
+* [Legal and regulatory](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2132.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Regulatory Bodies and Measures](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_97.md)
+
 ## Closest similar item
 
 * [enhanced regulatory frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4375.md)
@@ -15,19 +23,11 @@
 * [enforcement of regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_112.md)
 * [regulatory oversight](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_267.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Legal and regulatory](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2132.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Regulatory Bodies and Measures](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_97.md)
+* [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_10.md)
 
 ## This Technology is identified by the following QID
 
 * [Q428148](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q428148.md)
-
-## This Technology belongs to this TechGroup
-
-* [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_10.md)
 

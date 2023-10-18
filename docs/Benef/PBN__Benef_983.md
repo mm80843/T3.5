@@ -2,10 +2,6 @@
 
 # __Cost reduction__
 
-## Name of the Benefit
-
-Switching to a domestic supply chain would reduce costs for corporations and consumers
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors would benefit from cost savings and increased competitiveness in the market](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1083.md)
@@ -18,4 +14,8 @@ Switching to a domestic supply chain would reduce costs for corporations and con
 ## Articles mentionning this Benefit
 
 * [How COVID-19 Redefines the Concept of Sustainability](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_202.md)
+
+## Name of the Benefit
+
+Switching to a domestic supply chain would reduce costs for corporations and consumers
 

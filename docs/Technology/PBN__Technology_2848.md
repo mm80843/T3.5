@@ -2,6 +2,10 @@
 
 # __Improved wireless communication nan technologies__
 
+## This Technology belongs to this TechSubgroup
+
+* [Communication and Connectivity](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_112.md)
+
 ## Closest similar item
 
 * [Improved wireless communication nan technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2848.md)
@@ -15,15 +19,11 @@
 * [nan promotion of outdoor nan nan activities during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1874.md)
 * [nan nan nan sound-activated nan nan nan nan elevator design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3991.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Communication and Connectivity](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_112.md)
+* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
 
 ## This Technology is identified by the following QID
 
 * [Q249](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q249.md)
-
-## This Technology belongs to this TechGroup
-
-* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
 

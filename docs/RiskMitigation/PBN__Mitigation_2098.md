@@ -2,7 +2,7 @@
 
 # __Level 1 national emergency response__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
 
 ## Closest similar item
@@ -18,14 +18,14 @@
 * [Evacuations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1975.md)
 * [Crisis management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [An investigation of transmission control measures during the first 50 days of the COVID-19 epidemic in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_197.md)
 
 ## Property: has_MitigationPrinciple
 
 Highest level of emergency response in China, involving measures such as isolating suspected and confirmed cases, suspending public transport, closing schools and entertainment venues, banning public gatherings, health checks on migrants, and travel restrictions
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [An investigation of transmission control measures during the first 50 days of the COVID-19 epidemic in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_197.md)
 

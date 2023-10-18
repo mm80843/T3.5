@@ -2,9 +2,9 @@
 
 # __Assessing the possibility of late or halted deliveries of materials__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Material shortages](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3218.md)
+* [supply chain monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4010.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Delivery Drones](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1445.md)
 * [Flexible Delivery Hours](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1454.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Identifying Actions to Control and Mitigate the Effects of the COVID-19 Pandemic on Construction Organizations: Preliminary Findings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_220.md)
+* [Material shortages](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3218.md)
 
 ## Property: has_MitigationPrinciple
 
 Anticipating and planning for disruptions in the supply chain to ensure a continuous flow of materials for construction projects
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [supply chain monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4010.md)
+* [Identifying Actions to Control and Mitigate the Effects of the COVID-19 Pandemic on Construction Organizations: Preliminary Findings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_220.md)
 

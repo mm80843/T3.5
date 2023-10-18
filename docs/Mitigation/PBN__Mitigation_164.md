@@ -2,8 +2,14 @@
 
 # __Emerging Low-Cost Wearable Sensors__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [face masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_342.md)
+* [wristbands](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3021.md)
+* [epidermal tattoos](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3018.md)
+* [contact lenses](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3019.md)
+* [textiles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3020.md)
+* [patches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3022.md)
 
 ## Closest similar item
 
@@ -18,20 +24,14 @@
 * [Monitoring and sensing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1311.md)
 * [Wireless Sensor Networks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1579.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Wearable devices for the detection of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_296.md)
 
 ## Property: has_MitigationPrinciple
 
 Integration of new wearable sensors to collect physical and biochemical signals for the detection of symptomatic and pre-symptomatic cases in future pandemics
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [face masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_342.md)
-* [wristbands](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3021.md)
-* [epidermal tattoos](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3018.md)
-* [contact lenses](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3019.md)
-* [textiles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3020.md)
-* [patches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3022.md)
+* [Wearable devices for the detection of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_296.md)
 

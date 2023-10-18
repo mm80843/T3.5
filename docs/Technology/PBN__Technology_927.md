@@ -2,6 +2,14 @@
 
 # __energy trading platforms__
 
+## Risks linked to this technology
+
+* [Price volatility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1608.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Energy Systems and Sustainability](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_116.md)
+
 ## Closest similar item
 
 * [electronic trading platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1410.md)
@@ -15,19 +23,11 @@
 * [renewable energy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_534.md)
 * [energy-efficient technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2312.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Price volatility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1608.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Energy Systems and Sustainability](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_116.md)
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 
 ## This Technology is identified by the following QID
 
 * [Q778043](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q778043.md)
-
-## This Technology belongs to this TechGroup
-
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 

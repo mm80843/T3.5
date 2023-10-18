@@ -2,6 +2,10 @@
 
 # __Correct use and maintenance of air-conditioning systems__
 
+## This Technology belongs to this TechSubgroup
+
+* [HVAC and Air Quality Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_90.md)
+
 ## Closest similar item
 
 * [Correct use and maintenance of air-conditioning systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2761.md)
@@ -15,15 +19,11 @@
 * [hvac maintenance and cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4059.md)
 * [hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_185.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [HVAC and Air Quality Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_90.md)
+* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
 
 ## This Technology is identified by the following QID
 
 * [Q173725](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q173725.md)
-
-## This Technology belongs to this TechGroup
-
-* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
 

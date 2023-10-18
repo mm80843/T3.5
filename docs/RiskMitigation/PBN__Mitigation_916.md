@@ -2,8 +2,10 @@
 
 # __Data Visualization__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [data visualization technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3542.md)
+* [graphical representation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3543.md)
 
 ## Closest similar item
 
@@ -18,16 +20,14 @@
 * [Strengthened data infrastructure and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1079.md)
 * [Big Data](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1317.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Smart cities and a data-driven response to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_164.md)
 
 ## Property: has_MitigationPrinciple
 
 Presenting data in a visual form to enable easy interpretation and analysis
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [data visualization technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3542.md)
-* [graphical representation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3543.md)
+* [Smart cities and a data-driven response to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_164.md)
 

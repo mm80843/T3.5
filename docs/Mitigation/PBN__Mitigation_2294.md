@@ -2,9 +2,9 @@
 
 # __UV susceptibility of viral aerosols__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Unknown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3412.md)
+* [uv lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3193.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Inhalation of viral particles](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4328.md)
 * [Dissemination of infectious aerosols in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4329.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Effect of Ultraviolet Germicidal Irradiation on Viral Aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_88.md)
+* [Unknown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3412.md)
 
 ## Property: has_MitigationPrinciple
 
 Characterizing the UV susceptibility of viral aerosols to determine the potential usefulness of UV irradiation in preventing the transmission
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [uv lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3193.md)
+* [Effect of Ultraviolet Germicidal Irradiation on Viral Aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_88.md)
 

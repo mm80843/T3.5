@@ -2,7 +2,7 @@
 
 # __Use of bleach-soaked pads to prevent virus spread__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
 
 ## Closest similar item
@@ -18,14 +18,14 @@
 * [Disinfection of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1086.md)
 * [Loading of virus onto glass coverslips](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_253.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Efficacy of an Automated Multiple Emitter Whole-Room Ultraviolet-C Disinfection System Against Coronaviruses MHV and MERS-CoV](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_269.md)
 
 ## Property: has_MitigationPrinciple
 
 Creates a moist environment to prevent drying of the virus onto surfaces
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Efficacy of an Automated Multiple Emitter Whole-Room Ultraviolet-C Disinfection System Against Coronaviruses MHV and MERS-CoV](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_269.md)
 

@@ -2,6 +2,10 @@
 
 # __small business owners__
 
+## This Stakeholder is identified by the following QID
+
+* [Q1109680](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1109680.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
@@ -33,8 +37,4 @@
 * [Visualizing virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_120.md)
 * [Configurable simulation parameters](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_121.md)
 * [Analysis of large-scale and longitudinal aspects](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_122.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q1109680](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1109680.md)
 

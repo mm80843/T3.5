@@ -2,10 +2,6 @@
 
 # __Retrofitting of existing crowd models__
 
-## Name of the Benefit
-
-Enhances the capabilities of existing crowd models by incorporating an occupant exposure module
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Increases the usefulness and applicability of existing crowd models](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_17.md)
@@ -18,4 +14,8 @@ Enhances the capabilities of existing crowd models by incorporating an occupant 
 ## Articles mentionning this Benefit
 
 * [EXPOSED: An occupant exposure model for confined spaces to retrofit crowd models during a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_3.md)
+
+## Name of the Benefit
+
+Enhances the capabilities of existing crowd models by incorporating an occupant exposure module
 

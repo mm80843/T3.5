@@ -2,6 +2,10 @@
 
 # __volunteers__
 
+## This Stakeholder is identified by the following QID
+
+* [Q24716636](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q24716636.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
@@ -19,14 +23,10 @@
 * [fundraising team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2031.md)
 * [nonprofit organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1888.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Isolation and loneliness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1291.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q24716636](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q24716636.md)
+* [Isolation and loneliness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1291.md)
 

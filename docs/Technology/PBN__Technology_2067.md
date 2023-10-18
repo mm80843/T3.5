@@ -2,6 +2,9 @@
 
 # __Translation services__
 
+## This Technology belongs to this TechSubgroup
+
+
 ## Closest similar item
 
 * [Translation services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2067.md)
@@ -14,9 +17,6 @@
 * [Language interpretation services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2304.md)
 * [knowledge translation platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_565.md)
 * [Knowledge translation platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2041.md)
-
-## This Technology belongs to this TechSubgroup
-
 
 ## This Technology belongs to this TechGroup
 

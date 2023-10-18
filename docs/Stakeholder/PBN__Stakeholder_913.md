@@ -2,6 +2,10 @@
 
 # __sensor manufacturers and researchers__
 
+## This Stakeholder is identified by the following QID
+
+* [Q30271875](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q30271875.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Technology Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_12.md)
@@ -19,15 +23,11 @@
 * [wearable device manufacturer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1976.md)
 * [wearable device manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_744.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Limited sensor capability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1404.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Wearable and IoT Devices](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_151.md)
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q30271875](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q30271875.md)
+* [Limited sensor capability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1404.md)
 

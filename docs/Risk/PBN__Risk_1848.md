@@ -2,23 +2,25 @@
 
 # __Changes in disease distribution__
 
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Description of the risk
+
+Climate change alters the geographical range of mosquitoes and ticks, leading to the spread of diseases to new areas.
+
 ## Property: has_RiskType
 
 * [environmental](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_0.md)
 
-## People affected by this risk
+## Articles mentionning the risk
 
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-* [travelers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_560.md)
-* [outdoor workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1098.md)
-
-## Name of the risk
-
-Higher risk of disease transmission in previously unaffected regions.
-
-## Property: has_RiskISO_Purpose
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+* [Vector-borne disease, climate change and urban design](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_17.md)
 
 ## Closest similar item
 
@@ -33,37 +35,35 @@ Higher risk of disease transmission in previously unaffected regions.
 * [Disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_489.md)
 * [Transmission of the disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3308.md)
 
-## Description of the risk
+## People affected by this risk
 
-Climate change alters the geographical range of mosquitoes and ticks, leading to the spread of diseases to new areas.
-
-## Technologies linked to the risk
-
-* [remote sensing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_279.md)
-* [geographic information systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1214.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Mitigations of this risk
-
-* [Enhance surveillance systems to detect and respond to emerging diseases in new areas.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2434.md)
-
-## Articles mentionning the risk
-
-* [Vector-borne disease, climate change and urban design](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_17.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [travelers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_560.md)
+* [outdoor workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1098.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
 ## Stakeholders who can mitigate this risk
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_222.md)
+
+## Name of the risk
+
+Higher risk of disease transmission in previously unaffected regions.
+
+## Mitigations of this risk
+
+* [Enhance surveillance systems to detect and respond to emerging diseases in new areas.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2434.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+
+## Technologies linked to the risk
+
+* [remote sensing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_279.md)
+* [geographic information systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1214.md)
 

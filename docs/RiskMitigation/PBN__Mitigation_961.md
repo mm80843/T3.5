@@ -2,9 +2,9 @@
 
 # __Increased knowledge translation on social media__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Circulation of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2832.md)
+* [social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_47.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Knowledge extraction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2306.md)
 * [Cultural dissemination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_618.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The changes in the effects of social media use of Cypriots due to COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_185.md)
+* [Circulation of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2832.md)
 
 ## Property: has_MitigationPrinciple
 
 Provide proactive and dynamic response during crises by sharing reliable information
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_47.md)
+* [The changes in the effects of social media use of Cypriots due to COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_185.md)
 

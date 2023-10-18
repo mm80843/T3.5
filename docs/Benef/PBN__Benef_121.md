@@ -2,10 +2,6 @@
 
 # __Configurable simulation parameters__
 
-## Name of the Benefit
-
-Users can customize the simulation by adjusting parameters related to space configurations, occupant behaviors, and virus transmission, allowing for personalized analysis and comparison of different scenarios.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investing in the simulation system provides users with the capability to evaluate the efficiency and effectiveness of different measures and interventions, leading to optimized building design, policies, and safety protocols.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_120.md)
@@ -20,4 +16,8 @@ Users can customize the simulation by adjusting parameters related to space conf
 ## Articles mentionning this Benefit
 
 * [Designing a Multi-Agent Occupant Simulation System to Support Facility Planning and Analysis for COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_26.md)
+
+## Name of the Benefit
+
+Users can customize the simulation by adjusting parameters related to space configurations, occupant behaviors, and virus transmission, allowing for personalized analysis and comparison of different scenarios.
 

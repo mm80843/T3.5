@@ -2,6 +2,9 @@
 
 # __Alternative modes of transportation__
 
+## This Technology belongs to this TechSubgroup
+
+
 ## Closest similar item
 
 * [Alternative modes of transportation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2888.md)
@@ -15,14 +18,11 @@
 * [transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2911.md)
 * [emergency transportation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4177.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
+* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_17.md)
 
 ## This Technology is identified by the following QID
 
 * [Q334166](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q334166.md)
-
-## This Technology belongs to this TechGroup
-
-* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_17.md)
 

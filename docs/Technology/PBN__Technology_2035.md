@@ -2,6 +2,10 @@
 
 # __Agent-based modeling__
 
+## This Technology belongs to this TechSubgroup
+
+* [Simulation and Forecasting Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_0.md)
+
 ## Closest similar item
 
 * [agent-based modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1464.md)
@@ -15,15 +19,11 @@
 * [predictive modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3951.md)
 * [rule-based system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3175.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Simulation and Forecasting Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_0.md)
+* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
 
 ## This Technology is identified by the following QID
 
 * [Q392811](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q392811.md)
-
-## This Technology belongs to this TechGroup
-
-* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
 

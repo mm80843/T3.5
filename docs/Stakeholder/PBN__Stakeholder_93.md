@@ -2,6 +2,10 @@
 
 # __medical staff__
 
+## This Stakeholder is identified by the following QID
+
+* [Q69948433](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q69948433.md)
+
 ## Closest similar item
 
 * [healthcare staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_139.md)
@@ -14,10 +18,6 @@
 * [non-clinical staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1506.md)
 * [health care personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1064.md)
 * [staff of](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1549.md)
-
-## Risks that can be mitigated by this stakeholder
-
-* [Contamination of masks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1422.md)
 
 ## Risk affecting this stakeholder
 
@@ -46,7 +46,7 @@
 * [Reduction in transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1258.md)
 * [Increased efficiency of medical staff](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1391.md)
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q69948433](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q69948433.md)
+* [Contamination of masks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1422.md)
 

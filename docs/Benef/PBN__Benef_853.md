@@ -2,10 +2,6 @@
 
 # __Improved social connection__
 
-## Name of the Benefit
-
-Access to common building spaces promotes social interaction and improves mental well-being.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can attract tenants who value social connection, leading to higher occupancy rates and rental income.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_928.md)
@@ -17,4 +13,8 @@ Access to common building spaces promotes social interaction and improves mental
 ## Articles mentionning this Benefit
 
 * [How to Make Green Building Certification \& Rating Systems More Pandemic-Sustainable?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_172.md)
+
+## Name of the Benefit
+
+Access to common building spaces promotes social interaction and improves mental well-being.
 

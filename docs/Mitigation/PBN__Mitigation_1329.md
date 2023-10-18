@@ -2,9 +2,9 @@
 
 # __Covering mouth and nose__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Contamination from respiratory droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3024.md)
+* [personal protective equipment (e.g. masks)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3797.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Use of face masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_938.md)
 * [Use of Face Masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_941.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19: The forgotten priorities of the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_236.md)
+* [Contamination from respiratory droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3024.md)
 
 ## Property: has_MitigationPrinciple
 
 To prevent the spread of respiratory droplets that may contain the virus
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [personal protective equipment (e.g. masks)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3797.md)
+* [COVID-19: The forgotten priorities of the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_236.md)
 

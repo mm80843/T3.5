@@ -2,9 +2,9 @@
 
 # __Lowering between-ness centrality__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
+* [road network data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3672.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Centralised data repositories](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2073.md)
 * [Social Distance Radius](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1747.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Association of built environment attributes with the spread of COVID-19 at its initial stage in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_32.md)
+* [Spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
 
 ## Property: has_MitigationPrinciple
 
 Reducing the centrality of transportation nodes such as railway stations decreases the opportunities for viral transmission.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [road network data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3672.md)
+* [Association of built environment attributes with the spread of COVID-19 at its initial stage in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_32.md)
 

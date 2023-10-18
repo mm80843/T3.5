@@ -2,10 +2,6 @@
 
 # __Reduced risk of SARS-CoV-2 transmission on various objects__
 
-## Name of the Benefit
-
-The Cu2O/PU film can be applied to a variety of surfaces, such as doorknobs, credit card buttons, and cell phone covers, reducing the risk of transmission on commonly touched objects.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Implementing the coating would improve public health and safety and potentially restore confidence in using public spaces and facilities, leading to increased economic activity.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1069.md)
@@ -17,4 +13,8 @@ The Cu2O/PU film can be applied to a variety of surfaces, such as doorknobs, cre
 ## Articles mentionning this Benefit
 
 * [A Surface Coating that Rapidly Inactivates SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_199.md)
+
+## Name of the Benefit
+
+The Cu2O/PU film can be applied to a variety of surfaces, such as doorknobs, credit card buttons, and cell phone covers, reducing the risk of transmission on commonly touched objects.
 

@@ -2,8 +2,10 @@
 
 # __Thermal imaging-enabled facial recognition__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [facial recognition technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1713.md)
+* [thermal imaging technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4232.md)
 
 ## Closest similar item
 
@@ -18,16 +20,14 @@
 * [Face Masks with Integrated Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_167.md)
 * [Thermal conditions control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_172.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Digital technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_278.md)
 
 ## Property: has_MitigationPrinciple
 
 Using thermal imaging-enabled facial recognition to identify individuals with elevated body temperature at screening points to help identify potential cases of COVID-19.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [facial recognition technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1713.md)
-* [thermal imaging technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4232.md)
+* [Digital technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_278.md)
 

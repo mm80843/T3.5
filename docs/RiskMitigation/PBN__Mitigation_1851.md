@@ -2,8 +2,9 @@
 
 # __Providing personal protective equipment__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [ppe supply](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4107.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Personal protective equipment (PPE) use](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_955.md)
 * [Personal Protective Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_754.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [A Global Survey of Infection Control and Mitigation Measures for Combating the Transmission of COVID-19 Pandemic in Buildings Under Facilities Management Services](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_27.md)
 
 ## Property: has_MitigationPrinciple
 
 Provision of appropriate personal protective equipment (PPE) to individuals according to scenario-based calculations to minimize the risk of exposure and transmission.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [ppe supply](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4107.md)
+* [A Global Survey of Infection Control and Mitigation Measures for Combating the Transmission of COVID-19 Pandemic in Buildings Under Facilities Management Services](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_27.md)
 

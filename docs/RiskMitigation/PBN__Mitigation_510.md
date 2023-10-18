@@ -2,9 +2,9 @@
 
 # __Pooled-sample analysis__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Insufficient testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_740.md)
+* [nucleic acid-based polymerase chain reaction (pcr)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3278.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Evidence-based research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3418.md)
 * [Collect more data, conduct larger studies for more solid conclusions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3419.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Wastewater surveillance for population-wide Covid-19: The present and future](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_213.md)
+* [Insufficient testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_740.md)
 
 ## Property: has_MitigationPrinciple
 
 Increase testing capacity and throughput, especially for PCR-based methods, by testing multiple samples together
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [nucleic acid-based polymerase chain reaction (pcr)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3278.md)
+* [Wastewater surveillance for population-wide Covid-19: The present and future](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_213.md)
 

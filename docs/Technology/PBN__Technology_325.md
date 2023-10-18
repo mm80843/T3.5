@@ -2,6 +2,11 @@
 
 # __energy-efficient systems__
 
+## Risks linked to this technology
+
+* [Energy waste](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_826.md)
+* [Environmental-based](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2107.md)
+
 ## Closest similar item
 
 * [Energy-efficient systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2676.md)
@@ -15,16 +20,11 @@
 * [energy-efficient hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_750.md)
 * [energy-efficient equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3398.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Energy waste](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_826.md)
-* [Environmental-based](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2107.md)
+* [Q924713](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q924713.md)
 
 ## This Technology enables the following mitigations
 
 * [Green and Sustainable Design Practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_189.md)
-
-## This Technology is identified by the following QID
-
-* [Q924713](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q924713.md)
 

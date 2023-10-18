@@ -2,6 +2,10 @@
 
 # __building regulators__
 
+## This Stakeholder is identified by the following QID
+
+* [Q3771881](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3771881.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
@@ -19,15 +23,11 @@
 * [building industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1112.md)
 * [building owners/operator](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2069.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Lack of design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2106.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Real Estate and Construction](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_31.md)
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q3771881](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3771881.md)
+* [Lack of design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2106.md)
 

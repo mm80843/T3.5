@@ -2,6 +2,10 @@
 
 # __Eco-friendly materials__
 
+## This Technology belongs to this TechSubgroup
+
+* [Green and Biodegradable Materials](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_165.md)
+
 ## Closest similar item
 
 * [Eco-friendly materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2655.md)
@@ -15,15 +19,11 @@
 * [Better materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2656.md)
 * [biodegradable materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1651.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Green and Biodegradable Materials](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_165.md)
+* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_12.md)
 
 ## This Technology is identified by the following QID
 
 * [Q655870](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q655870.md)
-
-## This Technology belongs to this TechGroup
-
-* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_12.md)
 

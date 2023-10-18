@@ -2,8 +2,9 @@
 
 # __Eagle Minimal Essential Media (MEM)__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [eagle minimal essential media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3496.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Video and audio devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1217.md)
 * [Prioritizing shipments of essential goods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1489.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [A Continuously Active Antimicrobial Coating effective against Human Coronavirus 229E](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_246.md)
 
 ## Property: has_MitigationPrinciple
 
 Dilutes neutralized control and test extracts for plating
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [eagle minimal essential media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3496.md)
+* [A Continuously Active Antimicrobial Coating effective against Human Coronavirus 229E](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_246.md)
 

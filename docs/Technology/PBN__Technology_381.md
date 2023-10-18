@@ -2,6 +2,13 @@
 
 # __designers__
 
+## Risks linked to this technology
+
+* [Spatial planning considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_247.md)
+
+## This Technology belongs to this TechSubgroup
+
+
 ## Closest similar item
 
 * [Urban designers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2334.md)
@@ -14,13 +21,6 @@
 * [building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4056.md)
 * [building engineers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_385.md)
 * [Building engineers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2335.md)
-
-## Risks linked to this technology
-
-* [Spatial planning considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_247.md)
-
-## This Technology belongs to this TechSubgroup
-
 
 ## This Technology belongs to this TechGroup
 

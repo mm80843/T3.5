@@ -2,6 +2,10 @@
 
 # __healthcare agencies__
 
+## This Stakeholder is identified by the following QID
+
+* [Q30297045](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q30297045.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
@@ -19,13 +23,6 @@
 * [health care providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_344.md)
 * [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Security and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2083.md)
-* [Lack of public-health education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2184.md)
-* [Limited differentiation of COVID-19 from other viral infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1110.md)
-* [Ineffective use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2170.md)
-
 ## Risk affecting this stakeholder
 
 * [Lack of public-health education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2184.md)
@@ -38,7 +35,10 @@
 
 * [Improved individualized decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1397.md)
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q30297045](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q30297045.md)
+* [Security and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2083.md)
+* [Lack of public-health education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2184.md)
+* [Limited differentiation of COVID-19 from other viral infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1110.md)
+* [Ineffective use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2170.md)
 

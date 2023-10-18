@@ -2,6 +2,10 @@
 
 # __Job creation initiatives__
 
+## This Technology belongs to this TechSubgroup
+
+* [Financial Support and Community Initiatives](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_36.md)
+
 ## Closest similar item
 
 * [Job creation initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2250.md)
@@ -15,15 +19,11 @@
 * [government initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1642.md)
 * [community initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2909.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Financial Support and Community Initiatives](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_36.md)
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 
 ## This Technology is identified by the following QID
 
 * [Q2266417](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2266417.md)
-
-## This Technology belongs to this TechGroup
-
-* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 

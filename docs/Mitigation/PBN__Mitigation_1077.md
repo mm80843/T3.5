@@ -2,9 +2,10 @@
 
 # __Diversified and localized production systems__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Disruption in global supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2909.md)
+* [resilient production systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3627.md)
+* [local supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3626.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Technical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2062.md)
 * [Incentives for clean energy manufacturing and deployment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1987.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19 risks and systemic gaps in Nigeria: resilience building lessons for pandemic and climate change management](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_215.md)
+* [Disruption in global supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2909.md)
 
 ## Property: has_MitigationPrinciple
 
 Reduce reliance on global supply chains and increase resilience
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [resilient production systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3627.md)
-* [local supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3626.md)
+* [COVID-19 risks and systemic gaps in Nigeria: resilience building lessons for pandemic and climate change management](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_215.md)
 

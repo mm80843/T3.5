@@ -2,8 +2,9 @@
 
 # __Honest reporting__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [transparent communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_104.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Prevention of false information spreading](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_366.md)
 * [Reliable Information Sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1727.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [From Viral City to Smart City: Learning from Pandemic Experiences](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_183.md)
 
 ## Property: has_MitigationPrinciple
 
 Providing accurate and reliable information about the situation to build trust and cooperation
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [transparent communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_104.md)
+* [From Viral City to Smart City: Learning from Pandemic Experiences](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_183.md)
 

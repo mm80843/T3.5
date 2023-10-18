@@ -19,13 +19,13 @@
 * [state governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1190.md)
 * [education departments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1252.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Government Departments and Ministries](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_121.md)
+
 ## Risks that can be mitigated by this stakeholder
 
 * [Social Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1059.md)
 * [Lack of Facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1058.md)
 * [Decline in Well-being](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1055.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Government Departments and Ministries](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_121.md)
 

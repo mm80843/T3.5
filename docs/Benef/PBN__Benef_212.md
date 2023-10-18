@@ -2,10 +2,6 @@
 
 # __Increased vaccination capacity__
 
-## Name of the Benefit
-
-Ability to vaccinate a large number of people efficiently, reducing wait times and increasing access to vaccinations.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved patient satisfaction and public health outcomes.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_219.md)
@@ -17,4 +13,8 @@ Ability to vaccinate a large number of people efficiently, reducing wait times a
 ## Articles mentionning this Benefit
 
 * [Digital Twin of COVID-19 Mass Vaccination Centers](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_47.md)
+
+## Name of the Benefit
+
+Ability to vaccinate a large number of people efficiently, reducing wait times and increasing access to vaccinations.
 

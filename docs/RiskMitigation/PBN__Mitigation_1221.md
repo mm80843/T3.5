@@ -2,9 +2,9 @@
 
 # __Value management__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Efficiently embedded in asset management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2970.md)
+* [stakeholder requirements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3737.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Aesthetic management practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_652.md)
 * [Environmental management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2386.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Emergency Healthcare Facilities: Managing Design in a Post Covid-19 World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_122.md)
+* [Efficiently embedded in asset management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2970.md)
 
 ## Property: has_MitigationPrinciple
 
 Incorporate futureproofing requirements in asset management practice through stakeholder workshops and standardized approaches
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [stakeholder requirements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3737.md)
+* [Emergency Healthcare Facilities: Managing Design in a Post Covid-19 World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_122.md)
 

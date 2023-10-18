@@ -2,10 +2,6 @@
 
 # __Enhanced coordination__
 
-## Name of the Benefit
-
-Emerging technologies can strengthen the government's problem-solving capacity by involving different stakeholders and improving coordination in disaster management.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved efficiency and effectiveness in disaster management.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_955.md)
@@ -18,4 +14,8 @@ Emerging technologies can strengthen the government's problem-solving capacity b
 ## Articles mentionning this Benefit
 
 * [Learning from the COVID-19 pandemic in governing smart cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_177.md)
+
+## Name of the Benefit
+
+Emerging technologies can strengthen the government's problem-solving capacity by involving different stakeholders and improving coordination in disaster management.
 

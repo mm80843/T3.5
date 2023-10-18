@@ -2,8 +2,9 @@
 
 # __Human lung fibroblast MRC-5 cell line__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [mrc-5 cell line](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3501.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Air filtration and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1709.md)
 * [Nested PCR assay](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1083.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [A Continuously Active Antimicrobial Coating effective against Human Coronavirus 229E](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_246.md)
 
 ## Property: has_MitigationPrinciple
 
 Propagates and assays the human coronavirus 229E
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [mrc-5 cell line](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3501.md)
+* [A Continuously Active Antimicrobial Coating effective against Human Coronavirus 229E](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_246.md)
 

@@ -2,19 +2,6 @@
 
 # __public awareness campaigns__
 
-## Closest similar item
-
-* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2134.md)
-* [public awareness and education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4071.md)
-* [public awareness initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_446.md)
-* [public education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_891.md)
-* [Public education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2135.md)
-* [public awareness](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4160.md)
-* [public awareness programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1302.md)
-* [Public awareness programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2172.md)
-* [public engagement and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_732.md)
-* [public awareness platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3887.md)
-
 ## Risks linked to this technology
 
 * [Lack of awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_49.md)
@@ -40,15 +27,18 @@
 * [Public Awareness and Information Sharing](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_50.md)
 * [Public Health and Awareness Campaigns](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_51.md)
 
-## This Technology enables the following mitigations
+## Closest similar item
 
-* [Public health education and communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_251.md)
-* [Promoting awareness and education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2212.md)
-* [Public education and communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1137.md)
-
-## This Technology is identified by the following QID
-
-* [Q21086751](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q21086751.md)
+* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2134.md)
+* [public awareness and education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4071.md)
+* [public awareness initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_446.md)
+* [public education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_891.md)
+* [Public education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2135.md)
+* [public awareness](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4160.md)
+* [public awareness programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1302.md)
+* [Public awareness programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2172.md)
+* [public engagement and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_732.md)
+* [public awareness platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3887.md)
 
 ## This Technology belongs to this TechGroup
 
@@ -57,4 +47,14 @@
 * [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
 * [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
 * [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_5.md)
+
+## This Technology is identified by the following QID
+
+* [Q21086751](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q21086751.md)
+
+## This Technology enables the following mitigations
+
+* [Public health education and communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_251.md)
+* [Promoting awareness and education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2212.md)
+* [Public education and communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1137.md)
 

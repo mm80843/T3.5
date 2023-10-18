@@ -2,9 +2,9 @@
 
 # __Surveillance Drones__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
+* [drone technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3180.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Mass surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1973.md)
 * [Mass video surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1908.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID19-Routes: A Safe Pedestrian Navigation Service](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_201.md)
+* [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
 
 ## Property: has_MitigationPrinciple
 
 Covering larger surveillance areas for crowd monitoring
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [drone technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3180.md)
+* [COVID19-Routes: A Safe Pedestrian Navigation Service](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_201.md)
 

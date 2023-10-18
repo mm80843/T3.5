@@ -2,8 +2,9 @@
 
 # __Health declaration border pass__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [sms messaging](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4408.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Increased health care access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_273.md)
 * [Border control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2322.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Response to COVID-19 in Taiwan: Big Data Analytics, New Technology, and Proactive Testing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_24.md)
 
 ## Property: has_MitigationPrinciple
 
 Allows for faster immigration clearance by sending a health declaration pass via SMS to low-risk individuals
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [sms messaging](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4408.md)
+* [Response to COVID-19 in Taiwan: Big Data Analytics, New Technology, and Proactive Testing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_24.md)
 

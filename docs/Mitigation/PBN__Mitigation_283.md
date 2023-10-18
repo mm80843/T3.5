@@ -2,8 +2,9 @@
 
 # __Advanced Air Distribution__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [advanced air distribution systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3115.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Air Filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1227.md)
 * [Air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1745.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Methods for air cleaning and protection of building occupants from airborne pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_240.md)
 
 ## Property: has_MitigationPrinciple
 
 Developing new air distribution systems that reduce the airborne transmission of pathogens in indoor spaces and protect occupants from cross-infection
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [advanced air distribution systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3115.md)
+* [Methods for air cleaning and protection of building occupants from airborne pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_240.md)
 

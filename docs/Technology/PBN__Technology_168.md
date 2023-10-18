@@ -2,19 +2,6 @@
 
 # __communication tools__
 
-## Closest similar item
-
-* [communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_168.md)
-* [online communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4031.md)
-* [communication and collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_810.md)
-* [digital communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_719.md)
-* [Digital communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2535.md)
-* [communication software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_739.md)
-* [Communication software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2832.md)
-* [virtual communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_144.md)
-* [remote communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1241.md)
-* [messaging tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1427.md)
-
 ## Risks linked to this technology
 
 * [Lack of communication and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1700.md)
@@ -35,6 +22,29 @@
 * [Communication and Collaboration Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_111.md)
 * [Public Health and Community Engagement](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_57.md)
 
+## Closest similar item
+
+* [communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_168.md)
+* [online communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4031.md)
+* [communication and collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_810.md)
+* [digital communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_719.md)
+* [Digital communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2535.md)
+* [communication software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_739.md)
+* [Communication software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2832.md)
+* [virtual communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_144.md)
+* [remote communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1241.md)
+* [messaging tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1427.md)
+
+## This Technology belongs to this TechGroup
+
+* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
+* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
+
+## This Technology is identified by the following QID
+
+* [Q3635085](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3635085.md)
+
 ## This Technology enables the following mitigations
 
 * [Remote work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_310.md)
@@ -46,14 +56,4 @@
 * [Increased communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_900.md)
 * [Cross-disciplinary collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1483.md)
 * [Clear communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_594.md)
-
-## This Technology is identified by the following QID
-
-* [Q3635085](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3635085.md)
-
-## This Technology belongs to this TechGroup
-
-* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
-* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
-* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
 

@@ -2,6 +2,10 @@
 
 # __Public awareness campaigns__
 
+## This Technology belongs to this TechSubgroup
+
+* [Public Education and Awareness Campaigns](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_40.md)
+
 ## Closest similar item
 
 * [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2134.md)
@@ -15,16 +19,12 @@
 * [public engagement and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_732.md)
 * [public awareness platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3887.md)
 
-## This Technology belongs to this TechSubgroup
-
-* [Public Education and Awareness Campaigns](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_40.md)
-
-## This Technology is identified by the following QID
-
-* [Q21086751](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q21086751.md)
-
 ## This Technology belongs to this TechGroup
 
 * [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
 * [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
+
+## This Technology is identified by the following QID
+
+* [Q21086751](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q21086751.md)
 

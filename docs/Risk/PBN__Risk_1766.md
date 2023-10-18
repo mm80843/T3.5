@@ -2,21 +2,26 @@
 
 # __Domestic violence__
 
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
+
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Description of the risk
+
+Increased risk of interpersonal conflict and domestic violence in vulnerable households
+
 ## Property: has_RiskType
 
 * [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
-## People affected by this risk
+## Articles mentionning the risk
 
-* [families in poor housing conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1178.md)
-
-## Name of the risk
-
-Physical and emotional harm, strained relationships, long-lasting trauma
-
-## Property: has_RiskISO_Purpose
-
-* [Social cohesion](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_5.md)
+* [COVID-19: The forgotten priorities of the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_236.md)
 
 ## Closest similar item
 
@@ -31,19 +36,21 @@ Physical and emotional harm, strained relationships, long-lasting trauma
 * [Limited capacity of domestic violence services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3085.md)
 * [Increase in mental diseases and domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_101.md)
 
-## Description of the risk
+## People affected by this risk
 
-Increased risk of interpersonal conflict and domestic violence in vulnerable households
+* [families in poor housing conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1178.md)
 
-## Technologies linked to the risk
+## Property: has_RiskISO_Impact
 
-* [community support groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_75.md)
-* [hotlines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_222.md)
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_12.md)
 
-## Property: has_RiskHealth
+## Stakeholders who can mitigate this risk
 
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_629.md)
+
+## Name of the risk
+
+Physical and emotional harm, strained relationships, long-lasting trauma
 
 ## Mitigations of this risk
 
@@ -52,19 +59,12 @@ Increased risk of interpersonal conflict and domestic violence in vulnerable hou
 * [Panic button protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_732.md)
 * [Regulation of DV](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_740.md)
 
-## Articles mentionning the risk
+## Property: has_RiskISO_Purpose
 
-* [COVID-19: The forgotten priorities of the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_236.md)
+* [Social cohesion](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_5.md)
 
-## Property: has_RiskISO_Impact
+## Technologies linked to the risk
 
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_12.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Stakeholders who can mitigate this risk
-
-* [none](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_629.md)
+* [community support groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_75.md)
+* [hotlines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_222.md)
 

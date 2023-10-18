@@ -2,11 +2,13 @@
 
 # __Blockchain__
 
-## Thees blueprints use this enabler
+## Property: has_TechEquivalent
 
-* [Rotating shift schedule](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_0.md)
-* [Smart Locker System](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_1.md)
-* [Adapted architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_2.md)
+* [Blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2612.md)
+
+## Property: has_BP_EnablerTitle
+
+enabler_005
 
 ## Closest similar item
 
@@ -21,11 +23,9 @@
 * [blockchain technology for supply chain transparency](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_78.md)
 * [smart contracts](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_79.md)
 
-## Property: has_TechEquivalent
+## Thees blueprints use this enabler
 
-* [Blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2612.md)
-
-## Property: has_BP_EnablerTitle
-
-enabler_005
+* [Rotating shift schedule](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_0.md)
+* [Smart Locker System](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_1.md)
+* [Adapted architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_2.md)
 

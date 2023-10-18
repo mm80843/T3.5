@@ -2,9 +2,9 @@
 
 # __Machine learning models__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Overfitted models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3431.md)
+* [machine learning algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3165.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Ontology-guided machine learning algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1657.md)
 * [Open-source model](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_517.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Applications of digital technology in COVID-19 pandemic planning and response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_127.md)
+* [Overfitted models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3431.md)
 
 ## Property: has_MitigationPrinciple
 
 Use of AI algorithms to forecast regional transmission dynamics of the virus and guide border checks and surveillance
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [machine learning algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3165.md)
+* [Applications of digital technology in COVID-19 pandemic planning and response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_127.md)
 

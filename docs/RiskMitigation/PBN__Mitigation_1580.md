@@ -2,8 +2,9 @@
 
 # __IEQ monitoring__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [indoor sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3930.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Monitoring for health indicators](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2361.md)
 * [Continuous monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_698.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Continuous IEQ monitoring system: Context and development](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_160.md)
 
 ## Property: has_MitigationPrinciple
 
 Accurate characterization of indoor environmental conditions through spatio-temporal sampling
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [indoor sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3930.md)
+* [Continuous IEQ monitoring system: Context and development](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_160.md)
 

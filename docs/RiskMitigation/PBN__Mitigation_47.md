@@ -2,9 +2,9 @@
 
 # __Education programs__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_49.md)
+* [education resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2924.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Adaptation of schools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2003.md)
 * [Education and engagement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1485.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19 and the rise of intimate partner violence](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_8.md)
+* [Lack of awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_49.md)
 
 ## Property: has_MitigationPrinciple
 
 Providing education programs can raise awareness about intimate partner violence and its consequences, encouraging individuals to seek help.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [education resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2924.md)
+* [COVID-19 and the rise of intimate partner violence](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_8.md)
 

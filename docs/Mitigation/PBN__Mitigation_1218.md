@@ -2,9 +2,9 @@
 
 # __Hot water availability__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Cleaning purposes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2967.md)
+* [hot water of at least 70°c](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3734.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Improved water storage and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_92.md)
 * [Safe drinking water](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2231.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Emergency Healthcare Facilities: Managing Design in a Post Covid-19 World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_122.md)
+* [Cleaning purposes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2967.md)
 
 ## Property: has_MitigationPrinciple
 
 Provide hot water of at least 70°C for cleaning purposes
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [hot water of at least 70°c](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3734.md)
+* [Emergency Healthcare Facilities: Managing Design in a Post Covid-19 World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_122.md)
 

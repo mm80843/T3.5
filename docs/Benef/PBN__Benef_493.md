@@ -2,10 +2,6 @@
 
 # __Accurate information__
 
-## Name of the Benefit
-
-Monitoring social media platforms can ensure that accurate information is disseminated, reducing the spread of misinformation and panic.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors investing in fact-checking platforms can benefit from improved credibility and trust, leading to increased user engagement and potential advertising revenue.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_536.md)
@@ -20,4 +16,8 @@ Monitoring social media platforms can ensure that accurate information is dissem
 
 * [Coronavirus disease 2019: The harms of exaggerated information and non‐evidence‐based measures](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_101.md)
 * [El Rol De Las Redes Sociales En La Pandemia Del Covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_138.md)
+
+## Name of the Benefit
+
+Monitoring social media platforms can ensure that accurate information is disseminated, reducing the spread of misinformation and panic.
 

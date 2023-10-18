@@ -2,9 +2,8 @@
 
 # __Seeking appropriate assistance__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Overwhelm, stress](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3159.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Policy interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_734.md)
 * [Providing effective guidance and training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1843.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Mental Health and the Covid-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_167.md)
+* [Overwhelm, stress](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3159.md)
 
 ## Property: has_MitigationPrinciple
 
 Encourage individuals to seek help and support when needed, including professional mental health intervention
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Mental Health and the Covid-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_167.md)
 

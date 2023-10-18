@@ -2,9 +2,10 @@
 
 # __Evidence-based communication__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Misleading information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3462.md)
+* [scientific research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_764.md)
+* [expertise](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4508.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Timely and high-quality evidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_560.md)
 * [Communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1063.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Effective Risk Communication for Public Health Emergency: Reflection on the COVID-19 (2019-nCoV) Outbreak in Wuhan, China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_188.md)
+* [Misleading information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3462.md)
 
 ## Property: has_MitigationPrinciple
 
 Communicating uncertainty effectively by using evidence-based approaches and transparently acknowledging uncertainty
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [scientific research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_764.md)
-* [expertise](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4508.md)
+* [Effective Risk Communication for Public Health Emergency: Reflection on the COVID-19 (2019-nCoV) Outbreak in Wuhan, China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_188.md)
 

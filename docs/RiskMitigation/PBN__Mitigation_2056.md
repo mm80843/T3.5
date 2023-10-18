@@ -2,9 +2,10 @@
 
 # __Centralize environmental quality improvement__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Poor environmental quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2153.md)
+* [sustainable site design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4209.md)
+* [regional planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4210.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Implement measures to reduce air pollution, promote clean energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3601.md)
 * [Develop non-centralized building systems, utilize air purifiers and air quality monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2600.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Learning from pandemics: Applying resilience thinking to identify priorities for planning urban settlements](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_137.md)
+* [Poor environmental quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2153.md)
 
 ## Property: has_MitigationPrinciple
 
 Improve urban design and planning to reduce environmental pollution, ensure equitable distribution of environmental resources, regulate pollutants and vectors, preserve biodiversity and natural habitats
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [sustainable site design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4209.md)
-* [regional planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4210.md)
+* [Learning from pandemics: Applying resilience thinking to identify priorities for planning urban settlements](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_137.md)
 

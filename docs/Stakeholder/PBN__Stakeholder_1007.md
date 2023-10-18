@@ -2,6 +2,10 @@
 
 # __energy efficiency organizations__
 
+## This Stakeholder is identified by the following QID
+
+* [Q192704](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q192704.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
@@ -19,15 +23,11 @@
 * [sustainability organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2674.md)
 * [sustainability organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2695.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+
 ## Risks that can be mitigated by this stakeholder
 
 * [Increased HVAC loads during pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1565.md)
 * [Increased non-HVAC loads during pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1564.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-
-## This Stakeholder is identified by the following QID
-
-* [Q192704](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q192704.md)
 

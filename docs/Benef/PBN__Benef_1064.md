@@ -2,10 +2,6 @@
 
 # __Rethinking social and economic models__
 
-## Name of the Benefit
-
-Systemic change addresses inherent vulnerabilities and promotes sustainable practices.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [This leads to more resilient and equitable conservation efforts.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1189.md)
@@ -19,4 +15,8 @@ Systemic change addresses inherent vulnerabilities and promotes sustainable prac
 ## Articles mentionning this Benefit
 
 * [Envisioning a resilient future for biodiversity conservation in the wake of the COVID‐19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_221.md)
+
+## Name of the Benefit
+
+Systemic change addresses inherent vulnerabilities and promotes sustainable practices.
 

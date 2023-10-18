@@ -2,9 +2,10 @@
 
 # __Autonomous drones/ground vehicles for sample transfer__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Sample transfer](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3454.md)
+* [ground vehicles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4493.md)
+* [drones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_864.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Automated surveillance and contactless delivery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1889.md)
 * [Real-time Data Capture](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_914.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Combating COVID-19—The role of robotics in managing public health and infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_23.md)
+* [Sample transfer](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3454.md)
 
 ## Property: has_MitigationPrinciple
 
 Safe and efficient transport of samples and delivery of medicines
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [ground vehicles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4493.md)
-* [drones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_864.md)
+* [Combating COVID-19—The role of robotics in managing public health and infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_23.md)
 

@@ -2,9 +2,9 @@
 
 # __Self-health evaluation__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_489.md)
+* [online questionnaire/app](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4198.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Testing and Diagnosis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1648.md)
 * [Health Information Exchange](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_437.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Preventing and Controlling COVID-19: A Practical-Based Review in Offshore Workplace](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_102.md)
+* [Disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_489.md)
 
 ## Property: has_MitigationPrinciple
 
 Workers assess their health before going offshore to identify potential COVID-19 cases
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [online questionnaire/app](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4198.md)
+* [Preventing and Controlling COVID-19: A Practical-Based Review in Offshore Workplace](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_102.md)
 

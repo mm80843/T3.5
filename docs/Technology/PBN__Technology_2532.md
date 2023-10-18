@@ -2,6 +2,10 @@
 
 # __Behavioral change interventions__
 
+## This Technology belongs to this TechSubgroup
+
+* [Health Behavior Change Interventions](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_164.md)
+
 ## Closest similar item
 
 * [Behavioral change interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2532.md)
@@ -15,15 +19,11 @@
 * [supportive interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1280.md)
 * [targeted interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1279.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Health Behavior Change Interventions](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_164.md)
+* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
 
 ## This Technology is identified by the following QID
 
 * [Q1671448](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1671448.md)
-
-## This Technology belongs to this TechGroup
-
-* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
 

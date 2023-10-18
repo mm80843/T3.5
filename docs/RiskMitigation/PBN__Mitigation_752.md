@@ -2,10 +2,11 @@
 
 # __Isolation__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Transmission of pathogens within a confined space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2716.md)
-* [Transmission of Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2812.md)
+* [dedicated isolation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3830.md)
+* [dedicated isolation rooms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3548.md)
+* [separate rooms or designated areas for contagion control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3426.md)
 
 ## Closest similar item
 
@@ -20,19 +21,18 @@
 * [Isolation rooms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1710.md)
 * [Home Isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1238.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [How COVID-19 Redefines the Concept of Sustainability](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_202.md)
-* [Mitigation strategies and compliance in the COVID-19 fight; how much compliance is enough?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_154.md)
-* [Physical interventions to interrupt or reduce the spread of respiratory viruses: systematic review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_22.md)
+* [Transmission of pathogens within a confined space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2716.md)
+* [Transmission of Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2812.md)
 
 ## Property: has_MitigationPrinciple
 
 Prevent the spread of contagious diseases by isolating individuals exhibiting symptoms
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [dedicated isolation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3830.md)
-* [dedicated isolation rooms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3548.md)
-* [separate rooms or designated areas for contagion control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3426.md)
+* [How COVID-19 Redefines the Concept of Sustainability](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_202.md)
+* [Mitigation strategies and compliance in the COVID-19 fight; how much compliance is enough?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_154.md)
+* [Physical interventions to interrupt or reduce the spread of respiratory viruses: systematic review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_22.md)
 

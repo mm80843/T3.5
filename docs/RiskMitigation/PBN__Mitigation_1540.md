@@ -2,9 +2,8 @@
 
 # __Rights-based approach to public health__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Discrimination and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3127.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Enhance public health education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4103.md)
 * [Implementing targeted public health interventions for vulnerable populations, promoting healthy behaviors, and improving healthcare accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4104.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Implications of COVID-19 control measures for diet and physical activity, and lessons for addressing other pandemics facing rapidly urbanising countries](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_68.md)
+* [Discrimination and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3127.md)
 
 ## Property: has_MitigationPrinciple
 
 Adopts a rights-based approach to public health interventions, ensuring the protection of individual rights and privacy, promoting equitable governance, and collaborating with community stakeholders to address social determinants of health
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Implications of COVID-19 control measures for diet and physical activity, and lessons for addressing other pandemics facing rapidly urbanising countries](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_68.md)
 

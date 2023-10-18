@@ -2,9 +2,8 @@
 
 # __Increased Urban Biodiversity__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Increase in pests and disease vectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2943.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Redesigning Urban Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1647.md)
 * [Reducing Community Environmental Impacts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_382.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Making green infrastructure healthier infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_20.md)
+* [Increase in pests and disease vectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2943.md)
 
 ## Property: has_MitigationPrinciple
 
 The dilution effect hypothesis suggests that increasing biodiversity can reduce the abundance of infected vectors and decrease the risk of disease transmission
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Making green infrastructure healthier infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_20.md)
 

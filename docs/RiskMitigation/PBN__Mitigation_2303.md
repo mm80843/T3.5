@@ -2,8 +2,9 @@
 
 # __Cleaning air__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [air cleaning systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4394.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Disinfection of indoor air](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2327.md)
 * [Enhanced cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_753.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Characterization and performance evaluation of a full-scale activated carbon-based dynamic botanical air filtration system for improving indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_71.md)
 
 ## Property: has_MitigationPrinciple
 
 Removing pollutants from indoor air through filtration or other air cleaning methods
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [air cleaning systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4394.md)
+* [Characterization and performance evaluation of a full-scale activated carbon-based dynamic botanical air filtration system for improving indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_71.md)
 

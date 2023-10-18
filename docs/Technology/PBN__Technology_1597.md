@@ -2,6 +2,15 @@
 
 # __firewalls__
 
+## Risks linked to this technology
+
+* [Data security breaches](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2101.md)
+* [Security risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2127.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Firewalls and Intrusion Detection Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_144.md)
+
 ## Closest similar item
 
 * [use firewalls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1919.md)
@@ -14,15 +23,6 @@
 * [Secure servers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2607.md)
 * [secure server networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_347.md)
 * [network infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2316.md)
-
-## Risks linked to this technology
-
-* [Data security breaches](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2101.md)
-* [Security risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2127.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Firewalls and Intrusion Detection Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_144.md)
 
 ## This Technology belongs to this TechGroup
 

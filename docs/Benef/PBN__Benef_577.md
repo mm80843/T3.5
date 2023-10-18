@@ -2,10 +2,6 @@
 
 # __Enhanced protection for healthcare workers__
 
-## Name of the Benefit
-
-Reduced risk of infection for healthcare workers
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can benefit from investing in emerging technologies by improving the safety of healthcare workers, attracting skilled professionals, and reducing healthcare costs.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_630.md)
@@ -18,4 +14,8 @@ Reduced risk of infection for healthcare workers
 ## Articles mentionning this Benefit
 
 * [Emerging Technologies to Combat the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_116.md)
+
+## Name of the Benefit
+
+Reduced risk of infection for healthcare workers
 

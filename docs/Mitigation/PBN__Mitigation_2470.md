@@ -2,9 +2,11 @@
 
 # __Proper maintenance of drainage system__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Floor drain malfunction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3468.md)
+* [regular inspection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4514.md)
+* [maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3785.md)
+* [repair](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4515.md)
 
 ## Closest similar item
 
@@ -19,17 +21,15 @@
 * [Regular Cleaning and Maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1784.md)
 * [Sustainable water management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2164.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [A review of facilities management interventions to mitigate respiratory infections in existing buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_171.md)
+* [Floor drain malfunction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3468.md)
 
 ## Property: has_MitigationPrinciple
 
 Regular inspection and maintenance of drainage systems prevent airborne virus transmission through faulty drains
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [regular inspection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4514.md)
-* [maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3785.md)
-* [repair](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4515.md)
+* [A review of facilities management interventions to mitigate respiratory infections in existing buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_171.md)
 

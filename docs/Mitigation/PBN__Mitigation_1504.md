@@ -2,9 +2,10 @@
 
 # __Improved healthcare access__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Limited healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3107.md)
+* [healthcare resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1998.md)
+* [language interpretation services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1205.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Increase availability of healthcare resources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2430.md)
 * [Accessibility to healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_309.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [What has been the impact of the COVID-19 pandemic on immigrants? An update on recent evidence](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_287.md)
+* [Limited healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3107.md)
 
 ## Property: has_MitigationPrinciple
 
 Enhancing immigrants' access to healthcare resources, including language interpretation services, can help improve their ability to seek timely medical care for COVID-19.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [healthcare resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1998.md)
-* [language interpretation services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1205.md)
+* [What has been the impact of the COVID-19 pandemic on immigrants? An update on recent evidence](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_287.md)
 

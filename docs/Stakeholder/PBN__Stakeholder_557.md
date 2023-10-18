@@ -2,6 +2,10 @@
 
 # __social media companies__
 
+## This Stakeholder is identified by the following QID
+
+* [Q3220391](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3220391.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Media](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_3.md)
@@ -19,16 +23,12 @@
 * [social medium platform](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1841.md)
 * [companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_67.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Cyberchondria](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1611.md)
-* [Misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1033.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Social Media](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_38.md)
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q3220391](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3220391.md)
+* [Cyberchondria](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1611.md)
+* [Misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1033.md)
 

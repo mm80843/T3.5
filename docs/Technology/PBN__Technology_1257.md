@@ -2,6 +2,14 @@
 
 # __lighting controls__
 
+## Risks linked to this technology
+
+* [Inadequate lighting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1884.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Internet of Things (IoT) and Smart Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_94.md)
+
 ## Closest similar item
 
 * [lighting control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_654.md)
@@ -15,19 +23,11 @@
 * [Advanced lighting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2226.md)
 * [natural lighting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_424.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Inadequate lighting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1884.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Internet of Things (IoT) and Smart Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_94.md)
+* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
 
 ## This Technology is identified by the following QID
 
 * [Q3188260](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3188260.md)
-
-## This Technology belongs to this TechGroup
-
-* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
 

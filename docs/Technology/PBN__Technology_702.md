@@ -2,6 +2,15 @@
 
 # __travel bans__
 
+## Risks linked to this technology
+
+* [Spread through Air Travel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1441.md)
+* [Importation of cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1594.md)
+* [Spread from Wuhan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1593.md)
+
+## This Technology belongs to this TechSubgroup
+
+
 ## Closest similar item
 
 * [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2485.md)
@@ -15,24 +24,15 @@
 * [travel advisories](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_26.md)
 * [travel management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2899.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Spread through Air Travel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1441.md)
-* [Importation of cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1594.md)
-* [Spread from Wuhan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1593.md)
-
-## This Technology belongs to this TechSubgroup
-
-
-## This Technology enables the following mitigations
-
-* [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_11.md)
+* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
 
 ## This Technology is identified by the following QID
 
 * [Q621608](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q621608.md)
 
-## This Technology belongs to this TechGroup
+## This Technology enables the following mitigations
 
-* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
+* [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_11.md)
 

@@ -2,9 +2,12 @@
 
 # __Leverage multiple dissemination channels__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Ineffective dissemination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2661.md)
+* [social media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_898.md)
+* [journalism](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3359.md)
+* [podcasts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3360.md)
+* [webinars](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3041.md)
 
 ## Closest similar item
 
@@ -19,18 +22,15 @@
 * [Facilitating transparent communication and preventing spread of fake news](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3898.md)
 * [Digital communication strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1718.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Amplifying the role of knowledge translation platforms in the COVID-19 pandemic response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_111.md)
+* [Ineffective dissemination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2661.md)
 
 ## Property: has_MitigationPrinciple
 
 KT platforms should use multiple channels to disseminate evidence in a timely and accessible manner to target different audiences.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [social media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_898.md)
-* [journalism](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3359.md)
-* [podcasts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3360.md)
-* [webinars](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3041.md)
+* [Amplifying the role of knowledge translation platforms in the COVID-19 pandemic response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_111.md)
 

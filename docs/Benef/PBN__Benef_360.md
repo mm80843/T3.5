@@ -2,10 +2,6 @@
 
 # __Indication of virus circulation in the human population__
 
-## Name of the Benefit
-
-Environmental surveillance of SARS-CoV-2 in wastewater can provide valuable data on the circulation of the virus in the human population, helping in epidemiological studies and informing public health interventions.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can benefit indirectly by contributing to the overall control of the pandemic, which would lead to economic stability and improved market conditions for their investments in the built environment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_387.md)
@@ -18,4 +14,8 @@ Environmental surveillance of SARS-CoV-2 in wastewater can provide valuable data
 ## Articles mentionning this Benefit
 
 * [SARS-CoV-2 in wastewater: potential health risk, but also data source](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_70.md)
+
+## Name of the Benefit
+
+Environmental surveillance of SARS-CoV-2 in wastewater can provide valuable data on the circulation of the virus in the human population, helping in epidemiological studies and informing public health interventions.
 

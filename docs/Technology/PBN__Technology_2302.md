@@ -2,6 +2,10 @@
 
 # __Health education platforms__
 
+## This Technology belongs to this TechSubgroup
+
+* [Health Education and Community Outreach](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_41.md)
+
 ## Closest similar item
 
 * [Health education platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2302.md)
@@ -15,15 +19,11 @@
 * [mobile health apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1552.md)
 * [health networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3313.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Health Education and Community Outreach](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_41.md)
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
 
 ## This Technology is identified by the following QID
 
 * [Q60894](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q60894.md)
-
-## This Technology belongs to this TechGroup
-
-* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
 

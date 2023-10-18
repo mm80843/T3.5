@@ -2,10 +2,6 @@
 
 # __Reduction of Surface Contamination__
 
-## Name of the Benefit
-
-Regular cleaning and sanitization of surfaces reduces the risk of transmission of infectious diseases through contact with contaminated surfaces.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors benefit from improved asset value and tenant satisfaction due to reduced risk of disease transmission and improved hygiene standards.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1456.md)
@@ -17,4 +13,8 @@ Regular cleaning and sanitization of surfaces reduces the risk of transmission o
 ## Articles mentionning this Benefit
 
 * [Resilient Built Environment: Critical Review of the Strategies Released by the Sustainability Rating Systems in Response to the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_274.md)
+
+## Name of the Benefit
+
+Regular cleaning and sanitization of surfaces reduces the risk of transmission of infectious diseases through contact with contaminated surfaces.
 

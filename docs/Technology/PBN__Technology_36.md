@@ -2,6 +2,16 @@
 
 # __travel restrictions__
 
+## Risks linked to this technology
+
+* [Travel and transportation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2029.md)
+* [Intercity travel frequency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1649.md)
+* [Population flow between cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1651.md)
+* [Expanding urbanization and international travel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2007.md)
+* [Travel-related transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1034.md)
+* [Reintroduction of parasites through human movement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2165.md)
+* [Migration flow](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1730.md)
+
 ## Closest similar item
 
 * [travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_36.md)
@@ -15,22 +25,12 @@
 * [accessible transportation options](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4322.md)
 * [travel advisories](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_26.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Travel and transportation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2029.md)
-* [Intercity travel frequency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1649.md)
-* [Population flow between cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1651.md)
-* [Expanding urbanization and international travel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2007.md)
-* [Travel-related transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1034.md)
-* [Reintroduction of parasites through human movement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2165.md)
-* [Migration flow](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1730.md)
+* [Q61509](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q61509.md)
 
 ## This Technology enables the following mitigations
 
 * [Travel-related Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_756.md)
 * [Restricted Travel](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1382.md)
-
-## This Technology is identified by the following QID
-
-* [Q61509](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q61509.md)
 

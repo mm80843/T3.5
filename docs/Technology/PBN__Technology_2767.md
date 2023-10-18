@@ -2,6 +2,10 @@
 
 # __Automated cleaning systems__
 
+## This Technology belongs to this TechSubgroup
+
+* [HVAC and Air Quality Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_90.md)
+
 ## Closest similar item
 
 * [Automated cleaning systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2767.md)
@@ -15,15 +19,11 @@
 * [implementation of enhanced cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_559.md)
 * [Implementation of enhanced cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2489.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [HVAC and Air Quality Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_90.md)
+* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
 
 ## This Technology is identified by the following QID
 
 * [Q2590801](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2590801.md)
-
-## This Technology belongs to this TechGroup
-
-* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
 

@@ -2,6 +2,10 @@
 
 # __Telecommuting and collaboration tools__
 
+## This Technology belongs to this TechSubgroup
+
+* [Telemedicine and Remote Access](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_109.md)
+
 ## Closest similar item
 
 * [Telecommuting and collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2870.md)
@@ -15,15 +19,11 @@
 * [collaboration tools (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3119.md)
 * [collaboration tools)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4387.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Telemedicine and Remote Access](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_109.md)
+* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_17.md)
 
 ## This Technology is identified by the following QID
 
 * [Q1135326](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1135326.md)
-
-## This Technology belongs to this TechGroup
-
-* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_17.md)
 

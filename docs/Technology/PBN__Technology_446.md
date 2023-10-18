@@ -2,6 +2,13 @@
 
 # __public awareness initiatives__
 
+## Risks linked to this technology
+
+* [Reduction in domestic public budgets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_106.md)
+
+## This Technology belongs to this TechSubgroup
+
+
 ## Closest similar item
 
 * [public awareness programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1302.md)
@@ -15,18 +22,11 @@
 * [public awareness and education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4071.md)
 * [public engagement and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_732.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Reduction in domestic public budgets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_106.md)
-
-## This Technology belongs to this TechSubgroup
-
+* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
 
 ## This Technology is identified by the following QID
 
 * [Q21086751](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q21086751.md)
-
-## This Technology belongs to this TechGroup
-
-* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
 

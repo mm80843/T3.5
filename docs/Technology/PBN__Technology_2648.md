@@ -2,6 +2,10 @@
 
 # __Digital data collection systems__
 
+## This Technology belongs to this TechSubgroup
+
+* [Data Collection and Reporting Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_175.md)
+
 ## Closest similar item
 
 * [Digital data collection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2648.md)
@@ -15,15 +19,11 @@
 * [Data collection and analysis technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2529.md)
 * [data collection tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1003.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Data Collection and Reporting Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_175.md)
+* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
 
 ## This Technology is identified by the following QID
 
 * [Q28454366](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q28454366.md)
-
-## This Technology belongs to this TechGroup
-
-* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
 

@@ -2,9 +2,9 @@
 
 # __Scenario planning__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Uncertainty](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2417.md)
+* [scenario planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3814.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Planning and permissions frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2007.md)
 * [Spatial planning considerations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_421.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Mapping research in logistics and supply chain management during COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_4.md)
+* [Uncertainty](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2417.md)
 
 ## Property: has_MitigationPrinciple
 
 Using scenario planning to anticipate and respond to multiple potential disruptions in the supply chain
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [scenario planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3814.md)
+* [Mapping research in logistics and supply chain management during COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_4.md)
 

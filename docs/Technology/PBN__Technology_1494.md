@@ -2,6 +2,10 @@
 
 # __policy frameworks__
 
+## Risks linked to this technology
+
+* [Economic instability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2026.md)
+
 ## Closest similar item
 
 * [policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_482.md)
@@ -15,15 +19,11 @@
 * [policy interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3423.md)
 * [policy changes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_445.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Economic instability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2026.md)
+* [Q47011897](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q47011897.md)
 
 ## This Technology enables the following mitigations
 
 * [Green New Deals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1994.md)
-
-## This Technology is identified by the following QID
-
-* [Q47011897](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q47011897.md)
 

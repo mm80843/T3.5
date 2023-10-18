@@ -2,9 +2,10 @@
 
 # __Implementing remote working__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3215.md)
+* [videoconferencing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4008.md)
+* [it infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4009.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Implement remote work, flexible schedules, prioritize worker safety](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2788.md)
 * [Providing appropriate resources and support for remote work, implementing flexible working hours, and utilizing technology for virtual collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2789.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Identifying Actions to Control and Mitigate the Effects of the COVID-19 Pandemic on Construction Organizations: Preliminary Findings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_220.md)
+* [Gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3215.md)
 
 ## Property: has_MitigationPrinciple
 
 Allowing employees to work from home and limit physical interactions to prevent the spread of the virus
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [videoconferencing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4008.md)
-* [it infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4009.md)
+* [Identifying Actions to Control and Mitigate the Effects of the COVID-19 Pandemic on Construction Organizations: Preliminary Findings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_220.md)
 

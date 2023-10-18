@@ -2,9 +2,8 @@
 
 # __Personal responsibility__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Non-compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2666.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Engaging decision-makers in setting priorities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_601.md)
 * [Privacy considerations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1661.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Designing for COVID-2x: Reflecting on Future-Proofing Human Habitation for the Inevitable Next Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_149.md)
+* [Non-compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2666.md)
 
 ## Property: has_MitigationPrinciple
 
 Encourage individuals to adhere to public health requirements and guidelines for the common good
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Designing for COVID-2x: Reflecting on Future-Proofing Human Habitation for the Inevitable Next Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_149.md)
 

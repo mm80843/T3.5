@@ -2,9 +2,8 @@
 
 # __Restriction of waste management__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Increased waste, reduced waste recycling](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3460.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Urban Solid Waste Management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_500.md)
 * [Waste management in demolition](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1481.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Indirect effects of COVID-19 on the environment](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_238.md)
+* [Increased waste, reduced waste recycling](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3460.md)
 
 ## Property: has_MitigationPrinciple
 
 Impedes the proper sorting and disposal of waste in affected countries
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Indirect effects of COVID-19 on the environment](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_238.md)
 

@@ -2,23 +2,27 @@
 
 # __Desertification of urban areas__
 
+## Property: has_RiskHealth
+
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_4.md)
+* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_3.md)
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Description of the risk
+
+Closure of businesses and economic instability leading to vacant commercial spaces and urban decay.
+
 ## Property: has_RiskType
 
 * [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 * [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_3.md)
 
-## People affected by this risk
+## Articles mentionning the risk
 
-* [local communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_85.md)
-* [business owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_728.md)
-
-## Name of the risk
-
-Decline in economic activity, loss of neighborhood vibrancy, decrease in property values.
-
-## Property: has_RiskISO_Purpose
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+* [Proximity and post-COVID-19 urban development: Reflections from Milan, Italy](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_216.md)
 
 ## Closest similar item
 
@@ -33,39 +37,35 @@ Decline in economic activity, loss of neighborhood vibrancy, decrease in propert
 * [Overcrowding in Urban Areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1443.md)
 * [Urban density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2028.md)
 
-## Description of the risk
+## People affected by this risk
 
-Closure of businesses and economic instability leading to vacant commercial spaces and urban decay.
+* [local communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_85.md)
+* [business owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_728.md)
+
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Stakeholders who can mitigate this risk
+
+* [local governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_568.md)
+* [community organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_150.md)
+
+## Name of the risk
+
+Decline in economic activity, loss of neighborhood vibrancy, decrease in property values.
+
+## Mitigations of this risk
+
+* [Implement urban regeneration initiatives, incentivize the use of vacant spaces, support local businesses and entrepreneurship.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2908.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
 
 ## Technologies linked to the risk
 
 * [placemaking initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1802.md)
 * [support for entrepreneurship](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1804.md)
 * [temporary use agreements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1803.md)
-
-## Property: has_RiskHealth
-
-* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_4.md)
-* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_3.md)
-
-## Mitigations of this risk
-
-* [Implement urban regeneration initiatives, incentivize the use of vacant spaces, support local businesses and entrepreneurship.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2908.md)
-
-## Articles mentionning the risk
-
-* [Proximity and post-COVID-19 urban development: Reflections from Milan, Italy](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_216.md)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Stakeholders who can mitigate this risk
-
-* [local governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_568.md)
-* [community organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_150.md)
 

@@ -2,10 +2,6 @@
 
 # __Bolstering European early warning for disease events__
 
-## Name of the Benefit
-
-Strengthening surveillance and monitoring can improve the ability to forecast and map disease incidence in relation to environmental changes.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Enhanced ability to anticipate and respond to disease outbreaks, reducing the impact on public health and economic costs.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1138.md)
@@ -18,4 +14,8 @@ Strengthening surveillance and monitoring can improve the ability to forecast an
 ## Articles mentionning this Benefit
 
 * [Prototype Early Warning Systems for Vector-Borne Diseases in Europe](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_212.md)
+
+## Name of the Benefit
+
+Strengthening surveillance and monitoring can improve the ability to forecast and map disease incidence in relation to environmental changes.
 

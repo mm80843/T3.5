@@ -2,7 +2,7 @@
 
 # __Strengthen Social Safety Nets__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
 
 ## Closest similar item
@@ -18,14 +18,14 @@
 * [Making social spaces safe and viable](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_409.md)
 * [Strengthening ongoing prevention efforts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2446.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Mental health economics: A prospective study on psychological flourishing and associations with healthcare costs and sickness benefit transfers in Denmark](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_189.md)
 
 ## Property: has_MitigationPrinciple
 
 Improve social safety nets and welfare systems to provide support for individuals experiencing financial or social difficulties.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Mental health economics: A prospective study on psychological flourishing and associations with healthcare costs and sickness benefit transfers in Denmark](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_189.md)
 

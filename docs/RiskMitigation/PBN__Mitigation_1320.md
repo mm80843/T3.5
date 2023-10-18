@@ -2,9 +2,10 @@
 
 # __Contact Tracing Applications__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Privacy and Security of Data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3018.md)
+* [mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3470.md)
+* [location and bluetooth data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3791.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_267.md)
 * [Testing and Contact Tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1736.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Pandemic Analytics: How Countries are Leveraging Big Data Analytics and Artificial Intelligence to Fight COVID-19?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_106.md)
+* [Privacy and Security of Data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3018.md)
 
 ## Property: has_MitigationPrinciple
 
 Utilizes location and proximity data to identify potential exposure to the virus and enable early detection and isolation of infected individuals.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3470.md)
-* [location and bluetooth data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3791.md)
+* [Pandemic Analytics: How Countries are Leveraging Big Data Analytics and Artificial Intelligence to Fight COVID-19?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_106.md)
 

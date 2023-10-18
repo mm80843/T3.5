@@ -2,6 +2,13 @@
 
 # __separate collection__
 
+## Risks linked to this technology
+
+* [WM1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2212.md)
+
+## This Technology belongs to this TechSubgroup
+
+
 ## Closest similar item
 
 * [data collection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3515.md)
@@ -15,22 +22,15 @@
 * [efficient data collection and processing methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_177.md)
 * [data collection and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3428.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [WM1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2212.md)
-
-## This Technology belongs to this TechSubgroup
-
-
-## This Technology enables the following mitigations
-
-* [Proper segregation of medical waste](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2135.md)
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 
 ## This Technology is identified by the following QID
 
 * [Q2668072](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2668072.md)
 
-## This Technology belongs to this TechGroup
+## This Technology enables the following mitigations
 
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
+* [Proper segregation of medical waste](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2135.md)
 

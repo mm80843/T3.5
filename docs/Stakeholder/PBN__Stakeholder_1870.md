@@ -2,6 +2,10 @@
 
 # __social protection agency__
 
+## This Stakeholder is identified by the following QID
+
+* [Q7551332](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7551332.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
@@ -22,8 +26,4 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Social Services](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_40.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q7551332](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7551332.md)
 

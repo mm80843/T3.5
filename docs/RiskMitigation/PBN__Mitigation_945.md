@@ -2,9 +2,8 @@
 
 # __Adequate Planning of Infrastructural Facilities__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Increased risk of virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2823.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Urban Planning and Design Policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_757.md)
 * [Detailed and better task planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_506.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Strategies to Mitigate COVID-19 Pandemic Impacts on Health and Safety of Workers in Construction Projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_268.md)
+* [Increased risk of virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2823.md)
 
 ## Property: has_MitigationPrinciple
 
 Planning infrastructure facilities to prioritize the health and safety of construction workers
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Strategies to Mitigate COVID-19 Pandemic Impacts on Health and Safety of Workers in Construction Projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_268.md)
 

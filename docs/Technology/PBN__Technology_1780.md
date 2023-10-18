@@ -2,6 +2,14 @@
 
 # __flexible layout__
 
+## Risks linked to this technology
+
+* [PC2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2218.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Housing and Building Design](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_157.md)
+
 ## Closest similar item
 
 * [layout design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4298.md)
@@ -15,19 +23,11 @@
 * [urban layout planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3212.md)
 * [open plan layout redesign](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3943.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [PC2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2218.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Housing and Building Design](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_157.md)
+* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
 
 ## This Technology is identified by the following QID
 
 * [Q356732](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q356732.md)
-
-## This Technology belongs to this TechGroup
-
-* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
 

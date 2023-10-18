@@ -2,6 +2,9 @@
 
 # __Temperature adjustments in data analysis__
 
+## This Technology belongs to this TechSubgroup
+
+
 ## Closest similar item
 
 * [Temperature adjustments in data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2104.md)
@@ -15,14 +18,11 @@
 * [temperature monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4112.md)
 * [temperature screening technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_744.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
+* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
 
 ## This Technology is identified by the following QID
 
 * [Q1862336](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1862336.md)
-
-## This Technology belongs to this TechGroup
-
-* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
 

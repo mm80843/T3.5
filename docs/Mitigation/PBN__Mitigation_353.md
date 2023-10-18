@@ -2,9 +2,11 @@
 
 # __Safe Pedestrian Navigation Service__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Transmission, Exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2537.md)
+* [rule-based system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3175.md)
+* [knowledge-base system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3176.md)
+* [graph-based structure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3177.md)
 
 ## Closest similar item
 
@@ -19,17 +21,15 @@
 * [Widening sidewalks and re-designing pedestrian crossings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_786.md)
 * [Promoting worker safety](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1561.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID19-Routes: A Safe Pedestrian Navigation Service](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_201.md)
+* [Transmission, Exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2537.md)
 
 ## Property: has_MitigationPrinciple
 
 Providing routes that avoid high-risk areas based on the danger model and spatial information of the city
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [rule-based system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3175.md)
-* [knowledge-base system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3176.md)
-* [graph-based structure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3177.md)
+* [COVID19-Routes: A Safe Pedestrian Navigation Service](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_201.md)
 

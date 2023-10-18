@@ -2,9 +2,8 @@
 
 # __Structuring activities and maintaining routines__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Distress, psychiatric illness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3154.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Temporary regulations for certain activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_415.md)
 * [Comparative research on exercise behaviors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_80.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Mental Health and the Covid-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_167.md)
+* [Distress, psychiatric illness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3154.md)
 
 ## Property: has_MitigationPrinciple
 
 Promote stability and provide a sense of normalcy by establishing and maintaining daily routines
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Mental Health and the Covid-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_167.md)
 

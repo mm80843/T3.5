@@ -2,9 +2,9 @@
 
 # __Opening windows__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Poor ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1426.md)
+* [access to windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3067.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Design apartments with windows that offer views of nature and the sky.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3196.md)
 * [Increase the amount of outdoor air in ventilation systems, open windows for natural ventilation, and ensure proper ventilation design and operation.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3526.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Environmental factors involved in SARS-CoV-2 transmission: effect and role of indoor environmental quality in the strategy for COVID-19 infection control](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_249.md)
+* [Poor ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1426.md)
 
 ## Property: has_MitigationPrinciple
 
 Opening windows allows for natural ventilation, increasing the air exchange rate and reducing the risk of stagnant air and airborne transmission.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [access to windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3067.md)
+* [Environmental factors involved in SARS-CoV-2 transmission: effect and role of indoor environmental quality in the strategy for COVID-19 infection control](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_249.md)
 

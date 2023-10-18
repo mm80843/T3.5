@@ -2,10 +2,6 @@
 
 # __Reduction in COVID-19 infections__
 
-## Name of the Benefit
-
-High association of COVID-19 infections with air pollution in cities indicates that improving air quality can lead to a reduction in the number of COVID-19 infections.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Decreased risk of workplace transmission, protection of employees’ health and well-being](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1367.md)
@@ -21,4 +17,8 @@ High association of COVID-19 infections with air pollution in cities indicates t
 
 * [An environmental and health perspective for COVID-19 outbreak: Meteorology and air quality influence, sewage epidemiology indicator, hospitals disinfection, drug therapies and recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_270.md)
 * [COVID-19 Prevention and Control Measures in Workplace Settings: A Rapid Review and Meta-Analysis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_255.md)
+
+## Name of the Benefit
+
+High association of COVID-19 infections with air pollution in cities indicates that improving air quality can lead to a reduction in the number of COVID-19 infections.
 

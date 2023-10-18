@@ -2,6 +2,10 @@
 
 # __community members__
 
+## This Stakeholder is identified by the following QID
+
+* [Q177634](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q177634.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
@@ -37,8 +41,4 @@
 * [Improved mental health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_442.md)
 * [Reduction in community transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_749.md)
 * [Reduction in transmission in communal spaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_751.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q177634](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q177634.md)
 

@@ -2,9 +2,10 @@
 
 # __Healthy Building Design__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Overall health risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2458.md)
+* [ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
+* [proper layout](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2987.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Hygienic building materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2176.md)
 * [Flexible building systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2167.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Adaptive Design of the Built Environment to Mitigate the Transmission Risk of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_151.md)
+* [Overall health risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2458.md)
 
 ## Property: has_MitigationPrinciple
 
 Designing buildings with proper layout, ventilation, and hygiene systems promotes the well-being of occupants.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
-* [proper layout](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2987.md)
+* [Adaptive Design of the Built Environment to Mitigate the Transmission Risk of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_151.md)
 

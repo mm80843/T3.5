@@ -2,8 +2,9 @@
 
 # __Multilevel logistic regression__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [statistical analysis software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3333.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Predictive Analytics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1931.md)
 * [Online questionnaire survey](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2205.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Multilevel Analysis of Personal, Non-Medical COVID-19-Related Impact Worldwide](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_39.md)
 
 ## Property: has_MitigationPrinciple
 
 Applying multilevel logistic regression models can help identify associations and variations in HIV prevalence among different demographic groups and geographic regions
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [statistical analysis software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3333.md)
+* [Multilevel Analysis of Personal, Non-Medical COVID-19-Related Impact Worldwide](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_39.md)
 

@@ -2,9 +2,9 @@
 
 # __Virus Quantification__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of understanding and data on virus spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2825.md)
+* [transportation and epidemiological models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3557.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Virus-inactivating Solutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_823.md)
 * [Infection tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2245.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Strategies to Mitigate COVID-19 Pandemic Impacts on Health and Safety of Workers in Construction Projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_268.md)
+* [Lack of understanding and data on virus spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2825.md)
 
 ## Property: has_MitigationPrinciple
 
 Quantifying the spread of COVID-19 among construction workers and analyzing its health consequences
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [transportation and epidemiological models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3557.md)
+* [Strategies to Mitigate COVID-19 Pandemic Impacts on Health and Safety of Workers in Construction Projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_268.md)
 

@@ -2,6 +2,9 @@
 
 # __Simplified user interfaces__
 
+## This Technology belongs to this TechSubgroup
+
+
 ## Closest similar item
 
 * [Simplified user interfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2836.md)
@@ -15,14 +18,11 @@
 * [flexible layout](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1780.md)
 * [flexible design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3262.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
+* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
 
 ## This Technology is identified by the following QID
 
 * [Q47146](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q47146.md)
-
-## This Technology belongs to this TechGroup
-
-* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
 

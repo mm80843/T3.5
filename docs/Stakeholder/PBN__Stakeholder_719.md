@@ -20,6 +20,11 @@
 * [Manufacturing companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2029.md)
 * [internet companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2642.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Technology and Innovation](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_61.md)
+* [AI and Technology](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_54.md)
+
 ## Risks that can be mitigated by this stakeholder
 
 * [Privacy and data security concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2065.md)
@@ -36,9 +41,4 @@
 * [Lack of access to mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1993.md)
 * [Privacy and data security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1370.md)
 * [Misdiagnosis and equipment malfunction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2345.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Technology and Innovation](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_61.md)
-* [AI and Technology](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_54.md)
 

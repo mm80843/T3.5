@@ -2,7 +2,7 @@
 
 # __Proper Space Arrangement__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
 
 ## Closest similar item
@@ -18,14 +18,14 @@
 * [Adequate green space allocation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2432.md)
 * [Design spaces with lower occupant density](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_976.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The effect of a redesigned floor plan, occupant density and the quality of indoor climate on the cost of space, productivity and sick leave in an office building–A case study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_223.md)
 
 ## Property: has_MitigationPrinciple
 
 Proper space arrangement, such as individual offices or open-plan offices, should be based on practical needs and the nature of the work
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [The effect of a redesigned floor plan, occupant density and the quality of indoor climate on the cost of space, productivity and sick leave in an office building–A case study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_223.md)
 

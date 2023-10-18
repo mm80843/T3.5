@@ -2,10 +2,6 @@
 
 # __Mitigating financial risks__
 
-## Name of the Benefit
-
-Implementing risk management strategies can help mitigate financial risks associated with the pandemic, ensuring financial stability.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors would benefit from reduced financial risks, safeguarding their investment and ensuring a positive return.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_911.md)
@@ -19,4 +15,8 @@ Implementing risk management strategies can help mitigate financial risks associ
 ## Articles mentionning this Benefit
 
 * [The Impact of Pandemic Crisis on the Survival of Construction Industry: A Case of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_168.md)
+
+## Name of the Benefit
+
+Implementing risk management strategies can help mitigate financial risks associated with the pandemic, ensuring financial stability.
 

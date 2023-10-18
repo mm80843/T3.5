@@ -2,9 +2,8 @@
 
 # __Banning of large gatherings__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Transmission in gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3121.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Avoidance of large gatherings, and gatherings in smaller public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1811.md)
 * [Public events ban](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_674.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Implications of COVID-19 control measures for diet and physical activity, and lessons for addressing other pandemics facing rapidly urbanising countries](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_68.md)
+* [Transmission in gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3121.md)
 
 ## Property: has_MitigationPrinciple
 
 Restricts the organization of large events or gatherings where individuals can easily come into close contact, reducing the risk of COVID-19 transmission
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Implications of COVID-19 control measures for diet and physical activity, and lessons for addressing other pandemics facing rapidly urbanising countries](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_68.md)
 

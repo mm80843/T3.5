@@ -2,6 +2,13 @@
 
 # __media organizations__
 
+## Risks linked to this technology
+
+* [Lack of awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_49.md)
+
+## This Technology belongs to this TechSubgroup
+
+
 ## Closest similar item
 
 * [media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3640.md)
@@ -14,13 +21,6 @@
 * [digital media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3581.md)
 * [community organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1073.md)
 * [journalism](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3359.md)
-
-## Risks linked to this technology
-
-* [Lack of awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_49.md)
-
-## This Technology belongs to this TechSubgroup
-
 
 ## This Technology belongs to this TechGroup
 

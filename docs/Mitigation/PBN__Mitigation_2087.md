@@ -2,8 +2,9 @@
 
 # __Human movement analysis__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [mobile phone cdrs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4224.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Autonomous Human Behaviour](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1107.md)
 * [Physical exercise monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_68.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Integrating rapid risk mapping and mobile phone call record data for strategic malaria elimination planning](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_76.md)
 
 ## Property: has_MitigationPrinciple
 
 Understand connectivity between high-risk areas, design appropriate elimination strategies, avoid resurgence in post-elimination settings
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [mobile phone cdrs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4224.md)
+* [Integrating rapid risk mapping and mobile phone call record data for strategic malaria elimination planning](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_76.md)
 

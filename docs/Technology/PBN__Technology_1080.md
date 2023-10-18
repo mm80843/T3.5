@@ -2,6 +2,10 @@
 
 # __mental health services__
 
+## Risks linked to this technology
+
+* [Loss of family or friends and economic well-being due to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1717.md)
+
 ## Closest similar item
 
 * [Mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2210.md)
@@ -15,15 +19,11 @@
 * [Online mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2183.md)
 * [online mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1242.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Loss of family or friends and economic well-being due to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1717.md)
+* [Q67076049](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q67076049.md)
 
 ## This Technology enables the following mitigations
 
 * [Well-being support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_741.md)
-
-## This Technology is identified by the following QID
-
-* [Q67076049](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q67076049.md)
 

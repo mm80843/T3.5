@@ -2,6 +2,12 @@
 
 # __Regulatory bodies__
 
+## This Technology belongs to this TechSubgroup
+
+* [Local Government and Health Organizations](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_98.md)
+* [Regulatory Bodies and Measures](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_97.md)
+* [Regulation, Governance, and Policies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_66.md)
+
 ## Closest similar item
 
 * [Regulatory bodies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2241.md)
@@ -14,12 +20,6 @@
 * [government regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_919.md)
 * [policy and regulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3597.md)
 * [compliance with regulatory changes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3533.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Local Government and Health Organizations](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_98.md)
-* [Regulatory Bodies and Measures](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_97.md)
-* [Regulation, Governance, and Policies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_66.md)
 
 ## This Technology belongs to this TechGroup
 

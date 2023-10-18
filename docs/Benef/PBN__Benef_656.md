@@ -2,10 +2,6 @@
 
 # __Ambient pollutant reduction__
 
-## Name of the Benefit
-
-Green spaces, especially forest, can remove air pollutants, reducing the risk of respiratory infections and improving overall health
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors in green spaces would benefit from increased demand for properties near green spaces, leading to higher property values.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_702.md)
@@ -17,4 +13,8 @@ Green spaces, especially forest, can remove air pollutants, reducing the risk of
 ## Articles mentionning this Benefit
 
 * [Green spaces, especially forest, linked to lower SARS-CoV-2 infection rates: A one-year nationwide study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_130.md)
+
+## Name of the Benefit
+
+Green spaces, especially forest, can remove air pollutants, reducing the risk of respiratory infections and improving overall health
 

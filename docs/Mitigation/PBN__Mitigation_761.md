@@ -2,9 +2,9 @@
 
 # __Online dashboard for WBE data communication__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Limited data accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2722.md)
+* [data visualization platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3435.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Data Visualization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_916.md)
 * [Data visualization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2405.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Computational analysis of SARS-CoV-2/COVID-19 surveillance by wastewater-based epidemiology locally and globally: Feasibility, economy, opportunities and challenges](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_252.md)
+* [Limited data accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2722.md)
 
 ## Property: has_MitigationPrinciple
 
 Real-time release of wastewater data through online dashboards to inform the public, emergency response teams, and policy makers about recent virus detections.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [data visualization platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3435.md)
+* [Computational analysis of SARS-CoV-2/COVID-19 surveillance by wastewater-based epidemiology locally and globally: Feasibility, economy, opportunities and challenges](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_252.md)
 

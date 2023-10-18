@@ -2,6 +2,9 @@
 
 # __High-efficiency air filters__
 
+## This Technology belongs to this TechSubgroup
+
+
 ## Closest similar item
 
 * [High-efficiency air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2708.md)
@@ -15,14 +18,11 @@
 * [Use of advanced HVAC systems with high-efficiency filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2891.md)
 * [high-efficiency air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1350.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
+* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_13.md)
 
 ## This Technology is identified by the following QID
 
 * [Q948441](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q948441.md)
-
-## This Technology belongs to this TechGroup
-
-* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_13.md)
 

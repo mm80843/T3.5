@@ -2,8 +2,10 @@
 
 # __IoT-enabled hospital__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_96.md)
+* [smart infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3709.md)
 
 ## Closest similar item
 
@@ -18,16 +20,14 @@
 * [Telehealth Services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_361.md)
 * [Telemedicine and remote healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_288.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [A Comprehensive Review of Applications of Internet of Things for Covid-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_35.md)
 
 ## Property: has_MitigationPrinciple
 
 Integrates IoT technology into hospital facilities, allowing for automated monitoring, control, and management of various systems to optimize safety and efficiency.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_96.md)
-* [smart infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3709.md)
+* [A Comprehensive Review of Applications of Internet of Things for Covid-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_35.md)
 

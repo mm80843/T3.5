@@ -2,10 +2,6 @@
 
 # __Job creation and economic recovery__
 
-## Name of the Benefit
-
-Increased funding for clean energy projects can create jobs and stimulate economic recovery, contributing to sustainable development
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can benefit from investment in the clean energy sector, leading to job creation and potential financial returns.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_669.md)
@@ -18,4 +14,8 @@ Increased funding for clean energy projects can create jobs and stimulate econom
 ## Articles mentionning this Benefit
 
 * [Contextualizing the Covid-19 pandemic for a carbon-constrained world: Insights for sustainability transitions, energy justice, and research methodology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_123.md)
+
+## Name of the Benefit
+
+Increased funding for clean energy projects can create jobs and stimulate economic recovery, contributing to sustainable development
 

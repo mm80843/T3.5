@@ -2,10 +2,6 @@
 
 # __Improved parameter identification__
 
-## Name of the Benefit
-
-Solves parameter identification issue using historical data
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [More accurate and reliable occupancy estimation leads to better building design and operation decisions](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_133.md)
@@ -17,4 +13,8 @@ Solves parameter identification issue using historical data
 ## Articles mentionning this Benefit
 
 * [Building occupancy estimation with people flow modeling in AnyLogic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_29.md)
+
+## Name of the Benefit
+
+Solves parameter identification issue using historical data
 

@@ -2,10 +2,6 @@
 
 # __Effective treatment__
 
-## Name of the Benefit
-
-Improved outcomes and reduced mortality
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Asset value increase from improved public health and safety](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_647.md)
@@ -17,4 +13,8 @@ Improved outcomes and reduced mortality
 ## Articles mentionning this Benefit
 
 * [Current knowledge of COVID-19: Advances, challenges and future perspectives](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_118.md)
+
+## Name of the Benefit
+
+Improved outcomes and reduced mortality
 

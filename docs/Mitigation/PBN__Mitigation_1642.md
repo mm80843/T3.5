@@ -2,9 +2,9 @@
 
 # __Adequate provision of culturally appropriate food__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Insufficient and inappropriate food provision](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3188.md)
+* [food supply technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3973.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Resilient agricultural practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1071.md)
 * [Access to adequate sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_25.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Public housing and COVID-19: contestation, challenge and change](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_107.md)
+* [Insufficient and inappropriate food provision](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3188.md)
 
 ## Property: has_MitigationPrinciple
 
 Providing food that meets the cultural and dietary needs of residents to ensure adequate nutrition and support
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [food supply technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3973.md)
+* [Public housing and COVID-19: contestation, challenge and change](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_107.md)
 

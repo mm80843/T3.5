@@ -2,6 +2,10 @@
 
 # __vaccines__
 
+## Risks linked to this technology
+
+* [Respiratory viruses strain health services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1538.md)
+
 ## Closest similar item
 
 * [Vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2270.md)
@@ -15,9 +19,9 @@
 * [vaccine distribution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1605.md)
 * [vaccine development and manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1885.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Respiratory viruses strain health services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1538.md)
+* [Q3242415](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3242415.md)
 
 ## This Technology enables the following mitigations
 
@@ -25,8 +29,4 @@
 * [Vaccination programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1013.md)
 * [Vaccination Campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1229.md)
 * [Vaccination campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_599.md)
-
-## This Technology is identified by the following QID
-
-* [Q3242415](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3242415.md)
 

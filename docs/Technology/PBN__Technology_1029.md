@@ -2,6 +2,13 @@
 
 # __crowd prediction algorithms__
 
+## Risks linked to this technology
+
+* [Insufficient crowd management measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1681.md)
+
+## This Technology belongs to this TechSubgroup
+
+
 ## Closest similar item
 
 * [crowd monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_490.md)
@@ -15,18 +22,11 @@
 * [crowd density monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_335.md)
 * [crowd-monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1836.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Insufficient crowd management measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1681.md)
-
-## This Technology belongs to this TechSubgroup
-
+* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
 
 ## This Technology is identified by the following QID
 
 * [Q1093434](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1093434.md)
-
-## This Technology belongs to this TechGroup
-
-* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
 

@@ -2,6 +2,10 @@
 
 # __temperature__
 
+## Risks linked to this technology
+
+* [Relationship between AH, RH, and temperature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1706.md)
+
 ## Closest similar item
 
 * [temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4050.md)
@@ -15,15 +19,11 @@
 * [temperature monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4112.md)
 * [temperature monitoring devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1300.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Relationship between AH, RH, and temperature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1706.md)
+* [Q11466](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11466.md)
 
 ## This Technology enables the following mitigations
 
 * [Monitor and control indoor air pollution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2130.md)
-
-## This Technology is identified by the following QID
-
-* [Q11466](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11466.md)
 

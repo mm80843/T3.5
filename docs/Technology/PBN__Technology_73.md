@@ -2,19 +2,6 @@
 
 # __telemedicine__
 
-## Closest similar item
-
-* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2101.md)
-* [telemedicine technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_954.md)
-* [Telemedicine technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2276.md)
-* [telemedicine platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_623.md)
-* [Telemedicine platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2298.md)
-* [Telehealth services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2277.md)
-* [telehealth services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_19.md)
-* [telehealth](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1449.md)
-* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2273.md)
-* [telehealth system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2928.md)
-
 ## Risks linked to this technology
 
 * [Negative impact on mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2305.md)
@@ -43,6 +30,28 @@
 * [Telemedicine and Telehealth Services](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_28.md)
 * [Telemedicine and Remote Access](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_109.md)
 
+## Closest similar item
+
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2101.md)
+* [telemedicine technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_954.md)
+* [Telemedicine technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2276.md)
+* [telemedicine platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_623.md)
+* [Telemedicine platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2298.md)
+* [Telehealth services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2277.md)
+* [telehealth services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_19.md)
+* [telehealth](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1449.md)
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2273.md)
+* [telehealth system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2928.md)
+
+## This Technology belongs to this TechGroup
+
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
+* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_17.md)
+
+## This Technology is identified by the following QID
+
+* [Q46994](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q46994.md)
+
 ## This Technology enables the following mitigations
 
 * [Virtual clinics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_151.md)
@@ -53,13 +62,4 @@
 * [Telemedicine and remote healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_288.md)
 * [Psychosocial support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1602.md)
 * [Psychoeducation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1601.md)
-
-## This Technology is identified by the following QID
-
-* [Q46994](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q46994.md)
-
-## This Technology belongs to this TechGroup
-
-* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
-* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_17.md)
 

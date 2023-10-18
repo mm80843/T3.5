@@ -2,10 +2,6 @@
 
 # __Peace, justice, and strong institutions__
 
-## Name of the Benefit
-
-Strengthening partnerships and collaboration promotes peace, justice, and strong institutions, fostering stability and social progress.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors benefit from a more stable and predictable regulatory environment, reducing investment risks and uncertainties.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_311.md)
@@ -18,4 +14,8 @@ Strengthening partnerships and collaboration promotes peace, justice, and strong
 ## Articles mentionning this Benefit
 
 * [COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_58.md)
+
+## Name of the Benefit
+
+Strengthening partnerships and collaboration promotes peace, justice, and strong institutions, fostering stability and social progress.
 

@@ -2,9 +2,10 @@
 
 # __Upgrading site facilities__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Inadequate hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3214.md)
+* [ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
+* [touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1008.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Redesigning Urban Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1647.md)
 * [Adaptation of healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2005.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Identifying Actions to Control and Mitigate the Effects of the COVID-19 Pandemic on Construction Organizations: Preliminary Findings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_220.md)
+* [Inadequate hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3214.md)
 
 ## Property: has_MitigationPrinciple
 
 Improving hygiene and reducing contact points within common areas to minimize the risk of virus transmission
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
-* [touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1008.md)
+* [Identifying Actions to Control and Mitigate the Effects of the COVID-19 Pandemic on Construction Organizations: Preliminary Findings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_220.md)
 

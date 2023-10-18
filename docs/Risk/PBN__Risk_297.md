@@ -2,23 +2,25 @@
 
 # __Improper implementation__
 
+## Property: has_RiskHealth
+
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
+
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Description of the risk
+
+Incorrect execution of project tasks and activities leading to poor quality and delays.
+
 ## Property: has_RiskType
 
 * [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_11.md)
 
-## People affected by this risk
+## Articles mentionning the risk
 
-* [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
-* [project managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_906.md)
-* [supervisors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_721.md)
-
-## Name of the risk
-
-Quality issues, rework, project delays, increased costs.
-
-## Property: has_RiskISO_Purpose
-
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+* [Overcoming the Impact of COVID-19 Using Integrated Project Delivery Model](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_72.md)
 
 ## Closest similar item
 
@@ -33,37 +35,35 @@ Quality issues, rework, project delays, increased costs.
 * [Insufficient evidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2790.md)
 * [Failure to detect non-compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1947.md)
 
-## Description of the risk
+## People affected by this risk
 
-Incorrect execution of project tasks and activities leading to poor quality and delays.
+* [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
+* [project managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_906.md)
+* [supervisors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_721.md)
 
-## Technologies linked to the risk
+## Property: has_RiskISO_Impact
 
-* [project management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_130.md)
-* [quality control tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_692.md)
 
-## Property: has_RiskHealth
+## Stakeholders who can mitigate this risk
 
-* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
+* [project managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_906.md)
+* [supervisors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_721.md)
+
+## Name of the risk
+
+Quality issues, rework, project delays, increased costs.
 
 ## Mitigations of this risk
 
 * [Lean construction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_368.md)
 * [Improve project management and supervision, provide proper training to workforce, implement quality control measures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1944.md)
 
-## Articles mentionning the risk
+## Property: has_RiskISO_Purpose
 
-* [Overcoming the Impact of COVID-19 Using Integrated Project Delivery Model](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_72.md)
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
 
-## Property: has_RiskISO_Impact
+## Technologies linked to the risk
 
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Stakeholders who can mitigate this risk
-
-* [project managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_906.md)
-* [supervisors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_721.md)
+* [project management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_130.md)
+* [quality control tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_692.md)
 

@@ -2,6 +2,9 @@
 
 # __Proper sealing of pipes and sinks__
 
+## This Technology belongs to this TechSubgroup
+
+
 ## Closest similar item
 
 * [Proper sealing of pipes and sinks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2599.md)
@@ -15,14 +18,11 @@
 * [Use of drainage design and maintenance techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2325.md)
 * [light pipes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1168.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
+* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
 
 ## This Technology is identified by the following QID
 
 * [Q1502014](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1502014.md)
-
-## This Technology belongs to this TechGroup
-
-* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
 

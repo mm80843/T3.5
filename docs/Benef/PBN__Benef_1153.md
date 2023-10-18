@@ -2,10 +2,6 @@
 
 # __Real-time display of epidemic data__
 
-## Name of the Benefit
-
-Provides visual information on infection hotspots and trends, enabling informed decision-making and preventive actions
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improves public health response and supports targeted interventions, leading to reduced transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1285.md)
@@ -18,4 +14,8 @@ Provides visual information on infection hotspots and trends, enabling informed 
 ## Articles mentionning this Benefit
 
 * [Mobile Technology Solution for COVID-19: Surveillance and Prevention](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_239.md)
+
+## Name of the Benefit
+
+Provides visual information on infection hotspots and trends, enabling informed decision-making and preventive actions
 

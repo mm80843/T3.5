@@ -2,9 +2,8 @@
 
 # __Better communication channels__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2599.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Clear communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_594.md)
 * [Proper communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_872.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Covid-19 Associated Risks and Mitigation Strategies relevant for the UK Construction Industry](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_210.md)
+* [Lack of information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2599.md)
 
 ## Property: has_MitigationPrinciple
 
 Establish better communication channels to provide clear updates and educate businesses about intervention scenarios and latest available interventions
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Covid-19 Associated Risks and Mitigation Strategies relevant for the UK Construction Industry](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_210.md)
 

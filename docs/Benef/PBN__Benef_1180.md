@@ -2,10 +2,6 @@
 
 # __Job security__
 
-## Name of the Benefit
-
-Ensures stability of employment, reduces anxiety and financial stress
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Provides stability and increases job satisfaction, leading to increased productivity](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1315.md)
@@ -17,4 +13,8 @@ Ensures stability of employment, reduces anxiety and financial stress
 ## Articles mentionning this Benefit
 
 * [Non-medical Interventions to Reduce the Burden of Psychosocial and Economic Impacts of COVID-19 Pandemic: A Scope Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_243.md)
+
+## Name of the Benefit
+
+Ensures stability of employment, reduces anxiety and financial stress
 

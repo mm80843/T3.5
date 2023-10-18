@@ -2,9 +2,9 @@
 
 # __Temporary emergency measures__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2236.md)
+* [crisis management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2910.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Temporary regulations for certain activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_415.md)
 * [Crisis management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19: Lessons for an Urban(izing) World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_85.md)
+* [Inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2236.md)
 
 ## Property: has_MitigationPrinciple
 
 Implementing temporary emergency measures can provide immediate support to vulnerable populations and address urban inequalities during a crisis.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [crisis management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2910.md)
+* [COVID-19: Lessons for an Urban(izing) World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_85.md)
 

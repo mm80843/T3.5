@@ -2,6 +2,10 @@
 
 # __Social distancing apps__
 
+## This Technology belongs to this TechSubgroup
+
+* [Apps and Software for Social Distancing](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_149.md)
+
 ## Closest similar item
 
 * [Social distancing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2437.md)
@@ -15,15 +19,11 @@
 * [social distancing rule](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4247.md)
 * [virtual social platforms and apps for connecting with others](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1443.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Apps and Software for Social Distancing](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_149.md)
+* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
 
 ## This Technology is identified by the following QID
 
 * [Q30314010](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q30314010.md)
-
-## This Technology belongs to this TechGroup
-
-* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
 

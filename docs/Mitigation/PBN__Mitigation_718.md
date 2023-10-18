@@ -2,9 +2,8 @@
 
 # __Sociotechnical Analysis__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Social disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2700.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Descriptive social norms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2273.md)
 * [Research and development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1096.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Reflecting on Impacts of COVID19 on Sustainable Buildings and Cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_110.md)
+* [Social disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2700.md)
 
 ## Property: has_MitigationPrinciple
 
 Conducting analysis and developing solutions to address social equity issues in indoor environments, considering climate change and vulnerable communities
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Reflecting on Impacts of COVID19 on Sustainable Buildings and Cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_110.md)
 

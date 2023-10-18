@@ -2,9 +2,10 @@
 
 # __Elimination of Indoor Pollutants__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Indoor Pollutants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3252.md)
+* [source control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4063.md)
+* [cleanliness](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4064.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Reduced environmental pollution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1388.md)
 * [Use portable room air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_729.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [A comprehensive review on indoor air quality monitoring systems for enhanced public health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_281.md)
+* [Indoor Pollutants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3252.md)
 
 ## Property: has_MitigationPrinciple
 
 Identify and eliminate indoor pollutants at their source, such as smoking, cleaning chemicals, and mold, to improve indoor air quality and create a healthier living environment.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [source control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4063.md)
-* [cleanliness](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4064.md)
+* [A comprehensive review on indoor air quality monitoring systems for enhanced public health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_281.md)
 

@@ -2,9 +2,9 @@
 
 # __Value-based decision-making__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Ethical dilemmas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3185.md)
+* [multi-criteria decision analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3971.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Reinforcement of information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_617.md)
 * [Evidence-based](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_876.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [When the fourth water and digital revolution encountered COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_207.md)
+* [Ethical dilemmas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3185.md)
 
 ## Property: has_MitigationPrinciple
 
 Supports decision-making by addressing conflicts between public values, incorporates social, environmental, and resilience aspects
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [multi-criteria decision analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3971.md)
+* [When the fourth water and digital revolution encountered COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_207.md)
 

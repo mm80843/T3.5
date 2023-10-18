@@ -2,9 +2,9 @@
 
 # __Web Scraping__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2439.md)
+* [html parsing library](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3824.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Internet-based applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1694.md)
 * [Content analysis of news](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_322.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Risk Diagnosis and Mitigation System of COVID-19 Using Expert System and Web Scraping](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_237.md)
+* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2439.md)
 
 ## Property: has_MitigationPrinciple
 
 Accesses web pages, extracts data, and retrieves information in an automated manner.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [html parsing library](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3824.md)
+* [Risk Diagnosis and Mitigation System of COVID-19 Using Expert System and Web Scraping](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_237.md)
 

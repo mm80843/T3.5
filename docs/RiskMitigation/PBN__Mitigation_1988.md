@@ -2,9 +2,9 @@
 
 # __Tracking plans for universal energy access and SDG7__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of access to clean energy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3319.md)
+* [data tracking and analysis technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4176.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Energy bill deferral and payment extension plans](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1979.md)
 * [Energy Efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_390.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Contextualizing the Covid-19 pandemic for a carbon-constrained world: Insights for sustainability transitions, energy justice, and research methodology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_123.md)
+* [Lack of access to clean energy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3319.md)
 
 ## Property: has_MitigationPrinciple
 
 Monitor and assess progress towards universal energy access to identify areas and communities in need of support
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [data tracking and analysis technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4176.md)
+* [Contextualizing the Covid-19 pandemic for a carbon-constrained world: Insights for sustainability transitions, energy justice, and research methodology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_123.md)
 

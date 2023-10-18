@@ -2,19 +2,22 @@
 
 # __infections__
 
+## Property: has_RiskHealth
+
+
+## Property: has_RiskGBN
+
+
+## Description of the risk
+
+(PPE)
+
 ## Property: has_RiskType
 
 
-## People affected by this risk
+## Articles mentionning the risk
 
-
-## Name of the risk
-
-nan
-
-## Property: has_RiskISO_Purpose
-
-* [Preservaion and improvement of the environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_16.md)
+* [SARS-CoV-2 RNA detection of hospital isolation wards hygiene monitoring during the Coronavirus Disease 2019 outbreak in a Chinese hospital](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_55.md)
 
 ## Closest similar item
 
@@ -29,30 +32,27 @@ nan
 * [Underreporting of infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_586.md)
 * [Infectious disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2938.md)
 
-## Description of the risk
+## People affected by this risk
 
-(PPE)
-
-## Technologies linked to the risk
-
-
-## Property: has_RiskHealth
-
-
-## Mitigations of this risk
-
-
-## Articles mentionning the risk
-
-* [SARS-CoV-2 RNA detection of hospital isolation wards hygiene monitoring during the Coronavirus Disease 2019 outbreak in a Chinese hospital](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_55.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_4.md)
 
-## Property: has_RiskGBN
-
-
 ## Stakeholders who can mitigate this risk
+
+
+## Name of the risk
+
+nan
+
+## Mitigations of this risk
+
+
+## Property: has_RiskISO_Purpose
+
+* [Preservaion and improvement of the environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_16.md)
+
+## Technologies linked to the risk
 
 

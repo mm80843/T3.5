@@ -2,6 +2,9 @@
 
 # __Facial recognition systems__
 
+## This Technology belongs to this TechSubgroup
+
+
 ## Closest similar item
 
 * [Facial recognition systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2433.md)
@@ -14,9 +17,6 @@
 * [voice and face recognition](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4293.md)
 * [Face and voice recognition](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4553.md)
 * [biometrics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_99.md)
-
-## This Technology belongs to this TechSubgroup
-
 
 ## This Technology belongs to this TechGroup
 

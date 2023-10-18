@@ -2,9 +2,10 @@
 
 # __Predictive Analytics for Resource Planning__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of Historical Data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1098.md)
+* [epidemiological models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_757.md)
+* [predictive analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3710.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Detailed and better task planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_506.md)
 * [Data-driven decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1358.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Pandemic Analytics: How Countries are Leveraging Big Data Analytics and Artificial Intelligence to Fight COVID-19?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_106.md)
+* [Lack of Historical Data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1098.md)
 
 ## Property: has_MitigationPrinciple
 
 Predicts the demand for healthcare resources, such as hospital beds and ventilators, to ensure adequate allocation and preparedness for potential surges in cases.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [epidemiological models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_757.md)
-* [predictive analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3710.md)
+* [Pandemic Analytics: How Countries are Leveraging Big Data Analytics and Artificial Intelligence to Fight COVID-19?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_106.md)
 

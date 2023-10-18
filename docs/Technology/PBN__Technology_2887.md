@@ -2,6 +2,10 @@
 
 # __Social robots__
 
+## This Technology belongs to this TechSubgroup
+
+* [Robotic and Drone Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_113.md)
+
 ## Closest similar item
 
 * [social robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1987.md)
@@ -14,10 +18,6 @@
 * [robot systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3756.md)
 * [medical robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4090.md)
 * [social media algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1452.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Robotic and Drone Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_113.md)
 
 ## This Technology belongs to this TechGroup
 

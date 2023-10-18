@@ -2,10 +2,6 @@
 
 # __Reduced risk of airborne transmission__
 
-## Name of the Benefit
-
-Decreased risk of infection and illness
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Reduced risk of infection, improved health outcomes](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_658.md)
@@ -19,4 +15,8 @@ Decreased risk of infection and illness
 
 * [Occupant health in buildings: Impact of the COVID-19 pandemic on the opinions of building professionals and implications on research](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_273.md)
 * [How can airborne transmission of COVID-19 indoors be minimised?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_121.md)
+
+## Name of the Benefit
+
+Decreased risk of infection and illness
 

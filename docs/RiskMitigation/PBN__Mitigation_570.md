@@ -2,9 +2,9 @@
 
 # __Open research publishing__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of standardisation, data format limitations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2633.md)
+* [open research platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3318.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Open data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_884.md)
 * [Open data sharing and analysis for pandemic dataset creation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_293.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Data capture and sharing in the COVID-19 pandemic: a cause for concern](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_208.md)
+* [Lack of standardisation, data format limitations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2633.md)
 
 ## Property: has_MitigationPrinciple
 
 Facilitate peer review, data deposition, and sharing, promote reproducibility
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [open research platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3318.md)
+* [Data capture and sharing in the COVID-19 pandemic: a cause for concern](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_208.md)
 

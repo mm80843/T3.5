@@ -2,6 +2,13 @@
 
 # __humidifiers__
 
+## Risks linked to this technology
+
+* [Poor indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_294.md)
+
+## This Technology belongs to this TechSubgroup
+
+
 ## Closest similar item
 
 * [humidifier](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3191.md)
@@ -15,20 +22,13 @@
 * [air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
 * [Air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2202.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Poor indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_294.md)
-
-## This Technology belongs to this TechSubgroup
-
+* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_13.md)
 
 ## This Technology enables the following mitigations
 
 * [Humidity Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1226.md)
 * [Humidity control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_376.md)
 * [Humidification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1045.md)
-
-## This Technology belongs to this TechGroup
-
-* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_13.md)
 

@@ -2,6 +2,16 @@
 
 # __social media__
 
+## Risks linked to this technology
+
+* [Loneliness during COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_664.md)
+* [Lack of official communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1820.md)
+* [Lack of public awareness and education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1851.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Social Media Platforms and Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_33.md)
+
 ## Closest similar item
 
 * [social media communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3118.md)
@@ -15,15 +25,13 @@
 * [social-media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1712.md)
 * [Social-media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2141.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Loneliness during COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_664.md)
-* [Lack of official communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1820.md)
-* [Lack of public awareness and education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1851.md)
+* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology is identified by the following QID
 
-* [Social Media Platforms and Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_33.md)
+* [Q202833](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q202833.md)
 
 ## This Technology enables the following mitigations
 
@@ -33,12 +41,4 @@
 * [Search for evidence beyond conventional types](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_610.md)
 * [Avoidance of gatherings with friends and family](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1812.md)
 * [Leverage multiple dissemination channels](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_612.md)
-
-## This Technology is identified by the following QID
-
-* [Q202833](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q202833.md)
-
-## This Technology belongs to this TechGroup
-
-* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
 

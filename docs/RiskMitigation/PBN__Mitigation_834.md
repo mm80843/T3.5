@@ -2,7 +2,7 @@
 
 # __Patient isolation__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
 
 ## Closest similar item
@@ -18,14 +18,14 @@
 * [Case isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_665.md)
 * [Isolation/quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1387.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Effectiveness of non-pharmaceutical public health interventions against COVID-19: A systematic review and meta-analysis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_19.md)
 
 ## Property: has_MitigationPrinciple
 
 Isolate individuals who are infected with the contagious disease to prevent transmission to others
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Effectiveness of non-pharmaceutical public health interventions against COVID-19: A systematic review and meta-analysis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_19.md)
 

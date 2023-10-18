@@ -2,6 +2,14 @@
 
 # __thermal scanners__
 
+## Risks linked to this technology
+
+* [Transmission through person-to-person contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2108.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Thermal and Temperature Scanners](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_151.md)
+
 ## Closest similar item
 
 * [temperature scanners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_361.md)
@@ -14,14 +22,6 @@
 * [thermal sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4488.md)
 * [temperature screening devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1461.md)
 * [Temperature screening devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2436.md)
-
-## Risks linked to this technology
-
-* [Transmission through person-to-person contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2108.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Thermal and Temperature Scanners](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_151.md)
 
 ## This Technology belongs to this TechGroup
 

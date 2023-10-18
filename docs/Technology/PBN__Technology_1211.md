@@ -2,6 +2,11 @@
 
 # __internet access__
 
+## Risks linked to this technology
+
+* [Education disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_234.md)
+* [Unequal impact on the educational outcomes of children of immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1846.md)
+
 ## Closest similar item
 
 * [internet connection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4022.md)
@@ -15,10 +20,9 @@
 * [internet and wi-fi networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3273.md)
 * [improved internet infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_944.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Education disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_234.md)
-* [Unequal impact on the educational outcomes of children of immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1846.md)
+* [Q1472399](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1472399.md)
 
 ## This Technology enables the following mitigations
 
@@ -40,8 +44,4 @@
 * [Validation of news sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_962.md)
 * [Use of social media by decision-makers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_958.md)
 * [Increased access to teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1499.md)
-
-## This Technology is identified by the following QID
-
-* [Q1472399](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1472399.md)
 

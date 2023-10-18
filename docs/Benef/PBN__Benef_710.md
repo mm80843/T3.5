@@ -2,10 +2,6 @@
 
 # __Enhanced communication__
 
-## Name of the Benefit
-
-Professional signs convey important information in an organized and visually appealing manner, improving comprehension and awareness of social distancing measures
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved coordination and efficiency of construction works](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_762.md)
@@ -21,4 +17,8 @@ Professional signs convey important information in an organized and visually app
 
 * [The impact of COVID-19 outbreak on United Kingdom infrastructure sector](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_141.md)
 * [Retail Signage During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_159.md)
+
+## Name of the Benefit
+
+Professional signs convey important information in an organized and visually appealing manner, improving comprehension and awareness of social distancing measures
 

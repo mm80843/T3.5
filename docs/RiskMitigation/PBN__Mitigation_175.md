@@ -2,9 +2,10 @@
 
 # __Biophilic design__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Stress, fatigue, poor mental well-being](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2474.md)
+* [natural elements (plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3034.md)
+* [water features)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3035.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Health-centric design criteria](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3661.md)
 * [Sustainable design and construction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3083.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Occupant health in buildings: Impact of the COVID-19 pandemic on the opinions of building professionals and implications on research](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_273.md)
+* [Stress, fatigue, poor mental well-being](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2474.md)
 
 ## Property: has_MitigationPrinciple
 
 Incorporate nature elements into the built environment to enhance occupant well-being and connection to nature.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [natural elements (plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3034.md)
-* [water features)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3035.md)
+* [Occupant health in buildings: Impact of the COVID-19 pandemic on the opinions of building professionals and implications on research](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_273.md)
 

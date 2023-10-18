@@ -2,6 +2,10 @@
 
 # __DNA barcoding__
 
+## This Technology belongs to this TechSubgroup
+
+* [Technology and Digital Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_55.md)
+
 ## Closest similar item
 
 * [DNA barcoding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2508.md)
@@ -15,15 +19,11 @@
 * [nucleic acid-based polymerase chain reaction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3071.md)
 * [nucleic acid-based polymerase chain reaction (pcr)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3278.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Technology and Digital Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_55.md)
+* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
 
 ## This Technology is identified by the following QID
 
 * [Q1154642](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1154642.md)
-
-## This Technology belongs to this TechGroup
-
-* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
 

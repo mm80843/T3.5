@@ -2,9 +2,10 @@
 
 # __Collaboration and interdisciplinary approach__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of understanding and collaboration between stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2476.md)
+* [collaborative tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3038.md)
+* [networking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3037.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Collaboration and knowledge sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_901.md)
 * [Collaboration with national and international partners](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2213.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Occupant health in buildings: Impact of the COVID-19 pandemic on the opinions of building professionals and implications on research](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_273.md)
+* [Lack of understanding and collaboration between stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2476.md)
 
 ## Property: has_MitigationPrinciple
 
 Foster collaboration among building practitioners, health professionals, and data scientists to ensure a holistic approach to healthy buildings.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [collaborative tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3038.md)
-* [networking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3037.md)
+* [Occupant health in buildings: Impact of the COVID-19 pandemic on the opinions of building professionals and implications on research](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_273.md)
 

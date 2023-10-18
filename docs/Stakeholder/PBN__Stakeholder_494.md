@@ -2,6 +2,10 @@
 
 # __water authorities__
 
+## This Stakeholder is identified by the following QID
+
+* [Q7973265](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7973265.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
@@ -19,12 +23,6 @@
 * [water utility](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2666.md)
 * [water utilities/public sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_398.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Lack of running water](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1066.md)
-* [Contagious diseases transmission through hospital wastes and wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2314.md)
-* [Arsenic exposure in Bangladesh resulting from the construction of tube wells](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1663.md)
-
 ## Risk affecting this stakeholder
 
 * [Inadequate disinfection of hospital wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_668.md)
@@ -39,7 +37,9 @@
 
 * [Natural greywater treatment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1255.md)
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q7973265](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7973265.md)
+* [Lack of running water](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1066.md)
+* [Contagious diseases transmission through hospital wastes and wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2314.md)
+* [Arsenic exposure in Bangladesh resulting from the construction of tube wells](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1663.md)
 

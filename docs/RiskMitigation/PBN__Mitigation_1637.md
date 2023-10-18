@@ -2,9 +2,11 @@
 
 # __Optimizing energy management__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Increased energy requirements](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3183.md)
+* [treatment plant automation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3968.md)
+* [aeration control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3970.md)
+* [variable frequency drives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3969.md)
 
 ## Closest similar item
 
@@ -19,17 +21,15 @@
 * [Energy-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_90.md)
 * [Optimizing transport based on demand](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2344.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [When the fourth water and digital revolution encountered COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_207.md)
+* [Increased energy requirements](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3183.md)
 
 ## Property: has_MitigationPrinciple
 
 Achieves energy savings through digitalisation, balances the energy impact globally
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [treatment plant automation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3968.md)
-* [aeration control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3970.md)
-* [variable frequency drives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3969.md)
+* [When the fourth water and digital revolution encountered COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_207.md)
 

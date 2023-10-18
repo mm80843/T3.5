@@ -2,6 +2,10 @@
 
 # __LED lighting__
 
+## This Technology belongs to this TechSubgroup
+
+* [Lighting and HVAC Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_78.md)
+
 ## Closest similar item
 
 * [LED lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2853.md)
@@ -15,15 +19,11 @@
 * [lighting controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1257.md)
 * [natural lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3265.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Lighting and HVAC Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_78.md)
+* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
 
 ## This Technology is identified by the following QID
 
 * [Q1108259](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1108259.md)
-
-## This Technology belongs to this TechGroup
-
-* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
 

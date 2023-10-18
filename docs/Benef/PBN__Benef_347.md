@@ -2,10 +2,6 @@
 
 # __Effective management and disposal of potentially infected waste__
 
-## Name of the Benefit
-
-Reduced risk of virus spread through waste
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved health and safety of occupants and waste management efficiency](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_370.md)
@@ -17,4 +13,8 @@ Reduced risk of virus spread through waste
 ## Articles mentionning this Benefit
 
 * [How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
+
+## Name of the Benefit
+
+Reduced risk of virus spread through waste
 

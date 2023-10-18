@@ -2,6 +2,10 @@
 
 # __Investment in healthcare infrastructure and resources__
 
+## This Technology belongs to this TechSubgroup
+
+* [Infrastructure and Resource Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_126.md)
+
 ## Closest similar item
 
 * [Investment in healthcare infrastructure and resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2491.md)
@@ -15,15 +19,11 @@
 * [healthcare funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1854.md)
 * [medical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2897.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Infrastructure and Resource Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_126.md)
+* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
 
 ## This Technology is identified by the following QID
 
 * [Q5691206](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5691206.md)
-
-## This Technology belongs to this TechGroup
-
-* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
 

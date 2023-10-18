@@ -2,6 +2,10 @@
 
 # __urban green space management organizations__
 
+## This Stakeholder is identified by the following QID
+
+* [Q22652](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q22652.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Environmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_13.md)
@@ -19,16 +23,12 @@
 * [environmental managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_381.md)
 * [environmental organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1193.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Fear of infection in urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1823.md)
-* [Inadequate maintenance and management of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1826.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Urban Management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_135.md)
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q22652](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q22652.md)
+* [Fear of infection in urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1823.md)
+* [Inadequate maintenance and management of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1826.md)
 

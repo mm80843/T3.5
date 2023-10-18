@@ -2,6 +2,10 @@
 
 # __City governments__
 
+## This Technology belongs to this TechSubgroup
+
+* [Local Government and Health Organizations](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_98.md)
+
 ## Closest similar item
 
 * [City governments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2512.md)
@@ -14,10 +18,6 @@
 * [Urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2378.md)
 * [government programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3638.md)
 * [national and local policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3602.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Local Government and Health Organizations](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_98.md)
 
 ## This Technology belongs to this TechGroup
 

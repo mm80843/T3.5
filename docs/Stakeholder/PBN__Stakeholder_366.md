@@ -2,6 +2,10 @@
 
 # __schools__
 
+## This Stakeholder is identified by the following QID
+
+* [Q37518163](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q37518163.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Education](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_1.md)
@@ -18,14 +22,6 @@
 * [educators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_43.md)
 * [school administrator](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1640.md)
 * [teachers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_102.md)
-
-## Risks that can be mitigated by this stakeholder
-
-* [Education disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_234.md)
-* [Decreased Physical Activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1056.md)
-* [Disruption of education system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2234.md)
-* [Lack of personal cleanliness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1089.md)
-* [Unequal impact on the educational outcomes of children of immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1846.md)
 
 ## Risk affecting this stakeholder
 
@@ -47,7 +43,11 @@
 * [Prolonged antimicrobial activity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_920.md)
 * [Secure environment for online education](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1057.md)
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q37518163](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q37518163.md)
+* [Education disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_234.md)
+* [Decreased Physical Activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1056.md)
+* [Disruption of education system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2234.md)
+* [Lack of personal cleanliness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1089.md)
+* [Unequal impact on the educational outcomes of children of immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1846.md)
 

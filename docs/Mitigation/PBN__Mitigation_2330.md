@@ -2,9 +2,9 @@
 
 # __Preprocessing disinfection of sewage__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
+* [preprocessing disinfection equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4416.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Enhanced cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1009.md)
 * [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_191.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [SARS-CoV-2 RNA detection of hospital isolation wards hygiene monitoring during the Coronavirus Disease 2019 outbreak in a Chinese hospital](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_55.md)
+* [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
 
 ## Property: has_MitigationPrinciple
 
 Addition of preprocessing disinfection equipment before drainage to disinfect sewage
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [preprocessing disinfection equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4416.md)
+* [SARS-CoV-2 RNA detection of hospital isolation wards hygiene monitoring during the Coronavirus Disease 2019 outbreak in a Chinese hospital](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_55.md)
 

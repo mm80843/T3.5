@@ -2,9 +2,9 @@
 
 # __Large-Scale & Longitudinal__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of longitudinal view](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2924.md)
+* [situated visualization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3653.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Push for meso scale strategies at the neighbourhood/community level](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_423.md)
 * [Timely research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_888.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Designing a Multi-Agent Occupant Simulation System to Support Facility Planning and Analysis for COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_26.md)
+* [Lack of longitudinal view](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2924.md)
 
 ## Property: has_MitigationPrinciple
 
 Provide an analysis of space occupancy and virus transmission from a longitudinal perspective, considering the spatial and temporal dynamics of human interactions and their impact on virus spread
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [situated visualization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3653.md)
+* [Designing a Multi-Agent Occupant Simulation System to Support Facility Planning and Analysis for COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_26.md)
 

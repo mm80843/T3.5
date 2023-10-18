@@ -2,10 +2,6 @@
 
 # __Economic stability and recovery__
 
-## Name of the Benefit
-
-Resilience strategies can help stabilize the economy during and after a pandemic, leading to faster recovery and growth
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Businesses can benefit from a stable and growing economy, leading to improved financial performance.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_806.md)
@@ -18,4 +14,8 @@ Resilience strategies can help stabilize the economy during and after a pandemic
 ## Articles mentionning this Benefit
 
 * [Pandemic stricken cities on lockdown. Where are our planning and design professionals [now, then and into the future]?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_147.md)
+
+## Name of the Benefit
+
+Resilience strategies can help stabilize the economy during and after a pandemic, leading to faster recovery and growth
 

@@ -2,6 +2,14 @@
 
 # __simulation__
 
+## Risks linked to this technology
+
+* [Minimized Surgery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1264.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Education and Training](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_32.md)
+
 ## Closest similar item
 
 * [simulation models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1458.md)
@@ -15,23 +23,15 @@
 * [simulation and training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4315.md)
 * [modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1979.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Minimized Surgery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1264.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Education and Training](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_32.md)
-
-## This Technology enables the following mitigations
-
-* [Use of simulation for policy-making](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1632.md)
+* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
 
 ## This Technology is identified by the following QID
 
 * [Q45045](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q45045.md)
 
-## This Technology belongs to this TechGroup
+## This Technology enables the following mitigations
 
-* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
+* [Use of simulation for policy-making](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1632.md)
 

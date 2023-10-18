@@ -2,9 +2,11 @@
 
 # __Smartwatch Data__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Incomplete Detection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2470.md)
+* [smartwatches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3013.md)
+* [apple watches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3015.md)
+* [fitbits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3014.md)
 
 ## Closest similar item
 
@@ -19,17 +21,15 @@
 * [Healthcare instrument tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1882.md)
 * [IoT devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2018.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Wearable devices for the detection of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_296.md)
+* [Incomplete Detection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2470.md)
 
 ## Property: has_MitigationPrinciple
 
 Analysis of heart rate, steps, and sleep data to detect pre-symptomatic cases of COVID-19
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [smartwatches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3013.md)
-* [apple watches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3015.md)
-* [fitbits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3014.md)
+* [Wearable devices for the detection of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_296.md)
 

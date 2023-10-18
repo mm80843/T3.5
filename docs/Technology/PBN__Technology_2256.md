@@ -2,6 +2,9 @@
 
 # __Empathy-building programs__
 
+## This Technology belongs to this TechSubgroup
+
+
 ## Closest similar item
 
 * [Empathy-building programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2256.md)
@@ -15,14 +18,11 @@
 * [targeted outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1339.md)
 * [community support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_595.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 
 ## This Technology is identified by the following QID
 
 * [Q182263](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q182263.md)
-
-## This Technology belongs to this TechGroup
-
-* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 

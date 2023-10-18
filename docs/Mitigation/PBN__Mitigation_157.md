@@ -2,9 +2,11 @@
 
 # __Strict adherence to COVID-19 preventative measures__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Risk of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2469.md)
+* [social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_906.md)
+* [personal protective equipment (masks)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3008.md)
+* [sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2981.md)
 
 ## Closest similar item
 
@@ -19,17 +21,15 @@
 * [Health and prevention measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_28.md)
 * [Quarantine measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1133.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Housing Experience in Gated Communities in the Time of Pandemics: Lessons Learned from COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_87.md)
+* [Risk of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2469.md)
 
 ## Property: has_MitigationPrinciple
 
 The strict adherence to COVID-19 preventative measures, including the use of masks, practicing social distancing, and sanitization, reduces the risk of infection within gated communities.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_906.md)
-* [personal protective equipment (masks)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3008.md)
-* [sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2981.md)
+* [Housing Experience in Gated Communities in the Time of Pandemics: Lessons Learned from COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_87.md)
 

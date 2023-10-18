@@ -2,9 +2,9 @@
 
 # __Continuous Monitoring__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2698.md)
+* [energy monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_352.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Health monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_55.md)
 * [Continuous data collection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1670.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Reflecting on Impacts of COVID19 on Sustainable Buildings and Cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_110.md)
+* [Lack of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2698.md)
 
 ## Property: has_MitigationPrinciple
 
 Collecting and analyzing data on energy demands to inform design and adapt the built environment to occupant behaviors
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [energy monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_352.md)
+* [Reflecting on Impacts of COVID19 on Sustainable Buildings and Cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_110.md)
 

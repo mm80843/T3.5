@@ -2,6 +2,11 @@
 
 # __uv irradiation__
 
+## Risks linked to this technology
+
+* [Air recirculation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1319.md)
+* [Inadequate disinfection technologies in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_934.md)
+
 ## Closest similar item
 
 * [UV irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2703.md)
@@ -15,16 +20,11 @@
 * [uv germicidal irradiation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1879.md)
 * [ultraviolet germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_232.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Air recirculation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1319.md)
-* [Inadequate disinfection technologies in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_934.md)
+* [Q11391](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11391.md)
 
 ## This Technology enables the following mitigations
 
 * [UV Irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_226.md)
-
-## This Technology is identified by the following QID
-
-* [Q11391](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11391.md)
 

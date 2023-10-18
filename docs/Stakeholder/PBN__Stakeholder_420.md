@@ -2,6 +2,10 @@
 
 # __medical industry__
 
+## This Stakeholder is identified by the following QID
+
+* [Q15067276](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q15067276.md)
+
 ## Closest similar item
 
 * [healthcare industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_423.md)
@@ -15,10 +19,6 @@
 * [medical personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_184.md)
 * [medical professional](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2005.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Lack of trustable data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2066.md)
-
 ## Risk affecting this stakeholder
 
 * [Lack of trustable data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2066.md)
@@ -27,7 +27,7 @@
 
 * [Data security and privacy](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1051.md)
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q15067276](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q15067276.md)
+* [Lack of trustable data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2066.md)
 

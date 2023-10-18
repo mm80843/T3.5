@@ -2,9 +2,10 @@
 
 # __Optimizing communication__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Decreased interest](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2529.md)
+* [digital communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_897.md)
+* [internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3058.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Enhanced communication and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_133.md)
 * [Clear communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_594.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19 media fatigue: predictors of decreasing interest and avoidance of COVID-19–related news](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_153.md)
+* [Decreased interest](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2529.md)
 
 ## Property: has_MitigationPrinciple
 
 Identifying factors associated with decreased interest in COVID-19 news to improve communication strategies and adherence to public health recommendations
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [digital communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_897.md)
-* [internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3058.md)
+* [COVID-19 media fatigue: predictors of decreasing interest and avoidance of COVID-19–related news](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_153.md)
 

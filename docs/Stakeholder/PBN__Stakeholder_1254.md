@@ -2,6 +2,10 @@
 
 # __healthcare facility__
 
+## This Stakeholder is identified by the following QID
+
+* [Q4260475](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4260475.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
@@ -20,6 +24,10 @@
 * [healthcare facility planners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1003.md)
 * [hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_64.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Healthcare](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_48.md)
+
 ## Risks that can be mitigated by this stakeholder
 
 * [Transmission via respiratory droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1733.md)
@@ -27,12 +35,4 @@
 * [Contaminated personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1855.md)
 * [Nosocomial outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1852.md)
 * [Inadequate decontamination measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1854.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Healthcare](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_48.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q4260475](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4260475.md)
 

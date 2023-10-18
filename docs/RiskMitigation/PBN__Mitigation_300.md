@@ -2,9 +2,11 @@
 
 # __Human Interactions__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Increased Interactions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2523.md)
+* [online meetings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3138.md)
+* [shift alteration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3137.md)
+* [walkie-talkies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3139.md)
 
 ## Closest similar item
 
@@ -19,17 +21,15 @@
 * [Human movement analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2087.md)
 * [Physical Contact](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1746.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Analysis of COVID-19 Concerns Raised by the Construction Workforce and Development of Mitigation Practices](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_82.md)
+* [Increased Interactions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2523.md)
 
 ## Property: has_MitigationPrinciple
 
 Minimize human interactions through measures such as altering shifts, breaks and modes of communication, dividing employees into small groups, and providing contactless communication tools.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [online meetings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3138.md)
-* [shift alteration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3137.md)
-* [walkie-talkies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3139.md)
+* [Analysis of COVID-19 Concerns Raised by the Construction Workforce and Development of Mitigation Practices](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_82.md)
 

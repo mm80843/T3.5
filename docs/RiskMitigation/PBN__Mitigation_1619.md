@@ -2,9 +2,10 @@
 
 # __Local lockdown__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Economic impacts, Compliance issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3167.md)
+* [public health guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3952.md)
+* [predictive modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3951.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [National Lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1549.md)
 * [Social lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1553.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Digital Twin of COVID-19 Mass Vaccination Centers](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_47.md)
+* [Economic impacts, Compliance issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3167.md)
 
 ## Property: has_MitigationPrinciple
 
 Prevent the spread of the virus by restricting movement and contact in heavily affected areas
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [public health guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3952.md)
-* [predictive modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3951.md)
+* [Digital Twin of COVID-19 Mass Vaccination Centers](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_47.md)
 

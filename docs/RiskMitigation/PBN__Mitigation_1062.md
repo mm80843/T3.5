@@ -2,9 +2,9 @@
 
 # __Equitable Park Access__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Social inequities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2895.md)
+* [equitable distribution of parks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3608.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Park Quality Improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1066.md)
 * [Access to open green space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2281.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Urban Park Use During the COVID-19 Pandemic: Are Socially Vulnerable Communities Disproportionately Impacted?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_276.md)
+* [Social inequities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2895.md)
 
 ## Property: has_MitigationPrinciple
 
 Ensuring that all segments of society have equal access to parks and greenspaces to promote health and well-being during times of crisis
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [equitable distribution of parks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3608.md)
+* [Urban Park Use During the COVID-19 Pandemic: Are Socially Vulnerable Communities Disproportionately Impacted?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_276.md)
 

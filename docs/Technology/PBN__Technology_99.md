@@ -2,6 +2,14 @@
 
 # __biometrics__
 
+## Risks linked to this technology
+
+* [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_47.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Authentication and Access Control](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_140.md)
+
 ## Closest similar item
 
 * [biometric identification](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1548.md)
@@ -15,23 +23,15 @@
 * [automated face recognition systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1506.md)
 * [Automated face recognition systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2467.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_47.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Authentication and Access Control](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_140.md)
-
-## This Technology enables the following mitigations
-
-* [Monitoring for health indicators](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2361.md)
+* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_5.md)
 
 ## This Technology is identified by the following QID
 
 * [Q177765](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q177765.md)
 
-## This Technology belongs to this TechGroup
+## This Technology enables the following mitigations
 
-* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_5.md)
+* [Monitoring for health indicators](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2361.md)
 

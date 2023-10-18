@@ -2,9 +2,8 @@
 
 # __Isolation of infected individuals__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Poor infection control practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3457.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Quarantine and isolation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2037.md)
 * [Patient isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_834.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Knowledge, attitudes, and practices of Indonesian residents regarding COVID-19: A national cross-sectional survey](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_176.md)
+* [Poor infection control practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3457.md)
 
 ## Property: has_MitigationPrinciple
 
 Immediately isolating individuals who have come into contact with someone infected with COVID-19 to prevent further spread of the virus
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Knowledge, attitudes, and practices of Indonesian residents regarding COVID-19: A national cross-sectional survey](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_176.md)
 

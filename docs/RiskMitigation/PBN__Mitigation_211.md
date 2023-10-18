@@ -2,9 +2,10 @@
 
 # __Virtual ways of educating the general population and high-risk groups__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of access to education and information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2502.md)
+* [online platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_67.md)
+* [video conferences](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3059.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Public health education and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_600.md)
 * [Public Health Education and Awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1715.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Non-medical Interventions to Reduce the Burden of Psychosocial and Economic Impacts of COVID-19 Pandemic: A Scope Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_243.md)
+* [Lack of access to education and information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2502.md)
 
 ## Property: has_MitigationPrinciple
 
 Utilize virtual platforms to provide education and information about the pandemic to the general population and high-risk groups.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [online platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_67.md)
-* [video conferences](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3059.md)
+* [Non-medical Interventions to Reduce the Burden of Psychosocial and Economic Impacts of COVID-19 Pandemic: A Scope Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_243.md)
 

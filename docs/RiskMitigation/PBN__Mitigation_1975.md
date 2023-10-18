@@ -2,9 +2,9 @@
 
 # __Evacuations__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Displacement and strain on resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3309.md)
+* [emergency transportation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4177.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Safe shelters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_49.md)
 * [Reimagining large public spaces and events in a post-pandemic world](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_794.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Contextualizing the Covid-19 pandemic for a carbon-constrained world: Insights for sustainability transitions, energy justice, and research methodology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_123.md)
+* [Displacement and strain on resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3309.md)
 
 ## Property: has_MitigationPrinciple
 
 Relocate individuals from high-risk areas to minimize exposure and prevent the spread
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [emergency transportation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4177.md)
+* [Contextualizing the Covid-19 pandemic for a carbon-constrained world: Insights for sustainability transitions, energy justice, and research methodology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_123.md)
 

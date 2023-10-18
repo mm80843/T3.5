@@ -2,6 +2,10 @@
 
 # __geographic information systems (gis)__
 
+## Risks linked to this technology
+
+* [Spatial variation in HIV prevalence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1347.md)
+
 ## Closest similar item
 
 * [Geographic information systems (GIS)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2047.md)
@@ -15,15 +19,11 @@
 * [geographical information systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3116.md)
 * [geographic information systems (gis) can be used to analyze community needs and optimize facility placement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1913.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Spatial variation in HIV prevalence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1347.md)
+* [Q483130](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q483130.md)
 
 ## This Technology enables the following mitigations
 
 * [Land-use Planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1859.md)
-
-## This Technology is identified by the following QID
-
-* [Q483130](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q483130.md)
 

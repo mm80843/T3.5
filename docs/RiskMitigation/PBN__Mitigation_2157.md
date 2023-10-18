@@ -2,9 +2,10 @@
 
 # __Remote workspaces__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Comfort and efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3358.md)
+* [ict](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4283.md)
+* [high-speed internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4282.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Remote working](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_950.md)
 * [Telecommuting/remote work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1011.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
+* [Comfort and efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3358.md)
 
 ## Property: has_MitigationPrinciple
 
 Provide comfortable and efficient workspace at home
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [ict](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4283.md)
-* [high-speed internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4282.md)
+* [How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
 

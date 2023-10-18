@@ -2,10 +2,6 @@
 
 # __Enhanced benefits from green space__
 
-## Name of the Benefit
-
-Quality, rather than quantity, of green space is crucial for delivering the positives associated with it
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved quality of green space can lead to better health outcomes and overall wellbeing for disadvantaged communities](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_194.md)
@@ -17,4 +13,8 @@ Quality, rather than quantity, of green space is crucial for delivering the posi
 ## Articles mentionning this Benefit
 
 * [Urban form: Realising the value of green space: a planners’ perspective on the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_41.md)
+
+## Name of the Benefit
+
+Quality, rather than quantity, of green space is crucial for delivering the positives associated with it
 

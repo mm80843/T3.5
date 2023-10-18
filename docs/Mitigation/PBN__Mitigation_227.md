@@ -2,8 +2,9 @@
 
 # __Chlorine Disinfection__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [chlorine-containing disinfectant](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3072.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [UV disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1052.md)
 * [Physical disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2316.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [An environmental and health perspective for COVID-19 outbreak: Meteorology and air quality influence, sewage epidemiology indicator, hospitals disinfection, drug therapies and recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_270.md)
 
 ## Property: has_MitigationPrinciple
 
 Disinfect contaminated areas in hospitals by spraying with chlorine-containing disinfectant for a certain period of time
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [chlorine-containing disinfectant](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3072.md)
+* [An environmental and health perspective for COVID-19 outbreak: Meteorology and air quality influence, sewage epidemiology indicator, hospitals disinfection, drug therapies and recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_270.md)
 

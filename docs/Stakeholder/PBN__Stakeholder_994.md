@@ -2,6 +2,10 @@
 
 # __government research institutions__
 
+## This Stakeholder is identified by the following QID
+
+* [Q31855](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q31855.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
@@ -19,15 +23,11 @@
 * [institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_891.md)
 * [academic institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_995.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Lack of vaccines and agent-specific drugs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1540.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Research Institutions](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_120.md)
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q31855](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q31855.md)
+* [Lack of vaccines and agent-specific drugs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1540.md)
 

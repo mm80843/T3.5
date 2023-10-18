@@ -2,18 +2,24 @@
 
 # __nan__
 
-## Property: has_RiskType
+## Property: has_RiskHealth
 
 
-## People affected by this risk
+## Property: has_RiskGBN
 
 
-## Name of the risk
+## Description of the risk
 
 nan
 
-## Property: has_RiskISO_Purpose
+## Property: has_RiskType
 
+
+## Articles mentionning the risk
+
+* [Urban design attributes and resilience: COVID-19 evidence from New York City](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_6.md)
+* [Learning from pandemics: Applying resilience thinking to identify priorities for planning urban settlements](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_137.md)
+* [Digital technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_278.md)
 
 ## Closest similar item
 
@@ -28,15 +34,18 @@ nan
 * [Security Systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3508.md)
 * [Sanitation and Waste Management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3509.md)
 
-## Description of the risk
+## People affected by this risk
+
+
+## Property: has_RiskISO_Impact
+
+
+## Stakeholders who can mitigate this risk
+
+
+## Name of the risk
 
 nan
-
-## Technologies linked to the risk
-
-
-## Property: has_RiskHealth
-
 
 ## Mitigations of this risk
 
@@ -1024,18 +1033,9 @@ nan
 * [Ratification of environmental commitments](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2457.md)
 * [Urgent and essential waste management as a service](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2459.md)
 
-## Articles mentionning the risk
-
-* [Urban design attributes and resilience: COVID-19 evidence from New York City](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_6.md)
-* [Learning from pandemics: Applying resilience thinking to identify priorities for planning urban settlements](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_137.md)
-* [Digital technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_278.md)
-
-## Property: has_RiskISO_Impact
+## Property: has_RiskISO_Purpose
 
 
-## Property: has_RiskGBN
-
-
-## Stakeholders who can mitigate this risk
+## Technologies linked to the risk
 
 

@@ -2,6 +2,12 @@
 
 # __Manufacturing facilities__
 
+## This Technology belongs to this TechSubgroup
+
+* [Economic and Financial Support](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_102.md)
+* [Logistics and Supply Chain Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_127.md)
+* [Public Spaces and Transportation](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_128.md)
+
 ## Closest similar item
 
 * [Manufacturing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2368.md)
@@ -14,12 +20,6 @@
 * [research facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3514.md)
 * [laboratory facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3513.md)
 * [healthcare technologies and facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1946.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Economic and Financial Support](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_102.md)
-* [Logistics and Supply Chain Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_127.md)
-* [Public Spaces and Transportation](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_128.md)
 
 ## This Technology belongs to this TechGroup
 

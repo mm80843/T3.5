@@ -2,6 +2,10 @@
 
 # __Interior designers__
 
+## This Technology belongs to this TechSubgroup
+
+* [Building Systems and Design](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_89.md)
+
 ## Closest similar item
 
 * [Interior designers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2333.md)
@@ -14,10 +18,6 @@
 * [architectural & Construction Materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2661.md)
 * [building engineers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_385.md)
 * [Building engineers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2335.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Building Systems and Design](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_89.md)
 
 ## This Technology belongs to this TechGroup
 

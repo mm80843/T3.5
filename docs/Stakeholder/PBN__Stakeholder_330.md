@@ -2,6 +2,10 @@
 
 # __operators__
 
+## This Stakeholder is identified by the following QID
+
+* [Q3354588](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3354588.md)
+
 ## Closest similar item
 
 * [network operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1405.md)
@@ -23,8 +27,4 @@
 
 * [Optimization of water management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_811.md)
 * [Simulation and prediction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_812.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q3354588](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3354588.md)
 

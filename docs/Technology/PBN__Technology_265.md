@@ -2,6 +2,10 @@
 
 # __testing protocols__
 
+## Risks linked to this technology
+
+* [Risk of ineffective anti-SARS-CoV-2 coatings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1179.md)
+
 ## Closest similar item
 
 * [standardization of testing protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1104.md)
@@ -15,15 +19,11 @@
 * [advanced testing methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_803.md)
 * [study protocol platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4419.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Risk of ineffective anti-SARS-CoV-2 coatings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1179.md)
+* [Q1003030](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1003030.md)
 
 ## This Technology enables the following mitigations
 
 * [Lower testing frequency](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1625.md)
-
-## This Technology is identified by the following QID
-
-* [Q1003030](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1003030.md)
 

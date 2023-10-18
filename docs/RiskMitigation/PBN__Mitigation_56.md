@@ -2,9 +2,12 @@
 
 # __Disease modelling__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Performance, scalability, accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2422.md)
+* [software tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2930.md)
+* [mathematical models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2929.md)
+* [chemical compositions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2932.md)
+* [biological structures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2931.md)
 
 ## Closest similar item
 
@@ -19,18 +22,15 @@
 * [Forecasting of virus spread](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1180.md)
 * [Strengthening the European Centre for Disease Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_996.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [An Overview of Ontologies and Tool Support for COVID-19 Analytics](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_170.md)
+* [Performance, scalability, accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2422.md)
 
 ## Property: has_MitigationPrinciple
 
 Model pandemic data to visualize, simulate, and analyze the spread of the disease.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [software tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2930.md)
-* [mathematical models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2929.md)
-* [chemical compositions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2932.md)
-* [biological structures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2931.md)
+* [An Overview of Ontologies and Tool Support for COVID-19 Analytics](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_170.md)
 

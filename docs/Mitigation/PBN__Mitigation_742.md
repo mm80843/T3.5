@@ -2,9 +2,10 @@
 
 # __Addressing precarity__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Health harming behaviors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2708.md)
+* [financial support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_607.md)
+* [welfare policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3424.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Prioritizing shipments of essential goods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1489.md)
 * [Early serving of notices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_508.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Dangerous liaisons? Applying the social harm perspective to the social inequality, housing and health trifecta during the Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_2.md)
+* [Health harming behaviors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2708.md)
 
 ## Property: has_MitigationPrinciple
 
 Reduce harm by providing financial support and social welfare policies to address housing precarity and promote healthier behaviors
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [financial support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_607.md)
-* [welfare policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3424.md)
+* [Dangerous liaisons? Applying the social harm perspective to the social inequality, housing and health trifecta during the Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_2.md)
 

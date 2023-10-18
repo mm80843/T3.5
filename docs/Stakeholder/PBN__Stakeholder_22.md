@@ -2,6 +2,10 @@
 
 # __marginalized communities__
 
+## This Stakeholder is identified by the following QID
+
+* [Q5853064](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5853064.md)
+
 ## Closest similar item
 
 * [marginalized populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_275.md)
@@ -41,8 +45,4 @@
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Reduced inequalities in remote work and education opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_25.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q5853064](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5853064.md)
 

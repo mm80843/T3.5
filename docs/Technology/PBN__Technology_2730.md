@@ -2,6 +2,10 @@
 
 # __Public space design with social distancing in mind__
 
+## This Technology belongs to this TechSubgroup
+
+* [Urban Planning and Green Spaces](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_85.md)
+
 ## Closest similar item
 
 * [Public space design with social distancing in mind](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2730.md)
@@ -15,15 +19,11 @@
 * [signage for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1823.md)
 * [social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1101.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Urban Planning and Green Spaces](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_85.md)
+* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
 
 ## This Technology is identified by the following QID
 
 * [Q294440](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q294440.md)
-
-## This Technology belongs to this TechGroup
-
-* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
 

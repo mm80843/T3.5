@@ -2,10 +2,6 @@
 
 # __Reduced inequalities in remote work and education opportunities__
 
-## Name of the Benefit
-
-Ensuring equitable access to remote work and education reduces inequalities in employment, education, and opportunities, promoting social and economic well-being.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors in remote work technologies and education platforms would benefit from increased demand and market growth.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_25.md)
@@ -19,4 +15,8 @@ Ensuring equitable access to remote work and education reduces inequalities in e
 ## Articles mentionning this Benefit
 
 * [Building up an ecologically sustainable and socially desirable post-COVID-19 future](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_5.md)
+
+## Name of the Benefit
+
+Ensuring equitable access to remote work and education reduces inequalities in employment, education, and opportunities, promoting social and economic well-being.
 

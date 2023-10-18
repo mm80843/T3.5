@@ -2,10 +2,6 @@
 
 # __Decreased mortality__
 
-## Name of the Benefit
-
-Reduction in mortality rates due to improved air quality, leading to better health outcomes
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors investing in this measure would benefit from increased property value and demand.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_196.md)
@@ -17,4 +13,8 @@ Reduction in mortality rates due to improved air quality, leading to better heal
 ## Articles mentionning this Benefit
 
 * [COVID-19 Higher Mortality in Chinese Regions With Chronic Exposure to Lower Air Quality](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_42.md)
+
+## Name of the Benefit
+
+Reduction in mortality rates due to improved air quality, leading to better health outcomes
 

@@ -2,9 +2,10 @@
 
 # __Tele-response Bots__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Data breaches, technological limitations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3071.md)
+* [ai technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3771.md)
+* [fifth-generation wireless networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3879.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Automated SMS alerts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1667.md)
 * [Telehealth services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_48.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The socio-economic implications of the coronavirus pandemic (COVID-19): A review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_135.md)
+* [Data breaches, technological limitations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3071.md)
 
 ## Property: has_MitigationPrinciple
 
 Use tele-response bots to remotely communicate with and monitor patients
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [ai technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3771.md)
-* [fifth-generation wireless networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3879.md)
+* [The socio-economic implications of the coronavirus pandemic (COVID-19): A review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_135.md)
 

@@ -2,22 +2,25 @@
 
 # __Faecal-oral transmission__
 
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Description of the risk
+
+Positive detection of the virus on toilet surfaces and bathroom areas.
+
 ## Property: has_RiskType
 
 * [health](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_4.md)
 
-## People affected by this risk
+## Articles mentionning the risk
 
-* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
-* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
-
-## Name of the risk
-
-Potential risk of transmission through the faecal-oral route.
-
-## Property: has_RiskISO_Purpose
-
-* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_0.md)
+* [Toilets dominate environmental detection of SARS-CoV-2 virus in a hospital](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_196.md)
 
 ## Closest similar item
 
@@ -32,38 +35,35 @@ Potential risk of transmission through the faecal-oral route.
 * [Transmission of Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2812.md)
 * [Disease transmission through contaminated hands](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2786.md)
 
-## Description of the risk
+## People affected by this risk
 
-Positive detection of the virus on toilet surfaces and bathroom areas.
+* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
+* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
 
-## Technologies linked to the risk
+## Property: has_RiskISO_Impact
 
-* [hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_509.md)
-* [regular cleaning and disinfection of toilets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_510.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Property: has_RiskHealth
+## Stakeholders who can mitigate this risk
 
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+* [public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_222.md)
+* [cleaning staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_656.md)
+
+## Name of the risk
+
+Potential risk of transmission through the faecal-oral route.
 
 ## Mitigations of this risk
 
 * [Maintain hygiene in private and public toilets.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1827.md)
 * [Faecal management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_559.md)
 
-## Articles mentionning the risk
+## Property: has_RiskISO_Purpose
 
-* [Toilets dominate environmental detection of SARS-CoV-2 virus in a hospital](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_196.md)
+* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_0.md)
 
-## Property: has_RiskISO_Impact
+## Technologies linked to the risk
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Stakeholders who can mitigate this risk
-
-* [public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_222.md)
-* [cleaning staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_656.md)
+* [hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_509.md)
+* [regular cleaning and disinfection of toilets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_510.md)
 

@@ -2,6 +2,10 @@
 
 # __communication experts__
 
+## This Stakeholder is identified by the following QID
+
+* [Q11024](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11024.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Media](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_3.md)
@@ -19,15 +23,11 @@
 * [communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2953.md)
 * [communication guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2954.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Lack of public trust](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_741.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Communication Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_34.md)
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q11024](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11024.md)
+* [Lack of public trust](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_741.md)
 

@@ -2,9 +2,11 @@
 
 # __Smart home automation__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Comfort and efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3358.md)
+* [sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
+* [remote control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4278.md)
+* [detectors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4285.md)
 
 ## Closest similar item
 
@@ -19,17 +21,15 @@
 * [IoT for monitoring and tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3859.md)
 * [Implementation of IoT](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3855.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
+* [Comfort and efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3358.md)
 
 ## Property: has_MitigationPrinciple
 
 Manage and control home devices and systems more comfortably and efficiently
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
-* [remote control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4278.md)
-* [detectors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4285.md)
+* [How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
 

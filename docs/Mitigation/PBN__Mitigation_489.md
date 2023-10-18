@@ -2,9 +2,8 @@
 
 # __Ensuring domestic budgets support PCAs__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Reallocation of funds from PCAs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2584.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Substantially increase funding for climate and development organizations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1989.md)
 * [ICT infrastructure access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2235.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Building sustainable finance for resilient protected and conserved areas: lessons from COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_33.md)
+* [Reallocation of funds from PCAs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2584.md)
 
 ## Property: has_MitigationPrinciple
 
 Maintain or increase public sector allocations for PCAs through national budgets and integrate biodiversity into plans
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Building sustainable finance for resilient protected and conserved areas: lessons from COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_33.md)
 

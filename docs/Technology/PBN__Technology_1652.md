@@ -2,6 +2,10 @@
 
 # __telehealth technology__
 
+## Risks linked to this technology
+
+* [Healthcare system overload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2134.md)
+
 ## Closest similar item
 
 * [Telehealth technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2289.md)
@@ -15,16 +19,12 @@
 * [telehealth/telepresence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4089.md)
 * [Telehealth platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2274.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Healthcare system overload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2134.md)
+* [Q4923501](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4923501.md)
 
 ## This Technology enables the following mitigations
 
 * [Telehealth Services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_361.md)
 * [Voluntary home quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_596.md)
-
-## This Technology is identified by the following QID
-
-* [Q4923501](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4923501.md)
 

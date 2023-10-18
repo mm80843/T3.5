@@ -2,6 +2,10 @@
 
 # __Online learning platforms__
 
+## This Technology belongs to this TechSubgroup
+
+* [Digital Learning Platforms and Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_56.md)
+
 ## Closest similar item
 
 * [Online learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2632.md)
@@ -15,15 +19,11 @@
 * [educational platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1860.md)
 * [Remote learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2634.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Digital Learning Platforms and Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_56.md)
+* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
 
 ## This Technology is identified by the following QID
 
 * [Q182250](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q182250.md)
-
-## This Technology belongs to this TechGroup
-
-* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
 

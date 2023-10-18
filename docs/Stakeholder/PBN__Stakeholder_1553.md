@@ -19,12 +19,12 @@
 * [internet companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2642.md)
 * [Provider](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1792.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [AI and Technology](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_54.md)
+
 ## Risks that can be mitigated by this stakeholder
 
 * [Cybersecurity risks and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2329.md)
 * [Inequitable access to virtual community spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2326.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [AI and Technology](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_54.md)
 

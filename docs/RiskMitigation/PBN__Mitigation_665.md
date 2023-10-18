@@ -2,7 +2,7 @@
 
 # __Case isolation__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
 
 ## Closest similar item
@@ -18,15 +18,15 @@
 * [Specific approaches for containment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2924.md)
 * [Self-isolation and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1948.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Report 9: Impact of non-pharmaceutical interventions (NPIs) to reduce COVID19 mortality and healthcare demand](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_80.md)
-* [The impact of COVID-19 and strategies for mitigation and suppression in low- and middle-income countries](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_65.md)
 
 ## Property: has_MitigationPrinciple
 
 Isolate individuals with symptoms to reduce transmission
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Report 9: Impact of non-pharmaceutical interventions (NPIs) to reduce COVID19 mortality and healthcare demand](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_80.md)
+* [The impact of COVID-19 and strategies for mitigation and suppression in low- and middle-income countries](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_65.md)
 

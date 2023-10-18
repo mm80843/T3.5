@@ -2,8 +2,9 @@
 
 # __GoK Direct app__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [mobile app](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3748.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [COVIDsafe app](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1702.md)
 * [Mobile apps for information and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1236.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Mobile Technology Solution for COVID-19: Surveillance and Prevention](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_239.md)
 
 ## Property: has_MitigationPrinciple
 
 Spreads awareness and disseminates reliable information related to COVID-19 in the state of Kerala, India.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [mobile app](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3748.md)
+* [Mobile Technology Solution for COVID-19: Surveillance and Prevention](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_239.md)
 

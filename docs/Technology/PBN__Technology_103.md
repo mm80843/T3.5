@@ -2,6 +2,15 @@
 
 # __transparency measures__
 
+## Risks linked to this technology
+
+* [Lack of awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_49.md)
+* [Adoption and Trust](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1105.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Transparency and Public Awareness Measures](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_48.md)
+
 ## Closest similar item
 
 * [transparency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1927.md)
@@ -15,20 +24,11 @@
 * [restrictive measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3585.md)
 * [regulatory measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3206.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Lack of awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_49.md)
-* [Adoption and Trust](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1105.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Transparency and Public Awareness Measures](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_48.md)
+* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_5.md)
 
 ## This Technology is identified by the following QID
 
 * [Q487623](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q487623.md)
-
-## This Technology belongs to this TechGroup
-
-* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_5.md)
 

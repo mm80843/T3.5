@@ -2,9 +2,9 @@
 
 # __Government activity on social media__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of dynamic information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2831.md)
+* [social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_47.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Social media filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1547.md)
 * [Social Network](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1730.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The changes in the effects of social media use of Cypriots due to COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_185.md)
+* [Lack of dynamic information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2831.md)
 
 ## Property: has_MitigationPrinciple
 
 Provide dynamic information regarding urgent issues and increase trust among citizens
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_47.md)
+* [The changes in the effects of social media use of Cypriots due to COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_185.md)
 

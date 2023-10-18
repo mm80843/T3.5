@@ -2,9 +2,9 @@
 
 # __Protective Facilities for Healthcare Workers__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Infection and transmission to healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3275.md)
+* [personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_136.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Stricter protective measures for ICU staff](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_722.md)
 * [Adaptation of healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2005.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The psychological impact of COVID-19 on the mental health in the general population](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_12.md)
+* [Infection and transmission to healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3275.md)
 
 ## Property: has_MitigationPrinciple
 
 Providing healthcare workers with appropriate protective gear such as masks, gloves, and gowns to reduce the risk of infection and transmission while caring for patients with contagious diseases.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_136.md)
+* [The psychological impact of COVID-19 on the mental health in the general population](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_12.md)
 

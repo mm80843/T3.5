@@ -2,9 +2,11 @@
 
 # __Renewable energy__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Reliance on fossil fuels](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3262.md)
+* [solar](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4092.md)
+* [wind](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4093.md)
+* [hydro power](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4094.md)
 
 ## Closest similar item
 
@@ -19,17 +21,15 @@
 * [Incentives for clean energy manufacturing and deployment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1987.md)
 * [Enhancement of energy assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1982.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_58.md)
+* [Reliance on fossil fuels](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3262.md)
 
 ## Property: has_MitigationPrinciple
 
 Promote the use of sustainable and clean energy sources
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [solar](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4092.md)
-* [wind](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4093.md)
-* [hydro power](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4094.md)
+* [COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_58.md)
 

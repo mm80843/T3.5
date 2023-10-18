@@ -2,6 +2,9 @@
 
 # __Maintenance and landscaping equipment__
 
+## This Technology belongs to this TechSubgroup
+
+
 ## Closest similar item
 
 * [Maintenance and landscaping equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2319.md)
@@ -15,14 +18,11 @@
 * [maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3785.md)
 * [routine maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4254.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 
 ## This Technology is identified by the following QID
 
 * [Q1494647](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1494647.md)
-
-## This Technology belongs to this TechGroup
-
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 

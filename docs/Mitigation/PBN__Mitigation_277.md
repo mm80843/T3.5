@@ -2,8 +2,9 @@
 
 # __Desiccant Rotor__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [silica gel desiccant rotor](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3109.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Eviction moratoria](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_269.md)
 * [Delivery Drones](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1445.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Methods for air cleaning and protection of building occupants from airborne pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_240.md)
 
 ## Property: has_MitigationPrinciple
 
 Dehumidifying the air to remove harmful volatile organic compounds (VOCs) and potentially purge airborne pathogens
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [silica gel desiccant rotor](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3109.md)
+* [Methods for air cleaning and protection of building occupants from airborne pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_240.md)
 

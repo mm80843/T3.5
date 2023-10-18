@@ -2,9 +2,9 @@
 
 # __Telehealth for patients__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of healthcare resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3295.md)
+* [telecommunication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4084.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Implement telemedicine services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4138.md)
 * [Strengthen healthcare systems and ensure access to essential healthcare services through telemedicine and mobile clinics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4141.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The role of 5G for digital healthcare against COVID-19 pandemic: Opportunities and challenges](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_9.md)
+* [Lack of healthcare resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3295.md)
 
 ## Property: has_MitigationPrinciple
 
 Remote provision of healthcare services through telecommunication technologies, including remote clinical healthcare, health education, and health administration
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [telecommunication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4084.md)
+* [The role of 5G for digital healthcare against COVID-19 pandemic: Opportunities and challenges](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_9.md)
 

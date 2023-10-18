@@ -2,10 +2,6 @@
 
 # __Enhanced comfort and well-being__
 
-## Name of the Benefit
-
-Designing spaces with adaptable lighting and thermal comfort levels supports various activities and improves occupant health and productivity.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Increased resident satisfaction and productivity, potentially leading to higher tenant retention and increased property value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1485.md)
@@ -17,4 +13,8 @@ Designing spaces with adaptable lighting and thermal comfort levels supports var
 ## Articles mentionning this Benefit
 
 * [How our homes impact our health: using a COVID-19 informed approach to examine urban apartment housing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_279.md)
+
+## Name of the Benefit
+
+Designing spaces with adaptable lighting and thermal comfort levels supports various activities and improves occupant health and productivity.
 

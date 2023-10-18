@@ -2,6 +2,10 @@
 
 # __Air quality monitors__
 
+## This Technology belongs to this TechSubgroup
+
+* [Indoor Environment and Ventilation Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_75.md)
+
 ## Closest similar item
 
 * [Air quality monitors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2514.md)
@@ -14,10 +18,6 @@
 * [indoor air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1487.md)
 * [air pollution monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_233.md)
 * [Air pollution monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2447.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Indoor Environment and Ventilation Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_75.md)
 
 ## This Technology belongs to this TechGroup
 

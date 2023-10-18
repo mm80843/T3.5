@@ -2,7 +2,7 @@
 
 # __Optimal calibration of stockpiles__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
 
 ## Closest similar item
@@ -18,14 +18,14 @@
 * [Reducing heterogeneity of technical standards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1494.md)
 * [Vector control programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1516.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Global value chains: Efficiency and risks in the context of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_60.md)
 
 ## Property: has_MitigationPrinciple
 
 Governments can calibrate stockpiles of essential goods to ensure resilience against supply shocks, balancing the costs and benefits of maintaining these stockpiles.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Global value chains: Efficiency and risks in the context of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_60.md)
 

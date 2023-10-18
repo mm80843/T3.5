@@ -2,9 +2,9 @@
 
 # __Training for healthcare professionals in psychosocial skills__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Mental health issues among healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3032.md)
+* [training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_82.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Psychoeducation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1601.md)
 * [Health education programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2442.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19: The forgotten priorities of the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_236.md)
+* [Mental health issues among healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3032.md)
 
 ## Property: has_MitigationPrinciple
 
 To equip healthcare professionals with the necessary skills to cope with stress and support their own mental wellbeing
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_82.md)
+* [COVID-19: The forgotten priorities of the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_236.md)
 

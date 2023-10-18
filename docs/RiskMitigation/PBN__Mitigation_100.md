@@ -2,9 +2,8 @@
 
 # __Anonymization of data__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2439.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Enforcing data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_574.md)
 * [Data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_99.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [On the Coronavirus (COVID-19) Outbreak and the Smart City Network: Universal Data Sharing Standards Coupled with Artificial Intelligence (AI) to Benefit Urban Health Monitoring and Management](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_280.md)
+* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2439.md)
 
 ## Property: has_MitigationPrinciple
 
 Protect privacy and security of medical data while using technologies like thermal imagery sensors
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [On the Coronavirus (COVID-19) Outbreak and the Smart City Network: Universal Data Sharing Standards Coupled with Artificial Intelligence (AI) to Benefit Urban Health Monitoring and Management](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_280.md)
 

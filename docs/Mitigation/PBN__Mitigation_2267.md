@@ -2,9 +2,9 @@
 
 # __Green New Deal__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Climate change and environmental damage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3405.md)
+* [investments in clean energy and sustainable industries](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4384.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Green stimulus](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1053.md)
 * [Green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1513.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The COVID-19 pandemic: Lessons on building more equal and sustainable societies](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_124.md)
+* [Climate change and environmental damage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3405.md)
 
 ## Property: has_MitigationPrinciple
 
 Implementing a Green New Deal, which includes investments in clean energy and sustainable industries, can address the impact of climate change and contribute to a more environmentally sustainable and resilient post-pandemic world.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [investments in clean energy and sustainable industries](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4384.md)
+* [The COVID-19 pandemic: Lessons on building more equal and sustainable societies](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_124.md)
 

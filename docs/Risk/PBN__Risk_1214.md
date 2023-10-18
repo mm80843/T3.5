@@ -2,21 +2,25 @@
 
 # __Lack of availability of mobility data for most cities__
 
+## Property: has_RiskHealth
+
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Description of the risk
+
+Limited access to large mobility datasets for modeling purposes
+
 ## Property: has_RiskType
 
 * [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 
-## People affected by this risk
+## Articles mentionning the risk
 
-* [population of cities with limited access to mobility datasets](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_730.md)
-
-## Name of the risk
-
-Limited understanding of mobility patterns and their impact on disease spread in most cities
-
-## Property: has_RiskISO_Purpose
-
-* [Social cohesion](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_5.md)
+* [Understanding the role of urban design in disease spreading](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_69.md)
 
 ## Closest similar item
 
@@ -31,37 +35,33 @@ Limited understanding of mobility patterns and their impact on disease spread in
 * [Lack of spatial variety and privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_952.md)
 * [Lack of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2698.md)
 
-## Description of the risk
+## People affected by this risk
 
-Limited access to large mobility datasets for modeling purposes
-
-## Technologies linked to the risk
-
-* [data analysis and modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_299.md)
-
-## Property: has_RiskHealth
-
-* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
-
-## Mitigations of this risk
-
-* [Develop alternative methods to infer mobility patterns using census and economic data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1666.md)
-
-## Articles mentionning the risk
-
-* [Understanding the role of urban design in disease spreading](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_69.md)
+* [population of cities with limited access to mobility datasets](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_730.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
 ## Stakeholders who can mitigate this risk
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
 * [urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_125.md)
+
+## Name of the risk
+
+Limited understanding of mobility patterns and their impact on disease spread in most cities
+
+## Mitigations of this risk
+
+* [Develop alternative methods to infer mobility patterns using census and economic data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1666.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Social cohesion](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_5.md)
+
+## Technologies linked to the risk
+
+* [data analysis and modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_299.md)
 

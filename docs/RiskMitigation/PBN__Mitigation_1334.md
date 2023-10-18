@@ -2,9 +2,8 @@
 
 # __Cancelation of mass gatherings__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Transmission among attendees](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3028.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Public and private gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1584.md)
 * [Restrictions on Private Gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_348.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19: The forgotten priorities of the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_236.md)
+* [Transmission among attendees](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3028.md)
 
 ## Property: has_MitigationPrinciple
 
 To prevent large groups of people from gathering in close proximity to each other in events or gatherings
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [COVID-19: The forgotten priorities of the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_236.md)
 

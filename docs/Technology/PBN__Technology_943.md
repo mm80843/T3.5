@@ -2,6 +2,10 @@
 
 # __social support systems__
 
+## Risks linked to this technology
+
+* [Societal and socio-economic gaps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_750.md)
+
 ## Closest similar item
 
 * [social support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3899.md)
@@ -15,15 +19,11 @@
 * [community support groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_75.md)
 * [Community support groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2192.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Societal and socio-economic gaps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_750.md)
+* [Q2297111](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2297111.md)
 
 ## This Technology enables the following mitigations
 
 * [Promoting inclusivity in development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1078.md)
-
-## This Technology is identified by the following QID
-
-* [Q2297111](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2297111.md)
 

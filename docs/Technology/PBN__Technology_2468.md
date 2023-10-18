@@ -2,6 +2,9 @@
 
 # __Technology for disease surveillance and contact tracing__
 
+## This Technology belongs to this TechSubgroup
+
+
 ## Closest similar item
 
 * [Technology for disease surveillance and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2468.md)
@@ -15,14 +18,11 @@
 * [contact tracing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1462.md)
 * [contact tracing software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1068.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
+* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
 
 ## This Technology is identified by the following QID
 
 * [Q3555250](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3555250.md)
-
-## This Technology belongs to this TechGroup
-
-* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
 

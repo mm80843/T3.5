@@ -2,9 +2,9 @@
 
 # __Telepsychiatry__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Breach of confidentiality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3379.md)
+* [telecommunication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3060.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Teleoperation for telemedicine and telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2426.md)
 * [Telemedicine consultation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1721.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Ultra Brief Psychological Interventions for COVID-19 Pandemic: Introduction of a Locally-Adapted Brief Intervention for Mental Health and Psychosocial Support Service](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_258.md)
+* [Breach of confidentiality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3379.md)
 
 ## Property: has_MitigationPrinciple
 
 Delivery of healthcare and exchange of healthcare information for the purpose of providing psychiatric services across distances
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [telecommunication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3060.md)
+* [Ultra Brief Psychological Interventions for COVID-19 Pandemic: Introduction of a Locally-Adapted Brief Intervention for Mental Health and Psychosocial Support Service](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_258.md)
 

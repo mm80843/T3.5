@@ -2,6 +2,14 @@
 
 # __flipped classroom__
 
+## Risks linked to this technology
+
+* [Decreased Exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1262.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Education and Training](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_32.md)
+
 ## Closest similar item
 
 * [Virtual classrooms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2637.md)
@@ -15,19 +23,11 @@
 * [education technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2898.md)
 * [education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_85.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Decreased Exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1262.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Education and Training](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_32.md)
+* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
 
 ## This Technology is identified by the following QID
 
 * [Q80267](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q80267.md)
-
-## This Technology belongs to this TechGroup
-
-* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
 

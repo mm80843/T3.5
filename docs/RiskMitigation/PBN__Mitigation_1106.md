@@ -2,9 +2,10 @@
 
 # __Virus Transmission Simulation__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of validation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2926.md)
+* [diffusion models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3657.md)
+* [contamination values](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3656.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Loading of virus onto glass coverslips](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_253.md)
 * [Design and Disease Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1291.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Designing a Multi-Agent Occupant Simulation System to Support Facility Planning and Analysis for COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_26.md)
+* [Lack of validation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2926.md)
 
 ## Property: has_MitigationPrinciple
 
 Simulate virus transmission through air-based and surface-based interactions, considering the contamination levels and diffusion rates of virus particles in the built environment
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [diffusion models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3657.md)
-* [contamination values](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3656.md)
+* [Designing a Multi-Agent Occupant Simulation System to Support Facility Planning and Analysis for COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_26.md)
 

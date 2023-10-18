@@ -2,10 +2,6 @@
 
 # __COVID-19 Could Leverage a Sustainable Built Environment__
 
-## Title of the article
-
-COVID-19 Could Leverage a Sustainable Built Environment
-
 ## Referenced by other articles
 
 * [The socio-economic implications of the coronavirus pandemic (COVID-19): A review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_135.md)
@@ -19,11 +15,15 @@ COVID-19 Could Leverage a Sustainable Built Environment
 * [Persistence of coronaviruses on inanimate surfaces and their inactivation with biocidal agents](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_233.md)
 * [The COVID-19 pandemic: Considerations for the waste and wastewater services sector](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_229.md)
 
-## Year of publication
-
-2020
-
 ## DOI of the article
 
 10.3390/su12145863
+
+## Title of the article
+
+COVID-19 Could Leverage a Sustainable Built Environment
+
+## Year of publication
+
+2020
 

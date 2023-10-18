@@ -2,10 +2,6 @@
 
 # __Reduction in sedentary behavior__
 
-## Name of the Benefit
-
-Dancing and yoga can be performed in small spaces and provide a form of physical activity that can reduce sedentary behavior and improve mental well-being.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can invest in the development and promotion of exergames and active video games, which can help individuals reduce sedentary behavior and improve their overall health and well-being during quarantine or social isolation.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_980.md)
@@ -18,4 +14,8 @@ Dancing and yoga can be performed in small spaces and provide a form of physical
 ## Articles mentionning this Benefit
 
 * [Staying Physically Active During the Quarantine and Self-Isolation Period for Controlling and Mitigating the COVID-19 Pandemic: A Systematic Overview of the Literature](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_181.md)
+
+## Name of the Benefit
+
+Dancing and yoga can be performed in small spaces and provide a form of physical activity that can reduce sedentary behavior and improve mental well-being.
 

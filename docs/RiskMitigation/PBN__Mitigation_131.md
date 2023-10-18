@@ -2,9 +2,10 @@
 
 # __Adoption of remote working__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Workforce reduction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1085.md)
+* [video conferencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_406.md)
+* [collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_151.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Remote work/telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1551.md)
 * [Remote working](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_950.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Influence between COVID-19 Impacts and Project Stakeholders in Chilean Construction Projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_157.md)
+* [Workforce reduction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1085.md)
 
 ## Property: has_MitigationPrinciple
 
 Allow construction professionals to work remotely, minimizing the risk of infection and reducing the number of workers present on construction sites.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [video conferencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_406.md)
-* [collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_151.md)
+* [Influence between COVID-19 Impacts and Project Stakeholders in Chilean Construction Projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_157.md)
 

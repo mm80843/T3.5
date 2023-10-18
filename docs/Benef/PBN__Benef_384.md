@@ -2,10 +2,6 @@
 
 # __Enhanced targeting of interventions__
 
-## Name of the Benefit
-
-Improve deployment of resources and maximize impact
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Increased likelihood of successful elimination](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_412.md)
@@ -19,4 +15,8 @@ Improve deployment of resources and maximize impact
 ## Articles mentionning this Benefit
 
 * [Integrating rapid risk mapping and mobile phone call record data for strategic malaria elimination planning](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_76.md)
+
+## Name of the Benefit
+
+Improve deployment of resources and maximize impact
 

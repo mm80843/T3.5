@@ -2,10 +2,6 @@
 
 # __Enhanced psychological treatment effectiveness__
 
-## Name of the Benefit
-
-VR can help patients with psychosomatic disturbances by providing a powerful tool for therapy
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved mental health outcomes for patients, leading to reduced psychological distress and improved quality of life.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1249.md)
@@ -18,4 +14,8 @@ VR can help patients with psychosomatic disturbances by providing a powerful too
 ## Articles mentionning this Benefit
 
 * [Significant applications of virtual reality for COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_231.md)
+
+## Name of the Benefit
+
+VR can help patients with psychosomatic disturbances by providing a powerful tool for therapy
 

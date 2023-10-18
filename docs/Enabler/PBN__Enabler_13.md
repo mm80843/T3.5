@@ -2,12 +2,13 @@
 
 # __Robots, Drones & Automated Vehicules__
 
-## Thees blueprints use this enabler
+## Property: has_TechEquivalent
 
-* [Access control, limitation, or lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_7.md)
-* [Reducing contact points](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_15.md)
-* [Animal vectors control measures](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_18.md)
-* [Infection tracking](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_20.md)
+* [Robots, Drones & Automated Vehicules](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4539.md)
+
+## Property: has_BP_EnablerTitle
+
+enabler_014
 
 ## Closest similar item
 
@@ -22,11 +23,10 @@
 * [robotic systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_160.md)
 * [robotics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_161.md)
 
-## Property: has_TechEquivalent
+## Thees blueprints use this enabler
 
-* [Robots, Drones & Automated Vehicules](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4539.md)
-
-## Property: has_BP_EnablerTitle
-
-enabler_014
+* [Access control, limitation, or lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_7.md)
+* [Reducing contact points](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_15.md)
+* [Animal vectors control measures](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_18.md)
+* [Infection tracking](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_20.md)
 

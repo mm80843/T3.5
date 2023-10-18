@@ -2,6 +2,10 @@
 
 # __individuals responsible for indoor environmental quality__
 
+## This Stakeholder is identified by the following QID
+
+* [Q4575211](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4575211.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
@@ -19,15 +23,11 @@
 * [building occupants in environments with high chemical pollutant levels](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1358.md)
 * [people in indoor buildings and spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1529.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Lack of proper environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1142.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Responsible or Working Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_78.md)
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q4575211](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4575211.md)
+* [Lack of proper environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1142.md)
 

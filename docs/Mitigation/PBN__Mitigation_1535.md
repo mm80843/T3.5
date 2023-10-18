@@ -2,9 +2,8 @@
 
 # __Reduced traveling and walking opportunities__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Reduced physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3124.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Internal travel constraints](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1572.md)
 * [Active transportation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1050.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Implications of COVID-19 control measures for diet and physical activity, and lessons for addressing other pandemics facing rapidly urbanising countries](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_68.md)
+* [Reduced physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3124.md)
 
 ## Property: has_MitigationPrinciple
 
 Reduces opportunities for walking and physical activity due to limited traveling, potentially leading to an increased risk of chronic conditions and worsening of health outcomes
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Implications of COVID-19 control measures for diet and physical activity, and lessons for addressing other pandemics facing rapidly urbanising countries](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_68.md)
 

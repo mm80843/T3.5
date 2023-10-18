@@ -2,9 +2,8 @@
 
 # __Ethical guidelines and approvals__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Ethical concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2130.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Normative obligation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2274.md)
 * [Harmonisation guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2066.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [First confirmed detection of SARS-CoV-2 in untreated wastewater in Australia: A proof of concept for the wastewater surveillance of COVID-19 in the community](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_205.md)
+* [Ethical concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2130.md)
 
 ## Property: has_MitigationPrinciple
 
 Adhering to ethical guidelines and obtaining necessary approvals for wastewater monitoring programs involving community surveillance through WBE
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [First confirmed detection of SARS-CoV-2 in untreated wastewater in Australia: A proof of concept for the wastewater surveillance of COVID-19 in the community](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_205.md)
 

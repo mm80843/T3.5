@@ -2,9 +2,8 @@
 
 # __Cultural sensitivity__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of understanding, fear](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3463.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [National and international conversations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2256.md)
 * [Risk Perception](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_398.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Effective Risk Communication for Public Health Emergency: Reflection on the COVID-19 (2019-nCoV) Outbreak in Wuhan, China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_188.md)
+* [Lack of understanding, fear](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3463.md)
 
 ## Property: has_MitigationPrinciple
 
 Designing risk messages that are culturally sensitive and tailored to the specific characteristics of the audience
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Effective Risk Communication for Public Health Emergency: Reflection on the COVID-19 (2019-nCoV) Outbreak in Wuhan, China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_188.md)
 

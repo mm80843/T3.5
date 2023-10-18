@@ -2,9 +2,9 @@
 
 # __Vaccination campaigns__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of herd immunity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2649.md)
+* [vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_828.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Vaccine formulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3.md)
 * [Increased Funding for Vaccine Research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1452.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The socio-economic determinants of COVID-19: A spatial analysis of German county level data](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_40.md)
+* [Lack of herd immunity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2649.md)
 
 ## Property: has_MitigationPrinciple
 
 Vaccination campaigns aim to protect individuals from contracting the disease and contribute to achieving herd immunity.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_828.md)
+* [The socio-economic determinants of COVID-19: A spatial analysis of German county level data](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_40.md)
 

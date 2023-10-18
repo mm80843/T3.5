@@ -2,9 +2,8 @@
 
 # __Development pathways synchronized to the NDCs of the Paris Accord or the findings of the IPCC__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of alignment with global climate goals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3323.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Substantially increase funding for climate and development organizations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1989.md)
 * [Collaboration and convergence research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_663.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Contextualizing the Covid-19 pandemic for a carbon-constrained world: Insights for sustainability transitions, energy justice, and research methodology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_123.md)
+* [Lack of alignment with global climate goals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3323.md)
 
 ## Property: has_MitigationPrinciple
 
 Align development pathways and policies with the goals outlined in the Paris Accord and the findings of the IPCC to ensure a sustainable and low-carbon future
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Contextualizing the Covid-19 pandemic for a carbon-constrained world: Insights for sustainability transitions, energy justice, and research methodology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_123.md)
 

@@ -2,7 +2,7 @@
 
 # __Reducing inequality and poverty__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
 
 ## Closest similar item
@@ -18,14 +18,14 @@
 * [Income](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_399.md)
 * [Promote economic stability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_993.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The COVID-19 pandemic: Lessons on building more equal and sustainable societies](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_124.md)
 
 ## Property: has_MitigationPrinciple
 
 Taking measures to reduce inequality and poverty can address the social and economic disparities highlighted by the pandemic, ensuring that vulnerable populations have access to essential resources and reducing the risk of further health and social crises.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [The COVID-19 pandemic: Lessons on building more equal and sustainable societies](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_124.md)
 

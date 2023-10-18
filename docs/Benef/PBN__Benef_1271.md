@@ -2,10 +2,6 @@
 
 # __Early detection and monitoring__
 
-## Name of the Benefit
-
-IoT sensors can collect patient data, detect early signs of infection, and monitor the health of healthcare workers, while AI can analyze and provide insights for disease control and treatment.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can benefit from investing in IoT and AI technologies by improving the accuracy and speed of disease detection, enabling early intervention, and potentially reducing the spread and impact of COVID-19.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1431.md)
@@ -18,4 +14,8 @@ IoT sensors can collect patient data, detect early signs of infection, and monit
 ## Articles mentionning this Benefit
 
 * [Role of Information Technology in Covid-19 Prevention](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_267.md)
+
+## Name of the Benefit
+
+IoT sensors can collect patient data, detect early signs of infection, and monitor the health of healthcare workers, while AI can analyze and provide insights for disease control and treatment.
 

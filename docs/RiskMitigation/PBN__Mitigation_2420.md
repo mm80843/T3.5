@@ -2,9 +2,9 @@
 
 # __Robot-controlled noncontact UV surface disinfection__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1882.md)
+* [uv light devices (such as px-uv)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4487.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [uv-c disinfection technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2875.md)
 * [UV-C disinfection technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2876.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Combating COVID-19—The role of robotics in managing public health and infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_23.md)
+* [Contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1882.md)
 
 ## Property: has_MitigationPrinciple
 
 Cost-effective, fast, and effective disinfection of high-touch surfaces
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [uv light devices (such as px-uv)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4487.md)
+* [Combating COVID-19—The role of robotics in managing public health and infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_23.md)
 

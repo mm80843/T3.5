@@ -2,6 +2,30 @@
 
 # __Addressing the impact of COVID-19 lockdown on energy use in municipal buildings: A case study in Florianópolis, Brazil__
 
+## Referenced by other articles
+
+* [Occupants’ behavior and activity patterns influencing the energy consumption in the Kuwaiti residences](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_260.md)
+* [Validity of energy social research during and after COVID-19: challenges, considerations, and responses](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_289.md)
+* [A critical analysis of the impacts of COVID-19 on the global economy and ecosystems and opportunities for circular economy strategies](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_344.md)
+* [Covid-19 and the politics of sustainable energy transitions](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_14.md)
+* [Antivirus-built environment: Lessons learned from Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_298.md)
+
+## Short summary of the article
+
+This study examined the impact of the COVID-19 lockdown on the energy consumption of municipal buildings in Florianópolis, Brazil. The analysis focused on administrative buildings, elementary schools, and nursery schools, which experienced a significant reduction in energy use during the lockdown. However, the study found that these buildings still consumed a considerable amount of energy, suggesting a portion of energy use not directly related to occupant presence. The analysis also identified a basal energy use intensity in these buildings, representing the minimum energy required to maintain minimal operation. The study identified the main causes of remaining energy consumption, including stand-by loads, vital loads, and sporadic activity of staff. The findings highlight the need for strategies to reduce energy wastage in buildings and promote energy efficiency in the post-pandemic scenario. The study suggests that changes in building operation, maintenance, and organizational culture can help reduce the basal energy consumption. Implementing energy efficiency measures and understanding the primary factors that influence building energy use are essential for achieving sustainable energy transitions.
+
+## DOI of the article
+
+10.1016/j.scs.2021.102823
+
+## This article points to following mitigation
+
+* [Remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_371.md)
+* [Work-from-home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_703.md)
+* [Energy audits](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_704.md)
+* [Stand-by load](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_705.md)
+* [Behavioral change](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_706.md)
+
 ## Benefits listed in this article
 
 * [Reduction in energy waste](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1345.md)
@@ -12,18 +36,6 @@
 ## Summary of the article
 
 During the COVID-19 pandemic, many buildings were not being used but still used a lot of energy. The study focused on municipal buildings in Florianópolis, Brazil and found that even though the buildings were nearly empty, they still consumed a lot of electricity. The researchers found that some buildings had a "basal energy use intensity," which means they used energy even when no one was there. This could be because of things like appliances left on standby, lights left on for safety, or vital systems that needed to be running. The study suggests that buildings need to be more energy efficient and policies should be put in place to reduce wasted energy.
-
-## Short summary of the article
-
-This study examined the impact of the COVID-19 lockdown on the energy consumption of municipal buildings in Florianópolis, Brazil. The analysis focused on administrative buildings, elementary schools, and nursery schools, which experienced a significant reduction in energy use during the lockdown. However, the study found that these buildings still consumed a considerable amount of energy, suggesting a portion of energy use not directly related to occupant presence. The analysis also identified a basal energy use intensity in these buildings, representing the minimum energy required to maintain minimal operation. The study identified the main causes of remaining energy consumption, including stand-by loads, vital loads, and sporadic activity of staff. The findings highlight the need for strategies to reduce energy wastage in buildings and promote energy efficiency in the post-pandemic scenario. The study suggests that changes in building operation, maintenance, and organizational culture can help reduce the basal energy consumption. Implementing energy efficiency measures and understanding the primary factors that influence building energy use are essential for achieving sustainable energy transitions.
-
-## This article points to following mitigation
-
-* [Remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_371.md)
-* [Work-from-home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_703.md)
-* [Energy audits](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_704.md)
-* [Stand-by load](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_705.md)
-* [Behavioral change](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_706.md)
 
 ## List of risks in an article
 
@@ -37,19 +49,7 @@ This study examined the impact of the COVID-19 lockdown on the energy consumptio
 
 Addressing the impact of COVID-19 lockdown on energy use in municipal buildings: A case study in Florianópolis, Brazil
 
-## Referenced by other articles
-
-* [Occupants’ behavior and activity patterns influencing the energy consumption in the Kuwaiti residences](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_260.md)
-* [Validity of energy social research during and after COVID-19: challenges, considerations, and responses](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_289.md)
-* [A critical analysis of the impacts of COVID-19 on the global economy and ecosystems and opportunities for circular economy strategies](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_344.md)
-* [Covid-19 and the politics of sustainable energy transitions](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_14.md)
-* [Antivirus-built environment: Lessons learned from Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_298.md)
-
 ## Year of publication
 
 2021
-
-## DOI of the article
-
-10.1016/j.scs.2021.102823
 

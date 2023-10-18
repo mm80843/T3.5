@@ -19,6 +19,10 @@
 * [Environmental entities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2706.md)
 * [organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_186.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Environmental Management and Research](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_162.md)
+
 ## Risks that can be mitigated by this stakeholder
 
 * [Environmental Pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1869.md)
@@ -28,8 +32,4 @@
 * [Positive health effects of NPIs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1792.md)
 * [Revenge Pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1870.md)
 * [Decreased concentrations of NO2 and PM2.5](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2386.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Environmental Management and Research](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_162.md)
 

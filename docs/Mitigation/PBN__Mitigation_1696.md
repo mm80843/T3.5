@@ -2,8 +2,9 @@
 
 # __Wi-Fi-based tracking__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [wi-fi](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4019.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Bluetooth-based contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1695.md)
 * [Real-time monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1671.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Mobile Technology Solution for COVID-19: Surveillance and Prevention](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_239.md)
 
 ## Property: has_MitigationPrinciple
 
 Uses Wi-Fi signals for real-time display of epidemic data, allowing users to access information about the risk distribution in their surroundings.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [wi-fi](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4019.md)
+* [Mobile Technology Solution for COVID-19: Surveillance and Prevention](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_239.md)
 

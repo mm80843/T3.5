@@ -2,10 +2,6 @@
 
 # __Enhanced building performance and comfort__
 
-## Name of the Benefit
-
-New materials with improved insulation properties increase energy efficiency, reduce operating costs, and provide a more comfortable indoor environment.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Enhanced building performance leads to cost savings, improved tenant satisfaction and retention, and increased property value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_315.md)
@@ -18,4 +14,8 @@ New materials with improved insulation properties increase energy efficiency, re
 ## Articles mentionning this Benefit
 
 * [Revisiting the built environment: 10 potential development changes and paradigm shifts due to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_59.md)
+
+## Name of the Benefit
+
+New materials with improved insulation properties increase energy efficiency, reduce operating costs, and provide a more comfortable indoor environment.
 

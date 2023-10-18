@@ -2,8 +2,9 @@
 
 # __Demand Response Programs__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [smart home energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3195.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Crisis response leadership programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_902.md)
 * [Rental assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_270.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Coronavirus comes home? Energy use, home energy management, and the social-psychological factors of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_119.md)
 
 ## Property: has_MitigationPrinciple
 
 Change customer electricity-use patterns through time-dependent pricing
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [smart home energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3195.md)
+* [Coronavirus comes home? Energy use, home energy management, and the social-psychological factors of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_119.md)
 

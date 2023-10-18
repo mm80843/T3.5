@@ -2,24 +2,13 @@
 
 # __COVID-19: The forgotten priorities of the pandemic__
 
-## Benefits listed in this article
-
-* [Reduction in health inequalities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_226.md)
-* [Reduction in disease burden](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1132.md)
-* [Reduction in fear and anxiety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1133.md)
-* [Effective decision-making and implementation of preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1134.md)
-* [Reduction in stress and psychological distress](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1135.md)
-* [Improvement in mental health and quality of life](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1136.md)
-* [Reduction in domestic violence and family conflict](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1137.md)
-* [Protection of rights and well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1138.md)
-
-## Summary of the article
-
-The COVID-19 pandemic is a serious disease that has affected many people around the world. It spreads easily from person to person, so we need to take measures to slow down its spread. These measures include things like staying home, washing our hands often, and covering our mouths when we sneeze or cough. We also need to keep a safe distance from others. The pandemic has not only affected people's physical health, but it can also make people feel lonely, anxious, or sad. It's important to stay connected with our friends and family, even if we can't see them in person. There is still a lot we don't know about the virus and how to treat it, so it's important to get information from reliable sources and not believe everything we hear. We also need to take care of our mental health by doing activities we enjoy and talking to someone if we're feeling sad or overwhelmed. It's a challenging time, but if we work together and support each other, we can get through it.
-
 ## Short summary of the article
 
 This article discusses the impact of COVID-19 on various vulnerable populations and the importance of considering their mental wellbeing during the pandemic. The measures taken to reduce the spread of the virus have had wide-reaching impacts on health systems, economies, and societies globally. Social distancing measures have led to increased feelings of depression, anxiety, and indignation, as well as a decrease in positive emotions. Misinformation has also been a significant issue, leading to uncertainty and fear, which can impair quality of life and even increase rates of suicide. Vulnerable populations such as indigenous communities, homeless individuals, migrants, incarcerated individuals, and people with disabilities face additional challenges and health disparities. Healthcare professionals on the frontline are at higher risk of stress, depression, and anxiety disorders. The elderly, individuals with psychiatric disorders, and families living in poor conditions are also significantly affected. Strategies to promote mental health and wellbeing, such as maintaining social connections using technology, restricting news exposure, providing reliable information, and increasing access to mental health services through telemedicine, are recommended. It is essential to prioritize the wellbeing of vulnerable populations and promote cooperation and solidarity to address these challenges.
+
+## DOI of the article
+
+10.1016/j.maturitas.2020.04.004
 
 ## This article points to following mitigation
 
@@ -39,6 +28,21 @@ This article discusses the impact of COVID-19 on various vulnerable populations 
 * [Covering mouth and nose](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1329.md)
 * [Training for healthcare professionals in psychosocial skills](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1340.md)
 
+## Benefits listed in this article
+
+* [Reduction in health inequalities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_226.md)
+* [Reduction in disease burden](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1132.md)
+* [Reduction in fear and anxiety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1133.md)
+* [Effective decision-making and implementation of preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1134.md)
+* [Reduction in stress and psychological distress](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1135.md)
+* [Improvement in mental health and quality of life](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1136.md)
+* [Reduction in domestic violence and family conflict](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1137.md)
+* [Protection of rights and well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1138.md)
+
+## Summary of the article
+
+The COVID-19 pandemic is a serious disease that has affected many people around the world. It spreads easily from person to person, so we need to take measures to slow down its spread. These measures include things like staying home, washing our hands often, and covering our mouths when we sneeze or cough. We also need to keep a safe distance from others. The pandemic has not only affected people's physical health, but it can also make people feel lonely, anxious, or sad. It's important to stay connected with our friends and family, even if we can't see them in person. There is still a lot we don't know about the virus and how to treat it, so it's important to get information from reliable sources and not believe everything we hear. We also need to take care of our mental health by doing activities we enjoy and talking to someone if we're feeling sad or overwhelmed. It's a challenging time, but if we work together and support each other, we can get through it.
+
 ## List of risks in an article
 
 * [Domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1766.md)
@@ -55,8 +59,4 @@ COVID-19: The forgotten priorities of the pandemic
 ## Year of publication
 
 2020
-
-## DOI of the article
-
-10.1016/j.maturitas.2020.04.004
 

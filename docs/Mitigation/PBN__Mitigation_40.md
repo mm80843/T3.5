@@ -2,9 +2,9 @@
 
 # __Applying antimicrobial coatings__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Contagious disease spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2027.md)
+* [antimicrobial coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_789.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Anti-SARS-CoV-2 coating](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_264.md)
 * [Quaternary ammonium polymer coating (SurfaceWise2™)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_842.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Exploring the Non-Medical impacts of Covid-19 using Natural Language Processing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_114.md)
+* [Contagious disease spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2027.md)
 
 ## Property: has_MitigationPrinciple
 
 Coating high touch surfaces to inactivate the virus
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [antimicrobial coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_789.md)
+* [Exploring the Non-Medical impacts of Covid-19 using Natural Language Processing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_114.md)
 

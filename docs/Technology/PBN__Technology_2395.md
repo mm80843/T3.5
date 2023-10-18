@@ -2,6 +2,9 @@
 
 # __Space management software__
 
+## This Technology belongs to this TechSubgroup
+
+
 ## Closest similar item
 
 * [space management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2011.md)
@@ -15,14 +18,11 @@
 * [project management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_130.md)
 * [efficient space planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1048.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 
 ## This Technology is identified by the following QID
 
 * [Q60054001](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q60054001.md)
-
-## This Technology belongs to this TechGroup
-
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 

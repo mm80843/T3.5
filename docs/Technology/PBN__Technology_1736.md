@@ -2,6 +2,10 @@
 
 # __gardens__
 
+## Risks linked to this technology
+
+* [MH1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2196.md)
+
 ## Closest similar item
 
 * [urban gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_621.md)
@@ -15,16 +19,12 @@
 * [gardening spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1785.md)
 * [courtyards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1273.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [MH1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2196.md)
+* [Q1107656](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1107656.md)
 
 ## This Technology enables the following mitigations
 
 * [Incorporating green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2149.md)
 * [Increased greenery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2166.md)
-
-## This Technology is identified by the following QID
-
-* [Q1107656](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1107656.md)
 

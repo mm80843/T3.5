@@ -2,7 +2,7 @@
 
 # __Border control__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
 
 ## Closest similar item
@@ -18,14 +18,14 @@
 * [Food security](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3296.md)
 * [Fragmented governance and limited cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3297.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Response to COVID-19 in Taiwan: Big Data Analytics, New Technology, and Proactive Testing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_24.md)
 
 ## Property: has_MitigationPrinciple
 
 Implements border control measures from the air and sea to prevent the importation of COVID-19 cases
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Response to COVID-19 in Taiwan: Big Data Analytics, New Technology, and Proactive Testing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_24.md)
 

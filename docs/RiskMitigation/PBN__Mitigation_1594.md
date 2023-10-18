@@ -2,8 +2,10 @@
 
 # __Window views, spatial variety and privacy__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_140.md)
+* [views](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3934.md)
 
 ## Closest similar item
 
@@ -18,16 +20,14 @@
 * [Protecting privacy of citizens’ data](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2716.md)
 * [Glazed windows](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_813.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [How our homes impact our health: using a COVID-19 informed approach to examine urban apartment housing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_279.md)
 
 ## Property: has_MitigationPrinciple
 
 Providing unobstructed views of the sky and nature to enhance well-being, promote physiological calming, improve focus, and aid in recovery from illness
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_140.md)
-* [views](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3934.md)
+* [How our homes impact our health: using a COVID-19 informed approach to examine urban apartment housing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_279.md)
 

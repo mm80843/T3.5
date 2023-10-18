@@ -2,9 +2,11 @@
 
 # __Activate rapid response services__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Time limitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2656.md)
+* [databases](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3349.md)
+* [standard operating procedures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3347.md)
+* [skilled team](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3348.md)
 
 ## Closest similar item
 
@@ -19,17 +21,15 @@
 * [Provide mental health support services and hotlines, promote community support systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3888.md)
 * [Implement demand response programs, incentivize load shifting and energy conservation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3889.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Amplifying the role of knowledge translation platforms in the COVID-19 pandemic response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_111.md)
+* [Time limitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2656.md)
 
 ## Property: has_MitigationPrinciple
 
 KT platforms can rapidly respond to urgent requests by delivering relevant and high-quality evidence in short periods of time.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [databases](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3349.md)
-* [standard operating procedures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3347.md)
-* [skilled team](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3348.md)
+* [Amplifying the role of knowledge translation platforms in the COVID-19 pandemic response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_111.md)
 

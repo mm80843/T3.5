@@ -2,6 +2,10 @@
 
 # __Adaptation of existing infrastructure for new uses__
 
+## This Technology belongs to this TechSubgroup
+
+* [Infrastructure and Urban Planning](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_86.md)
+
 ## Closest similar item
 
 * [Adaptation of existing infrastructure for new uses](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2356.md)
@@ -15,15 +19,11 @@
 * [infrastructure redundancy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1595.md)
 * [Infrastructure redundancy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2306.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Infrastructure and Urban Planning](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_86.md)
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 
 ## This Technology is identified by the following QID
 
 * [Q121359](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q121359.md)
-
-## This Technology belongs to this TechGroup
-
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 

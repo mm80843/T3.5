@@ -2,9 +2,10 @@
 
 # __Innovative Solution Identification__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Data Accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3289.md)
+* [data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1069.md)
+* [iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Vulnerability Identification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2181.md)
 * [Integrated Project Delivery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_748.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Internet of things (IoT) applications to fight against COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_295.md)
+* [Data Accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3289.md)
 
 ## Property: has_MitigationPrinciple
 
 Identifies innovative solutions through data analysis and helps in planning and decision-making
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1069.md)
-* [iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
+* [Internet of things (IoT) applications to fight against COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_295.md)
 

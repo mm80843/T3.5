@@ -2,6 +2,10 @@
 
 # __healthcare staff__
 
+## This Stakeholder is identified by the following QID
+
+* [Q69948433](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q69948433.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
@@ -37,8 +41,4 @@
 * [Improved communication](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_455.md)
 * [Professional networking](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_456.md)
 * [Prevention of vertical transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1088.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q69948433](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q69948433.md)
 

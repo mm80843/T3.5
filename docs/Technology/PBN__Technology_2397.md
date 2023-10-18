@@ -2,6 +2,9 @@
 
 # __Safe navigation apps__
 
+## This Technology belongs to this TechSubgroup
+
+
 ## Closest similar item
 
 * [Safe navigation apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2397.md)
@@ -15,14 +18,11 @@
 * [mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3470.md)
 * [user-friendly applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4159.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 
 ## This Technology is identified by the following QID
 
 * [Q1433992](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1433992.md)
-
-## This Technology belongs to this TechGroup
-
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 

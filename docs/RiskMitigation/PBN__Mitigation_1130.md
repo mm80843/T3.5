@@ -2,8 +2,9 @@
 
 # __Simulation software tools__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [anylogic](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3680.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [GIS tools for mapping and tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1246.md)
 * [Vector control programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1516.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Building occupancy estimation with people flow modeling in AnyLogic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_29.md)
 
 ## Property: has_MitigationPrinciple
 
 Simulating people behaviors and flow in buildings to improve occupancy estimation accuracy.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [anylogic](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3680.md)
+* [Building occupancy estimation with people flow modeling in AnyLogic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_29.md)
 

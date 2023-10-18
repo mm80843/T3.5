@@ -19,11 +19,6 @@
 * [health care provider](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1875.md)
 * [healthcare agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_543.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Inequality of access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1232.md)
-* [Risk of infection through face-to-face contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_849.md)
-
 ## Risk affecting this stakeholder
 
 * [Risk of infection through face-to-face contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_849.md)
@@ -35,4 +30,9 @@
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Cost savings in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_899.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Inequality of access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1232.md)
+* [Risk of infection through face-to-face contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_849.md)
 

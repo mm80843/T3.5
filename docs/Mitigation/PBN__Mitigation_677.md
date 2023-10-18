@@ -2,9 +2,9 @@
 
 # __Active transportation infrastructure__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Higher COVID-19 mortality rate](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2682.md)
+* [cycling and pedestrian infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4499.md)
 
 ## Closest similar item
 
@@ -19,16 +19,16 @@
 * [Decline in car-based transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_416.md)
 * [Suspension of public transport](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2100.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Urban design attributes and resilience: COVID-19 evidence from New York City](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_6.md)
-* [Treating two pandemics for the price of one: Chronic and infectious disease impacts of the built and natural environment](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_174.md)
+* [Higher COVID-19 mortality rate](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2682.md)
 
 ## Property: has_MitigationPrinciple
 
 Investing in active transportation infrastructure, such as walking and cycling infrastructure, can encourage physical activity and reduce the risk of obesity and chronic diseases, leading to lower mortality rates from COVID-19.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [cycling and pedestrian infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4499.md)
+* [Urban design attributes and resilience: COVID-19 evidence from New York City](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_6.md)
+* [Treating two pandemics for the price of one: Chronic and infectious disease impacts of the built and natural environment](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_174.md)
 

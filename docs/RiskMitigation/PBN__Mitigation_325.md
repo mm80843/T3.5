@@ -2,8 +2,10 @@
 
 # __TCID50 assay__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [human host cells](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3155.md)
+* [infection medium](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3156.md)
 
 ## Closest similar item
 
@@ -18,16 +20,14 @@
 * [Infectious disease monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4.md)
 * [ASTM E1153 Method](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_854.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Far-UVC light (222 nm) efficiently and safely inactivates airborne human coronaviruses](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_182.md)
 
 ## Property: has_MitigationPrinciple
 
 The assay measures virus infectivity by assessing cytopathic effects in host cells after exposure to different doses of far-UVC light.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [human host cells](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3155.md)
-* [infection medium](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3156.md)
+* [Far-UVC light (222 nm) efficiently and safely inactivates airborne human coronaviruses](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_182.md)
 

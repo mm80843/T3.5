@@ -2,10 +2,6 @@
 
 # __Smart cities beyond COVID-19__
 
-## Year of publication
-
-2021
-
 ## Title of the article
 
 Smart cities beyond COVID-19
@@ -13,4 +9,8 @@ Smart cities beyond COVID-19
 ## DOI of the article
 
 10.1016/B978-0-12-818886-6.00016-2
+
+## Year of publication
+
+2021
 

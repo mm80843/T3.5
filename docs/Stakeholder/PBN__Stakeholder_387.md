@@ -2,6 +2,13 @@
 
 # __transportation__
 
+## This Stakeholder can get these Benefits from mitigation measures
+
+
+## This Stakeholder is identified by the following QID
+
+* [Q96622169](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q96622169.md)
+
 ## Closest similar item
 
 * [public transportation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_188.md)
@@ -14,11 +21,4 @@
 * [transport authority](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1624.md)
 * [transportation company](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1963.md)
 * [transportation authority](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1620.md)
-
-## This Stakeholder can get these Benefits from mitigation measures
-
-
-## This Stakeholder is identified by the following QID
-
-* [Q96622169](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q96622169.md)
 

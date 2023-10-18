@@ -2,6 +2,16 @@
 
 # __public places__
 
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Reduction in virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_917.md)
+* [Safer and more effective disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_919.md)
+* [Prolonged antimicrobial activity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_920.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q294440](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q294440.md)
+
 ## Closest similar item
 
 * [public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_682.md)
@@ -14,14 +24,4 @@
 * [visitors to public places](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_767.md)
 * [public and users of public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_37.md)
 * [public buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_189.md)
-
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Reduction in virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_917.md)
-* [Safer and more effective disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_919.md)
-* [Prolonged antimicrobial activity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_920.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q294440](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q294440.md)
 

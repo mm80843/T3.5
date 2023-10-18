@@ -2,9 +2,8 @@
 
 # __Broad-spectrum antiviral drugs__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Emerging infectious pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3444.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Therapeutic Drugs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_763.md)
 * [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1409.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Current knowledge of COVID-19: Advances, challenges and future perspectives](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_118.md)
+* [Emerging infectious pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3444.md)
 
 ## Property: has_MitigationPrinciple
 
 Develops drugs that are effective against a wide range of pathogens
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Current knowledge of COVID-19: Advances, challenges and future perspectives](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_118.md)
 

@@ -2,9 +2,9 @@
 
 # __Neighborhood Isolation__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Local Disease Diffusion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3280.md)
+* [neighborhood control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4135.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Partial Isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1918.md)
 * [Self-isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_439.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The Socio-Spatial Determinants of COVID-19 Diffusion: The Impact of Globalisation, Settlement Characteristics and Population](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_175.md)
+* [Local Disease Diffusion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3280.md)
 
 ## Property: has_MitigationPrinciple
 
 Restrict movement within neighborhoods to prevent spread
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [neighborhood control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4135.md)
+* [The Socio-Spatial Determinants of COVID-19 Diffusion: The Impact of Globalisation, Settlement Characteristics and Population](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_175.md)
 

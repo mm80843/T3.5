@@ -21,11 +21,6 @@
 * [housing providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1903.md)
 * [property owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_177.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Increase in neighbour noise during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1632.md)
-* [Increased annoyance from neighbour noise in flats during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1635.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Tenants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_65.md)
@@ -35,4 +30,9 @@
 
 * [Energy efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_154.md)
 * [Accessible and actionable data](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_802.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Increase in neighbour noise during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1632.md)
+* [Increased annoyance from neighbour noise in flats during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1635.md)
 

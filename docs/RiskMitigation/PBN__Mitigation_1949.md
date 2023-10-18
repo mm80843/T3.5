@@ -2,9 +2,10 @@
 
 # __Privacy protection issues__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Unauthorized access to personal data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3299.md)
+* [privacy-by-design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1579.md)
+* [software defined privacy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4155.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Implement encryption, anonymity, and biometrics, establish clear data control policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4171.md)
 * [Personal data security](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4172.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The role of 5G for digital healthcare against COVID-19 pandemic: Opportunities and challenges](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_9.md)
+* [Unauthorized access to personal data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3299.md)
 
 ## Property: has_MitigationPrinciple
 
 Implementation of privacy protection measures, such as Privacy-by-Design and software-defined privacy, to safeguard personal information and prevent unauthorized access to sensitive user data
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [privacy-by-design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1579.md)
-* [software defined privacy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4155.md)
+* [The role of 5G for digital healthcare against COVID-19 pandemic: Opportunities and challenges](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_9.md)
 

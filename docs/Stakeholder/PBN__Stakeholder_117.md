@@ -2,6 +2,10 @@
 
 # __wildlife__
 
+## This Stakeholder is identified by the following QID
+
+* [Q241741](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q241741.md)
+
 ## Closest similar item
 
 * [urban wildlife](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_890.md)
@@ -24,8 +28,4 @@
 
 * [Improved well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_153.md)
 * [Protection of wildlife](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_201.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q241741](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q241741.md)
 

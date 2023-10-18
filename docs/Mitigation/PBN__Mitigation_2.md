@@ -2,6 +2,26 @@
 
 # __Social distancing__
 
+## This Mitigation is enabled by the following technologies
+
+* [public awareness and education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4071.md)
+* [wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3189.md)
+* [iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
+* [physical space](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3089.md)
+
+## Closest similar item
+
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2.md)
+* [social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2493.md)
+* [social distancing rule](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2494.md)
+* [social distancing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2495.md)
+* [social distancing apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2496.md)
+* [Social distancing apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2497.md)
+* [distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2498.md)
+* [physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2499.md)
+* [Physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_192.md)
+* [signage for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2500.md)
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Transmission of disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2765.md)
@@ -27,18 +47,9 @@
 * [Reduced human contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3380.md)
 * [User acceptance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2544.md)
 
-## Closest similar item
+## Property: has_MitigationPrinciple
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2.md)
-* [social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2493.md)
-* [social distancing rule](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2494.md)
-* [social distancing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2495.md)
-* [social distancing apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2496.md)
-* [Social distancing apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2497.md)
-* [distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2498.md)
-* [physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2499.md)
-* [Physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_192.md)
-* [signage for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2500.md)
+Minimize close contact and maintain physical distance to reduce the spread of the disease
 
 ## Property: has_MitigationSource
 
@@ -82,15 +93,4 @@
 * [How loneliness is talked about in social media during COVID-19 pandemic: Text mining of 4,492 Twitter feeds](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_190.md)
 * [Compliance with COVID-19 Mitigation Measures in the United States](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_253.md)
 * [Perception of COVID-19 impacts on the construction industry over time](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_293.md)
-
-## Property: has_MitigationPrinciple
-
-Minimize close contact and maintain physical distance to reduce the spread of the disease
-
-## This Mitigation is enabled by the following technologies
-
-* [public awareness and education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4071.md)
-* [wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3189.md)
-* [iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
-* [physical space](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3089.md)
 

@@ -2,8 +2,9 @@
 
 # __Increase distance between spaces__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [spatial layout and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3567.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Levels of indoor space adjustability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2144.md)
 * [Creating flexible and adaptable spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_482.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Architectural Design Drives the Biogeography of Indoor Bacterial Communities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_52.md)
 
 ## Property: has_MitigationPrinciple
 
 Increasing the physical distance between spaces to reduce the transmission of contagious diseases
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [spatial layout and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3567.md)
+* [Architectural Design Drives the Biogeography of Indoor Bacterial Communities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_52.md)
 

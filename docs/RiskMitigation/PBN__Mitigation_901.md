@@ -2,9 +2,9 @@
 
 # __Collaboration and knowledge sharing__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of access to best practices and knowledge](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2805.md)
+* [cross-sector collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3529.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [International collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1090.md)
 * [Collaboration and convergence research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_663.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The impact of COVID-19 outbreak on United Kingdom infrastructure sector](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_141.md)
+* [Lack of access to best practices and knowledge](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2805.md)
 
 ## Property: has_MitigationPrinciple
 
 Enables sharing of best practices and knowledge between different sectors to effectively manage COVID-19-related challenges
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [cross-sector collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3529.md)
+* [The impact of COVID-19 outbreak on United Kingdom infrastructure sector](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_141.md)
 

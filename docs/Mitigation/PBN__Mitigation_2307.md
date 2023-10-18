@@ -2,9 +2,9 @@
 
 # __Schema matching__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [High false positive rate](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3414.md)
+* [ontology matching](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4399.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Enhancing data quality verification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1634.md)
 * [Data intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_58.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Construction of a Linked Data Set of COVID-19 Knowledge Graphs: Development and Applications](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_28.md)
+* [High false positive rate](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3414.md)
 
 ## Property: has_MitigationPrinciple
 
 Align schema-level knowledge between KGs to promote integration and sharing of COVID-19 knowledge.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [ontology matching](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4399.md)
+* [Construction of a Linked Data Set of COVID-19 Knowledge Graphs: Development and Applications](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_28.md)
 

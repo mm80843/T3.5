@@ -2,6 +2,10 @@
 
 # __mosquito-resistant alternative building materials__
 
+## This Technology belongs to this TechSubgroup
+
+* [Infectious Agents Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_187.md)
+
 ## Closest similar item
 
 * [investigate material science to develop mosquito-resistant alternative building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1195.md)
@@ -15,15 +19,11 @@
 * [mosquito control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2963.md)
 * [building material technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1109.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Infectious Agents Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_187.md)
+* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
 
 ## This Technology is identified by the following QID
 
 * [Q51506993](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q51506993.md)
-
-## This Technology belongs to this TechGroup
-
-* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
 

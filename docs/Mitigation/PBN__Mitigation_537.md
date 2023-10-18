@@ -2,9 +2,8 @@
 
 # __Respiratory etiquette__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Respiratory droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2506.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Maintaining optimum ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1848.md)
 * [Proper Building Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1777.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [A Platform for Citizen Cooperation during the COVID-19 Pandemic in RN, Brazil](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_46.md)
+* [Respiratory droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2506.md)
 
 ## Property: has_MitigationPrinciple
 
 Covering mouth and nose while coughing or sneezing can prevent the spread of respiratory droplets containing infectious agents.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [A Platform for Citizen Cooperation during the COVID-19 Pandemic in RN, Brazil](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_46.md)
 

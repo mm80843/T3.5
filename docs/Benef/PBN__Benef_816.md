@@ -2,10 +2,6 @@
 
 # __Early detection and monitoring of pathogens__
 
-## Name of the Benefit
-
-Biosensors can quickly detect waterborne pathogens, monitor disease outbreaks
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved disease surveillance, faster response to outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_884.md)
@@ -18,4 +14,8 @@ Biosensors can quickly detect waterborne pathogens, monitor disease outbreaks
 ## Articles mentionning this Benefit
 
 * [Water and wastewater digital surveillance for monitoring and early detection of the COVID-19 hotspot: industry 4.0](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_162.md)
+
+## Name of the Benefit
+
+Biosensors can quickly detect waterborne pathogens, monitor disease outbreaks
 

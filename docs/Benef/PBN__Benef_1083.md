@@ -2,10 +2,6 @@
 
 # __Adaptive design approach__
 
-## Name of the Benefit
-
-Enables future adaptability and responsiveness to changing needs and circumstances
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Increased longevity of buildings, reduced need for future renovations](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1210.md)
@@ -18,4 +14,8 @@ Enables future adaptability and responsiveness to changing needs and circumstanc
 ## Articles mentionning this Benefit
 
 * [Building Transformation for Precautionary Measures against COVID-19 Pandemic: Case of Off-Street Car Parking of Campuses](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_224.md)
+
+## Name of the Benefit
+
+Enables future adaptability and responsiveness to changing needs and circumstances
 

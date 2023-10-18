@@ -2,9 +2,9 @@
 
 # __Prevention of panic__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Panic buying and hoarding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2792.md)
+* [accurate and calm communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3516.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Health and prevention measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_28.md)
 * [Shelter and Safety](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1296.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Coronavirus disease 2019: The harms of exaggerated information and non‐evidence‐based measures](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_101.md)
+* [Panic buying and hoarding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2792.md)
 
 ## Property: has_MitigationPrinciple
 
 Providing accurate and calm communication to prevent panic buying and hoarding of essential supplies, such as face masks and protective gear, which can lead to shortages and deprive healthcare professionals of necessary resources.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [accurate and calm communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3516.md)
+* [Coronavirus disease 2019: The harms of exaggerated information and non‐evidence‐based measures](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_101.md)
 

@@ -2,6 +2,10 @@
 
 # __Diagnostic testing__
 
+## This Technology belongs to this TechSubgroup
+
+* [Preventive Measures and Public Health Initiatives](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_24.md)
+
 ## Closest similar item
 
 * [Diagnostic testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2272.md)
@@ -15,15 +19,11 @@
 * [diagnostic testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3512.md)
 * [diagnostic tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_611.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Preventive Measures and Public Health Initiatives](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_24.md)
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
 
 ## This Technology is identified by the following QID
 
 * [Q1762591](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1762591.md)
-
-## This Technology belongs to this TechGroup
-
-* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
 

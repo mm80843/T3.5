@@ -2,9 +2,9 @@
 
 # __Carbon pricing__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Climate change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_894.md)
+* [carbon accounting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3330.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Renewable energy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1827.md)
 * [Life Cycle Cost Analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_746.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Building up an ecologically sustainable and socially desirable post-COVID-19 future](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_5.md)
+* [Climate change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_894.md)
 
 ## Property: has_MitigationPrinciple
 
 Encourage the reduction of greenhouse gas emissions by assigning a monetary value to carbon
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [carbon accounting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3330.md)
+* [Building up an ecologically sustainable and socially desirable post-COVID-19 future](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_5.md)
 

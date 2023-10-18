@@ -2,9 +2,10 @@
 
 # __Building resilient food systems__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Food insecurity and poor-quality diets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_777.md)
+* [innovative demand and supply-side initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2951.md)
+* [context-specific initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2950.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Building resilience measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3438.md)
 * [Enhance system resilience, diversify dependencies, and establish backup systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3439.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19 pandemic and mitigation strategies: implications for maternal and child health and nutrition](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_222.md)
+* [Food insecurity and poor-quality diets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_777.md)
 
 ## Property: has_MitigationPrinciple
 
 Implement innovative strategies to strengthen food supply chains, support local food markets, and ensure access to nutritious food in vulnerable communities.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [innovative demand and supply-side initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2951.md)
-* [context-specific initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2950.md)
+* [COVID-19 pandemic and mitigation strategies: implications for maternal and child health and nutrition](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_222.md)
 

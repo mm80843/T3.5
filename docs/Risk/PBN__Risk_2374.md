@@ -2,22 +2,25 @@
 
 # __Lack of qualified staff for testing__
 
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Description of the risk
+
+During a major outbreak, there may be a shortage of qualified staff to collect and process test samples.
+
 ## Property: has_RiskType
 
 * [health](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_4.md)
 
-## People affected by this risk
+## Articles mentionning the risk
 
-* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
-* [medical staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_93.md)
-
-## Name of the risk
-
-Delays in testing and diagnosis
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+* [Combating COVID-19—The role of robotics in managing public health and infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_23.md)
 
 ## Closest similar item
 
@@ -32,36 +35,33 @@ Delays in testing and diagnosis
 * [Lack of protection for staff](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1171.md)
 * [Lack of medical staff training for COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_820.md)
 
-## Description of the risk
+## People affected by this risk
 
-During a major outbreak, there may be a shortage of qualified staff to collect and process test samples.
-
-## Technologies linked to the risk
-
-* [robot-assisted swabbing and blood testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1986.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Mitigations of this risk
-
-* [Robot-assisted swabbing and blood testing can speed up the process and free up staff for other tasks.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3083.md)
-
-## Articles mentionning the risk
-
-* [Combating COVID-19—The role of robotics in managing public health and infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_23.md)
+* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
+* [medical staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_93.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Culture and collective identity](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_13.md)
 
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
 ## Stakeholders who can mitigate this risk
 
 * [medical laboratories](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1580.md)
 * [healthcare institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_269.md)
+
+## Name of the risk
+
+Delays in testing and diagnosis
+
+## Mitigations of this risk
+
+* [Robot-assisted swabbing and blood testing can speed up the process and free up staff for other tasks.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3083.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Technologies linked to the risk
+
+* [robot-assisted swabbing and blood testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1986.md)
 

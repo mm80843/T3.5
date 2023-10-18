@@ -19,11 +19,6 @@
 * [healthcare workforce](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_207.md)
 * [health care personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1064.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Transmission of coronaviruses from contaminated surfaces to hands](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1551.md)
-* [Ineffective disease screening and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1800.md)
-
 ## Risk affecting this stakeholder
 
 * [Spread of SARS-COV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1728.md)
@@ -222,4 +217,9 @@
 * [Efficient transportation and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1268.md)
 * [Contactless delivery and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1270.md)
 * [Early detection and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1271.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Transmission of coronaviruses from contaminated surfaces to hands](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1551.md)
+* [Ineffective disease screening and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1800.md)
 

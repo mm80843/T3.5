@@ -2,7 +2,7 @@
 
 # __Closure of schools and entertainment venues__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
 
 ## Closest similar item
@@ -18,14 +18,14 @@
 * [School and university closure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_667.md)
 * [School and Workplace Closings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1381.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [An investigation of transmission control measures during the first 50 days of the COVID-19 epidemic in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_197.md)
 
 ## Property: has_MitigationPrinciple
 
 Closure of schools and entertainment venues to prevent large gatherings and reduce the risk of virus transmission
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [An investigation of transmission control measures during the first 50 days of the COVID-19 epidemic in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_197.md)
 

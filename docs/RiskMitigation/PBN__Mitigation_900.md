@@ -2,9 +2,9 @@
 
 # __Increased communication__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of clarity and understanding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2804.md)
+* [communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_168.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Proper communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_872.md)
 * [Clear communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_594.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The impact of COVID-19 outbreak on United Kingdom infrastructure sector](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_141.md)
+* [Lack of clarity and understanding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2804.md)
 
 ## Property: has_MitigationPrinciple
 
 Ensures clear and effective communication between team members and stakeholders to address challenges and mitigate risks
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_168.md)
+* [The impact of COVID-19 outbreak on United Kingdom infrastructure sector](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_141.md)
 

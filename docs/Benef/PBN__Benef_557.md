@@ -2,10 +2,6 @@
 
 # __Improved cleanliness__
 
-## Name of the Benefit
-
-Cleaner and more sanitary environment, reduces risk of infection
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Increased perception of safety, encourages more passengers to use public transport](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_611.md)
@@ -17,4 +13,8 @@ Cleaner and more sanitary environment, reduces risk of infection
 ## Articles mentionning this Benefit
 
 * [Mobility Behaviour in View of the Impact of the COVID-19 Pandemic—Public Transport Users in Gdansk Case Study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_113.md)
+
+## Name of the Benefit
+
+Cleaner and more sanitary environment, reduces risk of infection
 

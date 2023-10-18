@@ -2,9 +2,9 @@
 
 # __Sound insulation__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Neighbour annoyance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2921.md)
+* [soundproofing materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_119.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Portable Acoustic Partitions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1961.md)
 * [Proper insulation maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1422.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Attitudes towards outdoor and neighbour noise during the COVID-19 lockdown: A case study in London](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_247.md)
+* [Neighbour annoyance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2921.md)
 
 ## Property: has_MitigationPrinciple
 
 Improving the sound insulation of buildings to reduce neighbour noise
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [soundproofing materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_119.md)
+* [Attitudes towards outdoor and neighbour noise during the COVID-19 lockdown: A case study in London](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_247.md)
 

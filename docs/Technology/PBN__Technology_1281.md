@@ -2,6 +2,14 @@
 
 # __stress management techniques__
 
+## Risks linked to this technology
+
+* [Emotional distress from quarantine and isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1899.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Mental Health Support](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_63.md)
+
 ## Closest similar item
 
 * [stress management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1284.md)
@@ -15,19 +23,11 @@
 * [Crisis management protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2509.md)
 * [Time management techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2038.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Emotional distress from quarantine and isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1899.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Mental Health Support](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_63.md)
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 
 ## This Technology is identified by the following QID
 
 * [Q1404268](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1404268.md)
-
-## This Technology belongs to this TechGroup
-
-* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 

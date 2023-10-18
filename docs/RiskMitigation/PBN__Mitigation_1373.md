@@ -2,8 +2,9 @@
 
 # __Java language__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [java programming language](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3825.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Sequence annotation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2220.md)
 * [Internet-based applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1694.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Risk Diagnosis and Mitigation System of COVID-19 Using Expert System and Web Scraping](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_237.md)
 
 ## Property: has_MitigationPrinciple
 
 Supports the web scraping process and data retrieval from websites.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [java programming language](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3825.md)
+* [Risk Diagnosis and Mitigation System of COVID-19 Using Expert System and Web Scraping](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_237.md)
 

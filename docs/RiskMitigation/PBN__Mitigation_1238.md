@@ -2,7 +2,7 @@
 
 # __Home Isolation__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
 
 ## Closest similar item
@@ -18,14 +18,14 @@
 * [Neighborhood Isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1915.md)
 * [Isolation/quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1387.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The impact of physical activity on psychological health during Covid-19 pandemic in Italy](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_18.md)
 
 ## Property: has_MitigationPrinciple
 
 Staying at home to prevent exposure to the virus and reduce the risk of transmission.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [The impact of physical activity on psychological health during Covid-19 pandemic in Italy](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_18.md)
 

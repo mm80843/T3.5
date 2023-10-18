@@ -2,9 +2,9 @@
 
 # __Improved Testing__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Underestimation risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2860.md)
+* [improved diagnostic testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3584.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Testing and Diagnosis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1648.md)
 * [Lower testing frequency](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1625.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The effect of human mobility and control measures on the COVID-19 epidemic in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_248.md)
+* [Underestimation risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2860.md)
 
 ## Property: has_MitigationPrinciple
 
 Increasing rates of diagnostic testing for better detection and management
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [improved diagnostic testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3584.md)
+* [The effect of human mobility and control measures on the COVID-19 epidemic in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_248.md)
 

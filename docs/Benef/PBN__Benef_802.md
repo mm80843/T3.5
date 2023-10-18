@@ -2,10 +2,6 @@
 
 # __Accessible and actionable data__
 
-## Name of the Benefit
-
-The IEQAnalytics web service provides users with real-time data and performance metrics, enabling them to make informed decisions and take action to improve IEQ
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investing in the IEQAnalytics web service improves decision-making and helps optimize building operations, leading to increased tenant satisfaction and productivity.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_871.md)
@@ -19,4 +15,8 @@ The IEQAnalytics web service provides users with real-time data and performance 
 ## Articles mentionning this Benefit
 
 * [Continuous IEQ monitoring system: Context and development](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_160.md)
+
+## Name of the Benefit
+
+The IEQAnalytics web service provides users with real-time data and performance metrics, enabling them to make informed decisions and take action to improve IEQ
 

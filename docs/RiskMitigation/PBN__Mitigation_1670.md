@@ -2,9 +2,10 @@
 
 # __Continuous data collection__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Insufficient data for analysis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3206.md)
+* [iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
+* [sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Data aggregation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2404.md)
 * [Data curation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2061.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [An Automated System to Limit COVID-19 Using Facial Mask Detection in Smart City Network](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_265.md)
+* [Insufficient data for analysis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3206.md)
 
 ## Property: has_MitigationPrinciple
 
 Collect data from various sources (sensors, trackers, laboratories) for analysis and decision-making in controlling the spread of the virus
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
-* [sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
+* [An Automated System to Limit COVID-19 Using Facial Mask Detection in Smart City Network](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_265.md)
 

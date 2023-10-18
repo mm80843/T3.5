@@ -2,6 +2,10 @@
 
 # __vaccine manufacturers__
 
+## This Stakeholder is identified by the following QID
+
+* [Q1335294](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1335294.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
@@ -19,14 +23,10 @@
 * [medical equipment manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_548.md)
 * [device manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1435.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Inadequate vaccine efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1911.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q1335294](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1335294.md)
+* [Inadequate vaccine efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1911.md)
 

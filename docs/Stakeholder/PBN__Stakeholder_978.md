@@ -2,6 +2,10 @@
 
 # __historians__
 
+## This Stakeholder is identified by the following QID
+
+* [Q201788](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q201788.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
@@ -19,15 +23,11 @@
 * [scientists and researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_355.md)
 * [scientist](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1862.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Comparison to the 1918 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1524.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Workers/Professionals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_47.md)
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q201788](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q201788.md)
+* [Comparison to the 1918 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1524.md)
 

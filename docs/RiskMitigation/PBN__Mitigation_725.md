@@ -2,9 +2,12 @@
 
 # __Effective disinfection techniques for roundworms__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Survival and contamination of Baylisascaris procyonis roundworm eggs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2706.md)
+* [disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_413.md)
+* [freezing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3406.md)
+* [heat](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3404.md)
+* [desiccation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3405.md)
 
 ## Closest similar item
 
@@ -19,18 +22,15 @@
 * [Self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_840.md)
 * [Cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_935.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Aerosol and Surface Distribution of Severe Acute Respiratory Syndrome Coronavirus 2 in Hospital Wards, Wuhan, China, 2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_263.md)
+* [Survival and contamination of Baylisascaris procyonis roundworm eggs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2706.md)
 
 ## Property: has_MitigationPrinciple
 
 Develop effective disinfection techniques for Baylisascaris procyonis roundworm eggs to control the spread of baylisascariasis
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_413.md)
-* [freezing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3406.md)
-* [heat](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3404.md)
-* [desiccation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3405.md)
+* [Aerosol and Surface Distribution of Severe Acute Respiratory Syndrome Coronavirus 2 in Hospital Wards, Wuhan, China, 2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_263.md)
 

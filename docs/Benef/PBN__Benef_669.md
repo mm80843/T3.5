@@ -2,10 +2,6 @@
 
 # __Increased citizen cooperation and trust__
 
-## Name of the Benefit
-
-Engaging communities in control policies increases support and participation, leading to more effective disease prevention and control
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors benefit from a healthier and more cooperative community, which can lead to increased property values and a safer environment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_715.md)
@@ -18,4 +14,8 @@ Engaging communities in control policies increases support and participation, le
 ## Articles mentionning this Benefit
 
 * [Global policy challenges for urban vector-borne disease risks](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_132.md)
+
+## Name of the Benefit
+
+Engaging communities in control policies increases support and participation, leading to more effective disease prevention and control
 

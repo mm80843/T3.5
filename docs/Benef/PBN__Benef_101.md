@@ -2,10 +2,6 @@
 
 # __Effective disinfection__
 
-## Name of the Benefit
-
-Cost-effective, fast, and effective disinfection, reducing exposure risk and improving cleanliness of high-touch surfaces
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved asset value and reduced healthcare-associated infections](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_99.md)
@@ -17,4 +13,8 @@ Cost-effective, fast, and effective disinfection, reducing exposure risk and imp
 ## Articles mentionning this Benefit
 
 * [Combating COVID-19—The role of robotics in managing public health and infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_23.md)
+
+## Name of the Benefit
+
+Cost-effective, fast, and effective disinfection, reducing exposure risk and improving cleanliness of high-touch surfaces
 

@@ -2,10 +2,6 @@
 
 # __Improved thermal insulation__
 
-## Name of the Benefit
-
-Enhances energy efficiency and comfort in adapted spaces
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Reduced energy costs, improved user comfort](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1203.md)
@@ -18,4 +14,8 @@ Enhances energy efficiency and comfort in adapted spaces
 ## Articles mentionning this Benefit
 
 * [Building Transformation for Precautionary Measures against COVID-19 Pandemic: Case of Off-Street Car Parking of Campuses](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_224.md)
+
+## Name of the Benefit
+
+Enhances energy efficiency and comfort in adapted spaces
 

@@ -2,9 +2,13 @@
 
 # __Visualization__
 
-## Thees blueprints use this enabler
+## Property: has_TechEquivalent
 
-* [Tender support at building stage](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_9.md)
+* [Visualization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4531.md)
+
+## Property: has_BP_EnablerTitle
+
+enabler_004
 
 ## Closest similar item
 
@@ -19,11 +23,7 @@
 * [supply chain mapping and visualization tools](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_70.md)
 * [data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_57.md)
 
-## Property: has_TechEquivalent
+## Thees blueprints use this enabler
 
-* [Visualization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4531.md)
-
-## Property: has_BP_EnablerTitle
-
-enabler_004
+* [Tender support at building stage](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_9.md)
 

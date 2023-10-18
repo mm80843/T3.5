@@ -2,6 +2,14 @@
 
 # __efficient gas distribution__
 
+## Risks linked to this technology
+
+* [Inadequate infrastructure systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1696.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Infrastructure and Urban Planning](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_86.md)
+
 ## Closest similar item
 
 * [advanced air distribution systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3115.md)
@@ -15,19 +23,11 @@
 * [energy-efficient systems and technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1893.md)
 * [Energy-efficient HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2363.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Inadequate infrastructure systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1696.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Infrastructure and Urban Planning](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_86.md)
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 
 ## This Technology is identified by the following QID
 
 * [Q909363](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q909363.md)
-
-## This Technology belongs to this TechGroup
-
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 

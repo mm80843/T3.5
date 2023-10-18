@@ -2,6 +2,10 @@
 
 # __Automation technologies__
 
+## This Technology belongs to this TechSubgroup
+
+* [Internet of Things (IoT) and Smart Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_94.md)
+
 ## Closest similar item
 
 * [Automation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2863.md)
@@ -14,10 +18,6 @@
 * [automation in production and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1633.md)
 * [smart technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4518.md)
 * [testing automation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_783.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Internet of Things (IoT) and Smart Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_94.md)
 
 ## This Technology belongs to this TechGroup
 

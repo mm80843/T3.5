@@ -2,9 +2,10 @@
 
 # __Use of another isolation hospital__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Shortage of nursing staff](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_357.md)
+* [benchmark plan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3456.md)
+* [knowledge sharing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3457.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Isolation prevention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1472.md)
 * [Isolation and quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2225.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Management of the COVID-19 pandemic: challenges, practices, and organizational support](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_92.md)
+* [Shortage of nursing staff](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_357.md)
 
 ## Property: has_MitigationPrinciple
 
 Use the plan of another isolated hospital as a benchmark to guide the development of the crisis plan for COVID-19 management.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [benchmark plan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3456.md)
-* [knowledge sharing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3457.md)
+* [Management of the COVID-19 pandemic: challenges, practices, and organizational support](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_92.md)
 

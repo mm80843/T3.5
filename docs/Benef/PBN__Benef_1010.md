@@ -2,10 +2,6 @@
 
 # __Enhanced data comparability__
 
-## Name of the Benefit
-
-Consistent and standardized data terminologies, facilitating data sharing and integration
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Facilitate data analysis and data mining for valuable insights into disease processes](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1124.md)
@@ -18,4 +14,8 @@ Consistent and standardized data terminologies, facilitating data sharing and in
 ## Articles mentionning this Benefit
 
 * [Data capture and sharing in the COVID-19 pandemic: a cause for concern](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_208.md)
+
+## Name of the Benefit
+
+Consistent and standardized data terminologies, facilitating data sharing and integration
 

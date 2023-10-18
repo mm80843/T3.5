@@ -2,9 +2,8 @@
 
 # __Minimize number of people__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Airborne and direct transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3040.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Crowd control measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1087.md)
 * [Social gathering restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2438.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [How can airborne transmission of COVID-19 indoors be minimised?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_121.md)
+* [Airborne and direct transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3040.md)
 
 ## Property: has_MitigationPrinciple
 
 Reduces the concentration of virus-laden particles by decreasing the number of people who can be exposed at any given time, limiting the risk of airborne and direct transmission
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [How can airborne transmission of COVID-19 indoors be minimised?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_121.md)
 

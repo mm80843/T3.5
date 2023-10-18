@@ -2,6 +2,10 @@
 
 # __ppe__
 
+## Risks linked to this technology
+
+* [Concerns about health and safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2000.md)
+
 ## Closest similar item
 
 * [ppe supply](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4107.md)
@@ -15,17 +19,13 @@
 * [PPE equipment and supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2595.md)
 * [manufacturing and supply chain of ppe](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_797.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Concerns about health and safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2000.md)
+* [Q1031865](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1031865.md)
 
 ## This Technology enables the following mitigations
 
 * [Personal Protective Equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_555.md)
 * [Personal protective equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_62.md)
 * [Implementation of safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_130.md)
-
-## This Technology is identified by the following QID
-
-* [Q1031865](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1031865.md)
 

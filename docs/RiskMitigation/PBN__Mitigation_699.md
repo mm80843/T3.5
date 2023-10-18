@@ -2,8 +2,9 @@
 
 # __Sensor integration__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [sensor integration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_644.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Integration of IoT and AI Technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_188.md)
 * [Continuous monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_698.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [An Intelligent IEQ Monitoring and Feedback System: Development and Applications](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_62.md)
 
 ## Property: has_MitigationPrinciple
 
 Integrate multiple sensors into a single device to monitor various IEQ parameters simultaneously
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [sensor integration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_644.md)
+* [An Intelligent IEQ Monitoring and Feedback System: Development and Applications](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_62.md)
 

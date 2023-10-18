@@ -2,6 +2,14 @@
 
 # __virtual learning platforms__
 
+## Risks linked to this technology
+
+* [Inadequate social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2146.md)
+* [Inadequate education and training](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1983.md)
+
+## This Technology belongs to this TechSubgroup
+
+
 ## Closest similar item
 
 * [virtual learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1422.md)
@@ -15,23 +23,15 @@
 * [virtual training tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_815.md)
 * [Virtual classrooms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2637.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Inadequate social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2146.md)
-* [Inadequate education and training](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1983.md)
-
-## This Technology belongs to this TechSubgroup
-
-
-## This Technology enables the following mitigations
-
-* [Distance learning/training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_615.md)
+* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
 
 ## This Technology is identified by the following QID
 
 * [Q2349394](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2349394.md)
 
-## This Technology belongs to this TechGroup
+## This Technology enables the following mitigations
 
-* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
+* [Distance learning/training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_615.md)
 

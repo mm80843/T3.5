@@ -2,6 +2,10 @@
 
 # __Online counseling__
 
+## This Technology belongs to this TechSubgroup
+
+* [Mental Health Support](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_63.md)
+
 ## Closest similar item
 
 * [Online counseling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2193.md)
@@ -15,15 +19,11 @@
 * [Digital platforms for counseling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2649.md)
 * [online mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1242.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Mental Health Support](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_63.md)
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 
 ## This Technology is identified by the following QID
 
 * [Q3555418](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3555418.md)
-
-## This Technology belongs to this TechGroup
-
-* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 

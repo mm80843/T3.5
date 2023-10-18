@@ -2,6 +2,10 @@
 
 # __remote working technology__
 
+## Risks linked to this technology
+
+* [Travel-related transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1034.md)
+
 ## Closest similar item
 
 * [remote work technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_286.md)
@@ -15,16 +19,12 @@
 * [technology for remote communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3558.md)
 * [remote healthcare technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1099.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Travel-related transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1034.md)
+* [Q1135326](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1135326.md)
 
 ## This Technology enables the following mitigations
 
 * [Working from home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_892.md)
 * [Reduction in commercial building occupancy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_953.md)
-
-## This Technology is identified by the following QID
-
-* [Q1135326](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1135326.md)
 

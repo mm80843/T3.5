@@ -2,6 +2,11 @@
 
 # __Security systems__
 
+## This Technology belongs to this TechSubgroup
+
+* [Surveillance and Tracking Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_21.md)
+* [Security Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_133.md)
+
 ## Closest similar item
 
 * [Security systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2506.md)
@@ -14,11 +19,6 @@
 * [smart systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3256.md)
 * [surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_0.md)
 * [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2434.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Surveillance and Tracking Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_21.md)
-* [Security Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_133.md)
 
 ## This Technology belongs to this TechGroup
 

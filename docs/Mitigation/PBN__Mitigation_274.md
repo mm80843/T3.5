@@ -2,8 +2,11 @@
 
 # __Dilution__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [mechanical](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3105.md)
+* [natural](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3104.md)
+* [and hybrid ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3106.md)
 
 ## Closest similar item
 
@@ -18,17 +21,14 @@
 * [Implement measures to reduce patient overcrowding, such as increasing healthcare facility capacity or redirecting patients to different facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2781.md)
 * [Implement measures to reduce population density, such as decentralization and expanding horizontally](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2782.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Methods for air cleaning and protection of building occupants from airborne pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_240.md)
 
 ## Property: has_MitigationPrinciple
 
 Supplying clean air to the room to decrease the risk of infections and reduce the concentration of contaminants through increased air change rates
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [mechanical](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3105.md)
-* [natural](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3104.md)
-* [and hybrid ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3106.md)
+* [Methods for air cleaning and protection of building occupants from airborne pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_240.md)
 

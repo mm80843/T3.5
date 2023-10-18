@@ -2,9 +2,10 @@
 
 # __Physical removal of solid residues__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Poor removal of SARS-CoV-2 fragments in wastewater treatment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3429.md)
+* [ultrafiltration units](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4432.md)
+* [centrifugation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4431.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_840.md)
 * [Urban Solid Waste Management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_500.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Detection of SARS-CoV-2 in raw and treated wastewater in Germany – Suitability for COVID-19 surveillance and potential transmission risks](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_0.md)
+* [Poor removal of SARS-CoV-2 fragments in wastewater treatment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3429.md)
 
 ## Property: has_MitigationPrinciple
 
 Reduces the concentration of viral RNA in the solid phase of wastewater
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [ultrafiltration units](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4432.md)
-* [centrifugation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4431.md)
+* [Detection of SARS-CoV-2 in raw and treated wastewater in Germany – Suitability for COVID-19 surveillance and potential transmission risks](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_0.md)
 

@@ -2,6 +2,16 @@
 
 # __architects__
 
+## Risks linked to this technology
+
+* [Revisions in density and compact design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_246.md)
+* [Spatial planning considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_247.md)
+* [Smaller and individual internal layouts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_248.md)
+* [New opportunities for non-centralized building systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_250.md)
+
+## This Technology belongs to this TechSubgroup
+
+
 ## Closest similar item
 
 * [architecture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3431.md)
@@ -15,21 +25,11 @@
 * [Interior designers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2333.md)
 * [architectural design and building technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1107.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Revisions in density and compact design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_246.md)
-* [Spatial planning considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_247.md)
-* [Smaller and individual internal layouts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_248.md)
-* [New opportunities for non-centralized building systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_250.md)
-
-## This Technology belongs to this TechSubgroup
-
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 
 ## This Technology is identified by the following QID
 
 * [Q4787002](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4787002.md)
-
-## This Technology belongs to this TechGroup
-
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 

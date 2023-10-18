@@ -2,9 +2,9 @@
 
 # __Remote work for office workers__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Exposure to virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3144.md)
+* [virtual meeting platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3925.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Adaptation to remote work technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2359.md)
 * [Remote working](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_950.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Impacts of COVID-19 on Health and Safety of Workforce in Construction Industry](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_49.md)
+* [Exposure to virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3144.md)
 
 ## Property: has_MitigationPrinciple
 
 Encourage office workers to work remotely and utilize virtual meetings to reduce physical interaction
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [virtual meeting platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3925.md)
+* [Impacts of COVID-19 on Health and Safety of Workforce in Construction Industry](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_49.md)
 

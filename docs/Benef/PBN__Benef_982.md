@@ -2,10 +2,6 @@
 
 # __Disease control__
 
-## Name of the Benefit
-
-Promoting hygiene practices such as hand washing and sanitization reduces the transmission of infectious diseases, protecting individuals and communities.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Reduced healthcare costs and](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1081.md)
@@ -20,4 +16,8 @@ Promoting hygiene practices such as hand washing and sanitization reduces the tr
 
 * [An Overview of Biomedical Ontologies for Pandemics and Infectious Diseases Representation](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_204.md)
 * [COVID19-Routes: A Safe Pedestrian Navigation Service](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_201.md)
+
+## Name of the Benefit
+
+Promoting hygiene practices such as hand washing and sanitization reduces the transmission of infectious diseases, protecting individuals and communities.
 

@@ -2,9 +2,9 @@
 
 # __Isolate and Test__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Spread from outside](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3149.md)
+* [testing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3933.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Rapid Isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1016.md)
 * [Enhanced isolation of suspected cases](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1273.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Effect of non-pharmaceutical interventions in the early phase of the COVID-19 epidemic in Saudi Arabia](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_84.md)
+* [Spread from outside](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3149.md)
 
 ## Property: has_MitigationPrinciple
 
 Identifying and isolating infected individuals
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [testing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3933.md)
+* [Effect of non-pharmaceutical interventions in the early phase of the COVID-19 epidemic in Saudi Arabia](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_84.md)
 

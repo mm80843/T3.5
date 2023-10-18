@@ -2,9 +2,10 @@
 
 # __Presence of green spaces and natural elements__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of greenery and natural elements](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2955.md)
+* [green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_146.md)
+* [balconies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1009.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Urban Green Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1202.md)
 * [Access to green space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_50.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Biophilic Design to Enhance Residence Comfort in Covid Era](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_179.md)
+* [Lack of greenery and natural elements](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2955.md)
 
 ## Property: has_MitigationPrinciple
 
 Green spaces and natural elements should be incorporated into the built environment to provide visual and sensory connections to nature, promoting mental and physical well-being.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_146.md)
-* [balconies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1009.md)
+* [Biophilic Design to Enhance Residence Comfort in Covid Era](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_179.md)
 

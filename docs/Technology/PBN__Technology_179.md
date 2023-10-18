@@ -2,6 +2,13 @@
 
 # __multimodal device development__
 
+## Risks linked to this technology
+
+* [Dependence on limited physiological information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1113.md)
+
+## This Technology belongs to this TechSubgroup
+
+
 ## Closest similar item
 
 * [multimodal devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3023.md)
@@ -15,18 +22,11 @@
 * [wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3189.md)
 * [monitoring devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1745.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Dependence on limited physiological information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1113.md)
-
-## This Technology belongs to this TechSubgroup
-
+* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
 
 ## This Technology is identified by the following QID
 
 * [Q738567](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q738567.md)
-
-## This Technology belongs to this TechGroup
-
-* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
 

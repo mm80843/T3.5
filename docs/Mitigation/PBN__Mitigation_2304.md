@@ -2,8 +2,10 @@
 
 # __Biological methods__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4396.md)
+* [microorganisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4395.md)
 
 ## Closest similar item
 
@@ -18,16 +20,14 @@
 * [Phylogenetic analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2396.md)
 * [Bricolage Approach](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1020.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Characterization and performance evaluation of a full-scale activated carbon-based dynamic botanical air filtration system for improving indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_71.md)
 
 ## Property: has_MitigationPrinciple
 
 Using microorganisms and plants to remove indoor volatile organic compounds (VOCs)
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4396.md)
-* [microorganisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4395.md)
+* [Characterization and performance evaluation of a full-scale activated carbon-based dynamic botanical air filtration system for improving indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_71.md)
 

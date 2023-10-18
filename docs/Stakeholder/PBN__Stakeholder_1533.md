@@ -19,11 +19,11 @@
 * [social protection agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1870.md)
 * [employment agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1250.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Bioterrorism threats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2299.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Security and Law Enforcement](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_167.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Bioterrorism threats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2299.md)
 

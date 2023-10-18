@@ -2,6 +2,14 @@
 
 # __infographics__
 
+## Risks linked to this technology
+
+* [Misinterpretation of preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1828.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Educational and Training Resources](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_39.md)
+
 ## Closest similar item
 
 * [Visualization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4531.md)
@@ -14,14 +22,6 @@
 * [data visualization platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3435.md)
 * [3d visualization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3654.md)
 * [information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_437.md)
-
-## Risks linked to this technology
-
-* [Misinterpretation of preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1828.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Educational and Training Resources](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_39.md)
 
 ## This Technology belongs to this TechGroup
 

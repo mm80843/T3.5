@@ -2,9 +2,8 @@
 
 # __Addressing the impact on the informal street economy__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Economic recession for informal workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2747.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Income](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_399.md)
 * [Pedestrianized streets](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_313.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The Impact of COVID-19 on Public Space: A Review of the Emerging Questions](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_261.md)
+* [Economic recession for informal workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2747.md)
 
 ## Property: has_MitigationPrinciple
 
 Develop strategies to support and regulate the informal street economy, taking into account the livelihoods of street vendors and other informal workers
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [The Impact of COVID-19 on Public Space: A Review of the Emerging Questions](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_261.md)
 

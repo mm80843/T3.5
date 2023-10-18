@@ -2,10 +2,6 @@
 
 # __Reduction in domestic violence and family conflict__
 
-## Name of the Benefit
-
-Measures to prevent conflict and domestic violence within households can protect vulnerable individuals, especially children and women, from harm and improve overall family well-being.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors investing in measures to reduce domestic violence can benefit from improved social stability, reduced strain on healthcare and social support systems, and potential economic growth through promoting safer communities.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1270.md)
@@ -19,4 +15,8 @@ Measures to prevent conflict and domestic violence within households can protect
 ## Articles mentionning this Benefit
 
 * [COVID-19: The forgotten priorities of the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_236.md)
+
+## Name of the Benefit
+
+Measures to prevent conflict and domestic violence within households can protect vulnerable individuals, especially children and women, from harm and improve overall family well-being.
 

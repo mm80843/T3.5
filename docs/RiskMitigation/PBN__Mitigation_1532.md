@@ -2,9 +2,9 @@
 
 # __Increase cooking and eating at home__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Unavailability and increased costs of healthy foods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3122.md)
+* [cooking appliances](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3911.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Interruption of access to food for children from households dependent on school-feeding programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1533.md)
 * [Food Parcels and Free Meals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1453.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Implications of COVID-19 control measures for diet and physical activity, and lessons for addressing other pandemics facing rapidly urbanising countries](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_68.md)
+* [Unavailability and increased costs of healthy foods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3122.md)
 
 ## Property: has_MitigationPrinciple
 
 Encourages individuals to prepare meals at home, providing an opportunity for healthier food choices but may result in a shift to more unhealthy processed food consumption due to limited access and higher costs of healthier foods
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [cooking appliances](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3911.md)
+* [Implications of COVID-19 control measures for diet and physical activity, and lessons for addressing other pandemics facing rapidly urbanising countries](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_68.md)
 

@@ -2,6 +2,13 @@
 
 # __advanced supply chain management systems__
 
+## Risks linked to this technology
+
+* [Supply chain disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1400.md)
+
+## This Technology belongs to this TechSubgroup
+
+
 ## Closest similar item
 
 * [supply chain management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_110.md)
@@ -15,18 +22,11 @@
 * [supply chain management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_639.md)
 * [Supply chain management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2347.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Supply chain disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1400.md)
-
-## This Technology belongs to this TechSubgroup
-
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 
 ## This Technology is identified by the following QID
 
 * [Q492886](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q492886.md)
-
-## This Technology belongs to this TechGroup
-
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 

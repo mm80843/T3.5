@@ -2,10 +2,6 @@
 
 # __Reduced pressure on secondary services__
 
-## Name of the Benefit
-
-Closing non-essential public places reduces the pressure on secondary services and facilities, allowing for a more focused allocation of resources to essential urban systems and primary services. This improves overall efficiency and effectiveness.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors investing in this measure would benefit from reduced operational costs, increased focus on primary services, and potential repurposing of secondary public places for essential uses.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_349.md)
@@ -18,4 +14,8 @@ Closing non-essential public places reduces the pressure on secondary services a
 ## Articles mentionning this Benefit
 
 * [10 Adaptive Measures for Public Places to face the COVID 19 Pandemic Outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_63.md)
+
+## Name of the Benefit
+
+Closing non-essential public places reduces the pressure on secondary services and facilities, allowing for a more focused allocation of resources to essential urban systems and primary services. This improves overall efficiency and effectiveness.
 

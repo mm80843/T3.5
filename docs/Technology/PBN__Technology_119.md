@@ -2,19 +2,6 @@
 
 # __soundproofing materials__
 
-## Closest similar item
-
-* [soundproofing materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_119.md)
-* [soundproof materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4358.md)
-* [soundproofing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1834.md)
-* [sound insulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3048.md)
-* [sound-absorbing materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_198.md)
-* [acoustic materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_378.md)
-* [sound masking devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3648.md)
-* [Acoustic panels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2666.md)
-* [acoustic panels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_190.md)
-* [acoustic technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3371.md)
-
 ## Risks linked to this technology
 
 * [Poor Housing Quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1078.md)
@@ -29,17 +16,30 @@
 * [Acoustic Solutions](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_81.md)
 * [Indoor Environmental Quality](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_79.md)
 
-## This Technology enables the following mitigations
+## Closest similar item
 
-* [Sound insulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1098.md)
-* [Implementing sound insulation measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_485.md)
-
-## This Technology is identified by the following QID
-
-* [Q589260](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q589260.md)
+* [soundproofing materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_119.md)
+* [soundproof materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4358.md)
+* [soundproofing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1834.md)
+* [sound insulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3048.md)
+* [sound-absorbing materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_198.md)
+* [acoustic materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_378.md)
+* [sound masking devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3648.md)
+* [Acoustic panels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2666.md)
+* [acoustic panels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_190.md)
+* [acoustic technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3371.md)
 
 ## This Technology belongs to this TechGroup
 
 * [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 * [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_12.md)
+
+## This Technology is identified by the following QID
+
+* [Q589260](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q589260.md)
+
+## This Technology enables the following mitigations
+
+* [Sound insulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1098.md)
+* [Implementing sound insulation measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_485.md)
 

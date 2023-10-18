@@ -2,8 +2,11 @@
 
 # __SAMBA__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [web service](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3932.md)
+* [wireless communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3174.md)
+* [hardware](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3931.md)
 
 ## Closest similar item
 
@@ -18,17 +21,14 @@
 * [Drive-through windows](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1840.md)
 * [Data Sharing Initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1323.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Continuous IEQ monitoring system: Context and development](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_160.md)
 
 ## Property: has_MitigationPrinciple
 
 Low-cost, pervasive indoor environmental quality monitoring system for commercial office buildings
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [web service](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3932.md)
-* [wireless communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3174.md)
-* [hardware](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3931.md)
+* [Continuous IEQ monitoring system: Context and development](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_160.md)
 

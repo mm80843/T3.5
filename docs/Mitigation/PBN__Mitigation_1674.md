@@ -2,9 +2,9 @@
 
 # __Driverless vehicles__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of monitoring capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3211.md)
+* [driverless vehicles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3999.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Pedestrian and cycling facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1162.md)
 * [Active transportation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1050.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [An Automated System to Limit COVID-19 Using Facial Mask Detection in Smart City Network](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_265.md)
+* [Lack of monitoring capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3211.md)
 
 ## Property: has_MitigationPrinciple
 
 Use driverless vehicles for monitoring scenarios and enforcing regulations in the city during the pandemic
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [driverless vehicles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3999.md)
+* [An Automated System to Limit COVID-19 Using Facial Mask Detection in Smart City Network](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_265.md)
 

@@ -2,6 +2,10 @@
 
 # __portable air cleaners__
 
+## This Technology belongs to this TechSubgroup
+
+* [Purification and Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_88.md)
+
 ## Closest similar item
 
 * [use of portable air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_679.md)
@@ -15,15 +19,11 @@
 * [portable air filtration devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3249.md)
 * [air extractors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4275.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Purification and Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_88.md)
+* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_13.md)
 
 ## This Technology is identified by the following QID
 
 * [Q1196206](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1196206.md)
-
-## This Technology belongs to this TechGroup
-
-* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_13.md)
 

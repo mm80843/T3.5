@@ -2,6 +2,10 @@
 
 # __government agencies__
 
+## This Stakeholder is identified by the following QID
+
+* [Q327333](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q327333.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
@@ -18,6 +22,36 @@
 * [government support](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2744.md)
 * [government communications](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2765.md)
 * [healthcare authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_452.md)
+
+## Risk affecting this stakeholder
+
+* [Technological limitations and dependencies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2100.md)
+* [Lack of data sharing and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1076.md)
+* [Lack of Infrastructure for 5G Network](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1103.md)
+* [Fragmented governance and lack of cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2063.md)
+* [Governance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1099.md)
+* [Data security breaches](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2101.md)
+* [Underreporting of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1506.md)
+* [Reliance on digital platforms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1371.md)
+* [Lack of Legislation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1102.md)
+* [Lack of public trust](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_741.md)
+* [Cost of Setup and Operation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1104.md)
+* [Scalability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1101.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Government and Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_8.md)
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [System protection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_71.md)
+* [Proper data management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_73.md)
+* [Control and governance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_74.md)
+* [Improved emergency response and public health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_299.md)
+* [Verifiable and secure data](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1053.md)
+* [Improved guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1082.md)
+* [Secure data sharing and transparency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1094.md)
+* [Streamlined crisis management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1204.md)
 
 ## Risks that can be mitigated by this stakeholder
 
@@ -100,38 +134,4 @@
 * [Declining yields on treasury instruments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1978.md)
 * [Lack of healthcare information in property management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2046.md)
 * [Lack of redundancy in supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2154.md)
-
-## Risk affecting this stakeholder
-
-* [Technological limitations and dependencies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2100.md)
-* [Lack of data sharing and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1076.md)
-* [Lack of Infrastructure for 5G Network](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1103.md)
-* [Fragmented governance and lack of cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2063.md)
-* [Governance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1099.md)
-* [Data security breaches](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2101.md)
-* [Underreporting of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1506.md)
-* [Reliance on digital platforms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1371.md)
-* [Lack of Legislation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1102.md)
-* [Lack of public trust](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_741.md)
-* [Cost of Setup and Operation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1104.md)
-* [Scalability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1101.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Government and Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_8.md)
-
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [System protection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_71.md)
-* [Proper data management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_73.md)
-* [Control and governance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_74.md)
-* [Improved emergency response and public health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_299.md)
-* [Verifiable and secure data](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1053.md)
-* [Improved guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1082.md)
-* [Secure data sharing and transparency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1094.md)
-* [Streamlined crisis management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1204.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q327333](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q327333.md)
 

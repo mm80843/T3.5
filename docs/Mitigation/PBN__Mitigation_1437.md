@@ -2,8 +2,9 @@
 
 # __Monitoring wastewater__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [analytical genomic approaches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3877.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Testing urological wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2002.md)
 * [Longitudinal analysis of wastewater samples](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2414.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [nghiem_covid-19_2020 nghiem_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_308.md)
 
 ## Property: has_MitigationPrinciple
 
 Using wastewater monitoring to obtain information on SARS-CoV-2 incidence within populations and inform public health policy responses
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [analytical genomic approaches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3877.md)
+* [nghiem_covid-19_2020 nghiem_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_308.md)
 

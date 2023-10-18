@@ -2,9 +2,8 @@
 
 # __Spatial distancing__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Close contact with infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3025.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Local strategies for isolation and physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2382.md)
 * [Social Distancing Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_521.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19: The forgotten priorities of the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_236.md)
+* [Close contact with infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3025.md)
 
 ## Property: has_MitigationPrinciple
 
 To maintain a physical distance from others to minimize the risk of virus transmission
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [COVID-19: The forgotten priorities of the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_236.md)
 

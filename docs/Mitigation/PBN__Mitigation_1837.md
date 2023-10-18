@@ -2,8 +2,10 @@
 
 # __Implement Policies for Paid Sick Leave__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [workplace policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4098.md)
+* [government legislation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4097.md)
 
 ## Closest similar item
 
@@ -18,16 +20,14 @@
 * [Rights-based approach to public health](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1540.md)
 * [Protection of healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2249.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Mental health economics: A prospective study on psychological flourishing and associations with healthcare costs and sickness benefit transfers in Denmark](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_189.md)
 
 ## Property: has_MitigationPrinciple
 
 Implement policies that guarantee paid sick leave to ensure that individuals can take time off from work when they are unwell without financial hardship.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [workplace policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4098.md)
-* [government legislation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4097.md)
+* [Mental health economics: A prospective study on psychological flourishing and associations with healthcare costs and sickness benefit transfers in Denmark](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_189.md)
 

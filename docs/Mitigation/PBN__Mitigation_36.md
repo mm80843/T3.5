@@ -2,9 +2,11 @@
 
 # __Global Containment Strategy__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Uncertainty](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2417.md)
+* [temperature screening](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_25.md)
+* [travel advisories](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_26.md)
+* [quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2914.md)
 
 ## Closest similar item
 
@@ -19,17 +21,15 @@
 * [Global Response](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_692.md)
 * [Enhanced regulation of global corporations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2265.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Overview of the mitigation strategies for COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_86.md)
+* [Uncertainty](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2417.md)
 
 ## Property: has_MitigationPrinciple
 
 Implement targeted community intervention and containment measures to delay the spread of COVID-19 until drugs and vaccines are available
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [temperature screening](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_25.md)
-* [travel advisories](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_26.md)
-* [quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2914.md)
+* [Overview of the mitigation strategies for COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_86.md)
 

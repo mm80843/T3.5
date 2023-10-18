@@ -2,6 +2,10 @@
 
 # __UV germicidal irradiation__
 
+## This Technology belongs to this TechSubgroup
+
+* [Purification and Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_88.md)
+
 ## Closest similar item
 
 * [UV germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2689.md)
@@ -15,15 +19,11 @@
 * [uv-c irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3088.md)
 * [germicidal ultraviolet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1144.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Purification and Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_88.md)
+* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_13.md)
 
 ## This Technology is identified by the following QID
 
 * [Q11391](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11391.md)
-
-## This Technology belongs to this TechGroup
-
-* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_13.md)
 

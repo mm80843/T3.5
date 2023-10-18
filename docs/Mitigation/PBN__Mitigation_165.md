@@ -2,8 +2,10 @@
 
 # __Multimodal and Multiplexed Measurements__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [multimodal devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3023.md)
+* [multiplexed measurements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3024.md)
 
 ## Closest similar item
 
@@ -18,16 +20,14 @@
 * [Real-time Data Capture](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_914.md)
 * [Mobile temperature measurement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2373.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Wearable devices for the detection of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_296.md)
 
 ## Property: has_MitigationPrinciple
 
 Improving the performance of individual sensors by combining different transducers and evaluating analytes simultaneously
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [multimodal devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3023.md)
-* [multiplexed measurements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3024.md)
+* [Wearable devices for the detection of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_296.md)
 

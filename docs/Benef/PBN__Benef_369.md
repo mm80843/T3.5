@@ -2,10 +2,6 @@
 
 # __Enhanced collaboration__
 
-## Name of the Benefit
-
-Early contractor involvement, improved communication and decision-making, shared risk and reward
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved project performance, reduced conflicts, increased asset value](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_396.md)
@@ -19,4 +15,8 @@ Early contractor involvement, improved communication and decision-making, shared
 ## Articles mentionning this Benefit
 
 * [Overcoming the Impact of COVID-19 Using Integrated Project Delivery Model](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_72.md)
+
+## Name of the Benefit
+
+Early contractor involvement, improved communication and decision-making, shared risk and reward
 

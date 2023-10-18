@@ -2,10 +2,6 @@
 
 # __Minimized contact and exposure__
 
-## Name of the Benefit
-
-Reduces the risk of transmission between officers
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors investing in this measure would benefit from reduced liability and legal risks, as well as improved officer morale and job satisfaction.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_276.md)
@@ -17,4 +13,8 @@ Reduces the risk of transmission between officers
 ## Articles mentionning this Benefit
 
 * [Reframe how to serve your community in the midst of a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_53.md)
+
+## Name of the Benefit
+
+Reduces the risk of transmission between officers
 

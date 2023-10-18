@@ -2,8 +2,10 @@
 
 # __Urban Planning and Design Policies__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [urban design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3430.md)
+* [architecture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3431.md)
 
 ## Closest similar item
 
@@ -18,16 +20,14 @@
 * [Horizontal urban development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2428.md)
 * [Governance of urban space to improve access to neighborhood resources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1539.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Respiratory pandemics, urban planning and design: A multidisciplinary rapid review of the literature](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_133.md)
 
 ## Property: has_MitigationPrinciple
 
 Incorporating public health considerations into urban planning and design to mitigate disease spread
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [urban design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3430.md)
-* [architecture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3431.md)
+* [Respiratory pandemics, urban planning and design: A multidisciplinary rapid review of the literature](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_133.md)
 

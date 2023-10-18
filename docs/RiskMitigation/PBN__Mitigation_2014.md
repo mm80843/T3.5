@@ -2,8 +2,9 @@
 
 # __UV-C Cupboards__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [uv-c light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3098.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [UV Irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_226.md)
 * [Upper room germicidal UV fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1392.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [RESIDENTIAL ARCHITECTURE IN A POST-PANDEMIC WORLD: IMPLICATIONS OF COVID-19 FOR NEW CONSTRUCTION AND FOR ADAPTING HERITAGE BUILDINGS](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_56.md)
 
 ## Property: has_MitigationPrinciple
 
 Use high-intensity UV-C light in cupboards for external clothing and footwear to sterilize them.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [uv-c light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3098.md)
+* [RESIDENTIAL ARCHITECTURE IN A POST-PANDEMIC WORLD: IMPLICATIONS OF COVID-19 FOR NEW CONSTRUCTION AND FOR ADAPTING HERITAGE BUILDINGS](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_56.md)
 

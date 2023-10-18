@@ -2,8 +2,10 @@
 
 # __UV Irradiation__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [vaporized hydrogen peroxide](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_234.md)
+* [uv irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_235.md)
 
 ## Closest similar item
 
@@ -18,16 +20,14 @@
 * [UV disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1052.md)
 * [UV-based technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1304.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [An environmental and health perspective for COVID-19 outbreak: Meteorology and air quality influence, sewage epidemiology indicator, hospitals disinfection, drug therapies and recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_270.md)
 
 ## Property: has_MitigationPrinciple
 
 Use UV irradiation and vaporized hydrogen peroxide for disinfection in hospitals and other indoor facilities
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [vaporized hydrogen peroxide](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_234.md)
-* [uv irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_235.md)
+* [An environmental and health perspective for COVID-19 outbreak: Meteorology and air quality influence, sewage epidemiology indicator, hospitals disinfection, drug therapies and recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_270.md)
 

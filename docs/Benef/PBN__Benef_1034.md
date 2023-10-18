@@ -2,10 +2,6 @@
 
 # __Enhanced resilience and well-being__
 
-## Name of the Benefit
-
-Strengthening social support systems, such as social welfare programs and community support networks, improves the overall resilience and well-being of vulnerable populations, reducing poverty and inequalities.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors in social support systems and services can benefit from increased demand and improved financial stability of vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1155.md)
@@ -18,4 +14,8 @@ Strengthening social support systems, such as social welfare programs and commun
 ## Articles mentionning this Benefit
 
 * [COVID-19 risks and systemic gaps in Nigeria: resilience building lessons for pandemic and climate change management](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_215.md)
+
+## Name of the Benefit
+
+Strengthening social support systems, such as social welfare programs and community support networks, improves the overall resilience and well-being of vulnerable populations, reducing poverty and inequalities.
 

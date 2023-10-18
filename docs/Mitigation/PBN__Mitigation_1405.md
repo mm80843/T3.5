@@ -2,9 +2,9 @@
 
 # __AI-based prediction models for pandemic forecasting__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Inaccurate predictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3051.md)
+* [artificial intelligence and epidemiological data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3847.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Preparedness for future pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_890.md)
 * [AI-driven tools for prevention, diagnosis, and treatment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1398.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Exploring the Potential of Artificial Intelligence and Machine Learning to Combat COVID-19 and Existing Opportunities for LMIC: A Scoping Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_131.md)
+* [Inaccurate predictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3051.md)
 
 ## Property: has_MitigationPrinciple
 
 AI can predict the peak of the pandemic and support timely control and prevention measures
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [artificial intelligence and epidemiological data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3847.md)
+* [Exploring the Potential of Artificial Intelligence and Machine Learning to Combat COVID-19 and Existing Opportunities for LMIC: A Scoping Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_131.md)
 

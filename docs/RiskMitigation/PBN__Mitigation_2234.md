@@ -2,9 +2,10 @@
 
 # __Water-efficient appliances__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Increased water consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3397.md)
+* [appliances](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4355.md)
+* [water-efficient fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4354.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Hot water availability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1218.md)
 * [Promoting energy-efficient equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_484.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [How to Make Green Building Certification \& Rating Systems More Pandemic-Sustainable?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_172.md)
+* [Increased water consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3397.md)
 
 ## Property: has_MitigationPrinciple
 
 Use water-efficient appliances and fixtures to minimize water consumption during lockdowns
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [appliances](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4355.md)
-* [water-efficient fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4354.md)
+* [How to Make Green Building Certification \& Rating Systems More Pandemic-Sustainable?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_172.md)
 

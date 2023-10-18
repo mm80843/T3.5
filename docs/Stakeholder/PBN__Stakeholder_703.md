@@ -2,6 +2,10 @@
 
 # __room occupants__
 
+## This Stakeholder is identified by the following QID
+
+* [Q112007270](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q112007270.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Building Occupants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_11.md)
@@ -28,8 +32,4 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [People in Buildings](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_93.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q112007270](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q112007270.md)
 

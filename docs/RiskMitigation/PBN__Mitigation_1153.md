@@ -2,9 +2,8 @@
 
 # __Optimize north-south orientation of building layout__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Direct exposure to sunlight](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2951.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Flexible building](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1662.md)
 * [Sustainable Building Design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1786.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Biophilic Design to Enhance Residence Comfort in Covid Era](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_179.md)
+* [Direct exposure to sunlight](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2951.md)
 
 ## Property: has_MitigationPrinciple
 
 The layout of the building should be optimized for a north-south orientation, or alternative design treatments should be applied to avoid direct exposure to east-west sunlight.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Biophilic Design to Enhance Residence Comfort in Covid Era](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_179.md)
 

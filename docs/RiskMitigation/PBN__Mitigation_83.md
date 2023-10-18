@@ -2,9 +2,9 @@
 
 # __Effective community health extension system__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Limited care and restricted health services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_779.md)
+* [community health workers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_478.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Strengthened healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1069.md)
 * [Public Health Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1740.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19 pandemic and mitigation strategies: implications for maternal and child health and nutrition](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_222.md)
+* [Limited care and restricted health services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_779.md)
 
 ## Property: has_MitigationPrinciple
 
 Strengthen community health systems to provide access to routine health services, especially for women and children, during times of crisis.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [community health workers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_478.md)
+* [COVID-19 pandemic and mitigation strategies: implications for maternal and child health and nutrition](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_222.md)
 

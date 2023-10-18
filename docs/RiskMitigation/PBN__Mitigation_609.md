@@ -2,9 +2,11 @@
 
 # __Remain alert and responsive to changing needs__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Changes in priorities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2658.md)
+* [monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_201.md)
+* [social media analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3352.md)
+* [proactive agenda setting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3353.md)
 
 ## Closest similar item
 
@@ -19,17 +21,15 @@
 * [Maintenance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1313.md)
 * [Early Warning Systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1861.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Amplifying the role of knowledge translation platforms in the COVID-19 pandemic response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_111.md)
+* [Changes in priorities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2658.md)
 
 ## Property: has_MitigationPrinciple
 
 KT platforms should identify context-specific knowledge gaps and proactively address emerging priorities to ensure a timely and effective response.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_201.md)
-* [social media analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3352.md)
-* [proactive agenda setting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3353.md)
+* [Amplifying the role of knowledge translation platforms in the COVID-19 pandemic response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_111.md)
 

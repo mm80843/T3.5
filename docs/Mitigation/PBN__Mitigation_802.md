@@ -2,9 +2,10 @@
 
 # __Training and education__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Hospital preparation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_360.md)
+* [training sessions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3461.md)
+* [education teams](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3462.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Education disruption](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3375.md)
 * [Interrupted education for children and adults](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3376.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Management of the COVID-19 pandemic: challenges, practices, and organizational support](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_92.md)
+* [Hospital preparation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_360.md)
 
 ## Property: has_MitigationPrinciple
 
 Provide intensive training and education to healthcare teams to improve their knowledge and skills in managing COVID-19.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [training sessions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3461.md)
-* [education teams](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3462.md)
+* [Management of the COVID-19 pandemic: challenges, practices, and organizational support](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_92.md)
 

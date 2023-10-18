@@ -2,8 +2,12 @@
 
 # __Interoperable biomedical ontology__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [semantic web standard](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3980.md)
+* [owl 2](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3977.md)
+* [obo ontology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3978.md)
+* [dl-based formalism](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3979.md)
 
 ## Closest similar item
 
@@ -18,18 +22,14 @@
 * [Bioinformatics Tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_766.md)
 * [Integrated healthcare environment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_155.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The COVID-19 epidemiology and monitoring ontology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_259.md)
 
 ## Property: has_MitigationPrinciple
 
 Enable data sharing and formal reasoning for biomedical data and research
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [semantic web standard](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3980.md)
-* [owl 2](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3977.md)
-* [obo ontology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3978.md)
-* [dl-based formalism](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3979.md)
+* [The COVID-19 epidemiology and monitoring ontology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_259.md)
 

@@ -2,10 +2,6 @@
 
 # __Coordinating and integrating research, data, and expertise__
 
-## Name of the Benefit
-
-Bridging entities and facilitating collaboration improve efficiency and effectiveness of pandemic response
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Comprehensive response, better use of resources, and improved decision-making](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_600.md)
@@ -19,4 +15,8 @@ Bridging entities and facilitating collaboration improve efficiency and effectiv
 ## Articles mentionning this Benefit
 
 * [Amplifying the role of knowledge translation platforms in the COVID-19 pandemic response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_111.md)
+
+## Name of the Benefit
+
+Bridging entities and facilitating collaboration improve efficiency and effectiveness of pandemic response
 

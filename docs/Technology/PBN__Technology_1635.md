@@ -2,6 +2,13 @@
 
 # __public health communication strategies__
 
+## Risks linked to this technology
+
+* [False and misleading information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2126.md)
+
+## This Technology belongs to this TechSubgroup
+
+
 ## Closest similar item
 
 * [effective public health messaging](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3611.md)
@@ -15,18 +22,11 @@
 * [public communication campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2006.md)
 * [communication guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1407.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [False and misleading information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2126.md)
-
-## This Technology belongs to this TechSubgroup
-
+* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
 
 ## This Technology is identified by the following QID
 
 * [Q4353774](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4353774.md)
-
-## This Technology belongs to this TechGroup
-
-* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
 

@@ -2,6 +2,10 @@
 
 # __social institutions__
 
+## This Stakeholder is identified by the following QID
+
+* [Q4430243](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4430243.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
@@ -19,15 +23,11 @@
 * [educational institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_66.md)
 * [education institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1041.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Transmission through close contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1375.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Social Groups/Organizations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_131.md)
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q4430243](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4430243.md)
+* [Transmission through close contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1375.md)
 

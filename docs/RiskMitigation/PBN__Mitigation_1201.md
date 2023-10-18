@@ -2,7 +2,7 @@
 
 # __Economic analysis__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
 
 ## Closest similar item
@@ -18,14 +18,14 @@
 * [Price reduction and availability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_336.md)
 * [Increase data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1545.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The role of green roofs in post COVID-19 confinement: An analysis of willingness to pay](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_262.md)
 
 ## Property: has_MitigationPrinciple
 
 Consider the economic value of green roofs in urban green infrastructure incentive policies
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [The role of green roofs in post COVID-19 confinement: An analysis of willingness to pay](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_262.md)
 

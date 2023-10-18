@@ -2,6 +2,10 @@
 
 # __Simulation tools__
 
+## This Technology belongs to this TechSubgroup
+
+* [Data Collection and Analysis](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_162.md)
+
 ## Closest similar item
 
 * [simulation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_758.md)
@@ -15,15 +19,11 @@
 * [anylogic simulation software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_987.md)
 * [AnyLogic simulation software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2076.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Data Collection and Analysis](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_162.md)
+* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
 
 ## This Technology is identified by the following QID
 
 * [Q11121294](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11121294.md)
-
-## This Technology belongs to this TechGroup
-
-* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
 

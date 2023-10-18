@@ -2,9 +2,9 @@
 
 # __Efficient home organization__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Comfort and efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3358.md)
+* [smart storage solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1006.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Flexible building systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2167.md)
 * [Real-time building occupancy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1127.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
+* [Comfort and efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3358.md)
 
 ## Property: has_MitigationPrinciple
 
 Optimize space and improve organization and functionality of homes
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [smart storage solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1006.md)
+* [How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
 

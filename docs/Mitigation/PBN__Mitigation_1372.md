@@ -2,9 +2,9 @@
 
 # __Rule-based expert system__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Inaccurate input](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3041.md)
+* [rule-based algorithm](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3823.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Ontology-guided machine learning algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1657.md)
 * [Data-driven decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1358.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Risk Diagnosis and Mitigation System of COVID-19 Using Expert System and Web Scraping](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_237.md)
+* [Inaccurate input](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3041.md)
 
 ## Property: has_MitigationPrinciple
 
 Evaluates a series of questions and assigns points to assess the level of risk for COVID-19 based on predefined rules and knowledge base.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [rule-based algorithm](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3823.md)
+* [Risk Diagnosis and Mitigation System of COVID-19 Using Expert System and Web Scraping](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_237.md)
 

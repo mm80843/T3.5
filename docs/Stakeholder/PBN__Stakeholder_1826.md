@@ -2,6 +2,10 @@
 
 # __Medium outlet__
 
+## This Stakeholder is identified by the following QID
+
+* [Q57334497](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q57334497.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Media](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_3.md)
@@ -22,8 +26,4 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Media and News Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_37.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q57334497](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q57334497.md)
 

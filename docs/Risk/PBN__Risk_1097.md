@@ -2,22 +2,24 @@
 
 # __Privacy__
 
+## Property: has_RiskHealth
+
+
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Description of the risk
+
+Managing databases with private health records in encrypted form poses challenges for data security and access control.
+
 ## Property: has_RiskType
 
 * [legal](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_6.md)
 
-## People affected by this risk
+## Articles mentionning the risk
 
-* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
-* [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
-
-## Name of the risk
-
-Risk of data breaches, unauthorized access to private health records.
-
-## Property: has_RiskISO_Purpose
-
-* [Topic](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_12.md)
+* [Leveraging Digital Transformation Technologies to Tackle COVID-19: Proposing a Privacy-First Holistic Framework](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_297.md)
 
 ## Closest similar item
 
@@ -32,17 +34,22 @@ Risk of data breaches, unauthorized access to private health records.
 * [Privacy concerns and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_582.md)
 * [Invasion of privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2744.md)
 
-## Description of the risk
+## People affected by this risk
 
-Managing databases with private health records in encrypted form poses challenges for data security and access control.
+* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
+* [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
 
-## Technologies linked to the risk
+## Property: has_RiskISO_Impact
 
-* [encryption](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_97.md)
-* [access control mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_150.md)
+* [Impact](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_11.md)
 
-## Property: has_RiskHealth
+## Stakeholders who can mitigate this risk
 
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_629.md)
+
+## Name of the risk
+
+Risk of data breaches, unauthorized access to private health records.
 
 ## Mitigations of this risk
 
@@ -52,19 +59,12 @@ Managing databases with private health records in encrypted form poses challenge
 * [Big data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_286.md)
 * [Mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2028.md)
 
-## Articles mentionning the risk
+## Property: has_RiskISO_Purpose
 
-* [Leveraging Digital Transformation Technologies to Tackle COVID-19: Proposing a Privacy-First Holistic Framework](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_297.md)
+* [Topic](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_12.md)
 
-## Property: has_RiskISO_Impact
+## Technologies linked to the risk
 
-* [Impact](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_11.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Stakeholders who can mitigate this risk
-
-* [none](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_629.md)
+* [encryption](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_97.md)
+* [access control mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_150.md)
 

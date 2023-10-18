@@ -2,6 +2,10 @@
 
 # __workers__
 
+## This Stakeholder is identified by the following QID
+
+* [Q105764136](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q105764136.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
@@ -20,10 +24,6 @@
 * [retail workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1765.md)
 * [worker](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1771.md)
 * [Worker](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1811.md)
-
-## Risks that can be mitigated by this stakeholder
-
-* [Self-health evaluation before boarding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2137.md)
 
 ## Risk affecting this stakeholder
 
@@ -96,7 +96,7 @@
 * [Enhanced worker protection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1059.md)
 * [Job security](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1180.md)
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q105764136](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q105764136.md)
+* [Self-health evaluation before boarding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2137.md)
 

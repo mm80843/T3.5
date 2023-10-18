@@ -2,9 +2,8 @@
 
 # __Including local communities in PCA governance and benefits__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Exclusion of local communities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2588.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Reducing Community Environmental Impacts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_382.md)
 * [Incentives to the local economy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_620.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Building sustainable finance for resilient protected and conserved areas: lessons from COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_33.md)
+* [Exclusion of local communities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2588.md)
 
 ## Property: has_MitigationPrinciple
 
 Ensure local communities benefit from PCAs through linkage of conservation and local economic and social development
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Building sustainable finance for resilient protected and conserved areas: lessons from COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_33.md)
 

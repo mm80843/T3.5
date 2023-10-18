@@ -2,9 +2,10 @@
 
 # __Safe drinking water__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Water safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3395.md)
+* [monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_201.md)
+* [water treatment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_975.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Hot water availability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1218.md)
 * [Water Quality Management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_185.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [How to Make Green Building Certification \& Rating Systems More Pandemic-Sustainable?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_172.md)
+* [Water safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3395.md)
 
 ## Property: has_MitigationPrinciple
 
 Control the safety measures of drinking water and/or tap water to prevent contamination
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_201.md)
-* [water treatment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_975.md)
+* [How to Make Green Building Certification \& Rating Systems More Pandemic-Sustainable?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_172.md)
 

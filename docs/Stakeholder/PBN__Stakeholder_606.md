@@ -19,6 +19,10 @@
 * [community organizers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1555.md)
 * [gated community administration](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_634.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Community Leaders/Organizers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_127.md)
+
 ## Risks that can be mitigated by this stakeholder
 
 * [Inadequate sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1399.md)
@@ -31,8 +35,4 @@
 * [Lack of trust and cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2022.md)
 * [Unhygienic neighbourhood](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1091.md)
 * [Insufficient behavior and adherence to guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1143.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Community Leaders/Organizers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_127.md)
 

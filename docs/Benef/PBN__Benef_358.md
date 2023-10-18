@@ -2,10 +2,6 @@
 
 # __Early detection of virus circulation__
 
-## Name of the Benefit
-
-Retrofitting sewer networks with stratified sampling points allows for the early detection of virus fragments in wastewater, providing early warning of new outbreaks.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can benefit from implementing wastewater surveillance by improving the asset value of properties through reducing the risk of infection and enhancing the reputation of the built environment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_385.md)
@@ -21,4 +17,8 @@ Retrofitting sewer networks with stratified sampling points allows for the early
 
 * [SARS-CoV-2 in wastewater: potential health risk, but also data source](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_70.md)
 * [Designing for COVID-2x: Reflecting on Future-Proofing Human Habitation for the Inevitable Next Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_149.md)
+
+## Name of the Benefit
+
+Retrofitting sewer networks with stratified sampling points allows for the early detection of virus fragments in wastewater, providing early warning of new outbreaks.
 

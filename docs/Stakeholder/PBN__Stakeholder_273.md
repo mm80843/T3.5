@@ -2,6 +2,10 @@
 
 # __critical infrastructure operators__
 
+## This Stakeholder is identified by the following QID
+
+* [Q373338](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q373338.md)
+
 ## Closest similar item
 
 * [infrastructure sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_299.md)
@@ -14,14 +18,6 @@
 * [building owners and operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_525.md)
 * [transportation authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_947.md)
 * [network and system administrators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1404.md)
-
-## Risks that can be mitigated by this stakeholder
-
-* [Lack of business continuity planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2226.md)
-* [Cascading disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_455.md)
-* [Dependence on global suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2227.md)
-* [Vulnerability to natural hazards](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2229.md)
-* [Cyber-attacks and disinformation campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2228.md)
 
 ## Risk affecting this stakeholder
 
@@ -39,7 +35,11 @@
 * [Improved crisis response and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_650.md)
 * [Enhanced system resilience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_651.md)
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q373338](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q373338.md)
+* [Lack of business continuity planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2226.md)
+* [Cascading disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_455.md)
+* [Dependence on global suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2227.md)
+* [Vulnerability to natural hazards](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2229.md)
+* [Cyber-attacks and disinformation campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2228.md)
 

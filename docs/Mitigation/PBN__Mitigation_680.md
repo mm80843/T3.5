@@ -2,9 +2,9 @@
 
 # __Enhanced Communication__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Miscommunication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2576.md)
+* [communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_168.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Optimizing communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_319.md)
 * [Better communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_505.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The Impact of Pandemic Crisis on the Survival of Construction Industry: A Case of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_168.md)
+* [Miscommunication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2576.md)
 
 ## Property: has_MitigationPrinciple
 
 Improves communication between project members to ensure proper coordination and minimize the risk of miscommunication
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_168.md)
+* [The Impact of Pandemic Crisis on the Survival of Construction Industry: A Case of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_168.md)
 

@@ -2,9 +2,10 @@
 
 # __Hand sanitizer__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Disease transmission through contaminated hands](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2786.md)
+* [alcohol-based disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3511.md)
+* [hand sanitizer solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3510.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Improved hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1389.md)
 * [Hand hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_720.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Coronavirus disease 2019: The harms of exaggerated information and non‐evidence‐based measures](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_101.md)
+* [Disease transmission through contaminated hands](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2786.md)
 
 ## Property: has_MitigationPrinciple
 
 Using hand sanitizers or alcohol-based disinfectants when soap and water are not readily available to reduce the risk of disease transmission through contaminated hands.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [alcohol-based disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3511.md)
-* [hand sanitizer solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3510.md)
+* [Coronavirus disease 2019: The harms of exaggerated information and non‐evidence‐based measures](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_101.md)
 

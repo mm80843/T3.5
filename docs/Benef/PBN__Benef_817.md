@@ -2,10 +2,6 @@
 
 # __Disinfection of aerosolized viral particles__
 
-## Name of the Benefit
-
-Upper-room UVGI can effectively disinfect aerosolized viral particles in the air, reducing the transmission of COVID-19 in buildings.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Implementing upper-room UVGI can increase the safety of building occupants, enhancing the value of the building and attracting tenants/occupants.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_886.md)
@@ -17,4 +13,8 @@ Upper-room UVGI can effectively disinfect aerosolized viral particles in the air
 ## Articles mentionning this Benefit
 
 * [Upper-room ultraviolet air disinfection might help to reduce COVID-19 transmission in buildings: a feasibility study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_163.md)
+
+## Name of the Benefit
+
+Upper-room UVGI can effectively disinfect aerosolized viral particles in the air, reducing the transmission of COVID-19 in buildings.
 

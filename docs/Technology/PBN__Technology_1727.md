@@ -2,6 +2,10 @@
 
 # __proper cleaning procedures__
 
+## Risks linked to this technology
+
+* [PVP3](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2192.md)
+
 ## Closest similar item
 
 * [Proper cleaning procedures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2597.md)
@@ -15,15 +19,11 @@
 * [Cleaning products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2569.md)
 * [enhanced cleaning and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_729.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [PVP3](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2192.md)
+* [Q12773274](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q12773274.md)
 
 ## This Technology enables the following mitigations
 
 * [Removal of wet or contaminated insulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1430.md)
-
-## This Technology is identified by the following QID
-
-* [Q12773274](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q12773274.md)
 

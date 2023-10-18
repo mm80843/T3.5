@@ -2,9 +2,8 @@
 
 # __Ensure labor supply__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Labor shortage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2845.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Demand management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1354.md)
 * [Resilient supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1095.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Mechanisms for addressing the impact of COVID-19 on infrastructure projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_115.md)
+* [Labor shortage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2845.md)
 
 ## Property: has_MitigationPrinciple
 
 Ensure that there is an adequate supply of labor to prevent delays in construction projects caused by labor shortages
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Mechanisms for addressing the impact of COVID-19 on infrastructure projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_115.md)
 

@@ -2,6 +2,14 @@
 
 # __robotics__
 
+## Risks linked to this technology
+
+* [Impact on information technology, media, and research & development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1816.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Robotic and Drone Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_113.md)
+
 ## Closest similar item
 
 * [robotic systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4490.md)
@@ -15,13 +23,13 @@
 * [robotic assistance in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1505.md)
 * [Robotic assistance in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2883.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Impact on information technology, media, and research & development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1816.md)
+* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_17.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology is identified by the following QID
 
-* [Robotic and Drone Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_113.md)
+* [Q170978](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q170978.md)
 
 ## This Technology enables the following mitigations
 
@@ -30,12 +38,4 @@
 * [Drones](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1316.md)
 * [Automation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1755.md)
 * [Adoption of emerging technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2472.md)
-
-## This Technology is identified by the following QID
-
-* [Q170978](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q170978.md)
-
-## This Technology belongs to this TechGroup
-
-* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_17.md)
 

@@ -2,9 +2,12 @@
 
 # __Public health campaigns__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of awareness, misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2918.md)
+* [media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3640.md)
+* [educational materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_495.md)
+* [advertising](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3641.md)
+* [information dissemination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3093.md)
 
 ## Closest similar item
 
@@ -19,19 +22,16 @@
 * [Public information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3154.md)
 * [outreach campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3155.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19 and the UN Sustainable Development Goals: Threat to Solidarity or an Opportunity?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_109.md)
-* [A general modeling framework for exploring the impact of individual concern and personal protection on vector-borne disease dynamics](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_217.md)
+* [Lack of awareness, misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2918.md)
 
 ## Property: has_MitigationPrinciple
 
 Educates the public about the virus, transmission risks, and mitigation measures
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3640.md)
-* [educational materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_495.md)
-* [advertising](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3641.md)
-* [information dissemination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3093.md)
+* [COVID-19 and the UN Sustainable Development Goals: Threat to Solidarity or an Opportunity?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_109.md)
+* [A general modeling framework for exploring the impact of individual concern and personal protection on vector-borne disease dynamics](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_217.md)
 

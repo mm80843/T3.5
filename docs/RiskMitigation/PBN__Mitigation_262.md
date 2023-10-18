@@ -2,9 +2,8 @@
 
 # __Good room air mixing__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Poor air mixing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2513.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Indoor Air Quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1297.md)
 * [Room ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_934.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Upper-room ultraviolet air disinfection might help to reduce COVID-19 transmission in buildings: a feasibility study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_163.md)
+* [Poor air mixing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2513.md)
 
 ## Property: has_MitigationPrinciple
 
 Promotes air movement to ensure that larger aerosol particles are adequately irradiated and disinfection is effective. Important for the effectiveness of upper-room UVGI.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Upper-room ultraviolet air disinfection might help to reduce COVID-19 transmission in buildings: a feasibility study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_163.md)
 

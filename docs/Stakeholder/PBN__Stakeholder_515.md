@@ -2,6 +2,10 @@
 
 # __public-health agencies__
 
+## This Stakeholder is identified by the following QID
+
+* [Q30297045](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q30297045.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
@@ -19,10 +23,6 @@
 * [government health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_883.md)
 * [health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1249.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Lack of real-time data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_762.md)
-
 ## Risk affecting this stakeholder
 
 * [Lack of real-time data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_762.md)
@@ -35,7 +35,7 @@
 
 * [Real-time data collection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1306.md)
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q30297045](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q30297045.md)
+* [Lack of real-time data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_762.md)
 

@@ -2,6 +2,11 @@
 
 # __uv germicidal irradiation__
 
+## Risks linked to this technology
+
+* [Contagious transmission in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1140.md)
+* [AQ1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2200.md)
+
 ## Closest similar item
 
 * [UV germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2689.md)
@@ -15,16 +20,11 @@
 * [uv-c irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3088.md)
 * [germicidal ultraviolet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1144.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Contagious transmission in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1140.md)
-* [AQ1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2200.md)
+* [Q11391](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11391.md)
 
 ## This Technology enables the following mitigations
 
 * [Efficiency of air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2129.md)
-
-## This Technology is identified by the following QID
-
-* [Q11391](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11391.md)
 

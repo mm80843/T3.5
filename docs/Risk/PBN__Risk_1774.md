@@ -2,25 +2,26 @@
 
 # __Supply chain complexity__
 
+## Property: has_RiskHealth
+
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Description of the risk
+
+Increasing complexity in supply chain structures, due to globalisation and dependence on multiple stakeholders
+
 ## Property: has_RiskType
 
 * [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 * [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_3.md)
 * [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
-## People affected by this risk
+## Articles mentionning the risk
 
-* [supply chain managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_986.md)
-* [logistics providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_537.md)
-* [suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_283.md)
-
-## Name of the risk
-
-Difficulty in managing and coordinating supply chain operations, increase in potential vulnerabilities
-
-## Property: has_RiskISO_Purpose
-
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+* [Mapping research in logistics and supply chain management during COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_4.md)
 
 ## Closest similar item
 
@@ -35,37 +36,36 @@ Difficulty in managing and coordinating supply chain operations, increase in pot
 * [Disruption of supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_524.md)
 * [Supply chain disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1400.md)
 
-## Description of the risk
+## People affected by this risk
 
-Increasing complexity in supply chain structures, due to globalisation and dependence on multiple stakeholders
-
-## Technologies linked to the risk
-
-* [supply chain design software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1139.md)
-* [supply chain mapping and visualization tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1138.md)
-
-## Property: has_RiskHealth
-
-
-## Mitigations of this risk
-
-* [Simplify supply chain structures, build collaborative relationships, enhance communication and coordination among stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2346.md)
-
-## Articles mentionning the risk
-
-* [Mapping research in logistics and supply chain management during COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_4.md)
+* [supply chain managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_986.md)
+* [logistics providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_537.md)
+* [suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_283.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
 ## Stakeholders who can mitigate this risk
 
 * [supply chain managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_986.md)
 * [logistics providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_537.md)
 * [suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_283.md)
+
+## Name of the risk
+
+Difficulty in managing and coordinating supply chain operations, increase in potential vulnerabilities
+
+## Mitigations of this risk
+
+* [Simplify supply chain structures, build collaborative relationships, enhance communication and coordination among stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2346.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
+## Technologies linked to the risk
+
+* [supply chain design software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1139.md)
+* [supply chain mapping and visualization tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1138.md)
 

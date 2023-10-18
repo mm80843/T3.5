@@ -2,9 +2,9 @@
 
 # __Construction of specialized hospitals__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Overwhelmed medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2444.md)
+* [construction materials and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2973.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Facility Management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_747.md)
 * [Protective Facilities for Healthcare Workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1866.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Pandemic stricken cities on lockdown. Where are our planning and design professionals [now, then and into the future]?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_147.md)
+* [Overwhelmed medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2444.md)
 
 ## Property: has_MitigationPrinciple
 
 Increasing the capacity of medical facilities to handle emergency cases and provide necessary treatment to patients.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [construction materials and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2973.md)
+* [Pandemic stricken cities on lockdown. Where are our planning and design professionals [now, then and into the future]?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_147.md)
 

@@ -2,8 +2,11 @@
 
 # __Drug Therapies__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [antiviral drugs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_236.md)
+* [anti-malaria drugs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_237.md)
+* [anti-inflammatory drugs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_238.md)
 
 ## Closest similar item
 
@@ -18,17 +21,14 @@
 * [Medication delivery through blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2118.md)
 * [Pragmatic clinical trials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_571.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [An environmental and health perspective for COVID-19 outbreak: Meteorology and air quality influence, sewage epidemiology indicator, hospitals disinfection, drug therapies and recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_270.md)
 
 ## Property: has_MitigationPrinciple
 
 Explore various drug options for the treatment of COVID-19, including antivirals, anti-malaria drugs, and anti-inflammatory drugs
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [antiviral drugs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_236.md)
-* [anti-malaria drugs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_237.md)
-* [anti-inflammatory drugs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_238.md)
+* [An environmental and health perspective for COVID-19 outbreak: Meteorology and air quality influence, sewage epidemiology indicator, hospitals disinfection, drug therapies and recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_270.md)
 

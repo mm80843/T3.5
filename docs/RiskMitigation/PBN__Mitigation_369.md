@@ -2,8 +2,9 @@
 
 # __Paper-based sensor__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [biosensor](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3188.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Biosensors for diagnostics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1232.md)
 * [Integrated sensor](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_693.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The Rise of Wearable Devices during the COVID-19 Pandemic: A Systematic Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_99.md)
 
 ## Property: has_MitigationPrinciple
 
 Development of a paper-based electrochemical biosensor for diagnosing COVID-19, capable of detecting targeted antibodies, with high sensitivity and specificity
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [biosensor](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3188.md)
+* [The Rise of Wearable Devices during the COVID-19 Pandemic: A Systematic Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_99.md)
 

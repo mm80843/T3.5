@@ -2,9 +2,9 @@
 
 # __Blockchain technology__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Trust](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3330.md)
+* [blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_94.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [blockchain security protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4237.md)
 * [financial technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4238.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The role of contemporary digital tools and technologies in COVID19 crisis: An exploratory analysis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_226.md)
+* [Trust](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3330.md)
 
 ## Property: has_MitigationPrinciple
 
 Blockchain can secure and authenticate patient data, track supply chains, and enable secure and transparent transactions.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_94.md)
+* [The role of contemporary digital tools and technologies in COVID19 crisis: An exploratory analysis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_226.md)
 

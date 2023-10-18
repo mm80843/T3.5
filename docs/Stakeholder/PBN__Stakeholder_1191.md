@@ -2,6 +2,11 @@
 
 # __federal government__
 
+## This Stakeholder is identified by the following QID
+
+* [Q1006644](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1006644.md)
+* [Q2991162](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2991162.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
@@ -19,16 +24,11 @@
 * [national governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_51.md)
 * [government authority](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1614.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Heterogeneity of state policies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1786.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Government and Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_8.md)
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q1006644](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1006644.md)
-* [Q2991162](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2991162.md)
+* [Heterogeneity of state policies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1786.md)
 

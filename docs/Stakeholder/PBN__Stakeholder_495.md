@@ -2,6 +2,10 @@
 
 # __waste management staff__
 
+## This Stakeholder is identified by the following QID
+
+* [Q180388](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q180388.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Environmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_13.md)
@@ -19,10 +23,6 @@
 * [waste management authority](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2435.md)
 * [waste management industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1589.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Contamination of masks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1422.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Waste and Wastewater Management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_161.md)
@@ -31,7 +31,7 @@
 
 * [Reduction in transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1258.md)
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q180388](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q180388.md)
+* [Contamination of masks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1422.md)
 

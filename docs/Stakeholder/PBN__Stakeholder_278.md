@@ -2,6 +2,10 @@
 
 # __global population__
 
+## This Stakeholder is identified by the following QID
+
+* [Q11188](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11188.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
@@ -35,8 +39,4 @@
 * [Increased public awareness and compliance with preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_866.md)
 * [Control and prevention of future outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_867.md)
 * [Population-wide surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1210.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q11188](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11188.md)
 

@@ -2,6 +2,15 @@
 
 # __automation__
 
+## Risks linked to this technology
+
+* [Reliance on global supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1995.md)
+* [Challenges in ventilator production](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2404.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Hardware and Devices](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_117.md)
+
 ## Closest similar item
 
 * [Automation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4541.md)
@@ -15,25 +24,16 @@
 * [building automation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_202.md)
 * [automated windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1354.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Reliance on global supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1995.md)
-* [Challenges in ventilator production](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2404.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Hardware and Devices](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_117.md)
-
-## This Technology enables the following mitigations
-
-* [Alternative Means for Continuity of Basic Functions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1874.md)
-* [Facility Management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_747.md)
+* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
 
 ## This Technology is identified by the following QID
 
 * [Q184199](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q184199.md)
 
-## This Technology belongs to this TechGroup
+## This Technology enables the following mitigations
 
-* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
+* [Alternative Means for Continuity of Basic Functions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1874.md)
+* [Facility Management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_747.md)
 

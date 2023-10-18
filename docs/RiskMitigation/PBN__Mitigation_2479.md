@@ -2,9 +2,11 @@
 
 # __Nature incorporation__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [None](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2827.md)
+* [natural light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3031.md)
+* [living materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4523.md)
+* [greenery](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4524.md)
 
 ## Closest similar item
 
@@ -19,17 +21,15 @@
 * [Raising public support and interest in nature conservation and PCAs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_495.md)
 * [Vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1113.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Biophilic design in architecture and its contributions to health, well-being, and sustainability: A critical review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_211.md)
+* [None](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2827.md)
 
 ## Property: has_MitigationPrinciple
 
 Incorporate natural elements into the building design to improve physical and mental health, well-being, and productivity.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [natural light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3031.md)
-* [living materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4523.md)
-* [greenery](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4524.md)
+* [Biophilic design in architecture and its contributions to health, well-being, and sustainability: A critical review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_211.md)
 

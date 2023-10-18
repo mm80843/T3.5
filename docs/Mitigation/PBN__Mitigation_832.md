@@ -2,9 +2,9 @@
 
 # __Training and awareness__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of knowledge on prevention](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2769.md)
+* [education and communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3481.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Public Awareness and Education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1776.md)
 * [Employee training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1570.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Assessment of COVID-19 precautionary measures in sports facilities: A case study on a health club in Saudi Arabia](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_128.md)
+* [Lack of knowledge on prevention](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2769.md)
 
 ## Property: has_MitigationPrinciple
 
 Provide training and awareness programs to educate individuals on proper prevention measures
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [education and communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3481.md)
+* [Assessment of COVID-19 precautionary measures in sports facilities: A case study on a health club in Saudi Arabia](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_128.md)
 

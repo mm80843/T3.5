@@ -2,9 +2,8 @@
 
 # __Improving spending effectiveness and efficiency__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Inefficient use of resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2583.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Healthcare access and affordability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1484.md)
 * [Financial-incentive based models](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_82.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Building sustainable finance for resilient protected and conserved areas: lessons from COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_33.md)
+* [Inefficient use of resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2583.md)
 
 ## Property: has_MitigationPrinciple
 
 Use existing resources effectively and efficiently by improving planning and management systems and capacities
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Building sustainable finance for resilient protected and conserved areas: lessons from COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_33.md)
 

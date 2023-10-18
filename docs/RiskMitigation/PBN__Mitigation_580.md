@@ -2,9 +2,9 @@
 
 # __Wildlife trade ban__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Zoonotic disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2640.md)
+* [international policy framework](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3329.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Public events ban](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_674.md)
 * [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_11.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Building up an ecologically sustainable and socially desirable post-COVID-19 future](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_5.md)
+* [Zoonotic disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2640.md)
 
 ## Property: has_MitigationPrinciple
 
 Prohibit the trade of wildlife to prevent the introduction and spread of zoonotic diseases
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [international policy framework](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3329.md)
+* [Building up an ecologically sustainable and socially desirable post-COVID-19 future](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_5.md)
 

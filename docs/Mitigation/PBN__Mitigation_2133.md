@@ -2,9 +2,11 @@
 
 # __Safety measures of drinking water__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Water contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_129.md)
+* [proper disposal](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4253.md)
+* [disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_835.md)
+* [ultrafiltration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3074.md)
 
 ## Closest similar item
 
@@ -19,17 +21,15 @@
 * [Enhance water treatment processes, implement effective sanitation measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2580.md)
 * [Improve water and food safety measures, implement vector control strategies, strengthen health systems.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2581.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
+* [Water contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_129.md)
 
 ## Property: has_MitigationPrinciple
 
 Ensure safe drinking water to prevent contamination
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [proper disposal](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4253.md)
-* [disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_835.md)
-* [ultrafiltration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3074.md)
+* [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
 

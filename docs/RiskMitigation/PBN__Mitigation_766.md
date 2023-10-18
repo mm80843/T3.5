@@ -2,9 +2,9 @@
 
 # __Bioinformatics Tools__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Inefficient integration and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2726.md)
+* [bioinformatics software and algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3438.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Antimicrobial Resistance Gene Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1925.md)
 * [Interoperable biomedical ontology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1652.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [CIDO, a community-based ontology for coronavirus disease knowledge and data integration, sharing, and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_13.md)
+* [Inefficient integration and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2726.md)
 
 ## Property: has_MitigationPrinciple
 
 Developing software tools to efficiently integrate and analyze heterogeneous data and knowledge
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [bioinformatics software and algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3438.md)
+* [CIDO, a community-based ontology for coronavirus disease knowledge and data integration, sharing, and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_13.md)
 

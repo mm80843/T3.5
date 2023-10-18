@@ -2,9 +2,10 @@
 
 # __Sanger sequencing__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Potential false positive results](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3428.md)
+* [dna analyzer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4430.md)
+* [sanger technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4429.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Targeted operations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2084.md)
 * [Nucleic acid testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1436.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Detection of SARS-CoV-2 in raw and treated wastewater in Germany – Suitability for COVID-19 surveillance and potential transmission risks](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_0.md)
+* [Potential false positive results](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3428.md)
 
 ## Property: has_MitigationPrinciple
 
 Confirms specificity of RT-qPCR and origin of coronavirus
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [dna analyzer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4430.md)
-* [sanger technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4429.md)
+* [Detection of SARS-CoV-2 in raw and treated wastewater in Germany – Suitability for COVID-19 surveillance and potential transmission risks](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_0.md)
 

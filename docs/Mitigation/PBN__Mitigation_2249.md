@@ -2,8 +2,10 @@
 
 # __Protection of healthcare__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [additive manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2012.md)
+* [5g](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4121.md)
 
 ## Closest similar item
 
@@ -18,16 +20,14 @@
 * [Healthcare Access and Early Treatment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1864.md)
 * [Universal healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_581.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Emerging Technologies to Combat the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_116.md)
 
 ## Property: has_MitigationPrinciple
 
 Using advanced technologies to enhance healthcare worker protection and delivery of treatment
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [additive manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2012.md)
-* [5g](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4121.md)
+* [Emerging Technologies to Combat the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_116.md)
 

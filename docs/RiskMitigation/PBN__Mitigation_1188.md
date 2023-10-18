@@ -2,9 +2,9 @@
 
 # __Promotion of green roofs__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Economic barrier](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2958.md)
+* [marketing strategy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3720.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Public green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_474.md)
 * [Conservation and promotion of urban green spaces as part of public policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1209.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The role of green roofs in post COVID-19 confinement: An analysis of willingness to pay](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_262.md)
+* [Economic barrier](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2958.md)
 
 ## Property: has_MitigationPrinciple
 
 Promote social and environmental benefits over individual economic interests
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [marketing strategy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3720.md)
+* [The role of green roofs in post COVID-19 confinement: An analysis of willingness to pay](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_262.md)
 

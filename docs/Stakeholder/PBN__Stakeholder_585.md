@@ -2,6 +2,10 @@
 
 # __builders__
 
+## This Stakeholder is identified by the following QID
+
+* [Q116819137](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q116819137.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
@@ -19,14 +23,6 @@
 * [building owner](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1945.md)
 * [construction managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_983.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Lack of outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1305.md)
-* [Inadequate ventilation and lighting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1303.md)
-* [Poor construction techniques and low-quality building materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1061.md)
-* [Overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_571.md)
-* [High energy consumption in residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_908.md)
-
 ## Risk affecting this stakeholder
 
 * [Poor construction techniques and low-quality building materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1061.md)
@@ -37,7 +33,11 @@
 
 * [Real Estate and Construction](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_31.md)
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q116819137](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q116819137.md)
+* [Lack of outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1305.md)
+* [Inadequate ventilation and lighting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1303.md)
+* [Poor construction techniques and low-quality building materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1061.md)
+* [Overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_571.md)
+* [High energy consumption in residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_908.md)
 

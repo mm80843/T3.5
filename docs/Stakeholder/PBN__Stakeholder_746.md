@@ -2,6 +2,10 @@
 
 # __energy providers__
 
+## This Stakeholder is identified by the following QID
+
+* [Q217810](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q217810.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
@@ -19,13 +23,6 @@
 * [sustainable energy companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_48.md)
 * [renewable energy companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1414.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Increased energy usage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2225.md)
-* [Increased energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1252.md)
-* [Energy use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_614.md)
-* [Lack of willingness to pay for HEMS](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1255.md)
-
 ## Risk affecting this stakeholder
 
 * [Increased energy usage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2225.md)
@@ -36,7 +33,10 @@
 
 * [Energy](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_30.md)
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q217810](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q217810.md)
+* [Increased energy usage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2225.md)
+* [Increased energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1252.md)
+* [Energy use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_614.md)
+* [Lack of willingness to pay for HEMS](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1255.md)
 

@@ -2,7 +2,7 @@
 
 # __Exercise programs for specific groups__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
 
 ## Closest similar item
@@ -18,14 +18,14 @@
 * [Types of physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_74.md)
 * [Online physical activity classes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_442.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Mental Health and the Role of Physical Activity During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_242.md)
 
 ## Property: has_MitigationPrinciple
 
 Developing specialized exercise programs for specific vulnerable groups, such as men and young people, to address their unique mental health needs and promote engagement in physical activity during the pandemic.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Mental Health and the Role of Physical Activity During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_242.md)
 

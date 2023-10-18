@@ -2,9 +2,9 @@
 
 # __Simulation__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Limited access to simulation equipment due to restrictions on resident presence in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2574.md)
+* [simulation equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3225.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Performance-based modeling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1312.md)
 * [Ventilation distribution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1366.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Using Technology to Maintain the Education of Residents During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_11.md)
+* [Limited access to simulation equipment due to restrictions on resident presence in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2574.md)
 
 ## Property: has_MitigationPrinciple
 
 Augmenting resident learning with simulation activities to maintain technical skills through deliberate practice.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [simulation equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3225.md)
+* [Using Technology to Maintain the Education of Residents During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_11.md)
 

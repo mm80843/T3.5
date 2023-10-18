@@ -2,9 +2,8 @@
 
 # __National and international funding__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Insufficient funding and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2613.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [National and international conversations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2256.md)
 * [Funding for IT support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2070.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Wastewater surveillance for population-wide Covid-19: The present and future](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_213.md)
+* [Insufficient funding and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2613.md)
 
 ## Property: has_MitigationPrinciple
 
 Secure government funding and resources to support research and development of WBE for infectious disease monitoring
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Wastewater surveillance for population-wide Covid-19: The present and future](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_213.md)
 

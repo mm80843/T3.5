@@ -2,9 +2,9 @@
 
 # __Push for meso scale strategies at the neighbourhood/community level__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of community participation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2570.md)
+* [community-level infrastructure planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3216.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Community outreach and participation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_94.md)
 * [Affordable housing with resilient building typologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2433.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Revisiting the built environment: 10 potential development changes and paradigm shifts due to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_59.md)
+* [Lack of community participation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2570.md)
 
 ## Property: has_MitigationPrinciple
 
 Develop meso scale strategies at the neighbourhood/community level to enhance pandemic preparedness, communication, and community support
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [community-level infrastructure planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3216.md)
+* [Revisiting the built environment: 10 potential development changes and paradigm shifts due to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_59.md)
 

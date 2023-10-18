@@ -2,6 +2,10 @@
 
 # __low-income citizens__
 
+## This Stakeholder is identified by the following QID
+
+* [Q191159](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q191159.md)
+
 ## Closest similar item
 
 * [Low-income citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2324.md)
@@ -23,8 +27,4 @@
 
 * [Improved access](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1293.md)
 * [Reduced financial barrier](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1294.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q191159](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q191159.md)
 

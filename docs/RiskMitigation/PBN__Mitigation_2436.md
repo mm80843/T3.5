@@ -2,8 +2,10 @@
 
 # __Balanced allocation of urban services and facilities__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_922.md)
+* [resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_608.md)
 
 ## Closest similar item
 
@@ -18,16 +20,14 @@
 * [Control measures in cities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2106.md)
 * [Commercial and healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_860.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Urban design attributes and resilience: COVID-19 evidence from New York City](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_6.md)
 
 ## Property: has_MitigationPrinciple
 
 Ensuring equitable distribution of essential services and facilities reduces disparities and vulnerabilities in different communities.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_922.md)
-* [resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_608.md)
+* [Urban design attributes and resilience: COVID-19 evidence from New York City](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_6.md)
 

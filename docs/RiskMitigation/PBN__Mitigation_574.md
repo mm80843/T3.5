@@ -2,9 +2,9 @@
 
 # __Enforcing data sharing__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Poor compliance, concern over data misuse](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2637.md)
+* [audit and enforcement frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3325.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Secure storage and data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2348.md)
 * [Open data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_884.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Data capture and sharing in the COVID-19 pandemic: a cause for concern](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_208.md)
+* [Poor compliance, concern over data misuse](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2637.md)
 
 ## Property: has_MitigationPrinciple
 
 Ensure compliance with data sharing requirements, monitor and improve data sharing practices
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [audit and enforcement frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3325.md)
+* [Data capture and sharing in the COVID-19 pandemic: a cause for concern](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_208.md)
 

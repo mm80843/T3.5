@@ -2,6 +2,14 @@
 
 # __modular construction__
 
+## Risks linked to this technology
+
+* [Increase in off-site construction and engineering](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_244.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Building Systems and Design](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_89.md)
+
 ## Closest similar item
 
 * [modular construction techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3772.md)
@@ -15,19 +23,11 @@
 * [building design and construction techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_457.md)
 * [building layout and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3299.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Increase in off-site construction and engineering](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_244.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Building Systems and Design](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_89.md)
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 
 ## This Technology is identified by the following QID
 
 * [Q55648394](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q55648394.md)
-
-## This Technology belongs to this TechGroup
-
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 

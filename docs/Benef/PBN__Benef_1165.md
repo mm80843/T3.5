@@ -2,10 +2,6 @@
 
 # __Contact tracing and notification__
 
-## Name of the Benefit
-
-Alerts individuals who have been in close contact with infected persons to take necessary precautions and seek testing
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Reduces further transmission, facilitates early intervention, and supports timely testing and isolation](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1296.md)
@@ -19,4 +15,8 @@ Alerts individuals who have been in close contact with infected persons to take 
 ## Articles mentionning this Benefit
 
 * [Mobile Technology Solution for COVID-19: Surveillance and Prevention](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_239.md)
+
+## Name of the Benefit
+
+Alerts individuals who have been in close contact with infected persons to take necessary precautions and seek testing
 

@@ -2,10 +2,13 @@
 
 # __Telemedecine__
 
-## Thees blueprints use this enabler
+## Property: has_TechEquivalent
 
-* [Good hand hygiene practice](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_14.md)
-* [Infection tracking](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_20.md)
+* [Telemedecine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4542.md)
+
+## Property: has_BP_EnablerTitle
+
+enabler_018
 
 ## Closest similar item
 
@@ -20,11 +23,8 @@
 * [Telemedicine technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_194.md)
 * [telemedicine platforms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_195.md)
 
-## Property: has_TechEquivalent
+## Thees blueprints use this enabler
 
-* [Telemedecine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4542.md)
-
-## Property: has_BP_EnablerTitle
-
-enabler_018
+* [Good hand hygiene practice](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_14.md)
+* [Infection tracking](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_20.md)
 

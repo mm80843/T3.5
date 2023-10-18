@@ -2,6 +2,11 @@
 
 # __banks__
 
+## This Stakeholder is identified by the following QID
+
+* [Q1865174](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1865174.md)
+* [Q16151028](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q16151028.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
@@ -19,10 +24,6 @@
 * [finance department](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_990.md)
 * [finance sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_90.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Increase in default risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2159.md)
-
 ## Risk affecting this stakeholder
 
 * [Varying credit guarantee ratios](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2162.md)
@@ -35,8 +36,7 @@
 
 * [Risk mitigation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_680.md)
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q1865174](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1865174.md)
-* [Q16151028](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q16151028.md)
+* [Increase in default risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2159.md)
 

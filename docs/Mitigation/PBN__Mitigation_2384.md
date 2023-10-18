@@ -2,9 +2,9 @@
 
 # __Local data collection__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of data on settlements](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3437.md)
+* [local data collection methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4449.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_99.md)
 * [Common data infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_566.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Local response in health emergencies: key considerations for addressing the COVID-19 pandemic in informal urban settlements](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_36.md)
+* [Lack of data on settlements](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3437.md)
 
 ## Property: has_MitigationPrinciple
 
 Utilize local community-based groups and organizations to collect sociodemographic data on informal settlements for effective response planning and monitoring of COVID-19.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [local data collection methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4449.md)
+* [Local response in health emergencies: key considerations for addressing the COVID-19 pandemic in informal urban settlements](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_36.md)
 

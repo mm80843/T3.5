@@ -2,6 +2,10 @@
 
 # __suppliers__
 
+## This Stakeholder is identified by the following QID
+
+* [Q1762621](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1762621.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
@@ -18,16 +22,6 @@
 * [manufacturer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1968.md)
 * [Manufacturer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2000.md)
 * [manufacturing companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1152.md)
-
-## Risks that can be mitigated by this stakeholder
-
-* [Supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_10.md)
-* [Shortage of construction materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1084.md)
-* [Internal risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1775.md)
-* [Delay in delivery of construction materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2068.md)
-* [Lack of Personal Protective Equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1954.md)
-* [Supply chain complexity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1774.md)
-* [Lack of supply chain visibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1773.md)
 
 ## Risk affecting this stakeholder
 
@@ -47,7 +41,13 @@
 
 * [Business continuity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_679.md)
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q1762621](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1762621.md)
+* [Supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_10.md)
+* [Shortage of construction materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1084.md)
+* [Internal risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1775.md)
+* [Delay in delivery of construction materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2068.md)
+* [Lack of Personal Protective Equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1954.md)
+* [Supply chain complexity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1774.md)
+* [Lack of supply chain visibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1773.md)
 

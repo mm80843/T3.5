@@ -2,6 +2,14 @@
 
 # __psychiatric__
 
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Reduced mental health problems](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_831.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q104408663](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q104408663.md)
+
 ## Closest similar item
 
 * [people with psychiatric disorders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1177.md)
@@ -14,12 +22,4 @@
 * [mental health professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_368.md)
 * [mental health providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1501.md)
 * [individuals with mental health issues](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_8.md)
-
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Reduced mental health problems](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_831.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q104408663](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q104408663.md)
 

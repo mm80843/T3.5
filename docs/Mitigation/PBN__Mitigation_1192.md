@@ -2,19 +2,19 @@
 
 # __Assessing citizens’ willingness to pay__
 
+## This Mitigation is enabled by the following technologies
+
+* [surveys](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_900.md)
+* [marketing research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3721.md)
+
 ## Risks possibly mitigated by this Mitigation
 
-
-## Property: has_MitigationSource
-
-* [The role of green roofs in post COVID-19 confinement: An analysis of willingness to pay](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_262.md)
 
 ## Property: has_MitigationPrinciple
 
 Evaluate the importance of accessible green spaces and identify factors that influence the WTP for green roofs
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [surveys](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_900.md)
-* [marketing research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3721.md)
+* [The role of green roofs in post COVID-19 confinement: An analysis of willingness to pay](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_262.md)
 

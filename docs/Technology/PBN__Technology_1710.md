@@ -2,6 +2,10 @@
 
 # __internet of things (iot)__
 
+## Risks linked to this technology
+
+* [Lack of real-time data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_762.md)
+
 ## Closest similar item
 
 * [Internet of Things (IoT)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2844.md)
@@ -15,9 +19,9 @@
 * [iots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2941.md)
 * [iot sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3790.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Lack of real-time data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_762.md)
+* [Q251212](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q251212.md)
 
 ## This Technology enables the following mitigations
 
@@ -26,8 +30,4 @@
 * [Digitalization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_750.md)
 * [Facility Management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_747.md)
 * [IoT-based systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_285.md)
-
-## This Technology is identified by the following QID
-
-* [Q251212](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q251212.md)
 

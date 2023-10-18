@@ -2,10 +2,6 @@
 
 # __Understanding disease transmission__
 
-## Name of the Benefit
-
-Conducting epidemiological research helps to understand the patterns and transmission of infectious diseases, enabling better response strategies and policy development.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investing in epidemiological research improves public health outcomes and guides public health interventions.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1096.md)
@@ -17,4 +13,8 @@ Conducting epidemiological research helps to understand the patterns and transmi
 ## Articles mentionning this Benefit
 
 * [An Overview of Biomedical Ontologies for Pandemics and Infectious Diseases Representation](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_204.md)
+
+## Name of the Benefit
+
+Conducting epidemiological research helps to understand the patterns and transmission of infectious diseases, enabling better response strategies and policy development.
 

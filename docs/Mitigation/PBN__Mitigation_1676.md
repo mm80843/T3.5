@@ -2,8 +2,11 @@
 
 # __Wastewater monitoring__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [wastewater treatment plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1353.md)
+* [dna/rna extraction methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4000.md)
+* [real-time rt-pcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4001.md)
 
 ## Closest similar item
 
@@ -18,17 +21,14 @@
 * [Proper wastewater treatment and management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3121.md)
 * [Wastewater-based epidemiology (WBE) surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2730.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [SARS-CoV-2 RNA in wastewater anticipated COVID-19 occurrence in a low prevalence area](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_96.md)
 
 ## Property: has_MitigationPrinciple
 
 Wastewater monitoring can track the presence and prevalence of viral genetic material in a community, allowing early detection and monitoring of contagious diseases like COVID-19.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [wastewater treatment plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1353.md)
-* [dna/rna extraction methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4000.md)
-* [real-time rt-pcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4001.md)
+* [SARS-CoV-2 RNA in wastewater anticipated COVID-19 occurrence in a low prevalence area](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_96.md)
 

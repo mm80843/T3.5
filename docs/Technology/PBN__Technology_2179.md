@@ -2,6 +2,9 @@
 
 # __personal protective equipment (PPE)__
 
+## This Technology belongs to this TechSubgroup
+
+
 ## Closest similar item
 
 * [personal protective equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2179.md)
@@ -15,14 +18,11 @@
 * [ppe supply](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4107.md)
 * [personal protective equipment (masks)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3008.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 
 ## This Technology is identified by the following QID
 
 * [Q1333024](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1333024.md)
-
-## This Technology belongs to this TechGroup
-
-* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 

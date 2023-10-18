@@ -2,6 +2,10 @@
 
 # __parks__
 
+## Risks linked to this technology
+
+* [MH4](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2199.md)
+
 ## Closest similar item
 
 * [park design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4500.md)
@@ -15,17 +19,13 @@
 * [sport and recreation spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1742.md)
 * [urban gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_621.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [MH4](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2199.md)
+* [Q1360223](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1360223.md)
 
 ## This Technology enables the following mitigations
 
 * [Access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_125.md)
 * [Outdoor activities/usage of open spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1012.md)
 * [Outdoor Design and Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1739.md)
-
-## This Technology is identified by the following QID
-
-* [Q1360223](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1360223.md)
 

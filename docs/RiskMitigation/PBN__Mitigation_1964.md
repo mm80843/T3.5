@@ -2,8 +2,9 @@
 
 # __Additional Lighting__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [extra light fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4172.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Daylighting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_138.md)
 * [Upper-room UV lights](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_613.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Building Transformation for Precautionary Measures against COVID-19 Pandemic: Case of Off-Street Car Parking of Campuses](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_224.md)
 
 ## Property: has_MitigationPrinciple
 
 Installing additional lighting fixtures to provide recommended light levels for educational spaces.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [extra light fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4172.md)
+* [Building Transformation for Precautionary Measures against COVID-19 Pandemic: Case of Off-Street Car Parking of Campuses](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_224.md)
 

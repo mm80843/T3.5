@@ -2,6 +2,16 @@
 
 # __acoustic panels__
 
+## Risks linked to this technology
+
+* [Inadequate Acoustics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1124.md)
+* [Noise pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_150.md)
+* [Noise Pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1120.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Indoor Environmental Quality](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_79.md)
+
 ## Closest similar item
 
 * [Acoustic panels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2666.md)
@@ -15,26 +25,16 @@
 * [sound insulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3048.md)
 * [sound-absorbing materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_198.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Inadequate Acoustics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1124.md)
-* [Noise pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_150.md)
-* [Noise Pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1120.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Indoor Environmental Quality](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_79.md)
-
-## This Technology enables the following mitigations
-
-* [Acoustic Design Planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_184.md)
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
+* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_12.md)
 
 ## This Technology is identified by the following QID
 
 * [Q1417134](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1417134.md)
 
-## This Technology belongs to this TechGroup
+## This Technology enables the following mitigations
 
-* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
-* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_12.md)
+* [Acoustic Design Planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_184.md)
 

@@ -2,6 +2,10 @@
 
 # __building occupants__
 
+## This Stakeholder is identified by the following QID
+
+* [Q11755880](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11755880.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
@@ -19,14 +23,6 @@
 * [building occupants and workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_910.md)
 * [building occupants and management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_78.md)
 * [building occupants and researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_912.md)
-
-## Risks that can be mitigated by this stakeholder
-
-* [Poor Indoor Air Quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1121.md)
-* [Inadequate Thermal Comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1122.md)
-* [Poor Lighting and Glare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1123.md)
-* [Inadequate Acoustics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1124.md)
-* [Poor Indoor Environmental Quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1125.md)
 
 ## Risk affecting this stakeholder
 
@@ -243,7 +239,11 @@
 * [Sanitation and cleanliness](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1409.md)
 * [Contactless interaction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1410.md)
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q11755880](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11755880.md)
+* [Poor Indoor Air Quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1121.md)
+* [Inadequate Thermal Comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1122.md)
+* [Poor Lighting and Glare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1123.md)
+* [Inadequate Acoustics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1124.md)
+* [Poor Indoor Environmental Quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1125.md)
 

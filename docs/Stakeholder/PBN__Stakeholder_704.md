@@ -2,6 +2,10 @@
 
 # __maintenance staff__
 
+## This Stakeholder is identified by the following QID
+
+* [Q16281722](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q16281722.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
@@ -19,14 +23,6 @@
 * [service personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1171.md)
 * [staff of](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1549.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Inaccurate measurement data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1657.md)
-* [Sharing systems in apartments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1673.md)
-* [Insufficient air circulation and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1675.md)
-* [Poor drainage and management of water systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1835.md)
-* [Technical expertise](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1794.md)
-
 ## Risk affecting this stakeholder
 
 * [Lack of hygiene and cleanliness protocols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2048.md)
@@ -40,7 +36,11 @@
 
 * [Specific Roles and Job Titles](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_21.md)
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q16281722](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q16281722.md)
+* [Inaccurate measurement data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1657.md)
+* [Sharing systems in apartments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1673.md)
+* [Insufficient air circulation and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1675.md)
+* [Poor drainage and management of water systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1835.md)
+* [Technical expertise](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1794.md)
 

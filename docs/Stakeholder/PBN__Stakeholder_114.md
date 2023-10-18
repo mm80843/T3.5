@@ -2,6 +2,14 @@
 
 # __infected persons__
 
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Preventing healthcare overload](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_199.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q54806980](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q54806980.md)
+
 ## Closest similar item
 
 * [infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_161.md)
@@ -14,12 +22,4 @@
 * [individuals in the vicinity of infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1455.md)
 * [contact persons of infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1051.md)
 * [contact person of infected individual](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2514.md)
-
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Preventing healthcare overload](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_199.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q54806980](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q54806980.md)
 

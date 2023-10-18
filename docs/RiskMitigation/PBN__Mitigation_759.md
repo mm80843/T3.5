@@ -2,9 +2,9 @@
 
 # __Temperature adjustment in WBE__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Misjudging public health status](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2720.md)
+* [temperature sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3044.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Maintaining optimum temperatures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1845.md)
 * [Combined use of WBE and clinical testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_758.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Computational analysis of SARS-CoV-2/COVID-19 surveillance by wastewater-based epidemiology locally and globally: Feasibility, economy, opportunities and challenges](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_252.md)
+* [Misjudging public health status](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2720.md)
 
 ## Property: has_MitigationPrinciple
 
 Accounting for temperature effects in wastewater degradation to accurately estimate virus concentrations and inform public health interventions.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [temperature sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3044.md)
+* [Computational analysis of SARS-CoV-2/COVID-19 surveillance by wastewater-based epidemiology locally and globally: Feasibility, economy, opportunities and challenges](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_252.md)
 

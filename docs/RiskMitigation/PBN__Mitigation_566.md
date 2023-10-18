@@ -2,9 +2,10 @@
 
 # __Common data infrastructures__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Data linkage challenges, discordant definitions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2629.md)
+* [data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_152.md)
+* [common data dictionaries](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3315.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Data sharing protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2078.md)
 * [Centralized database](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_519.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Data capture and sharing in the COVID-19 pandemic: a cause for concern](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_208.md)
+* [Data linkage challenges, discordant definitions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2629.md)
 
 ## Property: has_MitigationPrinciple
 
 Support data sharing, improve data standardization and use
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_152.md)
-* [common data dictionaries](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3315.md)
+* [Data capture and sharing in the COVID-19 pandemic: a cause for concern](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_208.md)
 

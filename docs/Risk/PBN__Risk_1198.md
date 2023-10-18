@@ -2,23 +2,26 @@
 
 # __Lack of strategic planning and alignment__
 
+## Property: has_RiskHealth
+
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Description of the risk
+
+Lack of strategic planning and alignment among different levels of government has hindered effective response and recovery efforts
+
 ## Property: has_RiskType
 
 * [political](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_1.md)
 * [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_3.md)
 
-## People affected by this risk
+## Articles mentionning the risk
 
-* [government officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_333.md)
-* [city administrators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_720.md)
-
-## Name of the risk
-
-Inefficient use of resources, lack of coordination among stakeholders, slow recovery process
-
-## Property: has_RiskISO_Purpose
-
-* [Mobility](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_14.md)
+* [Learning from the COVID-19 pandemic in governing smart cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_177.md)
 
 ## Closest similar item
 
@@ -33,35 +36,32 @@ Inefficient use of resources, lack of coordination among stakeholders, slow reco
 * [Lack of coordination between sectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3098.md)
 * [Lack of international strategy including built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1604.md)
 
-## Description of the risk
+## People affected by this risk
 
-Lack of strategic planning and alignment among different levels of government has hindered effective response and recovery efforts
-
-## Technologies linked to the risk
-
-
-## Property: has_RiskHealth
-
-* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
-
-## Mitigations of this risk
-
-* [Implement integrated and holistic strategic planning processes, improve vertical and horizontal alignment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1650.md)
-
-## Articles mentionning the risk
-
-* [Learning from the COVID-19 pandemic in governing smart cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_177.md)
+* [government officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_333.md)
+* [city administrators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_720.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Community infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_9.md)
 
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
 ## Stakeholders who can mitigate this risk
 
 * [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
 * [public administrations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_353.md)
+
+## Name of the risk
+
+Inefficient use of resources, lack of coordination among stakeholders, slow recovery process
+
+## Mitigations of this risk
+
+* [Implement integrated and holistic strategic planning processes, improve vertical and horizontal alignment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1650.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Mobility](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_14.md)
+
+## Technologies linked to the risk
+
 

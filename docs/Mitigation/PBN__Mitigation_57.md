@@ -2,8 +2,11 @@
 
 # __Drug modelling__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [existing ontologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2935.md)
+* [biomedical literature](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2933.md)
+* [controlled experiments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2934.md)
 
 ## Closest similar item
 
@@ -18,17 +21,14 @@
 * [Regression modeling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1196.md)
 * [Drug Therapies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_228.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [An Overview of Ontologies and Tool Support for COVID-19 Analytics](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_170.md)
 
 ## Property: has_MitigationPrinciple
 
 Systematically collect, annotate, and analyze data on various anti-coronavirus drugs to understand their impacts for COVID-19 medicine.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [existing ontologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2935.md)
-* [biomedical literature](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2933.md)
-* [controlled experiments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2934.md)
+* [An Overview of Ontologies and Tool Support for COVID-19 Analytics](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_170.md)
 

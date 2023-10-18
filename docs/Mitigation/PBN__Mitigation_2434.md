@@ -2,8 +2,10 @@
 
 # __Proximities between jobs and homes__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_922.md)
+* [mixed-use development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1496.md)
 
 ## Closest similar item
 
@@ -18,16 +20,14 @@
 * [Efficient home organization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2169.md)
 * [Stay-at-home regulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2439.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Urban design attributes and resilience: COVID-19 evidence from New York City](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_6.md)
 
 ## Property: has_MitigationPrinciple
 
 Promoting mixed-use development and proximity between jobs and homes reduces commute times and reliance on public transportation.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_922.md)
-* [mixed-use development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1496.md)
+* [Urban design attributes and resilience: COVID-19 evidence from New York City](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_6.md)
 

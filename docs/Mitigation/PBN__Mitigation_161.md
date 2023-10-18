@@ -2,10 +2,10 @@
 
 # __Wearable Devices__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
-* [Incomplete Detection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2470.md)
+* [wearable device technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3181.md)
+* [wearable electronic devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3012.md)
 
 ## Closest similar item
 
@@ -20,17 +20,17 @@
 * [Touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2148.md)
 * [Smartwatch Data](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_162.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID19-Routes: A Safe Pedestrian Navigation Service](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_201.md)
-* [Wearable devices for the detection of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_296.md)
+* [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
+* [Incomplete Detection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2470.md)
 
 ## Property: has_MitigationPrinciple
 
 Continuous monitoring of physiological signals for early detection of COVID-19 cases
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [wearable device technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3181.md)
-* [wearable electronic devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3012.md)
+* [COVID19-Routes: A Safe Pedestrian Navigation Service](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_201.md)
+* [Wearable devices for the detection of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_296.md)
 

@@ -2,9 +2,9 @@
 
 # __Monitoring temperature__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Identifying symptomatic individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2770.md)
+* [infrared thermometers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3246.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Digital thermometers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2374.md)
 * [Mobile robots for temperature measurement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2421.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Assessment of COVID-19 precautionary measures in sports facilities: A case study on a health club in Saudi Arabia](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_128.md)
+* [Identifying symptomatic individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2770.md)
 
 ## Property: has_MitigationPrinciple
 
 Monitor and screen individuals for elevated body temperature, which can be a sign of illness
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [infrared thermometers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3246.md)
+* [Assessment of COVID-19 precautionary measures in sports facilities: A case study on a health club in Saudi Arabia](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_128.md)
 

@@ -2,8 +2,10 @@
 
 # __Physical exercise monitoring__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [smartphone applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_65.md)
+* [wearable sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2949.md)
 
 ## Closest similar item
 
@@ -18,16 +20,14 @@
 * [Health monitoring platform](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2370.md)
 * [Monitoring and sensing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1311.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Mental Health and the Role of Physical Activity During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_242.md)
 
 ## Property: has_MitigationPrinciple
 
 Monitoring and mentoring programs, such as smartphone applications and wearable sensors, to optimize physical activities, achieve desired benefits, and minimize potential risks during home-based exercise.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [smartphone applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_65.md)
-* [wearable sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2949.md)
+* [Mental Health and the Role of Physical Activity During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_242.md)
 

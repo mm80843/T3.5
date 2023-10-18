@@ -2,6 +2,10 @@
 
 # __Improved waste management infrastructure__
 
+## This Technology belongs to this TechSubgroup
+
+* [Infrastructure and Urban Planning](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_86.md)
+
 ## Closest similar item
 
 * [Improved waste management infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2370.md)
@@ -15,15 +19,11 @@
 * [Recycling infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2392.md)
 * [recycling infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2003.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Infrastructure and Urban Planning](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_86.md)
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 
 ## This Technology is identified by the following QID
 
 * [Q180388](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q180388.md)
-
-## This Technology belongs to this TechGroup
-
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 

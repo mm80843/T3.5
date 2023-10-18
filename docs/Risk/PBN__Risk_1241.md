@@ -2,23 +2,25 @@
 
 # __Corruption in donation process__
 
+## Property: has_RiskHealth
+
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Description of the risk
+
+Lack of transparency and accountability in the donation process can lead to corruption and mistrust
+
 ## Property: has_RiskType
 
 * [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
-## People affected by this risk
+## Articles mentionning the risk
 
-* [donors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_453.md)
-* [charitable organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_755.md)
-* [aid recipients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_754.md)
-
-## Name of the risk
-
-Misallocation of donations, mistrust, limited aid to those in need
-
-## Property: has_RiskISO_Purpose
-
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+* [How Can Blockchain Help People in the Event of Pandemics Such as the COVID-19?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_241.md)
 
 ## Closest similar item
 
@@ -33,37 +35,35 @@ Misallocation of donations, mistrust, limited aid to those in need
 * [Financial fragility on businesses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_412.md)
 * [Sickness benefit transfers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2043.md)
 
-## Description of the risk
+## People affected by this risk
 
-Lack of transparency and accountability in the donation process can lead to corruption and mistrust
-
-## Technologies linked to the risk
-
-* [blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_211.md)
-
-## Property: has_RiskHealth
-
-* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
-
-## Mitigations of this risk
-
-* [Store donation process in blockchain for transparency and verification, reducing corruption and improving social trust](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1699.md)
-
-## Articles mentionning the risk
-
-* [How Can Blockchain Help People in the Event of Pandemics Such as the COVID-19?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_241.md)
+* [donors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_453.md)
+* [charitable organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_755.md)
+* [aid recipients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_754.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_8.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
 ## Stakeholders who can mitigate this risk
 
 * [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
 * [donors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_453.md)
 * [charitable organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_755.md)
+
+## Name of the risk
+
+Misallocation of donations, mistrust, limited aid to those in need
+
+## Mitigations of this risk
+
+* [Store donation process in blockchain for transparency and verification, reducing corruption and improving social trust](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1699.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+
+## Technologies linked to the risk
+
+* [blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_211.md)
 

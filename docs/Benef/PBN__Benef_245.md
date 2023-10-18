@@ -2,10 +2,6 @@
 
 # __Sustainable energy use__
 
-## Name of the Benefit
-
-The use of renewable energy sources promotes sustainability and reduces environmental impact
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Incorporating sustainable energy sources can enhance the property’s value and attract eco-conscious tenants.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_257.md)
@@ -17,4 +13,8 @@ The use of renewable energy sources promotes sustainability and reduces environm
 ## Articles mentionning this Benefit
 
 * [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
+
+## Name of the Benefit
+
+The use of renewable energy sources promotes sustainability and reduces environmental impact
 

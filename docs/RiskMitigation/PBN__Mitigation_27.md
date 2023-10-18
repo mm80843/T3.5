@@ -2,9 +2,9 @@
 
 # __Crisis-information repositories__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Risk communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2411.md)
+* [information technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2900.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [COVID-19 crisis management plan](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_797.md)
 * [Inclusion of pandemic preparedness in disaster management protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_113.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19: Lessons for an Urban(izing) World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_85.md)
+* [Risk communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2411.md)
 
 ## Property: has_MitigationPrinciple
 
 Establishing repositories of up-to-date crisis information helps to disseminate accurate information and enhance risk literacy among urban citizens.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [information technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2900.md)
+* [COVID-19: Lessons for an Urban(izing) World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_85.md)
 

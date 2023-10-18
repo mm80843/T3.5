@@ -2,9 +2,9 @@
 
 # __TraceTogether app__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Security risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2127.md)
+* [mobile app](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3748.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Tracking applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1794.md)
 * [App-based trackers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_19.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Mobile Technology Solution for COVID-19: Surveillance and Prevention](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_239.md)
+* [Security risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2127.md)
 
 ## Property: has_MitigationPrinciple
 
 Utilizes Bluetooth for proximity tracing and alerts individuals who came in close contact with someone who tested positive for COVID-19, aiding in containment efforts.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [mobile app](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3748.md)
+* [Mobile Technology Solution for COVID-19: Surveillance and Prevention](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_239.md)
 

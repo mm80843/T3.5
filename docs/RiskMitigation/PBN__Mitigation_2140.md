@@ -2,9 +2,9 @@
 
 # __Access to backup energy sources__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Energy supply disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3353.md)
+* [backup energy source](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4261.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Implement energy-efficient appliances, promote alternative energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3420.md)
 * [Conduct comprehensive energy consumption breakdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4294.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
+* [Energy supply disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3353.md)
 
 ## Property: has_MitigationPrinciple
 
 Provide backup energy sources for a continuous and stable energy supply
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [backup energy source](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4261.md)
+* [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
 

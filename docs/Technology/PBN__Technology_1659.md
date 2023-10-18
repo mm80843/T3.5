@@ -2,6 +2,10 @@
 
 # __monitoring software__
 
+## Risks linked to this technology
+
+* [Monitoring of confirmed cases and close contacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2141.md)
+
 ## Closest similar item
 
 * [Monitoring software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2481.md)
@@ -15,15 +19,11 @@
 * [data monitoring tools and regular updates](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1966.md)
 * [Monitoring devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2544.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Monitoring of confirmed cases and close contacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2141.md)
+* [Q1165574](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1165574.md)
 
 ## This Technology enables the following mitigations
 
 * [Monitoring social media content](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2277.md)
-
-## This Technology is identified by the following QID
-
-* [Q1165574](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1165574.md)
 

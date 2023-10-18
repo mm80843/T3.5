@@ -2,9 +2,10 @@
 
 # __Smart air quality control__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3349.md)
+* [air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_203.md)
+* [pathogen detectors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4363.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Improving indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_480.md)
 * [Improved air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1070.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [How to Make Green Building Certification \& Rating Systems More Pandemic-Sustainable?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_172.md)
+* [Air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3349.md)
 
 ## Property: has_MitigationPrinciple
 
 Implement smart air quality control technologies to detect and indicate when pathogen levels exceed safety thresholds
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_203.md)
-* [pathogen detectors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4363.md)
+* [How to Make Green Building Certification \& Rating Systems More Pandemic-Sustainable?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_172.md)
 

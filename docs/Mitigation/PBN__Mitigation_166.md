@@ -2,7 +2,7 @@
 
 # __Reliability and Robustness of Next-Generation Wearable Devices__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
 
 ## Closest similar item
@@ -18,14 +18,14 @@
 * [Touchless technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1310.md)
 * [Touch-free Technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1612.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Wearable devices for the detection of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_296.md)
 
 ## Property: has_MitigationPrinciple
 
 Ensuring wearable devices are biocompatible, energy efficient, compliant, and compact without compromising performance
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Wearable devices for the detection of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_296.md)
 

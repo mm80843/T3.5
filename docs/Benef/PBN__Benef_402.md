@@ -2,10 +2,6 @@
 
 # __Contactless identification__
 
-## Name of the Benefit
-
-Facial recognition technology can identify individuals without physical contact, reducing the risk of virus transmission
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investment in automated face recognition technology can enhance security measures, improve process efficiency, and protect against virus transmission, increasing the asset value of buildings and facilities.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_430.md)
@@ -19,4 +15,8 @@ Facial recognition technology can identify individuals without physical contact,
 ## Articles mentionning this Benefit
 
 * [Recently employed engineering techniques to reduce the spread of COVID-19 (corona virus disease 2019): a review study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_79.md)
+
+## Name of the Benefit
+
+Facial recognition technology can identify individuals without physical contact, reducing the risk of virus transmission
 

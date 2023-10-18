@@ -2,7 +2,7 @@
 
 # __Increase street greenery__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
 
 ## Closest similar item
@@ -18,14 +18,14 @@
 * [Urban Green Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1707.md)
 * [Availability of urban green space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2283.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The health benefits of the great outdoors: A systematic review and meta-analysis of greenspace exposure and health outcomes](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_50.md)
 
 ## Property: has_MitigationPrinciple
 
 Planting more trees and greenery in urban areas can improve the aesthetics, air quality, and overall health of the community. Increased street greenery can also provide shade and reduce the impact of environmental hazards such as air and noise pollution.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [The health benefits of the great outdoors: A systematic review and meta-analysis of greenspace exposure and health outcomes](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_50.md)
 

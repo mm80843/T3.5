@@ -2,6 +2,10 @@
 
 # __CCTV systems__
 
+## This Technology belongs to this TechSubgroup
+
+* [Surveillance and Monitoring Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_147.md)
+
 ## Closest similar item
 
 * [CCTV systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2480.md)
@@ -14,10 +18,6 @@
 * [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2434.md)
 * [Image acquisition & CCTV](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4538.md)
 * [digital surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1560.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Surveillance and Monitoring Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_147.md)
 
 ## This Technology belongs to this TechGroup
 

@@ -2,8 +2,9 @@
 
 # __Wiping surfaces with disinfectant__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [chlorine-containing disinfectant](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3072.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Regular cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_540.md)
 * [Enhanced Cleaning and Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_709.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [SARS-CoV-2 RNA detection of hospital isolation wards hygiene monitoring during the Coronavirus Disease 2019 outbreak in a Chinese hospital](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_55.md)
 
 ## Property: has_MitigationPrinciple
 
 Wiping surfaces of objects with chlorine-containing disinfectant regularly
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [chlorine-containing disinfectant](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3072.md)
+* [SARS-CoV-2 RNA detection of hospital isolation wards hygiene monitoring during the Coronavirus Disease 2019 outbreak in a Chinese hospital](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_55.md)
 

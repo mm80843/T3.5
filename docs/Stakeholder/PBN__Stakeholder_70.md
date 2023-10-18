@@ -2,6 +2,10 @@
 
 # __healthcare system__
 
+## This Stakeholder is identified by the following QID
+
+* [Q11000047](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11000047.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
@@ -39,8 +43,4 @@
 * [Improved public health outcomes](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_691.md)
 * [Enhanced resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_693.md)
 * [Lower healthcare costs](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_926.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q11000047](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11000047.md)
 

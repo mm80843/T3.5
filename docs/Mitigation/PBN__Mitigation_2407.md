@@ -2,8 +2,10 @@
 
 # __Interactive web apps__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [web development tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4478.md)
+* [rstudio shiny framework](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4477.md)
 
 ## Closest similar item
 
@@ -18,16 +20,14 @@
 * [Tracking applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1794.md)
 * [App-based trackers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_19.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Open-source analytics tools for studying the COVID-19 coronavirus outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_218.md)
 
 ## Property: has_MitigationPrinciple
 
 Allows users to access and explore outbreak data without coding, providing a user-friendly interface for data analysis and visualization
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [web development tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4478.md)
-* [rstudio shiny framework](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4477.md)
+* [Open-source analytics tools for studying the COVID-19 coronavirus outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_218.md)
 

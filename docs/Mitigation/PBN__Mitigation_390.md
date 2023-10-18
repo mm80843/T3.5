@@ -2,8 +2,9 @@
 
 # __Energy Efficiency__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [home energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3196.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Environmental Controls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2833.md)
 * [Infrastructure and Transportation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2537.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Coronavirus comes home? Energy use, home energy management, and the social-psychological factors of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_119.md)
 
 ## Property: has_MitigationPrinciple
 
 Optimize energy use to improve energy efficiency
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [home energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3196.md)
+* [Coronavirus comes home? Energy use, home energy management, and the social-psychological factors of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_119.md)
 

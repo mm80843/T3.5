@@ -2,6 +2,9 @@
 
 # __Enforcement personnel__
 
+## This Technology belongs to this TechSubgroup
+
+
 ## Closest similar item
 
 * [Enforcement personnel](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2500.md)
@@ -15,14 +18,11 @@
 * [increased law enforcement presence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1859.md)
 * [personnel tracking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4426.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
+* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
 
 ## This Technology is identified by the following QID
 
 * [Q4202277](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4202277.md)
-
-## This Technology belongs to this TechGroup
-
-* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
 

@@ -2,9 +2,8 @@
 
 # __Bans on disconnections__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Energy insecurity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3312.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Domestic travel ban](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1585.md)
 * [Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_577.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Contextualizing the Covid-19 pandemic for a carbon-constrained world: Insights for sustainability transitions, energy justice, and research methodology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_123.md)
+* [Energy insecurity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3312.md)
 
 ## Property: has_MitigationPrinciple
 
 Prohibit utility disconnections for non-payment to ensure individuals have continuous access to essential energy services
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Contextualizing the Covid-19 pandemic for a carbon-constrained world: Insights for sustainability transitions, energy justice, and research methodology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_123.md)
 

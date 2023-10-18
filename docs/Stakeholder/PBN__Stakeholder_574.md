@@ -19,6 +19,10 @@
 * [health organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1871.md)
 * [government health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_883.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Public Health Agencies](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_43.md)
+
 ## Risks that can be mitigated by this stakeholder
 
 * [Spread of SARS-CoV-2 in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1624.md)
@@ -31,8 +35,4 @@
 * [Health disparities among vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1138.md)
 * [Spread of COVID-19 through waste materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_809.md)
 * [Presence of symptomatic and asymptomatic carriers in the population](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1625.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Public Health Agencies](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_43.md)
 

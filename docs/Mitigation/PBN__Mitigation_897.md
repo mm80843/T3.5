@@ -2,9 +2,9 @@
 
 # __Digital tools and technologies__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Difficulties in collaboration and communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2802.md)
+* [digital tools and technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3528.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Integration of Medical Tools and Devices through the Internet](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1935.md)
 * [Digital contact tracing application](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_42.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The impact of COVID-19 outbreak on United Kingdom infrastructure sector](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_141.md)
+* [Difficulties in collaboration and communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2802.md)
 
 ## Property: has_MitigationPrinciple
 
 Facilitates remote collaboration and communication between team members
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [digital tools and technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3528.md)
+* [The impact of COVID-19 outbreak on United Kingdom infrastructure sector](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_141.md)
 

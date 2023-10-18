@@ -2,9 +2,9 @@
 
 # __Use of social media by firms__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of communication and customer relationships](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2830.md)
+* [social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_47.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Access to Social Capital](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1037.md)
 * [Use of television and social media-based exercise programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1537.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The changes in the effects of social media use of Cypriots due to COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_185.md)
+* [Lack of communication and customer relationships](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2830.md)
 
 ## Property: has_MitigationPrinciple
 
 Improve communication and customer relationships for small and medium-sized firms
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_47.md)
+* [The changes in the effects of social media use of Cypriots due to COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_185.md)
 

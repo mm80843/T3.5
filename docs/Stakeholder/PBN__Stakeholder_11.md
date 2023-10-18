@@ -2,6 +2,10 @@
 
 # __building designers__
 
+## This Stakeholder is identified by the following QID
+
+* [Q323611](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q323611.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
@@ -19,17 +23,6 @@
 * [urban planners and designers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1229.md)
 * [architect](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_364.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Inadequate housing layout](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1737.md)
-* [Home structure differences](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1483.md)
-* [Limited access to outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1740.md)
-* [Limited space in apartments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1672.md)
-* [Inadequate building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1744.md)
-* [Lack of privacy in apartments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1676.md)
-* [Limited access to nature and fresh air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1674.md)
-* [Environmental-based](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2107.md)
-
 ## Risk affecting this stakeholder
 
 * [Placement and size of openings in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1833.md)
@@ -44,7 +37,14 @@
 
 * [Estimation of exposure metrics](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_16.md)
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q323611](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q323611.md)
+* [Inadequate housing layout](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1737.md)
+* [Home structure differences](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1483.md)
+* [Limited access to outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1740.md)
+* [Limited space in apartments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1672.md)
+* [Inadequate building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1744.md)
+* [Lack of privacy in apartments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1676.md)
+* [Limited access to nature and fresh air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1674.md)
+* [Environmental-based](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2107.md)
 

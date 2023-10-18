@@ -2,8 +2,10 @@
 
 # __Reduction in Traffic__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [iot sensing infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3534.md)
+* [traffic sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3535.md)
 
 ## Closest similar item
 
@@ -18,16 +20,14 @@
 * [Active transportation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1050.md)
 * [Active transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_677.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Smart cities and a data-driven response to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_164.md)
 
 ## Property: has_MitigationPrinciple
 
 Monitoring and quantifying the reduction in traffic flow to understand the efficacy of policy interventions
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [iot sensing infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3534.md)
-* [traffic sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3535.md)
+* [Smart cities and a data-driven response to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_164.md)
 

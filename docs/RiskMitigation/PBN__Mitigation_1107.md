@@ -2,9 +2,9 @@
 
 # __Autonomous Human Behaviour__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Inaccurate or random results](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2927.md)
+* [state-transition matrix](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3658.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Social robots for continued social interactions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2425.md)
 * [Reinforcement of information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_617.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Designing a Multi-Agent Occupant Simulation System to Support Facility Planning and Analysis for COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_26.md)
+* [Inaccurate or random results](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2927.md)
 
 ## Property: has_MitigationPrinciple
 
 Design virtual humans with agency to automatically simulate realistic occupant behaviours that respond to the building environment, considering context-related and contagion-related behaviours
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [state-transition matrix](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3658.md)
+* [Designing a Multi-Agent Occupant Simulation System to Support Facility Planning and Analysis for COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_26.md)
 

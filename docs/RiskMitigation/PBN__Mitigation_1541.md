@@ -2,9 +2,8 @@
 
 # __Retaining health as a priority in economic, political, food, and built environment sectors__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Potential loss of focus on health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3128.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Public health awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1517.md)
 * [Address health inequities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_572.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Implications of COVID-19 control measures for diet and physical activity, and lessons for addressing other pandemics facing rapidly urbanising countries](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_68.md)
+* [Potential loss of focus on health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3128.md)
 
 ## Property: has_MitigationPrinciple
 
 Encourages maintaining health as a priority in various sectors even beyond the pandemic, to reduce vulnerability to diseases, promote equity, and strengthen systems for long-term health and well-being
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Implications of COVID-19 control measures for diet and physical activity, and lessons for addressing other pandemics facing rapidly urbanising countries](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_68.md)
 

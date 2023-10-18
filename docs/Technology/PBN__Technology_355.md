@@ -2,6 +2,13 @@
 
 # __renewable energy technologies__
 
+## Risks linked to this technology
+
+* [Decreased carbon emissions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1254.md)
+* [Air pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_148.md)
+* [Energy use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_614.md)
+* [Climate change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_894.md)
+
 ## Closest similar item
 
 * [Renewable energy technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2851.md)
@@ -15,18 +22,11 @@
 * [microgrid technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4179.md)
 * [solar energy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4281.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Decreased carbon emissions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1254.md)
-* [Air pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_148.md)
-* [Energy use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_614.md)
-* [Climate change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_894.md)
+* [Q12705](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q12705.md)
 
 ## This Technology enables the following mitigations
 
 * [Backup energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2232.md)
-
-## This Technology is identified by the following QID
-
-* [Q12705](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q12705.md)
 

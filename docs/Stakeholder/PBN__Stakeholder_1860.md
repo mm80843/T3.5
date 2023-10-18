@@ -2,6 +2,10 @@
 
 # __Occupational health and safety agencies__
 
+## This Stakeholder is identified by the following QID
+
+* [Q746186](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q746186.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
@@ -22,8 +26,4 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Occupational Health and Safety Agencies](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_50.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q746186](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q746186.md)
 

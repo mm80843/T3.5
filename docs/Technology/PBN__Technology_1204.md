@@ -2,6 +2,10 @@
 
 # __improved healthcare infrastructure__
 
+## Risks linked to this technology
+
+* [Higher COVID-19 hospitalizations and mortality among immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1843.md)
+
 ## Closest similar item
 
 * [Improved healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2358.md)
@@ -15,15 +19,11 @@
 * [healthcare infrastructure investments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4377.md)
 * [investments in healthcare facilities and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3283.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Higher COVID-19 hospitalizations and mortality among immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1843.md)
+* [Q4260475](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4260475.md)
 
 ## This Technology enables the following mitigations
 
 * [Enhance Access to Mental Health Care](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1834.md)
-
-## This Technology is identified by the following QID
-
-* [Q4260475](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4260475.md)
 

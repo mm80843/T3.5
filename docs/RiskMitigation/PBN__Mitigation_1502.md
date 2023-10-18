@@ -2,9 +2,9 @@
 
 # __Equitable vaccine distribution__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lower vaccination rates](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3105.md)
+* [vaccination distribution systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3892.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Vaccination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_245.md)
 * [Preventive Vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_764.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [What has been the impact of the COVID-19 pandemic on immigrants? An update on recent evidence](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_287.md)
+* [Lower vaccination rates](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3105.md)
 
 ## Property: has_MitigationPrinciple
 
 Ensuring equitable access to COVID-19 vaccines for immigrants can help mitigate the higher risk of infection and severe symptoms in this population.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [vaccination distribution systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3892.md)
+* [What has been the impact of the COVID-19 pandemic on immigrants? An update on recent evidence](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_287.md)
 

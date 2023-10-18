@@ -2,9 +2,8 @@
 
 # __Guaranteeing reimbursement of loans__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Financial loss](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2498.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Cash payments to vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_199.md)
 * [Financial support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_128.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Non-medical Interventions to Reduce the Burden of Psychosocial and Economic Impacts of COVID-19 Pandemic: A Scope Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_243.md)
+* [Financial loss](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2498.md)
 
 ## Property: has_MitigationPrinciple
 
 Assure repayment of loans taken out by individuals and businesses, providing a safety net against default.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Non-medical Interventions to Reduce the Burden of Psychosocial and Economic Impacts of COVID-19 Pandemic: A Scope Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_243.md)
 

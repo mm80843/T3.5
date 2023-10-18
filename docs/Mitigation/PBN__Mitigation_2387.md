@@ -2,8 +2,9 @@
 
 # __Larviciding__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [chemical larvicides](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4454.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Desiccant Rotor](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_277.md)
 * [Improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1660.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The importance of vector control for the control and elimination of vector-borne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_64.md)
 
 ## Property: has_MitigationPrinciple
 
 Larviciding involves the use of chemical larvicides to kill mosquito larvae in their breeding habitats. This can be done through the application of larvicides to water bodies or through the use of biological larvicides like predator species. The goal is to reduce or eliminate the immature mosquito stages and prevent adult mosquito emergence.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [chemical larvicides](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4454.md)
+* [The importance of vector control for the control and elimination of vector-borne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_64.md)
 

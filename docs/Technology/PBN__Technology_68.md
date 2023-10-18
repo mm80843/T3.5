@@ -2,6 +2,14 @@
 
 # __virtual fitness classes__
 
+## Risks linked to this technology
+
+* [Social Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1059.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Healthcare and Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_19.md)
+
 ## Closest similar item
 
 * [virtual personal trainers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1076.md)
@@ -15,19 +23,11 @@
 * [Mobile fitness applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2208.md)
 * [virtual classes and workshops](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_419.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Social Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1059.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Healthcare and Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_19.md)
+* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
 
 ## This Technology is identified by the following QID
 
 * [Q2016457](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2016457.md)
-
-## This Technology belongs to this TechGroup
-
-* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
 

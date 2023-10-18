@@ -2,9 +2,9 @@
 
 # __Increase helpline__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of reporting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2420.md)
+* [helpline system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2923.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Providing effective guidance and training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1843.md)
 * [Increased Support for Domestic Violence Services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1457.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19 and the rise of intimate partner violence](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_8.md)
+* [Lack of reporting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2420.md)
 
 ## Property: has_MitigationPrinciple
 
 Increasing the capacity and accessibility of helpline systems can encourage individuals to report intimate partner violence and seek help.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [helpline system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2923.md)
+* [COVID-19 and the rise of intimate partner violence](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_8.md)
 

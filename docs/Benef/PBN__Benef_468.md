@@ -2,10 +2,6 @@
 
 # __Improved hygiene__
 
-## Name of the Benefit
-
-Enhanced cleaning and sanitation practices create a cleaner and safer environment, reducing the risk of COVID-19 transmission.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved health and well-being of occupants, leading to higher occupancy rates and tenant satisfaction.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_504.md)
@@ -22,4 +18,8 @@ Enhanced cleaning and sanitation practices create a cleaner and safer environmen
 
 * [The Impact of the COVID-19 Pandemic on the Space Pattern Changes in Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_94.md)
 * [Assessment of COVID-19 precautionary measures in sports facilities: A case study on a health club in Saudi Arabia](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_128.md)
+
+## Name of the Benefit
+
+Enhanced cleaning and sanitation practices create a cleaner and safer environment, reducing the risk of COVID-19 transmission.
 

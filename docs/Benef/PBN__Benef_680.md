@@ -2,10 +2,6 @@
 
 # __Risk mitigation__
 
-## Name of the Benefit
-
-Credit guarantee schemes decrease the risk for banks when lending to SMEs, leading to increased lending activities and reduced default rates.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors benefit from reduced legal costs and the avoidance of project delays and financial losses. Efficient contract and claims management enhances the reputation and credibility of construction firms, attracting more investors and clients.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_728.md)
@@ -31,4 +27,8 @@ Credit guarantee schemes decrease the risk for banks when lending to SMEs, leadi
 * [COVID-19 and regional solutions for mitigating the risk of SME finance in selected ASEAN member states](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_292.md)
 * [Covid-19 Associated Risks and Mitigation Strategies relevant for the UK Construction Industry](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_210.md)
 * [COVID-19 Pandemic: Prevention and Protection Measures to Be Adopted at the Workplace](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_284.md)
+
+## Name of the Benefit
+
+Credit guarantee schemes decrease the risk for banks when lending to SMEs, leading to increased lending activities and reduced default rates.
 

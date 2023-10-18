@@ -2,6 +2,10 @@
 
 # __Waste collection and disposal technologies__
 
+## This Technology belongs to this TechSubgroup
+
+* [Water and Waste Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_134.md)
+
 ## Closest similar item
 
 * [Waste collection and disposal technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2728.md)
@@ -15,15 +19,11 @@
 * [improved waste management infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_946.md)
 * [Improved waste management infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2370.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Water and Waste Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_134.md)
+* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
 
 ## This Technology is identified by the following QID
 
 * [Q2684232](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2684232.md)
-
-## This Technology belongs to this TechGroup
-
-* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
 

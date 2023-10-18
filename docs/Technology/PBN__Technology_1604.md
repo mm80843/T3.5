@@ -2,6 +2,10 @@
 
 # __vaccine development and distribution__
 
+## Risks linked to this technology
+
+* [Lack of preexisting immunities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2109.md)
+
 ## Closest similar item
 
 * [Vaccine development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2271.md)
@@ -15,15 +19,11 @@
 * [Vaccine development and improvement technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2608.md)
 * [development of various vaccine strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1960.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Lack of preexisting immunities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2109.md)
+* [Q27133094](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q27133094.md)
 
 ## This Technology enables the following mitigations
 
 * [Preventive Vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_764.md)
-
-## This Technology is identified by the following QID
-
-* [Q27133094](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q27133094.md)
 

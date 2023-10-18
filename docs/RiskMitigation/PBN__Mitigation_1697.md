@@ -2,8 +2,9 @@
 
 # __GPS-based tracking__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [gps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3000.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Cloud-based tracing and tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_15.md)
 * [Monitoring people movement during events](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2347.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Mobile Technology Solution for COVID-19: Surveillance and Prevention](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_239.md)
 
 ## Property: has_MitigationPrinciple
 
 Tracks the location of individuals to monitor and record the frequency of interactions between infected and non-infected persons, aiding in contact tracing efforts.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [gps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3000.md)
+* [Mobile Technology Solution for COVID-19: Surveillance and Prevention](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_239.md)
 

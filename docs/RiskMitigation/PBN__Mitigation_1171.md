@@ -2,9 +2,8 @@
 
 # __Pocket spaces__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Increased risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2956.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Compact design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1159.md)
 * [Creation of space for walking and cycling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1536.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Impact of Covid-19 on the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_10.md)
+* [Increased risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2956.md)
 
 ## Property: has_MitigationPrinciple
 
 Breaking up social gathering spaces into pocket spaces to reduce congestion, spread people across multiple areas, and facilitate physical distancing in public spaces.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Impact of Covid-19 on the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_10.md)
 

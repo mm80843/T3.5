@@ -2,11 +2,13 @@
 
 # __Air Sensors__
 
-## Thees blueprints use this enabler
+## Property: has_TechEquivalent
 
-* [Indoor Environmental Quality (IEQ) monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_3.md)
-* [Installing UV in ductwork](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_10.md)
-* [Installing high-efficiency air filters](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_11.md)
+* [Air Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4532.md)
+
+## Property: has_BP_EnablerTitle
+
+enabler_007
 
 ## Closest similar item
 
@@ -21,11 +23,9 @@
 * [smart sensors for monitoring air quality](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_97.md)
 * [indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_98.md)
 
-## Property: has_TechEquivalent
+## Thees blueprints use this enabler
 
-* [Air Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4532.md)
-
-## Property: has_BP_EnablerTitle
-
-enabler_007
+* [Indoor Environmental Quality (IEQ) monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_3.md)
+* [Installing UV in ductwork](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_10.md)
+* [Installing high-efficiency air filters](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_11.md)
 

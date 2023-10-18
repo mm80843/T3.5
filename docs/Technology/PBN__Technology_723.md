@@ -2,6 +2,13 @@
 
 # __light sensors__
 
+## Risks linked to this technology
+
+* [Inadequate Natural Lighting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1457.md)
+
+## This Technology belongs to this TechSubgroup
+
+
 ## Closest similar item
 
 * [sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
@@ -14,13 +21,6 @@
 * [Water sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4533.md)
 * [Motion sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2513.md)
 * [motion sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1723.md)
-
-## Risks linked to this technology
-
-* [Inadequate Natural Lighting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1457.md)
-
-## This Technology belongs to this TechSubgroup
-
 
 ## This Technology belongs to this TechGroup
 

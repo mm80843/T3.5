@@ -2,9 +2,10 @@
 
 # __Creating flexible and adaptable spaces__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Limited space and function of rooms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2580.md)
+* [flexible furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3254.md)
+* [movable walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2993.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Flexible building systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2167.md)
 * [Flexibility and Transformation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1293.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [A Mixed Approach on Resilience of Spanish Dwellings and Households during COVID-19 Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_89.md)
+* [Limited space and function of rooms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2580.md)
 
 ## Property: has_MitigationPrinciple
 
 Providing spaces that can be easily reconfigured and adapted to various activities allows for better utilization of limited space in the home.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [flexible furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3254.md)
-* [movable walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2993.md)
+* [A Mixed Approach on Resilience of Spanish Dwellings and Households during COVID-19 Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_89.md)
 

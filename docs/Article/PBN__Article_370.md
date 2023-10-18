@@ -2,10 +2,6 @@
 
 # __A systematic review of building systems and technologies to mitigate the spread of airborne viruses__
 
-## Title of the article
-
-A systematic review of building systems and technologies to mitigate the spread of airborne viruses
-
 ## Referenced by other articles
 
 * [Rapid expansion of temporary, reliable airborne-infection isolation rooms with negative air machines for critical COVID-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_77.md)
@@ -13,11 +9,15 @@ A systematic review of building systems and technologies to mitigate the spread 
 * [Air, Surface Environmental, and Personal Protective Equipment Contamination by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) From a Symptomatic Patient](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_264.md)
 * [Continuous IEQ monitoring system: Context and development](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_160.md)
 
-## Year of publication
-
-2022
-
 ## DOI of the article
 
 10.1108/JFM-01-2021-0015
+
+## Title of the article
+
+A systematic review of building systems and technologies to mitigate the spread of airborne viruses
+
+## Year of publication
+
+2022
 

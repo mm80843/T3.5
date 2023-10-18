@@ -2,9 +2,9 @@
 
 # __Proper insulation maintenance__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Contamination of insulation in ductwork](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3059.md)
+* [proper insulation materials and cleaning procedures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3868.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Regular maintenance and cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1421.md)
 * [Improved housing conditions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1498.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Ventilation use in nonmedical settings during COVID-19: Cleaning protocol, maintenance, and recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_104.md)
+* [Contamination of insulation in ductwork](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3059.md)
 
 ## Property: has_MitigationPrinciple
 
 Insulation should be kept clean and dry to prevent contamination and microbial growth
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [proper insulation materials and cleaning procedures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3868.md)
+* [Ventilation use in nonmedical settings during COVID-19: Cleaning protocol, maintenance, and recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_104.md)
 

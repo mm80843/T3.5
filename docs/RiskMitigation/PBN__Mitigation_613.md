@@ -2,8 +2,9 @@
 
 # __Upper-room UV lights__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [uv light fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3361.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Upper room UVGI](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2291.md)
 * [UV Irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_226.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Upper-Room Ultraviolet Light and Negative Air Ionization to Prevent Tuberculosis Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_105.md)
 
 ## Property: has_MitigationPrinciple
 
 Upper-room UV lights flood the upper part of a room with high-intensity UV light. UV light is known to kill Mycobacterium tuberculosis, the bacteria causing tuberculosis. By killing the bacteria in the air, it reduces the risk of airborne transmission.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [uv light fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3361.md)
+* [Upper-Room Ultraviolet Light and Negative Air Ionization to Prevent Tuberculosis Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_105.md)
 

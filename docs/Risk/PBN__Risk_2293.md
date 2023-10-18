@@ -2,19 +2,22 @@
 
 # __and physical health__
 
+## Property: has_RiskHealth
+
+
+## Property: has_RiskGBN
+
+
+## Description of the risk
+
+mobility during lockdown
+
 ## Property: has_RiskType
 
 
-## People affected by this risk
+## Articles mentionning the risk
 
-
-## Name of the risk
-
-increased stress levels
-
-## Property: has_RiskISO_Purpose
-
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+* [venter_urban_2020 venter_urban_2020 nan venter_urban_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_304.md)
 
 ## Closest similar item
 
@@ -29,33 +32,30 @@ increased stress levels
 * [Physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3347.md)
 * [Increased mental and physical health problems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3087.md)
 
-## Description of the risk
+## People affected by this risk
 
-mobility during lockdown
-
-## Technologies linked to the risk
-
-* [promotion of virtual tours and classes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1878.md)
-* [experiences](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1877.md)
-
-## Property: has_RiskHealth
-
-
-## Mitigations of this risk
-
-* [virtual access to green spaces during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2981.md)
-
-## Articles mentionning the risk
-
-* [venter_urban_2020 venter_urban_2020 nan venter_urban_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_304.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Property: has_RiskGBN
-
-
 ## Stakeholders who can mitigate this risk
 
+
+## Name of the risk
+
+increased stress levels
+
+## Mitigations of this risk
+
+* [virtual access to green spaces during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2981.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
+## Technologies linked to the risk
+
+* [promotion of virtual tours and classes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1878.md)
+* [experiences](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1877.md)
 

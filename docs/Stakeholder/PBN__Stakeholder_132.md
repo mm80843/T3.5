@@ -2,6 +2,10 @@
 
 # __residents of low-income neighborhoods__
 
+## This Stakeholder is identified by the following QID
+
+* [Q12301128](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q12301128.md)
+
 ## Closest similar item
 
 * [residents of low-socioeconomic status neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_133.md)
@@ -23,8 +27,4 @@
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Reduction in health inequalities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_226.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q12301128](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q12301128.md)
 

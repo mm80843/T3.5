@@ -19,11 +19,11 @@
 * [environmental microbiologists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1052.md)
 * [conservationists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_935.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Zoonotic disease emergence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_488.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Ecology](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_165.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Zoonotic disease emergence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_488.md)
 

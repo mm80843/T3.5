@@ -2,7 +2,7 @@
 
 # __Risk mapping__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
 
 ## Closest similar item
@@ -18,14 +18,14 @@
 * [Investing in disaster risk reduction and preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1080.md)
 * [Vulnerability Identification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2181.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Integrating rapid risk mapping and mobile phone call record data for strategic malaria elimination planning](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_76.md)
 
 ## Property: has_MitigationPrinciple
 
 Understand epidemiology of disease, proactively deploy control measures, identify and treat parasite reservoirs
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Integrating rapid risk mapping and mobile phone call record data for strategic malaria elimination planning](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_76.md)
 

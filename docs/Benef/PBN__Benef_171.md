@@ -2,10 +2,6 @@
 
 # __Improved mood and productivity__
 
-## Name of the Benefit
-
-Good lighting design enhances mood, improves visibility, and stimulates productivity.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Occupants experience improved mood, enhanced well-being, and increased productivity, leading to better performance and output.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_175.md)
@@ -17,4 +13,8 @@ Good lighting design enhances mood, improves visibility, and stimulates producti
 ## Articles mentionning this Benefit
 
 * [Ten questions concerning occupant health in buildings during normal operations and extreme events including the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_38.md)
+
+## Name of the Benefit
+
+Good lighting design enhances mood, improves visibility, and stimulates productivity.
 

@@ -2,6 +2,10 @@
 
 # __Room dividers__
 
+## This Technology belongs to this TechSubgroup
+
+* [Building Materials](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_180.md)
+
 ## Closest similar item
 
 * [Room dividers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2667.md)
@@ -14,10 +18,6 @@
 * [modular furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1005.md)
 * [Modular furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2668.md)
 * [dedicated isolation rooms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3548.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Building Materials](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_180.md)
 
 ## This Technology belongs to this TechGroup
 

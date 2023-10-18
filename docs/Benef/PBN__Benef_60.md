@@ -2,10 +2,6 @@
 
 # __Data integration__
 
-## Name of the Benefit
-
-Ontologies support data integration, sharing, and reproducibility, facilitating computer-assisted data analysis and reasoning.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can benefit from improved data analysis and reasoning, leading to more accurate and valuable insights, and potentially valuable discoveries and patents.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_60.md)
@@ -18,4 +14,8 @@ Ontologies support data integration, sharing, and reproducibility, facilitating 
 ## Articles mentionning this Benefit
 
 * [CIDO, a community-based ontology for coronavirus disease knowledge and data integration, sharing, and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_13.md)
+
+## Name of the Benefit
+
+Ontologies support data integration, sharing, and reproducibility, facilitating computer-assisted data analysis and reasoning.
 

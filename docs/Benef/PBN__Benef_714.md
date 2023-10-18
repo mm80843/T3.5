@@ -2,10 +2,6 @@
 
 # __Client satisfaction__
 
-## Name of the Benefit
-
-Ensures the safety of workforce and minimizes project risks
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Enhances client trust and project success](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_766.md)
@@ -17,4 +13,8 @@ Ensures the safety of workforce and minimizes project risks
 ## Articles mentionning this Benefit
 
 * [The impact of COVID-19 outbreak on United Kingdom infrastructure sector](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_141.md)
+
+## Name of the Benefit
+
+Ensures the safety of workforce and minimizes project risks
 

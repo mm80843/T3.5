@@ -2,10 +2,6 @@
 
 # __Government intervention__
 
-## Name of the Benefit
-
-Governments to give financial aids, more incentives.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Government intervention through financial aids can ease the financial burden on contractors, providing them with necessary resources to continue their operations and recover from the financial impacts of the pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_622.md)
@@ -17,4 +13,8 @@ Governments to give financial aids, more incentives.
 ## Articles mentionning this Benefit
 
 * [Mechanisms for addressing the impact of COVID-19 on infrastructure projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_115.md)
+
+## Name of the Benefit
+
+Governments to give financial aids, more incentives.
 

@@ -2,6 +2,12 @@
 
 # __collaborative platforms__
 
+## Risks linked to this technology
+
+* [Supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_10.md)
+* [Building closures and restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1864.md)
+* [Changes in demand patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1772.md)
+
 ## Closest similar item
 
 * [collaboration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_155.md)
@@ -15,19 +21,13 @@
 * [Participatory platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2623.md)
 * [participatory platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1591.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_10.md)
-* [Building closures and restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1864.md)
-* [Changes in demand patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1772.md)
+* [Q582151](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q582151.md)
 
 ## This Technology enables the following mitigations
 
 * [Knowledge sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1357.md)
 * [Strengthen local partnerships](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2095.md)
 * [Multisectoral action to reduce inequalities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1538.md)
-
-## This Technology is identified by the following QID
-
-* [Q582151](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q582151.md)
 

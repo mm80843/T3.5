@@ -2,6 +2,15 @@
 
 # __economy__
 
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Private investment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_151.md)
+* [No pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_707.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q2744375](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2744375.md)
+
 ## Closest similar item
 
 * [national economies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_86.md)
@@ -14,13 +23,4 @@
 * [government and business](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2419.md)
 * [governments and businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1248.md)
 * [local economies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_520.md)
-
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Private investment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_151.md)
-* [No pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_707.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q2744375](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2744375.md)
 

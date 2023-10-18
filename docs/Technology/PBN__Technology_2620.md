@@ -2,6 +2,10 @@
 
 # __Development of accurate language databases__
 
+## This Technology belongs to this TechSubgroup
+
+* [Development of Language Resources](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_174.md)
+
 ## Closest similar item
 
 * [Development of accurate language databases](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2620.md)
@@ -15,15 +19,11 @@
 * [reliable information sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1996.md)
 * [Reliable information sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2153.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Development of Language Resources](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_174.md)
+* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
 
 ## This Technology is identified by the following QID
 
 * [Q41591651](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q41591651.md)
-
-## This Technology belongs to this TechGroup
-
-* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
 

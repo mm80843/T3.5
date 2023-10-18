@@ -2,24 +2,26 @@
 
 # __Disruption of education system__
 
+## Property: has_RiskHealth
+
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
+
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Description of the risk
+
+Closure of schools and universities, shift to remote learning due to COVID-19.
+
 ## Property: has_RiskType
 
 * [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 * [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 
-## People affected by this risk
+## Articles mentionning the risk
 
-* [teachers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_102.md)
-* [parents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_104.md)
-* [students](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_101.md)
-
-## Name of the risk
-
-Disruption of learning, unequal access to education, reduced social interaction among students.
-
-## Property: has_RiskISO_Purpose
-
-* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_0.md)
+* [Proximity and post-COVID-19 urban development: Reflections from Milan, Italy](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_216.md)
 
 ## Closest similar item
 
@@ -34,39 +36,37 @@ Disruption of learning, unequal access to education, reduced social interaction 
 * [Interrupted education for children and adults](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_780.md)
 * [Lack of education initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1517.md)
 
-## Description of the risk
+## People affected by this risk
 
-Closure of schools and universities, shift to remote learning due to COVID-19.
-
-## Technologies linked to the risk
-
-* [digital learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1809.md)
-* [online resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_224.md)
-* [remote teaching tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1810.md)
-
-## Property: has_RiskHealth
-
-* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
-
-## Mitigations of this risk
-
-* [Invest in digital infrastructure for remote learning, provide devices and internet access to students, support teachers and parents in adapting to remote education.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2912.md)
-
-## Articles mentionning the risk
-
-* [Proximity and post-COVID-19 urban development: Reflections from Milan, Italy](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_216.md)
+* [teachers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_102.md)
+* [parents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_104.md)
+* [students](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_101.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
 ## Stakeholders who can mitigate this risk
 
 * [education authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1498.md)
 * [parents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_104.md)
 * [schools](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_366.md)
+
+## Name of the risk
+
+Disruption of learning, unequal access to education, reduced social interaction among students.
+
+## Mitigations of this risk
+
+* [Invest in digital infrastructure for remote learning, provide devices and internet access to students, support teachers and parents in adapting to remote education.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2912.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_0.md)
+
+## Technologies linked to the risk
+
+* [digital learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1809.md)
+* [online resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_224.md)
+* [remote teaching tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1810.md)
 

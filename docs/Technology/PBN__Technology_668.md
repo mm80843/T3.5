@@ -2,6 +2,14 @@
 
 # __smart meters__
 
+## Risks linked to this technology
+
+* [Energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_745.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Internet of Things (IoT) and Smart Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_94.md)
+
 ## Closest similar item
 
 * [Smart meters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2843.md)
@@ -15,19 +23,11 @@
 * [energy monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_352.md)
 * [zigbee-based monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4335.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_745.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Internet of Things (IoT) and Smart Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_94.md)
+* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
 
 ## This Technology enables the following mitigations
 
 * [Two-way Communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_381.md)
-
-## This Technology belongs to this TechGroup
-
-* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
 

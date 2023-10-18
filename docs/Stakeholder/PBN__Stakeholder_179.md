@@ -19,14 +19,6 @@
 * [construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_149.md)
 * [contracting clients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1018.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Poor construction techniques and low-quality building materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1061.md)
-* [Client confidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1530.md)
-* [Suspension of projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_595.md)
-* [Limited site access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1527.md)
-* [Lack of hygienic building materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1739.md)
-
 ## Risk affecting this stakeholder
 
 * [Lack of Social Distancing Implementation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1203.md)
@@ -74,4 +66,12 @@
 * [Business continuity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_679.md)
 * [Risk mitigation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_680.md)
 * [Contractual stability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1013.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Poor construction techniques and low-quality building materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1061.md)
+* [Client confidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1530.md)
+* [Suspension of projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_595.md)
+* [Limited site access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1527.md)
+* [Lack of hygienic building materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1739.md)
 

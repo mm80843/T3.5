@@ -2,6 +2,13 @@
 
 # __quality control in wastewater sampling__
 
+## Risks linked to this technology
+
+* [Decay of SARS-CoV-2 in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1450.md)
+
+## This Technology belongs to this TechSubgroup
+
+
 ## Closest similar item
 
 * [wastewater sampling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3432.md)
@@ -15,18 +22,11 @@
 * [quality control processes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1637.md)
 * [wastewater treatment plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1353.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Decay of SARS-CoV-2 in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1450.md)
-
-## This Technology belongs to this TechSubgroup
-
+* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
 
 ## This Technology is identified by the following QID
 
 * [Q66309937](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q66309937.md)
-
-## This Technology belongs to this TechGroup
-
-* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
 

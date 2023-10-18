@@ -2,10 +2,6 @@
 
 # __Remote patient monitoring__
 
-## Name of the Benefit
-
-IoT enables remote monitoring of high-risk patients, allowing for immediate intervention if necessary.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investment in cloud-based remote monitoring can improve healthcare efficiency and reduce healthcare costs by preventing complications and hospital admissions](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_528.md)
@@ -21,4 +17,8 @@ IoT enables remote monitoring of high-risk patients, allowing for immediate inte
 
 * [Internet of things (IoT) applications to fight against COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_295.md)
 * [The Rise of Wearable Devices during the COVID-19 Pandemic: A Systematic Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_99.md)
+
+## Name of the Benefit
+
+IoT enables remote monitoring of high-risk patients, allowing for immediate intervention if necessary.
 

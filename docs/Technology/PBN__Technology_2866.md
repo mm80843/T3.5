@@ -2,6 +2,10 @@
 
 # __Cloud service technology__
 
+## This Technology belongs to this TechSubgroup
+
+* [Software and Applications](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_122.md)
+
 ## Closest similar item
 
 * [Cloud service technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2866.md)
@@ -15,15 +19,11 @@
 * [data sharing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3837.md)
 * [it infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4009.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Software and Applications](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_122.md)
+* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
 
 ## This Technology is identified by the following QID
 
 * [Q1346018](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1346018.md)
-
-## This Technology belongs to this TechGroup
-
-* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
 

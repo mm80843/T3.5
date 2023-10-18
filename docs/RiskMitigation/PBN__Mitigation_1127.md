@@ -2,8 +2,10 @@
 
 # __Real-time building occupancy__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [occupancy estimation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3676.md)
+* [kalman filter](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3677.md)
 
 ## Closest similar item
 
@@ -18,16 +20,14 @@
 * [Flexible building](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1662.md)
 * [Access to common building spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2127.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Building occupancy estimation with people flow modeling in AnyLogic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_29.md)
 
 ## Property: has_MitigationPrinciple
 
 Real-time estimation of building occupancy for various purposes such as HVAC control, elevator dispatching, and egress management.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [occupancy estimation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3676.md)
-* [kalman filter](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3677.md)
+* [Building occupancy estimation with people flow modeling in AnyLogic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_29.md)
 

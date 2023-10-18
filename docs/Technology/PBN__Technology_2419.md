@@ -2,6 +2,9 @@
 
 # __Ethical frameworks__
 
+## This Technology belongs to this TechSubgroup
+
+
 ## Closest similar item
 
 * [Ethical frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2419.md)
@@ -15,14 +18,11 @@
 * [policy frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1494.md)
 * [ethical considerations and responsible building practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3455.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
+* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_5.md)
 
 ## This Technology is identified by the following QID
 
 * [Q58927801](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q58927801.md)
-
-## This Technology belongs to this TechGroup
-
-* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_5.md)
 

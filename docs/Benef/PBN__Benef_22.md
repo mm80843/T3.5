@@ -2,10 +2,6 @@
 
 # __Enhanced supply chain performance and risk management__
 
-## Name of the Benefit
-
-Data-driven decision-making processes can improve supply chain performance and risk management, enabling better identification and mitigation of disruptions.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can benefit from improved operational efficiency, reduced costs, and enhanced risk management, leading to increased asset value and profitability.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_22.md)
@@ -17,4 +13,8 @@ Data-driven decision-making processes can improve supply chain performance and r
 ## Articles mentionning this Benefit
 
 * [Mapping research in logistics and supply chain management during COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_4.md)
+
+## Name of the Benefit
+
+Data-driven decision-making processes can improve supply chain performance and risk management, enabling better identification and mitigation of disruptions.
 

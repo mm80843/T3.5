@@ -2,6 +2,13 @@
 
 # __hepa filters__
 
+## Risks linked to this technology
+
+* [Aerosol transmission of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_922.md)
+* [Poor indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_294.md)
+* [Inadequate air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1742.md)
+* [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
+
 ## This Technology enables the following mitigations
 
 * [Filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_214.md)
@@ -15,13 +22,6 @@
 * [Enhanced Ventilation Systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_627.md)
 * [Efficiency of air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2129.md)
 * [HEPA filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2466.md)
-
-## Risks linked to this technology
-
-* [Aerosol transmission of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_922.md)
-* [Poor indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_294.md)
-* [Inadequate air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1742.md)
-* [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
 
 ## Closest similar item
 

@@ -2,6 +2,10 @@
 
 # __Remote sensing technologies__
 
+## This Technology belongs to this TechSubgroup
+
+* [Sensor and Remote Sensing Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_153.md)
+
 ## Closest similar item
 
 * [Remote sensing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2471.md)
@@ -14,10 +18,6 @@
 * [Remote monitoring and tracking technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2344.md)
 * [satellite imagery](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1684.md)
 * [remote communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3880.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Sensor and Remote Sensing Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_153.md)
 
 ## This Technology belongs to this TechGroup
 

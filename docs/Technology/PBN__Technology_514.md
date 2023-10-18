@@ -2,6 +2,15 @@
 
 # __data management systems__
 
+## Risks linked to this technology
+
+* [Data capture challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1336.md)
+* [Under-notification of cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1368.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Data Governance and Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_142.md)
+
 ## Closest similar item
 
 * [data management techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_158.md)
@@ -14,15 +23,6 @@
 * [Digital data collection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2648.md)
 * [data collection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_760.md)
 * [Data collection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2528.md)
-
-## Risks linked to this technology
-
-* [Data capture challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1336.md)
-* [Under-notification of cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1368.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Data Governance and Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_142.md)
 
 ## This Technology belongs to this TechGroup
 

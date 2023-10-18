@@ -2,6 +2,10 @@
 
 # __Media regulations__
 
+## This Technology belongs to this TechSubgroup
+
+* [Technology and Digital Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_55.md)
+
 ## Closest similar item
 
 * [Media regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2151.md)
@@ -14,10 +18,6 @@
 * [privacy regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1594.md)
 * [media advertising](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2959.md)
 * [digital media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3581.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Technology and Digital Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_55.md)
 
 ## This Technology belongs to this TechGroup
 

@@ -2,9 +2,10 @@
 
 # __Increased self-awareness of social media users__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Spread of false information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_848.md)
+* [fact-checking tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_7.md)
+* [user awareness](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3562.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Use of social media by firms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_959.md)
 * [Decreased show-off behavior on social media](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_967.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The changes in the effects of social media use of Cypriots due to COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_185.md)
+* [Spread of false information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_848.md)
 
 ## Property: has_MitigationPrinciple
 
 Encourage users to verify information before sharing and increase critical thinking skills
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [fact-checking tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_7.md)
-* [user awareness](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3562.md)
+* [The changes in the effects of social media use of Cypriots due to COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_185.md)
 

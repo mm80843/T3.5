@@ -2,10 +2,6 @@
 
 # __Tailored protection for symptomatic and asymptomatic patients__
 
-## Name of the Benefit
-
-Evaluating differences in efficacy based on symptoms allows for tailored protection strategies, ensuring appropriate measures are taken for each group
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can invest in research to develop targeted protection measures, potentially leading to the development of new therapeutics or improved vaccine strategies.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1325.md)
@@ -17,4 +13,8 @@ Evaluating differences in efficacy based on symptoms allows for tailored protect
 ## Articles mentionning this Benefit
 
 * [Contributions to the mitigation of the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_245.md)
+
+## Name of the Benefit
+
+Evaluating differences in efficacy based on symptoms allows for tailored protection strategies, ensuring appropriate measures are taken for each group
 

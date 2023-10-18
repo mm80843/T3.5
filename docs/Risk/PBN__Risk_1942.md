@@ -2,22 +2,24 @@
 
 # __Lack of data standardization__
 
+## Property: has_RiskHealth
+
+
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Description of the risk
+
+Lack of standardized data models hinders data analysis and integration in epidemiology research.
+
 ## Property: has_RiskType
 
 * [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 
-## People affected by this risk
+## Articles mentionning the risk
 
-* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
-* [data scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_627.md)
-
-## Name of the risk
-
-Compromised comparability and reproducibility of research findings.
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+* [The COVID-19 epidemiology and monitoring ontology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_259.md)
 
 ## Closest similar item
 
@@ -32,36 +34,34 @@ Compromised comparability and reproducibility of research findings.
 * [Inadequate data quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_382.md)
 * [Lack of standards for publication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1340.md)
 
-## Description of the risk
+## People affected by this risk
 
-Lack of standardized data models hinders data analysis and integration in epidemiology research.
-
-## Technologies linked to the risk
-
-* [interoperability guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1349.md)
-* [data modeling standards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1348.md)
-
-## Property: has_RiskHealth
-
-
-## Mitigations of this risk
-
-* [Adopt common data models such as Phenopackets or OHDSI standards.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2548.md)
-
-## Articles mentionning the risk
-
-* [The COVID-19 epidemiology and monitoring ontology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_259.md)
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [data scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_627.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Governance, empowerment and engagement](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_6.md)
 
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
 ## Stakeholders who can mitigate this risk
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [data scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_627.md)
+
+## Name of the risk
+
+Compromised comparability and reproducibility of research findings.
+
+## Mitigations of this risk
+
+* [Adopt common data models such as Phenopackets or OHDSI standards.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2548.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Technologies linked to the risk
+
+* [interoperability guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1349.md)
+* [data modeling standards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1348.md)
 

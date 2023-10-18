@@ -2,9 +2,11 @@
 
 # __Scalability and QoS provisioning in massive connectivity regime__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Network congestion and poor QoS](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3301.md)
+* [network slicing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1582.md)
+* [mec](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1584.md)
+* [massive mimo](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4152.md)
 
 ## Closest similar item
 
@@ -19,17 +21,15 @@
 * [Implement reliable communication protocols and redundancy measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4184.md)
 * [Centralized communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3840.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The role of 5G for digital healthcare against COVID-19 pandemic: Opportunities and challenges](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_9.md)
+* [Network congestion and poor QoS](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3301.md)
 
 ## Property: has_MitigationPrinciple
 
 Utilization of network slicing, multi-access edge computing, and massive MIMO technology to improve scalability and ensure quality of service in 5G networks with a large number of connected devices
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [network slicing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1582.md)
-* [mec](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1584.md)
-* [massive mimo](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4152.md)
+* [The role of 5G for digital healthcare against COVID-19 pandemic: Opportunities and challenges](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_9.md)
 

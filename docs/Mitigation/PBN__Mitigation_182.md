@@ -2,9 +2,9 @@
 
 # __Natural Daylight Access__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Poor Mood and Sleep](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2480.md)
+* [daylight sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3045.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Outdoor access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_776.md)
 * [Enhancing natural lighting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_481.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Ten questions concerning occupant health in buildings during normal operations and extreme events including the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_38.md)
+* [Poor Mood and Sleep](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2480.md)
 
 ## Property: has_MitigationPrinciple
 
 Providing access to natural light to improve mood, sleep quality, and overall well-being.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [daylight sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3045.md)
+* [Ten questions concerning occupant health in buildings during normal operations and extreme events including the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_38.md)
 

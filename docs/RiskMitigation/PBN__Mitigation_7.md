@@ -2,6 +2,24 @@
 
 # __Quarantine__
 
+## This Mitigation is enabled by the following technologies
+
+* [quarantine facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3549.md)
+* [isolation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2896.md)
+
+## Closest similar item
+
+* [Quarantines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_18.md)
+* [Effective quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2247.md)
+* [Home quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_238.md)
+* [Quarantining](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1743.md)
+* [Quarantine measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1133.md)
+* [Quarantine Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_461.md)
+* [Quarantine facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_768.md)
+* [Household quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_666.md)
+* [Mandatory quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1338.md)
+* [Compliance of Quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1939.md)
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Transmission of the disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3308.md)
@@ -17,18 +35,9 @@
 * [Transmission from infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3331.md)
 * [Transmission of Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2812.md)
 
-## Closest similar item
+## Property: has_MitigationPrinciple
 
-* [Quarantines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_18.md)
-* [Effective quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2247.md)
-* [Home quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_238.md)
-* [Quarantining](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1743.md)
-* [Quarantine measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1133.md)
-* [Quarantine Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_461.md)
-* [Quarantine facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_768.md)
-* [Household quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_666.md)
-* [Mandatory quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1338.md)
-* [Compliance of Quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1939.md)
+Isolate and restrict the movement of individuals who have been in contact with infected individuals or are infected
 
 ## Property: has_MitigationSource
 
@@ -51,13 +60,4 @@
 * [Questioning the use of the balcony in apartments during the COVID-19 pandemic process](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_165.md)
 * [How loneliness is talked about in social media during COVID-19 pandemic: Text mining of 4,492 Twitter feeds](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_190.md)
 * [Covid-19 and asset management in EU: a preliminary assessment of performance and investment styles](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_271.md)
-
-## Property: has_MitigationPrinciple
-
-Isolate and restrict the movement of individuals who have been in contact with infected individuals or are infected
-
-## This Mitigation is enabled by the following technologies
-
-* [quarantine facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3549.md)
-* [isolation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2896.md)
 

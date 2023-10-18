@@ -2,9 +2,9 @@
 
 # __Access to Clean Cooking Fuels__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [IAP, Poor Health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3246.md)
+* [access to clean fuels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4054.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Energy-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_90.md)
 * [Fossil fuel divestment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1055.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [A comprehensive review on indoor air quality monitoring systems for enhanced public health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_281.md)
+* [IAP, Poor Health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3246.md)
 
 ## Property: has_MitigationPrinciple
 
 Increase access to clean cooking fuels, such as electricity and gas, in neighbourhoods to reduce reliance on biomass fuels and minimize indoor air pollution and associated health risks.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [access to clean fuels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4054.md)
+* [A comprehensive review on indoor air quality monitoring systems for enhanced public health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_281.md)
 

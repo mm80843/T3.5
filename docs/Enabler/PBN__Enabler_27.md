@@ -2,13 +2,13 @@
 
 # __Design & Construction software (BIM)__
 
-## Thees blueprints use this enabler
+## Property: has_TechEquivalent
 
-* [Adapted architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_2.md)
-* [Tender support at building stage](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_9.md)
-* [Building adaptation for flexible use](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_13.md)
-* [Acces to green space](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_16.md)
-* [Enhancing physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_23.md)
+* [Design & Construction software (BIM)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4552.md)
+
+## Property: has_BP_EnablerTitle
+
+enabler_028
 
 ## Closest similar item
 
@@ -23,11 +23,11 @@
 * [building design](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_285.md)
 * [supply chain design software](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_286.md)
 
-## Property: has_TechEquivalent
+## Thees blueprints use this enabler
 
-* [Design & Construction software (BIM)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4552.md)
-
-## Property: has_BP_EnablerTitle
-
-enabler_028
+* [Adapted architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_2.md)
+* [Tender support at building stage](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_9.md)
+* [Building adaptation for flexible use](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_13.md)
+* [Acces to green space](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_16.md)
+* [Enhancing physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_23.md)
 

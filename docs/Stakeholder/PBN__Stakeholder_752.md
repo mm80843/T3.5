@@ -19,14 +19,14 @@
 * [urban planning department](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1602.md)
 * [urban planning agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_552.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Urban Planning Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_0.md)
+
 ## Risks that can be mitigated by this stakeholder
 
 * [Lack of green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2373.md)
 * [Occupancy density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1237.md)
 * [Insufficient public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1738.md)
 * [Streets re-designed](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1458.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Urban Planning Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_0.md)
 

@@ -2,6 +2,10 @@
 
 # __public health officials__
 
+## This Stakeholder is identified by the following QID
+
+* [Q189603](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q189603.md)
+
 ## Closest similar item
 
 * [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
@@ -14,19 +18,6 @@
 * [public health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_58.md)
 * [public-health agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1865.md)
 * [public health officers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_821.md)
-
-## Risks that can be mitigated by this stakeholder
-
-* [Spread of invasive mosquito spp](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1646.md)
-* [Climate-associated diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1645.md)
-* [Key factors of COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2361.md)
-* [Knowledge gaps and future threats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2362.md)
-* [Invasive individual testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2367.md)
-* [Emerging local hot spots](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2368.md)
-* [Population susceptibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_429.md)
-* [Inadequate mosquito control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1647.md)
-* [Limited access to testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2366.md)
-* [Unclear origin of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2358.md)
 
 ## Risk affecting this stakeholder
 
@@ -67,7 +58,16 @@
 * [Enhanced health monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1376.md)
 * [Early detection of potential outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1388.md)
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q189603](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q189603.md)
+* [Spread of invasive mosquito spp](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1646.md)
+* [Climate-associated diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1645.md)
+* [Key factors of COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2361.md)
+* [Knowledge gaps and future threats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2362.md)
+* [Invasive individual testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2367.md)
+* [Emerging local hot spots](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2368.md)
+* [Population susceptibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_429.md)
+* [Inadequate mosquito control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1647.md)
+* [Limited access to testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2366.md)
+* [Unclear origin of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2358.md)
 

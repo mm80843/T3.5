@@ -2,10 +2,6 @@
 
 # __Enhanced access to integrated UGS__
 
-## Name of the Benefit
-
-Integrated UGS that provide opportunities for both social interaction and secluded relaxation can ensure that citizens have equitable access to the benefits of UGS, promoting social cohesion and community well-being.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors investing in the development of integrated UGS can benefit from increased demand for properties in these areas, as they provide a unique combination of social interaction and relaxation spaces, improving the overall desirability and value of the properties.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1063.md)
@@ -19,4 +15,8 @@ Integrated UGS that provide opportunities for both social interaction and seclud
 ## Articles mentionning this Benefit
 
 * [Green in times of COVID-19: urban green space relevance during the COVID-19 pandemic in Buenos Aires City](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_198.md)
+
+## Name of the Benefit
+
+Integrated UGS that provide opportunities for both social interaction and secluded relaxation can ensure that citizens have equitable access to the benefits of UGS, promoting social cohesion and community well-being.
 

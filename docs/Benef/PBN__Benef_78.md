@@ -2,10 +2,6 @@
 
 # __Cost savings through coating existing parts__
 
-## Name of the Benefit
-
-Cold-spray copper coating allows for the reuse of existing steel parts, reducing the need for expensive replacements and minimizing disruption to operations.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can benefit from investing in copper coating technology as it offers a cost-effective solution to enhance the value and longevity of existing infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_79.md)
@@ -17,4 +13,8 @@ Cold-spray copper coating allows for the reuse of existing steel parts, reducing
 ## Articles mentionning this Benefit
 
 * [Sars-CoV-2 (COVID-19) inactivation capability of copper-coated touch surface fabricated by cold-spray technology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_16.md)
+
+## Name of the Benefit
+
+Cold-spray copper coating allows for the reuse of existing steel parts, reducing the need for expensive replacements and minimizing disruption to operations.
 

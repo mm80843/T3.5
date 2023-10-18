@@ -2,6 +2,10 @@
 
 # __emergency response teams__
 
+## This Stakeholder is identified by the following QID
+
+* [Q1122253](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1122253.md)
+
 ## Closest similar item
 
 * [emergency response agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_558.md)
@@ -22,8 +26,4 @@
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Rapid and inexpensive tracking](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1212.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q1122253](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1122253.md)
 

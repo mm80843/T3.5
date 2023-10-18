@@ -2,9 +2,11 @@
 
 # __Use of simulation for policy-making__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Need to clearly define criteria](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3178.md)
+* [simulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_389.md)
+* [ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
+* [computational models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3961.md)
 
 ## Closest similar item
 
@@ -19,17 +21,15 @@
 * [Government Policy Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1029.md)
 * [Flexible working policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1849.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [When the fourth water and digital revolution encountered COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_207.md)
+* [Need to clearly define criteria](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3178.md)
 
 ## Property: has_MitigationPrinciple
 
 Supports policy simulation, testing, and anticipation of consequences before implementation
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [simulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_389.md)
-* [ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
-* [computational models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3961.md)
+* [When the fourth water and digital revolution encountered COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_207.md)
 

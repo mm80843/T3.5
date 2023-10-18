@@ -2,9 +2,9 @@
 
 # __Determining ideal projects__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Financial crisis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2067.md)
+* [project evaluation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4127.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Longer project timelines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1566.md)
 * [Value-driven design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_785.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The Effects of Pandemic on Construction Industry in the UK](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_75.md)
+* [Financial crisis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2067.md)
 
 ## Property: has_MitigationPrinciple
 
 Identifying and pursuing ideal projects to counter financial crisis and ensure success.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [project evaluation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4127.md)
+* [The Effects of Pandemic on Construction Industry in the UK](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_75.md)
 

@@ -2,9 +2,8 @@
 
 # __Creating mechanisms for psychosocial support__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Stress on individual providers and general operations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3157.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Support from family and friends](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_69.md)
 * [Behavioral Interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_529.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Mental Health and the Covid-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_167.md)
+* [Stress on individual providers and general operations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3157.md)
 
 ## Property: has_MitigationPrinciple
 
 Establish channels for accessing resources and support for mental health and well-being
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Mental Health and the Covid-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_167.md)
 

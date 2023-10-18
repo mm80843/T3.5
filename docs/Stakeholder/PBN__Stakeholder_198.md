@@ -2,6 +2,10 @@
 
 # __urban population__
 
+## This Stakeholder is identified by the following QID
+
+* [Q4145472](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4145472.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
@@ -32,8 +36,4 @@
 * [Improved urban equality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_423.md)
 * [Reduced transport-related emissions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_424.md)
 * [Enhanced digital change](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_425.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q4145472](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4145472.md)
 

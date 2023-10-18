@@ -2,9 +2,9 @@
 
 # __Business Continuity Guideline__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Workplace closures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3164.md)
+* [flexible working models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3949.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Regulatory practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_103.md)
 * [Business return plan](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_905.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19 Experience Transforming the Protective Environment of Office Buildings and Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_120.md)
+* [Workplace closures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3164.md)
 
 ## Property: has_MitigationPrinciple
 
 Establish protocols for business continuity, allow flexible work arrangements
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [flexible working models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3949.md)
+* [COVID-19 Experience Transforming the Protective Environment of Office Buildings and Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_120.md)
 

@@ -2,10 +2,6 @@
 
 # __Reduced vulnerability__
 
-## Name of the Benefit
-
-Provides safer and more spacious living conditions, reducing overcrowding and lowering the risk of transmission within households.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can invest in the development of affordable housing with resilient design in low-income communities, contributing to community well-being and potentially attracting residents seeking safer and more comfortable living spaces.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_31.md)
@@ -17,4 +13,8 @@ Provides safer and more spacious living conditions, reducing overcrowding and lo
 ## Articles mentionning this Benefit
 
 * [Urban design attributes and resilience: COVID-19 evidence from New York City](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_6.md)
+
+## Name of the Benefit
+
+Provides safer and more spacious living conditions, reducing overcrowding and lowering the risk of transmission within households.
 

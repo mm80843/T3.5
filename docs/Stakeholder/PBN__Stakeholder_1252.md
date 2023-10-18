@@ -19,11 +19,11 @@
 * [educational organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1638.md)
 * [educational institution](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1644.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Unequal impact on the educational outcomes of children of immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1846.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Educational Authorities and Departments](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_13.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Unequal impact on the educational outcomes of children of immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1846.md)
 

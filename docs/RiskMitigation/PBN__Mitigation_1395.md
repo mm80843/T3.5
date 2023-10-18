@@ -2,9 +2,9 @@
 
 # __Machine learning algorithms for screening of SARS-CoV-2__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [False negatives or positives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3043.md)
+* [machine learning algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3165.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Geospatial analysis of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1237.md)
 * [AI-based prediction models for pandemic forecasting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1405.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Exploring the Potential of Artificial Intelligence and Machine Learning to Combat COVID-19 and Existing Opportunities for LMIC: A Scoping Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_131.md)
+* [False negatives or positives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3043.md)
 
 ## Property: has_MitigationPrinciple
 
 ML algorithms can accurately screen for SARS-CoV-2 using respiratory patterns
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [machine learning algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3165.md)
+* [Exploring the Potential of Artificial Intelligence and Machine Learning to Combat COVID-19 and Existing Opportunities for LMIC: A Scoping Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_131.md)
 

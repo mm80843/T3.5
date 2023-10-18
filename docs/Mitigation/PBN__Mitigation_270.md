@@ -2,9 +2,9 @@
 
 # __Rental assistance programs__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Rent burden](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2515.md)
+* [financial support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_607.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Provide financial assistance programs, energy efficiency upgrades, and education on energy-saving practices for low-income households.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3697.md)
 * [Social protection programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3698.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Eviction, Health Inequity, and the Spread of COVID-19: Housing Policy as a Primary Pandemic Mitigation Strategy](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_43.md)
+* [Rent burden](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2515.md)
 
 ## Property: has_MitigationPrinciple
 
 Providing financial assistance to renters can reduce rent burdens and increase housing stability
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [financial support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_607.md)
+* [Eviction, Health Inequity, and the Spread of COVID-19: Housing Policy as a Primary Pandemic Mitigation Strategy](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_43.md)
 

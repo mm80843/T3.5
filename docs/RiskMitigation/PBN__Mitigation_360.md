@@ -2,9 +2,9 @@
 
 # __Contact Tracing Apps__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
+* [mobile app technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3152.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Mobile phone tracking for contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2343.md)
 * [Digital contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_148.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID19-Routes: A Safe Pedestrian Navigation Service](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_201.md)
+* [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
 
 ## Property: has_MitigationPrinciple
 
 Tracking individuals who have been in contact with COVID-19 infected people
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [mobile app technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3152.md)
+* [COVID19-Routes: A Safe Pedestrian Navigation Service](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_201.md)
 

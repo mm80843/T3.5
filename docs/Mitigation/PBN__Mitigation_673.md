@@ -2,9 +2,10 @@
 
 # __Case-based measures__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Transmission, Detection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2679.md)
+* [testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_403.md)
+* [symptom monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3377.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Preventive Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1870.md)
 * [Regulatory measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_737.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Report 13: Estimating the number of infections and the impact of non-pharmaceutical interventions on COVID-19 in 11 European countries](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_166.md)
+* [Transmission, Detection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2679.md)
 
 ## Property: has_MitigationPrinciple
 
 Isolate and quarantine individuals with symptoms or positive test results to prevent further spread.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_403.md)
-* [symptom monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3377.md)
+* [Report 13: Estimating the number of infections and the impact of non-pharmaceutical interventions on COVID-19 in 11 European countries](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_166.md)
 

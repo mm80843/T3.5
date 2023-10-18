@@ -2,6 +2,16 @@
 
 # __remote patient monitoring__
 
+## Risks linked to this technology
+
+* [Inadequate healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1129.md)
+* [Limited healthcare capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2034.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Telemedicine and Telehealth Services](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_28.md)
+* [Remote Monitoring and Patient Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_108.md)
+
 ## Closest similar item
 
 * [Remote patient monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2291.md)
@@ -15,21 +25,11 @@
 * [remote monitoring devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_551.md)
 * [mobile health applications for remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1568.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Inadequate healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1129.md)
-* [Limited healthcare capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2034.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Telemedicine and Telehealth Services](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_28.md)
-* [Remote Monitoring and Patient Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_108.md)
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
 
 ## This Technology is identified by the following QID
 
 * [Q7312165](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7312165.md)
-
-## This Technology belongs to this TechGroup
-
-* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
 

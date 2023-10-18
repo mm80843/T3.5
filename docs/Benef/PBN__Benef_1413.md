@@ -2,10 +2,6 @@
 
 # __Improved treatment guidelines__
 
-## Name of the Benefit
-
-Provides reliable and scientifically proven information, guiding medical professionals in prescribing appropriate medications.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors would benefit from increased demand for evidence-based medication and potentially higher sales.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1604.md)
@@ -18,4 +14,8 @@ Provides reliable and scientifically proven information, guiding medical profess
 ## Articles mentionning this Benefit
 
 * [Infodemic and the spread of fake news in the COVID-19-era](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_299.md)
+
+## Name of the Benefit
+
+Provides reliable and scientifically proven information, guiding medical professionals in prescribing appropriate medications.
 

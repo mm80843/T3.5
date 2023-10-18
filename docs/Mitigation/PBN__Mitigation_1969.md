@@ -2,9 +2,8 @@
 
 # __Face Mask__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Respiratory droplet transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2767.md)
 
 ## Closest similar item
 
@@ -19,15 +18,16 @@
 * [Wearing masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_218.md)
 * [Wearing Masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_922.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Current knowledge of COVID-19: Advances, challenges and future perspectives](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_118.md)
-* [Building Transformation for Precautionary Measures against COVID-19 Pandemic: Case of Off-Street Car Parking of Campuses](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_224.md)
+* [Respiratory droplet transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2767.md)
 
 ## Property: has_MitigationPrinciple
 
 Wearing a face mask to prevent the spread of respiratory droplets and reduce the risk of transmission of contagious diseases.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Current knowledge of COVID-19: Advances, challenges and future perspectives](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_118.md)
+* [Building Transformation for Precautionary Measures against COVID-19 Pandemic: Case of Off-Street Car Parking of Campuses](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_224.md)
 

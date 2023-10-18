@@ -2,6 +2,10 @@
 
 # __grid operator__
 
+## This Stakeholder is identified by the following QID
+
+* [Q3894343](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3894343.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
@@ -22,8 +26,4 @@
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 
-
-## This Stakeholder is identified by the following QID
-
-* [Q3894343](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3894343.md)
 

@@ -2,9 +2,9 @@
 
 # __Restrictions on shared facilities__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Minimizing disease spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2560.md)
+* [control measures for shared facilities and devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3203.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Restricting inter-city connections](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1118.md)
 * [Social gathering restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2438.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [10 Adaptive Measures for Public Places to face the COVID 19 Pandemic Outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_63.md)
+* [Minimizing disease spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2560.md)
 
 ## Property: has_MitigationPrinciple
 
 Restricting the use of shared facilities, services, and devices in public places to minimize the potential spread of disease
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [control measures for shared facilities and devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3203.md)
+* [10 Adaptive Measures for Public Places to face the COVID 19 Pandemic Outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_63.md)
 

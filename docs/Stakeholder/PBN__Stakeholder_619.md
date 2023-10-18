@@ -2,6 +2,10 @@
 
 # __human resources departments__
 
+## This Stakeholder is identified by the following QID
+
+* [Q5937382](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5937382.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
@@ -19,17 +23,13 @@
 * [information technology departments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2652.md)
 * [government department](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2436.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Impact on Working Performance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1081.md)
-* [Lack of awareness and compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1906.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Companies and Institutions](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_23.md)
 * [Departments and Teams](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_26.md)
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q5937382](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5937382.md)
+* [Impact on Working Performance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1081.md)
+* [Lack of awareness and compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1906.md)
 

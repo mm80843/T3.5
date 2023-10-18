@@ -2,7 +2,7 @@
 
 # __Remote supervision__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
 
 ## Closest similar item
@@ -18,14 +18,14 @@
 * [Teleworking and remote learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1280.md)
 * [Remote Work and Distance Learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1714.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Mental Health and the Role of Physical Activity During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_242.md)
 
 ## Property: has_MitigationPrinciple
 
 Utilizing remote supervision as an alternative to face-to-face supervision for home-based exercise during the pandemic, enabling individuals to receive guidance and optimize their physical activity routines.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Mental Health and the Role of Physical Activity During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_242.md)
 

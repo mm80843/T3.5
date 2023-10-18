@@ -2,6 +2,14 @@
 
 # __planners__
 
+## Risks linked to this technology
+
+* [A push for meso scale strategies at the neighbourhood/community level](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_249.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Building Systems and Design](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_89.md)
+
 ## Closest similar item
 
 * [urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_379.md)
@@ -14,14 +22,6 @@
 * [urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1178.md)
 * [Urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2314.md)
 * [community planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2994.md)
-
-## Risks linked to this technology
-
-* [A push for meso scale strategies at the neighbourhood/community level](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_249.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Building Systems and Design](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_89.md)
 
 ## This Technology belongs to this TechGroup
 

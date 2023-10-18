@@ -2,6 +2,10 @@
 
 # __Occupant of crowded and poorly ventilated building__
 
+## This Stakeholder is identified by the following QID
+
+* [Q584049](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q584049.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Building Occupants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_11.md)
@@ -21,8 +25,4 @@
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 
-
-## This Stakeholder is identified by the following QID
-
-* [Q584049](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q584049.md)
 

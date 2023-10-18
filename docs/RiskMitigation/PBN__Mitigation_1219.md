@@ -2,9 +2,9 @@
 
 # __Decontamination and sterilization__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Sterilization of equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2968.md)
+* [steam or specialized commercial steam bags](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3735.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Thorough disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1560.md)
 * [Increased cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_954.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Emergency Healthcare Facilities: Managing Design in a Post Covid-19 World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_122.md)
+* [Sterilization of equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2968.md)
 
 ## Property: has_MitigationPrinciple
 
 Use steam or specialized steam bags for cost-effective sterilization of equipment
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [steam or specialized commercial steam bags](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3735.md)
+* [Emergency Healthcare Facilities: Managing Design in a Post Covid-19 World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_122.md)
 

@@ -2,10 +2,6 @@
 
 # __Job creation and economic growth__
 
-## Name of the Benefit
-
-Promoting decent work and economic growth leads to job creation and increased income levels, improving overall well-being.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors benefit from a stable and growing economy, leading to increased investment opportunities and higher returns.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_303.md)
@@ -18,4 +14,8 @@ Promoting decent work and economic growth leads to job creation and increased in
 ## Articles mentionning this Benefit
 
 * [COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_58.md)
+
+## Name of the Benefit
+
+Promoting decent work and economic growth leads to job creation and increased income levels, improving overall well-being.
 

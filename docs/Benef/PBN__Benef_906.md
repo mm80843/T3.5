@@ -2,10 +2,6 @@
 
 # __Effective response__
 
-## Name of the Benefit
-
-Tailored approach to mitigating public health risks
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved public health outcomes, reduced transmission of infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_991.md)
@@ -17,4 +13,8 @@ Tailored approach to mitigating public health risks
 ## Articles mentionning this Benefit
 
 * [From Viral City to Smart City: Learning from Pandemic Experiences](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_183.md)
+
+## Name of the Benefit
+
+Tailored approach to mitigating public health risks
 

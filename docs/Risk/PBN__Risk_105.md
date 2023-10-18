@@ -2,21 +2,25 @@
 
 # __Reduction in tourism revenue for PCAs__
 
+## Property: has_RiskHealth
+
+* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_3.md)
+
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Description of the risk
+
+Travel restrictions have led to a decline in global tourism, resulting in reduced revenues for PCAs and negative impacts on local economies and livelihoods.
+
 ## Property: has_RiskType
 
 * [political](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_1.md)
 
-## People affected by this risk
+## Articles mentionning the risk
 
-* [none](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_629.md)
-
-## Name of the risk
-
-Decreased funding for conservation efforts, reduced salaries for tourism employees, and increased pressure on local economies reliant on tourism.
-
-## Property: has_RiskISO_Purpose
-
-* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_10.md)
+* [Building sustainable finance for resilient protected and conserved areas: lessons from COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_33.md)
 
 ## Closest similar item
 
@@ -31,38 +35,34 @@ Decreased funding for conservation efforts, reduced salaries for tourism employe
 * [Decreased revenue for transport operations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_928.md)
 * [Impact on hospitality, tourism, and aviation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1813.md)
 
-## Description of the risk
+## People affected by this risk
 
-Travel restrictions have led to a decline in global tourism, resulting in reduced revenues for PCAs and negative impacts on local economies and livelihoods.
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_629.md)
 
-## Technologies linked to the risk
+## Property: has_RiskISO_Impact
 
-* [online promotion](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_441.md)
-* [virtual tours](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_442.md)
-* [digital marketing techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_443.md)
+* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_4.md)
 
-## Property: has_RiskHealth
+## Stakeholders who can mitigate this risk
 
-* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_3.md)
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_629.md)
+
+## Name of the risk
+
+Decreased funding for conservation efforts, reduced salaries for tourism employees, and increased pressure on local economies reliant on tourism.
 
 ## Mitigations of this risk
 
 * [Diversify funding sources, develop alternative revenue streams, promote domestic tourism, and enhance marketing strategies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1781.md)
 * [Improving revenue generation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_129.md)
 
-## Articles mentionning the risk
+## Property: has_RiskISO_Purpose
 
-* [Building sustainable finance for resilient protected and conserved areas: lessons from COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_33.md)
+* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_10.md)
 
-## Property: has_RiskISO_Impact
+## Technologies linked to the risk
 
-* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_4.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Stakeholders who can mitigate this risk
-
-* [none](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_629.md)
+* [online promotion](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_441.md)
+* [virtual tours](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_442.md)
+* [digital marketing techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_443.md)
 

@@ -2,6 +2,14 @@
 
 # __noise level difference compared to background__
 
+## Risks linked to this technology
+
+* [PC4](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2220.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Housing and Building Design](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_157.md)
+
 ## Closest similar item
 
 * [noise level difference](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4265.md)
@@ -15,19 +23,11 @@
 * [White noise machines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2234.md)
 * [noise-cancelling technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_960.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [PC4](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2220.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Housing and Building Design](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_157.md)
+* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
 
 ## This Technology is identified by the following QID
 
 * [Q1371624](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1371624.md)
-
-## This Technology belongs to this TechGroup
-
-* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
 

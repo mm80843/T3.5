@@ -2,9 +2,10 @@
 
 # __Increase chlorine dose in drinking water__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Increased DBP, chemical costs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3177.md)
+* [disinfection processes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3958.md)
+* [chlorination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3959.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Sodium hypochlorite](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2313.md)
 * [Disinfection of water](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1230.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [When the fourth water and digital revolution encountered COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_207.md)
+* [Increased DBP, chemical costs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3177.md)
 
 ## Property: has_MitigationPrinciple
 
 Increases disinfection of drinking water to ensure inactivation of virus
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [disinfection processes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3958.md)
-* [chlorination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3959.md)
+* [When the fourth water and digital revolution encountered COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_207.md)
 

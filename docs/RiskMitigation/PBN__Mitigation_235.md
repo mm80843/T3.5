@@ -2,8 +2,10 @@
 
 # __Biomarkers__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [elisa](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3079.md)
+* [mass spectrometry](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2123.md)
 
 ## Closest similar item
 
@@ -18,16 +20,14 @@
 * [Bioinformatics Tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_766.md)
 * [Nucleic acid testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1436.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Wastewater-Based Epidemiology to monitor COVID-19 outbreak: Present and future diagnostic methods to be in your radar](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_178.md)
 
 ## Property: has_MitigationPrinciple
 
 Biomarkers in sewage can be used as indicators of virus outbreaks, providing specific and accurate measurements using mass spectrometry or ELISA techniques.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [elisa](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3079.md)
-* [mass spectrometry](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2123.md)
+* [Wastewater-Based Epidemiology to monitor COVID-19 outbreak: Present and future diagnostic methods to be in your radar](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_178.md)
 

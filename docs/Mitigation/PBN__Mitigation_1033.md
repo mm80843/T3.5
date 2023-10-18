@@ -2,9 +2,9 @@
 
 # __Policy Measures__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Exclusion of startups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2863.md)
+* [policy measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3590.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Evaluating control measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1438.md)
 * [Targeted policies for specific social groups](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2210.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Startups in times of crisis – A rapid response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_158.md)
+* [Exclusion of startups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2863.md)
 
 ## Property: has_MitigationPrinciple
 
 Develops and implements specific policy measures that target the unique needs and challenges of startups to support their resilience and recovery in the face of the crisis.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [policy measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3590.md)
+* [Startups in times of crisis – A rapid response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_158.md)
 

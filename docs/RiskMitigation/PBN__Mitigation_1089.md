@@ -2,9 +2,10 @@
 
 # __Economic support and aid__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Economic impacts, social impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2916.md)
+* [financial resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3637.md)
+* [government programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3638.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Public support and participation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1059.md)
 * [Providing income and support to impacted workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2262.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19 and the UN Sustainable Development Goals: Threat to Solidarity or an Opportunity?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_109.md)
+* [Economic impacts, social impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2916.md)
 
 ## Property: has_MitigationPrinciple
 
 Provides financial assistance to individuals, businesses, and countries affected by the pandemic
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [financial resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3637.md)
-* [government programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3638.md)
+* [COVID-19 and the UN Sustainable Development Goals: Threat to Solidarity or an Opportunity?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_109.md)
 

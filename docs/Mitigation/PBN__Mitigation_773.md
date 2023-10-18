@@ -2,9 +2,9 @@
 
 # __Hands-free door opening__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Manual contact with surfaces during door opening](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2731.md)
+* [motion-sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3443.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Opening windows for increased ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_550.md)
 * [Multiple window opening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_812.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Houses amid COVID-19: Environmental challenges and design adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_277.md)
+* [Manual contact with surfaces during door opening](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2731.md)
 
 ## Property: has_MitigationPrinciple
 
 Implement hands-free door opening systems, such as motion-sensor technology, to minimize contact with surfaces and reduce the risk of transmitting contagious diseases
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [motion-sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3443.md)
+* [Houses amid COVID-19: Environmental challenges and design adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_277.md)
 

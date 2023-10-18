@@ -2,8 +2,10 @@
 
 # __Humidity Control__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [humidifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_925.md)
+* [dehumidifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3743.md)
 
 ## Closest similar item
 
@@ -18,16 +20,14 @@
 * [Climate control in indoor environments](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1274.md)
 * [Outdoor Air Quality Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_715.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Mechanistic insights into the effect of humidity on airborne influenza virus survival, transmission and incidence](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_54.md)
 
 ## Property: has_MitigationPrinciple
 
 Controlling humidity levels indoors can impact virus survival and transmission. Proper humidity levels can prevent excessive drying of respiratory droplets, reducing transmission potential.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [humidifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_925.md)
-* [dehumidifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3743.md)
+* [Mechanistic insights into the effect of humidity on airborne influenza virus survival, transmission and incidence](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_54.md)
 

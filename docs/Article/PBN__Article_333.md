@@ -2,10 +2,6 @@
 
 # __Conservation Amid COVID-19 Pandemic: Ecotourism Collapse Threatens Communities and Wildlife in Morocco__
 
-## Year of publication
-
-2020
-
 ## Title of the article
 
 Conservation Amid COVID-19 Pandemic: Ecotourism Collapse Threatens Communities and Wildlife in Morocco
@@ -13,4 +9,8 @@ Conservation Amid COVID-19 Pandemic: Ecotourism Collapse Threatens Communities a
 ## DOI of the article
 
 10.1051/e3sconf/202018301003
+
+## Year of publication
+
+2020
 

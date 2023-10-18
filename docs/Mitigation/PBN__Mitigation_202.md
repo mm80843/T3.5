@@ -2,9 +2,8 @@
 
 # __Subsidizing and capital injection__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Business viability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2497.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Decentralized Finance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_434.md)
 * [Financial reforms to enable innovative and socially directed investment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_998.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Non-medical Interventions to Reduce the Burden of Psychosocial and Economic Impacts of COVID-19 Pandemic: A Scope Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_243.md)
+* [Business viability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2497.md)
 
 ## Property: has_MitigationPrinciple
 
 Provide financial support to businesses through subsidies and capital injection to prevent closures and job losses.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Non-medical Interventions to Reduce the Burden of Psychosocial and Economic Impacts of COVID-19 Pandemic: A Scope Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_243.md)
 

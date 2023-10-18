@@ -2,10 +2,6 @@
 
 # __Brand image reinforcement__
 
-## Name of the Benefit
-
-Branded signs reflect the retailer's identity and image, reinforcing brand recognition and loyalty
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Reinforcing brand image can lead to increased customer trust and preference, resulting in improved customer engagement and potential increase in sales.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_867.md)
@@ -18,4 +14,8 @@ Branded signs reflect the retailer's identity and image, reinforcing brand recog
 ## Articles mentionning this Benefit
 
 * [Retail Signage During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_159.md)
+
+## Name of the Benefit
+
+Branded signs reflect the retailer's identity and image, reinforcing brand recognition and loyalty
 

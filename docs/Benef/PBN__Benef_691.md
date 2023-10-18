@@ -2,10 +2,6 @@
 
 # __Improved public health outcomes__
 
-## Name of the Benefit
-
-Health-centric design criteria in the built environment can improve public health outcomes by reducing the risk of VBDs, such as malaria.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Reduced burden on healthcare system, improved population health](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_740.md)
@@ -24,4 +20,8 @@ Health-centric design criteria in the built environment can improve public healt
 * [COVID-19 and social inequalities: a complex and dynamic interaction](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_136.md)
 * [The Impact of COVID-19 on Public Space: A Review of the Emerging Questions](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_261.md)
 * [Decision Making within the Built Environment as a Strategy for Mitigating the Risk of Malaria and Other Vector-Borne Diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_272.md)
+
+## Name of the Benefit
+
+Health-centric design criteria in the built environment can improve public health outcomes by reducing the risk of VBDs, such as malaria.
 

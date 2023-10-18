@@ -2,8 +2,10 @@
 
 # __Regular Hand Hygiene__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [hand sanitizer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3258.md)
+* [soap and water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3064.md)
 
 ## Closest similar item
 
@@ -18,16 +20,14 @@
 * [Hand washing prevention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1470.md)
 * [Frequent Hand Washing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1704.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [A study on office workplace modification during the COVID-19 pandemic in The Netherlands](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_193.md)
 
 ## Property: has_MitigationPrinciple
 
 Washing hands frequently with soap and water or using hand sanitizer to kill germs.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [hand sanitizer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3258.md)
-* [soap and water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3064.md)
+* [A study on office workplace modification during the COVID-19 pandemic in The Netherlands](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_193.md)
 

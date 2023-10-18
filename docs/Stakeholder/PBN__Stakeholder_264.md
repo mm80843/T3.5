@@ -2,6 +2,10 @@
 
 # __young people__
 
+## This Stakeholder is identified by the following QID
+
+* [Q111314161](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q111314161.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
@@ -29,8 +33,4 @@
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Improved mental well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_229.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q111314161](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q111314161.md)
 

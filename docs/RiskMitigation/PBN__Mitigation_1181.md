@@ -2,8 +2,10 @@
 
 # __IoT buttons for alerts and monitoring__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [alert systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3712.md)
+* [iot buttons](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3711.md)
 
 ## Closest similar item
 
@@ -18,16 +20,14 @@
 * [Intelligent Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_380.md)
 * [Lightweight security solutions for IoT devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1185.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [A Comprehensive Review of Applications of Internet of Things for Covid-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_35.md)
 
 ## Property: has_MitigationPrinciple
 
 Allows for quick and easy communication of concerns or requests for cleaning, maintenance, or assistance, improving hygiene and safety measures.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [alert systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3712.md)
-* [iot buttons](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3711.md)
+* [A Comprehensive Review of Applications of Internet of Things for Covid-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_35.md)
 

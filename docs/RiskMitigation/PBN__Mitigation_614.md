@@ -2,8 +2,9 @@
 
 # __Negative air ionization__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [electrostatic space charge systems (escss)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3362.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Proper ventilation and filtration to reduce the concentration of airborne viral particles.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2892.md)
 * [Clean air](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2625.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Upper-Room Ultraviolet Light and Negative Air Ionization to Prevent Tuberculosis Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_105.md)
 
 ## Property: has_MitigationPrinciple
 
 Negative air ionization is a physical effect that occurs when airborne particles are charged and attract to grounded surfaces. This can reduce the concentration of infectious particles in the air. It may also have bactericidal effects.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [electrostatic space charge systems (escss)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3362.md)
+* [Upper-Room Ultraviolet Light and Negative Air Ionization to Prevent Tuberculosis Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_105.md)
 

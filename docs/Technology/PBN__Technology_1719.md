@@ -2,6 +2,14 @@
 
 # __rollout mats__
 
+## Risks linked to this technology
+
+* [PVP1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2190.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Touchless and Barrier Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_166.md)
+
 ## Closest similar item
 
 * [yoga mats](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3236.md)
@@ -15,23 +23,15 @@
 * [flexible shelving](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4190.md)
 * [segregation boxes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4288.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [PVP1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2190.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Touchless and Barrier Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_166.md)
-
-## This Technology enables the following mitigations
-
-* [Use of new smart/innovative technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2119.md)
+* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
 
 ## This Technology is identified by the following QID
 
 * [Q1909317](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1909317.md)
 
-## This Technology belongs to this TechGroup
+## This Technology enables the following mitigations
 
-* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
+* [Use of new smart/innovative technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2119.md)
 

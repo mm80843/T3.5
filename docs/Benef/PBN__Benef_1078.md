@@ -2,10 +2,6 @@
 
 # __Flexible lighting design__
 
-## Name of the Benefit
-
-Allows for customization of lighting levels based on different uses and requirements
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Increased energy efficiency, improved user experience](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1204.md)
@@ -18,4 +14,8 @@ Allows for customization of lighting levels based on different uses and requirem
 ## Articles mentionning this Benefit
 
 * [Building Transformation for Precautionary Measures against COVID-19 Pandemic: Case of Off-Street Car Parking of Campuses](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_224.md)
+
+## Name of the Benefit
+
+Allows for customization of lighting levels based on different uses and requirements
 

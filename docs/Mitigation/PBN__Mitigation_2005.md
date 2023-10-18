@@ -2,9 +2,10 @@
 
 # __Adaptation of healthcare facilities__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2622.md)
+* [containment spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4191.md)
+* [compartmentalized ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4192.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Improved healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1504.md)
 * [Improved access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_679.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Designing for COVID-2x: Reflecting on Future-Proofing Human Habitation for the Inevitable Next Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_149.md)
+* [Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2622.md)
 
 ## Property: has_MitigationPrinciple
 
 Convert wards into infectious disease and isolation wards, ensure proper containment spaces and ventilation to cater for high numbers of infectious patients
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [containment spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4191.md)
-* [compartmentalized ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4192.md)
+* [Designing for COVID-2x: Reflecting on Future-Proofing Human Habitation for the Inevitable Next Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_149.md)
 

@@ -2,8 +2,11 @@
 
 # __Population screening__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [smartphone apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4368.md)
+* [artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_358.md)
+* [big data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_276.md)
 
 ## Closest similar item
 
@@ -18,17 +21,14 @@
 * [Controlling population density](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1265.md)
 * [Symptom screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_374.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Emerging Technologies to Combat the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_116.md)
 
 ## Property: has_MitigationPrinciple
 
 Identifying and monitoring individuals for potential infection to facilitate early detection and intervention
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [smartphone apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4368.md)
-* [artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_358.md)
-* [big data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_276.md)
+* [Emerging Technologies to Combat the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_116.md)
 

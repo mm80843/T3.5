@@ -2,9 +2,8 @@
 
 # __Early serving of notices__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Disputes between employers, contractors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2602.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Implement measures early, based on evidence and research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2706.md)
 * [Targeted, tailored messages](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3849.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Covid-19 Associated Risks and Mitigation Strategies relevant for the UK Construction Industry](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_210.md)
+* [Disputes between employers, contractors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2602.md)
 
 ## Property: has_MitigationPrinciple
 
 Serve notices in a timely manner to prevent breaches of contract
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Covid-19 Associated Risks and Mitigation Strategies relevant for the UK Construction Industry](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_210.md)
 

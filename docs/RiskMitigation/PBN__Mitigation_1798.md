@@ -2,8 +2,10 @@
 
 # __Proximity and distancing architectures__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [flexible living arrangements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4077.md)
+* [adaptive criteria](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4078.md)
 
 ## Closest similar item
 
@@ -18,16 +20,14 @@
 * [Physical Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_351.md)
 * [Physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_192.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [From Viral City to Smart City: Learning from Pandemic Experiences](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_183.md)
 
 ## Property: has_MitigationPrinciple
 
 Adopting different living arrangements based on adaptability and criteria such as proximity and distancing
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [flexible living arrangements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4077.md)
-* [adaptive criteria](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4078.md)
+* [From Viral City to Smart City: Learning from Pandemic Experiences](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_183.md)
 

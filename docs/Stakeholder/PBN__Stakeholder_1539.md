@@ -19,14 +19,14 @@
 * [cybersecurity experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_789.md)
 * [communication experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_831.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Domain Experts](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_154.md)
+
 ## Risks that can be mitigated by this stakeholder
 
 * [Low data quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2309.md)
 * [Lack of coverage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2310.md)
 * [Outdated information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2308.md)
 * [Misalignment of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2311.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Domain Experts](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_154.md)
 

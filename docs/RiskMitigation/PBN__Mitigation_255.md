@@ -2,7 +2,7 @@
 
 # __Plaque count determination__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
 
 ## Closest similar item
@@ -18,14 +18,14 @@
 * [Public Health Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1740.md)
 * [Immunofluorescence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_326.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Efficacy of an Automated Multiple Emitter Whole-Room Ultraviolet-C Disinfection System Against Coronaviruses MHV and MERS-CoV](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_269.md)
 
 ## Property: has_MitigationPrinciple
 
 Quantifies the presence of viral plaques in order to measure the efficacy of disinfection
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Efficacy of an Automated Multiple Emitter Whole-Room Ultraviolet-C Disinfection System Against Coronaviruses MHV and MERS-CoV](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_269.md)
 

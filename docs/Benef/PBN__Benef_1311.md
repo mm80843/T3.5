@@ -2,10 +2,6 @@
 
 # __Early symptom recognition and referral__
 
-## Name of the Benefit
-
-Chat bots and phone-based software for self-monitoring and medical treatment referral
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Reduced hospital consultations and better resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1481.md)
@@ -17,4 +13,8 @@ Chat bots and phone-based software for self-monitoring and medical treatment ref
 ## Articles mentionning this Benefit
 
 * [Digital technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_278.md)
+
+## Name of the Benefit
+
+Chat bots and phone-based software for self-monitoring and medical treatment referral
 

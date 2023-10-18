@@ -2,6 +2,14 @@
 
 # __enhanced cleaning technologies__
 
+## Risks linked to this technology
+
+* [Contagion spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2077.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Disinfection and Cleaning Techniques](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_15.md)
+
 ## Closest similar item
 
 * [cleaning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4110.md)
@@ -15,19 +23,11 @@
 * [enhanced cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1838.md)
 * [improved cleaning and disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1293.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Contagion spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2077.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Disinfection and Cleaning Techniques](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_15.md)
+* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
 
 ## This Technology is identified by the following QID
 
 * [Q26270576](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q26270576.md)
-
-## This Technology belongs to this TechGroup
-
-* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
 

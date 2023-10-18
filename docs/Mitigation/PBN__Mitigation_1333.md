@@ -2,9 +2,10 @@
 
 # __Work from home__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Transmission among colleagues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3027.md)
+* [communication technology (e.g. internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3799.md)
+* [video conferencing)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3800.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Remote work/telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1551.md)
 * [Telecommuting/remote work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1011.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19: The forgotten priorities of the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_236.md)
+* [Transmission among colleagues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3027.md)
 
 ## Property: has_MitigationPrinciple
 
 To minimize the interaction and physical contact between employees in the workplace by allowing them to work remotely
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [communication technology (e.g. internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3799.md)
-* [video conferencing)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3800.md)
+* [COVID-19: The forgotten priorities of the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_236.md)
 

@@ -2,6 +2,10 @@
 
 # __policy makers__
 
+## This Stakeholder is identified by the following QID
+
+* [Q3907287](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3907287.md)
+
 ## Closest similar item
 
 * [policy-makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_229.md)
@@ -14,17 +18,6 @@
 * [decision-makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_227.md)
 * [regulatory authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1297.md)
 * [government officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_333.md)
-
-## Risks that can be mitigated by this stakeholder
-
-* [Lack of occupant exposure model](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2005.md)
-* [Inconsistent measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2001.md)
-* [Job displacement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2011.md)
-* [Increased inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2012.md)
-* [Failure in containment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1017.md)
-* [Political mismanagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1018.md)
-* [Lack of AI implementation in LMIC](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1799.md)
-* [Jobless recovery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2013.md)
 
 ## Risk affecting this stakeholder
 
@@ -49,7 +42,14 @@
 * [Data-driven decision making](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_810.md)
 * [Predictive analytics](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_813.md)
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q3907287](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3907287.md)
+* [Lack of occupant exposure model](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2005.md)
+* [Inconsistent measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2001.md)
+* [Job displacement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2011.md)
+* [Increased inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2012.md)
+* [Failure in containment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1017.md)
+* [Political mismanagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1018.md)
+* [Lack of AI implementation in LMIC](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1799.md)
+* [Jobless recovery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2013.md)
 

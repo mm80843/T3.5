@@ -2,8 +2,9 @@
 
 # __Advanced cleaning techniques__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [cleaning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4110.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Regular Cleaning and Maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1784.md)
 * [Enhanced cleaning and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1279.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [A Global Survey of Infection Control and Mitigation Measures for Combating the Transmission of COVID-19 Pandemic in Buildings Under Facilities Management Services](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_27.md)
 
 ## Property: has_MitigationPrinciple
 
 Adoption of advanced cleaning techniques, materials, and equipment to improve cleaning efficacy and reduce the risk of transmission in building environments.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [cleaning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4110.md)
+* [A Global Survey of Infection Control and Mitigation Measures for Combating the Transmission of COVID-19 Pandemic in Buildings Under Facilities Management Services](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_27.md)
 

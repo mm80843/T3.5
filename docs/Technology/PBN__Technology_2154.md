@@ -2,6 +2,9 @@
 
 # __Media literacy programs__
 
+## This Technology belongs to this TechSubgroup
+
+
 ## Closest similar item
 
 * [media literacy programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_583.md)
@@ -15,15 +18,12 @@
 * [Educational programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2621.md)
 * [media sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4507.md)
 
-## This Technology belongs to this TechSubgroup
-
-
-## This Technology is identified by the following QID
-
-* [Q1507246](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1507246.md)
-
 ## This Technology belongs to this TechGroup
 
 * [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
 * [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
+
+## This Technology is identified by the following QID
+
+* [Q1507246](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1507246.md)
 

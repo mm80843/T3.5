@@ -2,9 +2,9 @@
 
 # __Urban restructuring for emergency preparedness__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Overwhelmed medical facilities and disruption of normal functioning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2446.md)
+* [urban planning and architectural strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2975.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Crisis Management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1027.md)
 * [Enhanced urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_91.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Pandemic stricken cities on lockdown. Where are our planning and design professionals [now, then and into the future]?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_147.md)
+* [Overwhelmed medical facilities and disruption of normal functioning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2446.md)
 
 ## Property: has_MitigationPrinciple
 
 Strategizing urban design and planning to ensure preparedness for emergencies, including the construction of emergency facilities and measures to maintain normal city functioning.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [urban planning and architectural strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2975.md)
+* [Pandemic stricken cities on lockdown. Where are our planning and design professionals [now, then and into the future]?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_147.md)
 

@@ -2,8 +2,9 @@
 
 # __Data aggregation__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [r package (ncov2019)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4475.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Big Data Analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_765.md)
 * [Big data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1249.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Open-source analytics tools for studying the COVID-19 coronavirus outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_218.md)
 
 ## Property: has_MitigationPrinciple
 
 Aggregates data from multiple sources, including official statistics and literature, to provide comprehensive and up-to-date information on the outbreak
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [r package (ncov2019)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4475.md)
+* [Open-source analytics tools for studying the COVID-19 coronavirus outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_218.md)
 

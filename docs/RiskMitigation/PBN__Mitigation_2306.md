@@ -2,9 +2,10 @@
 
 # __Knowledge extraction__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Low recall in manual labeling](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3413.md)
+* [natural language processing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4398.md)
+* [machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3004.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Content analysis of news](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_322.md)
 * [Increased knowledge translation on social media](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_961.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Construction of a Linked Data Set of COVID-19 Knowledge Graphs: Development and Applications](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_28.md)
+* [Low recall in manual labeling](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3413.md)
 
 ## Property: has_MitigationPrinciple
 
 Extract knowledge from structured and unstructured data sources using NLP and ML techniques.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [natural language processing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4398.md)
-* [machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3004.md)
+* [Construction of a Linked Data Set of COVID-19 Knowledge Graphs: Development and Applications](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_28.md)
 

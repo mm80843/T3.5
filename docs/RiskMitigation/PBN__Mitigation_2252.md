@@ -2,8 +2,13 @@
 
 # __Medicine 4.0__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_358.md)
+* [big data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_276.md)
+* [internet of things](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2919.md)
+* [cloud computing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1232.md)
+* [molecular technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4369.md)
 
 ## Closest similar item
 
@@ -18,19 +23,14 @@
 * [Integration of Medical Tools and Devices through the Internet](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1935.md)
 * [Use of specific medicines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1555.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Emerging Technologies to Combat the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_116.md)
 
 ## Property: has_MitigationPrinciple
 
 Integrating digital technologies and innovative solutions to enhance the efficiency of healthcare systems
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_358.md)
-* [big data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_276.md)
-* [internet of things](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2919.md)
-* [cloud computing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1232.md)
-* [molecular technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4369.md)
+* [Emerging Technologies to Combat the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_116.md)
 

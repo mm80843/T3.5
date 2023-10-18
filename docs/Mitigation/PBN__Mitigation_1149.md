@@ -2,9 +2,11 @@
 
 # __Algae Control__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Algal blooms, release of toxins](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2947.md)
+* [water movement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3699.md)
+* [decreased nutrient input](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3698.md)
+* [buffer strips](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3697.md)
 
 ## Closest similar item
 
@@ -19,17 +21,15 @@
 * [Dynamic botanical air filtration system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2305.md)
 * [Automatic Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_383.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Making green infrastructure healthier infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_20.md)
+* [Algal blooms, release of toxins](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2947.md)
 
 ## Property: has_MitigationPrinciple
 
 Preventing excess algal growth and maintaining water quality can reduce the risk of toxic algal blooms in urban ponds
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [water movement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3699.md)
-* [decreased nutrient input](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3698.md)
-* [buffer strips](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3697.md)
+* [Making green infrastructure healthier infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_20.md)
 

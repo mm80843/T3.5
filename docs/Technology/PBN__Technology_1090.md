@@ -2,6 +2,14 @@
 
 # __apps__
 
+## Risks linked to this technology
+
+* [Confusion and Uncertainty](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1723.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Apps and Mobile Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_22.md)
+
 ## Closest similar item
 
 * [mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3470.md)
@@ -15,23 +23,15 @@
 * [mobile phone application](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4443.md)
 * [user-friendly applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4159.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Confusion and Uncertainty](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1723.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Apps and Mobile Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_22.md)
-
-## This Technology enables the following mitigations
-
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_250.md)
+* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
 
 ## This Technology is identified by the following QID
 
 * [Q14911946](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q14911946.md)
 
-## This Technology belongs to this TechGroup
+## This Technology enables the following mitigations
 
-* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_250.md)
 

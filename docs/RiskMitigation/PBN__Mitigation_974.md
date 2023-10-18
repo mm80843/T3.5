@@ -2,8 +2,9 @@
 
 # __Control environmental conditions__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [environmental monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3565.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Humidity control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_376.md)
 * [Control of Moisture and Humidity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1787.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Architectural Design Drives the Biogeography of Indoor Bacterial Communities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_52.md)
 
 ## Property: has_MitigationPrinciple
 
 Controlling environmental conditions such as temperature, relative humidity, and light levels to influence the microbiome
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [environmental monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3565.md)
+* [Architectural Design Drives the Biogeography of Indoor Bacterial Communities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_52.md)
 

@@ -2,9 +2,9 @@
 
 # __Reviewing contracts and service agreements__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Financial crisis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2067.md)
+* [contract review systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4126.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Business Continuity Guideline](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1617.md)
 * [Willing co-operation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1793.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The Effects of Pandemic on Construction Industry in the UK](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_75.md)
+* [Financial crisis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2067.md)
 
 ## Property: has_MitigationPrinciple
 
 Reviewing contracts and service agreements for potential protection issues to mitigate financial risks.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [contract review systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4126.md)
+* [The Effects of Pandemic on Construction Industry in the UK](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_75.md)
 

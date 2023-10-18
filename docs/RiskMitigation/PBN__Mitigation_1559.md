@@ -2,9 +2,9 @@
 
 # __Temperature checks__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [COVID-19 symptoms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3136.md)
+* [thermometers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3922.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Digital thermometers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2374.md)
 * [Thermal conditions control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_172.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Impacts of COVID-19 on Health and Safety of Workforce in Construction Industry](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_49.md)
+* [COVID-19 symptoms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3136.md)
 
 ## Property: has_MitigationPrinciple
 
 Perform frequent health checks, including temperature checks, to monitor workers for symptoms
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [thermometers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3922.md)
+* [Impacts of COVID-19 on Health and Safety of Workforce in Construction Industry](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_49.md)
 

@@ -2,6 +2,10 @@
 
 # __Robotic assistance in healthcare__
 
+## This Technology belongs to this TechSubgroup
+
+* [Robotic and Drone Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_113.md)
+
 ## Closest similar item
 
 * [Robotic assistance in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2883.md)
@@ -15,15 +19,11 @@
 * [healthcare technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3378.md)
 * [healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3384.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Robotic and Drone Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_113.md)
+* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_17.md)
 
 ## This Technology is identified by the following QID
 
 * [Q6806593](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6806593.md)
-
-## This Technology belongs to this TechGroup
-
-* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_17.md)
 

@@ -2,8 +2,9 @@
 
 # __Social Media Group for Daily Practice Questions__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [closed facebook group](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3219.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Use of social media for distributing official information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_969.md)
 * [Exercise programs for specific groups](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_79.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Using Technology to Maintain the Education of Residents During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_11.md)
 
 ## Property: has_MitigationPrinciple
 
 Providing daily exposure to practice questions and allowing for discussion of surgical topics without requiring in-person meetings.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [closed facebook group](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3219.md)
+* [Using Technology to Maintain the Education of Residents During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_11.md)
 

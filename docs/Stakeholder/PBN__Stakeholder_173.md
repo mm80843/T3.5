@@ -2,6 +2,10 @@
 
 # __public health organizations__
 
+## This Stakeholder is identified by the following QID
+
+* [Q30297045](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q30297045.md)
+
 ## Closest similar item
 
 * [public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_222.md)
@@ -14,6 +18,15 @@
 * [Public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2726.md)
 * [public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2835.md)
 * [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2729.md)
+
+## Risk affecting this stakeholder
+
+* [Zoonotic transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_982.md)
+* [Lack of information transparency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_658.md)
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Improved accuracy of model results](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_357.md)
 
 ## Risks that can be mitigated by this stakeholder
 
@@ -45,17 +58,4 @@
 * [Inactivation of human coronaviruses by far-UVC light](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1228.md)
 * [Limited penetration of far-UVC light](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1226.md)
 * [Visible costs of policies versus unseen health benefits](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1491.md)
-
-## Risk affecting this stakeholder
-
-* [Zoonotic transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_982.md)
-* [Lack of information transparency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_658.md)
-
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Improved accuracy of model results](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_357.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q30297045](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q30297045.md)
 

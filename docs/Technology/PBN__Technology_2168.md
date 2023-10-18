@@ -2,6 +2,10 @@
 
 # __Health education programs__
 
+## This Technology belongs to this TechSubgroup
+
+* [Public Health Measures and Education](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_47.md)
+
 ## Closest similar item
 
 * [Health education programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2168.md)
@@ -15,15 +19,11 @@
 * [education and training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1156.md)
 * [Education and training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2633.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Public Health Measures and Education](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_47.md)
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 
 ## This Technology is identified by the following QID
 
 * [Q60894](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q60894.md)
-
-## This Technology belongs to this TechGroup
-
-* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 

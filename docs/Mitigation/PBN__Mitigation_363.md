@@ -2,8 +2,9 @@
 
 # __Surveys and Feedback__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [web surveys](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3187.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_883.md)
 * [Designing targeted responses](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2248.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID19-Routes: A Safe Pedestrian Navigation Service](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_201.md)
 
 ## Property: has_MitigationPrinciple
 
 Gathering insights and feedback from individuals for evaluation purposes
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [web surveys](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3187.md)
+* [COVID19-Routes: A Safe Pedestrian Navigation Service](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_201.md)
 

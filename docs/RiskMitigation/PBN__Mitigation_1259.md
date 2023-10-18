@@ -2,9 +2,9 @@
 
 # __Professional Signs__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Contagious Diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3000.md)
+* [printing company services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3769.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Proper communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_872.md)
 * [Evidence-based communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2462.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Retail Signage During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_159.md)
+* [Contagious Diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3000.md)
 
 ## Property: has_MitigationPrinciple
 
 Professionally produced signs to convey clear and consistent information; Laminated or coated, printed on heavier stock, and designed to withstand wear and tear
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [printing company services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3769.md)
+* [Retail Signage During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_159.md)
 

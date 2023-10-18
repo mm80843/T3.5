@@ -2,6 +2,10 @@
 
 # __transparency__
 
+## Risks linked to this technology
+
+* [Peer-review failures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2332.md)
+
 ## Closest similar item
 
 * [transparency measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_103.md)
@@ -15,15 +19,11 @@
 * [visible transmittance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4239.md)
 * [blockchain technology for supply chain transparency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1632.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Peer-review failures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2332.md)
+* [Q487623](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q487623.md)
 
 ## This Technology enables the following mitigations
 
 * [Position the KT platform as a credible source](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_608.md)
-
-## This Technology is identified by the following QID
-
-* [Q487623](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q487623.md)
 

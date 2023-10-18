@@ -2,22 +2,25 @@
 
 # __Loss of green spaces due to urban development__
 
+## Property: has_RiskHealth
+
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Description of the risk
+
+Expansion of urban areas leading to loss of green spaces
+
 ## Property: has_RiskType
 
 * [environmental](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_0.md)
 
-## People affected by this risk
+## Articles mentionning the risk
 
-* [urban wildlife](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_890.md)
-* [urban residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_209.md)
-
-## Name of the risk
-
-Reduced access to nature, loss of habitat for wildlife
-
-## Property: has_RiskISO_Purpose
-
-* [Social cohesion](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_5.md)
+* [Green infrastructure through the lens of “One Health”: A systematic review and integrative framework uncovering synergies and trade-offs between mental health and wildlife support in cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_150.md)
 
 ## Closest similar item
 
@@ -32,38 +35,35 @@ Reduced access to nature, loss of habitat for wildlife
 * [Lack of green spaces in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1686.md)
 * [Poor quality of green space in disadvantaged communities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_144.md)
 
-## Description of the risk
+## People affected by this risk
 
-Expansion of urban areas leading to loss of green spaces
-
-## Technologies linked to the risk
-
-* [urban planning guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_597.md)
-* [land-use policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_598.md)
-
-## Property: has_RiskHealth
-
-* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
-
-## Mitigations of this risk
-
-* [Implement compact design principles, preserve existing green spaces, create new green spaces in urban developments](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1876.md)
-
-## Articles mentionning the risk
-
-* [Green infrastructure through the lens of “One Health”: A systematic review and integrative framework uncovering synergies and trade-offs between mental health and wildlife support in cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_150.md)
+* [urban wildlife](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_890.md)
+* [urban residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_209.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
 ## Stakeholders who can mitigate this risk
 
 * [city governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_354.md)
 * [developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_637.md)
 * [urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_125.md)
+
+## Name of the risk
+
+Reduced access to nature, loss of habitat for wildlife
+
+## Mitigations of this risk
+
+* [Implement compact design principles, preserve existing green spaces, create new green spaces in urban developments](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1876.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Social cohesion](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_5.md)
+
+## Technologies linked to the risk
+
+* [urban planning guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_597.md)
+* [land-use policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_598.md)
 

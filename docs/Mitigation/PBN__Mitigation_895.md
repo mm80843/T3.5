@@ -2,9 +2,9 @@
 
 # __Remote meetings and video conferencing__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of face-to-face interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2800.md)
+* [video conferencing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3526.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Remote Work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_459.md)
 * [Remote Work and Distance Learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1714.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The impact of COVID-19 outbreak on United Kingdom infrastructure sector](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_141.md)
+* [Lack of face-to-face interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2800.md)
 
 ## Property: has_MitigationPrinciple
 
 Allows for virtual collaboration and communication while maintaining social distancing
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [video conferencing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3526.md)
+* [The impact of COVID-19 outbreak on United Kingdom infrastructure sector](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_141.md)
 

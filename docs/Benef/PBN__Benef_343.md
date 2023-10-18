@@ -2,10 +2,6 @@
 
 # __Increased adoption of germicidal UV__
 
-## Name of the Benefit
-
-Increased awareness and training on germicidal UV technology can lead to higher adoption rates, improving indoor air quality and reducing the risk of airborne transmission.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can benefit from increased demand for buildings equipped with germicidal UV technology, attracting tenants and improving the market value of their properties.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_366.md)
@@ -19,4 +15,8 @@ Increased awareness and training on germicidal UV technology can lead to higher 
 ## Articles mentionning this Benefit
 
 * [Air Disinfection for Airborne Infection Control with a Focus on COVID-19: Why Germicidal UV is Essential†](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_66.md)
+
+## Name of the Benefit
+
+Increased awareness and training on germicidal UV technology can lead to higher adoption rates, improving indoor air quality and reducing the risk of airborne transmission.
 

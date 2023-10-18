@@ -2,6 +2,9 @@
 
 # __Integrated pest management__
 
+## This Technology belongs to this TechSubgroup
+
+
 ## Closest similar item
 
 * [Integrated pest management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2387.md)
@@ -15,14 +18,11 @@
 * [insecticide-treated screens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3667.md)
 * [mosquito control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2963.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 
 ## This Technology is identified by the following QID
 
 * [Q525309](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q525309.md)
-
-## This Technology belongs to this TechGroup
-
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 

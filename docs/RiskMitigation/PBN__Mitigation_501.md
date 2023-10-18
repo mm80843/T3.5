@@ -2,9 +2,10 @@
 
 # __Housing automation and electromagnetic fields__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Inadequate home automation, poor internet connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2596.md)
+* [smart home systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3272.md)
+* [internet and wi-fi networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3273.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Building and Housing Reform](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1286.md)
 * [Improved housing conditions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1498.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19 and Living space challenge. Well-being and Public Health recommendations for a healthy, safe, and sustainable housing.](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_161.md)
+* [Inadequate home automation, poor internet connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2596.md)
 
 ## Property: has_MitigationPrinciple
 
 Improve comfort, security, energy savings through smart home systems, ensure adequate internet and Wi-Fi connectivity
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [smart home systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3272.md)
-* [internet and wi-fi networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3273.md)
+* [COVID-19 and Living space challenge. Well-being and Public Health recommendations for a healthy, safe, and sustainable housing.](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_161.md)
 

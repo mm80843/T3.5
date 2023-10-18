@@ -2,10 +2,6 @@
 
 # __Timely and accurate medication delivery__
 
-## Name of the Benefit
-
-Ensured delivery and tracking of medications
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved patient convenience and adherence to treatment plans.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1482.md)
@@ -17,4 +13,8 @@ Ensured delivery and tracking of medications
 ## Articles mentionning this Benefit
 
 * [Digital technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_278.md)
+
+## Name of the Benefit
+
+Ensured delivery and tracking of medications
 

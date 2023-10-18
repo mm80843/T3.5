@@ -2,9 +2,8 @@
 
 # __Wearable technology placement__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Motion artefacts, poor contact with skin](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2554.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2148.md)
 * [Use of touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2120.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Wearable technology for early detection of COVID-19: A systematic scoping review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_192.md)
+* [Motion artefacts, poor contact with skin](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2554.md)
 
 ## Property: has_MitigationPrinciple
 
 Proper placement of wearable technology devices on the body to improve accuracy and minimize discomfort and interference from motion
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Wearable technology for early detection of COVID-19: A systematic scoping review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_192.md)
 

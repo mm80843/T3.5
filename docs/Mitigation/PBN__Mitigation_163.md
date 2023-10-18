@@ -2,9 +2,10 @@
 
 # __Self-Reported Symptoms__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Incomplete Detection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2470.md)
+* [smartwatch data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3017.md)
+* [self-reported symptoms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3016.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Perceived restorativeness scale](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_633.md)
 * [Avoidance of contact with someone who is displaying symptoms of coronavirus](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1810.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Wearable devices for the detection of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_296.md)
+* [Incomplete Detection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2470.md)
 
 ## Property: has_MitigationPrinciple
 
 Combination of self-reported symptoms and smartwatch data to detect COVID-19 cases
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [smartwatch data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3017.md)
-* [self-reported symptoms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3016.md)
+* [Wearable devices for the detection of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_296.md)
 

@@ -2,6 +2,9 @@
 
 # __Cleaning products__
 
+## This Technology belongs to this TechSubgroup
+
+
 ## Closest similar item
 
 * [Cleaning products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2569.md)
@@ -14,9 +17,6 @@
 * [Cleaning solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2823.md)
 * [enhanced cleaning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1555.md)
 * [proper cleaning procedures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1727.md)
-
-## This Technology belongs to this TechSubgroup
-
 
 ## This Technology belongs to this TechGroup
 

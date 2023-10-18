@@ -2,6 +2,10 @@
 
 # __White noise machines__
 
+## This Technology belongs to this TechSubgroup
+
+* [Indoor Environmental Quality](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_79.md)
+
 ## Closest similar item
 
 * [White noise machines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2234.md)
@@ -14,10 +18,6 @@
 * [noise reduction measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1239.md)
 * [Noise reduction measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2749.md)
 * [noise filtering algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1941.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Indoor Environmental Quality](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_79.md)
 
 ## This Technology belongs to this TechGroup
 

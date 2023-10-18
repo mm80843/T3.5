@@ -2,19 +2,6 @@
 
 # __data analysis tools__
 
-## Closest similar item
-
-* [data analysis software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1534.md)
-* [data collection and analysis tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_616.md)
-* [data management tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_781.md)
-* [data analysis technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3546.md)
-* [data collection tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1003.md)
-* [Data collection tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2091.md)
-* [statistical analysis software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3333.md)
-* [research and data analysis technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1312.md)
-* [Research and data analysis technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2063.md)
-* [data integration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1899.md)
-
 ## Risks linked to this technology
 
 * [Timing of community measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1353.md)
@@ -34,19 +21,32 @@
 * [Data Analytics and Modeling](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_2.md)
 * [Electronic Health Records and Data Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_8.md)
 
+## Closest similar item
+
+* [data analysis software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1534.md)
+* [data collection and analysis tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_616.md)
+* [data management tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_781.md)
+* [data analysis technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3546.md)
+* [data collection tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1003.md)
+* [Data collection tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2091.md)
+* [statistical analysis software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3333.md)
+* [research and data analysis technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1312.md)
+* [Research and data analysis technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2063.md)
+* [data integration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1899.md)
+
+## This Technology belongs to this TechGroup
+
+* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
+
+## This Technology is identified by the following QID
+
+* [Q4550939](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4550939.md)
+
 ## This Technology enables the following mitigations
 
 * [Monitoring social media content](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2277.md)
 * [Early Warning Systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1861.md)
 * [Effective public health surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1573.md)
 * [Increase data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1545.md)
-
-## This Technology is identified by the following QID
-
-* [Q4550939](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4550939.md)
-
-## This Technology belongs to this TechGroup
-
-* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
-* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
 

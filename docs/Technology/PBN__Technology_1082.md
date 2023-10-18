@@ -2,19 +2,6 @@
 
 # __community outreach programs__
 
-## Closest similar item
-
-* [Community outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2190.md)
-* [community outreach](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1489.md)
-* [Outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2645.md)
-* [outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_174.md)
-* [community outreach programs for social support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1445.md)
-* [targeted outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1339.md)
-* [targeted outreach to disadvantaged communities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1830.md)
-* [outreach campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1206.md)
-* [Outreach campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2164.md)
-* [community support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_595.md)
-
 ## Risks linked to this technology
 
 * [Lack of community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2149.md)
@@ -29,12 +16,25 @@
 * [Support Systems and Resources](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_42.md)
 * [Financial Support and Community Initiatives](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_36.md)
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q11640](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11640.md)
+* [Community outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2190.md)
+* [community outreach](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1489.md)
+* [Outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2645.md)
+* [outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_174.md)
+* [community outreach programs for social support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1445.md)
+* [targeted outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1339.md)
+* [targeted outreach to disadvantaged communities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1830.md)
+* [outreach campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1206.md)
+* [Outreach campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2164.md)
+* [community support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_595.md)
 
 ## This Technology belongs to this TechGroup
 
 * [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
 * [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
+
+## This Technology is identified by the following QID
+
+* [Q11640](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11640.md)
 

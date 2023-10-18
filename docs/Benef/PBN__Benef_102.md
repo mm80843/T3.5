@@ -2,10 +2,6 @@
 
 # __Efficient screening__
 
-## Name of the Benefit
-
-Increased efficiency and coverage of temperature screening, linked to hospital information systems for monitoring
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved public health and reduced transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_100.md)
@@ -18,4 +14,8 @@ Increased efficiency and coverage of temperature screening, linked to hospital i
 ## Articles mentionning this Benefit
 
 * [Combating COVID-19—The role of robotics in managing public health and infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_23.md)
+
+## Name of the Benefit
+
+Increased efficiency and coverage of temperature screening, linked to hospital information systems for monitoring
 

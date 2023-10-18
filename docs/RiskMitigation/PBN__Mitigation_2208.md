@@ -2,9 +2,10 @@
 
 # __Enhancing accessibility for low-income residents__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of transportation and financial constraints](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3384.md)
+* [accessible transportation options](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4322.md)
+* [subsidized entry fees](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4323.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Mobility Restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_349.md)
 * [Provision of community-level key public places](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_414.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Access and Use of Green Areas during the COVID-19 Pandemic: Green Infrastructure Management in the “New Normal”](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_275.md)
+* [Lack of transportation and financial constraints](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3384.md)
 
 ## Property: has_MitigationPrinciple
 
 Implement policies and actions to improve access to green areas for low-income residents, such as providing affordable transportation options and reducing entrance fees
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [accessible transportation options](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4322.md)
-* [subsidized entry fees](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4323.md)
+* [Access and Use of Green Areas during the COVID-19 Pandemic: Green Infrastructure Management in the “New Normal”](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_275.md)
 

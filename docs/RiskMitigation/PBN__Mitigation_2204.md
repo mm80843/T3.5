@@ -2,9 +2,10 @@
 
 # __Restricting access to public parks__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Overcrowding in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3381.md)
+* [barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_833.md)
+* [locks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4317.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Accessibility to urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1206.md)
 * [Suspension of public visitors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1977.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Access and Use of Green Areas during the COVID-19 Pandemic: Green Infrastructure Management in the “New Normal”](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_275.md)
+* [Overcrowding in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3381.md)
 
 ## Property: has_MitigationPrinciple
 
 Limit the number of people allowed in public parks to ensure social distancing and reduce the risk of disease transmission
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_833.md)
-* [locks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4317.md)
+* [Access and Use of Green Areas during the COVID-19 Pandemic: Green Infrastructure Management in the “New Normal”](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_275.md)
 

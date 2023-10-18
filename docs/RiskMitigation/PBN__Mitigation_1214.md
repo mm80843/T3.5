@@ -2,9 +2,9 @@
 
 # __Ventilation systems__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Increased risk of airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2963.md)
+* [mechanical ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1013.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4036.md)
 * [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_342.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Emergency Healthcare Facilities: Managing Design in a Post Covid-19 World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_122.md)
+* [Increased risk of airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2963.md)
 
 ## Property: has_MitigationPrinciple
 
 Adequate ventilation to reduce infection risk and create negative pressure rooms
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [mechanical ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1013.md)
+* [Emergency Healthcare Facilities: Managing Design in a Post Covid-19 World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_122.md)
 

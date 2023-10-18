@@ -2,9 +2,10 @@
 
 # __Societal issues and the human factor__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Resistance to using new systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3303.md)
+* [public awareness](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4160.md)
+* [user-friendly applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4159.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Psychological impacts and social tensions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4194.md)
 * [Social justice and inequality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4195.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The role of 5G for digital healthcare against COVID-19 pandemic: Opportunities and challenges](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_9.md)
+* [Resistance to using new systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3303.md)
 
 ## Property: has_MitigationPrinciple
 
 Development of user-friendly applications and increasing public awareness about the benefits and usability of e-health systems
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [public awareness](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4160.md)
-* [user-friendly applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4159.md)
+* [The role of 5G for digital healthcare against COVID-19 pandemic: Opportunities and challenges](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_9.md)
 

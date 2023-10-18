@@ -2,9 +2,9 @@
 
 # __Dedicated walk-in clinic__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2406.md)
+* [medical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2897.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Use of another isolation hospital](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_798.md)
 * [Selecting adequate ward and patient rooms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1108.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Mitigation strategies to fight the COVID-19 pandemic—present, future and beyond](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_200.md)
+* [Outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2406.md)
 
 ## Property: has_MitigationPrinciple
 
 Establish dedicated clinics for the diagnosis and treatment of infectious diseases
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [medical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2897.md)
+* [Mitigation strategies to fight the COVID-19 pandemic—present, future and beyond](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_200.md)
 

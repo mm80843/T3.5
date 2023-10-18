@@ -2,10 +2,6 @@
 
 # __Improved resource utilization__
 
-## Name of the Benefit
-
-Optimizing the medical supply chain can improve resource utilization, ensure adequate supply of medical equipment and medication, and reduce the shortage faced by healthcare institutions.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investing in medical supply chain optimization can enhance the efficiency of healthcare operations, reduce costs associated with medical equipment and medication shortages, and improve the overall resilience of healthcare institutions.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1074.md)
@@ -17,4 +13,8 @@ Optimizing the medical supply chain can improve resource utilization, ensure ade
 ## Articles mentionning this Benefit
 
 * [Mitigation strategies to fight the COVID-19 pandemic—present, future and beyond](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_200.md)
+
+## Name of the Benefit
+
+Optimizing the medical supply chain can improve resource utilization, ensure adequate supply of medical equipment and medication, and reduce the shortage faced by healthcare institutions.
 

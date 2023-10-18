@@ -2,6 +2,10 @@
 
 # __Placemaking initiatives__
 
+## This Technology belongs to this TechSubgroup
+
+* [Urban Planning and Green Spaces](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_85.md)
+
 ## Closest similar item
 
 * [Placemaking initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2743.md)
@@ -15,15 +19,11 @@
 * [government initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1642.md)
 * [digital inclusion initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_700.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Urban Planning and Green Spaces](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_85.md)
+* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
 
 ## This Technology is identified by the following QID
 
 * [Q7200277](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7200277.md)
-
-## This Technology belongs to this TechGroup
-
-* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
 

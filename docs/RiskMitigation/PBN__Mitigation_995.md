@@ -2,9 +2,11 @@
 
 # __Central control of medical countermeasures__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Limited mandate on public health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2850.md)
+* [stockpiling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3573.md)
+* [allocation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3574.md)
+* [procurement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3572.md)
 
 ## Closest similar item
 
@@ -19,17 +21,15 @@
 * [Stricter protective measures for ICU staff](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_722.md)
 * [Preventive Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1870.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Borders and Catastrophe: lessons from COVID-19 for the European Green Deal](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_156.md)
+* [Limited mandate on public health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2850.md)
 
 ## Property: has_MitigationPrinciple
 
 Ensure coordinated and efficient response to public health emergencies
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [stockpiling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3573.md)
-* [allocation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3574.md)
-* [procurement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3572.md)
+* [Borders and Catastrophe: lessons from COVID-19 for the European Green Deal](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_156.md)
 

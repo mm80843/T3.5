@@ -2,7 +2,7 @@
 
 # __Space and Density__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
 
 ## Closest similar item
@@ -18,14 +18,14 @@
 * [Proper Space Arrangement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1763.md)
 * [Large living spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_124.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Antivirus-built environment: Lessons learned from Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_298.md)
 
 ## Property: has_MitigationPrinciple
 
 Explore strategies to optimize space utilization and reduce overcrowding in buildings to minimize the risk of infection transmission.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Antivirus-built environment: Lessons learned from Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_298.md)
 

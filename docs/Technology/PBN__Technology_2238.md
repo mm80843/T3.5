@@ -2,6 +2,10 @@
 
 # __Advanced materials__
 
+## This Technology belongs to this TechSubgroup
+
+* [Indoor Environmental Quality](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_79.md)
+
 ## Closest similar item
 
 * [Advanced materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2238.md)
@@ -15,15 +19,11 @@
 * [lightweight materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4302.md)
 * [physical barrier materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4099.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Indoor Environmental Quality](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_79.md)
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 
 ## This Technology is identified by the following QID
 
 * [Q3595325](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3595325.md)
-
-## This Technology belongs to this TechGroup
-
-* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 

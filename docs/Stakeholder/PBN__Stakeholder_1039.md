@@ -2,6 +2,10 @@
 
 # __world health organization__
 
+## This Stakeholder is identified by the following QID
+
+* [Q7817](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7817.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
@@ -19,16 +23,12 @@
 * [health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1249.md)
 * [health authority](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1846.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Climate-associated diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1645.md)
-* [Misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1033.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [International and Health Organizations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_116.md)
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q7817](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7817.md)
+* [Climate-associated diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1645.md)
+* [Misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1033.md)
 

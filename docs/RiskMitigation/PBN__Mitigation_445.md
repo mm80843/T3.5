@@ -2,8 +2,10 @@
 
 # __Dancing__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [online dance classes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3235.md)
+* [music](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3234.md)
 
 ## Closest similar item
 
@@ -18,16 +20,14 @@
 * [Comparative research on exercise behaviors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_80.md)
 * [Social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_478.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Staying Physically Active During the Quarantine and Self-Isolation Period for Controlling and Mitigating the COVID-19 Pandemic: A Systematic Overview of the Literature](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_181.md)
 
 ## Property: has_MitigationPrinciple
 
 Participating in dance activities to increase physical activity and improve emotional well-being.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [online dance classes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3235.md)
-* [music](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3234.md)
+* [Staying Physically Active During the Quarantine and Self-Isolation Period for Controlling and Mitigating the COVID-19 Pandemic: A Systematic Overview of the Literature](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_181.md)
 

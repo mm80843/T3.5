@@ -2,9 +2,11 @@
 
 # __AI-assisted patient positioning for radiological imaging__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Inaccurate positioning of patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3048.md)
+* [cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3842.md)
+* [artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_358.md)
+* [and speakers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3843.md)
 
 ## Closest similar item
 
@@ -19,17 +21,15 @@
 * [IoT-enabled hospital](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1178.md)
 * [AI-powered diagnosis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_152.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Exploring the Potential of Artificial Intelligence and Machine Learning to Combat COVID-19 and Existing Opportunities for LMIC: A Scoping Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_131.md)
+* [Inaccurate positioning of patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3048.md)
 
 ## Property: has_MitigationPrinciple
 
 AI-assisted patient positioning reduces the risk of infection for healthcare workers
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3842.md)
-* [artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_358.md)
-* [and speakers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3843.md)
+* [Exploring the Potential of Artificial Intelligence and Machine Learning to Combat COVID-19 and Existing Opportunities for LMIC: A Scoping Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_131.md)
 

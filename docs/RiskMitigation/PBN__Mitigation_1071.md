@@ -2,9 +2,10 @@
 
 # __Resilient agricultural practices__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Crop and livestock losses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2903.md)
+* [technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3618.md)
+* [climate-smart agriculture methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3617.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Availability of greenery and gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2125.md)
 * [Strengthen protection of environment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1823.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19 risks and systemic gaps in Nigeria: resilience building lessons for pandemic and climate change management](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_215.md)
+* [Crop and livestock losses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2903.md)
 
 ## Property: has_MitigationPrinciple
 
 Adapt farming techniques to climate change impacts
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3618.md)
-* [climate-smart agriculture methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3617.md)
+* [COVID-19 risks and systemic gaps in Nigeria: resilience building lessons for pandemic and climate change management](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_215.md)
 

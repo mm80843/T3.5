@@ -2,9 +2,10 @@
 
 # __Incorporating green spaces__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_611.md)
+* [gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1736.md)
+* [green roofs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1392.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Public green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_474.md)
 * [Quality of green space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_52.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
+* [Mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_611.md)
 
 ## Property: has_MitigationPrinciple
 
 Enhance mental health, reduce stress and promote relaxation
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1736.md)
-* [green roofs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1392.md)
+* [How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
 

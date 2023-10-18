@@ -2,9 +2,8 @@
 
 # __Open-source model__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Proprietary monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2610.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Data-driven solutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_150.md)
 * [Regression modeling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1196.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Wastewater surveillance for population-wide Covid-19: The present and future](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_213.md)
+* [Proprietary monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2610.md)
 
 ## Property: has_MitigationPrinciple
 
 Encourage the use of open-source platforms and systems for WBE to facilitate widespread adoption and minimize costs
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Wastewater surveillance for population-wide Covid-19: The present and future](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_213.md)
 

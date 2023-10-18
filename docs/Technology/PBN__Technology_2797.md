@@ -2,6 +2,10 @@
 
 # __Research on potential therapeutic options__
 
+## This Technology belongs to this TechSubgroup
+
+* [Research and Data Analysis](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_186.md)
+
 ## Closest similar item
 
 * [Research on potential therapeutic options](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2797.md)
@@ -15,15 +19,11 @@
 * [antiretroviral therapy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2809.md)
 * [psychological interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1541.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Research and Data Analysis](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_186.md)
+* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
 
 ## This Technology is identified by the following QID
 
 * [Q128406](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q128406.md)
-
-## This Technology belongs to this TechGroup
-
-* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
 

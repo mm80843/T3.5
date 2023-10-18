@@ -2,9 +2,13 @@
 
 # __GPS__
 
-## Thees blueprints use this enabler
+## Property: has_TechEquivalent
 
-* [Controls at key checkpoints](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_6.md)
+* [GPS](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4536.md)
+
+## Property: has_BP_EnablerTitle
+
+enabler_011
 
 ## Closest similar item
 
@@ -19,11 +23,7 @@
 * [travel tracking and monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_132.md)
 * [travel tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_133.md)
 
-## Property: has_TechEquivalent
+## Thees blueprints use this enabler
 
-* [GPS](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4536.md)
-
-## Property: has_BP_EnablerTitle
-
-enabler_011
+* [Controls at key checkpoints](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_6.md)
 

@@ -19,11 +19,11 @@
 * [improved water treatment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3001.md)
 * [Improved water treatment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3002.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Inconsistent results between concentration methods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1051.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Waste and Wastewater Management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_161.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Inconsistent results between concentration methods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1051.md)
 

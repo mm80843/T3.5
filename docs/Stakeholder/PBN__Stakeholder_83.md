@@ -2,6 +2,10 @@
 
 # __nan__
 
+## This Stakeholder is identified by the following QID
+
+* [Q244698](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q244698.md)
+
 ## Closest similar item
 
 * [Financial Measures](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2807.md)
@@ -14,17 +18,6 @@
 * [Fact-Checking and Information Verification](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2814.md)
 * [Security Systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2815.md)
 * [Sanitation and Waste Management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2816.md)
-
-## Risks that can be mitigated by this stakeholder
-
-* [and physical health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2293.md)
-* [Inconsistencies in Accuracy Measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1260.md)
-* [infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2324.md)
-* [Underrepresentation of Geographic Regions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1261.md)
-* [associated](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2323.md)
-* [Inaccurate Reference Tests](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1257.md)
-* [Overfitting of Anomaly Detection Models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1258.md)
-* [Limited Generalizability of ADMs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1259.md)
 
 ## Risk affecting this stakeholder
 
@@ -40,7 +33,14 @@
 * [annoyance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1197.md)
 * [reasoning](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1239.md)
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q244698](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q244698.md)
+* [and physical health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2293.md)
+* [Inconsistencies in Accuracy Measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1260.md)
+* [infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2324.md)
+* [Underrepresentation of Geographic Regions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1261.md)
+* [associated](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2323.md)
+* [Inaccurate Reference Tests](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1257.md)
+* [Overfitting of Anomaly Detection Models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1258.md)
+* [Limited Generalizability of ADMs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1259.md)
 

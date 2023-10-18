@@ -2,9 +2,10 @@
 
 # __Strengthened social protection systems__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Increased poverty and inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2905.md)
+* [welfare support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3620.md)
+* [social safety net programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3619.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Strengthen protection of environment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1823.md)
 * [Protection of susceptible individuals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_887.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19 risks and systemic gaps in Nigeria: resilience building lessons for pandemic and climate change management](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_215.md)
+* [Increased poverty and inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2905.md)
 
 ## Property: has_MitigationPrinciple
 
 Provide support to vulnerable populations during crises
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [welfare support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3620.md)
-* [social safety net programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3619.md)
+* [COVID-19 risks and systemic gaps in Nigeria: resilience building lessons for pandemic and climate change management](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_215.md)
 

@@ -2,9 +2,8 @@
 
 # __Providing additional personal protective equipment (PPE)__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3213.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_193.md)
 * [Distribution of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1976.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Identifying Actions to Control and Mitigate the Effects of the COVID-19 Pandemic on Construction Organizations: Preliminary Findings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_220.md)
+* [Lack of protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3213.md)
 
 ## Property: has_MitigationPrinciple
 
 Ensuring workers have the necessary equipment to reduce exposure to the virus and prevent its spread
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Identifying Actions to Control and Mitigate the Effects of the COVID-19 Pandemic on Construction Organizations: Preliminary Findings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_220.md)
 

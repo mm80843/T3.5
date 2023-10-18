@@ -2,9 +2,9 @@
 
 # __Virtual reality__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3329.md)
+* [virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1233.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [computer vision](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4227.md)
 * [virtual exhibitions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4228.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The role of contemporary digital tools and technologies in COVID19 crisis: An exploratory analysis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_226.md)
+* [Accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3329.md)
 
 ## Property: has_MitigationPrinciple
 
 VR can enable virtual healthcare, medical training, and therapy, reducing the need for in-person contact.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1233.md)
+* [The role of contemporary digital tools and technologies in COVID19 crisis: An exploratory analysis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_226.md)
 

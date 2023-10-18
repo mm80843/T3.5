@@ -2,9 +2,9 @@
 
 # __Drainage system management__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Stagnant pools in urban areas as breeding grounds](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3116.md)
+* [drainage systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3901.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Environmental management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2386.md)
 * [Proper plumbing work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2161.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Vector-borne disease, climate change and urban design](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_17.md)
+* [Stagnant pools in urban areas as breeding grounds](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3116.md)
 
 ## Property: has_MitigationPrinciple
 
 Proper management of drainage systems to prevent stagnant water pools and mosquito breeding
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [drainage systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3901.md)
+* [Vector-borne disease, climate change and urban design](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_17.md)
 

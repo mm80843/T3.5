@@ -2,9 +2,9 @@
 
 # __Data sharing for secondary use__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of standardization, concerns over ethics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2626.md)
+* [data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_152.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Incremental gains in data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_573.md)
 * [Secure storage and data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2348.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Data capture and sharing in the COVID-19 pandemic: a cause for concern](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_208.md)
+* [Lack of standardization, concerns over ethics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2626.md)
 
 ## Property: has_MitigationPrinciple
 
 Facilitate further research, provide quality assurance, enable analysis and reproducibility
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_152.md)
+* [Data capture and sharing in the COVID-19 pandemic: a cause for concern](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_208.md)
 

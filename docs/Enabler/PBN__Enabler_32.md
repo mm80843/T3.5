@@ -2,10 +2,13 @@
 
 # __Disease Diagnostic Test Kits__
 
-## Thees blueprints use this enabler
+## Property: has_TechEquivalent
 
-* [Rotating shift schedule](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_0.md)
-* [Infection tracking](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_20.md)
+* [Disease Diagnostic Test Kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4557.md)
+
+## Property: has_BP_EnablerTitle
+
+enabler_033
 
 ## Closest similar item
 
@@ -20,11 +23,8 @@
 * [Testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_334.md)
 * [test kits](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_335.md)
 
-## Property: has_TechEquivalent
+## Thees blueprints use this enabler
 
-* [Disease Diagnostic Test Kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4557.md)
-
-## Property: has_BP_EnablerTitle
-
-enabler_033
+* [Rotating shift schedule](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_0.md)
+* [Infection tracking](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_20.md)
 

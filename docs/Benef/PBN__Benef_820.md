@@ -2,10 +2,6 @@
 
 # __Deeper understanding of urban science developments__
 
-## Name of the Benefit
-
-Offers a lasting legacy and deeper understanding of urban science developments by integrating quantitative data with analysis of behavior change
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investing in research and analysis of behavior change can contribute to advancements in urban science and inform future policy interventions.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_890.md)
@@ -18,4 +14,8 @@ Offers a lasting legacy and deeper understanding of urban science developments b
 ## Articles mentionning this Benefit
 
 * [Smart cities and a data-driven response to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_164.md)
+
+## Name of the Benefit
+
+Offers a lasting legacy and deeper understanding of urban science developments by integrating quantitative data with analysis of behavior change
 

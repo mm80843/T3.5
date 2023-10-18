@@ -2,6 +2,10 @@
 
 # __urban poor__
 
+## This Stakeholder is identified by the following QID
+
+* [Q60445622](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q60445622.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
@@ -32,8 +36,4 @@
 * [Increased physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_352.md)
 * [Improved access to healthy diets](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_353.md)
 * [Improved food accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_354.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q60445622](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q60445622.md)
 

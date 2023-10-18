@@ -19,12 +19,12 @@
 * [local communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_85.md)
 * [Local communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2494.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Community Associations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_137.md)
+
 ## Risks that can be mitigated by this stakeholder
 
 * [Feeling of isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1109.md)
 * [Lack of community connections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1293.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Community Associations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_137.md)
 

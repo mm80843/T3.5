@@ -2,9 +2,8 @@
 
 # __Clear SOP guidelines__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Unclear instructions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2843.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Increased Cleaning Protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1757.md)
 * [Enhanced cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_820.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Mechanisms for addressing the impact of COVID-19 on infrastructure projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_115.md)
+* [Unclear instructions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2843.md)
 
 ## Property: has_MitigationPrinciple
 
 Provide clear and concise guidelines for individuals to follow in order to ensure compliance with standard operating procedures
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Mechanisms for addressing the impact of COVID-19 on infrastructure projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_115.md)
 

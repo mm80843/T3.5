@@ -2,10 +2,6 @@
 
 # __Data-driven decision making__
 
-## Name of the Benefit
-
-Knowledge management and BIM can enhance decision-making and planning
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Increased efficiency, cost savings, improved resource management](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_880.md)
@@ -21,4 +17,8 @@ Knowledge management and BIM can enhance decision-making and planning
 ## Articles mentionning this Benefit
 
 * [Water and wastewater digital surveillance for monitoring and early detection of the COVID-19 hotspot: industry 4.0](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_162.md)
+
+## Name of the Benefit
+
+Knowledge management and BIM can enhance decision-making and planning
 

@@ -2,19 +2,6 @@
 
 # __data analytics__
 
-## Closest similar item
-
-* [Data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2037.md)
-* [Data Analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4530.md)
-* [data analytics and visualization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_18.md)
-* [big data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2938.md)
-* [data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3346.md)
-* [data mining](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3027.md)
-* [social media analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3184.md)
-* [big-data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1711.md)
-* [data analytics platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_771.md)
-* [data analysis technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3546.md)
-
 ## Risks linked to this technology
 
 * [Spread of contagious epidemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_936.md)
@@ -30,6 +17,27 @@
 
 * [Data Analytics and Modeling](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_2.md)
 * [Supply Chain and Risk Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_9.md)
+
+## Closest similar item
+
+* [Data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2037.md)
+* [Data Analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4530.md)
+* [data analytics and visualization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_18.md)
+* [big data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2938.md)
+* [data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3346.md)
+* [data mining](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3027.md)
+* [social media analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3184.md)
+* [big-data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1711.md)
+* [data analytics platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_771.md)
+* [data analysis technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3546.md)
+
+## This Technology belongs to this TechGroup
+
+* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
+
+## This Technology is identified by the following QID
+
+* [Q485396](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q485396.md)
 
 ## This Technology enables the following mitigations
 
@@ -49,12 +57,4 @@
 * [Screening techniques for patient severity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2353.md)
 * [Fraud Detection in Healthcare Insurance Claims](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1936.md)
 * [Innovative Solution Identification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1934.md)
-
-## This Technology is identified by the following QID
-
-* [Q485396](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q485396.md)
-
-## This Technology belongs to this TechGroup
-
-* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
 

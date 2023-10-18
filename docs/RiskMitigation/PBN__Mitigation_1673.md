@@ -2,9 +2,9 @@
 
 # __Continuous supply of essential materials__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Disruption in material supply](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3210.md)
+* [logistics systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1539.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Material selection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1476.md)
 * [Urgent and essential waste management as a service](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2459.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [An Automated System to Limit COVID-19 Using Facial Mask Detection in Smart City Network](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_265.md)
+* [Disruption in material supply](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3210.md)
 
 ## Property: has_MitigationPrinciple
 
 Ensure a continuous and contactless distribution of essential materials to society to reduce the need for public interactions
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [logistics systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1539.md)
+* [An Automated System to Limit COVID-19 Using Facial Mask Detection in Smart City Network](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_265.md)
 

@@ -2,6 +2,10 @@
 
 # __financial institutions__
 
+## This Stakeholder is identified by the following QID
+
+* [Q57774188](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q57774188.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
@@ -18,6 +22,20 @@
 * [healthcare institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_269.md)
 * [financial advisors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_830.md)
 * [bank](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1933.md)
+
+## Risk affecting this stakeholder
+
+* [Economic recession](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1008.md)
+* [Volatility in financial markets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1976.md)
+* [Varying credit guarantee ratios](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2162.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Business and Financial Services](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_58.md)
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Timely shutdown and reopening of specific areas](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1021.md)
 
 ## Risks that can be mitigated by this stakeholder
 
@@ -40,22 +58,4 @@
 * [Systemic risk in economic and financial systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1342.md)
 * [Cost of Setup and Operation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1104.md)
 * [Volatility in financial markets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1976.md)
-
-## Risk affecting this stakeholder
-
-* [Economic recession](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1008.md)
-* [Volatility in financial markets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1976.md)
-* [Varying credit guarantee ratios](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2162.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Business and Financial Services](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_58.md)
-
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Timely shutdown and reopening of specific areas](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1021.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q57774188](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q57774188.md)
 

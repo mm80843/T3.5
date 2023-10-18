@@ -2,9 +2,8 @@
 
 # __Pre-targeting sub-populations__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Limited diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2604.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Addressing precarity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_742.md)
 * [Demographics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_397.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Wastewater surveillance for population-wide Covid-19: The present and future](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_213.md)
+* [Limited diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2604.md)
 
 ## Property: has_MitigationPrinciple
 
 Conserve diagnostic tests by focusing on sub-populations with a higher probability of infection
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Wastewater surveillance for population-wide Covid-19: The present and future](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_213.md)
 

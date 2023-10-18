@@ -2,22 +2,25 @@
 
 # __Ineffectiveness of conventional wastewater treatment processes in removing SARS-CoV-2__
 
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Description of the risk
+
+Conventional activated-sludge wastewater treatment plants have poor removal efficiency for SARS-CoV-2 RNA.
+
 ## Property: has_RiskType
 
 * [environmental](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_0.md)
 
-## People affected by this risk
+## Articles mentionning the risk
 
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-* [ecosystem](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1563.md)
-
-## Name of the risk
-
-Risk of releasing SARS-CoV-2 genetic material into the environment through treated wastewater.
-
-## Property: has_RiskISO_Purpose
-
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+* [Detection of SARS-CoV-2 in raw and treated wastewater in Germany – Suitability for COVID-19 surveillance and potential transmission risks](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_0.md)
 
 ## Closest similar item
 
@@ -32,36 +35,33 @@ Risk of releasing SARS-CoV-2 genetic material into the environment through treat
 * [Detection of SARS-CoV-2 in wastewater as a data source](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_291.md)
 * [Inactivation of SARS-CoV-2 in water](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2980.md)
 
-## Description of the risk
+## People affected by this risk
 
-Conventional activated-sludge wastewater treatment plants have poor removal efficiency for SARS-CoV-2 RNA.
-
-## Technologies linked to the risk
-
-* [membrane filtration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1933.md)
-* [ozonation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1932.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Mitigations of this risk
-
-* [Implement advanced treatment processes, such as ozonation or membrane filtration, to improve removal efficiency of SARS-CoV-2 RNA.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3043.md)
-
-## Articles mentionning the risk
-
-* [Detection of SARS-CoV-2 in raw and treated wastewater in Germany – Suitability for COVID-19 surveillance and potential transmission risks](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_0.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [ecosystem](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1563.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
 ## Stakeholders who can mitigate this risk
 
 * [wastewater treatment plant operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1050.md)
+
+## Name of the risk
+
+Risk of releasing SARS-CoV-2 genetic material into the environment through treated wastewater.
+
+## Mitigations of this risk
+
+* [Implement advanced treatment processes, such as ozonation or membrane filtration, to improve removal efficiency of SARS-CoV-2 RNA.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3043.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+
+## Technologies linked to the risk
+
+* [membrane filtration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1933.md)
+* [ozonation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1932.md)
 

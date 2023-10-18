@@ -2,9 +2,8 @@
 
 # __Diversify income sources__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Economic instability and overreliance on certain revenue streams](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3340.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Financial reforms to enable innovative and socially directed investment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_998.md)
 * [Wealth tax](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1000.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Envisioning a resilient future for biodiversity conservation in the wake of the COVID‐19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_221.md)
+* [Economic instability and overreliance on certain revenue streams](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3340.md)
 
 ## Property: has_MitigationPrinciple
 
 Diverse income sources can reduce the vulnerability of conservation efforts to economic shocks and disruptions, ensuring that funding for conservation activities is more stable and sustainable.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Envisioning a resilient future for biodiversity conservation in the wake of the COVID‐19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_221.md)
 

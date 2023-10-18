@@ -2,6 +2,10 @@
 
 # __Evaluation and adaptation of temporary changes__
 
+## This Technology belongs to this TechSubgroup
+
+* [Public Health Measures and Regulations](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_92.md)
+
 ## Closest similar item
 
 * [Evaluation and adaptation of temporary changes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2372.md)
@@ -15,15 +19,11 @@
 * [climate change adaptation strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3966.md)
 * [task-shifting strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1818.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Public Health Measures and Regulations](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_92.md)
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 
 ## This Technology is identified by the following QID
 
 * [Q7256373](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7256373.md)
-
-## This Technology belongs to this TechGroup
-
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 

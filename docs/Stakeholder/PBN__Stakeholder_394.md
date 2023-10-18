@@ -2,6 +2,10 @@
 
 # __health authorities__
 
+## This Stakeholder is identified by the following QID
+
+* [Q63122029](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q63122029.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
@@ -18,6 +22,18 @@
 * [Local health authority](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1850.md)
 * [regional health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1.md)
 * [health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1249.md)
+
+## Risk affecting this stakeholder
+
+* [Insufficient healthcare preparation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2183.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Public Health Agencies](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_43.md)
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Early detection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_0.md)
 
 ## Risks that can be mitigated by this stakeholder
 
@@ -44,20 +60,4 @@
 * [Guidelines for funerals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1352.md)
 * [Lag between infection and death](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1392.md)
 * [False sense of security from preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1830.md)
-
-## Risk affecting this stakeholder
-
-* [Insufficient healthcare preparation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2183.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Public Health Agencies](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_43.md)
-
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Early detection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_0.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q63122029](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q63122029.md)
 

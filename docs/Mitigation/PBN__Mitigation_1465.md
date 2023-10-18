@@ -2,8 +2,10 @@
 
 # __Information Communication__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3640.md)
+* [government communications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3885.md)
 
 ## Closest similar item
 
@@ -18,16 +20,14 @@
 * [Communication and Collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1765.md)
 * [Enhanced communication and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_133.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The impacts of knowledge, risk perception, emotion and information on citizens’ protective behaviors during the outbreak of COVID-19: a cross-sectional study in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_74.md)
 
 ## Property: has_MitigationPrinciple
 
 Providing accurate and timely information to the public through various communication channels, such as media and government announcements, to educate and guide individuals in adopting protective behaviors and mitigating the spread of contagious diseases.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3640.md)
-* [government communications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3885.md)
+* [The impacts of knowledge, risk perception, emotion and information on citizens’ protective behaviors during the outbreak of COVID-19: a cross-sectional study in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_74.md)
 

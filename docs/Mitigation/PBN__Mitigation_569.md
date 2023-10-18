@@ -2,9 +2,10 @@
 
 # __Centralised primary data sharing__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Varying legal frameworks, sociopolitical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2632.md)
+* [data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_152.md)
+* [legal frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1431.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Centralized database](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_519.md)
 * [Incremental gains in data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_573.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Data capture and sharing in the COVID-19 pandemic: a cause for concern](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_208.md)
+* [Varying legal frameworks, sociopolitical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2632.md)
 
 ## Property: has_MitigationPrinciple
 
 Improve research responsiveness, facilitate data sharing agreements
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_152.md)
-* [legal frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1431.md)
+* [Data capture and sharing in the COVID-19 pandemic: a cause for concern](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_208.md)
 

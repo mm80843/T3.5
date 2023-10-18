@@ -2,7 +2,7 @@
 
 # __Negative Pressure AIIRs__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
 
 ## Closest similar item
@@ -18,14 +18,14 @@
 * [Airflow Direction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2013.md)
 * [Good air flow](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_771.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19: Risk assessment and mitigation measures in healthcare and non-healthcare workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_100.md)
 
 ## Property: has_MitigationPrinciple
 
 Upgrading intensive care units (ICUs) to have the features of negative pressure AIIRs.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [COVID-19: Risk assessment and mitigation measures in healthcare and non-healthcare workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_100.md)
 

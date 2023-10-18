@@ -2,9 +2,10 @@
 
 # __Open data sharing__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of transparent information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2791.md)
+* [data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_152.md)
+* [collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_151.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Open data sharing and analysis for pandemic dataset creation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_293.md)
 * [Secure and transparent data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1881.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Coronavirus disease 2019: The harms of exaggerated information and non‐evidence‐based measures](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_101.md)
+* [Lack of transparent information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2791.md)
 
 ## Property: has_MitigationPrinciple
 
 Encouraging the open sharing of scientific information, data, and research findings to facilitate collaboration, transparency, and accessibility of information for informed decision-making and to avoid misinformation.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_152.md)
-* [collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_151.md)
+* [Coronavirus disease 2019: The harms of exaggerated information and non‐evidence‐based measures](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_101.md)
 

@@ -2,9 +2,10 @@
 
 # __Mixed-use neighborhoods__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Increased commuting and social disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2886.md)
+* [urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_922.md)
+* [architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3564.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Making social spaces safe and viable](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_409.md)
 * [Lack of park access in marginalized communities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3977.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The Role of Architecture and Urbanism in Preventing Pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_140.md)
+* [Increased commuting and social disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2886.md)
 
 ## Property: has_MitigationPrinciple
 
 Designing neighborhoods that combine residential, commercial, and recreational spaces to reduce the need for commuting and encourage walking and cycling
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_922.md)
-* [architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3564.md)
+* [The Role of Architecture and Urbanism in Preventing Pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_140.md)
 

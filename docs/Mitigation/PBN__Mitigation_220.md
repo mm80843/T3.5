@@ -2,9 +2,9 @@
 
 # __Adequate control of air conditioning and ventilation systems__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Poor air circulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2508.md)
+* [proper maintenance and operation of hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3066.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_342.md)
 * [Air ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2217.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Environmental factors involved in SARS-CoV-2 transmission: effect and role of indoor environmental quality in the strategy for COVID-19 infection control](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_249.md)
+* [Poor air circulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2508.md)
 
 ## Property: has_MitigationPrinciple
 
 Regular maintenance and operation of HVAC systems ensure proper air circulation, reducing the risk of stagnant air and airborne transmission.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [proper maintenance and operation of hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3066.md)
+* [Environmental factors involved in SARS-CoV-2 transmission: effect and role of indoor environmental quality in the strategy for COVID-19 infection control](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_249.md)
 

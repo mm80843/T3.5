@@ -2,9 +2,9 @@
 
 # __Green and Sustainable Design Practices__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Environmental Impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2487.md)
+* [energy-efficient systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_325.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Sustainable Development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1040.md)
 * [Policies for green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1191.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Ten questions concerning occupant health in buildings during normal operations and extreme events including the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_38.md)
+* [Environmental Impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2487.md)
 
 ## Property: has_MitigationPrinciple
 
 Designing and constructing buildings with a focus on energy efficiency and sustainability to promote a healthier environment.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [energy-efficient systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_325.md)
+* [Ten questions concerning occupant health in buildings during normal operations and extreme events including the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_38.md)
 

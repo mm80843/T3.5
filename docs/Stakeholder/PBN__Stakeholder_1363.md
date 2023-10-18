@@ -19,11 +19,11 @@
 * [education authority](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1637.md)
 * [education departments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1252.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Education disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_234.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Educational Authorities and Departments](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_13.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Education disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_234.md)
 

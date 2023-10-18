@@ -2,6 +2,10 @@
 
 # __healthcare managers__
 
+## This Stakeholder is identified by the following QID
+
+* [Q69943983](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q69943983.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
@@ -19,15 +23,11 @@
 * [healthcare worker](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1855.md)
 * [hospital administrators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_252.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Lack of AI implementation in LMIC](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1799.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Healthcare Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_45.md)
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q69943983](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q69943983.md)
+* [Lack of AI implementation in LMIC](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1799.md)
 

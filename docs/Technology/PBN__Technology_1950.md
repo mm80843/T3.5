@@ -2,6 +2,14 @@
 
 # __genetic manipulation of mosquitoes__
 
+## Risks linked to this technology
+
+* [Insecticide resistance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2353.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Infectious Agents Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_187.md)
+
 ## Closest similar item
 
 * [mosquito control operations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4049.md)
@@ -15,19 +23,11 @@
 * [investigate material science to develop mosquito-resistant alternative building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1195.md)
 * [Investigate material science to develop mosquito-resistant alternative building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2324.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Insecticide resistance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2353.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Infectious Agents Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_187.md)
+* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
 
 ## This Technology is identified by the following QID
 
 * [Q2003646](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2003646.md)
-
-## This Technology belongs to this TechGroup
-
-* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
 

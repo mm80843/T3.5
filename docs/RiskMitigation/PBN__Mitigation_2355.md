@@ -2,9 +2,10 @@
 
 # __Optimizing supply chains__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Supply chain disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1400.md)
+* [data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1069.md)
+* [iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Prioritizing shipments of essential goods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1489.md)
 * [Optimizing transport based on demand](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2344.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
+* [Supply chain disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1400.md)
 
 ## Property: has_MitigationPrinciple
 
 Using data analytics and IoT to optimize supply chains, prioritizing access for delivery vehicles to bring goods in short supply and maintain essential services.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1069.md)
-* [iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
+* [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
 

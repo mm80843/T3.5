@@ -2,10 +2,6 @@
 
 # __Enhanced surveillance and control of COVID-19__
 
-## Name of the Benefit
-
-GIS and GPS applications can support the mapping of COVID-19 hotspots, contact tracing, and monitoring of population movement, improving the efficiency of surveillance and control efforts.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investing in GIS and GPS applications can enable more targeted interventions, reducing the impact of the pandemic on health systems and the economy.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_484.md)
@@ -18,4 +14,8 @@ GIS and GPS applications can support the mapping of COVID-19 hotspots, contact t
 ## Articles mentionning this Benefit
 
 * [A critical review of emerging technologies for tackling COVID ‐19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_91.md)
+
+## Name of the Benefit
+
+GIS and GPS applications can support the mapping of COVID-19 hotspots, contact tracing, and monitoring of population movement, improving the efficiency of surveillance and control efforts.
 

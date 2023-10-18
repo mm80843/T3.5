@@ -2,6 +2,10 @@
 
 # __Automated cleaning tools__
 
+## This Technology belongs to this TechSubgroup
+
+* [Cleaning and Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_167.md)
+
 ## Closest similar item
 
 * [automated cleaning tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1321.md)
@@ -15,15 +19,11 @@
 * [Cleaning equipment and tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2824.md)
 * [cleaning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4110.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Cleaning and Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_167.md)
+* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_17.md)
 
 ## This Technology is identified by the following QID
 
 * [Q26270576](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q26270576.md)
-
-## This Technology belongs to this TechGroup
-
-* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_17.md)
 

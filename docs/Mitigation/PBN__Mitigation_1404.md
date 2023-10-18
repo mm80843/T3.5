@@ -2,9 +2,9 @@
 
 # __Cross-population train/test-based AI models for virus detection__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Limited data availability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2987.md)
+* [cross-population ai models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3846.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Virus concentration methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_63.md)
 * [Modeling studies of viral activity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2111.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Exploring the Potential of Artificial Intelligence and Machine Learning to Combat COVID-19 and Existing Opportunities for LMIC: A Scoping Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_131.md)
+* [Limited data availability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2987.md)
 
 ## Property: has_MitigationPrinciple
 
 AI models trained in one country can detect viruses in another country for automated detection
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [cross-population ai models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3846.md)
+* [Exploring the Potential of Artificial Intelligence and Machine Learning to Combat COVID-19 and Existing Opportunities for LMIC: A Scoping Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_131.md)
 

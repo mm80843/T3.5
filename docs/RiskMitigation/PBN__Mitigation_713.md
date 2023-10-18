@@ -2,9 +2,9 @@
 
 # __Retrofits__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Higher energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2696.md)
+* [building retrofits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3401.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Stay-at-home recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1337.md)
 * [Adaptable and flexible design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_780.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Reflecting on Impacts of COVID19 on Sustainable Buildings and Cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_110.md)
+* [Higher energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2696.md)
 
 ## Property: has_MitigationPrinciple
 
 Modifying existing buildings to meet filtration standards, including modifications to fans and HVAC systems
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [building retrofits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3401.md)
+* [Reflecting on Impacts of COVID19 on Sustainable Buildings and Cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_110.md)
 

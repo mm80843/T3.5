@@ -2,10 +2,6 @@
 
 # __Thorough study of anti-coronavirus drugs__
 
-## Name of the Benefit
-
-Ontological representation of missing drug information enables comprehensive study and analysis of anti-coronavirus drugs, aiding in the design of effective treatments.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can benefit indirectly from the improved understanding and analysis of anti-coronavirus drugs, potentially leading to better-targeted and more effective treatments, attracting investment and commercial interest.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_64.md)
@@ -18,4 +14,8 @@ Ontological representation of missing drug information enables comprehensive stu
 ## Articles mentionning this Benefit
 
 * [CIDO, a community-based ontology for coronavirus disease knowledge and data integration, sharing, and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_13.md)
+
+## Name of the Benefit
+
+Ontological representation of missing drug information enables comprehensive study and analysis of anti-coronavirus drugs, aiding in the design of effective treatments.
 

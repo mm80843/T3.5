@@ -2,21 +2,25 @@
 
 # __Similar stability to SARS-CoV-1__
 
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Description of the risk
+
+SARS-CoV-2 has similar stability to SARS-CoV-1, indicating that differences in epidemiology likely arise from other factors.
+
 ## Property: has_RiskType
 
 * [biological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_10.md)
 
-## People affected by this risk
+## Articles mentionning the risk
 
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-
-## Name of the risk
-
-Similar risk of virus transmission and environmental contamination as SARS-CoV-1.
-
-## Property: has_RiskISO_Purpose
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+* [Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_21.md)
 
 ## Closest similar item
 
@@ -31,37 +35,33 @@ Similar risk of virus transmission and environmental contamination as SARS-CoV-1
 * [Spread of SARS-CoV-2 through the air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2168.md)
 * [Uncontrolled SARS-CoV-2 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_330.md)
 
-## Description of the risk
+## People affected by this risk
 
-SARS-CoV-2 has similar stability to SARS-CoV-1, indicating that differences in epidemiology likely arise from other factors.
-
-## Technologies linked to the risk
-
-* [social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_906.md)
-* [isolation measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1855.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Mitigations of this risk
-
-* [Implement strategies to control transmission, such as social distancing and isolation measures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2962.md)
-
-## Articles mentionning the risk
-
-* [Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_21.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
 ## Stakeholders who can mitigate this risk
 
 * [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
 * [healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_192.md)
+
+## Name of the risk
+
+Similar risk of virus transmission and environmental contamination as SARS-CoV-1.
+
+## Mitigations of this risk
+
+* [Implement strategies to control transmission, such as social distancing and isolation measures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2962.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+
+## Technologies linked to the risk
+
+* [social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_906.md)
+* [isolation measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1855.md)
 

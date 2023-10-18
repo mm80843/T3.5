@@ -2,6 +2,9 @@
 
 # __Design and engineering solutions for upper-room UVGI systems__
 
+## This Technology belongs to this TechSubgroup
+
+
 ## Closest similar item
 
 * [Design and engineering solutions for upper-room UVGI systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2773.md)
@@ -15,14 +18,11 @@
 * [UV air purification systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2260.md)
 * [UV irradiation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2709.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
+* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
 
 ## This Technology is identified by the following QID
 
 * [Q961734](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q961734.md)
-
-## This Technology belongs to this TechGroup
-
-* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
 

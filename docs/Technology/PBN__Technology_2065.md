@@ -2,6 +2,9 @@
 
 # __Research collaborations__
 
+## This Technology belongs to this TechSubgroup
+
+
 ## Closest similar item
 
 * [Research collaborations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2065.md)
@@ -14,9 +17,6 @@
 * [collaboration among experts from various fields](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_921.md)
 * [collaboration mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3357.md)
 * [collaboration tools (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3119.md)
-
-## This Technology belongs to this TechSubgroup
-
 
 ## This Technology belongs to this TechGroup
 

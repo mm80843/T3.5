@@ -2,6 +2,10 @@
 
 # __Improved 3D printing technology__
 
+## This Technology belongs to this TechSubgroup
+
+* [3D Printing](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_184.md)
+
 ## Closest similar item
 
 * [Improved 3D printing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2717.md)
@@ -15,15 +19,11 @@
 * [ordinary printer paper](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3768.md)
 * [advanced manufacturing techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1557.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [3D Printing](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_184.md)
+* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
 
 ## This Technology is identified by the following QID
 
 * [Q229367](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q229367.md)
-
-## This Technology belongs to this TechGroup
-
-* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
 

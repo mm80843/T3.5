@@ -2,10 +2,6 @@
 
 # __Efficient resource utilization__
 
-## Name of the Benefit
-
-Use existing resources efficiently and provide targeted support for pandemic mitigation efforts
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Cost savings, improved effectiveness in pandemic response, and reduced strain on public resources, leading to economic resilience and investor confidence.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1346.md)
@@ -18,4 +14,8 @@ Use existing resources efficiently and provide targeted support for pandemic mit
 ## Articles mentionning this Benefit
 
 * [The three modes of existence of the pandemic smart city](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_250.md)
+
+## Name of the Benefit
+
+Use existing resources efficiently and provide targeted support for pandemic mitigation efforts
 

@@ -2,9 +2,10 @@
 
 # __Ergonomic design__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Musculoskeletal disorders](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_940.md)
+* [proper equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3033.md)
+* [adjustable furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3032.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Design venues with large, flexible spaces and prioritize medical equipment.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3444.md)
 * [Incorporating physical activity spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3399.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Occupant health in buildings: Impact of the COVID-19 pandemic on the opinions of building professionals and implications on research](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_273.md)
+* [Musculoskeletal disorders](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_940.md)
 
 ## Property: has_MitigationPrinciple
 
 Design workspaces with ergonomic furniture and equipment to prevent musculoskeletal pain and injuries.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [proper equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3033.md)
-* [adjustable furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3032.md)
+* [Occupant health in buildings: Impact of the COVID-19 pandemic on the opinions of building professionals and implications on research](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_273.md)
 

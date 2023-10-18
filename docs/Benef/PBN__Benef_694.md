@@ -2,10 +2,6 @@
 
 # __Equity in preventive measures__
 
-## Name of the Benefit
-
-Improved access to preventive measures reduces disparities in COVID-19 risk and testing
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved health outcomes, reduced transmission](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_742.md)
@@ -17,4 +13,8 @@ Improved access to preventive measures reduces disparities in COVID-19 risk and 
 ## Articles mentionning this Benefit
 
 * [COVID-19 and social inequalities: a complex and dynamic interaction](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_136.md)
+
+## Name of the Benefit
+
+Improved access to preventive measures reduces disparities in COVID-19 risk and testing
 

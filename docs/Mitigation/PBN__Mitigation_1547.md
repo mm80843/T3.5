@@ -2,9 +2,10 @@
 
 # __Social media filters__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Unreliable information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3133.md)
+* [algorithm](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3914.md)
+* [moderation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3915.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Increased knowledge translation on social media](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_961.md)
 * [Social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_478.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Infodemic and the spread of fake news in the COVID-19-era](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_299.md)
+* [Unreliable information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3133.md)
 
 ## Property: has_MitigationPrinciple
 
 Implement filters on social media platforms to increase the reliability and credibility of shared scientific data.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [algorithm](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3914.md)
-* [moderation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3915.md)
+* [Infodemic and the spread of fake news in the COVID-19-era](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_299.md)
 

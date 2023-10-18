@@ -2,6 +2,11 @@
 
 # __tenant__
 
+## This Stakeholder is identified by the following QID
+
+* [Q37044046](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q37044046.md)
+* [Q10530883](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q10530883.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
@@ -21,13 +26,12 @@
 * [housing developer and landlord](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1948.md)
 * [tenant in densely-populated area](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2576.md)
 
+## Category to which it belongs
+
+* [Property stakeholders ranging from investors, homeowners, and tenants to entrepreneurs and commercial space owners.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_7.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Tenants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_65.md)
 * [Specific Building Occupants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_68.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q37044046](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q37044046.md)
-* [Q10530883](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q10530883.md)
 

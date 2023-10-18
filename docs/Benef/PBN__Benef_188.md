@@ -2,10 +2,6 @@
 
 # __Availability of public parks__
 
-## Name of the Benefit
-
-Public parks provide health and recreational benefits, but are unlikely to be provided by private developers without intervention
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Availability of public parks can enhance quality of life, attract investments, and increase property values in communities](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_193.md)
@@ -17,4 +13,8 @@ Public parks provide health and recreational benefits, but are unlikely to be pr
 ## Articles mentionning this Benefit
 
 * [Urban form: Realising the value of green space: a planners’ perspective on the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_41.md)
+
+## Name of the Benefit
+
+Public parks provide health and recreational benefits, but are unlikely to be provided by private developers without intervention
 

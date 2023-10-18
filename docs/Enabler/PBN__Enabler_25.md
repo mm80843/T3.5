@@ -2,9 +2,13 @@
 
 # __HEPA Filters__
 
-## Thees blueprints use this enabler
+## Property: has_TechEquivalent
 
-* [Installing high-efficiency air filters](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_11.md)
+* [HEPA Filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4550.md)
+
+## Property: has_BP_EnablerTitle
+
+enabler_026
 
 ## Closest similar item
 
@@ -19,11 +23,7 @@
 * [HVAC systems with HEPA filters](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_266.md)
 * [high-efficiency particulate air (hepa) filters](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_267.md)
 
-## Property: has_TechEquivalent
+## Thees blueprints use this enabler
 
-* [HEPA Filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4550.md)
-
-## Property: has_BP_EnablerTitle
-
-enabler_026
+* [Installing high-efficiency air filters](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_11.md)
 

@@ -2,8 +2,9 @@
 
 # __Kalman filter algorithm__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [kalman filter](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3677.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3007.md)
 * [ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3008.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Building occupancy estimation with people flow modeling in AnyLogic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_29.md)
 
 ## Property: has_MitigationPrinciple
 
 Estimating people flows and occupancies using the Kalman filter algorithm.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [kalman filter](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3677.md)
+* [Building occupancy estimation with people flow modeling in AnyLogic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_29.md)
 

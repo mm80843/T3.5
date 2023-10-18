@@ -2,6 +2,10 @@
 
 # __citizens__
 
+## This Stakeholder is identified by the following QID
+
+* [Q1393123](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1393123.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
@@ -54,8 +58,4 @@
 * [Better crisis management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1200.md)
 * [Protection of civil rights](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1201.md)
 * [Efficient resource utilization](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1203.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q1393123](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1393123.md)
 

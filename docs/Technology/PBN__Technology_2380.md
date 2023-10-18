@@ -2,6 +2,10 @@
 
 # __Manufacturing companies__
 
+## This Technology belongs to this TechSubgroup
+
+* [Public Health Measures and Regulations](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_92.md)
+
 ## Closest similar item
 
 * [manufacturing companies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1084.md)
@@ -14,10 +18,6 @@
 * [Pharmaceutical companies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2783.md)
 * [additive manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2012.md)
 * [Additive manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2654.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Public Health Measures and Regulations](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_92.md)
 
 ## This Technology belongs to this TechGroup
 

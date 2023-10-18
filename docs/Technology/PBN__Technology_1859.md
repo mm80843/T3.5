@@ -2,6 +2,13 @@
 
 # __increased law enforcement presence__
 
+## Risks linked to this technology
+
+* [Lack of Deterrence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2278.md)
+
+## This Technology belongs to this TechSubgroup
+
+
 ## Closest similar item
 
 * [enforcement personnel](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_371.md)
@@ -15,18 +22,11 @@
 * [Surveillance programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2458.md)
 * [Improved surveillance infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2359.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Lack of Deterrence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2278.md)
-
-## This Technology belongs to this TechSubgroup
-
+* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
 
 ## This Technology is identified by the following QID
 
 * [Q44554](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q44554.md)
-
-## This Technology belongs to this TechGroup
-
-* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
 

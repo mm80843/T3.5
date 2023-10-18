@@ -2,10 +2,6 @@
 
 # __Lower positivity rates following combined measures__
 
-## Name of the Benefit
-
-Combined interventions, including PPE, testing, social distancing, and education, result in lower employee COVID-19 positivity
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Decreased workplace transmission, protection of employees’ health and well-being](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1368.md)
@@ -18,4 +14,8 @@ Combined interventions, including PPE, testing, social distancing, and education
 ## Articles mentionning this Benefit
 
 * [COVID-19 Prevention and Control Measures in Workplace Settings: A Rapid Review and Meta-Analysis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_255.md)
+
+## Name of the Benefit
+
+Combined interventions, including PPE, testing, social distancing, and education, result in lower employee COVID-19 positivity
 

@@ -2,10 +2,6 @@
 
 # __Increased physical activity__
 
-## Name of the Benefit
-
-Accessible green spaces promote physical activity, contributing to improved physical health and wellbeing.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved population health and well-being, increased productivity](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_375.md)
@@ -22,4 +18,8 @@ Accessible green spaces promote physical activity, contributing to improved phys
 
 * [Implications of COVID-19 control measures for diet and physical activity, and lessons for addressing other pandemics facing rapidly urbanising countries](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_68.md)
 * [Effects of the COVID-19 pandemic on the use and perceptions of urban green space: An international exploratory study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_90.md)
+
+## Name of the Benefit
+
+Accessible green spaces promote physical activity, contributing to improved physical health and wellbeing.
 

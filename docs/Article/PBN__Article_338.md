@@ -2,10 +2,6 @@
 
 # __Gardening is beneficial for health: A meta-analysis__
 
-## Year of publication
-
-2017
-
 ## Title of the article
 
 Gardening is beneficial for health: A meta-analysis
@@ -13,4 +9,8 @@ Gardening is beneficial for health: A meta-analysis
 ## DOI of the article
 
 10.1016/j.pmedr.2016.11.007
+
+## Year of publication
+
+2017
 

@@ -2,10 +2,6 @@
 
 # __Enhanced safety and comfort__
 
-## Name of the Benefit
-
-Designing spaces that support physical distancing and provide adequate living and privacy spaces improves safety and comfort during pandemics and other crises.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Increased resident safety and satisfaction, potentially leading to higher tenant retention and increased property value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1490.md)
@@ -17,4 +13,8 @@ Designing spaces that support physical distancing and provide adequate living an
 ## Articles mentionning this Benefit
 
 * [How our homes impact our health: using a COVID-19 informed approach to examine urban apartment housing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_279.md)
+
+## Name of the Benefit
+
+Designing spaces that support physical distancing and provide adequate living and privacy spaces improves safety and comfort during pandemics and other crises.
 

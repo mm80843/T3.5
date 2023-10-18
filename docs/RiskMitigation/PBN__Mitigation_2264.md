@@ -2,9 +2,9 @@
 
 # __Coordinated response and global cooperation__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of global leadership](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3402.md)
+* [international cooperation and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4381.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Trust and cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1796.md)
 * [International collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1090.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The COVID-19 pandemic: Lessons on building more equal and sustainable societies](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_124.md)
+* [Lack of global leadership](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3402.md)
 
 ## Property: has_MitigationPrinciple
 
 Promoting coordinated global response and cooperation, especially through international organizations like the UN and WHO, can address the lack of global leadership and ensure effective and equitable responses to pandemics, reducing the risk of uncoordinated and ineffective measures that worsen the crisis.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [international cooperation and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4381.md)
+* [The COVID-19 pandemic: Lessons on building more equal and sustainable societies](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_124.md)
 

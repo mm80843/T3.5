@@ -2,9 +2,9 @@
 
 # __Land-use Planning__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Habitat encroachment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3267.md)
+* [geographic information systems (gis)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_541.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Adequate Planning of Infrastructural Facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_945.md)
 * [Designing outdoor areas or balconies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_483.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Prototype Early Warning Systems for Vector-Borne Diseases in Europe](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_212.md)
+* [Habitat encroachment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3267.md)
 
 ## Property: has_MitigationPrinciple
 
 Properly planning land use can prevent habitat encroachment and destruction, reducing the displacement of wild animals and the spread of infectious pathogens.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [geographic information systems (gis)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_541.md)
+* [Prototype Early Warning Systems for Vector-Borne Diseases in Europe](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_212.md)
 

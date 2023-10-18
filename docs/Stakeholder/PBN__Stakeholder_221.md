@@ -2,6 +2,10 @@
 
 # __customers__
 
+## This Stakeholder is identified by the following QID
+
+* [Q2979031](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2979031.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
@@ -18,10 +22,6 @@
 * [retail businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_418.md)
 * [business](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2077.md)
 * [businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
-
-## Risks that can be mitigated by this stakeholder
-
-* [Supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_10.md)
 
 ## Risk affecting this stakeholder
 
@@ -56,7 +56,7 @@
 * [Attract attention](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_799.md)
 * [Enhanced safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_914.md)
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q2979031](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2979031.md)
+* [Supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_10.md)
 

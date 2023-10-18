@@ -2,9 +2,9 @@
 
 # __Robotics for social distancing__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Risk of spreading COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2982.md)
+* [robot systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3756.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Social distancing between occupants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1346.md)
 * [Population-wide social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_669.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Water and wastewater digital surveillance for monitoring and early detection of the COVID-19 hotspot: industry 4.0](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_162.md)
+* [Risk of spreading COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2982.md)
 
 ## Property: has_MitigationPrinciple
 
 Use robots for tasks that require close human contact, reducing the risk of transmission
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [robot systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3756.md)
+* [Water and wastewater digital surveillance for monitoring and early detection of the COVID-19 hotspot: industry 4.0](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_162.md)
 

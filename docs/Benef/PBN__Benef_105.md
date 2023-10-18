@@ -2,10 +2,6 @@
 
 # __Remote healthcare and work__
 
-## Name of the Benefit
-
-Remote access for telemedicine, online courses, and virtual conferences, reducing the need for physical presence and travel
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Increased accessibility and flexibility, reduced disease transmission, and cost savings](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_103.md)
@@ -19,4 +15,8 @@ Remote access for telemedicine, online courses, and virtual conferences, reducin
 ## Articles mentionning this Benefit
 
 * [Combating COVID-19—The role of robotics in managing public health and infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_23.md)
+
+## Name of the Benefit
+
+Remote access for telemedicine, online courses, and virtual conferences, reducing the need for physical presence and travel
 

@@ -2,10 +2,6 @@
 
 # __Broadening search for relevant evidence__
 
-## Name of the Benefit
-
-Expanding search beyond traditional sources addresses challenges of scarcity and scientific uncertainties, informing policy response
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Informed decision-making in absence of gold standard evidence, improved response to evolving knowledge, and enhanced decision-making under uncertainty](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_599.md)
@@ -18,4 +14,8 @@ Expanding search beyond traditional sources addresses challenges of scarcity and
 ## Articles mentionning this Benefit
 
 * [Amplifying the role of knowledge translation platforms in the COVID-19 pandemic response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_111.md)
+
+## Name of the Benefit
+
+Expanding search beyond traditional sources addresses challenges of scarcity and scientific uncertainties, informing policy response
 

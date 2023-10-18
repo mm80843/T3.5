@@ -2,10 +2,6 @@
 
 # __recovery__
 
-## Name of the Benefit
-
-and congestion
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [businesses and tourism industry](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1080.md)
@@ -17,4 +13,8 @@ and congestion
 ## Articles mentionning this Benefit
 
 * [COVID19-Routes: A Safe Pedestrian Navigation Service](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_201.md)
+
+## Name of the Benefit
+
+and congestion
 

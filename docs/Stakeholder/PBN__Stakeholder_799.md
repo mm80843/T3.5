@@ -2,6 +2,10 @@
 
 # __hospital administration__
 
+## This Stakeholder is identified by the following QID
+
+* [Q5657858](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5657858.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
@@ -19,6 +23,14 @@
 * [hospital patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1061.md)
 * [healthcare manager](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1848.md)
 
+## Risk affecting this stakeholder
+
+* [False sense of security from portable air filters](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2171.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Healthcare Administration](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_49.md)
+
 ## Risks that can be mitigated by this stakeholder
 
 * [Hospital-acquired COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_824.md)
@@ -33,16 +45,4 @@
 * [Overwhelmed respiratory isolation capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1285.md)
 * [Lack of anterooms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1641.md)
 * [Inadequate door-lock device](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1643.md)
-
-## Risk affecting this stakeholder
-
-* [False sense of security from portable air filters](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2171.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Healthcare Administration](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_49.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q5657858](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5657858.md)
 

@@ -2,10 +2,6 @@
 
 # __Improved logical__
 
-## Name of the Benefit
-
-Enhances consistency and validity of data analysis
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Increases reliability of research findings and data](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1389.md)
@@ -18,4 +14,8 @@ Enhances consistency and validity of data analysis
 ## Articles mentionning this Benefit
 
 * [The COVID-19 epidemiology and monitoring ontology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_259.md)
+
+## Name of the Benefit
+
+Enhances consistency and validity of data analysis
 

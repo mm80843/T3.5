@@ -2,10 +2,6 @@
 
 # __Reduction in indirect transmission__
 
-## Name of the Benefit
-
-Prevents transmission from contaminated surfaces
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Decreased risk of contamination and improved safety for hospital workers](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1213.md)
@@ -17,4 +13,8 @@ Prevents transmission from contaminated surfaces
 ## Articles mentionning this Benefit
 
 * [COVID-19 and its Modes of Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_225.md)
+
+## Name of the Benefit
+
+Prevents transmission from contaminated surfaces
 

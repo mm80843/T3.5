@@ -2,9 +2,8 @@
 
 # __Retail Store Signs__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Contagious Diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3000.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Designing streets for pedestrians](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2282.md)
 * [Self-sufficiency in shopping facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_159.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Retail Signage During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_159.md)
+* [Contagious Diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3000.md)
 
 ## Property: has_MitigationPrinciple
 
 Used to create awareness, educate about, and reinforce social distancing behavior; Convey information related to social distancing measures and guidelines
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Retail Signage During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_159.md)
 

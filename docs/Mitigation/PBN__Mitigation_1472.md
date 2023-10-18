@@ -2,8 +2,9 @@
 
 # __Isolation prevention__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [quarantine measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_27.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Partial Isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1918.md)
 * [Isolation Rooms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_467.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19 misinformation: Accuracy of articles about coronavirus prevention mostly shared on social media](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_283.md)
 
 ## Property: has_MitigationPrinciple
 
 nan
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [quarantine measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_27.md)
+* [COVID-19 misinformation: Accuracy of articles about coronavirus prevention mostly shared on social media](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_283.md)
 

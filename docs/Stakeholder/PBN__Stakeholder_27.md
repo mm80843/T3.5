@@ -2,6 +2,10 @@
 
 # __low-income communities__
 
+## This Stakeholder is identified by the following QID
+
+* [Q59679511](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q59679511.md)
+
 ## Closest similar item
 
 * [Low-income communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2215.md)
@@ -34,8 +38,4 @@
 
 * [Reduced vulnerability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_31.md)
 * [Equitable Indoor Environments](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_537.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q59679511](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q59679511.md)
 

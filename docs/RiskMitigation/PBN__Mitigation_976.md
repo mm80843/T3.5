@@ -2,8 +2,9 @@
 
 # __Design spaces with lower occupant density__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [space planning and layout](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3566.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Adjustable indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2236.md)
 * [Space and Density](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1295.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Architectural Design Drives the Biogeography of Indoor Bacterial Communities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_52.md)
 
 ## Property: has_MitigationPrinciple
 
 Designing spaces with lower occupant density to minimize the contact and spread of contagious diseases
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [space planning and layout](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3566.md)
+* [Architectural Design Drives the Biogeography of Indoor Bacterial Communities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_52.md)
 

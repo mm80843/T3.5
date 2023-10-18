@@ -2,8 +2,11 @@
 
 # __Digitalisation of water industry__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_358.md)
+* [big data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2938.md)
+* [data mining](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3027.md)
 
 ## Closest similar item
 
@@ -18,17 +21,14 @@
 * [Water Quality Management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_185.md)
 * [Improved water storage and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_92.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [When the fourth water and digital revolution encountered COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_207.md)
 
 ## Property: has_MitigationPrinciple
 
 Enables monitoring of public health measures and effectiveness in the aggregate in sewers
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_358.md)
-* [big data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2938.md)
-* [data mining](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3027.md)
+* [When the fourth water and digital revolution encountered COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_207.md)
 

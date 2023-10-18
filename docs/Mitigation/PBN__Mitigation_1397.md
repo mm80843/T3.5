@@ -2,9 +2,9 @@
 
 # __Deep learning-based drug discovery pipeline__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Identification of effective drug compounds](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3045.md)
+* [deep learning algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3839.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [AI-driven tools for running clinical trials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1396.md)
 * [Vaccine development and drug discovery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1255.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Exploring the Potential of Artificial Intelligence and Machine Learning to Combat COVID-19 and Existing Opportunities for LMIC: A Scoping Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_131.md)
+* [Identification of effective drug compounds](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3045.md)
 
 ## Property: has_MitigationPrinciple
 
 Deep learning algorithms help in finding new drug-like compounds against SARS-CoV-2
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [deep learning algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3839.md)
+* [Exploring the Potential of Artificial Intelligence and Machine Learning to Combat COVID-19 and Existing Opportunities for LMIC: A Scoping Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_131.md)
 

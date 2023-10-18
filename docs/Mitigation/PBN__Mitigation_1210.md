@@ -2,9 +2,11 @@
 
 # __Rapid conversion__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Limited time for project delivery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2959.md)
+* [electrical](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3728.md)
+* [and plumbing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3729.md)
+* [flexible mechanical](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3727.md)
 
 ## Closest similar item
 
@@ -19,17 +21,15 @@
 * [Digital change](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_32.md)
 * [Targeted operations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2084.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Emergency Healthcare Facilities: Managing Design in a Post Covid-19 World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_122.md)
+* [Limited time for project delivery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2959.md)
 
 ## Property: has_MitigationPrinciple
 
 Rapidly convert public venues into hospitals with adaptable infrastructure to meet the needs of emergency healthcare
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [electrical](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3728.md)
-* [and plumbing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3729.md)
-* [flexible mechanical](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3727.md)
+* [Emergency Healthcare Facilities: Managing Design in a Post Covid-19 World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_122.md)
 

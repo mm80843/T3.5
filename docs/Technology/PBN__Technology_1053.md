@@ -2,6 +2,11 @@
 
 # __masks__
 
+## Risks linked to this technology
+
+* [Droplet transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_253.md)
+* [Inadequate personal protective equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1283.md)
+
 ## Closest similar item
 
 * [Masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2561.md)
@@ -15,10 +20,9 @@
 * [masks or face coverings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3065.md)
 * [widespread use of masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_584.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Droplet transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_253.md)
-* [Inadequate personal protective equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1283.md)
+* [Q3496615](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3496615.md)
 
 ## This Technology enables the following mitigations
 
@@ -32,8 +36,4 @@
 * [PPE usage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2036.md)
 * [Use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_193.md)
 * [Wearing Masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_922.md)
-
-## This Technology is identified by the following QID
-
-* [Q3496615](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3496615.md)
 

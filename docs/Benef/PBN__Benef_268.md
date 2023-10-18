@@ -2,10 +2,6 @@
 
 # __Improved virus survival__
 
-## Name of the Benefit
-
-Temperature and RH affect virus stability, leading to improved survival in the environment.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investing in maintaining optimal temperature and humidity can help reduce transmission and protect public health, potentially leading to economic benefits from reduced healthcare costs and increased productivity.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_280.md)
@@ -17,4 +13,8 @@ Temperature and RH affect virus stability, leading to improved survival in the e
 ## Articles mentionning this Benefit
 
 * [Mechanistic insights into the effect of humidity on airborne influenza virus survival, transmission and incidence](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_54.md)
+
+## Name of the Benefit
+
+Temperature and RH affect virus stability, leading to improved survival in the environment.
 

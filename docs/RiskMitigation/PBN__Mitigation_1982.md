@@ -2,9 +2,8 @@
 
 # __Enhancement of energy assistance programs__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Energy poverty](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3313.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Deployment of energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_340.md)
 * [Rental assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_270.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Contextualizing the Covid-19 pandemic for a carbon-constrained world: Insights for sustainability transitions, energy justice, and research methodology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_123.md)
+* [Energy poverty](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3313.md)
 
 ## Property: has_MitigationPrinciple
 
 Strengthen existing programs that provide financial assistance to households struggling with energy costs
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Contextualizing the Covid-19 pandemic for a carbon-constrained world: Insights for sustainability transitions, energy justice, and research methodology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_123.md)
 

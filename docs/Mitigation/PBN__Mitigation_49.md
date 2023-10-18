@@ -2,9 +2,9 @@
 
 # __Safe shelters__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of safe spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2421.md)
+* [shelter facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2926.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Evacuations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1975.md)
 * [Home quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_238.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19 and the rise of intimate partner violence](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_8.md)
+* [Lack of safe spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2421.md)
 
 ## Property: has_MitigationPrinciple
 
 Providing safe shelters can offer temporary refuge for victims of intimate partner violence, allowing them to escape dangerous situations.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [shelter facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2926.md)
+* [COVID-19 and the rise of intimate partner violence](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_8.md)
 

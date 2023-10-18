@@ -2,6 +2,10 @@
 
 # __national authorities__
 
+## This Stakeholder is identified by the following QID
+
+* [Q36524](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q36524.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
@@ -21,8 +25,4 @@
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 
-
-## This Stakeholder is identified by the following QID
-
-* [Q36524](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q36524.md)
 

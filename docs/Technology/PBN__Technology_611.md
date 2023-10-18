@@ -2,6 +2,15 @@
 
 # __diagnostic tools__
 
+## Risks linked to this technology
+
+* [Faecal-oral transmission of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1660.md)
+* [Under-ascertainment of infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1391.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Diagnostic and Testing Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_12.md)
+
 ## Closest similar item
 
 * [Diagnostic tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2779.md)
@@ -15,25 +24,16 @@
 * [testing and diagnostic technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1.md)
 * [enhanced diagnostic techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2029.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Faecal-oral transmission of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1660.md)
-* [Under-ascertainment of infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1391.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Diagnostic and Testing Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_12.md)
-
-## This Technology enables the following mitigations
-
-* [IoT-based solutions for early diagnosis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1182.md)
+* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
+* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
 
 ## This Technology is identified by the following QID
 
 * [Q67170247](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q67170247.md)
 
-## This Technology belongs to this TechGroup
+## This Technology enables the following mitigations
 
-* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
-* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
+* [IoT-based solutions for early diagnosis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1182.md)
 

@@ -2,6 +2,10 @@
 
 # __health education__
 
+## Risks linked to this technology
+
+* [Dependency on technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1233.md)
+
 ## Closest similar item
 
 * [health education programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_986.md)
@@ -15,15 +19,11 @@
 * [public health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_313.md)
 * [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3153.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Dependency on technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1233.md)
+* [Q60894](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q60894.md)
 
 ## This Technology enables the following mitigations
 
 * [Enhanced health literacy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1801.md)
-
-## This Technology is identified by the following QID
-
-* [Q60894](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q60894.md)
 

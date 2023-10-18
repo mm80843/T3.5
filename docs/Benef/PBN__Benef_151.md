@@ -2,10 +2,6 @@
 
 # __Private investment__
 
-## Name of the Benefit
-
-Attracting private investment through sustainable financing strategies
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Increased funding and financial stability for PCAs, economic growth and job creation](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_152.md)
@@ -20,4 +16,8 @@ Attracting private investment through sustainable financing strategies
 ## Articles mentionning this Benefit
 
 * [Building sustainable finance for resilient protected and conserved areas: lessons from COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_33.md)
+
+## Name of the Benefit
+
+Attracting private investment through sustainable financing strategies
 

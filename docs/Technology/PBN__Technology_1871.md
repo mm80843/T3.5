@@ -2,6 +2,14 @@
 
 # __hygiene measures__
 
+## Risks linked to this technology
+
+* [and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2288.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Cleaning Supplies and Hygiene Practices](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_61.md)
+
 ## Closest similar item
 
 * [personal hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2211.md)
@@ -15,19 +23,11 @@
 * [improved sanitation and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_527.md)
 * [Improved sanitation and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2593.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2288.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Cleaning Supplies and Hygiene Practices](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_61.md)
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 
 ## This Technology is identified by the following QID
 
 * [Q162297](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q162297.md)
-
-## This Technology belongs to this TechGroup
-
-* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 

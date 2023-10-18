@@ -2,6 +2,14 @@
 
 # __european__
 
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Improved wellbeing economy](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_904.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q283790](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q283790.md)
+
 ## Closest similar item
 
 * [eu](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_318.md)
@@ -14,12 +22,4 @@
 * [immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_489.md)
 * [urban](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1527.md)
 * [third countries](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_319.md)
-
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Improved wellbeing economy](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_904.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q283790](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q283790.md)
 

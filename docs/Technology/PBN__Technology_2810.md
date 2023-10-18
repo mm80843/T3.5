@@ -2,6 +2,9 @@
 
 # __condom distribution__
 
+## This Technology belongs to this TechSubgroup
+
+
 ## Closest similar item
 
 * [hiv testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3332.md)
@@ -15,14 +18,11 @@
 * [viral testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3878.md)
 * [sterilization procedures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4108.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
+* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
 
 ## This Technology is identified by the following QID
 
 * [Q14076](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q14076.md)
-
-## This Technology belongs to this TechGroup
-
-* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
 

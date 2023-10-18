@@ -2,10 +2,6 @@
 
 # __Efficient transportation and monitoring__
 
-## Name of the Benefit
-
-Drones can transport medical equipment and samples, monitor quarantine areas, and disinfect public spaces, reducing the risk of contamination and improving efficiency.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investing in drone technology can improve the effectiveness and speed of response to the spread of COVID-19, potentially saving lives and reducing costs associated with manual interventions.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1428.md)
@@ -18,4 +14,8 @@ Drones can transport medical equipment and samples, monitor quarantine areas, an
 ## Articles mentionning this Benefit
 
 * [Role of Information Technology in Covid-19 Prevention](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_267.md)
+
+## Name of the Benefit
+
+Drones can transport medical equipment and samples, monitor quarantine areas, and disinfect public spaces, reducing the risk of contamination and improving efficiency.
 

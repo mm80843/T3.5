@@ -2,10 +2,6 @@
 
 # __Improved water quality__
 
-## Name of the Benefit
-
-Safety measures for drinking water ensure high-quality water, reducing the risk of waterborne illnesses.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investing in water safety measures can attract health-conscious residents, potentially increasing the property’s desirability and value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_929.md)
@@ -17,4 +13,8 @@ Safety measures for drinking water ensure high-quality water, reducing the risk 
 ## Articles mentionning this Benefit
 
 * [How to Make Green Building Certification \& Rating Systems More Pandemic-Sustainable?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_172.md)
+
+## Name of the Benefit
+
+Safety measures for drinking water ensure high-quality water, reducing the risk of waterborne illnesses.
 

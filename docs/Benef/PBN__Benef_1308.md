@@ -2,10 +2,6 @@
 
 # __Improved public-health education__
 
-## Name of the Benefit
-
-Accurate information dissemination and clarifying uncertainties
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Greater awareness and adherence to preventative measures](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1478.md)
@@ -17,4 +13,8 @@ Accurate information dissemination and clarifying uncertainties
 ## Articles mentionning this Benefit
 
 * [Digital technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_278.md)
+
+## Name of the Benefit
+
+Accurate information dissemination and clarifying uncertainties
 

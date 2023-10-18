@@ -2,9 +2,10 @@
 
 # __Promoting online shopping and delivery services__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Spread of infection in crowded spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3410.md)
+* [e-commerce platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_696.md)
+* [delivery services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4388.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Proximity shopping](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1049.md)
 * [Adaptation of supermarkets](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2004.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [El Rol De Las Redes Sociales En La Pandemia Del Covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_138.md)
+* [Spread of infection in crowded spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3410.md)
 
 ## Property: has_MitigationPrinciple
 
 Encouraging people to use online shopping and delivery services as an alternative to physical stores, reducing the need for people to gather in crowded spaces.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [e-commerce platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_696.md)
-* [delivery services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4388.md)
+* [El Rol De Las Redes Sociales En La Pandemia Del Covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_138.md)
 

@@ -2,10 +2,6 @@
 
 # __Increased efficiency of medical staff__
 
-## Name of the Benefit
-
-IoT implementation can reduce the workload of medical staff by automating certain tasks and providing real-time patient data.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Increased efficiency reduces stress on medical staff and potentially improves patient care quality.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1578.md)
@@ -17,4 +13,8 @@ IoT implementation can reduce the workload of medical staff by automating certai
 ## Articles mentionning this Benefit
 
 * [Internet of things (IoT) applications to fight against COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_295.md)
+
+## Name of the Benefit
+
+IoT implementation can reduce the workload of medical staff by automating certain tasks and providing real-time patient data.
 

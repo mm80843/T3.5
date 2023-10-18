@@ -2,9 +2,8 @@
 
 # __Material selection__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Traditional materials attract mosquitoes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3091.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Designing variety in visual and thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1595.md)
 * [Designing with nature](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2484.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Decision Making within the Built Environment as a Strategy for Mitigating the Risk of Malaria and Other Vector-Borne Diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_272.md)
+* [Traditional materials attract mosquitoes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3091.md)
 
 ## Property: has_MitigationPrinciple
 
 Research ways to modify traditional materials to reduce mosquito attraction
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Decision Making within the Built Environment as a Strategy for Mitigating the Risk of Malaria and Other Vector-Borne Diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_272.md)
 

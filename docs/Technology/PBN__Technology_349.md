@@ -2,6 +2,14 @@
 
 # __battery optimization techniques__
 
+## Risks linked to this technology
+
+* [Technical limitations of wearables](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1246.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Energy and Resource Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_118.md)
+
 ## Closest similar item
 
 * [optimization algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_988.md)
@@ -15,19 +23,11 @@
 * [data optimization techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_176.md)
 * [Data optimization techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2099.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Technical limitations of wearables](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1246.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Energy and Resource Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_118.md)
+* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
 
 ## This Technology is identified by the following QID
 
 * [Q5368536](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5368536.md)
-
-## This Technology belongs to this TechGroup
-
-* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
 

@@ -2,9 +2,9 @@
 
 # __5G technology__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Data security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1536.md)
+* [5g](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4121.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Development of IoMT applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3530.md)
 * [Use of digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3471.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The role of contemporary digital tools and technologies in COVID19 crisis: An exploratory analysis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_226.md)
+* [Data security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1536.md)
 
 ## Property: has_MitigationPrinciple
 
 5G enables faster communication, remote monitoring, and real-time data processing for improved healthcare services.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [5g](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4121.md)
+* [The role of contemporary digital tools and technologies in COVID19 crisis: An exploratory analysis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_226.md)
 

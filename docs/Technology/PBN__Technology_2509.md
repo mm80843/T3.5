@@ -2,6 +2,9 @@
 
 # __Crisis management protocols__
 
+## This Technology belongs to this TechSubgroup
+
+
 ## Closest similar item
 
 * [Crisis management protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2509.md)
@@ -15,14 +18,11 @@
 * [emergency response systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_32.md)
 * [safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_812.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
+* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
 
 ## This Technology is identified by the following QID
 
 * [Q1141276](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1141276.md)
-
-## This Technology belongs to this TechGroup
-
-* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
 

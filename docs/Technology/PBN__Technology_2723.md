@@ -2,6 +2,10 @@
 
 # __Urban technology__
 
+## This Technology belongs to this TechSubgroup
+
+* [Smart City and Home Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_106.md)
+
 ## Closest similar item
 
 * [urban design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3430.md)
@@ -15,15 +19,11 @@
 * [smart city technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_471.md)
 * [Smart city technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2477.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Smart City and Home Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_106.md)
+* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
 
 ## This Technology is identified by the following QID
 
 * [Q1380395](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1380395.md)
-
-## This Technology belongs to this TechGroup
-
-* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
 

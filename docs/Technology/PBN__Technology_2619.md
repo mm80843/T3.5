@@ -2,6 +2,11 @@
 
 # __Translation software__
 
+## This Technology belongs to this TechSubgroup
+
+* [Development of Language Resources](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_174.md)
+* [Remote Work Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_173.md)
+
 ## Closest similar item
 
 * [translation software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1322.md)
@@ -15,16 +20,11 @@
 * [software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4165.md)
 * [software tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2930.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Development of Language Resources](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_174.md)
-* [Remote Work Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_173.md)
+* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
 
 ## This Technology is identified by the following QID
 
 * [Q120334010](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q120334010.md)
-
-## This Technology belongs to this TechGroup
-
-* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
 

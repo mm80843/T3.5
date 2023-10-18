@@ -2,23 +2,25 @@
 
 # __Ineffective cost planning__
 
+## Property: has_RiskHealth
+
+* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_3.md)
+
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Description of the risk
+
+Ineffective planning of project costs leading to cost overrun and budget issues.
+
 ## Property: has_RiskType
 
 * [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_11.md)
 
-## People affected by this risk
+## Articles mentionning the risk
 
-* [stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_230.md)
-* [financial team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_932.md)
-* [project managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_906.md)
-
-## Name of the risk
-
-Cost overrun, financial strain, project delays.
-
-## Property: has_RiskISO_Purpose
-
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+* [Overcoming the Impact of COVID-19 Using Integrated Project Delivery Model](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_72.md)
 
 ## Closest similar item
 
@@ -33,39 +35,37 @@ Cost overrun, financial strain, project delays.
 * [Lack of strategic planning and alignment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1198.md)
 * [Lack of business continuity planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2226.md)
 
-## Description of the risk
+## People affected by this risk
 
-Ineffective planning of project costs leading to cost overrun and budget issues.
+* [stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_230.md)
+* [financial team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_932.md)
+* [project managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_906.md)
 
-## Technologies linked to the risk
+## Property: has_RiskISO_Impact
 
-* [cost management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_690.md)
-* [budgeting tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_691.md)
-* [project management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_130.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Property: has_RiskHealth
+## Stakeholders who can mitigate this risk
 
-* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_3.md)
+* [finance team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_933.md)
+* [project managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_906.md)
+
+## Name of the risk
+
+Cost overrun, financial strain, project delays.
 
 ## Mitigations of this risk
 
 * [Value integrated project delivery model](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_367.md)
 * [Implement effective cost planning methods, conduct regular cost monitoring and analysis.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1943.md)
 
-## Articles mentionning the risk
+## Property: has_RiskISO_Purpose
 
-* [Overcoming the Impact of COVID-19 Using Integrated Project Delivery Model](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_72.md)
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
 
-## Property: has_RiskISO_Impact
+## Technologies linked to the risk
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Stakeholders who can mitigate this risk
-
-* [finance team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_933.md)
-* [project managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_906.md)
+* [cost management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_690.md)
+* [budgeting tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_691.md)
+* [project management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_130.md)
 

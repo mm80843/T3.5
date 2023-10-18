@@ -2,8 +2,11 @@
 
 # __Wastewater-Based Epidemiology__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [pcr techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4138.md)
+* [advanced mass spectrometry](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4137.md)
+* [biomarker extraction techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4136.md)
 
 ## Closest similar item
 
@@ -18,17 +21,14 @@
 * [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1138.md)
 * [Wastewater-based surveillance (WBS)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2736.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Future perspectives of wastewater-based epidemiology: Monitoring infectious disease spread and resistance to the community level](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_48.md)
 
 ## Property: has_MitigationPrinciple
 
 Comprehensive and objective data, real-time results, monitoring multiple diseases, cost-effective, low resource settings, environmental monitoring
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [pcr techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4138.md)
-* [advanced mass spectrometry](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4137.md)
-* [biomarker extraction techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4136.md)
+* [Future perspectives of wastewater-based epidemiology: Monitoring infectious disease spread and resistance to the community level](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_48.md)
 

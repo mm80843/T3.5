@@ -2,9 +2,8 @@
 
 # __Financial support__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Financial burden](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2496.md)
 
 ## Closest similar item
 
@@ -19,15 +18,16 @@
 * [Establish government support programs, provide financial assistance and relief measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2724.md)
 * [Government financial programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2725.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [COVID-19 Lockdown: Housing Built Environment’s Effects on Mental Health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_254.md)
-* [Mechanisms for addressing the impact of COVID-19 on infrastructure projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_115.md)
+* [Financial burden](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2496.md)
 
 ## Property: has_MitigationPrinciple
 
 Providing financial support to individuals during quarantine can alleviate financial stress and reduce the risk of depression and anxiety.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [COVID-19 Lockdown: Housing Built Environment’s Effects on Mental Health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_254.md)
+* [Mechanisms for addressing the impact of COVID-19 on infrastructure projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_115.md)
 

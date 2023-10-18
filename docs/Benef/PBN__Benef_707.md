@@ -2,10 +2,6 @@
 
 # __No pandemic__
 
-## Name of the Benefit
-
-Normal economic conditions, no infection
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Reference scenario for comparison](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_755.md)
@@ -19,4 +15,8 @@ Normal economic conditions, no infection
 ## Articles mentionning this Benefit
 
 * [COVID-ABS: An agent-based model of COVID-19 epidemic to simulate health and economic effects of social distancing interventions](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_139.md)
+
+## Name of the Benefit
+
+Normal economic conditions, no infection
 

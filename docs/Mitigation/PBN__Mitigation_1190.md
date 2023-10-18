@@ -2,8 +2,9 @@
 
 # __Incentives for green roof installation__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [monetary incentives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3722.md)
 
 ## Closest similar item
 
@@ -18,15 +19,14 @@
 * [Integration of green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_631.md)
 * [Incorporation of green areas in available spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1203.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [The role of green roofs in post COVID-19 confinement: An analysis of willingness to pay](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_262.md)
 
 ## Property: has_MitigationPrinciple
 
 Encourage private investment in green roofs
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [monetary incentives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3722.md)
+* [The role of green roofs in post COVID-19 confinement: An analysis of willingness to pay](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_262.md)
 

@@ -2,9 +2,8 @@
 
 # __Reducing Barriers__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Exclusion from support programs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2876.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_752.md)
 * [Closing of borders](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1527.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Startups in times of crisis – A rapid response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_158.md)
+* [Exclusion from support programs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2876.md)
 
 ## Property: has_MitigationPrinciple
 
 Decreases bureaucratic hurdles and obstacles that startups face in accessing and applying for support programs, ensuring fair and equitable access to available resources and benefits during the crisis.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Startups in times of crisis – A rapid response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_158.md)
 

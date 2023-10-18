@@ -2,9 +2,9 @@
 
 # __Partitioning to make anterooms__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Migration of infectious particles from the isolation room into the corridor](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2928.md)
+* [partitioning materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3659.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Mass gathering containment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_837.md)
 * [Pattern incorporation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2480.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Rapid expansion of temporary, reliable airborne-infection isolation rooms with negative air machines for critical COVID-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_77.md)
+* [Migration of infectious particles from the isolation room into the corridor](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2928.md)
 
 ## Property: has_MitigationPrinciple
 
 Partitioning the rooms or corridors to create anterooms that act as buffer zones between the patient's room and corridor, providing space for health care workers to put on or take off personal protective equipment (PPE) and disinfect medical devices.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [partitioning materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3659.md)
+* [Rapid expansion of temporary, reliable airborne-infection isolation rooms with negative air machines for critical COVID-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_77.md)
 

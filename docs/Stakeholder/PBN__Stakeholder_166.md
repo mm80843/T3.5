@@ -19,6 +19,30 @@
 * [facility owner](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2078.md)
 * [building owner and facility manager](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2030.md)
 
+## Risk affecting this stakeholder
+
+* [Energy Consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1768.md)
+* [Inadequate facility design and layout](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1701.md)
+* [Inadequate cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1298.md)
+* [Energy waste](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_826.md)
+* [Increased energy consumption in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2296.md)
+* [HVAC characteristics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1484.md)
+* [Poor drainage and management of water systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1835.md)
+* [Inadequate infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1419.md)
+* [High energy use during unoccupied periods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1408.md)
+* [Insufficient evidence of UV-C effectiveness against SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1172.md)
+* [Vital loads and lighting for safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1411.md)
+* [Contamination of HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1806.md)
+* [Meteorological conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1482.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Energy efficiency improvement](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1024.md)
+* [Increased adoption of germicidal UV](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_343.md)
+
 ## Risks that can be mitigated by this stakeholder
 
 * [Mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_611.md)
@@ -162,28 +186,4 @@
 * [Transmission in closed spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1943.md)
 * [Lack of microscale representation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2004.md)
 * [Insufficient distance between people](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2250.md)
-
-## Risk affecting this stakeholder
-
-* [Energy Consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1768.md)
-* [Inadequate facility design and layout](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1701.md)
-* [Inadequate cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1298.md)
-* [Energy waste](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_826.md)
-* [Increased energy consumption in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2296.md)
-* [HVAC characteristics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1484.md)
-* [Poor drainage and management of water systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1835.md)
-* [Inadequate infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1419.md)
-* [High energy use during unoccupied periods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1408.md)
-* [Insufficient evidence of UV-C effectiveness against SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1172.md)
-* [Vital loads and lighting for safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1411.md)
-* [Contamination of HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1806.md)
-* [Meteorological conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1482.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Energy efficiency improvement](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1024.md)
-* [Increased adoption of germicidal UV](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_343.md)
 

@@ -2,10 +2,6 @@
 
 # __Enhanced quality of life__
 
-## Name of the Benefit
-
-Creates opportunities for outdoor activities and socializing, improving mental and physical well-being
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors investing in the development of open-air spaces can benefit from increased property values in areas with access to such amenities.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_833.md)
@@ -17,4 +13,8 @@ Creates opportunities for outdoor activities and socializing, improving mental a
 ## Articles mentionning this Benefit
 
 * [Epidemics, Planning and the City: A Special Issue of Planning Perspectives](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_152.md)
+
+## Name of the Benefit
+
+Creates opportunities for outdoor activities and socializing, improving mental and physical well-being
 

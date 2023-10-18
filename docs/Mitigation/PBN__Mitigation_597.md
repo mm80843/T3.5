@@ -2,9 +2,8 @@
 
 # __New guidelines for funerals__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Crowding during funerals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2646.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Common standards for health data](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2071.md)
 * [Proper ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_819.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Covid-19 and community mitigation strategies in a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_112.md)
+* [Crowding during funerals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2646.md)
 
 ## Property: has_MitigationPrinciple
 
 Implementation of new guidelines for funerals to reduce transmission risk and improve adherence among the population
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Covid-19 and community mitigation strategies in a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_112.md)
 

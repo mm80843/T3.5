@@ -2,6 +2,10 @@
 
 # __Advanced building materials__
 
+## This Technology belongs to this TechSubgroup
+
+* [Green and Biodegradable Materials](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_165.md)
+
 ## Closest similar item
 
 * [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2658.md)
@@ -15,15 +19,11 @@
 * [building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4056.md)
 * [building insulation materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4062.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Green and Biodegradable Materials](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_165.md)
+* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_12.md)
 
 ## This Technology is identified by the following QID
 
 * [Q206615](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q206615.md)
-
-## This Technology belongs to this TechGroup
-
-* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_12.md)
 

@@ -2,6 +2,10 @@
 
 # __surgical trainees__
 
+## This Stakeholder is identified by the following QID
+
+* [Q448553](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q448553.md)
+
 ## Closest similar item
 
 * [trainees in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_206.md)
@@ -35,8 +39,4 @@
 * [Continued involvement of residents with clinic](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_51.md)
 * [Maintenance of technical skills through deliberate practice](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_52.md)
 * [Enhanced learning and discussion opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_53.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q448553](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q448553.md)
 

@@ -2,6 +2,10 @@
 
 # __Crowd-monitoring technologies__
 
+## This Technology belongs to this TechSubgroup
+
+* [Monitoring Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_31.md)
+
 ## Closest similar item
 
 * [Crowd-monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2872.md)
@@ -15,15 +19,11 @@
 * [use of digital tools for crowd monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1027.md)
 * [Use of digital tools for crowd monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2461.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Monitoring Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_31.md)
+* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_17.md)
 
 ## This Technology is identified by the following QID
 
 * [Q5189194](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5189194.md)
-
-## This Technology belongs to this TechGroup
-
-* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_17.md)
 

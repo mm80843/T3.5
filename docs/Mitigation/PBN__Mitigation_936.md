@@ -2,9 +2,10 @@
 
 # __Temperature Control__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Persistence of Virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2818.md)
+* [hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_185.md)
+* [thermostats](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3742.md)
 
 ## Closest similar item
 
@@ -19,17 +20,16 @@
 * [Temperature testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1242.md)
 * [Programmable thermostats](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2153.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Mechanistic insights into the effect of humidity on airborne influenza virus survival, transmission and incidence](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_54.md)
-* [Persistence of coronaviruses on inanimate surfaces and their inactivation with biocidal agents](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_233.md)
+* [Persistence of Virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2818.md)
 
 ## Property: has_MitigationPrinciple
 
 Controlling room temperature to reduce the persistence of the virus on surfaces
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_185.md)
-* [thermostats](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3742.md)
+* [Mechanistic insights into the effect of humidity on airborne influenza virus survival, transmission and incidence](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_54.md)
+* [Persistence of coronaviruses on inanimate surfaces and their inactivation with biocidal agents](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_233.md)
 

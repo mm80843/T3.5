@@ -2,19 +2,6 @@
 
 # __face masks__
 
-## Closest similar item
-
-* [Face masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2223.md)
-* [masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1053.md)
-* [Masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2561.md)
-* [masks or face coverings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3065.md)
-* [cloth masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4504.md)
-* [face mask usage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1991.md)
-* [surgical masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3503.md)
-* [masks (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4503.md)
-* [surgical masks)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4505.md)
-* [mask-wearing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_591.md)
-
 ## Risks linked to this technology
 
 * [Spread of SARS-CoV-2 through droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1242.md)
@@ -28,6 +15,24 @@
 
 * [Personal Protective Equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_58.md)
 * [Physical Health Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_59.md)
+
+## Closest similar item
+
+* [Face masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2223.md)
+* [masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1053.md)
+* [Masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2561.md)
+* [masks or face coverings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3065.md)
+* [cloth masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4504.md)
+* [face mask usage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1991.md)
+* [surgical masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3503.md)
+* [masks (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4503.md)
+* [surgical masks)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4505.md)
+* [mask-wearing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_591.md)
+
+## This Technology belongs to this TechGroup
+
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
+* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
 
 ## This Technology enables the following mitigations
 
@@ -47,9 +52,4 @@
 * [Personal protective equipment (PPE) use](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_955.md)
 * [Wearing face masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1263.md)
 * [Mask prevention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1471.md)
-
-## This Technology belongs to this TechGroup
-
-* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
-* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
 

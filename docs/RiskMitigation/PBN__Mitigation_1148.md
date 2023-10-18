@@ -2,9 +2,12 @@
 
 # __Mosquito Control__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Mosquito-borne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2946.md)
+* [aerators](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3696.md)
+* [fountains](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3695.md)
+* [waterfalls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3694.md)
+* [pond pumps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3693.md)
 
 ## Closest similar item
 
@@ -19,18 +22,15 @@
 * [Insecticide-treated bed nets (ITNs)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2388.md)
 * [Temperature Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_936.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Making green infrastructure healthier infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_20.md)
+* [Mosquito-borne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2946.md)
 
 ## Property: has_MitigationPrinciple
 
 Increasing water movement and introducing aquatic predators can help control mosquito populations in urban water bodies
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [aerators](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3696.md)
-* [fountains](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3695.md)
-* [waterfalls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3694.md)
-* [pond pumps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3693.md)
+* [Making green infrastructure healthier infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_20.md)
 

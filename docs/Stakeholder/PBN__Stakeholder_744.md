@@ -2,6 +2,10 @@
 
 # __wearable device manufacturers__
 
+## This Stakeholder is identified by the following QID
+
+* [Q4845080](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4845080.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
@@ -19,17 +23,13 @@
 * [medical equipment manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_548.md)
 * [wearable device users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_641.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [AI and Technology](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_54.md)
+
 ## Risks that can be mitigated by this stakeholder
 
 * [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_47.md)
 * [Inaccuracy of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1231.md)
 * [Ethical considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_163.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [AI and Technology](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_54.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q4845080](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4845080.md)
 

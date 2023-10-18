@@ -2,9 +2,9 @@
 
 # __Transposition of municipal services__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Service interruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2665.md)
+* [virtual communication and workflow tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3366.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Control measures in cities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2106.md)
 * [Non-centralized building systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1163.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Smart cities and the pandemic: digital technologies on the urban management of Brazilian cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_143.md)
+* [Service interruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2665.md)
 
 ## Property: has_MitigationPrinciple
 
 Migration of municipal services and protocols to virtual platforms for continued operation
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [virtual communication and workflow tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3366.md)
+* [Smart cities and the pandemic: digital technologies on the urban management of Brazilian cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_143.md)
 

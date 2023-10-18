@@ -2,10 +2,6 @@
 
 # __Energy efficiency improvement__
 
-## Name of the Benefit
-
-Green roofs improve buildings' energy efficiency by providing insulation, reducing the need for heating and cooling.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Reduced energy costs and improved sustainability.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1145.md)
@@ -23,4 +19,8 @@ Green roofs improve buildings' energy efficiency by providing insulation, reduci
 * [Scalable IoT Architecture for Monitoring IEQ Conditions in Public and Private Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_234.md)
 * [The role of green roofs in post COVID-19 confinement: An analysis of willingness to pay](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_262.md)
 * [Adaptation of HVAC Systems to Reduce the Spread of COVID-19 in Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_214.md)
+
+## Name of the Benefit
+
+Green roofs improve buildings' energy efficiency by providing insulation, reducing the need for heating and cooling.
 

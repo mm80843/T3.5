@@ -2,6 +2,11 @@
 
 # __Surveillance systems__
 
+## This Technology belongs to this TechSubgroup
+
+* [Surveillance and Monitoring Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_147.md)
+* [Testing and Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_25.md)
+
 ## Closest similar item
 
 * [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2434.md)
@@ -15,17 +20,12 @@
 * [video surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4336.md)
 * [surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1963.md)
 
-## This Technology belongs to this TechSubgroup
-
-* [Surveillance and Monitoring Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_147.md)
-* [Testing and Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_25.md)
-
-## This Technology is identified by the following QID
-
-* [Q334401](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q334401.md)
-
 ## This Technology belongs to this TechGroup
 
 * [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
 * [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_17.md)
+
+## This Technology is identified by the following QID
+
+* [Q334401](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q334401.md)
 

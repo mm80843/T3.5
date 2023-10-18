@@ -2,6 +2,10 @@
 
 # __Marketing campaigns__
 
+## This Technology belongs to this TechSubgroup
+
+* [Crowd and Occupancy Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_13.md)
+
 ## Closest similar item
 
 * [Marketing campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2753.md)
@@ -14,10 +18,6 @@
 * [Information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2147.md)
 * [public information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_8.md)
 * [Public information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2162.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Crowd and Occupancy Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_13.md)
 
 ## This Technology belongs to this TechGroup
 

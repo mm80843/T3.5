@@ -2,10 +2,6 @@
 
 # __Efficient resource management__
 
-## Name of the Benefit
-
-Tracking key items such as protective equipment and medicine to ensure availability
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Increased efficiency in managing medical resources](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1567.md)
@@ -18,4 +14,8 @@ Tracking key items such as protective equipment and medicine to ensure availabil
 ## Articles mentionning this Benefit
 
 * [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
+
+## Name of the Benefit
+
+Tracking key items such as protective equipment and medicine to ensure availability
 

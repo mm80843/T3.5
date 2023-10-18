@@ -2,6 +2,13 @@
 
 # __natural ventilation design__
 
+## Risks linked to this technology
+
+* [Inadequate Ventilation in Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1442.md)
+
+## This Technology belongs to this TechSubgroup
+
+
 ## Closest similar item
 
 * [natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_270.md)
@@ -15,18 +22,11 @@
 * [natural/forced ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4069.md)
 * [building design and ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4390.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Inadequate Ventilation in Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1442.md)
-
-## This Technology belongs to this TechSubgroup
-
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 
 ## This Technology is identified by the following QID
 
 * [Q1427418](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1427418.md)
-
-## This Technology belongs to this TechGroup
-
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 

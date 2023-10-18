@@ -19,13 +19,6 @@
 * [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
 * [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Health risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2014.md)
-* [Fragmented governance and lack of cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2063.md)
-* [Invasive individual testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2367.md)
-* [Limited access to testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2366.md)
-
 ## Risk affecting this stakeholder
 
 * [Overwhelmed healthcare systems and operations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1901.md)
@@ -62,4 +55,11 @@
 * [Increased testing capacity and throughput](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1019.md)
 * [Prediction of infection rates](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1090.md)
 * [Enhanced response times and data collection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1091.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Health risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2014.md)
+* [Fragmented governance and lack of cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2063.md)
+* [Invasive individual testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2367.md)
+* [Limited access to testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2366.md)
 

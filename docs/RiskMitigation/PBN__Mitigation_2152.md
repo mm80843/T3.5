@@ -2,9 +2,9 @@
 
 # __Smart power strip__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_745.md)
+* [remote control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4278.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Use of new smart/innovative technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2119.md)
 * [Use of energy-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2142.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
+* [Energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_745.md)
 
 ## Property: has_MitigationPrinciple
 
 Automatically cut off energy supply when devices are not in use
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [remote control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4278.md)
+* [How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
 

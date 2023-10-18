@@ -2,9 +2,10 @@
 
 # __Public Health Education and Awareness__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of Knowledge and Awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3229.md)
+* [media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3640.md)
+* [internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3058.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Health education and communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1574.md)
 * [Health education programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2442.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Covid-19 and asset management in EU: a preliminary assessment of performance and investment styles](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_271.md)
+* [Lack of Knowledge and Awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3229.md)
 
 ## Property: has_MitigationPrinciple
 
 Educating the public about contagious diseases, their transmission, and preventive measures can help raise awareness, reduce risk-taking behavior, and promote adherence to mitigation measures.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3640.md)
-* [internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3058.md)
+* [Covid-19 and asset management in EU: a preliminary assessment of performance and investment styles](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_271.md)
 

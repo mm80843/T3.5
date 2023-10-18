@@ -2,9 +2,9 @@
 
 # __AI-based tools for biomedical research and remote patient monitoring__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Limited resources in LMIC](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_464.md)
+* [artificial intelligence and health data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3849.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Real-time Health Data Capture](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1928.md)
 * [Integration of Medical Tools and Devices through the Internet](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1935.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Exploring the Potential of Artificial Intelligence and Machine Learning to Combat COVID-19 and Existing Opportunities for LMIC: A Scoping Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_131.md)
+* [Limited resources in LMIC](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_464.md)
 
 ## Property: has_MitigationPrinciple
 
 AI can assist in biomedical research and remote monitoring to improve healthcare in LMIC
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [artificial intelligence and health data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3849.md)
+* [Exploring the Potential of Artificial Intelligence and Machine Learning to Combat COVID-19 and Existing Opportunities for LMIC: A Scoping Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_131.md)
 

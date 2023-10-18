@@ -2,6 +2,17 @@
 
 # __cloud computing__
 
+## Risks linked to this technology
+
+* [Technological limitations and dependencies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2100.md)
+* [Building closures and restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1864.md)
+* [Data management issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2085.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Communication and Data Sharing](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_3.md)
+* [Data Management and Communication Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_18.md)
+
 ## Closest similar item
 
 * [cloud service](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3388.md)
@@ -15,16 +26,15 @@
 * [data sharing systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1426.md)
 * [computers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4091.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Technological limitations and dependencies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2100.md)
-* [Building closures and restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1864.md)
-* [Data management issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2085.md)
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
+* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology is identified by the following QID
 
-* [Communication and Data Sharing](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_3.md)
-* [Data Management and Communication Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_18.md)
+* [Q483639](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q483639.md)
+* [Q105696560](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q105696560.md)
 
 ## This Technology enables the following mitigations
 
@@ -37,14 +47,4 @@
 * [Cloud-based tracing and tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_15.md)
 * [Cloud computing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2027.md)
 * [Integrated healthcare environment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_155.md)
-
-## This Technology is identified by the following QID
-
-* [Q483639](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q483639.md)
-* [Q105696560](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q105696560.md)
-
-## This Technology belongs to this TechGroup
-
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
-* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
 

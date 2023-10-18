@@ -2,6 +2,10 @@
 
 # __Temperature screening technology__
 
+## This Technology belongs to this TechSubgroup
+
+* [Touchless and Remote Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_53.md)
+
 ## Closest similar item
 
 * [Temperature screening technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2833.md)
@@ -15,15 +19,11 @@
 * [temperature detection devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3200.md)
 * [temperature monitoring devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1300.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Touchless and Remote Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_53.md)
+* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
 
 ## This Technology is identified by the following QID
 
 * [Q646](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q646.md)
-
-## This Technology belongs to this TechGroup
-
-* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
 

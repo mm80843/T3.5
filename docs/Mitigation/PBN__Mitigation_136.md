@@ -2,9 +2,9 @@
 
 # __Proper Handwashing__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Transmission of germs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2456.md)
+* [soap and clean water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2984.md)
 
 ## Closest similar item
 
@@ -19,15 +19,15 @@
 * [Proper hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_536.md)
 * [Handwashing stations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2033.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Adaptive Design of the Built Environment to Mitigate the Transmission Risk of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_151.md)
+* [Transmission of germs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2456.md)
 
 ## Property: has_MitigationPrinciple
 
 Regular handwashing with soap and water is critical in controlling the spread of infectious diseases like COVID-19.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [soap and clean water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2984.md)
+* [Adaptive Design of the Built Environment to Mitigate the Transmission Risk of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_151.md)
 

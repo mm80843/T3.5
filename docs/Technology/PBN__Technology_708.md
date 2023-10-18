@@ -2,6 +2,13 @@
 
 # __surveillance planning__
 
+## Risks linked to this technology
+
+* [Seasonal changes in wastewater temperature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1448.md)
+
+## This Technology belongs to this TechSubgroup
+
+
 ## Closest similar item
 
 * [surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1963.md)
@@ -15,18 +22,11 @@
 * [Surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2431.md)
 * [Improved surveillance infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2359.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Seasonal changes in wastewater temperature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1448.md)
-
-## This Technology belongs to this TechSubgroup
-
+* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
 
 ## This Technology is identified by the following QID
 
 * [Q334401](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q334401.md)
-
-## This Technology belongs to this TechGroup
-
-* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
 

@@ -2,6 +2,10 @@
 
 # __older people__
 
+## This Stakeholder is identified by the following QID
+
+* [Q2191986](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2191986.md)
+
 ## Closest similar item
 
 * [Older people](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2165.md)
@@ -23,8 +27,4 @@
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Increased accessibility to green space](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_187.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q2191986](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2191986.md)
 

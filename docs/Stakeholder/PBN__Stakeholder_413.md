@@ -19,6 +19,19 @@
 * [scientific studies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2901.md)
 * [research databases](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2902.md)
 
+## Risk affecting this stakeholder
+
+* [High variability in input parameters](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1052.md)
+* [Inconsistent results between concentration methods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1051.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Scientific Research](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_39.md)
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Enhanced innovation and technological capacity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1039.md)
+
 ## Risks that can be mitigated by this stakeholder
 
 * [Undetected SARS-CoV-2 in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1050.md)
@@ -63,17 +76,4 @@
 * [Lack of reliable AI forecasting models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1720.md)
 * [Loss of monitoring and research activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2175.md)
 * [Lack of detailed analysis on visitors’ attributes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2248.md)
-
-## Risk affecting this stakeholder
-
-* [High variability in input parameters](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1052.md)
-* [Inconsistent results between concentration methods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1051.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Scientific Research](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_39.md)
-
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Enhanced innovation and technological capacity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1039.md)
 

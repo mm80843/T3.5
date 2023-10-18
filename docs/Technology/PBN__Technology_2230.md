@@ -2,6 +2,10 @@
 
 # __Outdoor spaces__
 
+## This Technology belongs to this TechSubgroup
+
+* [Green Spaces and Urban Design](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_84.md)
+
 ## Closest similar item
 
 * [Outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2230.md)
@@ -14,10 +18,6 @@
 * [Outdoor furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2361.md)
 * [green spaces in residential areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_120.md)
 * [public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3580.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Green Spaces and Urban Design](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_84.md)
 
 ## This Technology belongs to this TechGroup
 

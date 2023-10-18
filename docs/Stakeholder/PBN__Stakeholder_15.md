@@ -2,6 +2,15 @@
 
 # __supply chain stakeholders__
 
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Enhanced supply chain agility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_19.md)
+* [Increased resilience and preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_21.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q1824206](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1824206.md)
+
 ## Closest similar item
 
 * [supply chain organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_14.md)
@@ -14,13 +23,4 @@
 * [community stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2444.md)
 * [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2453.md)
 * [community stakeholder](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2445.md)
-
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Enhanced supply chain agility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_19.md)
-* [Increased resilience and preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_21.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q1824206](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1824206.md)
 

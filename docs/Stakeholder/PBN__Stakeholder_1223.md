@@ -2,6 +2,10 @@
 
 # __sports industry__
 
+## This Stakeholder is identified by the following QID
+
+* [Q349](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q349.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
@@ -19,15 +23,11 @@
 * [fitness industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1145.md)
 * [industries](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_389.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Impact on sports industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1815.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Fitness and Sports](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_56.md)
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q349](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q349.md)
+* [Impact on sports industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1815.md)
 

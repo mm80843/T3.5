@@ -2,6 +2,10 @@
 
 # __Network slicing__
 
+## This Technology belongs to this TechSubgroup
+
+* [Hardware and Devices](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_117.md)
+
 ## Closest similar item
 
 * [network slicing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1582.md)
@@ -15,15 +19,11 @@
 * [scalable infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_157.md)
 * [Scalable infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2315.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Hardware and Devices](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_117.md)
+* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
 
 ## This Technology is identified by the following QID
 
 * [Q196751](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q196751.md)
-
-## This Technology belongs to this TechGroup
-
-* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
 

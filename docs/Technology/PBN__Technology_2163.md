@@ -2,6 +2,11 @@
 
 # __Community engagement strategies__
 
+## This Technology belongs to this TechSubgroup
+
+* [Public Education and Awareness Campaigns](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_40.md)
+* [Collaboration and Community Engagement Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_37.md)
+
 ## Closest similar item
 
 * [Community engagement strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2163.md)
@@ -15,16 +20,11 @@
 * [engagement with diverse groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3322.md)
 * [community engagement and ownership models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4383.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Public Education and Awareness Campaigns](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_40.md)
-* [Collaboration and Community Engagement Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_37.md)
+* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
 
 ## This Technology is identified by the following QID
 
 * [Q5154950](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5154950.md)
-
-## This Technology belongs to this TechGroup
-
-* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
 

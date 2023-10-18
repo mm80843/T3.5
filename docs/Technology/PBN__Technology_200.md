@@ -2,6 +2,16 @@
 
 # __sensors__
 
+## Risks linked to this technology
+
+* [Contagious disease transmission in built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2069.md)
+* [Poor Indoor Environmental Quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1125.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Monitoring Systems and Sensors](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_119.md)
+* [Data Collection and Analysis](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_162.md)
+
 ## Closest similar item
 
 * [Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2469.md)
@@ -15,15 +25,14 @@
 * [environmental sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3537.md)
 * [input sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3764.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechGroup
 
-* [Contagious disease transmission in built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2069.md)
-* [Poor Indoor Environmental Quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1125.md)
+* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
+* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology is identified by the following QID
 
-* [Monitoring Systems and Sensors](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_119.md)
-* [Data Collection and Analysis](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_162.md)
+* [Q26839924](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q26839924.md)
 
 ## This Technology enables the following mitigations
 
@@ -52,13 +61,4 @@
 * [Monitoring and prioritizing essential services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2357.md)
 * [Sensory networks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1959.md)
 * [Intelligent Transportation System (ITS)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1672.md)
-
-## This Technology is identified by the following QID
-
-* [Q26839924](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q26839924.md)
-
-## This Technology belongs to this TechGroup
-
-* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
-* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
 

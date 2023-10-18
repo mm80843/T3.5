@@ -19,12 +19,6 @@
 * [buyers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1217.md)
 * [lenders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1328.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Unfavorable economic climate for innovation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1599.md)
-* [Barriers to accessing funding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_560.md)
-* [Reduced sales and fixed costs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1598.md)
-
 ## Risk affecting this stakeholder
 
 * [Decline of employment and investment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2268.md)
@@ -46,4 +40,10 @@
 * [Mitigating financial risks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_838.md)
 * [improvement](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_979.md)
 * [Business support](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1012.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Unfavorable economic climate for innovation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1599.md)
+* [Barriers to accessing funding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_560.md)
+* [Reduced sales and fixed costs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1598.md)
 

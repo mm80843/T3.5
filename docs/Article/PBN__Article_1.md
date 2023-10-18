@@ -2,6 +2,27 @@
 
 # __Presence of SARS-Coronavirus-2 RNA in Sewage and Correlation with Reported COVID-19 Prevalence in the Early Stage of the Epidemic in The Netherlands__
 
+## Referenced by other articles
+
+* [SARS-CoV-2 in wastewater: potential health risk, but also data source](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_70.md)
+* [First confirmed detection of SARS-CoV-2 in untreated wastewater in Australia: A proof of concept for the wastewater surveillance of COVID-19 in the community](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_205.md)
+
+## Short summary of the article
+
+This study investigates the presence of SARS-CoV-2 RNA in domestic wastewater during the early stages of the COVID-19 epidemic in the Netherlands. Sewage samples were collected from wastewater treatment plants serving cities and the main airport in the country. The samples were analyzed using quantitative real-time polymerase chain reaction (qRT-PCR) to detect and quantify SARS-CoV-2 RNA. The results showed that SARS-CoV-2 RNA was detected in wastewater samples from some of the sites, even before the first COVID-19 case was reported in the country. There was a positive correlation between the concentration of SARS-CoV-2 RNA in the wastewater and the number of reported COVID-19 cases in the corresponding cities. These findings suggest that sewage surveillance could be a sensitive tool for early warning of increasing virus circulation in the population. However, further development of controls and quantification methods for SARS-CoV-2 in sewage is necessary to ensure reliable surveillance.
+
+## DOI of the article
+
+10.1021/acs.estlett.0c00357
+
+## This article points to following mitigation
+
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2.md)
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_217.md)
+* [Improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_265.md)
+* [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_246.md)
+* [Respiratory hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1283.md)
+
 ## Benefits listed in this article
 
 * [Early detection of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_5.md)
@@ -15,18 +36,6 @@
 Summary:
 In December 2019, a new respiratory disease called COVID-19 began in Wuhan, China. It spread to many countries and was declared a pandemic by WHO. The virus spreads mainly through droplets when people cough or sneeze. It can also be found in poop and can be detected in sewage. Researchers in the Netherlands studied sewage samples to see if they could find the virus. They found that the amount of virus in sewage increased as the number of COVID-19 cases in the city increased. This means that studying sewage can help us understand how the virus is spreading in a community.
 
-## Short summary of the article
-
-This study investigates the presence of SARS-CoV-2 RNA in domestic wastewater during the early stages of the COVID-19 epidemic in the Netherlands. Sewage samples were collected from wastewater treatment plants serving cities and the main airport in the country. The samples were analyzed using quantitative real-time polymerase chain reaction (qRT-PCR) to detect and quantify SARS-CoV-2 RNA. The results showed that SARS-CoV-2 RNA was detected in wastewater samples from some of the sites, even before the first COVID-19 case was reported in the country. There was a positive correlation between the concentration of SARS-CoV-2 RNA in the wastewater and the number of reported COVID-19 cases in the corresponding cities. These findings suggest that sewage surveillance could be a sensitive tool for early warning of increasing virus circulation in the population. However, further development of controls and quantification methods for SARS-CoV-2 in sewage is necessary to ensure reliable surveillance.
-
-## This article points to following mitigation
-
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2.md)
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_217.md)
-* [Improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_265.md)
-* [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_246.md)
-* [Respiratory hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1283.md)
-
 ## List of risks in an article
 
 * [Transmission via respiratory droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1733.md)
@@ -39,16 +48,7 @@ This study investigates the presence of SARS-CoV-2 RNA in domestic wastewater du
 
 Presence of SARS-Coronavirus-2 RNA in Sewage and Correlation with Reported COVID-19 Prevalence in the Early Stage of the Epidemic in The Netherlands
 
-## Referenced by other articles
-
-* [SARS-CoV-2 in wastewater: potential health risk, but also data source](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_70.md)
-* [First confirmed detection of SARS-CoV-2 in untreated wastewater in Australia: A proof of concept for the wastewater surveillance of COVID-19 in the community](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_205.md)
-
 ## Year of publication
 
 2020
-
-## DOI of the article
-
-10.1021/acs.estlett.0c00357
 

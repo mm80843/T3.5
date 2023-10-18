@@ -2,6 +2,10 @@
 
 # __Verification processes__
 
+## This Technology belongs to this TechSubgroup
+
+* [Enforcement and Regulation Measures](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_158.md)
+
 ## Closest similar item
 
 * [Verification processes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2494.md)
@@ -15,15 +19,11 @@
 * [data validation techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_824.md)
 * [validation platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1900.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Enforcement and Regulation Measures](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_158.md)
+* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
 
 ## This Technology is identified by the following QID
 
 * [Q2919644](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2919644.md)
-
-## This Technology belongs to this TechGroup
-
-* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
 

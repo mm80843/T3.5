@@ -2,6 +2,10 @@
 
 # __Improved surveillance and early warning systems__
 
+## This Technology belongs to this TechSubgroup
+
+* [Testing and Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_25.md)
+
 ## Closest similar item
 
 * [Improved surveillance and early warning systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2875.md)
@@ -15,15 +19,11 @@
 * [Increased surveillance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2476.md)
 * [Improved surveillance infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2359.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Testing and Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_25.md)
+* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_17.md)
 
 ## This Technology is identified by the following QID
 
 * [Q5326904](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5326904.md)
-
-## This Technology belongs to this TechGroup
-
-* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_17.md)
 

@@ -2,10 +2,6 @@
 
 # __Improved mental health outcomes__
 
-## Name of the Benefit
-
-Access to psychosocial services through telemedicine
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved quality of life and overall well-being](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_11.md)
@@ -24,4 +20,8 @@ Access to psychosocial services through telemedicine
 * [Dangerous liaisons? Applying the social harm perspective to the social inequality, housing and health trifecta during the Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_2.md)
 * [Psychological Effects of Home Confinement and Social Distancing Derived from COVID-19 in the General Population—A Systematic Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_126.md)
 * [Mental Health and the Covid-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_167.md)
+
+## Name of the Benefit
+
+Access to psychosocial services through telemedicine
 

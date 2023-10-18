@@ -2,10 +2,6 @@
 
 # __Improved care coordination__
 
-## Name of the Benefit
-
-Better management of healthcare needs, improved quality of care
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Better health outcomes, reduced healthcare costs](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_988.md)
@@ -18,4 +14,8 @@ Better management of healthcare needs, improved quality of care
 ## Articles mentionning this Benefit
 
 * [From Viral City to Smart City: Learning from Pandemic Experiences](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_183.md)
+
+## Name of the Benefit
+
+Better management of healthcare needs, improved quality of care
 

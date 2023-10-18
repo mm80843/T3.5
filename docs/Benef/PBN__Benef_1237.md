@@ -2,10 +2,6 @@
 
 # __Enriched ontology__
 
-## Name of the Benefit
-
-Fills the gap in epidemiological surveillance terms
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Advancement in epidemiological research and analysis](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1387.md)
@@ -18,4 +14,8 @@ Fills the gap in epidemiological surveillance terms
 ## Articles mentionning this Benefit
 
 * [The COVID-19 epidemiology and monitoring ontology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_259.md)
+
+## Name of the Benefit
+
+Fills the gap in epidemiological surveillance terms
 

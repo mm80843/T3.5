@@ -2,9 +2,8 @@
 
 # __Regional Recovery__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Lack of recovery support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2877.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Urban Renewal](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1284.md)
 * [Disaster management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2250.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Startups in times of crisis – A rapid response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_158.md)
+* [Lack of recovery support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2877.md)
 
 ## Property: has_MitigationPrinciple
 
 Supports and accelerates regional recovery by providing essential resources, assistance, and initiatives to startups and affected regions during the crisis and in the aftermath to ensure long-term growth and resilience.
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Startups in times of crisis – A rapid response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_158.md)
 

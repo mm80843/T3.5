@@ -2,8 +2,10 @@
 
 # __Extensive testing__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
+* [testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_610.md)
+* [laboratory facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3513.md)
 
 ## Closest similar item
 
@@ -18,16 +20,14 @@
 * [Testing and tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2091.md)
 * [Testing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_21.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [From Viral City to Smart City: Learning from Pandemic Experiences](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_183.md)
 
 ## Property: has_MitigationPrinciple
 
 Testing a large number of individuals to identify and isolate infected cases
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_610.md)
-* [laboratory facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3513.md)
+* [From Viral City to Smart City: Learning from Pandemic Experiences](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_183.md)
 

@@ -2,6 +2,10 @@
 
 # __Backup systems__
 
+## This Technology belongs to this TechSubgroup
+
+* [Data Storage and Backup Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_138.md)
+
 ## Closest similar item
 
 * [backup systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_578.md)
@@ -15,15 +19,11 @@
 * [smart storage solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1006.md)
 * [Smart storage solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2669.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Data Storage and Backup Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_138.md)
+* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_5.md)
 
 ## This Technology is identified by the following QID
 
 * [Q194274](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q194274.md)
-
-## This Technology belongs to this TechGroup
-
-* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_5.md)
 

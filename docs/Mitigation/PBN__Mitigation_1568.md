@@ -2,9 +2,8 @@
 
 # __Flexible work schedules__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_332.md)
 
 ## Closest similar item
 
@@ -19,14 +18,15 @@
 * [Adjusting schedules to avoid slowdown bottleneck](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1905.md)
 * [Online meetings and shift schedules](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2035.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [Impacts of COVID-19 on Health and Safety of Workforce in Construction Industry](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_49.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_332.md)
 
 ## Property: has_MitigationPrinciple
 
 Stagger work shifts and breaks, limit elevator usage, and adjust work sites to promote physical distancing
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
+* [Impacts of COVID-19 on Health and Safety of Workforce in Construction Industry](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_49.md)
 

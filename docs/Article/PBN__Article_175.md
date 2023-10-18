@@ -2,21 +2,13 @@
 
 # __The Socio-Spatial Determinants of COVID-19 Diffusion: The Impact of Globalisation, Settlement Characteristics and Population__
 
-## Benefits listed in this article
-
-* [Reduction in international spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_863.md)
-* [Reduction in intra-urban spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_864.md)
-* [Early detection and containment of cases](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_865.md)
-* [Increased public awareness and compliance with preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_866.md)
-* [Control and prevention of future outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_867.md)
-
-## Summary of the article
-
-The text explains that COVID-19, the disease caused by the coronavirus, spread quickly around the world because of things like global travel and urbanization. Globalization, which is the connectedness between countries, played a big role in how fast the virus spread. Places that are more globalized, like big cities and highly developed countries, had more cases of COVID-19. Population characteristics, like the number of older people and the size of households, also affected how the virus spread. The text also talks about different types of diffusion, which is how the virus spreads from person to person, and how measures like travel bans and lockdowns helped to slow the spread of the virus. Overall, the text is about how different factors affect the spread of COVID-19.
-
 ## Short summary of the article
 
 This research study investigates the impact of globalisation, settlement characteristics, and population characteristics on the diffusion of COVID-19. The study finds that globalisation, settlement density, and population characteristics all play a role in the spread of the virus, but their impact varies over time and across different quantiles of the distribution. Specifically, more developed countries with higher levels of human mobility experienced higher rates of COVID-19 diffusion, especially in the early stages of the pandemic. Population density and urbanisation also have a positive effect on disease diffusion, but their impact weakens over time. Additionally, the study finds that different types of globalisation, such as interpersonal, trade, and financial, have different effects on COVID-19 diffusion. While interpersonal globalisation has a positive effect, trade globalisation has a negative effect on the spread of the virus. The study also suggests that the diffusion of COVID-19 is primarily driven by non-local factors, such as globalisation, rather than by transmission across borders. Overall, the findings contribute to a better understanding of the socio-spatial factors that contribute to the spread of COVID-19 and have important implications for public health interventions and policies.
+
+## DOI of the article
+
+10.21203/rs.3.rs-33615/v1
 
 ## This article points to following mitigation
 
@@ -31,6 +23,18 @@ This research study investigates the impact of globalisation, settlement charact
 * [Neighborhood Isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1915.md)
 * [Lockdown Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1911.md)
 * [Ventilation Improvements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1913.md)
+
+## Benefits listed in this article
+
+* [Reduction in international spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_863.md)
+* [Reduction in intra-urban spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_864.md)
+* [Early detection and containment of cases](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_865.md)
+* [Increased public awareness and compliance with preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_866.md)
+* [Control and prevention of future outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_867.md)
+
+## Summary of the article
+
+The text explains that COVID-19, the disease caused by the coronavirus, spread quickly around the world because of things like global travel and urbanization. Globalization, which is the connectedness between countries, played a big role in how fast the virus spread. Places that are more globalized, like big cities and highly developed countries, had more cases of COVID-19. Population characteristics, like the number of older people and the size of households, also affected how the virus spread. The text also talks about different types of diffusion, which is how the virus spreads from person to person, and how measures like travel bans and lockdowns helped to slow the spread of the virus. Overall, the text is about how different factors affect the spread of COVID-19.
 
 ## List of risks in an article
 
@@ -48,8 +52,4 @@ The Socio-Spatial Determinants of COVID-19 Diffusion: The Impact of Globalisatio
 ## Year of publication
 
 2020
-
-## DOI of the article
-
-10.21203/rs.3.rs-33615/v1
 

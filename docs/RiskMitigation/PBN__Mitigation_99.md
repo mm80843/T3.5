@@ -2,9 +2,10 @@
 
 # __Data sharing__
 
-## Risks possibly mitigated by this Mitigation
+## This Mitigation is enabled by the following technologies
 
-* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2439.md)
+* [quantum cryptography](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_95.md)
+* [blockchain technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2966.md)
 
 ## Closest similar item
 
@@ -19,16 +20,15 @@
 * [Non-standardized data collection, data sharing barriers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3644.md)
 * [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3645.md)
 
-## Property: has_MitigationSource
+## Risks possibly mitigated by this Mitigation
 
-* [On the Coronavirus (COVID-19) Outbreak and the Smart City Network: Universal Data Sharing Standards Coupled with Artificial Intelligence (AI) to Benefit Urban Health Monitoring and Management](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_280.md)
+* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2439.md)
 
 ## Property: has_MitigationPrinciple
 
 Standardize protocols for seamless sharing of urban health data to monitor and assess health threats and inform decision-making
 
-## This Mitigation is enabled by the following technologies
+## Property: has_MitigationSource
 
-* [quantum cryptography](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_95.md)
-* [blockchain technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2966.md)
+* [On the Coronavirus (COVID-19) Outbreak and the Smart City Network: Universal Data Sharing Standards Coupled with Artificial Intelligence (AI) to Benefit Urban Health Monitoring and Management](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_280.md)
 

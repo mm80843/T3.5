@@ -2,6 +2,10 @@
 
 # __workers in workplaces with air recirculation systems__
 
+## This Stakeholder is identified by the following QID
+
+* [Q50429808](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q50429808.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Building Occupants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_11.md)
@@ -28,8 +32,4 @@
 
 * [Indoor Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_24.md)
 * [Sectors and Industries](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_25.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q50429808](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q50429808.md)
 

@@ -2,6 +2,10 @@
 
 # __entrepreneurs__
 
+## This Stakeholder is identified by the following QID
+
+* [Q131524](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q131524.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
@@ -19,11 +23,6 @@
 * [small businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_371.md)
 * [businesses and individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_383.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Unfavorable economic climate for innovation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1599.md)
-* [Shift in customer needs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1601.md)
-
 ## Risk affecting this stakeholder
 
 * [Exclusion from government support programs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1600.md)
@@ -38,7 +37,8 @@
 * [Improved performance and customer experience in retail and neighborhood services](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1043.md)
 * [Revitalization of commercial and artisanal spaces, enhanced public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1044.md)
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q131524](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q131524.md)
+* [Unfavorable economic climate for innovation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1599.md)
+* [Shift in customer needs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1601.md)
 

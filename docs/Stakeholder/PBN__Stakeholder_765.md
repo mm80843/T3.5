@@ -2,6 +2,10 @@
 
 # __utility companies__
 
+## This Stakeholder is identified by the following QID
+
+* [Q1951366](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1951366.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
@@ -19,14 +23,10 @@
 * [water utilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_329.md)
 * [energy provider](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2022.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Mismatched energy demand](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1253.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 
-## This Stakeholder is identified by the following QID
+## Risks that can be mitigated by this stakeholder
 
-* [Q1951366](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1951366.md)
+* [Mismatched energy demand](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1253.md)
 

@@ -2,6 +2,10 @@
 
 # __Digital payment systems__
 
+## This Technology belongs to this TechSubgroup
+
+* [Payment and Transaction Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_171.md)
+
 ## Closest similar item
 
 * [Digital payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2610.md)
@@ -15,15 +19,11 @@
 * [digital marketplaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_910.md)
 * [mobile payment applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4436.md)
 
-## This Technology belongs to this TechSubgroup
+## This Technology belongs to this TechGroup
 
-* [Payment and Transaction Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_171.md)
+* [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_10.md)
 
 ## This Technology is identified by the following QID
 
 * [Q986008](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q986008.md)
-
-## This Technology belongs to this TechGroup
-
-* [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_10.md)
 
