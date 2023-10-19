@@ -1,4 +1,0 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__Mitigation_3448 
-
-# __Ensure access to essential services during curfew hours, increase enforcement and penalties for violations.__
-
