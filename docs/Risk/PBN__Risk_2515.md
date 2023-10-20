@@ -1,0 +1,25 @@
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_2515 
+
+# __Unreliable reporting, atypical symptoms__
+
+## Category to which it belongs
+
+* [The dissemination of inaccurate, misleading, and exaggerated information, often referred to as an ’infodemic’, poses a significant challenge in accessing reliable and timely information.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_137.md)
+
+## Closest similar item
+
+* [Inaccurate symptom screening](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_674.md)
+* [Inadequate reporting and method quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1530.md)
+* [Risk of misdiagnosis or false results](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_839.md)
+* [Lack of quick and accurate diagnostics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2937.md)
+* [Misdiagnosis and fake news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_768.md)
+* [Lack of reporting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2392.md)
+* [Lack of reliable information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2798.md)
+* [Unreliable information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3084.md)
+* [Misdiagnosis and equipment malfunction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2319.md)
+* [Spread of inaccurate medical information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1842.md)
+
+## Mitigations of this risk
+
+* [Symptom screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_367.md)
+

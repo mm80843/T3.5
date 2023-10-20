@@ -1,0 +1,42 @@
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_117 
+
+# __The urban environment exacerbates the spread of vector-borne diseases and compromises wildlife conservation efforts.__
+
+## Items covered in this category
+
+* [Wildlife conservation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_151.md)
+* [Tick-borne diseases in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_65.md)
+* [Spread of tick-borne diseases due to variable climate and extreme weather events](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_59.md)
+* [Increased occurrence of ticks and tick-borne diseases in urban locations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1653.md)
+* [Climate change impacts on mosquito-borne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_758.md)
+* [Spread of mosquito-borne diseases due to variable climate and extreme weather events](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_58.md)
+* [Increased mosquito intrusion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3041.md)
+* [Increased risk of mosquito-borne diseases from bodies of water](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1656.md)
+* [Increased mosquito breeding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2892.md)
+* [Spread of invasive mosquito spp](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1633.md)
+* [Increased mosquito breeding due to heavy rainfall](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3066.md)
+* [Climate change enhancing mosquito populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1982.md)
+* [Increase in vector-borne diseases due to suburban landscape design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_60.md)
+* [Urban pests and disease vectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_66.md)
+* [Increase in pests and disease vectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2902.md)
+* [Increase in risk of west nile virus infection due to urban greening](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_61.md)
+* [Wildlife support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2633.md)
+* [Wildlife disturbance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2635.md)
+* [Increased wildlife exploitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2153.md)
+* [Insecticide resistance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2327.md)
+* [Malaria](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_938.md)
+* [Malaria case risk mapping](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_312.md)
+* [Low accessibility and affordability worsen malaria risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3050.md)
+* [Inadequate housing, sanitation, and waste management increase malaria risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3052.md)
+* [Improved surveillance and mosquito control measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_474.md)
+* [Limitations of broad-scale mosquito control programs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_760.md)
+* [Inadequate mosquito control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1634.md)
+* [Increased exposure to mosquitoes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2893.md)
+* [Increased risk of zoonotic diseases from urban rats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1655.md)
+* [Increased habitat suitability for vectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1829.md)
+* [Stagnant water provides mosquito breeding grounds](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3043.md)
+* [Increased prevalence of human schistosomiasis resulting from dam constructions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1649.md)
+* [Habitat encroachment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3213.md)
+* [Traditional materials attract mosquitoes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3042.md)
+* [Openings allow mosquito access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3044.md)
+

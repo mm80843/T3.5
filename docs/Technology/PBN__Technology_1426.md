@@ -1,0 +1,29 @@
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_1426 
+
+# __Discussion forums__
+
+## Category to which it belongs
+
+* [Digital platforms provide virtual collaboration, information sharing, online learning, social networking, customer feedback, and fundraising opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_200.md)
+
+## Closest similar item
+
+* [Forums](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1536.md)
+* [Online forums](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3236.md)
+* [Online community forums](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_425.md)
+* [Online support forums](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1246.md)
+* [Online support groups and forums](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1442.md)
+* [Chat rooms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2344.md)
+* [Social media groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_420.md)
+* [Online meeting platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1658.md)
+* [Community workshops](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1180.md)
+* [Customer feedback platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_914.md)
+
+## This technology is mentioned by
+
+* [COVID-19: A new digital dawn?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_93.md)
+
+## Risks linked to this technology
+
+* [Misinformation and communication gaps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1962.md)
+

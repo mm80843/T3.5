@@ -1,0 +1,21 @@
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3670 
+
+# __Hospital management__
+
+## Category to which it belongs
+
+* [Improving healthcare access, enhancing facilities, and strengthening healthcare systems for effective management and optimization.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_176.md)
+
+## Closest similar item
+
+* [Hospital preparation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3401.md)
+* [Management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3658.md)
+* [Effective healthcare management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1826.md)
+* [Administrative controls in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3938.md)
+* [Field hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_355.md)
+* [Healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1688.md)
+* [Equipping the hospital](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_785.md)
+* [Facility management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_732.md)
+* [Equipping hospitals and infection control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3519.md)
+* [Overwhelmed medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3366.md)
+

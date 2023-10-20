@@ -1,0 +1,37 @@
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_1985 
+
+# __Social robots__
+
+## Category to which it belongs
+
+* [The vast array of tools and systems harnessing artificial intelligence and machine learning for efficient decision-making, optimization, and automated processes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_247.md)
+
+## Closest similar item
+
+* [Social robots for continued social interactions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5343.md)
+* [Deployment of social robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5344.md)
+* [Robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2123.md)
+* [Robotics for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4994.md)
+* [Socializing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3792.md)
+* [Robot technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3203.md)
+* [Robotics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1171.md)
+* [Social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3794.md)
+* [Autonomous robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5012.md)
+* [Autonomous human behaviour](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5345.md)
+
+## This Technology belongs to this TechGroup
+
+* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_17.md)
+
+## This technology is mentioned by
+
+* [Combating COVID-19—The role of robotics in managing public health and infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_23.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Robotic and drone technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_113.md)
+
+## Risks linked to this technology
+
+* [Limited social interactions and mental health impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2349.md)
+

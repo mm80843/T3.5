@@ -1,0 +1,26 @@
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1245 
+
+# __Health agencies__
+
+## Category to which it belongs
+
+* [Government and non-government agencies and organizations involved in various areas such as health, housing, environment, and security.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_407.md)
+
+## Closest similar item
+
+* [Healthcare agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_541.md)
+* [Government health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_880.md)
+* [Public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_222.md)
+* [Healthcare agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1817.md)
+* [Public-health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_513.md)
+* [Public health agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1805.md)
+* [Public-health agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1804.md)
+* [Health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_394.md)
+* [National public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1799.md)
+* [Health authority](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1788.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Higher likelihood of covid-19 infection among immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1824.md)
+* [Lower vaccination rates among immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1826.md)
+

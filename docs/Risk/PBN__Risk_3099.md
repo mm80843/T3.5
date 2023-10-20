@@ -1,0 +1,27 @@
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_3099 
+
+# __Spread from outside__
+
+## Category to which it belongs
+
+* [The challenges and consequences of the global pandemic, including domestic violence, interrupted education, communication barriers, and employment issues, highlight the complexity of our interconnected world.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_102.md)
+
+## Closest similar item
+
+* [Airborne spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2966.md)
+* [International spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3227.md)
+* [Community spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2381.md)
+* [Outbreak spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2719.md)
+* [Contagious spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1858.md)
+* [Disease spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2614.md)
+* [Spread through respiratory droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1730.md)
+* [Spread of the disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3332.md)
+* [Spread from wuhan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1581.md)
+* [Spread through contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1731.md)
+
+## Mitigations of this risk
+
+* [Isolate and test](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1540.md)
+* [International travel ban](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1539.md)
+* [Domestic travel ban](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1542.md)
+

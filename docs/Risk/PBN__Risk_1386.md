@@ -1,0 +1,73 @@
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1386 
+
+# __Uncertainty in estimating reproduction number__
+
+## Category to which it belongs
+
+* [The challenges include the imprecision of data, uncertainty in measurements, inaccuracies, misinformation, and inconsistency in results.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_138.md)
+
+## Closest similar item
+
+* [Uncertainty in estimation of reproduction numbers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_587.md)
+* [Population susceptibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_429.md)
+* [Uncertainty in disease prevalence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3389.md)
+* [Uncertainty in epidemic modeling](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1481.md)
+* [Population density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_495.md)
+* [Uncertainty](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2389.md)
+* [Exaggerated estimates](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1507.md)
+* [Population characteristics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2052.md)
+* [High uncertainty in estimates and predictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1388.md)
+* [Impact of population density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1714.md)
+
+## Description of the risk
+
+Challenges in estimating the reproduction number due to limited testing, changes in testing policies, and high proportion of undetected infections
+
+## Is the risk affecting GBN scales
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Type of the risk
+
+* [Physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_8.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Mitigations of this risk
+
+* [Improve testing capacity and accuracy; increase data collection and surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1890.md)
+
+## Name of the risk
+
+Inability to accurately assess the effectiveness of interventions; uncertain predictions and forecasts
+
+## Stakeholders who can mitigate this risk
+
+* [Researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [Health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_394.md)
+
+## Articles mentionning the risk
+
+* [Report 13: Estimating the number of infections and the impact of non-pharmaceutical interventions on COVID-19 in 11 European countries](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_166.md)
+
+## People affected by this risk
+
+* [Researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [Policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
+* [General population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
+## Technologies linked to the risk
+
+* [Testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_608.md)
+* [Data collection and analysis tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_614.md)
+
+## Property: has_RiskType
+
+* [Technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
+

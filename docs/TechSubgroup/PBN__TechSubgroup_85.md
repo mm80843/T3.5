@@ -1,0 +1,73 @@
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [TechSubgroup](https://github.com/mm80843/T3.5/tree/main/docs/TechSubgroup/index.md) >> Individual ID:PBN__TechSubgroup_85 
+
+# __Urban planning and green spaces__
+
+## Category to which it belongs
+
+* [Creating sustainable and livable cities through thoughtful design and integration of nature.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_21.md)
+
+## Closest similar item
+
+* [Green spaces and urban design](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_84.md)
+* [Urban planning and green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_82.md)
+* [Green and outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_83.md)
+* [Urban planning and zoning](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_125.md)
+* [Infrastructure and urban planning](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_86.md)
+* [Public spaces and transportation](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_128.md)
+* [Crowd and occupancy management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_13.md)
+* [Smart city and occupancy tracking technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_150.md)
+* [Housing and building design](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_157.md)
+* [Environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_185.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [Urban planning and design strategies to manage population density and promote a well-distributed urban development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1987.md)
+* [Equitable urban planning and policies to address spatial inequalities and improve social and economic conditions in marginalized communities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1992.md)
+* [Green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_48.md)
+* [Cool roofs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_970.md)
+* [Urban planning strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_49.md)
+* [Green corridors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_971.md)
+* [Planting trees](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_972.md)
+* [Zoning regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_658.md)
+* [Urban planning regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_52.md)
+* [Design guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_166.md)
+* [Urban design principles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_922.md)
+* [Infrastructure development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_76.md)
+* [Flexible and adaptable public space designs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_724.md)
+* [Urban planning and city management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1104.md)
+* [Urban planning and design technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1106.md)
+* [Urban planning tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1839.md)
+* [Urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_920.md)
+* [Urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1176.md)
+* [Sanitation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_246.md)
+* [Placemaking initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1800.md)
+* [Green infrastructure design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1030.md)
+* [Creation of green spaces and green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1871.md)
+* [Improved urban planning strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2107.md)
+* [Urban planning and design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_657.md)
+* [Affordable and sustainable housing solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_90.md)
+* [Urban farming technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1219.md)
+* [Urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1982.md)
+* [Landscape architecture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_121.md)
+* [Community gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_122.md)
+* [Landscaping techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_921.md)
+* [Rooftop gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1784.md)
+* [Gardening spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1783.md)
+* [Development of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1617.md)
+* [Strategic master plan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1782.md)
+* [Architectural design and building technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1105.md)
+* [Urban greening initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_661.md)
+* [Urban planning strategies for incorporating green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1618.md)
+* [Green space planning strategies and design guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_723.md)
+* [Sustainable and resilient design principles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_470.md)
+* [Vegetation management techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1840.md)
+* [Green roof and wall technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1838.md)
+* [Public parks and green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1220.md)
+* [Water treatment facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_664.md)
+* [Public space design with social distancing in mind](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1497.md)
+* [Walking and cycling infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1221.md)
+* [Mixed-use development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1494.md)
+* [Promotion of outdoor activities during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2052.md)
+* [Comprehensive urban planning and risk management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1946.md)
+* [Urban planning and design strategies to manage the distribution and density of pois](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1991.md)
+

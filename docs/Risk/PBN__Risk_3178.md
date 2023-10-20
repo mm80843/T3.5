@@ -1,0 +1,25 @@
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_3178 
+
+# __Communication barriers__
+
+## Category to which it belongs
+
+* [The challenges and consequences of the global pandemic, including domestic violence, interrupted education, communication barriers, and employment issues, highlight the complexity of our interconnected world.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_102.md)
+
+## Closest similar item
+
+* [Barriers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3711.md)
+* [Communication challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1933.md)
+* [Reducing barriers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3712.md)
+* [Communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3165.md)
+* [Physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3642.md)
+* [Lack of communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1669.md)
+* [Inadequate communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1905.md)
+* [Difficulties in collaboration and communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2762.md)
+* [Inadequate means of communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1091.md)
+* [Difficulty in collaboration and communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2759.md)
+
+## Mitigations of this risk
+
+* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1664.md)
+

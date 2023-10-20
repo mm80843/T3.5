@@ -1,0 +1,25 @@
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3054 
+
+# __Artificial intelligence and diagnostic tests__
+
+## Category to which it belongs
+
+* [The vast array of tools and systems harnessing artificial intelligence and machine learning for efficient decision-making, optimization, and automated processes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_247.md)
+
+## Closest similar item
+
+* [Diagnostic testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_343.md)
+* [Diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1000.md)
+* [Diagnostic testing systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1556.md)
+* [Artificial intelligence and clinical data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3047.md)
+* [Artificial intelligence ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1712.md)
+* [Artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_356.md)
+* [Diagnostic testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1307.md)
+* [Testing and diagnostic technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1.md)
+* [Artificial intelligence and health data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3058.md)
+* [Improved diagnostic testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2804.md)
+
+## This Technology enables the following mitigations
+
+* [Ai technology for accurate and cost-effective tests](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1364.md)
+

@@ -1,0 +1,28 @@
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2460 
+
+# __Exercise equipment__
+
+## Category to which it belongs
+
+* [Promotion of knowledge and skill development through various digital platforms and resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_222.md)
+
+## Closest similar item
+
+* [Exercise equipment dumbbells](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2452.md)
+* [Equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2470.md)
+* [Medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_108.md)
+* [Proper equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2261.md)
+* [Treadmills](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2463.md)
+* [Exercise programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1222.md)
+* [Medical equipment and personnel](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3404.md)
+* [Fitness tracking devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_405.md)
+* [Portable medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_953.md)
+* [Wearable sensors for exercise monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_66.md)
+
+## This Technology enables the following mitigations
+
+* [Exercising at home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_440.md)
+* [Multicomponent exercise program](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_443.md)
+* [Regular physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1205.md)
+* [Regular exercise](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1206.md)
+

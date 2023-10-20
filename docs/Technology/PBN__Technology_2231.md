@@ -1,0 +1,28 @@
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2231 
+
+# __Smartphones__
+
+## Category to which it belongs
+
+* [The nexus of journalism and technology includes various methods of noise reduction, responsible reporting, media literacy, and communication tools.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_221.md)
+
+## Closest similar item
+
+* [Smartphone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3353.md)
+* [Mobile phones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3637.md)
+* [Smartphone technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2405.md)
+* [Mobile devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3234.md)
+* [Smartphone applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_65.md)
+* [Smartphone apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3572.md)
+* [Mobile technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2132.md)
+* [Smartphone app](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3370.md)
+* [Smartphone control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3072.md)
+* [Phone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1092.md)
+
+## This Technology enables the following mitigations
+
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_247.md)
+* [Virtual clinics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_149.md)
+* [Solidarity networks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1896.md)
+* [Broadband access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2309.md)
+

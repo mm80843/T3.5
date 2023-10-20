@@ -1,0 +1,25 @@
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_3045 
+
+# __Pools of stagnant water in construction areas__
+
+## Category to which it belongs
+
+* [Limited access to clean water and sanitation, contamination of water bodies, poor water management and treatment, and the need for improved wastewater-based epidemiology methods.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_141.md)
+
+## Closest similar item
+
+* [Stagnant pools in urban areas as breeding grounds](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3067.md)
+* [Water use patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1893.md)
+* [Poor drainage and management of water systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1817.md)
+* [Water supply disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3291.md)
+* [Water conservation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3292.md)
+* [Drinking water treatment and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1892.md)
+* [Inadequate water and sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1297.md)
+* [Stagnant water provides mosquito breeding grounds](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3043.md)
+* [Lack of running water and inadequate water storage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_470.md)
+* [Water demand](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_716.md)
+
+## Mitigations of this risk
+
+* [Construction dewatering strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1439.md)
+

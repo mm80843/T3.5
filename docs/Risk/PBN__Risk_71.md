@@ -1,0 +1,26 @@
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_71 
+
+# __Spread of respiratory viruses__
+
+## Category to which it belongs
+
+* [The propagation and transmission risks of respiratory viruses, including the coronavirus, and the need for standardized representation and understanding of virus spread, survival, and inactivation in various environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_133.md)
+
+## Closest similar item
+
+* [Respiratory viruses strain health services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1526.md)
+* [Spread of virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2484.md)
+* [Spread of the virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2415.md)
+* [Airborne transmission of respiratory animal viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_337.md)
+* [Airborne transmission of viruses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2443.md)
+* [Airborne transmission of the virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3063.md)
+* [Spread of covid-19 through respiratory droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_52.md)
+* [Inhalation of viral particles](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2542.md)
+* [Spread of infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_744.md)
+* [Virus spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2488.md)
+
+## Mitigations of this risk
+
+* [Hygienic measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_85.md)
+* [Handwashing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_86.md)
+

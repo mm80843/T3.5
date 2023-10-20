@@ -1,0 +1,29 @@
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_309 
+
+# __Strengthen risk management and cooperation__
+
+## Category to which it belongs
+
+* [Enhance collaborative and resilient communication, establish effective channels, and address public concerns to mitigate risks.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_479.md)
+
+## Closest similar item
+
+* [Risk management strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_836.md)
+* [Improve risk preparedness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_300.md)
+* [Implement risk management strategies, establish contingency plans, enhance communication and collaboration among supply chain stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2344.md)
+* [Enhance core capacities, improve risk communication, engage communities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1606.md)
+* [Infuse risk communication into policy decisions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_922.md)
+* [Foster economic resilience through improved risk management and diversification strategies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2421.md)
+* [Implement risk management strategies and contingency plans to mitigate the impact of covid-19 on construction projects.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2613.md)
+* [Treat risk communication as a process](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_923.md)
+* [Strengthen coordination and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1033.md)
+* [Acknowledge diverse levels of risk tolerance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_926.md)
+
+## Benefits linked to a risk
+
+* [Enhanced risk management and cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_312.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Shocks in global value chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_251.md)
+

@@ -1,0 +1,25 @@
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_2520 
+
+# __Monitoring mobility__
+
+## Category to which it belongs
+
+* [Insufficient oversight and data collection, limited sensor capabilities, and inadequate surveillance contribute to monitoring gaps in various contexts.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_125.md)
+
+## Closest similar item
+
+* [Lack of availability of mobility data for most cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1207.md)
+* [Urban mobility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_17.md)
+* [Global mobility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2049.md)
+* [Urban mobility and commute patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2352.md)
+* [Population mobility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_705.md)
+* [Establish a one-way mobility circulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_264.md)
+* [Surveillance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_990.md)
+* [Spatial inequalities in mobility patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1204.md)
+* [Contact tracing and monitoring technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3469.md)
+* [Remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3470.md)
+
+## Mitigations of this risk
+
+* [Checkpoint allocation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_401.md)
+

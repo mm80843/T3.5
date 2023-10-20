@@ -1,0 +1,42 @@
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_161 
+
+# __Imposing segregation and restrictions to prevent the spread of disease, including home isolation, monitoring, and mandatory measures.__
+
+## Items covered in this category
+
+* [Quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_7.md)
+* [Quarantine measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_453.md)
+* [Home quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_235.md)
+* [Quarantine/isolation measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_263.md)
+* [Household quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_653.md)
+* [Quarantines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_18.md)
+* [Monitoring quarantined individuals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1147.md)
+* [Iot-based solutions for quarantine time](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1153.md)
+* [Home isolation and quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1419.md)
+* [Quarantine and isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_530.md)
+* [Quarantining](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1689.md)
+* [Effective quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2179.md)
+* [Quarantine facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_753.md)
+* [Quarantine and isolation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1972.md)
+* [Lockdown and quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_144.md)
+* [Quarantine monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1865.md)
+* [Quarantines,](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2469.md)
+* [Quarantine support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2470.md)
+* [Quarantine for high-risk individuals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2471.md)
+* [Mandatory quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1302.md)
+* [Quarantine/isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_246.md)
+* [Implementation of containment strategies quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3693.md)
+* [Voluntary home quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_583.md)
+* [Isolation and quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2157.md)
+* [Compliance of quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1877.md)
+* [Home quarantine of household members](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2893.md)
+* [Augmented surveillance, prompt voluntary reporting, and provision of separate spaces for isolation and quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2920.md)
+* [Quarantine and self-isolation measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2605.md)
+* [Implementation of quarantine measures, social distancing, and isolation of confirmed cases](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2960.md)
+* [Quarantine of persons in contact](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1300.md)
+* [Encourage voluntary home quarantine, expand telehealth services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3970.md)
+* [Public education, social distancing, home quarantine, and travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4006.md)
+* [Quarantine and social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3418.md)
+* [Isolation and quarantine of confirmed cases and contacts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3725.md)
+* [Establish temporary isolation and quarantine rooms with necessary equipment and supplies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3484.md)
+

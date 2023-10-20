@@ -1,0 +1,25 @@
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3437 
+
+# __Thermal imaging technology__
+
+## Category to which it belongs
+
+* [Synonymous with monitoring and regulating heat levels, temperature-related equipment and devices are utilized.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_229.md)
+
+## Closest similar item
+
+* [Infrared thermal imaging cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1500.md)
+* [Thermal camera](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2693.md)
+* [Infrared thermal camera technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2401.md)
+* [Thermal scanners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1601.md)
+* [Thermal cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2194.md)
+* [High-performance infrared thermal cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3643.md)
+* [Thermographic cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3296.md)
+* [Thermal screening systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_137.md)
+* [Temperature scanners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_359.md)
+* [Thermal sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3690.md)
+
+## This Technology enables the following mitigations
+
+* [Thermal imaging-enabled facial recognition](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2047.md)
+

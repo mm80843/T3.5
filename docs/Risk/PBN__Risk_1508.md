@@ -1,0 +1,72 @@
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1508 
+
+# __Exponential community spread__
+
+## Category to which it belongs
+
+* [Overpopulated urban areas create spatial inequalities, poor living conditions, and increased risks for diseases and biodiversity loss.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_107.md)
+
+## Closest similar item
+
+* [Community spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2381.md)
+* [Community transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2434.md)
+* [Outbreak spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2719.md)
+* [International spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3227.md)
+* [Contagion spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2053.md)
+* [Community mitigation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_405.md)
+* [Timing of community measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1345.md)
+* [Homogeneous mixing assumptions in epidemic models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1206.md)
+* [Spread of contagious epidemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_936.md)
+* [Spread from outside](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3099.md)
+
+## Description of the risk
+
+It is difficult to differentiate between exponential community spread and increased testing capacity
+
+## Is the risk affecting GBN scales
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Type of the risk
+
+* [Physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_0.md)
+
+## Mitigations of this risk
+
+* [Improve testing methods, consider testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2044.md)
+
+## Name of the risk
+
+Misinterpretation of epidemic curve, inappropriate responses
+
+## Stakeholders who can mitigate this risk
+
+* [Public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_222.md)
+* [Policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
+
+## Articles mentionning the risk
+
+* [Coronavirus disease 2019: The harms of exaggerated information and non‐evidence‐based measures](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_101.md)
+
+## People affected by this risk
+
+* [Policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
+* [General public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+
+## Technologies linked to the risk
+
+* [Data analysis tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_552.md)
+* [Advanced testing methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_801.md)
+
+## Property: has_RiskType
+
+* [Technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
+

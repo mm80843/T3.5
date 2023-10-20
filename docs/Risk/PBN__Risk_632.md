@@ -1,0 +1,25 @@
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_632 
+
+# __Fragmented urban planning and service delivery__
+
+## Category to which it belongs
+
+* [Overpopulated urban areas create spatial inequalities, poor living conditions, and increased risks for diseases and biodiversity loss.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_107.md)
+
+## Closest similar item
+
+* [Improved urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3467.md)
+* [Urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3466.md)
+* [Urban mobility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_17.md)
+* [Urban planning and design to create more open space, improve infrastructure, and promote safe transportation options.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3468.md)
+* [Urban management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2388.md)
+* [Future city planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_996.md)
+* [Revisit planning strategies, redefine compactness and density considerations, implement new urban layout planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3836.md)
+* [Alternative planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3749.md)
+* [Inadequate public transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1639.md)
+* [Adequate planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3748.md)
+
+## Mitigations of this risk
+
+* [Strategic alignment processes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_875.md)
+

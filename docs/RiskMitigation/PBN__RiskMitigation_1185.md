@@ -1,0 +1,29 @@
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_1185 
+
+# __Increase vaccination coverage__
+
+## Category to which it belongs
+
+* [Develop and promote vaccinations, prioritize vulnerable populations, improve access, and educate the public for global vaccine coverage.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_498.md)
+
+## Closest similar item
+
+* [Ensuring global coverage of vaccination](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_726.md)
+* [Improve access to vaccination through targeted distribution and community outreach.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2540.md)
+* [Develop vaccines and promote vaccination programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2756.md)
+* [Prioritize vaccination and medical care for vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2758.md)
+* [Ensuring vaccination equity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1375.md)
+* [Incorporating vaccination uptake](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_685.md)
+* [Vaccination uptake](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_508.md)
+* [Improve access to vaccination for immigrants, provide targeted outreach and education on the importance of vaccination.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2427.md)
+* [Design and implement mass vaccination clinics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_198.md)
+* [Promote healthy lifestyles, vaccination campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2293.md)
+
+## Benefits linked to a risk
+
+* [Reduced risk of reinfection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1184.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Higher risk of reinfection in unvaccinated individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_862.md)
+

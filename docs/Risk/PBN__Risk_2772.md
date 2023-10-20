@@ -1,0 +1,33 @@
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_2772 
+
+# __Transmission of infection__
+
+## Category to which it belongs
+
+* [Spread of contagious diseases and pathogens, including zoonotic infections, through various transmission routes and environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
+
+## Closest similar item
+
+* [Transmission from infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3273.md)
+* [Transmission of pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2475.md)
+* [Infectious disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_942.md)
+* [Spread of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2380.md)
+* [Transmission of disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2725.md)
+* [Infection and transmission to healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3221.md)
+* [Transmission of the virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2821.md)
+* [Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2585.md)
+* [Transmission of the disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3250.md)
+* [Infection propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2235.md)
+
+## Mitigations of this risk
+
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2.md)
+* [Quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_7.md)
+* [Wearing masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_215.md)
+* [Handwashing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_799.md)
+* [Isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_737.md)
+* [Barrier measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_904.md)
+* [Personal protection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_905.md)
+* [Wearing gloves](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_902.md)
+* [Wearing gowns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_903.md)
+

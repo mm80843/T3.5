@@ -1,0 +1,25 @@
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1078 
+
+# __Tours__
+
+## Category to which it belongs
+
+* [People using public transportation, travelers during a pandemic, tourism industry, transportation providers, and industries reliant on tourism and travel.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_445.md)
+
+## Closest similar item
+
+* [Tourists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_72.md)
+* [Tourist](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2367.md)
+* [Travelers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_558.md)
+* [Tourism operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1938.md)
+* [Visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_118.md)
+* [Tourism organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1477.md)
+* [Tourism boards](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1605.md)
+* [Tourism destinations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1075.md)
+* [Tourism providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_722.md)
+* [Tourism operator](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1973.md)
+
+## Risk affecting this stakeholder
+
+* [Performance risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_86.md)
+

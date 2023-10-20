@@ -1,0 +1,25 @@
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_3330 
+
+# __Inflexible or strict lockdown measures__
+
+## Category to which it belongs
+
+* [Protection of vulnerable groups and individuals during the lockdown, while addressing cybersecurity threats and ensuring the use of personal protective equipment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_101.md)
+
+## Closest similar item
+
+* [Lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3429.md)
+* [Enforcing lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3430.md)
+* [Early enforcement of lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3431.md)
+* [Mandatory lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3432.md)
+* [Conditional lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3433.md)
+* [Phasing out of lockdown with local strategies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4552.md)
+* [Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1866.md)
+* [Lockdown impact on mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_886.md)
+* [Zone-based lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4637.md)
+* [Mental health issues due to extended lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_729.md)
+
+## Mitigations of this risk
+
+* [Flexibility in lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2146.md)
+

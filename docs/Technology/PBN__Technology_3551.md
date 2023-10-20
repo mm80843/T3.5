@@ -1,0 +1,25 @@
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3551 
+
+# __Smart windows__
+
+## Category to which it belongs
+
+* [Environments designed for flexibility, with spacious screens, segregated areas, automated windows, and ergonomic furniture.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_237.md)
+
+## Closest similar item
+
+* [Automated windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1352.md)
+* [Windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_140.md)
+* [Operable windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3147.md)
+* [Openable windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1746.md)
+* [Smart technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3718.md)
+* [Open windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2959.md)
+* [Smart systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2478.md)
+* [Drive-through window systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3308.md)
+* [Windows with views](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1009.md)
+* [Smart devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2120.md)
+
+## This Technology enables the following mitigations
+
+* [Natural light](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2057.md)
+

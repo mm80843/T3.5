@@ -1,0 +1,73 @@
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1522 
+
+# __Limited accessibility__
+
+## Category to which it belongs
+
+* [Barriers to access and connectivity pose challenges in various areas, from healthcare to education and resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_128.md)
+
+## Closest similar item
+
+* [Accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3271.md)
+* [Limited data accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2682.md)
+* [Limited accessibility due to education level](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2222.md)
+* [Limited accessibility, security and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3173.md)
+* [Limited accessibility for low-income citizens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2221.md)
+* [Low adoption and accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1939.md)
+* [Access restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_734.md)
+* [Misinformation, accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2955.md)
+* [Limited accessibility to ugs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1677.md)
+* [Limited access to outdoor environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2701.md)
+
+## Description of the risk
+
+Not all stakeholders have access to the data collected by the Newcastle Urban Observatory
+
+## Is the risk affecting GBN scales
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Type of the risk
+
+* [Other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_4.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_6.md)
+
+## Mitigations of this risk
+
+* [Ensure data sharing platforms and policies are in place for all interested stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2060.md)
+
+## Name of the risk
+
+Inequitable access to information for decision-making
+
+## Stakeholders who can mitigate this risk
+
+* [Local government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_307.md)
+* [Newcastle urban observatory](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_988.md)
+
+## Articles mentionning the risk
+
+* [Smart cities and a data-driven response to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_164.md)
+
+## People affected by this risk
+
+* [Researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [Public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
+* [Decision-makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_227.md)
+
+## Technologies linked to the risk
+
+* [Data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_152.md)
+* [Open data policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_821.md)
+
+## Property: has_RiskType
+
+* [Social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
+

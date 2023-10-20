@@ -1,0 +1,25 @@
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_2505 
+
+# __Infection through contact__
+
+## Category to which it belongs
+
+* [Spread of contagious diseases and pathogens, including zoonotic infections, through various transmission routes and environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
+
+## Closest similar item
+
+* [Direct contact with infectious material](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2578.md)
+* [Direct contact with infectious individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2580.md)
+* [Close contact with infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2976.md)
+* [Spread of infections through surface touch](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2446.md)
+* [Risk of infection through face-to-face contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_849.md)
+* [Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2585.md)
+* [Spread of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2380.md)
+* [Transmission of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2772.md)
+* [Infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2298.md)
+* [Disease transmission through personal contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2743.md)
+
+## Mitigations of this risk
+
+* [Risk reduction in face-to-face contact](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_360.md)
+

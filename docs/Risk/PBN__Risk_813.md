@@ -1,0 +1,74 @@
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_813 
+
+# __Suboptimal data science literacy__
+
+## Category to which it belongs
+
+* [Limited and fragmented data availability and interoperability hinder analysis, decision-making, and trust in the reliability of information.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_124.md)
+
+## Closest similar item
+
+* [Data governance and management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3542.md)
+* [Data management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_721.md)
+* [Lack of digital literacy and skills](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2302.md)
+* [Non-standardized data collection, heterogeneity in data terminologies, data sharing barriers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2588.md)
+* [Lack of data standardization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1919.md)
+* [Lack of data-driven decision making](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2529.md)
+* [Lack of standardisation, data format limitations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2596.md)
+* [Lack of comprehensive data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2532.md)
+* [Lack of interoperable data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2683.md)
+* [Lack of free and accessible data formats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2601.md)
+
+## Description of the risk
+
+Lack of interdisciplinary collaboration and technical skills in healthcare professionals hinder data sharing
+
+## Is the risk affecting GBN scales
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Type of the risk
+
+* [Other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+
+## Mitigations of this risk
+
+* [Interdisciplinary collaboration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1118.md)
+* [Increase collaboration and digital literacy, enhance data management skills](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2818.md)
+
+## Name of the risk
+
+Inadequate data quality and availability, limited data management capacity
+
+## Stakeholders who can mitigate this risk
+
+* [Healthcare institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_269.md)
+* [Research organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_849.md)
+
+## Articles mentionning the risk
+
+* [Challenges of data sharing in European Covid-19 projects: A learning opportunity for advancing pandemic preparedness and response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_230.md)
+
+## People affected by this risk
+
+* [Healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
+* [Data scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_625.md)
+* [It engineers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1463.md)
+* [Legal experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_630.md)
+
+## Technologies linked to the risk
+
+* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_RiskType
+
+* [Social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
+

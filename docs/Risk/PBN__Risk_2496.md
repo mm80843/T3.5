@@ -1,0 +1,25 @@
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_2496 
+
+# __Media fatigue, avoidance__
+
+## Category to which it belongs
+
+* [Reduced physical activity, isolation, discomfort, information asymmetry, and non-compliance negatively impact health and well-being in indoor environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_113.md)
+
+## Closest similar item
+
+* [Stress and mental fatigue](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2451.md)
+* [Mental stress and fatigue](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2774.md)
+* [Stress, fatigue, poor mental well-being](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2445.md)
+* [Lack of communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1669.md)
+* [Increased fear, disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2607.md)
+* [Pandemic fatigue](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1218.md)
+* [Lack of communication and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1686.md)
+* [Lack of coordination and communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2868.md)
+* [Inadequate communication and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1491.md)
+* [Overwhelm, stress](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3109.md)
+
+## Mitigations of this risk
+
+* [Content analysis of news](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_318.md)
+

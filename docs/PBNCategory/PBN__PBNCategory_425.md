@@ -1,0 +1,41 @@
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_425 
+
+# __People requiring mental health support, including those with pre-existing conditions and marginalized communities with limited access to services.__
+
+## Items covered in this category
+
+* [Individuals with mental health issues](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_8.md)
+* [Individuals with mental health conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1413.md)
+* [Individuals with mental illness](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1559.md)
+* [Individuals with mental health needs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1369.md)
+* [Individual with mental health condition](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2079.md)
+* [Individuals with psychiatric disorders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_448.md)
+* [Individuals with previous mental health issues](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1335.md)
+* [People with psychiatric disorders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1173.md)
+* [Individual with mental health need](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2204.md)
+* [Individuals in need of mental health support](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1341.md)
+* [Individuals with previous mental health or psychiatric illnesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_266.md)
+* [Mental health professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_368.md)
+* [Individuals with pre-existing mental health conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_658.md)
+* [Mental health practitioners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_476.md)
+* [Individual with pre-existing mental health condition](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2189.md)
+* [Mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1029.md)
+* [Mental health experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_692.md)
+* [Mental health providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1497.md)
+* [Patients in need of psychosocial assessment and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_343.md)
+* [Mental health assessments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2613.md)
+* [Individual in need of mental health support](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2389.md)
+* [Social and mental health experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2762.md)
+* [Mental health support services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2609.md)
+* [Mental health care support](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2608.md)
+* [Mental health resources](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2610.md)
+* [Mental health education programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2612.md)
+* [Social and mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2611.md)
+* [Mental health service providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_475.md)
+* [Online mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3329.md)
+* [Individual with previou mental health issue](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2258.md)
+* [Marginalized communities with limited access to mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1342.md)
+* [Individual in need of mental health support; individual with pre-existing mental health conditions; marginalized community with limited acce to mental health service](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2089.md)
+* [Individual in need of mental health support; individual with pre-existing mental health conditions; marginalized community with limited acces to mental health service](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2226.md)
+* [Individuals in need of mental health support; individuals with pre-existing mental health conditions; marginalized communities with limited access to mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2223.md)
+

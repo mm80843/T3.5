@@ -1,0 +1,72 @@
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1100 
+
+# __Scalability__
+
+## Category to which it belongs
+
+* [The challenges and consequences of the global pandemic, including domestic violence, interrupted education, communication barriers, and employment issues, highlight the complexity of our interconnected world.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_102.md)
+
+## Closest similar item
+
+* [Performance, scalability, accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2394.md)
+* [Data breaches, scalability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2946.md)
+* [Scalability and qos provisioning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2071.md)
+* [Flexibility and speed](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3301.md)
+* [Capacity overload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2630.md)
+* [Lack of capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3187.md)
+* [Business viability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2464.md)
+* [Higher costs and complexity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2657.md)
+* [And capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_773.md)
+* [Changing needs and capacities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2919.md)
+
+## Description of the risk
+
+Difficulty in scaling up the proposed framework due to the use of blockchain technology and the management of large volumes of data.
+
+## Is the risk affecting GBN scales
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Type of the risk
+
+* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_6.md)
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_5.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Mitigations of this risk
+
+* [Invest in scalable infrastructure, optimize data storage and processing.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1545.md)
+
+## Name of the risk
+
+Inefficient use of resources, decreased system performance.
+
+## Stakeholders who can mitigate this risk
+
+* [Government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_55.md)
+* [It professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_626.md)
+
+## Articles mentionning the risk
+
+* [Leveraging Digital Transformation Technologies to Tackle COVID-19: Proposing a Privacy-First Holistic Framework](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_297.md)
+
+## People affected by this risk
+
+* [Government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_55.md)
+* [Technology providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_628.md)
+
+## Technologies linked to the risk
+
+* [Data management techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_158.md)
+* [Scalable infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_157.md)
+
+## Property: has_RiskType
+
+* [Technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
+

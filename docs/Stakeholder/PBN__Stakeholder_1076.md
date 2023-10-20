@@ -1,0 +1,25 @@
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1076 
+
+# __Individuals traveling during pandemic__
+
+## Category to which it belongs
+
+* [People using public transportation, travelers during a pandemic, tourism industry, transportation providers, and industries reliant on tourism and travel.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_445.md)
+
+## Closest similar item
+
+* [Individuals traveling during a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2032.md)
+* [Individual traveling during a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2047.md)
+* [Individuals and communities affected by pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_341.md)
+* [Traveling individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2834.md)
+* [Pandemic areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_45.md)
+* [People in indoor environments during an epidemic](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1185.md)
+* [Individuals under quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_268.md)
+* [Individuals in quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_606.md)
+* [Individuals in the vicinity of infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1451.md)
+* [Individuals in close proximity to infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_739.md)
+
+## Risk affecting this stakeholder
+
+* [Social risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_85.md)
+
